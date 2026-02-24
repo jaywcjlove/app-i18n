@@ -88,6 +88,54 @@ App i18n
 brew install jaywcjlove/tap/appi18n
 ```
 
+## 构建
+
+需要 Swift 5.9+。
+
+```bash
+swift build -c release
+# 可执行文件位置：
+# .build/release/appi18n
+```
+
+## 测试 / 命令试用
+
+查看帮助：
+
+```bash
+swift run appi18n --help
+```
+
+从 Xcode 项目提取 `.xcstrings`：
+
+```bash
+swift run appi18n extract /path/to/YourApp
+```
+
+将 `.xcstrings` 转换为 `.lproj`：
+
+```bash
+swift run appi18n to-lproj
+```
+
+将 `.lproj` 更新回 `.xcstrings`：
+
+```bash
+swift run appi18n to-xcstrings
+```
+
+检查翻译状态：
+
+```bash
+swift run appi18n status
+```
+
+清理空/过时 `.lproj` 文件：
+
+```bash
+swift run appi18n clean
+```
+
 ## App i18n CLI 命令帮助
 
 ```

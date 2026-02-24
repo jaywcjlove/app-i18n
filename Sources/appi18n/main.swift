@@ -1,0 +1,1 @@
+AppI18n.main()

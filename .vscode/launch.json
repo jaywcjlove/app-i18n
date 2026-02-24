@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:app-i18n}",
+            "name": "Debug appi18n",
+            "target": "appi18n",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug appi18n"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:app-i18n}",
+            "name": "Release appi18n",
+            "target": "appi18n",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release appi18n"
+        }
+    ]
+}

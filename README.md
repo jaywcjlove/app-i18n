@@ -87,6 +87,54 @@ it also supports converting back to `.xcstrings` to ensure seamless integration 
 brew install jaywcjlove/tap/appi18n
 ```
 
+## Build
+
+Requires Swift 5.9+.
+
+```bash
+swift build -c release
+# The executable will be at:
+# .build/release/appi18n
+```
+
+## Test / Try Commands
+
+Show help:
+
+```bash
+swift run appi18n --help
+```
+
+Extract `.xcstrings` from an Xcode project:
+
+```bash
+swift run appi18n extract /path/to/YourApp
+```
+
+Convert `.xcstrings` to `.lproj`:
+
+```bash
+swift run appi18n to-lproj
+```
+
+Update `.xcstrings` from `.lproj`:
+
+```bash
+swift run appi18n to-xcstrings
+```
+
+Check translation status:
+
+```bash
+swift run appi18n status
+```
+
+Clean empty/outdated `.lproj` files:
+
+```bash
+swift run appi18n clean
+```
+
 ## App i18n CLI Command Help
 
 ```
