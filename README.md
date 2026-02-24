@@ -1,7 +1,7 @@
 App i18n
 ===
 
-Lightweight CLI tool for unifying and optimizing the internationalization (i18n) workflow across multiple apps.
+Lightweight CLI tool for unifying and optimizing the internationalization (i18n) workflow across multiple apps. This project also contains my app internationalization files stored in the `i18n` directory.
 
 `appi18n` helps you perform bidirectional conversion between `.xcstrings` and `.lproj`, making localization files more suitable for multi-person Git collaboration and AI batch translation, while maintaining seamless integration with Xcode.
 
@@ -41,8 +41,119 @@ it also supports converting back to `.xcstrings` to ensure seamless integration 
 * Improves AI translation efficiency
 * Makes internationalization a repeatable, automatable process
 
+## MyApp i18n
+
+```
+./i18n
+├── lproj
+│   ├── menuist
+│   │   ├── en.lproj
+│   │   │   ├── finder-extension
+│   │   │   │   └── Localizable.strings
+│   │   │   ├── InfoPlist.strings
+│   │   │   ├── Localizable.strings
+│   │   │   └── quick-look
+│   │   │       └── Localizable.strings
+│   │   └── zh-Hans.lproj
+│   │       ├── finder-extension
+│   │       │   └── Localizable.strings
+│   │       ├── InfoPlist.strings
+│   │       ├── Localizable.strings
+│   │       └── quick-look
+│   │           └── Localizable.strings
+│   └── scap/
+│       ├── en.lproj
+│       │   ├── Localizable.strings
+│       │   └── InfoPlist.strings
+│       └── zh-Hans.lproj
+│           ├── Localizable.strings
+│           └── InfoPlist.strings
+└── source
+    ├── menuist
+    │   ├── finder-extension
+    │   │   └── Localizable.xcstrings
+    │   ├── InfoPlist.xcstrings
+    │   ├── Localizable.xcstrings
+    │   └── quick-look
+    │       └── Localizable.xcstrings
+    └── scap
+        ├── InfoPlist.xcstrings
+        └── Localizable.xcstrings
+```
+
 ## Installation (Coming Soon)
 
 ```bash
 brew install jaywcjlove/tap/appi18n
+```
+
+## App i18n CLI Command Help
+
+```
+Usage: appi18n <command> [options]
+
+Commands:
+  extract      Extract all .xcstrings from Xcode project to i18n/source
+  to-lproj     Convert .xcstrings to .lproj structure (default output to i18n/lproj)
+  to-xcstrings Convert .lproj back to .xcstrings (for importing to Xcode)
+  status       Check translation status (missing / incomplete languages)
+  clean        Clean outdated/empty .lproj files
+  help         Show this help information
+```
+
+### `extract`
+
+Extract `.xcstrings` files from the project to the `i18n/source` directory
+
+```shell
+$ appi18n extract ~/path/to/menuist/
+```
+
+Index the following `.xcstrings` files
+
+```
+├── Menuist
+│   ├── InfoPlist.xcstrings
+│   ├── Localizable.xcstrings
+├── Menuist.xcodeproj
+├── MenuistFinderExtension
+│   ├── Info.plist
+│   └── Localizable.xcstrings
+├── QuickLookPreview
+│   ├── Info.plist
+│   └── Localizable.xcstrings
+└── commons
+```
+
+Internationalization files will be extracted to the `i18n/source` directory
+
+```
+./i18n
+    ├── lproj
+    └── source
+        ├── menuist
+        │   ├── finder-extension
+        │   │   └── Localizable.xcstrings
+        │   ├── InfoPlist.xcstrings
+        │   ├── Localizable.xcstrings
+        │   └── quick-look
+        │       └── Localizable.xcstrings
+```
+
+### `to-lproj` 
+
+1. If the corresponding .strings file does not exist, it will be created automatically
+2. Existing key-value pairs will not be overwritten
+3. If a key's value is empty, the default value will be filled in for reference
+
+```shell
+$ appi18n to-lproj
+```
+
+### `to-xcstrings`
+
+1. Extract values from `.strings` and put them into the `.xcstrings` file
+
+```shell
+$ appi18n to-xcstrings
 ```
