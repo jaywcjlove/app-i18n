@@ -1,7 +1,7 @@
 App i18n
 ===
 
-轻量级命令行工具，用于统一管理和优化多个 App 的国际化（i18n）流程。
+轻量级命令行工具，用于统一管理和优化多个 App 的国际化（i18n）流程。当前项目也包含我的应用国际化文件存放在 `i18n` 目录中。
 
 `appi18n` 帮助你在 `.xcstrings` 与 `.lproj` 之间进行双向转换，使本地化文件更适合多人 Git 协作与 AI 批量翻译，同时保持与 Xcode 的无缝集成。
 
@@ -42,8 +42,119 @@ App i18n
 * 提高 AI 翻译效率
 * 让国际化成为一个可重复、可自动化的流程
 
+## MyApp i18n
+
+```
+./i18n
+├── lproj
+│   ├── menuist
+│   │   ├── en.lproj
+│   │   │   ├── finder-extension
+│   │   │   │   └── Localizable.strings
+│   │   │   ├── InfoPlist.strings
+│   │   │   ├── Localizable.strings
+│   │   │   └── quick-look
+│   │   │       └── Localizable.strings
+│   │   └── zh-Hans.lproj
+│   │       ├── finder-extension
+│   │       │   └── Localizable.strings
+│   │       ├── InfoPlist.strings
+│   │       ├── Localizable.strings
+│   │       └── quick-look
+│   │           └── Localizable.strings
+│   └── scap/
+│       ├── en.lproj
+│       │   ├── Localizable.strings
+│       │   └── InfoPlist.strings
+│       └── zh-Hans.lproj
+│           ├── Localizable.strings
+│           └── InfoPlist.strings
+└── source
+    ├── menuist
+    │   ├── finder-extension
+    │   │   └── Localizable.xcstrings
+    │   ├── InfoPlist.xcstrings
+    │   ├── Localizable.xcstrings
+    │   └── quick-look
+    │       └── Localizable.xcstrings
+    └── scap
+        ├── InfoPlist.xcstrings
+        └── Localizable.xcstrings
+```
+
 ## 安装（待发布）
 
 ```bash
 brew install jaywcjlove/tap/appi18n
+```
+
+## App i18n CLI 命令帮助
+
+```
+Usage: appi18n <command> [options]
+
+Commands:
+  extract      从 Xcode 项目中提取所有 .xcstrings 到 i18n/source
+  to-lproj     将 .xcstrings 转换为 .lproj 结构 (默认输出到 i18n/lproj)
+  to-xcstrings 将 .lproj 转换回 .xcstrings (用于导入 Xcode)
+  status       检查翻译状态 (missing / incomplete 语言)
+  clean        清理过时/空 .lproj 文件
+  help         显示此帮助信息
+```
+
+### `extract`
+
+从项目中提取 `.xcstrings` 到 `i18n/source` 目录中
+
+```shell
+$ appi18n extract ~/path/to/menuist/
+```
+
+索引到下面 `.xcstrings` 文件
+
+```
+├── Menuist
+│   ├── InfoPlist.xcstrings
+│   ├── Localizable.xcstrings
+├── Menuist.xcodeproj
+├── MenuistFinderExtension
+│   ├── Info.plist
+│   └── Localizable.xcstrings
+├── QuickLookPreview
+│   ├── Info.plist
+│   └── Localizable.xcstrings
+└── commons
+```
+
+国际化文件将被提取到 `i18n/source` 目录中
+
+```
+./i18n
+    ├── lproj
+    └── source
+        ├── menuist
+        │   ├── finder-extension
+        │   │   └── Localizable.xcstrings
+        │   ├── InfoPlist.xcstrings
+        │   ├── Localizable.xcstrings
+        │   └── quick-look
+        │       └── Localizable.xcstrings
+```
+
+### `to-lproj` 
+
+1. 若对应的 .strings 文件不存在，则自动创建
+2. 已存在的键值不会被覆盖
+3. 若某个键的值为空，则填入默认值以供参考
+
+```shell
+$ appi18n to-lproj
+```
+
+### `to-xcstrings`
+
+1. 提取 `.strings` 中的值放到 `.xcstrings` 文件中
+
+```shell
+$ appi18n to-lproj
 ```
