@@ -1,32 +1,48 @@
 App i18n
 ===
 
-A lightweight CLI tool to streamline and unify the i18n workflow for multiple iOS/macOS apps.
+Lightweight CLI tool for unifying and optimizing the internationalization (i18n) workflow across multiple apps.
 
-## Key Features
+`appi18n` helps you perform bidirectional conversion between `.xcstrings` and `.lproj`, making localization files more suitable for multi-person Git collaboration and AI batch translation, while maintaining seamless integration with Xcode.
 
-- Bidirectional conversion: `.strings` ⇄ `.lproj` folders
-- `.lproj` structure optimized for AI batch translation
-- Centralized management of localization files across multiple apps
-- CLI-first, scriptable & CI/CD friendly
+## Why is it needed?
 
-## .xcstrings vs .lproj
+In scenarios with multi-person collaboration and AI-assisted translation, `.xcstrings` has these practical issues:
 
-| Feature            | .xcstrings (String Catalogs)          | .lproj (Traditional)               |
-|--------------------|---------------------------------------|-------------------------------------|
-| Xcode Experience   | Excellent (auto-extract, visual status, missing/stale flags) | Basic (manual maintenance)         |
-| Git Conflicts      | High (single file, unstable order)    | Very low (per-language files)      |
-| Team/Outsourced Translation | Poor                               | Excellent (independent per language) |
-| AI Batch Translation | Average                             | Best (clean structure, easy to feed AI) |
-| Apple Recommendation | Strongly recommended (Xcode 15+ future standard) | Still fully supported underlying   |
+* Single-file structure, prone to Git conflicts
+* Multiple languages concentrated in one file, not conducive to splitting translation tasks
+* Large file size, consumes too many tokens when fed to AI in batch, can even cause translation interruptions
 
-## Why appi18n?
+`appi18n` splits `.xcstrings` into a well-structured `.lproj` directory for easier maintenance and collaboration;  
+it also supports converting back to `.xcstrings` to ensure seamless integration with the Xcode workflow, enjoying Xcode’s automatic extraction + visual translation status.
 
-- 🔁 Seamless `.strings` ↔ `.lproj` conversion
-- 🤖 Best format for feeding AI translation engines
-- 📦 Manage i18n for multiple apps in one place
-- ⚡ Lightweight, fast, CLI-driven
-- 🛠 Reduces missed translations & Git pain
+## Core Capabilities
 
-Install: `brew install jaywcjlove/tap/appi18n` (coming soon)  
-Docs & Examples: https://github.com/jaywcjlove/appi18n
+* 🔁 Bidirectional conversion: `.xcstrings` ⇄ `.lproj`
+* 🤖 `.lproj` structure better suited for AI batch translation
+* 👥 Facilitates multi-person Git collaborative maintenance
+* 📦 Supports unified management of localization files for multiple apps
+* ⚡ CLI-first, easy to script and integrate with CI/CD
+
+## `.xcstrings` vs `.lproj`
+
+| Feature            | `.xcstrings`                          | `.lproj`                          |
+|--------------------|---------------------------------------|-----------------------------------|
+| Xcode Experience   | Excellent (auto extraction, visual translation status) | Average (requires manual maintenance) |
+| Git Conflicts      | High (single file prone to conflicts) | Very low (language-independent files) |
+| Team Collaboration | Not friendly                          | Very friendly                     |
+| AI Batch Translation | Average                             | Excellent                         |
+| Apple Recommendation | Strongly recommended (Xcode 15+)   | Compatible with underlying implementation |
+
+## Value Brought by appi18n
+
+* Reduces Git conflicts
+* Lowers missed translations
+* Improves AI translation efficiency
+* Makes internationalization a repeatable, automatable process
+
+## Installation (Coming Soon)
+
+```bash
+brew install jaywcjlove/tap/appi18n
+```
