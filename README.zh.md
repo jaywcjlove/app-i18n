@@ -96,7 +96,7 @@ Usage: appi18n <command> [options]
 Commands:
   extract      从 Xcode 项目中提取所有 .xcstrings 到 i18n/source
   to-lproj     将 .xcstrings 转换为 .lproj 结构 (默认输出到 i18n/lproj)
-  to-xcstrings 将 .lproj 转换回 .xcstrings (用于导入 Xcode)
+  to-xcstrings 将 .lproj 更新到 .xcstrings (用于导入 Xcode)中
   status       检查翻译状态 (missing / incomplete 语言)
   clean        清理过时/空 .lproj 文件
   help         显示此帮助信息
@@ -153,7 +153,11 @@ $ appi18n to-lproj
 
 ### `to-xcstrings`
 
+将 `.lproj` 更新到 `.xcstrings` (用于导入 Xcode)中
+
 1. 提取 `.strings` 中的值放到 `.xcstrings` 文件中
+2. `.xcstrings` 中已存在的键值会被 `.strings` 中的值覆盖
+3. `.strings` 中的空值不会更新到 `.xcstrings` 文件中
 
 ```shell
 $ appi18n to-lproj

@@ -95,7 +95,7 @@ Usage: appi18n <command> [options]
 Commands:
   extract      Extract all .xcstrings from Xcode project to i18n/source
   to-lproj     Convert .xcstrings to .lproj structure (default output to i18n/lproj)
-  to-xcstrings Convert .lproj back to .xcstrings (for importing to Xcode)
+  to-xcstrings Update .lproj to .xcstrings (for importing to Xcode)
   status       Check translation status (missing / incomplete languages)
   clean        Clean outdated/empty .lproj files
   help         Show this help information
@@ -152,7 +152,11 @@ $ appi18n to-lproj
 
 ### `to-xcstrings`
 
+Update `.lproj` to `.xcstrings` (for importing to Xcode)
+
 1. Extract values from `.strings` and put them into the `.xcstrings` file
+2. Existing key-value pairs in `.xcstrings` will be overwritten by values from `.strings`
+3. Empty values in `.strings` will not be updated to the `.xcstrings` file
 
 ```shell
 $ appi18n to-xcstrings
