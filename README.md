@@ -1,18 +1,32 @@
 App i18n
 ===
 
-**App i18n** is a lightweight CLI tool designed to streamline localization workflows across multiple apps.
+A lightweight CLI tool to streamline and unify the i18n workflow for multiple iOS/macOS apps.
 
-It converts `.strings` files into structured `.lproj` directories for easier AI-assisted translation, and converts them back into `.strings` files for seamless import into Xcode projects.
+## Key Features
 
-Built for developers who manage localization at scale, appi18n simplifies the process of organizing, translating, and synchronizing internationalization resources.
+- Bidirectional conversion: `.strings` ⇄ `.lproj` folders
+- `.lproj` structure optimized for AI batch translation
+- Centralized management of localization files across multiple apps
+- CLI-first, scriptable & CI/CD friendly
 
-### Why appi18n?
+## .xcstrings vs .lproj
 
-* 🔁 Bidirectional conversion: `.strings` ⇄ `.lproj`
-* 🤖 AI-friendly structure for automated translation
-* 📦 Centralized management for multiple app localizations
-* ⚡ Designed for CLI-first workflows
-* 🛠 Simple, fast, and scriptable
+| Feature            | .xcstrings (String Catalogs)          | .lproj (Traditional)               |
+|--------------------|---------------------------------------|-------------------------------------|
+| Xcode Experience   | Excellent (auto-extract, visual status, missing/stale flags) | Basic (manual maintenance)         |
+| Git Conflicts      | High (single file, unstable order)    | Very low (per-language files)      |
+| Team/Outsourced Translation | Poor                               | Excellent (independent per language) |
+| AI Batch Translation | Average                             | Best (clean structure, easy to feed AI) |
+| Apple Recommendation | Strongly recommended (Xcode 15+ future standard) | Still fully supported underlying   |
 
-appi18n helps you turn localization into a clean, repeatable pipeline.
+## Why appi18n?
+
+- 🔁 Seamless `.strings` ↔ `.lproj` conversion
+- 🤖 Best format for feeding AI translation engines
+- 📦 Manage i18n for multiple apps in one place
+- ⚡ Lightweight, fast, CLI-driven
+- 🛠 Reduces missed translations & Git pain
+
+Install: `brew install jaywcjlove/tap/appi18n` (coming soon)  
+Docs & Examples: https://github.com/jaywcjlove/appi18n
