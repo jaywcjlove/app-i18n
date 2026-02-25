@@ -310,6 +310,15 @@ public func listLanguages() throws {
 }
 
 public func listLanguages(app: String) throws {
+    let langs = try getLanguages(app: app)
+    if langs.isEmpty {
+        Logger.info("No languages found for \(app)")
+        return
+    }
+    langs.forEach { Logger.info($0) }
+}
+
+public func getLanguages(app: String) throws -> [String] {
     let lprojRoot = i18nLprojURL()
     let appLproj = lprojRoot.appendingPathComponent(app)
     var isDir: ObjCBool = false
@@ -317,15 +326,10 @@ public func listLanguages(app: String) throws {
         throw AppError.message("App lproj not found: \(appLproj.path)")
     }
     let langDirs = (try? fileManager.contentsOfDirectory(at: appLproj, includingPropertiesForKeys: nil, options: [.skipsHiddenFiles])) ?? []
-    let langs = langDirs
+    return langDirs
         .filter { $0.pathExtension == "lproj" }
         .map { $0.deletingPathExtension().lastPathComponent }
         .sorted()
-    if langs.isEmpty {
-        Logger.info("No languages found for \(app)")
-        return
-    }
-    langs.forEach { Logger.info($0) }
 }
 
 public func listSupportedLanguages(all: Bool) {

@@ -25,6 +25,11 @@ let package = Package(
                 .product(name: "ArgumentParser", package: "swift-argument-parser")
             ],
             path: "Sources/appi18n"
+        ),
+        .testTarget(
+            name: "AppI18nCoreTests",
+            dependencies: ["AppI18nCore"],
+            path: "Tests/AppI18nCoreTests"
         )
     ]
 )

@@ -99,63 +99,26 @@ swift build -c release
 
 ## Test / Try Commands
 
-Show help:
-
 ```bash
+# Show help:
 swift run appi18n --help
-```
-
-Extract `.xcstrings` from an Xcode project:
-
-```bash
+# Extract `.xcstrings` from an Xcode project:
 swift run appi18n extract /path/to/YourApp
-```
-
-Convert `.xcstrings` to `.lproj`:
-
-```bash
+# Convert `.xcstrings` to `.lproj`:
 swift run appi18n to-lproj
-```
-
-Add a new `.lproj` language:
-
-```bash
+# Add a new `.lproj` language:
 swift run appi18n add-lang menuist fr
-```
-
-List existing languages for an app:
-
-```bash
+# List existing languages for an app:
 swift run appi18n list-langs menuist
-```
-
-List supported language codes for `add-lang`:
-
-```bash
+# List supported language codes for `add-lang`:
 swift run appi18n langs
-```
-
-List all system-provided language/region identifiers:
-
-```bash
+# List all system-provided language/region identifiers:
 swift run appi18n langs --all
-```
-
-Update `.xcstrings` from `.lproj`:
-
-```bash
+# Update `.xcstrings` from `.lproj`:
 swift run appi18n to-xcstrings
-```
-
-Check translation status:
-
-```bash
+# Check translation status:
 swift run appi18n status
-```
-
-Clean empty/outdated `.lproj` files:
-
-```bash
+# Clean empty/outdated `.lproj` files:
 swift run appi18n clean
 ```
 

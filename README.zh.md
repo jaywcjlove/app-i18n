@@ -100,63 +100,26 @@ swift build -c release
 
 ## 测试 / 命令试用
 
-查看帮助：
-
 ```bash
+# 查看帮助：
 swift run appi18n --help
-```
-
-从 Xcode 项目提取 `.xcstrings`：
-
-```bash
+# 从 Xcode 项目提取 `.xcstrings`：
 swift run appi18n extract /path/to/YourApp
-```
-
-将 `.xcstrings` 转换为 `.lproj`：
-
-```bash
+# 将 `.xcstrings` 转换为 `.lproj`：
 swift run appi18n to-lproj
-```
-
-为 `.lproj` 添加新语言：
-
-```bash
+# 为 `.lproj` 添加新语言：
 swift run appi18n add-lang menuist fr
-```
-
-查看某个应用已有语言：
-
-```bash
+# 查看某个应用已有语言：
 swift run appi18n list-langs menuist
-```
-
-列出 `add-lang` 可用的语言代码：
-
-```bash
+# 列出 `add-lang` 可用的语言代码：
 swift run appi18n langs
-```
-
-列出系统提供的全部语言/区域标识：
-
-```bash
+# 列出系统提供的全部语言/区域标识：
 swift run appi18n langs --all
-```
-
-将 `.lproj` 更新回 `.xcstrings`：
-
-```bash
+# 将 `.lproj` 更新回 `.xcstrings`：
 swift run appi18n to-xcstrings
-```
-
-检查翻译状态：
-
-```bash
+# 检查翻译状态：
 swift run appi18n status
-```
-
-清理空/过时 `.lproj` 文件：
-
-```bash
+# 清理空/过时 `.lproj` 文件：
 swift run appi18n clean
 ```
 
