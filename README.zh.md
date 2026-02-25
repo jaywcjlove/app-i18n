@@ -118,6 +118,30 @@ swift run appi18n extract /path/to/YourApp
 swift run appi18n to-lproj
 ```
 
+为 `.lproj` 添加新语言：
+
+```bash
+swift run appi18n add-lang menuist fr
+```
+
+查看某个应用已有语言：
+
+```bash
+swift run appi18n list-langs menuist
+```
+
+列出 `add-lang` 可用的语言代码：
+
+```bash
+swift run appi18n langs
+```
+
+列出系统提供的全部语言/区域标识：
+
+```bash
+swift run appi18n langs --all
+```
+
 将 `.lproj` 更新回 `.xcstrings`：
 
 ```bash
@@ -144,6 +168,9 @@ Usage: appi18n <command> [options]
 Commands:
   extract      从 Xcode 项目中提取所有 .xcstrings 到 i18n/source
   to-lproj     将 .xcstrings 转换为 .lproj 结构 (默认输出到 i18n/lproj)
+  add-lang     为 .lproj 添加新的语言
+  list-langs   查看某个应用已有的语言
+  langs        列出 add-lang 可用的语言代码
   to-xcstrings 将 .lproj 更新到 .xcstrings (用于导入 Xcode)中
   status       检查翻译状态 (missing / incomplete 语言)
   clean        清理过时/空 .lproj 文件
@@ -161,6 +188,7 @@ $ appi18n extract ~/path/to/menuist/
 索引到下面 `.xcstrings` 文件
 
 ```
+menuist
 ├── Menuist
 │   ├── InfoPlist.xcstrings
 │   ├── Localizable.xcstrings
@@ -199,6 +227,36 @@ $ appi18n extract ~/path/to/menuist/
 $ appi18n to-lproj
 ```
 
+### `add-lang`
+
+为 `.lproj` 添加新语言：
+
+```shell
+$ appi18n add-lang menuist fr
+```
+
+### `list-langs`
+
+查看某个应用已有语言：
+
+```shell
+$ appi18n list-langs menuist
+```
+
+### `langs`
+
+列出 `add-lang` 可用的语言代码：
+
+```shell
+$ appi18n langs
+```
+
+列出系统提供的全部语言/区域标识：
+
+```shell
+$ appi18n langs --all
+```
+
 ### `to-xcstrings`
 
 将 `.lproj` 更新到 `.xcstrings` (用于导入 Xcode)中
@@ -208,5 +266,5 @@ $ appi18n to-lproj
 3. `.strings` 中的空值不会更新到 `.xcstrings` 文件中
 
 ```shell
-$ appi18n to-lproj
+$ appi18n to-xcstrings
 ```

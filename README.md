@@ -117,6 +117,30 @@ Convert `.xcstrings` to `.lproj`:
 swift run appi18n to-lproj
 ```
 
+Add a new `.lproj` language:
+
+```bash
+swift run appi18n add-lang menuist fr
+```
+
+List existing languages for an app:
+
+```bash
+swift run appi18n list-langs menuist
+```
+
+List supported language codes for `add-lang`:
+
+```bash
+swift run appi18n langs
+```
+
+List all system-provided language/region identifiers:
+
+```bash
+swift run appi18n langs --all
+```
+
 Update `.xcstrings` from `.lproj`:
 
 ```bash
@@ -143,6 +167,9 @@ Usage: appi18n <command> [options]
 Commands:
   extract      Extract all .xcstrings from Xcode project to i18n/source
   to-lproj     Convert .xcstrings to .lproj structure (default output to i18n/lproj)
+  add-lang     Add a new language to .lproj
+  list-langs   List existing languages for an app
+  langs        List supported language codes for add-lang
   to-xcstrings Update .lproj to .xcstrings (for importing to Xcode)
   status       Check translation status (missing / incomplete languages)
   clean        Clean outdated/empty .lproj files
@@ -160,6 +187,7 @@ $ appi18n extract ~/path/to/menuist/
 Index the following `.xcstrings` files
 
 ```
+menuist
 ├── Menuist
 │   ├── InfoPlist.xcstrings
 │   ├── Localizable.xcstrings
@@ -196,6 +224,36 @@ Internationalization files will be extracted to the `i18n/source` directory
 
 ```shell
 $ appi18n to-lproj
+```
+
+### `add-lang`
+
+Add a new language to `.lproj`:
+
+```shell
+$ appi18n add-lang menuist fr
+```
+
+### `list-langs`
+
+List existing languages for an app:
+
+```shell
+$ appi18n list-langs menuist
+```
+
+### `langs`
+
+List supported language codes for `add-lang`:
+
+```shell
+$ appi18n langs
+```
+
+List all system-provided language/region identifiers:
+
+```shell
+$ appi18n langs --all
 ```
 
 ### `to-xcstrings`

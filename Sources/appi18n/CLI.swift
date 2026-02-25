@@ -2,17 +2,32 @@ import ArgumentParser
 import AppI18nCore
 
 let helpOverview = """
-轻量级命令行工具，用于统一管理和优化多个 App 的国际化（i18n）流程。
+Lightweight CLI tool for managing and optimizing multi-app localization (i18n).
+"""
+
+let helpExamples = """
+Examples:
+  appi18n extract /path/to/YourApp
+  appi18n to-lproj
+  appi18n add-lang menuist fr
+  appi18n list-langs menuist
+  appi18n langs
+  appi18n to-xcstrings
+  appi18n status
+  appi18n clean
 """
 
 struct AppI18n: ParsableCommand {
     static let configuration = CommandConfiguration(
         commandName: "appi18n",
         abstract: "App i18n",
-        discussion: helpOverview,
+        discussion: helpOverview + "\n\n" + helpExamples,
         subcommands: [
             Extract.self,
             ToLproj.self,
+            AddLang.self,
+            ListLangs.self,
+            Langs.self,
             ToXCStrings.self,
             Status.self,
             Clean.self
@@ -23,10 +38,10 @@ struct AppI18n: ParsableCommand {
 struct Extract: ParsableCommand {
     static let configuration = CommandConfiguration(
         commandName: "extract",
-        abstract: "从 Xcode 项目中提取所有 .xcstrings 到 i18n/source"
+        abstract: "Extract all .xcstrings from an Xcode project into i18n/source"
     )
 
-    @Argument(help: "Xcode 项目路径")
+    @Argument(help: "Path to the Xcode project")
     var path: String
 
     mutating func run() throws {
@@ -37,7 +52,7 @@ struct Extract: ParsableCommand {
 struct ToLproj: ParsableCommand {
     static let configuration = CommandConfiguration(
         commandName: "to-lproj",
-        abstract: "将 .xcstrings 转换为 .lproj 结构 (默认输出到 i18n/lproj)"
+        abstract: "Convert .xcstrings to .lproj (default output to i18n/lproj)"
     )
 
     mutating func run() throws {
@@ -45,10 +60,63 @@ struct ToLproj: ParsableCommand {
     }
 }
 
+struct AddLang: ParsableCommand {
+    static let configuration = CommandConfiguration(
+        commandName: "add-lang",
+        abstract: "Add a new language to .lproj"
+    )
+
+    @Argument(help: "App directory name under i18n/source")
+    var app: String
+
+    @Argument(help: "Language code, e.g. en, zh-Hans, fr")
+    var lang: String
+
+    mutating func run() throws {
+        if app.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+            throw ValidationError("App name cannot be empty.")
+        }
+        if lang.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+            throw ValidationError("Language code cannot be empty.")
+        }
+        try addLanguage(app: app, lang: lang)
+    }
+}
+
+struct ListLangs: ParsableCommand {
+    static let configuration = CommandConfiguration(
+        commandName: "list-langs",
+        abstract: "List existing languages for an app"
+    )
+
+    @Argument(help: "App directory name under i18n/lproj")
+    var app: String
+    mutating func run() throws {
+        if app.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+            throw ValidationError("App name cannot be empty.")
+        }
+        try listLanguages(app: app)
+    }
+}
+
+struct Langs: ParsableCommand {
+    static let configuration = CommandConfiguration(
+        commandName: "langs",
+        abstract: "List supported language codes for add-lang"
+    )
+
+    @Flag(name: .long, help: "Print all system-provided language/region identifiers")
+    var all: Bool = false
+
+    mutating func run() throws {
+        listSupportedLanguages(all: all)
+    }
+}
+
 struct ToXCStrings: ParsableCommand {
     static let configuration = CommandConfiguration(
         commandName: "to-xcstrings",
-        abstract: "将 .lproj 更新到 .xcstrings (用于导入 Xcode)中"
+        abstract: "Update .xcstrings from .lproj (for importing to Xcode)"
     )
 
     mutating func run() throws {
@@ -59,7 +127,7 @@ struct ToXCStrings: ParsableCommand {
 struct Status: ParsableCommand {
     static let configuration = CommandConfiguration(
         commandName: "status",
-        abstract: "检查翻译状态 (missing / incomplete 语言)"
+        abstract: "Check translation status (missing / incomplete languages)"
     )
 
     mutating func run() throws {
@@ -70,7 +138,7 @@ struct Status: ParsableCommand {
 struct Clean: ParsableCommand {
     static let configuration = CommandConfiguration(
         commandName: "clean",
-        abstract: "清理过时/空 .lproj 文件"
+        abstract: "Clean outdated/empty .lproj files"
     )
 
     mutating func run() throws {
