@@ -94,7 +94,7 @@ My app internationalization files are stored in the [`i18n/source`](./i18n/sourc
         └── Localizable.xcstrings
 ```
 
-## Installation (Coming Soon)
+## Installation
 
 ```bash
 brew install jaywcjlove/tap/appi18n
@@ -144,8 +144,12 @@ $ tar -czf ./appi18n.tar.gz -C ./.build/arm64-apple-macosx/release appi18n
 
 ## App i18n CLI Command Help
 
-```
+```shell
 Usage: appi18n <command> [options]
+
+OPTIONS:
+  --version               Show the version.
+  -h, --help              Show help information.
 
 Commands:
   extract      Extract all .xcstrings from Xcode project to i18n/source

@@ -68,7 +68,7 @@ App i18n
         └── Localizable.xcstrings
 ```
 
-## 安装（待发布）
+## 安装
 
 ```bash
 brew install jaywcjlove/tap/appi18n
@@ -120,6 +120,10 @@ $ tar -czf ./appi18n.tar.gz -C ./.build/arm64-apple-macosx/release appi18n
 
 ```
 Usage: appi18n <command> [options]
+
+OPTIONS:
+  --version               Show the version.
+  -h, --help              Show help information.
 
 Commands:
   extract      从 Xcode 项目中提取所有 .xcstrings 到 i18n/source
