@@ -117,6 +117,8 @@ swift run appi18n --help
 swift run appi18n extract /path/to/YourApp
 # Convert `.xcstrings` to `.lproj`:
 swift run appi18n to-lproj
+# Update `.xcstrings` from `.lproj`:
+swift run appi18n to-xcstrings
 # Add a new language to one or more apps:
 swift run appi18n langs menuist,scap fr
 # List existing languages for an app:
@@ -125,8 +127,6 @@ swift run appi18n langs menuist
 swift run appi18n langs 
 # List all system-provided language/region identifiers:
 swift run appi18n langs --all
-# Update `.xcstrings` from `.lproj`:
-swift run appi18n to-xcstrings
 # Check translation status:
 swift run appi18n status
 # Clean empty/outdated `.lproj` files:
@@ -155,7 +155,7 @@ appi18n extract /path/to/YourApp
 appi18n to-lproj
 appi18n langs menuist,scap fr
 appi18n langs menuist
-appi18n langs menuist --all
+appi18n langs --all
 appi18n to-xcstrings
 appi18n status
 appi18n clean
@@ -231,16 +231,19 @@ $ appi18n langs menuist,scap fr
 List all system-provided language/region identifiers:
 
 ```shell
-$ appi18n langs menuist --all
+$ appi18n langs --all
 ```
 
 ### `to-xcstrings`
 
 Update `.lproj` to `.xcstrings` (for importing to Xcode)
 
-1. Extract values from `.strings` and put them into the `.xcstrings` file
-2. Existing key-value pairs in `.xcstrings` will be overwritten by values from `.strings`
-3. Empty values in `.strings` will not be updated to the `.xcstrings` file
+1. Extract values from `.strings` and import into `.xcstrings`
+2. If a key already exists in `.xcstrings` and the value in `.strings` differs from the `.xcstrings` default value, overwrite it with the `.strings` value
+3. Skip rules:
+   - If a value in `.strings` is the same as the default value in `.xcstrings`, skip update
+   - If a value in `.strings` is empty, skip import
+   - If the corresponding `.xcstrings` file is missing, skip that `.strings` file and warn
 
 ```shell
 $ appi18n to-xcstrings

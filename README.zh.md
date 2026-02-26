@@ -118,6 +118,8 @@ swift run appi18n --help
 swift run appi18n extract /path/to/YourApp
 # 将 `.xcstrings` 转换为 `.lproj`：
 swift run appi18n to-lproj
+# 将 `.lproj` 更新回 `.xcstrings`：
+swift run appi18n to-xcstrings
 # 为一个或多个应用添加新语言：
 swift run appi18n langs menuist,scap fr
 # 查看某个应用已有语言：
@@ -126,8 +128,6 @@ swift run appi18n langs menuist
 swift run appi18n langs 
 # 列出系统提供的全部语言/区域标识：
 swift run appi18n langs --all
-# 将 `.lproj` 更新回 `.xcstrings`：
-swift run appi18n to-xcstrings
 # 检查翻译状态：
 swift run appi18n status
 # 清理空/过时 `.lproj` 文件：
@@ -156,7 +156,7 @@ appi18n extract /path/to/YourApp
 appi18n to-lproj
 appi18n langs menuist,scap fr
 appi18n langs menuist
-appi18n langs menuist --all
+appi18n langs --all
 appi18n to-xcstrings
 appi18n status
 appi18n clean
@@ -232,16 +232,19 @@ $ appi18n langs menuist,scap fr
 列出系统提供的全部语言/区域标识：
 
 ```shell
-$ appi18n langs menuist --all
+$ appi18n langs --all
 ```
 
 ### `to-xcstrings`
 
 将 `.lproj` 更新到 `.xcstrings` (用于导入 Xcode)中
 
-1. 提取 `.strings` 中的值放到 `.xcstrings` 文件中
-2. `.xcstrings` 中已存在的键值会被 `.strings` 中的值覆盖
-3. `.strings` 中的空值不会更新到 `.xcstrings` 文件中
+1. **提取导入**：将 `.strings` 文件中的键值对提取并导入到 `.xcstrings` 文件中
+2. **覆盖规则**：若 `.xcstrings` 中已存在相同键，且 `.strings` 中的值与 `.xcstrings` 默认值不同，则用 `.strings` 的值覆盖
+3. **跳过规则**：
+   - 若 `.strings` 中的值与 `.xcstrings` 默认值相同，则跳过更新
+   - 若 `.strings` 中的值为空，则跳过导入
+   - 若未找到对应的 `.xcstrings` 文件，则跳过该 `.strings` 文件并提示
 
 ```shell
 $ appi18n to-xcstrings
