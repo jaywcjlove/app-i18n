@@ -9,9 +9,9 @@ let helpExamples = """
 Examples:
   appi18n extract /path/to/YourApp
   appi18n to-lproj
-  appi18n add-lang menuist fr
-  appi18n list-langs menuist
-  appi18n langs
+  appi18n langs menuist,scap fr
+  appi18n langs menuist
+  appi18n langs menuist --all
   appi18n to-xcstrings
   appi18n status
   appi18n clean
@@ -25,8 +25,6 @@ struct AppI18n: ParsableCommand {
         subcommands: [
             Extract.self,
             ToLproj.self,
-            AddLang.self,
-            ListLangs.self,
             Langs.self,
             ToXCStrings.self,
             Status.self,
@@ -60,56 +58,53 @@ struct ToLproj: ParsableCommand {
     }
 }
 
-struct AddLang: ParsableCommand {
-    static let configuration = CommandConfiguration(
-        commandName: "add-lang",
-        abstract: "Add a new language to .lproj"
-    )
-
-    @Argument(help: "App directory name under i18n/source")
-    var app: String
-
-    @Argument(help: "Language code, e.g. en, zh-Hans, fr")
-    var lang: String
-
-    mutating func run() throws {
-        if app.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
-            throw ValidationError("App name cannot be empty.")
-        }
-        if lang.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
-            throw ValidationError("Language code cannot be empty.")
-        }
-        try addLanguage(app: app, lang: lang)
-    }
-}
-
-struct ListLangs: ParsableCommand {
-    static let configuration = CommandConfiguration(
-        commandName: "list-langs",
-        abstract: "List existing languages for an app"
-    )
-
-    @Argument(help: "App directory name under i18n/lproj")
-    var app: String
-    mutating func run() throws {
-        if app.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
-            throw ValidationError("App name cannot be empty.")
-        }
-        try listLanguages(app: app)
-    }
-}
-
 struct Langs: ParsableCommand {
     static let configuration = CommandConfiguration(
         commandName: "langs",
-        abstract: "List supported language codes for add-lang"
+        abstract: "List app languages or add a language to app(s)"
     )
 
-    @Flag(name: .long, help: "Print all system-provided language/region identifiers")
+    @Argument(help: "Comma-separated app names (under i18n/source and i18n/lproj). Omit to use --all.")
+    var apps: String?
+
+    @Argument(help: "Language code to add (optional). If omitted, list existing languages.")
+    var lang: String?
+
+    @Flag(name: .long, help: "Also print all system-provided language/region identifiers")
     var all: Bool = false
 
     mutating func run() throws {
-        listSupportedLanguages(all: all)
+        guard let apps else {
+            if all {
+                Logger.info("")
+                Logger.info("Supported language codes:")
+                listSupportedLanguages(all: true)
+                return
+            }
+            listSupportedLanguages(all: false)
+            return
+        }
+
+        let appList = apps
+            .split(separator: ",")
+            .map { $0.trimmingCharacters(in: .whitespacesAndNewlines) }
+            .filter { !$0.isEmpty }
+        if appList.isEmpty {
+            throw ValidationError("App name cannot be empty.")
+        }
+        if let lang {
+            if lang.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+                throw ValidationError("Language code cannot be empty.")
+            }
+            try addLanguage(apps: appList, lang: lang)
+        } else {
+            try listLanguages(apps: appList)
+        }
+        if all {
+            Logger.info("")
+            Logger.info("Supported language codes:")
+            listSupportedLanguages(all: true)
+        }
     }
 }
 

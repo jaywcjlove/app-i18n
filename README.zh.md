@@ -1,3 +1,5 @@
+[English](./README.md)
+
 App i18n
 ===
 
@@ -44,23 +46,29 @@ App i18n
 
 ## MyApp i18n
 
-```
+```shell
 ./i18n
-├── lproj
+├── lproj # 国际化语言维护
 │   ├── menuist
 │   │   ├── en.lproj
-│   │   │   ├── finder-extension
+│   │   │   ├── Menuist
+│   │   │   │   ├── InfoPlist.strings
+│   │   │   │   ├── Localizable.strings
+│   │   │   ├── MenuistFinderExtension
+│   │   │   │   ├── Info.plist
 │   │   │   │   └── Localizable.strings
-│   │   │   ├── InfoPlist.strings
-│   │   │   ├── Localizable.strings
-│   │   │   └── quick-look
+│   │   │   └── QuickLookPreview
+│   │   │       ├── Info.plist
 │   │   │       └── Localizable.strings
 │   │   └── zh-Hans.lproj
-│   │       ├── finder-extension
+│   │       ├── Menuist
+│   │       │   ├── InfoPlist.strings
+│   │       │   ├── Localizable.strings
+│   │       ├── MenuistFinderExtension
+│   │       │   ├── Info.plist
 │   │       │   └── Localizable.strings
-│   │       ├── InfoPlist.strings
-│   │       ├── Localizable.strings
-│   │       └── quick-look
+│   │       └── QuickLookPreview
+│   │           ├── Info.plist
 │   │           └── Localizable.strings
 │   └── scap/
 │       ├── en.lproj
@@ -69,15 +77,18 @@ App i18n
 │       └── zh-Hans.lproj
 │           ├── Localizable.strings
 │           └── InfoPlist.strings
-└── source
-    ├── menuist
-    │   ├── finder-extension
+└── source # 国际化源文件
+    ├── menuist # 应用 menuist
+    │   ├── Menuist
+    │   │   ├── InfoPlist.xcstrings
+    │   │   ├── Localizable.xcstrings
+    │   ├── MenuistFinderExtension
+    │   │   ├── Info.plist
     │   │   └── Localizable.xcstrings
-    │   ├── InfoPlist.xcstrings
-    │   ├── Localizable.xcstrings
-    │   └── quick-look
+    │   └── QuickLookPreview
+    │       ├── Info.plist
     │       └── Localizable.xcstrings
-    └── scap
+    └── scap   # 应用 scap
         ├── InfoPlist.xcstrings
         └── Localizable.xcstrings
 ```
@@ -107,12 +118,12 @@ swift run appi18n --help
 swift run appi18n extract /path/to/YourApp
 # 将 `.xcstrings` 转换为 `.lproj`：
 swift run appi18n to-lproj
-# 为 `.lproj` 添加新语言：
-swift run appi18n add-lang menuist fr
+# 为一个或多个应用添加新语言：
+swift run appi18n langs menuist,scap fr
 # 查看某个应用已有语言：
-swift run appi18n list-langs menuist
-# 列出 `add-lang` 可用的语言代码：
-swift run appi18n langs
+swift run appi18n langs menuist
+# 列出可用的推荐语言代码：
+swift run appi18n langs 
 # 列出系统提供的全部语言/区域标识：
 swift run appi18n langs --all
 # 将 `.lproj` 更新回 `.xcstrings`：
@@ -131,13 +142,24 @@ Usage: appi18n <command> [options]
 Commands:
   extract      从 Xcode 项目中提取所有 .xcstrings 到 i18n/source
   to-lproj     将 .xcstrings 转换为 .lproj 结构 (默认输出到 i18n/lproj)
-  add-lang     为 .lproj 添加新的语言
-  list-langs   查看某个应用已有的语言
-  langs        列出 add-lang 可用的语言代码
+  langs        查看应用语言或为应用添加语言
   to-xcstrings 将 .lproj 更新到 .xcstrings (用于导入 Xcode)中
   status       检查翻译状态 (missing / incomplete 语言)
   clean        清理过时/空 .lproj 文件
   help         显示此帮助信息
+```
+
+示例：
+
+```shell
+appi18n extract /path/to/YourApp
+appi18n to-lproj
+appi18n langs menuist,scap fr
+appi18n langs menuist
+appi18n langs menuist --all
+appi18n to-xcstrings
+appi18n status
+appi18n clean
 ```
 
 ### `extract`
@@ -152,10 +174,10 @@ $ appi18n extract ~/path/to/menuist/
 
 ```
 menuist
+├── Menuist.xcodeproj
 ├── Menuist
 │   ├── InfoPlist.xcstrings
 │   ├── Localizable.xcstrings
-├── Menuist.xcodeproj
 ├── MenuistFinderExtension
 │   ├── Info.plist
 │   └── Localizable.xcstrings
@@ -171,13 +193,16 @@ menuist
 ./i18n
     ├── lproj
     └── source
-        ├── menuist
-        │   ├── finder-extension
-        │   │   └── Localizable.xcstrings
-        │   ├── InfoPlist.xcstrings
-        │   ├── Localizable.xcstrings
-        │   └── quick-look
-        │       └── Localizable.xcstrings
+        └── menuist
+            ├── Menuist
+            │   ├── InfoPlist.xcstrings
+            │   ├── Localizable.xcstrings
+            ├── MenuistFinderExtension
+            │   ├── Info.plist
+            │   └── Localizable.xcstrings
+            └── QuickLookPreview
+                ├── Info.plist
+                └── Localizable.xcstrings
 ```
 
 ### `to-lproj` 
@@ -190,34 +215,24 @@ menuist
 $ appi18n to-lproj
 ```
 
-### `add-lang`
-
-为 `.lproj` 添加新语言：
-
-```shell
-$ appi18n add-lang menuist fr
-```
-
-### `list-langs`
+### `langs`
 
 查看某个应用已有语言：
 
 ```shell
-$ appi18n list-langs menuist
+$ appi18n langs menuist
 ```
 
-### `langs`
-
-列出 `add-lang` 可用的语言代码：
+为一个或多个应用添加新语言：
 
 ```shell
-$ appi18n langs
+$ appi18n langs menuist,scap fr
 ```
 
 列出系统提供的全部语言/区域标识：
 
 ```shell
-$ appi18n langs --all
+$ appi18n langs menuist --all
 ```
 
 ### `to-xcstrings`

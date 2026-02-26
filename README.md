@@ -1,3 +1,5 @@
+[中文](./README.zh.md)
+
 App i18n
 ===
 
@@ -43,23 +45,29 @@ it also supports converting back to `.xcstrings` to ensure seamless integration 
 
 ## MyApp i18n
 
-```
+```shell
 ./i18n
 ├── lproj
 │   ├── menuist
 │   │   ├── en.lproj
-│   │   │   ├── finder-extension
+│   │   │   ├── Menuist
+│   │   │   │   ├── InfoPlist.strings
+│   │   │   │   ├── Localizable.strings
+│   │   │   ├── MenuistFinderExtension
+│   │   │   │   ├── Info.plist
 │   │   │   │   └── Localizable.strings
-│   │   │   ├── InfoPlist.strings
-│   │   │   ├── Localizable.strings
-│   │   │   └── quick-look
+│   │   │   └── QuickLookPreview
+│   │   │       ├── Info.plist
 │   │   │       └── Localizable.strings
 │   │   └── zh-Hans.lproj
-│   │       ├── finder-extension
+│   │       ├── Menuist
+│   │       │   ├── InfoPlist.strings
+│   │       │   ├── Localizable.strings
+│   │       ├── MenuistFinderExtension
+│   │       │   ├── Info.plist
 │   │       │   └── Localizable.strings
-│   │       ├── InfoPlist.strings
-│   │       ├── Localizable.strings
-│   │       └── quick-look
+│   │       └── QuickLookPreview
+│   │           ├── Info.plist
 │   │           └── Localizable.strings
 │   └── scap/
 │       ├── en.lproj
@@ -70,11 +78,14 @@ it also supports converting back to `.xcstrings` to ensure seamless integration 
 │           └── InfoPlist.strings
 └── source
     ├── menuist
-    │   ├── finder-extension
+    │   ├── Menuist
+    │   │   ├── InfoPlist.xcstrings
+    │   │   ├── Localizable.xcstrings
+    │   ├── MenuistFinderExtension
+    │   │   ├── Info.plist
     │   │   └── Localizable.xcstrings
-    │   ├── InfoPlist.xcstrings
-    │   ├── Localizable.xcstrings
-    │   └── quick-look
+    │   └── QuickLookPreview
+    │       ├── Info.plist
     │       └── Localizable.xcstrings
     └── scap
         ├── InfoPlist.xcstrings
@@ -106,12 +117,12 @@ swift run appi18n --help
 swift run appi18n extract /path/to/YourApp
 # Convert `.xcstrings` to `.lproj`:
 swift run appi18n to-lproj
-# Add a new `.lproj` language:
-swift run appi18n add-lang menuist fr
+# Add a new language to one or more apps:
+swift run appi18n langs menuist,scap fr
 # List existing languages for an app:
-swift run appi18n list-langs menuist
-# List supported language codes for `add-lang`:
-swift run appi18n langs
+swift run appi18n langs menuist
+# List available recommended language codes:
+swift run appi18n langs 
 # List all system-provided language/region identifiers:
 swift run appi18n langs --all
 # Update `.xcstrings` from `.lproj`:
@@ -130,13 +141,24 @@ Usage: appi18n <command> [options]
 Commands:
   extract      Extract all .xcstrings from Xcode project to i18n/source
   to-lproj     Convert .xcstrings to .lproj structure (default output to i18n/lproj)
-  add-lang     Add a new language to .lproj
-  list-langs   List existing languages for an app
-  langs        List supported language codes for add-lang
+  langs        List languages for app(s) or add a language to app(s)
   to-xcstrings Update .lproj to .xcstrings (for importing to Xcode)
   status       Check translation status (missing / incomplete languages)
   clean        Clean outdated/empty .lproj files
   help         Show this help information
+```
+
+Examples:
+
+```shell
+appi18n extract /path/to/YourApp
+appi18n to-lproj
+appi18n langs menuist,scap fr
+appi18n langs menuist
+appi18n langs menuist --all
+appi18n to-xcstrings
+appi18n status
+appi18n clean
 ```
 
 ### `extract`
@@ -151,10 +173,10 @@ Index the following `.xcstrings` files
 
 ```
 menuist
+├── Menuist.xcodeproj
 ├── Menuist
 │   ├── InfoPlist.xcstrings
 │   ├── Localizable.xcstrings
-├── Menuist.xcodeproj
 ├── MenuistFinderExtension
 │   ├── Info.plist
 │   └── Localizable.xcstrings
@@ -170,13 +192,16 @@ Internationalization files will be extracted to the `i18n/source` directory
 ./i18n
     ├── lproj
     └── source
-        ├── menuist
-        │   ├── finder-extension
-        │   │   └── Localizable.xcstrings
-        │   ├── InfoPlist.xcstrings
-        │   ├── Localizable.xcstrings
-        │   └── quick-look
-        │       └── Localizable.xcstrings
+        └── menuist
+            ├── Menuist
+            │   ├── InfoPlist.xcstrings
+            │   ├── Localizable.xcstrings
+            ├── MenuistFinderExtension
+            │   ├── Info.plist
+            │   └── Localizable.xcstrings
+            └── QuickLookPreview
+                ├── Info.plist
+                └── Localizable.xcstrings
 ```
 
 ### `to-lproj` 
@@ -189,34 +214,24 @@ Internationalization files will be extracted to the `i18n/source` directory
 $ appi18n to-lproj
 ```
 
-### `add-lang`
-
-Add a new language to `.lproj`:
-
-```shell
-$ appi18n add-lang menuist fr
-```
-
-### `list-langs`
+### `langs`
 
 List existing languages for an app:
 
 ```shell
-$ appi18n list-langs menuist
+$ appi18n langs menuist
 ```
 
-### `langs`
-
-List supported language codes for `add-lang`:
+Add a new language to one or more apps:
 
 ```shell
-$ appi18n langs
+$ appi18n langs menuist,scap fr
 ```
 
 List all system-provided language/region identifiers:
 
 ```shell
-$ appi18n langs --all
+$ appi18n langs menuist --all
 ```
 
 ### `to-xcstrings`

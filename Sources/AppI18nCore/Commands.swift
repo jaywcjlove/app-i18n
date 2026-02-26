@@ -120,6 +120,12 @@ public func addLanguage(app: String, lang: String) throws {
     Logger.info("Added language \(lang) to .lproj")
 }
 
+public func addLanguage(apps: [String], lang: String) throws {
+    for app in apps {
+        try addLanguage(app: app, lang: lang)
+    }
+}
+
 public func toXCStrings() throws {
     let sourceRoot = i18nSourceURL()
     let lprojRoot = i18nLprojURL()
@@ -316,6 +322,18 @@ public func listLanguages(app: String) throws {
         return
     }
     langs.forEach { Logger.info($0) }
+}
+
+public func listLanguages(apps: [String]) throws {
+    for app in apps {
+        let langs = try getLanguages(app: app)
+        if langs.isEmpty {
+            Logger.info("\(app): (none)")
+            continue
+        }
+        let line = "\(app): " + langs.joined(separator: ", ")
+        Logger.info(line)
+    }
 }
 
 public func getLanguages(app: String) throws -> [String] {

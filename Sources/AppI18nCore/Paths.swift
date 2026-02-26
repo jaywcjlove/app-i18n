@@ -6,12 +6,28 @@ func currentDirectoryURL() -> URL {
     URL(fileURLWithPath: fileManager.currentDirectoryPath)
 }
 
+func projectRootURL() -> URL {
+    var url = currentDirectoryURL()
+    while true {
+        let source = url.appendingPathComponent("i18n/source")
+        var isDir: ObjCBool = false
+        if fileManager.fileExists(atPath: source.path, isDirectory: &isDir), isDir.boolValue {
+            return url
+        }
+        let parent = url.deletingLastPathComponent()
+        if parent.path == url.path {
+            return currentDirectoryURL()
+        }
+        url = parent
+    }
+}
+
 func i18nSourceURL() -> URL {
-    currentDirectoryURL().appendingPathComponent("i18n/source")
+    projectRootURL().appendingPathComponent("i18n/source")
 }
 
 func i18nLprojURL() -> URL {
-    currentDirectoryURL().appendingPathComponent("i18n/lproj")
+    projectRootURL().appendingPathComponent("i18n/lproj")
 }
 
 func ensureDirectory(_ url: URL) throws {
