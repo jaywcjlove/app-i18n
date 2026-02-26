@@ -158,8 +158,8 @@ $ appi18n extract ~/path/to/menuist/
 
 索引到下面 `.xcstrings` 文件
 
-```
-menuist
+```bash
+menuist # menuist app
 ├── Menuist.xcodeproj
 ├── Menuist
 │   ├── InfoPlist.xcstrings
@@ -175,11 +175,11 @@ menuist
 
 国际化文件将被提取到 `i18n/source` 目录中
 
-```
+```bash
 ./i18n
     ├── lproj
     └── source
-        └── menuist
+        └── menuist # menuist app
             ├── Menuist
             │   ├── InfoPlist.xcstrings
             │   ├── Localizable.xcstrings
