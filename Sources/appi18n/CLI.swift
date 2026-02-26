@@ -11,7 +11,8 @@ Examples:
   appi18n to-lproj
   appi18n langs menuist,scap fr
   appi18n langs menuist
-  appi18n langs menuist --all
+  appi18n langs
+  appi18n langs --all
   appi18n to-xcstrings
   appi18n status
   appi18n clean

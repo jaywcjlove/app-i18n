@@ -161,6 +161,8 @@ public func toXCStrings() throws {
                 for (key, value) in strings.entries {
                     if value.isEmpty { continue }
                     var entry = xc.strings[key] ?? [:]
+                    let defaultValue = getLocalizationValue(entry, lang: xc.sourceLanguage) ?? key
+                    if value == defaultValue { continue }
                     var localizations = entry["localizations"] as? [String: Any] ?? [:]
                     var langObj = localizations[lang] as? [String: Any] ?? [:]
                     var unit = langObj["stringUnit"] as? [String: Any] ?? [:]

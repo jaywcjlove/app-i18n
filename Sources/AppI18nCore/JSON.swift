@@ -10,7 +10,11 @@ func readJSON(from url: URL) throws -> [String: Any] {
 }
 
 func writeJSON(_ dict: [String: Any], to url: URL) throws {
-    let data = try JSONSerialization.data(withJSONObject: dict, options: [.prettyPrinted, .sortedKeys])
+    var options: JSONSerialization.WritingOptions = [.prettyPrinted, .sortedKeys]
+    if #available(macOS 10.15, iOS 13.0, tvOS 13.0, watchOS 6.0, *) {
+        options.insert(.withoutEscapingSlashes)
+    }
+    let data = try JSONSerialization.data(withJSONObject: dict, options: options)
     try data.write(to: url)
 }
 
