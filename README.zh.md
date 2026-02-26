@@ -118,7 +118,7 @@ $ tar -czf ./appi18n.tar.gz -C ./.build/arm64-apple-macosx/release appi18n
 
 ## App i18n CLI 命令帮助
 
-```
+```shell
 Usage: appi18n <command> [options]
 
 OPTIONS:
