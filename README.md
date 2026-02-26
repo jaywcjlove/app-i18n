@@ -133,6 +133,13 @@ swift run appi18n status
 swift run appi18n clean
 ```
 
+Release command:
+
+```shell
+$ env 'CLANG_MODULE_CACHE_PATH=/tmp/clang-module-cache' swift build -c release
+$ tar -czf ./appi18n.tar.gz -C ./.build/arm64-apple-macosx/release appi18n
+```
+
 ## App i18n CLI Command Help
 
 ```
