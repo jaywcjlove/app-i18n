@@ -3,7 +3,7 @@
 App i18n
 ===
 
-Lightweight CLI tool for unifying and optimizing the internationalization (i18n) workflow across multiple apps. This project also contains my app internationalization files stored in the `i18n` directory.
+Lightweight CLI tool for unifying and optimizing the internationalization (i18n) workflow across multiple apps. This project also contains [my app](https://wangchujiang.com/#/app) internationalization files stored in the [`i18n`](./i18n/source/) directory.
 
 `appi18n` helps you perform bidirectional conversion between `.xcstrings` and `.lproj`, making localization files more suitable for multi-person Git collaboration and AI batch translation, while maintaining seamless integration with Xcode.
 
@@ -45,10 +45,12 @@ it also supports converting back to `.xcstrings` to ensure seamless integration 
 
 ## MyApp i18n
 
+My app internationalization files are stored in the [`i18n/source`](./i18n/source/) directory. Teams collaborate to maintain the [`i18n/lproj`](./i18n/lproj/) language files, which will be merged into [`i18n/source`](./i18n/source/) using the `appi18n` command.
+
 ```shell
 ./i18n
-├── lproj
-│   ├── menuist
+├── lproj # Internationalization language maintenance
+│   ├── menuist # menuist app
 │   │   ├── en.lproj
 │   │   │   ├── Menuist
 │   │   │   │   ├── InfoPlist.strings
@@ -69,15 +71,15 @@ it also supports converting back to `.xcstrings` to ensure seamless integration 
 │   │       └── QuickLookPreview
 │   │           ├── Info.plist
 │   │           └── Localizable.strings
-│   └── scap/
+│   └── scap   # scap app
 │       ├── en.lproj
 │       │   ├── Localizable.strings
 │       │   └── InfoPlist.strings
 │       └── zh-Hans.lproj
 │           ├── Localizable.strings
 │           └── InfoPlist.strings
-└── source
-    ├── menuist
+└── source # Internationalization source files
+    ├── menuist # menuist app
     │   ├── Menuist
     │   │   ├── InfoPlist.xcstrings
     │   │   ├── Localizable.xcstrings
@@ -87,7 +89,7 @@ it also supports converting back to `.xcstrings` to ensure seamless integration 
     │   └── QuickLookPreview
     │       ├── Info.plist
     │       └── Localizable.xcstrings
-    └── scap
+    └── scap   # scap app
         ├── InfoPlist.xcstrings
         └── Localizable.xcstrings
 ```

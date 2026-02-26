@@ -3,7 +3,7 @@
 App i18n
 ===
 
-轻量级命令行工具，用于统一管理和优化多个 App 的国际化（i18n）流程。当前项目也包含我的应用国际化文件存放在 `i18n` 目录中。
+轻量级命令行工具，用于统一管理和优化多个 App 的国际化（i18n）流程。当前项目也包含[我的应用](https://wangchujiang.com/#/app)国际化文件存放在 [`i18n`](./i18n/source/) 目录中。
 
 `appi18n` 帮助你在 `.xcstrings` 与 `.lproj` 之间进行双向转换，使本地化文件更适合多人 Git 协作与 AI 批量翻译，同时保持与 Xcode 的无缝集成。
 
@@ -46,31 +46,14 @@ App i18n
 
 ## MyApp i18n
 
+我的应用国际化文件都存储在 [`i18n/source`](./i18n/source/) 目录中，大家协同维护 [`i18n/lproj`](./i18n/lproj/) 的语言文件，将通过 `appi18n` 命令合并到 [`i18n/source`](./i18n/source/) 中
+
 ```shell
 ./i18n
 ├── lproj # 国际化语言维护
-│   ├── menuist
-│   │   ├── en.lproj
-│   │   │   ├── Menuist
-│   │   │   │   ├── InfoPlist.strings
-│   │   │   │   ├── Localizable.strings
-│   │   │   ├── MenuistFinderExtension
-│   │   │   │   ├── Info.plist
-│   │   │   │   └── Localizable.strings
-│   │   │   └── QuickLookPreview
-│   │   │       ├── Info.plist
-│   │   │       └── Localizable.strings
-│   │   └── zh-Hans.lproj
-│   │       ├── Menuist
-│   │       │   ├── InfoPlist.strings
-│   │       │   ├── Localizable.strings
-│   │       ├── MenuistFinderExtension
-│   │       │   ├── Info.plist
-│   │       │   └── Localizable.strings
-│   │       └── QuickLookPreview
-│   │           ├── Info.plist
-│   │           └── Localizable.strings
-│   └── scap/
+│   ├── menuist # 应用 menuist
+│   │   ├── ...
+│   └── scap    # 应用 scap
 │       ├── en.lproj
 │       │   ├── Localizable.strings
 │       │   └── InfoPlist.strings
@@ -79,16 +62,8 @@ App i18n
 │           └── InfoPlist.strings
 └── source # 国际化源文件
     ├── menuist # 应用 menuist
-    │   ├── Menuist
-    │   │   ├── InfoPlist.xcstrings
-    │   │   ├── Localizable.xcstrings
-    │   ├── MenuistFinderExtension
-    │   │   ├── Info.plist
-    │   │   └── Localizable.xcstrings
-    │   └── QuickLookPreview
-    │       ├── Info.plist
-    │       └── Localizable.xcstrings
-    └── scap   # 应用 scap
+    │   ├── ...
+    └── scap    # 应用 scap
         ├── InfoPlist.xcstrings
         └── Localizable.xcstrings
 ```
