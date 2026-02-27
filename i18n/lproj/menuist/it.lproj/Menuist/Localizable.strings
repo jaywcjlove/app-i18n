@@ -16,9 +16,9 @@
 
 "Add Application" = "Aggiungi applicazione";
 
-"Add Common App" = "Aggiungi app comune";
+"Add Common App" = "Aggiungi app frequente";
 
-"Add Common Script" = "Aggiungi script comune";
+"Add Common Script" = "Aggiungi script frequente";
 
 "Add File Sharing" = "Aggiungi condivisione file";
 
@@ -30,35 +30,35 @@
 
 "Appearance" = "Aspetto";
 
-"Authorization Folder" = "Cartella di autorizzazione";
+"Authorization Folder" = "Autorizzazione cartella";
 
 "Authorized Folder" = "Cartella autorizzata";
 
-"Calculate and display the size of the selected file or folder." = "Calcola e mostra la dimensione del file o della cartella selezionati.";
+"Calculate and display the size of the selected file or folder." = "Calcola e visualizza la dimensione del file o della cartella selezionati.";
 
 "Cancel" = "Annulla";
 
-"Change folder icon color" = "Cambia colore icona cartella";
+"Change folder icon color" = "Cambia il colore dell'icona cartella";
 
-"Click to Open" = "Clicca per aprire";
+"Click to Open" = "Fai clic per aprire";
 
-"Click to copy link" = "Clicca per copiare il link";
+"Click to copy link" = "Fai clic per copiare il link";
 
 "Collapse context menu" = "Comprimi menu contestuale";
 
-"Collapse frequently used apps" = "Comprimi app usate frequentemente";
+"Collapse frequently used apps" = "Comprimi app usate di frequente";
 
-"Common App" = "App comune";
+"Common App" = "App frequente";
 
-"Common Folder" = "Cartella comune";
+"Common Folder" = "Cartella frequente";
 
-"Common Folder Collapse" = "Comprimi cartella comune";
+"Common Folder Collapse" = "Comprimi cartella frequente";
 
-"Common Folders" = "Cartelle comuni";
+"Common Folders" = "Cartelle frequenti";
 
-"Common Script" = "Script comune";
+"Common Script" = "Script frequente";
 
-"Common Scripts in Main Menu" = "Script comuni nel menu principale";
+"Common Scripts in Main Menu" = "Script frequenti nel menu principale";
 
 "Compress" = "Comprimi";
 
@@ -92,14 +92,14 @@
 
 "Custom Color" = "Colore personalizzato";
 
-"Customizable Settings (e.g. hiding, order)" = "Impostazioni personalizzabili (es. nascondi, ordine)";
+"Customizable Settings (e.g. hiding, order)" = "Impostazioni personalizzabili (es. visibilità, ordine)";
 
 "Cut and Paste" = "Taglia e incolla";
 
 /* Dark */
 "Dark" = "Scuro";
 
-"Default Color" = "Colore predefinito";
+"Default Color" = "Colore di default";
 
 "Delete" = "Elimina";
 
@@ -111,21 +111,21 @@
 
 "Delete Template" = "Elimina modello";
 
-"Directly disable the %@ plugin through [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**]." = "Disabilita direttamente il plugin %@ tramite [**Preferenze di Sistema**] -> [**Generali**] -> [**Elementi di login ed estensioni**] -> [**Quick Look**].";
+"Directly disable the %@ plugin through [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**]." = "Disabilita direttamente il plugin %@ tramite [**Impostazioni di Sistema**] -> [**Generali**] -> [**Elementi login ed estensioni**] -> [**Quick Look**].";
 
 "Disable" = "Disabilita";
 
 "Disable Theme" = "Disabilita tema";
 
-"Display in Finder extensions" = "Mostra nelle estensioni Finder";
+"Display in Finder extensions" = "Mostra nelle estensioni del Finder";
 
 "Display in menu bar" = "Mostra nella barra dei menu";
 
-"Displaying a large number of app icons in the right-click menu may cause lag. If you notice a delay when opening the right-click menu, you can choose to disable the icon display feature." = "Mostrare un gran numero di icone app nel menu contestuale può causare lag. Se noti un ritardo all'apertura del menu contestuale, puoi disabilitare la visualizzazione delle icone.";
+"Displaying a large number of app icons in the right-click menu may cause lag. If you notice a delay when opening the right-click menu, you can choose to disable the icon display feature." = "La visualizzazione di molte icone nel menu contestuale potrebbe causare rallentamenti. In caso di ritardi all'apertura del menu, è possibile disabilitare la visualizzazione delle icone.";
 
-"Do you confirm the deletion of the selected %lld script?" = "Confermi l'eliminazione dei %lld script selezionati?";
+"Do you confirm the deletion of the selected %lld script?" = "Confermi l'eliminazione degli script selezionati (%lld)?";
 
-"Do you confirm the deletion of the selected %lld template files?" = "Confermi l'eliminazione dei %lld file modello selezionati?";
+"Do you confirm the deletion of the selected %lld template files?" = "Confermi l'eliminazione dei file modello selezionati (%lld)?";
 
 "E-mail" = "E-mail";
 
@@ -133,25 +133,25 @@
 
 "Enable" = "Abilita";
 
-"Enable %@ and permissions." = "Abilita %@ e le autorizzazioni.";
+"Enable %@ and permissions." = "Abilita %@ e le relative autorizzazioni.";
 
-"Enable Common App" = "Abilita app comune";
+"Enable Common App" = "Abilita app frequente";
 
-"Enable Common Script" = "Abilita script comune";
+"Enable Common Script" = "Abilita script frequente";
 
-"Enable File Context Menu" = "Abilita menu contestuale file";
+"Enable File Context Menu" = "Abilita menu contestuale per i file";
 
-"Enable Folder Context Menu" = "Abilita menu contestuale cartelle";
+"Enable Folder Context Menu" = "Abilita menu contestuale per le cartelle";
 
-"Enable QuickLook" = "Abilita QuickLook";
+"Enable QuickLook" = "Abilita Visualizzazione rapida";
 
-"Enable and add common applications to support various editors and command-line tools for quickly opening the current directory, enhancing operational efficiency." = "Abilita e aggiungi applicazioni comuni per supportare vari editor e strumenti da riga di comando, per aprire rapidamente la directory corrente e migliorare l'efficienza operativa.";
+"Enable and add common applications to support various editors and command-line tools for quickly opening the current directory, enhancing operational efficiency." = "Abilita e aggiungi applicazioni frequenti per supportare editor e strumenti da riga di comando, consentendo l'apertura rapida della directory corrente e una maggiore efficienza operativa.";
 
-"Enable folder color settings, allowing quick adjustments to folder icon color via the right-click menu." = "Abilita le impostazioni del colore cartella, consentendo modifiche rapide del colore dell'icona della cartella tramite il menu contestuale.";
+"Enable folder color settings, allowing quick adjustments to folder icon color via the right-click menu." = "Abilita le impostazioni del colore delle cartelle, consentendo modifiche rapide al colore dell'icona tramite il menu contestuale.";
 
-"Enable right-click menu" = "Abilita menu del tasto destro";
+"Enable right-click menu" = "Abilita menu contestuale";
 
-"Enable/Disable Quick Look in System Preferences" = "Abilita/Disabilita Quick Look nelle Preferenze di Sistema";
+"Enable/Disable Quick Look in System Preferences" = "Abilita/Disabilita Visualizzazione rapida nelle Impostazioni di Sistema";
 
 "Enabled" = "Abilitato";
 
@@ -175,11 +175,11 @@
 
 "File does not exist" = "Il file non esiste";
 
-"Finder Context Menu" = "Menu contestuale Finder";
+"Finder Context Menu" = "Menu contestuale del Finder";
 
-"Finder Quick Look Extension" = "Estensione Quick Look di Finder";
+"Finder Quick Look Extension" = "Estensione Visualizzazione rapida del Finder";
 
-"Finder plugin" = "Plugin Finder";
+"Finder plugin" = "Plugin del Finder";
 
 "Folder Authorization" = "Autorizzazione cartella";
 
@@ -209,48 +209,48 @@
 
 "Hide Free Apps Menu" = "Nascondi menu App gratuite";
 
-"Hide My Apps List Menu" = "Nascondi menu elenco Le mie app";
+"Hide My Apps List Menu" = "Nascondi menu Le mie app";
 
 "Hide menu bar icon" = "Nascondi icona nella barra dei menu";
 
 "Hide settings on launch" = "Nascondi impostazioni all'avvio";
 
-"History Count" = "Numero cronologia";
+"History Count" = "Numero voci cronologia";
 
 "Icon" = "Icona";
 
-"If the issue persists, please restart the application and recheck for any permission issues." = "Se il problema persiste, riavvia l'applicazione e ricontrolla eventuali problemi di autorizzazioni.";
+"If the issue persists, please restart the application and recheck for any permission issues." = "Se il problema persiste, riavvia l'applicazione e verifica nuovamente le autorizzazioni.";
 
 "In Finder" = "Nel Finder";
 
-"In macOS 26+, if access to the root directory (%@) or external devices (e.g., USB drives) is authorized, reauthorization is required after restarting the system. However, directories under user directories (e.g., \"%@\") do not require reauthorization. This is a security policy under sandbox mode, and there is currently no perfect solution." = "In macOS 26+, se l'accesso alla directory root (%1$@) o a dispositivi esterni (ad es. unità USB) è autorizzato, dopo il riavvio del sistema è necessaria una nuova autorizzazione. Tuttavia, le directory sotto le directory utente (ad es. \"%2$@\") non richiedono una nuova autorizzazione. Questa è una politica di sicurezza in modalità sandbox e attualmente non esiste una soluzione perfetta.";
+"In macOS 26+, if access to the root directory (%@) or external devices (e.g., USB drives) is authorized, reauthorization is required after restarting the system. However, directories under user directories (e.g., \"%@\") do not require reauthorization. This is a security policy under sandbox mode, and there is currently no perfect solution." = "In macOS 26+, se è stato autorizzato l'accesso alla directory principale (%1$@) o a dispositivi esterni (ad es. unità USB), sarà necessaria una nuova autorizzazione dopo il riavvio del sistema. Le directory all'interno della cartella utente (ad es. \"%2$@\") non richiedono invece una nuova autorizzazione. Si tratta di una politica di sicurezza imposta dalla modalità sandbox, per la quale al momento non esiste una soluzione definitiva.";
 
-"Includes right-click menu options like delete and copy" = "Include opzioni del menu contestuale come elimina e copia";
+"Includes right-click menu options like delete and copy" = "Include opzioni del menu contestuale come Elimina e Copia";
 
-"Is the menu bar common folder folding enabled?" = "La compressione delle cartelle comuni nella barra dei menu è abilitata?";
+"Is the menu bar common folder folding enabled?" = "Comprimere le cartelle frequenti nella barra dei menu?";
 
 "Language" = "Lingua";
 
-"Launch At Startup" = "Avvia all'accesso";
+"Launch At Startup" = "Apri all'accesso";
 
 /* Light */
 "Light" = "Chiaro";
 
 "Limit on the number of favorite folders/apps" = "Limite al numero di cartelle/app preferite";
 
-"Locked File/Folder" = "File/Cartella bloccati";
+"Locked File/Folder" = "File/Cartella protetti";
 
 "Main Menu" = "Menu principale";
 
 "Main Window" = "Finestra principale";
 
-"Menu Bar Folder Settings" = "Impostazioni cartelle barra dei menu";
+"Menu Bar Folder Settings" = "Impostazioni cartelle nella barra dei menu";
 
-"Menu Bar Quick Navigation" = "Navigazione rapida barra dei menu";
+"Menu Bar Quick Navigation" = "Navigazione rapida nella barra dei menu";
 
 "Menu Sorting" = "Ordinamento menu";
 
-"Menu Sorting and Enable/Disable" = "Ordinamento menu e Abilita/Disabilita";
+"Menu Sorting and Enable/Disable" = "Ordinamento e attivazione menu";
 
 "Move To" = "Sposta in";
 
@@ -260,13 +260,13 @@
 
 "New File" = "Nuovo file";
 
-"New File in Main" = "Nuovo file nel principale";
+"New File in Main" = "Nuovo file nel menu principale";
 
 "OK" = "OK";
 
 "Official Website" = "Sito ufficiale";
 
-"Open Git Remote" = "Apri remoto Git";
+"Open Git Remote" = "Apri repository Git remoto";
 
 "Open in Finder" = "Apri nel Finder";
 
@@ -276,7 +276,7 @@
 
 "Open with shortcut" = "Apri con scorciatoia";
 
-"Other Menu" = "Altri menu";
+"Other Menu" = "Altro";
 
 "Overwrite" = "Sovrascrivi";
 
@@ -306,15 +306,15 @@
 
 "Quick Access Folder" = "Cartella ad accesso rapido";
 
-"Quick Look" = "Quick Look";
+"Quick Look" = "Visualizzazione rapida";
 
 "Quick Navigation" = "Navigazione rapida";
 
 "Quick Navigation Menu" = "Menu navigazione rapida";
 
-"Quick look theme settings" = "Impostazioni tema Quick Look";
+"Quick look theme settings" = "Impostazioni tema Visualizzazione rapida";
 
-"QuickLook Theme" = "Tema QuickLook";
+"QuickLook Theme" = "Tema Visualizzazione rapida";
 
 "Quickly create a template file" = "Crea rapidamente un file modello";
 
@@ -322,29 +322,29 @@
 
 "Reauth" = "Riautorizza";
 
-"Record the history of folders accessed in Finder locally." = "Registra localmente la cronologia delle cartelle aperte in Finder.";
+"Record the history of folders accessed in Finder locally." = "Registra localmente la cronologia delle cartelle aperte nel Finder.";
 
 "Release Notes" = "Note di rilascio";
 
-"Remove sharing record" = "Rimuovi record di condivisione";
+"Remove sharing record" = "Rimuovi record condivisione";
 
-"Reset" = "Reimposta";
+"Reset" = "Ripristina";
 
-"Reset Icon" = "Reimposta icona";
+"Reset Icon" = "Ripristina icona";
 
-"Reset list" = "Reimposta elenco";
+"Reset list" = "Ripristina elenco";
 
-"Reset to Default App" = "Ripristina app predefinita";
+"Reset to Default App" = "Ripristina app di default";
 
 "Restart App" = "Riavvia app";
 
-"Restart and recheck permissions" = "Riavvia e ricontrolla le autorizzazioni";
+"Restart and recheck permissions" = "Riavvia e verifica nuovamente le autorizzazioni";
 
-"Right-click the paths of the selected files or folders;" = "Clic destro sui percorsi dei file o delle cartelle selezionati;";
+"Right-click the paths of the selected files or folders;" = "Fai clic destro sui percorsi dei file o delle cartelle selezionati;";
 
-"Right-click the selected file path;" = "Clic destro sul percorso del file selezionato;";
+"Right-click the selected file path;" = "Fai clic destro sul percorso del file selezionato;";
 
-"Right-click the selected folder path;" = "Clic destro sul percorso della cartella selezionata;";
+"Right-click the selected folder path;" = "Fai clic destro sul percorso della cartella selezionata;";
 
 "Run" = "Esegui";
 
@@ -362,17 +362,17 @@
 
 "Select folder authorization" = "Seleziona autorizzazione cartella";
 
-"Send To Desktop Symlink" = "Invia collegamento simbolico al desktop";
+"Send To Desktop Symlink" = "Invia link simbolico alla Scrivania";
 
 "Set folder icon" = "Imposta icona cartella";
 
-"Set up website navigation help" = "Configura aiuto per la navigazione del sito";
+"Set up website navigation help" = "Configura guida alla navigazione web";
 
-"Settings..." = "Impostazioni...";
+"Settings..." = "Impostazioni…";
 
 "Share File" = "Condividi file";
 
-"Share File Locally" = "Condividi file localmente";
+"Share File Locally" = "Condividi file in locale";
 
 "Share Files" = "Condividi file";
 
@@ -382,7 +382,7 @@
 
 "Shebang" = "Shebang";
 
-"Show Context Menu Icon" = "Mostra icona menu contestuale";
+"Show Context Menu Icon" = "Mostra icona nel menu contestuale";
 
 "Show Total Size" = "Mostra dimensione totale";
 
@@ -394,15 +394,15 @@
 
 "Show in Main Menu" = "Mostra nel menu principale";
 
-"Show menu icon in menu bar" = "Mostra icona menu nella barra dei menu";
+"Show menu icon in menu bar" = "Mostra icona nella barra dei menu";
 
-"Skips Hidden Files" = "Salta i file nascosti";
+"Skips Hidden Files" = "Ignora file nascosti";
 
 "Social Accounts" = "Account social";
 
 "StatusBar Menu" = "Menu barra di stato";
 
-"Stopped" = "Interrotto";
+"Stopped" = "Arrestato";
 
 "Subfolder" = "Sottocartella";
 
@@ -413,49 +413,49 @@
 
 "The folder already exists: %@" = "La cartella esiste già: %@";
 
-"The folder has been deleted and will no longer display extensions." = "La cartella è stata eliminata e non mostrerà più le estensioni.";
+"The folder has been deleted and will no longer display extensions." = "La cartella è stata eliminata e le estensioni non saranno più visualizzate.";
 
-"The list data will be cleared, and the data will be reset to the default values." = "I dati dell'elenco verranno cancellati e ripristinati ai valori predefiniti.";
+"The list data will be cleared, and the data will be reset to the default values." = "I dati dell'elenco verranno cancellati e ripristinati ai valori di default.";
 
-"The port range can be set from 1024 to 65535. After making changes, please restart the service in the File Sharing History interface for the changes to take effect." = "L'intervallo delle porte può essere impostato da 1024 a 65535. Dopo le modifiche, riavvia il servizio nell'interfaccia Cronologia condivisione file affinché le modifiche abbiano effetto.";
+"The port range can be set from 1024 to 65535. After making changes, please restart the service in the File Sharing History interface for the changes to take effect." = "L'intervallo delle porte è configurabile da 1024 a 65535. Dopo le modifiche, riavvia il servizio dalla sezione Cronologia condivisione file affinché le modifiche abbiano effetto.";
 
-"This only removes the file sharing record and does not delete the file itself. Please feel free to proceed." = "Questo rimuove solo il record di condivisione file e non elimina il file stesso. Puoi procedere.";
+"This only removes the file sharing record and does not delete the file itself. Please feel free to proceed." = "Questa operazione rimuove solo il record di condivisione, non il file stesso. È possibile procedere.";
 
 "To Settings" = "Vai alle impostazioni";
 
-"Unlock all Features" = "Sblocca tutte le funzioni";
+"Unlock all Features" = "Sblocca tutte le funzionalità";
 
 "Version %@ (%@)" = "Versione %1$@ (%2$@)";
 
 "View QR code" = "Visualizza codice QR";
 
-"Visible in Finder" = "Visibile in Finder";
+"Visible in Finder" = "Visibile nel Finder";
 
-"Whether to display the create file menu in the top-level menu" = "Mostrare il menu di creazione file nel menu di primo livello";
+"Whether to display the create file menu in the top-level menu" = "Visualizzare il menu Nuovo file nel menu di primo livello";
 
-"Whether to skip displaying hidden files in the status bar menu." = "Se saltare la visualizzazione dei file nascosti nel menu della barra di stato.";
+"Whether to skip displaying hidden files in the status bar menu." = "Ignorare i file nascosti nel menu della barra di stato.";
 
-"X(Twitter)" = "X(Twitter)";
+"X(Twitter)" = "X (Twitter)";
 
-"You can directly drag the app into the list." = "Puoi trascinare direttamente l'app nell'elenco.";
+"You can directly drag the app into the list." = "È possibile trascinare l'app direttamente nell'elenco.";
 
-"You can now close this application.\nTo use the quick preview code highlighting plugin, please make sure the application remains installed on your computer." = "Ora puoi chiudere questa applicazione.\nPer usare il plugin di evidenziazione del codice in anteprima rapida, assicurati che l'app rimanga installata sul computer.";
+"You can now close this application.\nTo use the quick preview code highlighting plugin, please make sure the application remains installed on your computer." = "Ora è possibile chiudere l'applicazione.\nPer utilizzare il plugin di evidenziazione del codice nell'anteprima rapida, assicurati che l'app resti installata sul computer.";
 
-"You can now use the quick preview code highlighting plugin in Finder!" = "Ora puoi usare il plugin di evidenziazione del codice in Finder!";
+"You can now use the quick preview code highlighting plugin in Finder!" = "Il plugin di evidenziazione del codice è ora disponibile nel Finder.";
 
-"You must right-click the file to use it" = "Devi fare clic destro sul file per usarlo";
+"You must right-click the file to use it" = "Fai clic destro sul file per utilizzare questa funzione";
 
-"You must right-click the folder to use it" = "Devi fare clic destro sulla cartella per usarla";
+"You must right-click the folder to use it" = "Fai clic destro sulla cartella per utilizzare questa funzione";
 
-"You must select directory authorization for %@ to grant operation permissions." = "Devi selezionare l'autorizzazione della directory per %@ per concedere i permessi operativi.";
+"You must select directory authorization for %@ to grant operation permissions." = "È necessario selezionare l'autorizzazione della directory per %@ per concedere i permessi operativi.";
 
-"You need to enable the plugin" = "Devi abilitare il plugin";
+"You need to enable the plugin" = "È necessario abilitare il plugin";
 
-"You need to run the \"%@\" command in the command line to enable the %@ plugin." = "Devi eseguire il comando \"%1$@\" nella riga di comando per abilitare il plugin %2$@.";
+"You need to run the \"%@\" command in the command line to enable the %@ plugin." = "Esegui il comando \"%1$@\" nel Terminale per abilitare il plugin %2$@.";
 
-"Your Script Assistant" = "Il tuo assistente per gli script";
+"Your Script Assistant" = "Assistente script";
 
-"Your generous financial assistance, I have great confidence in keeping %@ healthy and maintaining it actively." = "La tua generosa assistenza finanziaria mi dà grande fiducia nel mantenere %@ sano e nel portarlo avanti attivamente.";
+"Your generous financial assistance, I have great confidence in keeping %@ healthy and maintaining it actively." = "Il tuo generoso contributo finanziario mi dà grande fiducia nel mantenere %@ in salute e attivamente sviluppato.";
 
 "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](emailurl) • [Github](https://github.com/jaywcjlove/rightmenu-master)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](emailurl) • [Github](https://github.com/jaywcjlove/rightmenu-master)";
 
@@ -467,6 +467,6 @@
 
 "🚨 Error resolving bookmark or opening file: %@" = "🚨 Errore nella risoluzione del segnalibro o nell'apertura del file: %@";
 
-"🚨 There are %lld files already existing. Do you want to overwrite them?" = "🚨 Esistono già %lld file. Vuoi sovrascriverli?";
+"🚨 There are %lld files already existing. Do you want to overwrite them?" = "🚨 Esistono già %lld file. Sovrascrivere?";
 
-"🚨 This folder does not have the required permissions. Please click the button to grant folder operation permissions." = "🚨 Questa cartella non ha le autorizzazioni necessarie. Clicca il pulsante per concedere le autorizzazioni di operazione sulla cartella.";
+"🚨 This folder does not have the required permissions. Please click the button to grant folder operation permissions." = "🚨 Questa cartella non dispone delle autorizzazioni necessarie. Fai clic sul pulsante per concedere i permessi operativi.";

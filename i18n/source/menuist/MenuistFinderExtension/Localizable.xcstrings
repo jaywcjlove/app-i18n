@@ -17,7 +17,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "✅ Collegamento creato con successo: %@"
+            "value" : "✅ Collegamento creato correttamente: %@"
           }
         },
         "zh-Hans" : {
@@ -114,7 +114,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🚨 Esistono già %@ file. Vuoi sovrascriverli?"
+            "value" : "🚨 Esistono già %@ file. Sovrascrivere?"
           }
         },
         "zh-Hans" : {
@@ -130,7 +130,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🚨 Esistono già %lld file. Vuoi sovrascriverli?"
+            "value" : "🚨 Esistono già %lld file. Sovrascrivere?"
           }
         },
         "zh-Hans" : {
@@ -146,7 +146,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🚨 Questa cartella non ha le autorizzazioni necessarie. Clicca il pulsante per concedere le autorizzazioni di operazione sulla cartella."
+            "value" : "🚨 Questa cartella non dispone delle autorizzazioni necessarie. Fai clic sul pulsante per concedere i permessi operativi."
           }
         },
         "zh-Hans" : {
@@ -162,7 +162,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🚨 Impossibile recuperare il percorso del desktop."
+            "value" : "🚨 Impossibile recuperare il percorso della Scrivania."
           }
         },
         "zh-Hans" : {
@@ -178,7 +178,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🚨🚨Il collegamento esiste🚨🚨"
+            "value" : "🚨🚨Il collegamento esiste già🚨🚨"
           }
         },
         "zh-Hans" : {
@@ -242,7 +242,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aggiungi alle cartelle comuni"
+            "value" : "Aggiungi alle cartelle frequenti"
           }
         },
         "zh-Hans" : {
@@ -274,7 +274,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "App comuni"
+            "value" : "App frequente"
           }
         },
         "zh-Hans" : {
@@ -290,7 +290,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cartella comune"
+            "value" : "Cartella frequente"
           }
         },
         "zh-Hans" : {
@@ -306,7 +306,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Script comune"
+            "value" : "Script frequente"
           }
         },
         "zh-Hans" : {
@@ -322,7 +322,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Script comuni nel menu principale"
+            "value" : "Script frequenti nel menu principale"
           }
         },
         "zh-Hans" : {
@@ -676,7 +676,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impossibile leggere fileType"
+            "value" : "Impossibile leggere il tipo di file"
           }
         },
         "zh-Hans" : {
@@ -692,7 +692,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impossibile leggere, è necessaria l'autorizzazione alla cartella: %@\n\n"
+            "value" : "Impossibile leggere. È necessaria l'autorizzazione alla cartella: %@\n\n"
           }
         },
         "zh-Hans" : {
@@ -724,7 +724,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Accesso alla cartella richiesto"
+            "value" : "Accesso alla cartella necessario"
           }
         },
         "zh-Hans" : {
@@ -885,7 +885,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "File/Cartella bloccati"
+            "value" : "File/Cartella protetti"
           }
         },
         "zh-Hans" : {
@@ -933,7 +933,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuovo file nel principale"
+            "value" : "Nuovo file nel menu principale"
           }
         },
         "zh-Hans" : {
@@ -975,7 +975,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Apri remoto Git"
+            "value" : "Apri repository Git remoto"
           }
         },
         "zh-Hans" : {
@@ -1169,7 +1169,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reimposta icona cartella"
+            "value" : "Ripristina icona cartella"
           }
         },
         "zh-Hans" : {
@@ -1218,7 +1218,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Invia collegamento simbolico al desktop"
+            "value" : "Invia link simbolico alla Scrivania"
           }
         },
         "zh-Hans" : {

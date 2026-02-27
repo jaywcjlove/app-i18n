@@ -158,7 +158,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🚨 Esistono già %lld file. Vuoi sovrascriverli?"
+            "value" : "🚨 Esistono già %lld file. Sovrascrivere?"
           }
         },
         "zh-Hans" : {
@@ -174,7 +174,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🚨 Questa cartella non ha le autorizzazioni necessarie. Clicca il pulsante per concedere le autorizzazioni di operazione sulla cartella."
+            "value" : "🚨 Questa cartella non dispone delle autorizzazioni necessarie. Fai clic sul pulsante per concedere i permessi operativi."
           }
         },
         "zh-Hans" : {
@@ -238,7 +238,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aggiungi app comune"
+            "value" : "Aggiungi app frequente"
           }
         },
         "zh-Hans" : {
@@ -254,7 +254,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aggiungi script comune"
+            "value" : "Aggiungi script frequente"
           }
         },
         "zh-Hans" : {
@@ -350,7 +350,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cartella di autorizzazione"
+            "value" : "Autorizzazione cartella"
           }
         },
         "zh-Hans" : {
@@ -382,7 +382,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calcola e mostra la dimensione del file o della cartella selezionati."
+            "value" : "Calcola e visualizza la dimensione del file o della cartella selezionati."
           }
         },
         "zh-Hans" : {
@@ -414,7 +414,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cambia colore icona cartella"
+            "value" : "Cambia il colore dell'icona cartella"
           }
         },
         "zh-Hans" : {
@@ -430,7 +430,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clicca per copiare il link"
+            "value" : "Fai clic per copiare il link"
           }
         },
         "zh-Hans" : {
@@ -446,7 +446,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clicca per aprire"
+            "value" : "Fai clic per aprire"
           }
         },
         "zh-Hans" : {
@@ -478,7 +478,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comprimi app usate frequentemente"
+            "value" : "Comprimi app usate di frequente"
           }
         },
         "zh-Hans" : {
@@ -494,7 +494,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "App comune"
+            "value" : "App frequente"
           }
         },
         "zh-Hans" : {
@@ -510,7 +510,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cartella comune"
+            "value" : "Cartella frequente"
           }
         },
         "zh-Hans" : {
@@ -526,7 +526,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comprimi cartella comune"
+            "value" : "Comprimi cartella frequente"
           }
         },
         "zh-Hans" : {
@@ -542,7 +542,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cartelle comuni"
+            "value" : "Cartelle frequenti"
           }
         },
         "zh-Hans" : {
@@ -558,7 +558,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Script comune"
+            "value" : "Script frequente"
           }
         },
         "zh-Hans" : {
@@ -574,7 +574,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Script comuni nel menu principale"
+            "value" : "Script frequenti nel menu principale"
           }
         },
         "zh-Hans" : {
@@ -846,7 +846,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impostazioni personalizzabili (es. nascondi, ordine)"
+            "value" : "Impostazioni personalizzabili (es. visibilità, ordine)"
           }
         },
         "zh-Hans" : {
@@ -895,7 +895,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Colore predefinito"
+            "value" : "Colore di default"
           }
         },
         "zh-Hans" : {
@@ -991,7 +991,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Disabilita direttamente il plugin %@ tramite [**Preferenze di Sistema**] -> [**Generali**] -> [**Elementi di login ed estensioni**] -> [**Quick Look**]."
+            "value" : "Disabilita direttamente il plugin %@ tramite [**Impostazioni di Sistema**] -> [**Generali**] -> [**Elementi login ed estensioni**] -> [**Quick Look**]."
           }
         },
         "zh-Hans" : {
@@ -1039,7 +1039,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mostra nelle estensioni Finder"
+            "value" : "Mostra nelle estensioni del Finder"
           }
         },
         "zh-Hans" : {
@@ -1071,7 +1071,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mostrare un gran numero di icone app nel menu contestuale può causare lag. Se noti un ritardo all'apertura del menu contestuale, puoi disabilitare la visualizzazione delle icone."
+            "value" : "La visualizzazione di molte icone nel menu contestuale potrebbe causare rallentamenti. In caso di ritardi all'apertura del menu, è possibile disabilitare la visualizzazione delle icone."
           }
         },
         "zh-Hans" : {
@@ -1087,7 +1087,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Confermi l'eliminazione dei %lld script selezionati?"
+            "value" : "Confermi l'eliminazione degli script selezionati (%lld)?"
           }
         },
         "zh-Hans" : {
@@ -1103,7 +1103,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Confermi l'eliminazione dei %lld file modello selezionati?"
+            "value" : "Confermi l'eliminazione dei file modello selezionati (%lld)?"
           }
         },
         "zh-Hans" : {
@@ -1161,7 +1161,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abilita %@ e le autorizzazioni."
+            "value" : "Abilita %@ e le relative autorizzazioni."
           }
         },
         "zh-Hans" : {
@@ -1177,7 +1177,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abilita e aggiungi applicazioni comuni per supportare vari editor e strumenti da riga di comando, per aprire rapidamente la directory corrente e migliorare l'efficienza operativa."
+            "value" : "Abilita e aggiungi applicazioni frequenti per supportare editor e strumenti da riga di comando, consentendo l'apertura rapida della directory corrente e una maggiore efficienza operativa."
           }
         },
         "zh-Hans" : {
@@ -1193,7 +1193,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abilita app comune"
+            "value" : "Abilita app frequente"
           }
         },
         "zh-Hans" : {
@@ -1209,7 +1209,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abilita script comune"
+            "value" : "Abilita script frequente"
           }
         },
         "zh-Hans" : {
@@ -1225,7 +1225,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abilita menu contestuale file"
+            "value" : "Abilita menu contestuale per i file"
           }
         },
         "zh-Hans" : {
@@ -1241,7 +1241,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abilita le impostazioni del colore cartella, consentendo modifiche rapide del colore dell'icona della cartella tramite il menu contestuale."
+            "value" : "Abilita le impostazioni del colore delle cartelle, consentendo modifiche rapide al colore dell'icona tramite il menu contestuale."
           }
         },
         "zh-Hans" : {
@@ -1257,7 +1257,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abilita menu contestuale cartelle"
+            "value" : "Abilita menu contestuale per le cartelle"
           }
         },
         "zh-Hans" : {
@@ -1273,7 +1273,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abilita QuickLook"
+            "value" : "Abilita Visualizzazione rapida"
           }
         },
         "zh-Hans" : {
@@ -1289,7 +1289,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abilita menu del tasto destro"
+            "value" : "Abilita menu contestuale"
           }
         },
         "zh-Hans" : {
@@ -1305,7 +1305,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abilita/Disabilita Quick Look nelle Preferenze di Sistema"
+            "value" : "Abilita/Disabilita Visualizzazione rapida nelle Impostazioni di Sistema"
           }
         },
         "zh-Hans" : {
@@ -1485,7 +1485,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menu contestuale Finder"
+            "value" : "Menu contestuale del Finder"
           }
         },
         "zh-Hans" : {
@@ -1501,7 +1501,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Plugin Finder"
+            "value" : "Plugin del Finder"
           }
         },
         "zh-Hans" : {
@@ -1517,7 +1517,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estensione Quick Look di Finder"
+            "value" : "Estensione Visualizzazione rapida del Finder"
           }
         },
         "zh-Hans" : {
@@ -1773,7 +1773,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nascondi menu elenco Le mie app"
+            "value" : "Nascondi menu Le mie app"
           }
         },
         "zh-Hans" : {
@@ -1805,7 +1805,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Numero cronologia"
+            "value" : "Numero voci cronologia"
           }
         },
         "zh-Hans" : {
@@ -1837,7 +1837,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se il problema persiste, riavvia l'applicazione e ricontrolla eventuali problemi di autorizzazioni."
+            "value" : "Se il problema persiste, riavvia l'applicazione e verifica nuovamente le autorizzazioni."
           }
         },
         "zh-Hans" : {
@@ -1875,7 +1875,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "In macOS 26+, se l'accesso alla directory root (%1$@) o a dispositivi esterni (ad es. unità USB) è autorizzato, dopo il riavvio del sistema è necessaria una nuova autorizzazione. Tuttavia, le directory sotto le directory utente (ad es. \"%2$@\") non richiedono una nuova autorizzazione. Questa è una politica di sicurezza in modalità sandbox e attualmente non esiste una soluzione perfetta."
+            "value" : "In macOS 26+, se è stato autorizzato l'accesso alla directory principale (%1$@) o a dispositivi esterni (ad es. unità USB), sarà necessaria una nuova autorizzazione dopo il riavvio del sistema. Le directory all'interno della cartella utente (ad es. \"%2$@\") non richiedono invece una nuova autorizzazione. Si tratta di una politica di sicurezza imposta dalla modalità sandbox, per la quale al momento non esiste una soluzione definitiva."
           }
         },
         "zh-Hans" : {
@@ -1891,7 +1891,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Include opzioni del menu contestuale come elimina e copia"
+            "value" : "Include opzioni del menu contestuale come Elimina e Copia"
           }
         },
         "zh-Hans" : {
@@ -1907,7 +1907,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La compressione delle cartelle comuni nella barra dei menu è abilitata?"
+            "value" : "Comprimere le cartelle frequenti nella barra dei menu?"
           }
         },
         "zh-Hans" : {
@@ -1939,7 +1939,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Avvia all'accesso"
+            "value" : "Apri all'accesso"
           }
         },
         "zh-Hans" : {
@@ -1988,7 +1988,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "File/Cartella bloccati"
+            "value" : "File/Cartella protetti"
           }
         },
         "zh-Hans" : {
@@ -2036,7 +2036,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impostazioni cartelle barra dei menu"
+            "value" : "Impostazioni cartelle nella barra dei menu"
           }
         },
         "zh-Hans" : {
@@ -2052,7 +2052,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Navigazione rapida barra dei menu"
+            "value" : "Navigazione rapida nella barra dei menu"
           }
         },
         "zh-Hans" : {
@@ -2084,7 +2084,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ordinamento menu e Abilita/Disabilita"
+            "value" : "Ordinamento e attivazione menu"
           }
         },
         "zh-Hans" : {
@@ -2164,7 +2164,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuovo file nel principale"
+            "value" : "Nuovo file nel menu principale"
           }
         },
         "zh-Hans" : {
@@ -2206,7 +2206,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Apri remoto Git"
+            "value" : "Apri repository Git remoto"
           }
         },
         "zh-Hans" : {
@@ -2286,7 +2286,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Altri menu"
+            "value" : "Altro"
           }
         },
         "zh-Hans" : {
@@ -2517,6 +2517,12 @@
     },
     "Quick Look" : {
       "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualizzazione rapida"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2530,7 +2536,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impostazioni tema Quick Look"
+            "value" : "Impostazioni tema Visualizzazione rapida"
           }
         },
         "zh-Hans" : {
@@ -2578,7 +2584,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tema QuickLook"
+            "value" : "Tema Visualizzazione rapida"
           }
         },
         "zh-Hans" : {
@@ -2642,7 +2648,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registra localmente la cronologia delle cartelle aperte in Finder."
+            "value" : "Registra localmente la cronologia delle cartelle aperte nel Finder."
           }
         },
         "zh-Hans" : {
@@ -2674,7 +2680,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rimuovi record di condivisione"
+            "value" : "Rimuovi record condivisione"
           }
         },
         "zh-Hans" : {
@@ -2690,7 +2696,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reimposta"
+            "value" : "Ripristina"
           }
         },
         "zh-Hans" : {
@@ -2706,7 +2712,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reimposta icona"
+            "value" : "Ripristina icona"
           }
         },
         "zh-Hans" : {
@@ -2722,7 +2728,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reimposta elenco"
+            "value" : "Ripristina elenco"
           }
         },
         "zh-Hans" : {
@@ -2738,7 +2744,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ripristina app predefinita"
+            "value" : "Ripristina app di default"
           }
         },
         "zh-Hans" : {
@@ -2754,7 +2760,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Riavvia e ricontrolla le autorizzazioni"
+            "value" : "Riavvia e verifica nuovamente le autorizzazioni"
           }
         },
         "zh-Hans" : {
@@ -2786,7 +2792,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clic destro sui percorsi dei file o delle cartelle selezionati;"
+            "value" : "Fai clic destro sui percorsi dei file o delle cartelle selezionati;"
           }
         },
         "zh-Hans" : {
@@ -2802,7 +2808,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clic destro sul percorso del file selezionato;"
+            "value" : "Fai clic destro sul percorso del file selezionato;"
           }
         },
         "zh-Hans" : {
@@ -2818,7 +2824,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clic destro sul percorso della cartella selezionata;"
+            "value" : "Fai clic destro sul percorso della cartella selezionata;"
           }
         },
         "zh-Hans" : {
@@ -2962,7 +2968,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Invia collegamento simbolico al desktop"
+            "value" : "Invia link simbolico alla Scrivania"
           }
         },
         "zh-Hans" : {
@@ -2994,7 +3000,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Configura aiuto per la navigazione del sito"
+            "value" : "Configura guida alla navigazione web"
           }
         },
         "zh-Hans" : {
@@ -3010,7 +3016,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impostazioni..."
+            "value" : "Impostazioni…"
           }
         },
         "zh-Hans" : {
@@ -3058,7 +3064,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Condividi file localmente"
+            "value" : "Condividi file in locale"
           }
         },
         "zh-Hans" : {
@@ -3116,7 +3122,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mostra icona menu contestuale"
+            "value" : "Mostra icona nel menu contestuale"
           }
         },
         "zh-Hans" : {
@@ -3196,7 +3202,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mostra icona menu nella barra dei menu"
+            "value" : "Mostra icona nella barra dei menu"
           }
         },
         "zh-Hans" : {
@@ -3228,7 +3234,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salta i file nascosti"
+            "value" : "Ignora file nascosti"
           }
         },
         "zh-Hans" : {
@@ -3276,7 +3282,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Interrotto"
+            "value" : "Arrestato"
           }
         },
         "zh-Hans" : {
@@ -3357,7 +3363,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La cartella è stata eliminata e non mostrerà più le estensioni."
+            "value" : "La cartella è stata eliminata e le estensioni non saranno più visualizzate."
           }
         },
         "zh-Hans" : {
@@ -3373,7 +3379,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "I dati dell'elenco verranno cancellati e ripristinati ai valori predefiniti."
+            "value" : "I dati dell'elenco verranno cancellati e ripristinati ai valori di default."
           }
         },
         "zh-Hans" : {
@@ -3389,7 +3395,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "L'intervallo delle porte può essere impostato da 1024 a 65535. Dopo le modifiche, riavvia il servizio nell'interfaccia Cronologia condivisione file affinché le modifiche abbiano effetto."
+            "value" : "L'intervallo delle porte è configurabile da 1024 a 65535. Dopo le modifiche, riavvia il servizio dalla sezione Cronologia condivisione file affinché le modifiche abbiano effetto."
           }
         },
         "zh-Hans" : {
@@ -3405,7 +3411,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Questo rimuove solo il record di condivisione file e non elimina il file stesso. Puoi procedere."
+            "value" : "Questa operazione rimuove solo il record di condivisione, non il file stesso. È possibile procedere."
           }
         },
         "zh-Hans" : {
@@ -3437,7 +3443,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sblocca tutte le funzioni"
+            "value" : "Sblocca tutte le funzionalità"
           }
         },
         "zh-Hans" : {
@@ -3491,7 +3497,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Visibile in Finder"
+            "value" : "Visibile nel Finder"
           }
         },
         "zh-Hans" : {
@@ -3507,7 +3513,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mostrare il menu di creazione file nel menu di primo livello"
+            "value" : "Visualizzare il menu Nuovo file nel menu di primo livello"
           }
         },
         "zh-Hans" : {
@@ -3523,7 +3529,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se saltare la visualizzazione dei file nascosti nel menu della barra di stato."
+            "value" : "Ignorare i file nascosti nel menu della barra di stato."
           }
         },
         "zh-Hans" : {
@@ -3536,6 +3542,12 @@
     },
     "X(Twitter)" : {
       "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X (Twitter)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3549,7 +3561,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Puoi trascinare direttamente l'app nell'elenco."
+            "value" : "È possibile trascinare l'app direttamente nell'elenco."
           }
         },
         "zh-Hans" : {
@@ -3565,7 +3577,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ora puoi chiudere questa applicazione.\nPer usare il plugin di evidenziazione del codice in anteprima rapida, assicurati che l'app rimanga installata sul computer."
+            "value" : "Ora è possibile chiudere l'applicazione.\nPer utilizzare il plugin di evidenziazione del codice nell'anteprima rapida, assicurati che l'app resti installata sul computer."
           }
         },
         "zh-Hans" : {
@@ -3581,7 +3593,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ora puoi usare il plugin di evidenziazione del codice in Finder!"
+            "value" : "Il plugin di evidenziazione del codice è ora disponibile nel Finder."
           }
         },
         "zh-Hans" : {
@@ -3597,7 +3609,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Devi fare clic destro sul file per usarlo"
+            "value" : "Fai clic destro sul file per utilizzare questa funzione"
           }
         },
         "zh-Hans" : {
@@ -3613,7 +3625,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Devi fare clic destro sulla cartella per usarla"
+            "value" : "Fai clic destro sulla cartella per utilizzare questa funzione"
           }
         },
         "zh-Hans" : {
@@ -3629,7 +3641,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Devi selezionare l'autorizzazione della directory per %@ per concedere i permessi operativi."
+            "value" : "È necessario selezionare l'autorizzazione della directory per %@ per concedere i permessi operativi."
           }
         },
         "zh-Hans" : {
@@ -3645,7 +3657,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Devi abilitare il plugin"
+            "value" : "È necessario abilitare il plugin"
           }
         },
         "zh-Hans" : {
@@ -3667,7 +3679,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Devi eseguire il comando \"%1$@\" nella riga di comando per abilitare il plugin %2$@."
+            "value" : "Esegui il comando \"%1$@\" nel Terminale per abilitare il plugin %2$@."
           }
         },
         "zh-Hans" : {
@@ -3683,7 +3695,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La tua generosa assistenza finanziaria mi dà grande fiducia nel mantenere %@ sano e nel portarlo avanti attivamente."
+            "value" : "Il tuo generoso contributo finanziario mi dà grande fiducia nel mantenere %@ in salute e attivamente sviluppato."
           }
         },
         "zh-Hans" : {
@@ -3699,7 +3711,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il tuo assistente per gli script"
+            "value" : "Assistente script"
           }
         },
         "zh-Hans" : {
