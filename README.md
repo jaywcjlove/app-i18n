@@ -261,3 +261,16 @@ Update `.lproj` to `.xcstrings` (for importing to Xcode)
 ```shell
 $ appi18n to-xcstrings
 ```
+
+### `clean`
+
+Clean up empty/outdated internationalization files and keep source files synchronized with localization files
+
+1. **Clean empty folders**: Remove empty `.lproj` directories and files
+2. **Synchronized deletion**: When certain keys are removed from `.xcstrings`, corresponding keys in `.lproj` files will also be cleaned up
+3. **Remove outdated files**: Delete unused `.strings` files
+4. **Maintain consistency**: Ensure content synchronization between `.xcstrings` and `.lproj`
+
+```shell
+$ appi18n clean
+```
