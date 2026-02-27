@@ -23,7 +23,7 @@ struct AppI18n: ParsableCommand {
         commandName: "appi18n",
         abstract: "App i18n",
         discussion: helpOverview + "\n\n" + helpExamples,
-        version: "1.0.2",
+        version: "1.1.0",
         subcommands: [
             Extract.self,
             ToLproj.self,
