@@ -18,7 +18,7 @@
 
 "Common Scripts in Main Menu" = "主菜单中的常用脚本";
 
-"Compress" = "Compress";
+"Compress" = "压缩";
 
 "Convert To" = "转换为";
 
@@ -34,7 +34,7 @@
 
 "Create %@ File" = "创建 %@ 文件";
 
-"Create 3 random folders" = "Create 3 random folders";
+"Create 3 random folders" = "创建 3 个随机文件夹";
 
 "Create New File Error" = "创建新文件错误";
 
@@ -44,7 +44,7 @@
 
 "Cut (%@ Items)" = "剪切（%@ 个项目）";
 
-"Cut (%lld Items)" = "Cut (%lld Items)";
+"Cut (%lld Items)" = "剪切（%lld 项）";
 
 "Cut and Paste" = "剪切并粘贴";
 
@@ -59,7 +59,7 @@
 
 "Failed to create PDF page from image: %@" = "从图片创建 PDF 页面失败：%@";
 
-"Failed to open runner: %@" = "Failed to open runner: %@";
+"Failed to open runner: %@" = "打开运行器失败：%@";
 
 "Failed to read fileType" = "无法读取文件类型";
 
@@ -83,7 +83,7 @@
 
 "Image convert error: %@" = "图片转换错误：%@";
 
-"Image convert error: %llu" = "Image convert error: %llu";
+"Image convert error: %llu" = "图像转换错误：%llu";
 
 /* Light */
 "Light" = "亮色";
@@ -104,7 +104,7 @@
 
 "Open in Xcode" = "在 Xcode 中打开";
 
-"Open in browser (%@" = "Open in browser (%@";
+"Open in browser (%@" = "浏览器中打开 (%@";
 
 "Open in browser (%@)" = "浏览器中打开（%@）";
 
@@ -112,13 +112,13 @@
 
 "Paste (%@ Items)" = "粘贴（%@ 个项目）";
 
-"Paste (%lld Items)" = "Paste (%lld Items)";
+"Paste (%lld Items)" = "粘贴（%lld 项）";
 
 "Paste Image from clip" = "从剪贴板粘贴图片";
 
 "Paste from Cut" = "粘贴剪切内容";
 
-"Path Information" = "Path Information";
+"Path Information" = "路径信息";
 
 "Please check if the folder exists: \n\"%@\"" = "请检查文件夹是否存在：“%@”";
 
@@ -163,7 +163,7 @@
 
 "🚨 There are %@ files already existing. Do you want to overwrite them?" = "🚨 已有 %@ 个文件存在。您确定要覆盖它们吗？";
 
-"🚨 There are %lld files already existing. Do you want to overwrite them?" = "🚨 There are %lld files already existing. Do you want to overwrite them?";
+"🚨 There are %lld files already existing. Do you want to overwrite them?" = "🚨 已有 %lld 个文件存在。要覆盖它们吗？";
 
 "🚨 This folder does not have the required permissions. Please click the button to grant folder operation permissions." = "🚨 此文件夹缺少权限，请点击按钮授予文件夹操作权限。";
 
