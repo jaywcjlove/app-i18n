@@ -1,23 +1,6 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "%@" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@"
-          }
-        }
-      }
-    },
     "✅ Shortcut created successfully: %@" : {
       "localizations" : {
         "it" : {
@@ -110,23 +93,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🚨 未找到图像数据或文件路径"
-          }
-        }
-      }
-    },
-    "🚨 There are %@ files already existing. Do you want to overwrite them?" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "🚨 Esistono già %@ file. Sovrascrivere?"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "🚨 已有 %@ 个文件存在。您确定要覆盖它们吗？"
           }
         }
       }
@@ -527,23 +493,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "剪切"
-          }
-        }
-      }
-    },
-    "Cut (%@ Items)" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Taglia (%@ elementi)"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "剪切（%@ 个项目）"
           }
         }
       }
@@ -1014,23 +963,6 @@
         }
       }
     },
-    "Open in browser (%@)" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apri nel browser (%@)"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "浏览器中打开（%@）"
-          }
-        }
-      }
-    },
     "Open in Xcode" : {
       "localizations" : {
         "it" : {
@@ -1059,23 +991,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "覆盖"
-          }
-        }
-      }
-    },
-    "Paste (%@ Items)" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Incolla (%@ elementi)"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "粘贴（%@ 个项目）"
           }
         }
       }
@@ -1188,23 +1103,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重置文件夹图标"
-          }
-        }
-      }
-    },
-    "Run \"%@\" Script" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Esegui script \"%@\""
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "运行 \"%@\" 脚本"
           }
         }
       }
