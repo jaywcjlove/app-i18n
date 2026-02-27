@@ -95,6 +95,8 @@ swift run appi18n extract /path/to/YourApp
 swift run appi18n to-lproj
 # 将 `.lproj` 更新回 `.xcstrings`：
 swift run appi18n to-xcstrings
+# 强制不跳过更新，当前语言与默认语言一致
+swift run appi18n to-xcstrings --no-skip-default-value
 # 为一个或多个应用添加新语言：
 swift run appi18n langs menuist,scap fr
 # 查看某个应用已有语言：
@@ -228,12 +230,14 @@ $ appi18n langs --all
 1. **提取导入**：将 `.strings` 文件中的键值对提取并导入到 `.xcstrings` 文件中
 2. **覆盖规则**：若 `.xcstrings` 中已存在相同键，且 `.strings` 中的值与 `.xcstrings` 默认值不同，则用 `.strings` 的值覆盖
 3. **跳过规则**：
-   - 若 `.strings` 中的值与 `.xcstrings` 默认值相同，则跳过更新
+   - 若 `.strings` 中的值与 `.xcstrings` 默认值相同，则跳过更新(`--no-skip-default-value` 控制不跳过)
    - 若 `.strings` 中的值为空，则跳过导入
    - 若未找到对应的 `.xcstrings` 文件，则跳过该 `.strings` 文件并提示
 
 ```shell
 $ appi18n to-xcstrings
+# 强制不跳过更新，当前语言与默认语言一致
+$ appi18n to-xcstrings --no-skip-default-value
 ```
 
 ### `clean`

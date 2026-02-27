@@ -121,6 +121,8 @@ swift run appi18n extract /path/to/YourApp
 swift run appi18n to-lproj
 # Update `.xcstrings` from `.lproj`:
 swift run appi18n to-xcstrings
+# Force not skipping updates, the current language is the same as the default language.
+swift run appi18n to-xcstrings --no-skip-default-value
 # Add a new language to one or more apps:
 swift run appi18n langs menuist,scap fr
 # List existing languages for an app:
@@ -254,12 +256,14 @@ Update `.lproj` to `.xcstrings` (for importing to Xcode)
 1. Extract values from `.strings` and import into `.xcstrings`
 2. If a key already exists in `.xcstrings` and the value in `.strings` differs from the `.xcstrings` default value, overwrite it with the `.strings` value
 3. Skip rules:
-   - If a value in `.strings` is the same as the default value in `.xcstrings`, skip update
+   - If a value in `.strings` is the same as the default value in `.xcstrings`, skip update (`--no-skip-default-value`)
    - If a value in `.strings` is empty, skip import
    - If the corresponding `.xcstrings` file is missing, skip that `.strings` file and warn
 
 ```shell
 $ appi18n to-xcstrings
+# Force not skipping updates, the current language is the same as the default language.
+$ appi18n to-xcstrings --no-skip-default-value
 ```
 
 ### `clean`

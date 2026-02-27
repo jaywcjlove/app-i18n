@@ -126,7 +126,7 @@ public func addLanguage(apps: [String], lang: String) throws {
     }
 }
 
-public func toXCStrings() throws {
+public func toXCStrings(skipDefaultValue: Bool = true) throws {
     let sourceRoot = i18nSourceURL()
     let lprojRoot = i18nLprojURL()
     guard let apps = try? fileManager.contentsOfDirectory(atPath: lprojRoot.path) else {
@@ -155,14 +155,14 @@ public func toXCStrings() throws {
                     Logger.warn("Missing xcstrings file: \(xcFile.path)")
                     continue
                 }
-
                 var xc = try loadXCStrings(at: xcFile)
+                if lang == xc.sourceLanguage { continue }
                 let strings = parseStringsFile(at: stringsFile)
                 for (key, value) in strings.entries {
                     if value.isEmpty { continue }
                     var entry = xc.strings[key] ?? [:]
                     let defaultValue = getLocalizationValue(entry, lang: xc.sourceLanguage) ?? key
-                    if value == defaultValue { continue }
+                    if skipDefaultValue, value == defaultValue { continue }
                     var localizations = entry["localizations"] as? [String: Any] ?? [:]
                     var langObj = localizations[lang] as? [String: Any] ?? [:]
                     var unit = langObj["stringUnit"] as? [String: Any] ?? [:]

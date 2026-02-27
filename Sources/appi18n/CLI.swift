@@ -116,8 +116,11 @@ struct ToXCStrings: ParsableCommand {
         abstract: "Update .xcstrings from .lproj (for importing to Xcode)"
     )
 
+    @Flag(inversion: .prefixedNo, help: "Skip updates when .strings value equals the .xcstrings default value")
+    var skipDefaultValue: Bool = true
+
     mutating func run() throws {
-        try toXCStrings()
+        try toXCStrings(skipDefaultValue: skipDefaultValue)
     }
 }
 
