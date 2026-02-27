@@ -251,11 +251,13 @@ public func status() throws {
 
 public func clean() throws {
     let lprojRoot = i18nLprojURL()
+    let sourceRoot = i18nSourceURL()
     guard let apps = try? fileManager.contentsOfDirectory(atPath: lprojRoot.path) else {
         Logger.warn("No lproj directory found at \(lprojRoot.path)")
         return
     }
     var removedFiles = 0
+    var removedKeys = 0
     for app in apps {
         let appLproj = lprojRoot.appendingPathComponent(app)
         var isDir: ObjCBool = false
@@ -268,6 +270,47 @@ public func clean() throws {
                 if parsed.entries.isEmpty {
                     try fileManager.removeItem(at: file)
                     removedFiles += 1
+                    continue
+                }
+
+                let rel = relativePath(from: langDir, to: file)
+                let relDir = (rel as NSString).deletingLastPathComponent
+                let baseName = (rel as NSString).lastPathComponent.replacingOccurrences(of: ".strings", with: ".xcstrings")
+                let xcFile = sourceRoot
+                    .appendingPathComponent(app)
+                    .appendingPathComponent(relDir)
+                    .appendingPathComponent(baseName)
+
+                if !fileManager.fileExists(atPath: xcFile.path) {
+                    try fileManager.removeItem(at: file)
+                    removedFiles += 1
+                    continue
+                }
+
+                let xc = try loadXCStrings(at: xcFile)
+                var allowedKeys = Set<String>()
+                var comments: [String: String?] = [:]
+                for (key, entry) in xc.strings {
+                    allowedKeys.insert(key)
+                    comments[key] = getEntryComment(entry)
+                }
+
+                let original = parsed.entries
+                var filtered: [String: String] = [:]
+                for (key, value) in original where allowedKeys.contains(key) {
+                    filtered[key] = value
+                }
+
+                if filtered.isEmpty {
+                    try fileManager.removeItem(at: file)
+                    removedFiles += 1
+                    removedKeys += original.count
+                    continue
+                }
+
+                if filtered.count != original.count {
+                    removedKeys += (original.count - filtered.count)
+                    try writeStringsFile(entries: filtered, comments: comments, to: file)
                 }
             }
         }
@@ -290,7 +333,7 @@ public func clean() throws {
     }
 
     removeEmptyDirectories(at: lprojRoot)
-    Logger.info("Cleaned \(removedFiles) empty .strings files")
+    Logger.info("Cleaned \(removedFiles) empty/outdated .strings files, removed \(removedKeys) stale keys")
 }
 
 public func listLanguages() throws {

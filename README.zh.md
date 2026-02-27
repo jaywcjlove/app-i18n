@@ -235,3 +235,7 @@ $ appi18n langs --all
 ```shell
 $ appi18n to-xcstrings
 ```
+
+### `clean`
+
+清理空/过时 `.lproj` 文件，同时清理 `.xcstrings` 中移除的内容，对应在 `.lproj` 中也需要清理掉
