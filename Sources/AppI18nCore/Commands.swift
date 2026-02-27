@@ -2,7 +2,7 @@ import Foundation
 
 public func extract(projectPath: String) throws {
     let projectURL = URL(fileURLWithPath: projectPath).standardizedFileURL
-    let appName = projectURL.lastPathComponent
+    let appName = projectURL.lastPathComponent.lowercased()
     let targetRoot = i18nSourceURL().appendingPathComponent(appName)
     let files = listFiles(withExtension: "xcstrings", under: projectURL)
     if files.isEmpty {
