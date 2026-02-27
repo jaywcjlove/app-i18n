@@ -94,6 +94,22 @@ My app internationalization files are stored in the [`i18n/source`](./i18n/sourc
         └── Localizable.xcstrings
 ```
 
+The following shows example commands for adding internationalization files of a new app to the current repository's maintenance, including operations like importing files and adding new languages.
+
+```bash
+# 1️⃣ Extract .xcstrings localization file
+$ appi18n extract  ~/git/IconedApp/Iconed
+# 2️⃣ Convert .xcstrings to .lproj for maintenance
+$ appi18n to-lproj
+# 3️⃣ Add French (fr) language to Iconed app
+$ appi18n langs iconed fr
+# 4️⃣ Update all .lproj content back to .xcstrings
+$ appi18n to-xcstrings
+# 5️⃣ Also update when language matches base language
+$ appi18n to-xcstrings --no-skip-default-value
+# ✅ 💯 Replace .xcstrings files in Xcode with the updated ones
+```
+
 ## Installation
 
 ```bash

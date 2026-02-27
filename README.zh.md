@@ -68,6 +68,22 @@ App i18n
         └── Localizable.xcstrings
 ```
 
+下面展示将新应用的国际化文件添加到当前仓库维护的示例命令，包含导入文件和新增语言等操作。
+
+```bash
+# 1️⃣ 提取 .xcstrings 国际化文件
+$ appi18n extract  ~/git/IconedApp/Iconed
+# 2️⃣ 将 .xcstrings 转换成 .lproj 用于维护
+$ appi18n to-lproj
+# 3️⃣ 为 Iconed 应用添加 fr 语言
+$ appi18n langs iconed fr
+# 4️⃣ 将所有 .lproj 内容更新到 .xcstrings 文件中
+$ appi18n to-xcstrings
+# 5️⃣ 语言与默认语言一致，也要更新
+$ appi18n to-xcstrings --no-skip-default-value
+# ✅ 💯 用更新后的文件替换 Xcode 中的 .xcstrings 文件
+```
+
 ## 安装
 
 ```bash
