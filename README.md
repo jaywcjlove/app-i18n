@@ -104,6 +104,7 @@ Commands:
   langs        List languages for app(s) or add a language to app(s)
   to-xcstrings Update .lproj to .xcstrings (for importing to Xcode)
   status       Check translation status (missing / incomplete languages)
+  preview      Generate an HTML preview for translations
   clean        Clean outdated/empty .lproj files
   help         Show this help information
 ```
@@ -118,6 +119,7 @@ appi18n langs menuist
 appi18n langs --all
 appi18n to-xcstrings
 appi18n status
+appi18n preview
 appi18n clean
 ```
 
@@ -211,6 +213,31 @@ $ appi18n to-xcstrings
 $ appi18n to-xcstrings --no-skip-default-value
 ```
 
+### `preview`
+
+Generate HTML localization preview pages (`index.html` + per-app detail pages).
+
+Parameters:
+
+1. `apps` (optional): comma-separated app names under `i18n/lproj`, e.g. `menuist,scap`
+2. `-o, --output` (optional): output directory, default `.html`
+
+```shell
+# Preview all apps, output to ./.html
+$ appi18n preview
+
+# Preview one app
+$ appi18n preview menuist
+
+# Preview multiple apps
+$ appi18n preview menuist,scap
+
+# Custom output directory
+$ appi18n preview -o i18n/preview-site
+# or
+$ appi18n preview menuist -o i18n/preview-menuist
+```
+
 ### `clean`
 
 Clean up empty/outdated internationalization files and keep source files synchronized with localization files
@@ -259,6 +286,12 @@ swift run appi18n langs
 swift run appi18n langs --all
 # Check translation status:
 swift run appi18n status
+# Generate i18n HTML preview:
+swift run appi18n preview
+# Generate preview for selected apps:
+swift run appi18n preview menuist,scap
+# Generate preview to a custom directory:
+swift run appi18n preview -o i18n/preview-site
 # Clean empty/outdated `.lproj` files:
 swift run appi18n clean
 ```

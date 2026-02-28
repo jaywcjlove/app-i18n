@@ -15,6 +15,7 @@ Examples:
   appi18n langs --all
   appi18n to-xcstrings
   appi18n status
+  appi18n preview
   appi18n clean
 """
 
@@ -30,6 +31,7 @@ struct AppI18n: ParsableCommand {
             Langs.self,
             ToXCStrings.self,
             Status.self,
+            Preview.self,
             Clean.self
         ]
     )
@@ -132,6 +134,31 @@ struct Status: ParsableCommand {
 
     mutating func run() throws {
         try status()
+    }
+}
+
+struct Preview: ParsableCommand {
+    static let configuration = CommandConfiguration(
+        commandName: "preview",
+        abstract: "Generate an HTML preview for translations"
+    )
+
+    @Argument(help: "Comma-separated app names under i18n/lproj. Omit to include all apps.")
+    var apps: String?
+
+    @Option(name: .shortAndLong, help: "Output directory for index.html and app detail pages")
+    var output: String = ".html"
+
+    mutating func run() throws {
+        let appList = apps?
+            .split(separator: ",")
+            .map { $0.trimmingCharacters(in: .whitespacesAndNewlines) }
+            .filter { !$0.isEmpty }
+        let outputPath = output.trimmingCharacters(in: .whitespacesAndNewlines)
+        if outputPath.isEmpty {
+            throw ValidationError("Output path cannot be empty.")
+        }
+        try previewHTML(apps: appList, outputPath: outputPath)
     }
 }
 

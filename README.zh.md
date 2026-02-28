@@ -105,6 +105,7 @@ Commands:
   langs        查看应用语言或为应用添加语言
   to-xcstrings 将 .lproj 更新到 .xcstrings (用于导入 Xcode)中
   status       检查翻译状态 (missing / incomplete 语言)
+  preview      生成国际化 HTML 预览
   clean        清理过时/空 .lproj 文件
   help         显示此帮助信息
 ```
@@ -119,6 +120,7 @@ appi18n langs menuist
 appi18n langs --all
 appi18n to-xcstrings
 appi18n status
+appi18n preview
 appi18n clean
 ```
 
@@ -212,6 +214,31 @@ $ appi18n to-xcstrings
 $ appi18n to-xcstrings --no-skip-default-value
 ```
 
+### `preview`
+
+生成国际化 HTML 预览页面（`index.html` + 每个应用的详情页）。
+
+参数说明：
+
+1. `apps`（可选）：`i18n/lproj` 下的应用名，多个用英文逗号分隔，例如 `menuist,scap`
+2. `-o, --output`（可选）：输出目录，默认 `.html`
+
+```shell
+# 预览全部应用，输出到 ./.html
+$ appi18n preview
+
+# 仅预览一个应用
+$ appi18n preview menuist
+
+# 预览多个应用
+$ appi18n preview menuist,scap
+
+# 自定义输出目录
+$ appi18n preview -o i18n/preview-site
+# 或
+$ appi18n preview menuist -o i18n/preview-menuist
+```
+
 ### `clean`
 
 清理空/过时的国际化文件，保持源文件与本地化文件的同步
@@ -260,6 +287,12 @@ swift run appi18n langs
 swift run appi18n langs --all
 # 检查翻译状态：
 swift run appi18n status
+# 生成国际化 HTML 预览：
+swift run appi18n preview
+# 仅生成指定应用预览：
+swift run appi18n preview menuist,scap
+# 输出到自定义目录：
+swift run appi18n preview -o i18n/preview-site
 # 清理空/过时 `.lproj` 文件：
 swift run appi18n clean
 ```

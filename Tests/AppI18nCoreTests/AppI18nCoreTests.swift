@@ -61,7 +61,8 @@ final class AppI18nCoreTests: XCTestCase {
                 "strings": [
                     "Hello": [
                         "localizations": [
-                            "en": ["stringUnit": ["state": "new", "value": "Hello"]]
+                            "en": ["stringUnit": ["state": "new", "value": "Hello"]],
+                            "fr": ["stringUnit": ["state": "translated", "value": "Bonjour"]]
                         ]
                     ],
                     "Welcome": [
@@ -137,6 +138,85 @@ final class AppI18nCoreTests: XCTestCase {
 
             let langs = try getLanguages(app: "menuist")
             XCTAssertEqual(langs, ["fr"])
+        }
+    }
+
+    func testPreviewHTMLGeneratesIndexAndAppPages() throws {
+        try withTempDir { dir in
+            let sourceRoot = dir.appendingPathComponent("i18n/source/menuist")
+            try FileManager.default.createDirectory(at: sourceRoot, withIntermediateDirectories: true)
+            let xcFile = sourceRoot.appendingPathComponent("Localizable.xcstrings")
+            let xcJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [
+                    "Hello": [
+                        "localizations": [
+                            "en": ["stringUnit": ["state": "new", "value": "Hello"]]
+                        ]
+                    ],
+                    "Bye": [
+                        "localizations": [
+                            "en": ["stringUnit": ["state": "new", "value": "Bye"]],
+                            "fr": ["stringUnit": ["state": "translated", "value": "Bye"]]
+                        ]
+                    ],
+                    "ShouldBeHidden": [
+                        "localizations": [
+                            "en": ["stringUnit": ["state": "new", "value": ""]],
+                            "fr": ["stringUnit": ["state": "translated", "value": "Doit être masqué"]]
+                        ]
+                    ]
+                ],
+                "version": "1.0"
+            ]
+            let xcData = try JSONSerialization.data(withJSONObject: xcJSON, options: [.prettyPrinted, .sortedKeys])
+            try xcData.write(to: xcFile)
+
+            let enDir = dir.appendingPathComponent("i18n/lproj/menuist/en.lproj")
+            let frDir = dir.appendingPathComponent("i18n/lproj/menuist/fr.lproj")
+            try FileManager.default.createDirectory(at: enDir, withIntermediateDirectories: true)
+            try FileManager.default.createDirectory(at: frDir, withIntermediateDirectories: true)
+            try "\"Hello\" = \"Hello\";\n\"Bye\" = \"Bye\";\n".write(
+                to: enDir.appendingPathComponent("Localizable.strings"),
+                atomically: true,
+                encoding: .utf8
+            )
+            try "\"Hello\" = \"Bonjour\";\n\"Bye\" = \"Bye\";\n".write(
+                to: frDir.appendingPathComponent("Localizable.strings"),
+                atomically: true,
+                encoding: .utf8
+            )
+
+            try previewHTML(apps: ["menuist"], outputPath: "i18n/preview")
+
+            let indexOutput = dir.appendingPathComponent("i18n/preview/index.html")
+            let appOutput = dir.appendingPathComponent("i18n/preview/menuist.html")
+
+            XCTAssertTrue(FileManager.default.fileExists(atPath: indexOutput.path))
+            XCTAssertTrue(FileManager.default.fileExists(atPath: appOutput.path))
+
+            let indexHTML = try String(contentsOf: indexOutput, encoding: .utf8)
+            XCTAssertTrue(indexHTML.contains("My App i18n Preview"))
+            XCTAssertTrue(indexHTML.contains(">menuist</a>"))
+            XCTAssertTrue(indexHTML.contains("app-block"))
+            XCTAssertTrue(indexHTML.contains("<th>Language</th>"))
+            XCTAssertTrue(indexHTML.contains("<th>Completion</th>"))
+            XCTAssertFalse(indexHTML.contains("<th>App</th>"))
+            XCTAssertTrue(indexHTML.contains("en "))
+            XCTAssertTrue(indexHTML.contains("fr "))
+            XCTAssertTrue(indexHTML.contains("100% (2/2)"))
+            XCTAssertTrue(indexHTML.contains("100% (2/2)"))
+
+            let appHTML = try String(contentsOf: appOutput, encoding: .utf8)
+            XCTAssertTrue(appHTML.contains("menuist"))
+            XCTAssertTrue(appHTML.contains("Localizable.strings"))
+            XCTAssertTrue(appHTML.contains("file-select"))
+            XCTAssertTrue(appHTML.contains("Default Value (en)"))
+            XCTAssertFalse(appHTML.contains("Default Lang"))
+            XCTAssertFalse(appHTML.contains("<th>en</th>"))
+            XCTAssertFalse(appHTML.contains("ShouldBeHidden"))
+            XCTAssertTrue(appHTML.contains("Bonjour"))
+            XCTAssertTrue(appHTML.contains("activate("))
         }
     }
 }
