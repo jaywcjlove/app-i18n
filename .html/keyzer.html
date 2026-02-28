@@ -1,0 +1,939 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>keyzer i18n Preview</title>
+  <style>
+    body { margin: 0; background: #f7f7f9; color: #1f2937; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .wrap { padding: 16px; }
+    h1 { margin: 0 0 4px; font-size: 22px; }
+    .meta { margin: 0 0 10px; color: #6b7280; font-size: 12px; }
+    .chips { margin-bottom: 12px; display: flex; flex-wrap: wrap; gap: 6px; }
+    .chip { display: inline-block; border: 1px solid #d1d5db; border-radius: 999px; padding: 2px 8px; font-size: 12px; background: #fff; color: #374151; }
+    .toolbar { display: flex; justify-content: flex-start; align-items: center; margin-bottom: 10px; }
+    .file-select { border: 1px solid #d1d5db; border-radius: 6px; background: #e6ecff; padding: 6px 8px; font-size: 12px; min-width: 360px; max-width: 100%; }
+    .panel { display: none; }
+    .panel.active { display: block; }
+    h3 { margin: 0 0 8px; font-size: 14px; }
+    .table-wrap { overflow: auto; border: 1px solid #e5e7eb; background: #fff; border-radius: 8px; }
+    table { border-collapse: collapse; width: 100%; min-width: 820px; }
+    th, td { border-bottom: 1px solid #e5e7eb; border-right: 1px solid #e5e7eb; text-align: left; vertical-align: top; padding: 8px 10px; font-size: 12px; line-height: 1.5; }
+    th { position: sticky; top: 0; background: #f3f4f6; z-index: 1; }
+    code { white-space: pre-wrap; word-break: break-all; }
+    td { white-space: pre-wrap; word-break: break-word; }
+    td.ok { background: #ecfdf5; color: #065f46; }
+    td.todo { background: #fff7ed; color: #9a3412; }
+    .cell-link { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+    .back { display: inline-block; margin-bottom: 8px; color: #2563eb; text-decoration: none; }
+    .back:hover { text-decoration: underline; }
+    @media (max-width: 900px) {
+      .toolbar { justify-content: stretch; }
+      .file-select { min-width: 0; width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <a class="back" href="index.html">← Back to index</a>
+    <h1>keyzer</h1>
+    <p class="meta">Generated at: 2026-02-28T13:03:24Z · Files: 2</p>
+    <div class="chips">
+      <span class="chip">en: 100% (168/168)</span>
+<span class="chip">zh-Hans: 100% (168/168)</span>
+    </div>
+    <div class="toolbar">
+      <select id="file-select" class="file-select">
+        <option value="file-infoplist-strings" selected>InfoPlist.strings</option>
+<option value="file-localizable-strings">Localizable.strings</option>
+      </select>
+    </div>
+    <div class="content">
+      <section id="file-infoplist-strings" class="panel active">
+  <h3>InfoPlist.strings</h3>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr><th>Key</th>
+<th>Default Value (en)</th>
+<th>zh-Hans</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+<td><code>CFBundleDisplayName</code></td>
+<td>Keyzer</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/InfoPlist.strings#L1" target="_blank" rel="noreferrer noopener">Keyzer</a></td>
+</tr>
+<tr>
+<td><code>CFBundleName</code></td>
+<td>Keyzer</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/InfoPlist.strings#L3" target="_blank" rel="noreferrer noopener">Keyzer</a></td>
+</tr>
+<tr>
+<td><code>Keyzer File</code></td>
+<td>Keyzer File</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/InfoPlist.strings#L5" target="_blank" rel="noreferrer noopener">Keyzer 文件</a></td>
+</tr>
+<tr>
+<td><code>NSHumanReadableCopyright</code></td>
+<td>Copyright © 2025 Chujiang Wang. All rights reserved.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/InfoPlist.strings#L7" target="_blank" rel="noreferrer noopener">版权所有 © 2025 王楚江 保留所有权利。</a></td>
+</tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+<section id="file-localizable-strings" class="panel">
+  <h3>Localizable.strings</h3>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr><th>Key</th>
+<th>Default Value (en)</th>
+<th>zh-Hans</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+<td><code>%lld</code></td>
+<td>%lld</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L3" target="_blank" rel="noreferrer noopener">%lld</a></td>
+</tr>
+<tr>
+<td><code>%lld / %lld</code></td>
+<td>%1$lld / %2$lld</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L5" target="_blank" rel="noreferrer noopener">%1$lld / %2$lld</a></td>
+</tr>
+<tr>
+<td><code>About</code></td>
+<td>About</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L7" target="_blank" rel="noreferrer noopener">关于</a></td>
+</tr>
+<tr>
+<td><code>About %@</code></td>
+<td>About %@</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L9" target="_blank" rel="noreferrer noopener">关于 %@</a></td>
+</tr>
+<tr>
+<td><code>Add</code></td>
+<td>Add</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L11" target="_blank" rel="noreferrer noopener">添加</a></td>
+</tr>
+<tr>
+<td><code>Add Password</code></td>
+<td>Add Password</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L13" target="_blank" rel="noreferrer noopener">添加密码</a></td>
+</tr>
+<tr>
+<td><code>Add Template</code></td>
+<td>Add Template</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L15" target="_blank" rel="noreferrer noopener">添加模版</a></td>
+</tr>
+<tr>
+<td><code>Add field</code></td>
+<td>Add field</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L17" target="_blank" rel="noreferrer noopener">添加字段</a></td>
+</tr>
+<tr>
+<td><code>After 1 Minute</code></td>
+<td>After 1 Minute</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L19" target="_blank" rel="noreferrer noopener">1 分钟后</a></td>
+</tr>
+<tr>
+<td><code>After 10 Seconds</code></td>
+<td>After 10 Seconds</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L21" target="_blank" rel="noreferrer noopener">10 秒后</a></td>
+</tr>
+<tr>
+<td><code>After 30 Seconds</code></td>
+<td>After 30 Seconds</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L23" target="_blank" rel="noreferrer noopener">30 秒后</a></td>
+</tr>
+<tr>
+<td><code>After 5 Minutes</code></td>
+<td>After 5 Minutes</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L25" target="_blank" rel="noreferrer noopener">5 分钟后</a></td>
+</tr>
+<tr>
+<td><code>AliExpress</code></td>
+<td>AliExpress</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L27" target="_blank" rel="noreferrer noopener">阿里速卖通</a></td>
+</tr>
+<tr>
+<td><code>Amazon</code></td>
+<td>Amazon</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L29" target="_blank" rel="noreferrer noopener">亚马逊</a></td>
+</tr>
+<tr>
+<td><code>Appearance</code></td>
+<td>Appearance</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L31" target="_blank" rel="noreferrer noopener">外观</a></td>
+</tr>
+<tr>
+<td><code>Apple</code></td>
+<td>Apple</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L33" target="_blank" rel="noreferrer noopener">苹果</a></td>
+</tr>
+<tr>
+<td><code>Are you sure you want to delete the &quot;%@&quot; password file? This action cannot be undone.</code></td>
+<td>Are you sure you want to delete the &quot;%@&quot; password file? This action cannot be undone.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L35" target="_blank" rel="noreferrer noopener">确定要删除 “%@” 密码文件？此操作无法恢复。</a></td>
+</tr>
+<tr>
+<td><code>Are you sure you want to delete this password? This action cannot be undone.</code></td>
+<td>Are you sure you want to delete this password? This action cannot be undone.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L37" target="_blank" rel="noreferrer noopener">确定要删除该密码吗？此操作无法恢复。</a></td>
+</tr>
+<tr>
+<td><code>Are you sure you want to delete this template? This action cannot be undone.</code></td>
+<td>Are you sure you want to delete this template? This action cannot be undone.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L39" target="_blank" rel="noreferrer noopener">您确定要删除此模板吗？此操作无法撤销。</a></td>
+</tr>
+<tr>
+<td><code>Authorization failed for file “%@”.</code></td>
+<td>Authorization failed for file “%@”.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L41" target="_blank" rel="noreferrer noopener">文件 “%@” 授权失败</a></td>
+</tr>
+<tr>
+<td><code>Background Color</code></td>
+<td>Background Color</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L43" target="_blank" rel="noreferrer noopener">背景颜色</a></td>
+</tr>
+<tr>
+<td><code>Baidu</code></td>
+<td>Baidu</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L45" target="_blank" rel="noreferrer noopener">百度</a></td>
+</tr>
+<tr>
+<td><code>Bilibili</code></td>
+<td>Bilibili</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L47" target="_blank" rel="noreferrer noopener">哔哩哔哩</a></td>
+</tr>
+<tr>
+<td><code>Cancel</code></td>
+<td>Cancel</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L49" target="_blank" rel="noreferrer noopener">取消</a></td>
+</tr>
+<tr>
+<td><code>Change Database Password</code></td>
+<td>Change Database Password</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L51" target="_blank" rel="noreferrer noopener">修改数据库密码</a></td>
+</tr>
+<tr>
+<td><code>Change Password</code></td>
+<td>Change Password</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L53" target="_blank" rel="noreferrer noopener">更改密码</a></td>
+</tr>
+<tr>
+<td><code>Choose Icon</code></td>
+<td>Choose Icon</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L55" target="_blank" rel="noreferrer noopener">选择图标</a></td>
+</tr>
+<tr>
+<td><code>Choose Symbol %@</code></td>
+<td>Choose Symbol %@</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L57" target="_blank" rel="noreferrer noopener">选择符号 %@</a></td>
+</tr>
+<tr>
+<td><code>Choose Symbol Icon</code></td>
+<td>Choose Symbol Icon</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L59" target="_blank" rel="noreferrer noopener">选择符号图标</a></td>
+</tr>
+<tr>
+<td><code>Chrome Passwords.csv</code></td>
+<td>Chrome Passwords.csv</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L61" target="_blank" rel="noreferrer noopener">Chrome 密码.csv</a></td>
+</tr>
+<tr>
+<td><code>Click the “Download file” button to export.</code></td>
+<td>Click the “Download file” button to export.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L63" target="_blank" rel="noreferrer noopener">点击“下载文件”按钮进行导出。</a></td>
+</tr>
+<tr>
+<td><code>Click to load more...</code></td>
+<td>Click to load more...</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L65" target="_blank" rel="noreferrer noopener">点击加载更多…</a></td>
+</tr>
+<tr>
+<td><code>Color</code></td>
+<td>Color</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L67" target="_blank" rel="noreferrer noopener">颜色</a></td>
+</tr>
+<tr>
+<td><code>Confirm delete password?</code></td>
+<td>Confirm delete password?</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L69" target="_blank" rel="noreferrer noopener">确认删除密码？</a></td>
+</tr>
+<tr>
+<td><code>Confirm new password</code></td>
+<td>Confirm new password</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L71" target="_blank" rel="noreferrer noopener">确认新密码</a></td>
+</tr>
+<tr>
+<td><code>Contact</code></td>
+<td>Contact</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L73" target="_blank" rel="noreferrer noopener">联系我们</a></td>
+</tr>
+<tr>
+<td><code>Content</code></td>
+<td>Content</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L75" target="_blank" rel="noreferrer noopener">内容</a></td>
+</tr>
+<tr>
+<td><code>Copy %@</code></td>
+<td>Copy %@</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L77" target="_blank" rel="noreferrer noopener">复制 %@</a></td>
+</tr>
+<tr>
+<td><code>Create</code></td>
+<td>Create</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L79" target="_blank" rel="noreferrer noopener">创建</a></td>
+</tr>
+<tr>
+<td><code>Create Password Database</code></td>
+<td>Create Password Database</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L81" target="_blank" rel="noreferrer noopener">创建密码数据库</a></td>
+</tr>
+<tr>
+<td><code>Create Password File</code></td>
+<td>Create Password File</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L83" target="_blank" rel="noreferrer noopener">创建密码文件</a></td>
+</tr>
+<tr>
+<td><code>Create Template</code></td>
+<td>Create Template</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L85" target="_blank" rel="noreferrer noopener">创建模板</a></td>
+</tr>
+<tr>
+<td><code>Create unlimited password files.</code></td>
+<td>Create unlimited password files.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L87" target="_blank" rel="noreferrer noopener">创建无限数量的密码文件</a></td>
+</tr>
+<tr>
+<td><code>Create unlimited passwords in each file.</code></td>
+<td>Create unlimited passwords in each file.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L89" target="_blank" rel="noreferrer noopener">每个密码文件可创建无限数量的密码。</a></td>
+</tr>
+<tr>
+<td><code>Created:</code></td>
+<td>Created:</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L91" target="_blank" rel="noreferrer noopener">创建时间：</a></td>
+</tr>
+<tr>
+<td><code>Current: %@</code></td>
+<td>Current: %@</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L93" target="_blank" rel="noreferrer noopener">当前：%@</a></td>
+</tr>
+<tr>
+<td><code>Dark Mode</code></td>
+<td>Dark Mode</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L95" target="_blank" rel="noreferrer noopener">暗模式</a></td>
+</tr>
+<tr>
+<td><code>Database Info</code></td>
+<td>Database Info</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L97" target="_blank" rel="noreferrer noopener">数据库信息</a></td>
+</tr>
+<tr>
+<td><code>Date</code></td>
+<td>Date</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L99" target="_blank" rel="noreferrer noopener">日期</a></td>
+</tr>
+<tr>
+<td><code>Default Title</code></td>
+<td>Default Title</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L101" target="_blank" rel="noreferrer noopener">默认标题</a></td>
+</tr>
+<tr>
+<td><code>Delete</code></td>
+<td>Delete</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L103" target="_blank" rel="noreferrer noopener">删除</a></td>
+</tr>
+<tr>
+<td><code>Delete Record</code></td>
+<td>Delete Record</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L105" target="_blank" rel="noreferrer noopener">删除记录</a></td>
+</tr>
+<tr>
+<td><code>Douyin</code></td>
+<td>Douyin</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L107" target="_blank" rel="noreferrer noopener">抖音</a></td>
+</tr>
+<tr>
+<td><code>Drop password file!</code></td>
+<td>Drop password file!</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L109" target="_blank" rel="noreferrer noopener">拖放密码文件！</a></td>
+</tr>
+<tr>
+<td><code>E-Mail</code></td>
+<td>E-Mail</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L111" target="_blank" rel="noreferrer noopener">邮箱</a></td>
+</tr>
+<tr>
+<td><code>E-mail</code></td>
+<td>E-mail</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L113" target="_blank" rel="noreferrer noopener">电子邮件</a></td>
+</tr>
+<tr>
+<td><code>Edit</code></td>
+<td>Edit</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L115" target="_blank" rel="noreferrer noopener">编辑</a></td>
+</tr>
+<tr>
+<td><code>Enter Passworld</code></td>
+<td>Enter Passworld</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L117" target="_blank" rel="noreferrer noopener">输入密码</a></td>
+</tr>
+<tr>
+<td><code>Facebook</code></td>
+<td>Facebook</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L119" target="_blank" rel="noreferrer noopener">脸书</a></td>
+</tr>
+<tr>
+<td><code>Failed to create bookmark for file “%@”.</code></td>
+<td>Failed to create bookmark for file “%@”.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L121" target="_blank" rel="noreferrer noopener">无法为文件 “%@” 创建书签</a></td>
+</tr>
+<tr>
+<td><code>Failed to create password: %@</code></td>
+<td>Failed to create password: %@</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L123" target="_blank" rel="noreferrer noopener">Failed to create password: %@</a></td>
+</tr>
+<tr>
+<td><code>Failed to create the password vault. Error details: “%@”.</code></td>
+<td>Failed to create the password vault. Error details: “%@”.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L125" target="_blank" rel="noreferrer noopener">无法创建密码库，错误信息如下：“%@”。</a></td>
+</tr>
+<tr>
+<td><code>Failed to delete file</code></td>
+<td>Failed to delete file</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L127" target="_blank" rel="noreferrer noopener">删除文件失败</a></td>
+</tr>
+<tr>
+<td><code>Feedback</code></td>
+<td>Feedback</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L129" target="_blank" rel="noreferrer noopener">意见反馈</a></td>
+</tr>
+<tr>
+<td><code>File Name:</code></td>
+<td>File Name:</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L131" target="_blank" rel="noreferrer noopener">文件名：</a></td>
+</tr>
+<tr>
+<td><code>File does not exist</code></td>
+<td>File does not exist</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L133" target="_blank" rel="noreferrer noopener">文件不存在</a></td>
+</tr>
+<tr>
+<td><code>Follow System</code></td>
+<td>Follow System</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L135" target="_blank" rel="noreferrer noopener">跟随系统</a></td>
+</tr>
+<tr>
+<td><code>For 1 minute</code></td>
+<td>For 1 minute</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L137" target="_blank" rel="noreferrer noopener">持续 1 分钟</a></td>
+</tr>
+<tr>
+<td><code>For 15 minutes</code></td>
+<td>For 15 minutes</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L139" target="_blank" rel="noreferrer noopener">持续 15 分钟</a></td>
+</tr>
+<tr>
+<td><code>For 5 minutes</code></td>
+<td>For 5 minutes</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L141" target="_blank" rel="noreferrer noopener">持续 5 分钟</a></td>
+</tr>
+<tr>
+<td><code>General</code></td>
+<td>General</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L143" target="_blank" rel="noreferrer noopener">常规</a></td>
+</tr>
+<tr>
+<td><code>Gmail</code></td>
+<td>Gmail</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L145" target="_blank" rel="noreferrer noopener">谷歌邮箱</a></td>
+</tr>
+<tr>
+<td><code>Google</code></td>
+<td>Google</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L147" target="_blank" rel="noreferrer noopener">谷歌</a></td>
+</tr>
+<tr>
+<td><code>Hide Dock Icon</code></td>
+<td>Hide Dock Icon</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L149" target="_blank" rel="noreferrer noopener">隐藏扩展坞图标</a></td>
+</tr>
+<tr>
+<td><code>How to export Chrome passwords:</code></td>
+<td>How to export Chrome passwords:</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L151" target="_blank" rel="noreferrer noopener">如何导出 Chrome 密码：</a></td>
+</tr>
+<tr>
+<td><code>Import Chrome Passwords</code></td>
+<td>Import Chrome Passwords</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L153" target="_blank" rel="noreferrer noopener">导入 Chrome 密码</a></td>
+</tr>
+<tr>
+<td><code>Import Result</code></td>
+<td>Import Result</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L155" target="_blank" rel="noreferrer noopener">导入结果</a></td>
+</tr>
+<tr>
+<td><code>Import passwords exported from Chrome.</code></td>
+<td>Import passwords exported from Chrome.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L157" target="_blank" rel="noreferrer noopener">可以导入 Chrome 导出的密码。</a></td>
+</tr>
+<tr>
+<td><code>Import...</code></td>
+<td>Import...</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L159" target="_blank" rel="noreferrer noopener">导入…</a></td>
+</tr>
+<tr>
+<td><code>Importing Chrome Passwords...</code></td>
+<td>Importing Chrome Passwords...</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L161" target="_blank" rel="noreferrer noopener">正在导入 Chrome 密码…</a></td>
+</tr>
+<tr>
+<td><code>In Google Password Manager, open Settings and choose “Export passwords.”</code></td>
+<td>In Google Password Manager, open Settings and choose “Export passwords.”</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L163" target="_blank" rel="noreferrer noopener">在 Google 密码管理器中，打开 设置 并选择“导出密码”。</a></td>
+</tr>
+<tr>
+<td><code>Incorrect password. Please try again.</code></td>
+<td>Incorrect password. Please try again.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L165" target="_blank" rel="noreferrer noopener">密码错误，请重试。</a></td>
+</tr>
+<tr>
+<td><code>JD.com</code></td>
+<td>JD.com</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L167" target="_blank" rel="noreferrer noopener">京东</a></td>
+</tr>
+<tr>
+<td><code>Launch at login</code></td>
+<td>Launch at login</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L169" target="_blank" rel="noreferrer noopener">开机启动</a></td>
+</tr>
+<tr>
+<td><code>Light Mode</code></td>
+<td>Light Mode</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L171" target="_blank" rel="noreferrer noopener">亮模式</a></td>
+</tr>
+<tr>
+<td><code>LinkedIn</code></td>
+<td>LinkedIn</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L173" target="_blank" rel="noreferrer noopener">领英</a></td>
+</tr>
+<tr>
+<td><code>Location:</code></td>
+<td>Location:</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L175" target="_blank" rel="noreferrer noopener">位置：</a></td>
+</tr>
+<tr>
+<td><code>Lock</code></td>
+<td>Lock</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L177" target="_blank" rel="noreferrer noopener">锁定</a></td>
+</tr>
+<tr>
+<td><code>Lock after app quit</code></td>
+<td>Lock after app quit</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L179" target="_blank" rel="noreferrer noopener">应用退出后锁定</a></td>
+</tr>
+<tr>
+<td><code>Lock after app window is closed</code></td>
+<td>Lock after app window is closed</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L181" target="_blank" rel="noreferrer noopener">应用关闭窗口后锁定</a></td>
+</tr>
+<tr>
+<td><code>Lock after screen sleep</code></td>
+<td>Lock after screen sleep</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L183" target="_blank" rel="noreferrer noopener">屏幕休眠后锁定</a></td>
+</tr>
+<tr>
+<td><code>Lock after sleep</code></td>
+<td>Lock after sleep</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L185" target="_blank" rel="noreferrer noopener">休眠后锁定</a></td>
+</tr>
+<tr>
+<td><code>Lock while idle</code></td>
+<td>Lock while idle</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L187" target="_blank" rel="noreferrer noopener">空闲时锁定</a></td>
+</tr>
+<tr>
+<td><code>Main Window</code></td>
+<td>Main Window</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L189" target="_blank" rel="noreferrer noopener">主窗口</a></td>
+</tr>
+<tr>
+<td><code>Microsoft</code></td>
+<td>Microsoft</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L191" target="_blank" rel="noreferrer noopener">微软</a></td>
+</tr>
+<tr>
+<td><code>Modified:</code></td>
+<td>Modified:</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L193" target="_blank" rel="noreferrer noopener">修改时间：</a></td>
+</tr>
+<tr>
+<td><code>My Apps</code></td>
+<td>My Apps</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L195" target="_blank" rel="noreferrer noopener">我的应用</a></td>
+</tr>
+<tr>
+<td><code>Network Name</code></td>
+<td>Network Name</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L197" target="_blank" rel="noreferrer noopener">网络名称</a></td>
+</tr>
+<tr>
+<td><code>Never</code></td>
+<td>Never</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L199" target="_blank" rel="noreferrer noopener">从不</a></td>
+</tr>
+<tr>
+<td><code>New password</code></td>
+<td>New password</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L201" target="_blank" rel="noreferrer noopener">新密码</a></td>
+</tr>
+<tr>
+<td><code>Next Item</code></td>
+<td>Next Item</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L203" target="_blank" rel="noreferrer noopener">下一个</a></td>
+</tr>
+<tr>
+<td><code>Note</code></td>
+<td>Note</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L205" target="_blank" rel="noreferrer noopener">笔记</a></td>
+</tr>
+<tr>
+<td><code>Number</code></td>
+<td>Number</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L207" target="_blank" rel="noreferrer noopener">数字</a></td>
+</tr>
+<tr>
+<td><code>OK</code></td>
+<td>OK</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L209" target="_blank" rel="noreferrer noopener">确认</a></td>
+</tr>
+<tr>
+<td><code>OneDrive</code></td>
+<td>OneDrive</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L211" target="_blank" rel="noreferrer noopener">微软云盘</a></td>
+</tr>
+<tr>
+<td><code>Open</code></td>
+<td>Open</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L213" target="_blank" rel="noreferrer noopener">打开</a></td>
+</tr>
+<tr>
+<td><code>Open </code></td>
+<td>Open </td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L215" target="_blank" rel="noreferrer noopener">打开</a></td>
+</tr>
+<tr>
+<td><code>Open Chrome and go to Settings → Autofill and passwords → Google Password Manager.</code></td>
+<td>Open Chrome and go to Settings → Autofill and passwords → Google Password Manager.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L217" target="_blank" rel="noreferrer noopener">打开 Chrome，进入 设置 → 自动填充和密码 → Google 密码管理器。</a></td>
+</tr>
+<tr>
+<td><code>Open...</code></td>
+<td>Open...</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L219" target="_blank" rel="noreferrer noopener">打开…</a></td>
+</tr>
+<tr>
+<td><code>Outlook</code></td>
+<td>Outlook</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L221" target="_blank" rel="noreferrer noopener">微软邮箱</a></td>
+</tr>
+<tr>
+<td><code>Password</code></td>
+<td>Password</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L223" target="_blank" rel="noreferrer noopener">密码</a></td>
+</tr>
+<tr>
+<td><code>Password Count:</code></td>
+<td>Password Count:</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L225" target="_blank" rel="noreferrer noopener">密码数量：</a></td>
+</tr>
+<tr>
+<td><code>Password Generator</code></td>
+<td>Password Generator</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L227" target="_blank" rel="noreferrer noopener">密码生成器</a></td>
+</tr>
+<tr>
+<td><code>Password change failed</code></td>
+<td>Password change failed</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L229" target="_blank" rel="noreferrer noopener">修改密码失败</a></td>
+</tr>
+<tr>
+<td><code>Password successfully changed.</code></td>
+<td>Password successfully changed.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L231" target="_blank" rel="noreferrer noopener">修改密码成功。</a></td>
+</tr>
+<tr>
+<td><code>Passwords do not match</code></td>
+<td>Passwords do not match</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L233" target="_blank" rel="noreferrer noopener">密码不一致</a></td>
+</tr>
+<tr>
+<td><code>Please choose a location and filename to save</code></td>
+<td>Please choose a location and filename to save</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L235" target="_blank" rel="noreferrer noopener">请选择保存的位置和文件名</a></td>
+</tr>
+<tr>
+<td><code>Previous Item</code></td>
+<td>Previous Item</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L237" target="_blank" rel="noreferrer noopener">上一个</a></td>
+</tr>
+<tr>
+<td><code>Pro</code></td>
+<td>Pro</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L239" target="_blank" rel="noreferrer noopener">专业版</a></td>
+</tr>
+<tr>
+<td><code>Progress:</code></td>
+<td>Progress:</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L241" target="_blank" rel="noreferrer noopener">进度：</a></td>
+</tr>
+<tr>
+<td><code>QQ</code></td>
+<td>QQ</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L243" target="_blank" rel="noreferrer noopener">QQ</a></td>
+</tr>
+<tr>
+<td><code>Quit %@</code></td>
+<td>Quit %@</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L245" target="_blank" rel="noreferrer noopener">退出 %@</a></td>
+</tr>
+<tr>
+<td><code>Refresh</code></td>
+<td>Refresh</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L247" target="_blank" rel="noreferrer noopener">刷新</a></td>
+</tr>
+<tr>
+<td><code>Remove &quot;%@&quot;</code></td>
+<td>Remove &quot;%@&quot;</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L249" target="_blank" rel="noreferrer noopener">删除 &quot;%@&quot;</a></td>
+</tr>
+<tr>
+<td><code>Remove &quot;%@&quot; Template</code></td>
+<td>Remove &quot;%@&quot; Template</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L251" target="_blank" rel="noreferrer noopener">删除“%@”模板</a></td>
+</tr>
+<tr>
+<td><code>Save</code></td>
+<td>Save</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L253" target="_blank" rel="noreferrer noopener">保存</a></td>
+</tr>
+<tr>
+<td><code>Save File</code></td>
+<td>Save File</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L255" target="_blank" rel="noreferrer noopener">保存文件</a></td>
+</tr>
+<tr>
+<td><code>Save the exported file as a CSV format.</code></td>
+<td>Save the exported file as a CSV format.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L257" target="_blank" rel="noreferrer noopener">将导出的文件保存为 CSV 格式。</a></td>
+</tr>
+<tr>
+<td><code>Search... (⌘+F)</code></td>
+<td>Search... (⌘+F)</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L259" target="_blank" rel="noreferrer noopener">搜索…（⌘+F）</a></td>
+</tr>
+<tr>
+<td><code>Select Background Color</code></td>
+<td>Select Background Color</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L261" target="_blank" rel="noreferrer noopener">选择背景颜色</a></td>
+</tr>
+<tr>
+<td><code>Select Chrome Passwords CSV File</code></td>
+<td>Select Chrome Passwords CSV File</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L263" target="_blank" rel="noreferrer noopener">选择 Chrome 密码 CSV 文件</a></td>
+</tr>
+<tr>
+<td><code>Select Icon Color</code></td>
+<td>Select Icon Color</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L265" target="_blank" rel="noreferrer noopener">选择图标颜色</a></td>
+</tr>
+<tr>
+<td><code>Select Keyzer file</code></td>
+<td>Select Keyzer file</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L267" target="_blank" rel="noreferrer noopener">选择 Keyzer 文件</a></td>
+</tr>
+<tr>
+<td><code>Settings...</code></td>
+<td>Settings...</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L269" target="_blank" rel="noreferrer noopener">设置…</a></td>
+</tr>
+<tr>
+<td><code>Show Password</code></td>
+<td>Show Password</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L271" target="_blank" rel="noreferrer noopener">显示密码</a></td>
+</tr>
+<tr>
+<td><code>Show in Finder</code></td>
+<td>Show in Finder</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L273" target="_blank" rel="noreferrer noopener">在访达中显示</a></td>
+</tr>
+<tr>
+<td><code>Social Accounts</code></td>
+<td>Social Accounts</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L275" target="_blank" rel="noreferrer noopener">社交账号</a></td>
+</tr>
+<tr>
+<td><code>Taobao</code></td>
+<td>Taobao</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L277" target="_blank" rel="noreferrer noopener">淘宝</a></td>
+</tr>
+<tr>
+<td><code>Template Name</code></td>
+<td>Template Name</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L279" target="_blank" rel="noreferrer noopener">模板名称</a></td>
+</tr>
+<tr>
+<td><code>Tencent</code></td>
+<td>Tencent</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L281" target="_blank" rel="noreferrer noopener">腾讯</a></td>
+</tr>
+<tr>
+<td><code>Text</code></td>
+<td>Text</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L283" target="_blank" rel="noreferrer noopener">文本</a></td>
+</tr>
+<tr>
+<td><code>The new password cannot be the same as the old one. Please enter a different password.</code></td>
+<td>The new password cannot be the same as the old one. Please enter a different password.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L285" target="_blank" rel="noreferrer noopener">新密码不能与旧密码相同，请输入一个不同的密码。</a></td>
+</tr>
+<tr>
+<td><code>The password file cannot be accessed. Please re-add the file to automatically grant read and write permissions.</code></td>
+<td>The password file cannot be accessed. Please re-add the file to automatically grant read and write permissions.</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L287" target="_blank" rel="noreferrer noopener">密码文件无权限访问，请重新添加文件以自动授权读写权限。</a></td>
+</tr>
+<tr>
+<td><code>Title</code></td>
+<td>Title</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L289" target="_blank" rel="noreferrer noopener">标题</a></td>
+</tr>
+<tr>
+<td><code>Twitter/X</code></td>
+<td>Twitter/X</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L291" target="_blank" rel="noreferrer noopener">推特</a></td>
+</tr>
+<tr>
+<td><code>URL</code></td>
+<td>URL</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L293" target="_blank" rel="noreferrer noopener">链接地址</a></td>
+</tr>
+<tr>
+<td><code>Unlock all Features</code></td>
+<td>Unlock all Features</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L295" target="_blank" rel="noreferrer noopener">解锁所有功能</a></td>
+</tr>
+<tr>
+<td><code>Username</code></td>
+<td>Username</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L297" target="_blank" rel="noreferrer noopener">用户名</a></td>
+</tr>
+<tr>
+<td><code>Version %@ (%@)</code></td>
+<td>Version %1$@ (%2$@)</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L299" target="_blank" rel="noreferrer noopener">版本 %1$@ (%2$@)</a></td>
+</tr>
+<tr>
+<td><code>WeChat</code></td>
+<td>WeChat</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L301" target="_blank" rel="noreferrer noopener">微信</a></td>
+</tr>
+<tr>
+<td><code>Web Account</code></td>
+<td>Web Account</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L303" target="_blank" rel="noreferrer noopener">网站账号</a></td>
+</tr>
+<tr>
+<td><code>Website</code></td>
+<td>Website</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L305" target="_blank" rel="noreferrer noopener">网站</a></td>
+</tr>
+<tr>
+<td><code>Weibo</code></td>
+<td>Weibo</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L307" target="_blank" rel="noreferrer noopener">微博</a></td>
+</tr>
+<tr>
+<td><code>WiFi Password</code></td>
+<td>WiFi Password</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L309" target="_blank" rel="noreferrer noopener">Wi-Fi密码</a></td>
+</tr>
+<tr>
+<td><code>X(Twitter)</code></td>
+<td>X(Twitter)</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L311" target="_blank" rel="noreferrer noopener">X(Twitter)</a></td>
+</tr>
+<tr>
+<td><code>Yahoo Mail</code></td>
+<td>Yahoo Mail</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L313" target="_blank" rel="noreferrer noopener">雅虎邮箱</a></td>
+</tr>
+<tr>
+<td><code>Zhihu</code></td>
+<td>Zhihu</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L315" target="_blank" rel="noreferrer noopener">知乎</a></td>
+</tr>
+<tr>
+<td><code>[%@](websiteurl)</code></td>
+<td>[%@](websiteurl)</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L317" target="_blank" rel="noreferrer noopener">[%@](websiteurl)</a></td>
+</tr>
+<tr>
+<td><code>[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)</code></td>
+<td>[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L319" target="_blank" rel="noreferrer noopener">[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)</a></td>
+</tr>
+<tr>
+<td><code>eBay</code></td>
+<td>eBay</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L321" target="_blank" rel="noreferrer noopener">易贝</a></td>
+</tr>
+<tr>
+<td><code>iCloud</code></td>
+<td>iCloud</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L323" target="_blank" rel="noreferrer noopener">苹果云盘</a></td>
+</tr>
+<tr>
+<td><code>or</code></td>
+<td>or</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L325" target="_blank" rel="noreferrer noopener">或</a></td>
+</tr>
+<tr>
+<td><code>v%@</code></td>
+<td>v%@</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L327" target="_blank" rel="noreferrer noopener">v%@</a></td>
+</tr>
+<tr>
+<td><code>⚠️</code></td>
+<td>⚠️</td>
+<td class="ok"><a class="cell-link" href="https://github.com/jaywcjlove/app-i18n/blob/c5fe3745ba07214067b33104016cbd040d80adb9/i18n/lproj/keyzer/zh-Hans.lproj/Localizable.strings#L329" target="_blank" rel="noreferrer noopener">⚠️</a></td>
+</tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+    </div>
+  </div>
+  <script>
+    (function () {
+      const select = document.getElementById('file-select');
+      const panels = document.querySelectorAll('.panel');
+      function activate(target) {
+        panels.forEach((panel) => panel.classList.toggle('active', panel.id === target));
+        if (select) select.value = target;
+      }
+      if (select) {
+        select.addEventListener('change', function () { activate(select.value); });
+      }
+      if (select && panels.length > 0) {
+        activate(select.value);
+      }
+    })();
+  </script>
+</body>
+</html>
