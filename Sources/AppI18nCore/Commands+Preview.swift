@@ -13,6 +13,7 @@ private struct PreviewRow {
     let defaultValue: String
     let valuesByLanguage: [String: String]
     let statesByLanguage: [String: String]
+    let sourceLinksByLanguage: [String: String]
 }
 
 private struct PreviewFile {
@@ -36,9 +37,15 @@ private struct AppPreview {
     let progressByLanguage: [String: LangProgress]
 }
 
+private struct GitHubBlobContext {
+    let repositoryURL: String
+    let commitHash: String
+}
+
 public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") throws {
     let lprojRoot = i18nLprojURL()
     let sourceRoot = i18nSourceURL()
+    let gitHubBlobContext = detectGitHubBlobContext(at: projectRootURL())
     guard let allEntries = try? fileManager.contentsOfDirectory(atPath: lprojRoot.path) else {
         Logger.warn("No lproj directory found at \(lprojRoot.path)")
         return
@@ -120,11 +127,14 @@ public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") thr
 
             var keys = Set(sourceValuesByKey.keys)
             var valuesByLang: [String: [String: String]] = [:]
+            var lineNumbersByLang: [String: [String: Int]] = [:]
             for lang in langs {
                 if let file = filesByLang[lang]?[rel] {
                     let entries = parseStringsFile(at: file).entries
+                    let lineNumbers = parseStringsFileLineNumbers(at: file)
                     keys.formUnion(entries.keys)
                     valuesByLang[lang] = entries
+                    lineNumbersByLang[lang] = lineNumbers
                 }
             }
 
@@ -139,12 +149,22 @@ public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") thr
                 let defaultValue = sourceValuesByKey[key] ?? valuesByLang[sourceLanguage]?[key] ?? key
                 var rowValuesByLanguage: [String: String] = [:]
                 var rowStatesByLanguage: [String: String] = [:]
+                var rowLinksByLanguage: [String: String] = [:]
 
                 for lang in langs {
                     let value = valuesByLang[lang]?[key] ?? ""
                     rowValuesByLanguage[lang] = value
                     if let state = statesByLangByKey[key]?[lang] {
                         rowStatesByLanguage[lang] = state
+                    }
+                    if let gitHubBlobContext,
+                       let line = lineNumbersByLang[lang]?[key] {
+                        let repoPath = "i18n/lproj/\(app)/\(lang).lproj/\(rel)"
+                        rowLinksByLanguage[lang] = makeGitHubBlobLineURL(
+                            context: gitHubBlobContext,
+                            repositoryRelativePath: repoPath,
+                            line: line
+                        )
                     }
                     if lang == sourceLanguage { continue }
                     var progress = progressByLanguage[lang] ?? LangProgress()
@@ -161,7 +181,8 @@ public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") thr
                         defaultLanguage: sourceLanguage,
                         defaultValue: defaultValue,
                         valuesByLanguage: rowValuesByLanguage,
-                        statesByLanguage: rowStatesByLanguage
+                        statesByLanguage: rowStatesByLanguage,
+                        sourceLinksByLanguage: rowLinksByLanguage
                     )
                 )
             }
@@ -270,6 +291,69 @@ private func localizedLanguageLabel(_ code: String) -> String {
     let lookup = code.replacingOccurrences(of: "-", with: "_")
     let name = Locale.current.localizedString(forIdentifier: lookup) ?? code
     return "\(name)(\(code))"
+}
+
+private func runCommand(_ executable: String, _ arguments: [String], currentDirectory: URL) -> (Int32, String) {
+    let process = Process()
+    process.executableURL = URL(fileURLWithPath: executable)
+    process.arguments = arguments
+    process.currentDirectoryURL = currentDirectory
+
+    let outputPipe = Pipe()
+    process.standardOutput = outputPipe
+    process.standardError = Pipe()
+    do {
+        try process.run()
+    } catch {
+        return (-1, "")
+    }
+    process.waitUntilExit()
+    let data = outputPipe.fileHandleForReading.readDataToEndOfFile()
+    let text = String(data: data, encoding: .utf8) ?? ""
+    return (process.terminationStatus, text.trimmingCharacters(in: .whitespacesAndNewlines))
+}
+
+private func detectGitHubBlobContext(at root: URL) -> GitHubBlobContext? {
+    let gitCheck = runCommand("/usr/bin/env", ["git", "--version"], currentDirectory: root)
+    guard gitCheck.0 == 0 else { return nil }
+
+    let remoteOutput = runCommand("/usr/bin/env", ["git", "remote", "get-url", "origin"], currentDirectory: root)
+    guard remoteOutput.0 == 0, !remoteOutput.1.isEmpty else { return nil }
+
+    let commitOutput = runCommand("/usr/bin/env", ["git", "rev-parse", "HEAD"], currentDirectory: root)
+    guard commitOutput.0 == 0, !commitOutput.1.isEmpty else { return nil }
+
+    guard let repositoryURL = normalizedGitHubRepositoryURL(remoteURL: remoteOutput.1) else { return nil }
+    return GitHubBlobContext(repositoryURL: repositoryURL, commitHash: commitOutput.1)
+}
+
+private func normalizedGitHubRepositoryURL(remoteURL: String) -> String? {
+    let raw = remoteURL.trimmingCharacters(in: .whitespacesAndNewlines)
+    if raw.hasPrefix("git@github.com:") {
+        let path = String(raw.dropFirst("git@github.com:".count))
+        return "https://github.com/" + path.replacingOccurrences(of: ".git", with: "")
+    }
+    if raw.hasPrefix("ssh://git@github.com/") {
+        let path = String(raw.dropFirst("ssh://git@github.com/".count))
+        return "https://github.com/" + path.replacingOccurrences(of: ".git", with: "")
+    }
+    guard let url = URL(string: raw),
+          let host = url.host?.lowercased(),
+          host == "github.com" else {
+        return nil
+    }
+    let path = url.path.replacingOccurrences(of: ".git", with: "")
+    return "https://github.com\(path)"
+}
+
+private func makeGitHubBlobLineURL(context: GitHubBlobContext, repositoryRelativePath: String, line: Int) -> String {
+    let encodedPath = repositoryRelativePath
+        .split(separator: "/")
+        .map { component in
+            String(component).addingPercentEncoding(withAllowedCharacters: .urlPathAllowed) ?? String(component)
+        }
+        .joined(separator: "/")
+    return "\(context.repositoryURL)/blob/\(context.commitHash)/\(encodedPath)#L\(line)"
 }
 
 private func renderPreviewIndexHTML(apps: [AppPreview]) -> String {
@@ -399,7 +483,11 @@ private func renderPreviewAppHTML(app: AppPreview) -> String {
                     state: row.statesByLanguage[lang]
                 )
                 let cssClass = completed ? "ok" : "todo"
-                tds += "\n<td class=\"\(cssClass)\">\(htmlEscape(value))</td>"
+                if let link = row.sourceLinksByLanguage[lang], !value.isEmpty {
+                    tds += "\n<td class=\"\(cssClass)\"><a class=\"cell-link\" href=\"\(htmlEscape(link))\" target=\"_blank\" rel=\"noreferrer noopener\">\(htmlEscape(value))</a></td>"
+                } else {
+                    tds += "\n<td class=\"\(cssClass)\">\(htmlEscape(value))</td>"
+                }
             }
             bodyRows.append("<tr>\n\(tds)\n</tr>")
         }
@@ -450,6 +538,7 @@ private func renderPreviewAppHTML(app: AppPreview) -> String {
         td { white-space: pre-wrap; word-break: break-word; }
         td.ok { background: #ecfdf5; color: #065f46; }
         td.todo { background: #fff7ed; color: #9a3412; }
+        .cell-link { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
         .back { display: inline-block; margin-bottom: 8px; color: #2563eb; text-decoration: none; }
         .back:hover { text-decoration: underline; }
         @media (max-width: 900px) {

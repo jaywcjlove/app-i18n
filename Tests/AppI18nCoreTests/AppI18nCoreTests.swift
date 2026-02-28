@@ -202,8 +202,8 @@ final class AppI18nCoreTests: XCTestCase {
             XCTAssertTrue(indexHTML.contains("<th>Language</th>"))
             XCTAssertTrue(indexHTML.contains("<th>Completion</th>"))
             XCTAssertFalse(indexHTML.contains("<th>App</th>"))
-            XCTAssertTrue(indexHTML.contains("en "))
-            XCTAssertTrue(indexHTML.contains("fr "))
+            XCTAssertTrue(indexHTML.contains("(en)"))
+            XCTAssertTrue(indexHTML.contains("(fr)"))
             XCTAssertTrue(indexHTML.contains("100% (2/2)"))
             XCTAssertTrue(indexHTML.contains("100% (2/2)"))
 

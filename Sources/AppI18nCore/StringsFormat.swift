@@ -41,6 +41,28 @@ func parseStringsFile(at url: URL) -> StringsFile {
     return StringsFile(entries: entries)
 }
 
+func parseStringsFileLineNumbers(at url: URL) -> [String: Int] {
+    guard let content = try? String(contentsOf: url, encoding: .utf8) else {
+        return [:]
+    }
+    let pattern = "^\\s*\"((?:\\\\.|[^\"\\\\])*)\"\\s*=\\s*\"((?:\\\\.|[^\"\\\\])*)\"\\s*;"
+    let regex = try? NSRegularExpression(pattern: pattern, options: [])
+    var lineNumbers: [String: Int] = [:]
+    let lines = content.components(separatedBy: .newlines)
+    for (index, line) in lines.enumerated() {
+        guard let regex else { continue }
+        let range = NSRange(line.startIndex..<line.endIndex, in: line)
+        if let match = regex.firstMatch(in: line, options: [], range: range),
+           let keyRange = Range(match.range(at: 1), in: line) {
+            let key = unescapeStringsValue(String(line[keyRange]))
+            if lineNumbers[key] == nil {
+                lineNumbers[key] = index + 1
+            }
+        }
+    }
+    return lineNumbers
+}
+
 func writeStringsFile(entries: [String: String], comments: [String: String?], to url: URL) throws {
     var lines: [String] = []
     let keys = entries.keys.sorted()
