@@ -9,6 +9,12 @@
             "value" : " (許可)"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (권한 허용)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20,6 +26,12 @@
     "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=Scap) • [Github](https://github.com/jaywcjlove/scap)" : {
       "localizations" : {
         "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=Scap) • [Github](https://github.com/jaywcjlove/scap)"
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=Scap) • [Github](https://github.com/jaywcjlove/scap)"
@@ -41,6 +53,12 @@
             "value" : "%@"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -55,6 +73,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ ダークモード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 다크 모드"
           }
         },
         "zh-Hans" : {
@@ -73,6 +97,12 @@
             "value" : "%@ システム設定に従う"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 시스템 설정 따르기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -87,6 +117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ ライトモード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 라이트 모드"
           }
         },
         "zh-Hans" : {
@@ -106,6 +142,12 @@
           }
         },
         "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@(%2$@)"
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@(%2$@)"
@@ -133,6 +175,12 @@
             "value" : "%1$@x%2$@"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@x%2$@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -144,6 +192,12 @@
     "%lld%%" : {
       "localizations" : {
         "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld%%"
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld%%"
@@ -165,6 +219,12 @@
             "value" : "について"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "정보"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -179,6 +239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "謝辞"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "감사의 말"
           }
         },
         "zh-Hans" : {
@@ -197,6 +263,12 @@
             "value" : "画像アイコンを追加"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지 아이콘 추가"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -211,6 +283,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "外観"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "외관"
           }
         },
         "zh-Hans" : {
@@ -229,6 +307,12 @@
             "value" : "矢印"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "화살표"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -243,6 +327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "背景色"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "배경색"
           }
         },
         "zh-Hans" : {
@@ -261,6 +351,12 @@
             "value" : "ぼかし"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "흐림 효과"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -275,6 +371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "元に戻せません！"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "되돌릴 수 없습니다!"
           }
         },
         "zh-Hans" : {
@@ -293,6 +395,12 @@
             "value" : "画面をキャプチャ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "화면 캐프처"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -307,6 +415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ウィンドウをキャプチャ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "윈도우 캐프처"
           }
         },
         "zh-Hans" : {
@@ -325,6 +439,12 @@
             "value" : "変更履歴"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "변경 내역"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -339,6 +459,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "選択"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택"
           }
         },
         "zh-Hans" : {
@@ -357,6 +483,12 @@
             "value" : "キャンバスをクリア"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "캔버스 지우기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -371,6 +503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "描画ボードをクリア"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "그림판 지우기"
           }
         },
         "zh-Hans" : {
@@ -389,6 +527,12 @@
             "value" : "Finderで開く %@"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finder에서 열기 %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -403,6 +547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "クリップボードにコピーしました！"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "클립보드에 복사되었습니다!"
           }
         },
         "zh-Hans" : {
@@ -421,6 +571,12 @@
             "value" : "コピー (Esc/⌘+C)"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "복사 (Esc/⌘+C)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -435,6 +591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "画像をコピー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지 복사"
           }
         },
         "zh-Hans" : {
@@ -453,6 +615,12 @@
             "value" : "カウンター"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카운터"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -467,6 +635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "切り抜き/選択"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자르기/선택"
           }
         },
         "zh-Hans" : {
@@ -485,6 +659,12 @@
             "value" : "カスタムソーシャルメディアバッジ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "커스텀 소셜 미디어 배지"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -499,6 +679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ウォーターマークとQRコードテキストをカスタマイズ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "워터마크 및 QR 코드 텍스트 사용자 지정"
           }
         },
         "zh-Hans" : {
@@ -517,6 +703,12 @@
             "value" : "点線"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "점선"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -531,6 +723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "描画"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "그리기"
           }
         },
         "zh-Hans" : {
@@ -549,6 +747,12 @@
             "value" : "描画ボード"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "그림판"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -563,6 +767,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "終了 (%@)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "종료 (%@)"
           }
         },
         "zh-Hans" : {
@@ -581,6 +791,12 @@
             "value" : "描画ボードを終了"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "그림판 나가기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -595,6 +811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "JPEG画像でエクスポート"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JPEG 이미지로 내보내기"
           }
         },
         "zh-Hans" : {
@@ -613,6 +835,12 @@
             "value" : "PNG画像でエクスポート"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PNG 이미지로 내보내기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -627,6 +855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ブックマークの解決に失敗しました"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "북마크 처리에 실패했습니다"
           }
         },
         "zh-Hans" : {
@@ -645,6 +879,12 @@
             "value" : "ファイルが見つかりません"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "파일을 찾을 수 없습니다"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -659,6 +899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "フリーハンド描画"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자유 그리기"
           }
         },
         "zh-Hans" : {
@@ -677,6 +923,12 @@
             "value" : "一般"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일반"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -691,6 +943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "許可済み"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "허용됨"
           }
         },
         "zh-Hans" : {
@@ -709,6 +967,12 @@
             "value" : "高さ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "높이"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -723,6 +987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dockアイコンを隠す"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock 아이콘 숨기기"
           }
         },
         "zh-Hans" : {
@@ -741,6 +1011,12 @@
             "value" : "Enterキーを押して切り抜き"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter키를 눌러 자르기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -755,6 +1031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "サブスクリプションを希望されない場合は、一回限りのお支払いで機能を永続的にアンロックし、今後のすべてのアップグレードを無料でお楽しみいただけます。追加料金は一切かかりません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구독을 원하지 않는다면, 일회성 결제로 기능을 영구적으로 언락하고 앞으로의 모든 업그레이드를 무료로 이용해보세요.—추가 비용은 없습니다."
           }
         },
         "zh-Hans" : {
@@ -773,6 +1055,12 @@
             "value" : "画像保存フォルダ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지 저장 폴더"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -787,6 +1075,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "無効なブックマークデータ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "잘못된 북마크 데이터"
           }
         },
         "zh-Hans" : {
@@ -805,6 +1099,12 @@
             "value" : "キーボードショートカット"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "키보드 단축키"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -819,6 +1119,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "言語"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "언어"
           }
         },
         "zh-Hans" : {
@@ -837,6 +1143,12 @@
             "value" : "ログイン時に起動"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "로그인 시 실행"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -851,6 +1163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ライン"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "라인"
           }
         },
         "zh-Hans" : {
@@ -869,6 +1187,12 @@
             "value" : "クリップボードから読み込み"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "클립보드에서 불러오기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -883,6 +1207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "メインウィンドウ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메인 창"
           }
         },
         "zh-Hans" : {
@@ -901,6 +1231,12 @@
             "value" : "マイアプリ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내 앱"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -915,6 +1251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "名前"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이름"
           }
         },
         "zh-Hans" : {
@@ -933,6 +1275,12 @@
             "value" : "リソースへのアクセス権限がありません"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "리소스에 대한 액세스 권한이 없습니다"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -947,6 +1295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "開く"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "열기"
           }
         },
         "zh-Hans" : {
@@ -965,6 +1319,12 @@
             "value" : "画像を開く"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지 열기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -979,6 +1339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "画像ファイルを開く"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지 파일 열기"
           }
         },
         "zh-Hans" : {
@@ -997,6 +1363,12 @@
             "value" : "設定を開く"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설정 열기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1011,6 +1383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "楕円"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "타원"
           }
         },
         "zh-Hans" : {
@@ -1029,6 +1407,12 @@
             "value" : "パディング"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "여백"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1043,6 +1427,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "画像を貼り付け"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지 붙여넣기"
           }
         },
         "zh-Hans" : {
@@ -1061,6 +1451,12 @@
             "value" : "画像を保存する場所を選択してください。"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지를 저장할 위치를 선택해 주세요."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1075,6 +1471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "「画面とシステムオーディオの収録」を有効にしてください。そうでないと、アプリがデスクトップ全体の画像をキャプチャできません。**システム設定** → **プライバシーとセキュリティ** → **画面とシステムオーディオの収録** から設定してください"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“화면 및 시스템 오디오 녹화”를 활성화해 주세요. 그렇지 않으면 앱이 전체 데스크톱 이미지를 캐프처할 수 없습니다. **시스템 설정** → **개인정보 보호 및 보안** → **화면 및 시스템 오디오 녹화**로 이동하세요"
           }
         },
         "zh-Hans" : {
@@ -1093,6 +1495,12 @@
             "value" : "プライバシーポリシー"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개인정보 처리방침"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1104,6 +1512,12 @@
     "px" : {
       "localizations" : {
         "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "px"
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "px"
@@ -1125,6 +1539,12 @@
             "value" : "QRコード"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QR 코드"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1139,6 +1559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "QRコンテンツ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QR 콘텐츠"
           }
         },
         "zh-Hans" : {
@@ -1157,6 +1583,12 @@
             "value" : "%@を終了"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 종료"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1171,6 +1603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "半径"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "반지름"
           }
         },
         "zh-Hans" : {
@@ -1189,6 +1627,12 @@
             "value" : "矩形"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사각형"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1203,6 +1647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "リサイズ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "크기 조정"
           }
         },
         "zh-Hans" : {
@@ -1221,6 +1671,12 @@
             "value" : "画像をリサイズ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지 크기 조정"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1235,6 +1691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "保存"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저장"
           }
         },
         "zh-Hans" : {
@@ -1253,6 +1715,12 @@
             "value" : "保存 (⌘+S)"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저장 (⌘+S)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1267,6 +1735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "画像を保存"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지 저장"
           }
         },
         "zh-Hans" : {
@@ -1285,6 +1759,12 @@
             "value" : "画像を別名で保存"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지 다른 이름으로 저장"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1299,6 +1779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "画像ファイルを保存"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지 파일 저장"
           }
         },
         "zh-Hans" : {
@@ -1317,6 +1803,12 @@
             "value" : "画面とシステムオーディオの収録権限"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "화면 및 시스템 오디오 녹화 권한"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1331,6 +1823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "画面収録が必要です"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "화면 녹화 권한 필요"
           }
         },
         "zh-Hans" : {
@@ -1349,6 +1847,12 @@
             "value" : "スクリーンショット"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스크린샷"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1363,6 +1867,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "スクリーンショット（クイック）"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스크린샷 (빠른 모드)"
           }
         },
         "zh-Hans" : {
@@ -1381,6 +1891,12 @@
             "value" : "画像ファイルを選択"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지 파일 선택"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1395,6 +1911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "保存フォルダを選択"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저장 폴더 선택"
           }
         },
         "zh-Hans" : {
@@ -1413,6 +1935,12 @@
             "value" : "画像の保存場所を選択"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지 저장 위치 선택"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1427,6 +1955,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "設定..."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설정..."
           }
         },
         "zh-Hans" : {
@@ -1445,6 +1979,12 @@
             "value" : "ショートカットキー"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "단축키"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1459,6 +1999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "論理ポイントでサイズを表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "논리 포인트로 크기 표시"
           }
         },
         "zh-Hans" : {
@@ -1477,6 +2023,12 @@
             "value" : "ソーシャルバッジ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "소셜 배지"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1491,6 +2043,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "スポットライト"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스포트라이트"
           }
         },
         "zh-Hans" : {
@@ -1509,6 +2067,12 @@
             "value" : "利用規約"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "서비스 약관"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1523,6 +2087,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "テキスト"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "텍스트"
           }
         },
         "zh-Hans" : {
@@ -1541,6 +2111,12 @@
             "value" : "ロック解除"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "언락"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1557,6 +2133,12 @@
             "value" : "機能のロック解除"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기능 언락"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1571,6 +2153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ユーザー名"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사용자 이름"
           }
         },
         "zh-Hans" : {
@@ -1595,6 +2183,12 @@
             "value" : "バージョン %1$@ (%2$@)"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "버전 %1$@ (%2$@)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1609,6 +2203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ウォーターマーク"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "워터마크"
           }
         },
         "zh-Hans" : {
@@ -1627,6 +2227,12 @@
             "value" : "ウォーターマークコンテンツ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "워터마크 콘텐츠"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1641,6 +2247,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "波線"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물결모양 선"
           }
         },
         "zh-Hans" : {
@@ -1659,6 +2271,12 @@
             "value" : "幅"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "너비"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1673,6 +2291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ズーム"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "확대/축소"
           }
         },
         "zh-Hans" : {
@@ -1691,6 +2315,12 @@
             "value" : "拡大"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "확대"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1705,6 +2335,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "縮小"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "축소"
           }
         },
         "zh-Hans" : {
@@ -1723,6 +2359,12 @@
             "value" : "実際のサイズでズーム"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "실제 크기로 확대"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1737,6 +2379,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "キャンバスに合わせてズーム"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "캔버스에 맞춰 확대"
           }
         },
         "zh-Hans" : {
