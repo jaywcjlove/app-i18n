@@ -90,50 +90,6 @@ $ appi18n to-xcstrings --no-skip-default-value
 brew install jaywcjlove/tap/appi18n
 ```
 
-## 构建
-
-需要 Swift 5.9+。
-
-```bash
-swift build -c release
-# 可执行文件位置：
-# .build/release/appi18n
-```
-
-## 测试 / 命令试用
-
-```bash
-# 查看帮助：
-swift run appi18n --help
-# 从 Xcode 项目提取 `.xcstrings`：
-swift run appi18n extract /path/to/YourApp
-# 将 `.xcstrings` 转换为 `.lproj`：
-swift run appi18n to-lproj
-# 将 `.lproj` 更新回 `.xcstrings`：
-swift run appi18n to-xcstrings
-# 强制不跳过更新，当前语言与默认语言一致
-swift run appi18n to-xcstrings --no-skip-default-value
-# 为一个或多个应用添加新语言：
-swift run appi18n langs menuist,scap fr
-# 查看某个应用已有语言：
-swift run appi18n langs menuist
-# 列出可用的推荐语言代码：
-swift run appi18n langs 
-# 列出系统提供的全部语言/区域标识：
-swift run appi18n langs --all
-# 检查翻译状态：
-swift run appi18n status
-# 清理空/过时 `.lproj` 文件：
-swift run appi18n clean
-```
-
-发布命令:
-
-```shell
-$ env 'CLANG_MODULE_CACHE_PATH=/tmp/clang-module-cache' swift build -c release
-$ tar -czf ./appi18n.tar.gz -C ./.build/arm64-apple-macosx/release appi18n
-```
-
 ## App i18n CLI 命令帮助
 
 ```shell
@@ -268,3 +224,53 @@ $ appi18n to-xcstrings --no-skip-default-value
 ```shell
 $ appi18n clean
 ```
+
+## 开发
+
+### 构建
+
+需要 Swift 5.9+。
+
+```bash
+swift build -c release
+# 可执行文件位置：
+# .build/release/appi18n
+```
+
+### 测试 / 命令试用
+
+```bash
+# 查看帮助：
+swift run appi18n --help
+# 从 Xcode 项目提取 `.xcstrings`：
+swift run appi18n extract /path/to/YourApp
+# 将 `.xcstrings` 转换为 `.lproj`：
+swift run appi18n to-lproj
+# 将 `.lproj` 更新回 `.xcstrings`：
+swift run appi18n to-xcstrings
+# 强制不跳过更新，当前语言与默认语言一致
+swift run appi18n to-xcstrings --no-skip-default-value
+# 为一个或多个应用添加新语言：
+swift run appi18n langs menuist,scap fr
+# 查看某个应用已有语言：
+swift run appi18n langs menuist
+# 列出可用的推荐语言代码：
+swift run appi18n langs 
+# 列出系统提供的全部语言/区域标识：
+swift run appi18n langs --all
+# 检查翻译状态：
+swift run appi18n status
+# 清理空/过时 `.lproj` 文件：
+swift run appi18n clean
+```
+
+### 发布命令
+
+```shell
+$ env 'CLANG_MODULE_CACHE_PATH=/tmp/clang-module-cache' swift build -c release
+$ tar -czf ./appi18n.tar.gz -C ./.build/arm64-apple-macosx/release appi18n
+```
+
+## 许可证
+
+基于 MIT 许可证授权。

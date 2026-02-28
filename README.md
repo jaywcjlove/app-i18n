@@ -51,26 +51,7 @@ My app internationalization files are stored in the [`i18n/source`](./i18n/sourc
 ./i18n
 ├── lproj # Internationalization language maintenance
 │   ├── menuist # menuist app
-│   │   ├── en.lproj
-│   │   │   ├── Menuist
-│   │   │   │   ├── InfoPlist.strings
-│   │   │   │   ├── Localizable.strings
-│   │   │   ├── MenuistFinderExtension
-│   │   │   │   ├── Info.plist
-│   │   │   │   └── Localizable.strings
-│   │   │   └── QuickLookPreview
-│   │   │       ├── Info.plist
-│   │   │       └── Localizable.strings
-│   │   └── zh-Hans.lproj
-│   │       ├── Menuist
-│   │       │   ├── InfoPlist.strings
-│   │       │   ├── Localizable.strings
-│   │       ├── MenuistFinderExtension
-│   │       │   ├── Info.plist
-│   │       │   └── Localizable.strings
-│   │       └── QuickLookPreview
-│   │           ├── Info.plist
-│   │           └── Localizable.strings
+│   │   ├── ...
 │   └── scap   # scap app
 │       ├── en.lproj
 │       │   ├── Localizable.strings
@@ -80,15 +61,7 @@ My app internationalization files are stored in the [`i18n/source`](./i18n/sourc
 │           └── InfoPlist.strings
 └── source # Internationalization source files
     ├── menuist # menuist app
-    │   ├── Menuist
-    │   │   ├── InfoPlist.xcstrings
-    │   │   ├── Localizable.xcstrings
-    │   ├── MenuistFinderExtension
-    │   │   ├── Info.plist
-    │   │   └── Localizable.xcstrings
-    │   └── QuickLookPreview
-    │       ├── Info.plist
-    │       └── Localizable.xcstrings
+    │   ├── ...
     └── scap   # scap app
         ├── InfoPlist.xcstrings
         └── Localizable.xcstrings
@@ -114,50 +87,6 @@ $ appi18n to-xcstrings --no-skip-default-value
 
 ```bash
 brew install jaywcjlove/tap/appi18n
-```
-
-## Build
-
-Requires Swift 5.9+.
-
-```bash
-swift build -c release
-# The executable will be at:
-# .build/release/appi18n
-```
-
-## Test / Try Commands
-
-```bash
-# Show help:
-swift run appi18n --help
-# Extract `.xcstrings` from an Xcode project:
-swift run appi18n extract /path/to/YourApp
-# Convert `.xcstrings` to `.lproj`:
-swift run appi18n to-lproj
-# Update `.xcstrings` from `.lproj`:
-swift run appi18n to-xcstrings
-# Force not skipping updates, the current language is the same as the default language.
-swift run appi18n to-xcstrings --no-skip-default-value
-# Add a new language to one or more apps:
-swift run appi18n langs menuist,scap fr
-# List existing languages for an app:
-swift run appi18n langs menuist
-# List available recommended language codes:
-swift run appi18n langs 
-# List all system-provided language/region identifiers:
-swift run appi18n langs --all
-# Check translation status:
-swift run appi18n status
-# Clean empty/outdated `.lproj` files:
-swift run appi18n clean
-```
-
-Release command:
-
-```shell
-$ env 'CLANG_MODULE_CACHE_PATH=/tmp/clang-module-cache' swift build -c release
-$ tar -czf ./appi18n.tar.gz -C ./.build/arm64-apple-macosx/release appi18n
 ```
 
 ## App i18n CLI Command Help
@@ -294,3 +223,53 @@ Clean up empty/outdated internationalization files and keep source files synchro
 ```shell
 $ appi18n clean
 ```
+
+## Development
+
+### Build
+
+Requires Swift 5.9+.
+
+```bash
+swift build -c release
+# The executable will be at:
+# .build/release/appi18n
+```
+
+### Test / Try Commands
+
+```bash
+# Show help:
+swift run appi18n --help
+# Extract `.xcstrings` from an Xcode project:
+swift run appi18n extract /path/to/YourApp
+# Convert `.xcstrings` to `.lproj`:
+swift run appi18n to-lproj
+# Update `.xcstrings` from `.lproj`:
+swift run appi18n to-xcstrings
+# Force not skipping updates, the current language is the same as the default language.
+swift run appi18n to-xcstrings --no-skip-default-value
+# Add a new language to one or more apps:
+swift run appi18n langs menuist,scap fr
+# List existing languages for an app:
+swift run appi18n langs menuist
+# List available recommended language codes:
+swift run appi18n langs 
+# List all system-provided language/region identifiers:
+swift run appi18n langs --all
+# Check translation status:
+swift run appi18n status
+# Clean empty/outdated `.lproj` files:
+swift run appi18n clean
+```
+
+### Release command
+
+```shell
+$ env 'CLANG_MODULE_CACHE_PATH=/tmp/clang-module-cache' swift build -c release
+$ tar -czf ./appi18n.tar.gz -C ./.build/arm64-apple-macosx/release appi18n
+```
+
+## License
+
+Licensed under the MIT License.
