@@ -16,6 +16,7 @@ Examples:
   appi18n to-xcstrings
   appi18n status
   appi18n preview
+  appi18n ghpage
   appi18n clean
 """
 
@@ -32,6 +33,7 @@ struct AppI18n: ParsableCommand {
             ToXCStrings.self,
             Status.self,
             Preview.self,
+            GhPage.self,
             Clean.self
         ]
     )
@@ -170,5 +172,34 @@ struct Clean: ParsableCommand {
 
     mutating func run() throws {
         try clean()
+    }
+}
+
+struct GhPage: ParsableCommand {
+    static let configuration = CommandConfiguration(
+        commandName: "ghpage",
+        abstract: "Commit generated HTML files to a branch (default: gh-pages)"
+    )
+
+    @Option(name: [.short, .long], help: "Target branch name")
+    var branch: String = "gh-pages"
+
+    @Option(name: [.short, .long], help: "Source folder containing generated HTML files")
+    var source: String = ".html"
+
+    @Option(name: .long, help: "Commit message")
+    var message: String?
+
+    mutating func run() throws {
+        let targetBranch = branch.trimmingCharacters(in: .whitespacesAndNewlines)
+        let sourcePath = source.trimmingCharacters(in: .whitespacesAndNewlines)
+        let commitMessage = message?.trimmingCharacters(in: .whitespacesAndNewlines)
+        if targetBranch.isEmpty {
+            throw ValidationError("Branch name cannot be empty.")
+        }
+        if sourcePath.isEmpty {
+            throw ValidationError("Source folder cannot be empty.")
+        }
+        try ghpage(branch: targetBranch, sourcePath: sourcePath, commitMessage: commitMessage)
     }
 }

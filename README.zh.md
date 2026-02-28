@@ -106,6 +106,7 @@ Commands:
   to-xcstrings 将 .lproj 更新到 .xcstrings (用于导入 Xcode)中
   status       检查翻译状态 (missing / incomplete 语言)
   preview      生成国际化 HTML 预览
+  ghpage       将生成的 HTML 提交到目标分支（默认 gh-pages）
   clean        清理过时/空 .lproj 文件
   help         显示此帮助信息
 ```
@@ -121,6 +122,7 @@ appi18n langs --all
 appi18n to-xcstrings
 appi18n status
 appi18n preview
+appi18n ghpage
 appi18n clean
 ```
 
@@ -239,6 +241,30 @@ $ appi18n preview -o i18n/preview-site
 $ appi18n preview menuist -o i18n/preview-menuist
 ```
 
+### `ghpage`
+
+使用 `git worktree` 将指定目录里的 HTML 文件提交到目标分支。
+
+参数说明：
+
+1. `-b, --branch`（可选）：目标分支，默认 `gh-pages`
+2. `-s, --source`（可选）：源目录，默认 `.html`
+3. `--message`（可选）：自定义提交信息
+
+```shell
+# 将 ./.html 提交到 gh-pages
+$ appi18n ghpage
+
+# 从自定义目录提交到 gh-pages
+$ appi18n ghpage -s i18n/preview-site
+
+# 提交到自定义分支
+$ appi18n ghpage -b pages
+
+# 自定义分支 + 源目录 + 提交信息
+$ appi18n ghpage -b pages -s i18n/preview-site --message "chore: update preview site"
+```
+
 ### `clean`
 
 清理空/过时的国际化文件，保持源文件与本地化文件的同步
@@ -293,6 +319,10 @@ swift run appi18n preview
 swift run appi18n preview menuist,scap
 # 输出到自定义目录：
 swift run appi18n preview -o i18n/preview-site
+# 将生成的 HTML 提交到 gh-pages：
+swift run appi18n ghpage
+# 从自定义目录提交到自定义分支：
+swift run appi18n ghpage -b pages -s i18n/preview-site
 # 清理空/过时 `.lproj` 文件：
 swift run appi18n clean
 ```
