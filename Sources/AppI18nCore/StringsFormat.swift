@@ -41,6 +41,11 @@ func parseStringsFile(at url: URL) -> StringsFile {
     return StringsFile(entries: entries)
 }
 
+/// Parse `.strings` file and return first occurrence line number for each key.
+/// Line numbers are 1-based to match GitHub `#L<line>` anchors.
+///
+/// This parser intentionally mirrors `parseStringsFile` key regex behavior so key
+/// extraction remains consistent between value parsing and line lookup.
 func parseStringsFileLineNumbers(at url: URL) -> [String: Int] {
     guard let content = try? String(contentsOf: url, encoding: .utf8) else {
         return [:]

@@ -7,41 +7,63 @@
 
 import Foundation
 
+/// A normalized row used by the preview detail table.
+/// Each row represents one i18n key after filtering rules are applied.
 private struct PreviewRow {
+    /// Translation key from `.strings` / `.xcstrings`.
     let key: String
+    /// Base language code for this key (for example `en`).
     let defaultLanguage: String
+    /// Base language text shown in the "Default Value" column.
     let defaultValue: String
+    /// Localized value per language code.
     let valuesByLanguage: [String: String]
+    /// Localization state per language code (e.g. `translated`, `new`).
     let statesByLanguage: [String: String]
+    /// Optional GitHub source link for each language value cell.
     let sourceLinksByLanguage: [String: String]
 }
 
+/// A logical preview unit that corresponds to one `.strings` file.
 private struct PreviewFile {
+    /// Relative path under `<lang>.lproj` (e.g. `Localizable.strings`).
     let relativePath: String
+    /// Base language used by the original `.xcstrings` file.
     let defaultLanguage: String
+    /// Render-ready rows for this file.
     let rows: [PreviewRow]
 }
 
+/// Aggregated translation progress counters for one language.
 private struct LangProgress {
     var translated = 0
     var total = 0
 }
 
+/// Render-ready model for one app page and one app section on index.
 private struct AppPreview {
     let appName: String
     let pageFileName: String
     let baseLanguage: String
+    /// Number of valid base rows after filtering empty base keys/values.
     let baseTotal: Int
     let languages: [String]
     let files: [PreviewFile]
     let progressByLanguage: [String: LangProgress]
 }
 
+/// GitHub context required to build `blob/<commit>/...#L<line>` links.
 private struct GitHubBlobContext {
     let repositoryURL: String
     let commitHash: String
 }
 
+/// Generate preview HTML files:
+/// - `index.html` overview page
+/// - one detail page per app
+///
+/// The method scans `i18n/lproj` for localized `.strings` files and enriches data
+/// with `.xcstrings` source language metadata from `i18n/source`.
 public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") throws {
     let lprojRoot = i18nLprojURL()
     let sourceRoot = i18nSourceURL()
@@ -94,6 +116,7 @@ public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") thr
         var progressByLanguage: [String: LangProgress] = [:]
         var baseTotal = 0
 
+        // Build preview rows file-by-file to preserve original file boundaries.
         for rel in allRelFiles.sorted() {
             let relDir = (rel as NSString).deletingLastPathComponent
             let baseName = (rel as NSString).lastPathComponent.replacingOccurrences(of: ".strings", with: ".xcstrings")
@@ -105,6 +128,8 @@ public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") thr
             var sourceLanguage = "en"
             var sourceValuesByKey: [String: String] = [:]
             var statesByLangByKey: [String: [String: String]] = [:]
+            // Load source-language values and states from `.xcstrings` when available.
+            // When unavailable, we still render based on `.strings` union.
             if fileManager.fileExists(atPath: xcFile.path) {
                 let xc = try loadXCStrings(at: xcFile)
                 sourceLanguage = xc.sourceLanguage
@@ -128,6 +153,7 @@ public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") thr
             var keys = Set(sourceValuesByKey.keys)
             var valuesByLang: [String: [String: String]] = [:]
             var lineNumbersByLang: [String: [String: Int]] = [:]
+            // Parse `.strings` content and key line numbers for link generation.
             for lang in langs {
                 if let file = filesByLang[lang]?[rel] {
                     let entries = parseStringsFile(at: file).entries
@@ -143,6 +169,9 @@ public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") thr
                 let baseKey = key.trimmingCharacters(in: .whitespacesAndNewlines)
                 let baseValue = (sourceValuesByKey[key] ?? valuesByLang[sourceLanguage]?[key] ?? key)
                     .trimmingCharacters(in: .whitespacesAndNewlines)
+                // Hard filter:
+                // - empty key OR empty base value => hide row entirely
+                // This row should not appear in detail table and should not affect progress.
                 if baseKey.isEmpty || baseValue.isEmpty {
                     continue
                 }
@@ -157,6 +186,9 @@ public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") thr
                     if let state = statesByLangByKey[key]?[lang] {
                         rowStatesByLanguage[lang] = state
                     }
+                    // Attach source link for this language cell when:
+                    // 1) git/github context is available
+                    // 2) this key has a known line in the `.strings` file
                     if let gitHubBlobContext,
                        let line = lineNumbersByLang[lang]?[key] {
                         let repoPath = "i18n/lproj/\(app)/\(lang).lproj/\(rel)"
@@ -166,6 +198,7 @@ public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") thr
                             line: line
                         )
                     }
+                    // Base language is excluded from "translated/total" progress counters.
                     if lang == sourceLanguage { continue }
                     var progress = progressByLanguage[lang] ?? LangProgress()
                     progress.total += 1
@@ -225,12 +258,16 @@ public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") thr
     Logger.info("Generated HTML preview index: \(indexURL.path)")
 }
 
+/// Translation completion rule:
+/// - Explicit `state == translated` always counts as translated
+/// - Otherwise non-empty value different from base value counts as translated
 private func isCompletedTranslation(value: String, defaultValue: String, state: String?) -> Bool {
     if let state, state.lowercased() == "translated" { return true }
     if value.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty { return false }
     return value != defaultValue
 }
 
+/// Escape text for safe HTML embedding.
 private func htmlEscape(_ text: String) -> String {
     text
         .replacingOccurrences(of: "&", with: "&amp;")
@@ -240,6 +277,7 @@ private func htmlEscape(_ text: String) -> String {
         .replacingOccurrences(of: "'", with: "&#39;")
 }
 
+/// Convert an arbitrary app name/path-like string to a URL-safe slug.
 private func safeSlug(_ text: String) -> String {
     let lower = text.lowercased()
     var out = ""
@@ -259,6 +297,7 @@ private func safeSlug(_ text: String) -> String {
     return trimmed.isEmpty ? "app" : trimmed
 }
 
+/// Ensure per-app output filenames are unique on the generated site.
 private func uniqueAppPageFileName(appName: String, usedNames: inout Set<String>) -> String {
     let base = safeSlug(appName)
     var candidate = base
@@ -271,12 +310,15 @@ private func uniqueAppPageFileName(appName: String, usedNames: inout Set<String>
     return "\(candidate).html"
 }
 
+/// Keep old helper for compatibility with existing UI chips/style decisions.
+/// Not all renderers use this directly anymore.
 private func percentText(_ progress: LangProgress?) -> String {
     guard let progress, progress.total > 0 else { return "-" }
     let percent = (Double(progress.translated) / Double(progress.total)) * 100.0
     return String(format: "%.1f%%", percent)
 }
 
+/// Format completion text as `XX% (translated/total)`.
 private func completionRatioText(translated: Int, total: Int) -> String {
     let percent: Int
     if total <= 0 {
@@ -287,6 +329,10 @@ private func completionRatioText(translated: Int, total: Int) -> String {
     return "\(percent)% (\(translated)/\(total))"
 }
 
+/// Return CSS class for completion color state:
+/// - full   => green
+/// - zero   => red
+/// - partial=> yellow
 private func completionClass(translated: Int, total: Int) -> String {
     guard total > 0 else { return "completion-zero" }
     if translated == 0 { return "completion-zero" }
@@ -294,12 +340,16 @@ private func completionClass(translated: Int, total: Int) -> String {
     return "completion-partial"
 }
 
+/// Render language label with localized display name.
+/// Example: `English(en)` or `Japanese(ja)`.
 private func localizedLanguageLabel(_ code: String) -> String {
     let lookup = code.replacingOccurrences(of: "-", with: "_")
     let name = Locale.current.localizedString(forIdentifier: lookup) ?? code
     return "\(name)(\(code))"
 }
 
+/// Small command runner used only for lightweight git probes in preview generation.
+/// Returns `(exitStatus, trimmedStdout)`.
 private func runCommand(_ executable: String, _ arguments: [String], currentDirectory: URL) -> (Int32, String) {
     let process = Process()
     process.executableURL = URL(fileURLWithPath: executable)
@@ -320,6 +370,8 @@ private func runCommand(_ executable: String, _ arguments: [String], currentDire
     return (process.terminationStatus, text.trimmingCharacters(in: .whitespacesAndNewlines))
 }
 
+/// Detect GitHub repository + current commit for building source links.
+/// Returns `nil` when git is unavailable, origin is missing, or remote is not GitHub.
 private func detectGitHubBlobContext(at root: URL) -> GitHubBlobContext? {
     let gitCheck = runCommand("/usr/bin/env", ["git", "--version"], currentDirectory: root)
     guard gitCheck.0 == 0 else { return nil }
@@ -334,6 +386,11 @@ private func detectGitHubBlobContext(at root: URL) -> GitHubBlobContext? {
     return GitHubBlobContext(repositoryURL: repositoryURL, commitHash: commitOutput.1)
 }
 
+/// Normalize common Git remote URL formats into `https://github.com/owner/repo`.
+/// Supported examples:
+/// - `git@github.com:owner/repo.git`
+/// - `ssh://git@github.com/owner/repo.git`
+/// - `https://github.com/owner/repo(.git)`
 private func normalizedGitHubRepositoryURL(remoteURL: String) -> String? {
     let raw = remoteURL.trimmingCharacters(in: .whitespacesAndNewlines)
     if raw.hasPrefix("git@github.com:") {
@@ -353,6 +410,7 @@ private func normalizedGitHubRepositoryURL(remoteURL: String) -> String? {
     return "https://github.com\(path)"
 }
 
+/// Build a deep link to a specific file line on GitHub for current commit.
 private func makeGitHubBlobLineURL(context: GitHubBlobContext, repositoryRelativePath: String, line: Int) -> String {
     let encodedPath = repositoryRelativePath
         .split(separator: "/")
@@ -363,6 +421,7 @@ private func makeGitHubBlobLineURL(context: GitHubBlobContext, repositoryRelativ
     return "\(context.repositoryURL)/blob/\(context.commitHash)/\(encodedPath)#L\(line)"
 }
 
+/// Render overview index page with one table per app.
 private func renderPreviewIndexHTML(apps: [AppPreview]) -> String {
     let generatedAt = ISO8601DateFormatter().string(from: Date())
     var appTables: [String] = []
@@ -448,6 +507,7 @@ private func renderPreviewIndexHTML(apps: [AppPreview]) -> String {
     """
 }
 
+/// Render detail page for one app, including file switcher and per-language table.
 private func renderPreviewAppHTML(app: AppPreview) -> String {
     let generatedAt = ISO8601DateFormatter().string(from: Date())
     let languages = app.languages

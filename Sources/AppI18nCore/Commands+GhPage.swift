@@ -1,11 +1,14 @@
 import Foundation
 
+/// Result of a shell command invocation used by ghpage publishing flow.
 private struct ShellResult {
     let status: Int32
     let stdout: String
     let stderr: String
 }
 
+/// Execute a git command in a specific working directory.
+/// The command is executed as `/usr/bin/env git ...` for portability.
 private func runGit(_ args: [String], at directory: URL) -> ShellResult {
     let process = Process()
     process.executableURL = URL(fileURLWithPath: "/usr/bin/env")
@@ -33,6 +36,8 @@ private func runGit(_ args: [String], at directory: URL) -> ShellResult {
     )
 }
 
+/// Remove everything under the target worktree except `.git`.
+/// This guarantees the published branch contains only the selected source content.
 private func removeAllContents(in directory: URL) throws {
     let children = try fileManager.contentsOfDirectory(at: directory, includingPropertiesForKeys: nil, options: [])
     for item in children {
@@ -41,6 +46,8 @@ private func removeAllContents(in directory: URL) throws {
     }
 }
 
+/// Copy all direct children from source directory to destination directory.
+/// Hidden files are included intentionally (e.g. `.nojekyll`).
 private func copyDirectoryContents(from source: URL, to destination: URL) throws {
     let children = try fileManager.contentsOfDirectory(at: source, includingPropertiesForKeys: nil, options: [])
     for item in children {
@@ -52,6 +59,17 @@ private func copyDirectoryContents(from source: URL, to destination: URL) throws
     }
 }
 
+/// Publish static files to a pages branch by committing source directory contents.
+///
+/// Behavior summary:
+/// 1. Validate source folder and git availability
+/// 2. Create temporary worktree for target branch (or create branch if missing)
+/// 3. Replace branch content with source folder content
+/// 4. Commit changes when there are staged diffs
+///
+/// Notes:
+/// - This function only creates a local commit; it does not push to remote.
+/// - Current working branch is not switched because worktree is used.
 public func ghpage(branch: String = "gh-pages", sourcePath: String = ".html", commitMessage: String? = nil) throws {
     let root = projectRootURL()
     let sourceURL = URL(fileURLWithPath: sourcePath, relativeTo: root).standardizedFileURL
@@ -66,6 +84,7 @@ public func ghpage(branch: String = "gh-pages", sourcePath: String = ".html", co
         throw AppError.message("git command not found or unavailable.")
     }
 
+    // Detect local branch existence; create it if absent.
     let branchExists = runGit(["rev-parse", "--verify", "refs/heads/\(branch)"], at: root).status == 0
     let tempWorktree = URL(fileURLWithPath: NSTemporaryDirectory())
         .appendingPathComponent("appi18n-ghpage-\(UUID().uuidString)")
@@ -80,6 +99,7 @@ public func ghpage(branch: String = "gh-pages", sourcePath: String = ".html", co
         throw AppError.message("Failed to prepare worktree: \(addResult.stderr)")
     }
 
+    // Always cleanup temporary worktree even if publishing fails.
     defer {
         _ = runGit(["worktree", "remove", "--force", tempWorktree.path], at: root)
         try? fileManager.removeItem(at: tempWorktree)
