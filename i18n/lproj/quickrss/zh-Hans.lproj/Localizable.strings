@@ -1,0 +1,232 @@
+"" = "";
+
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ 深色模式";
+
+"%@ Follow System" = "%@ 跟随系统";
+
+"%@ Light Mode" = "%@ 浅色模式";
+
+"%d days ago" = "%d天前";
+
+"%d hours ago" = "%d小时前";
+
+"%d minutes ago" = "%d分钟前";
+
+"%d months ago" = "%d个月前";
+
+"%d weeks ago" = "%d周前";
+
+"%d years ago" = "%d年前";
+
+"%lld" = "%lld";
+
+"%lld of %lld" = "%1$lld of %2$lld";
+
+"%lld unread" = "%lld 条未读";
+
+"1 day ago" = "1天前";
+
+"1 hour ago" = "1小时前";
+
+"1 minute ago" = "1分钟前";
+
+"1 month ago" = "1个月前";
+
+"1 week ago" = "1周前";
+
+"1 year ago" = "1年前";
+
+"A total of %lld entries" = "一共 %lld 条数据";
+
+"About" = "关于";
+
+"About %@" = "关于 %@";
+
+"Add" = "添加";
+
+"Add Feed" = "添加订阅源";
+
+"Add a new RSS feed by entering its URL" = "通过输入 URL 添加新的 RSS 订阅源";
+
+"All Unread" = "全部未读";
+
+"Appearance" = "外观";
+
+"Are you sure you want to clear all \"%lld\" entries from the source?" = "你确定清空所有源的 \"%lld\" 条数据？";
+
+"Are you sure you want to delete the local article \"%@\"?" = "你确定要删除本地文章 \"%@\" 吗？";
+
+"Bulk Export RSS Sources" = "批量导出 RSS 源";
+
+"Bulk Import RSS Sources" = "批量导入 RSS 源";
+
+"Cancel" = "取消";
+
+"Choose where to save your feeds" = "选择保存订阅源的位置";
+
+"Clear all data from the source" = "清空源的所有数据";
+
+"Confirm" = "确认";
+
+"Confirm Deletion" = "确认删除";
+
+"Confirm deletion of \"%@\" subscription data" = "确认删除「%@」的订阅数据吗？";
+
+"Contact" = "联系我们";
+
+"Copy Content" = "复制内容";
+
+"Copy Feed Title" = "复制订阅标题";
+
+"Copy Feed URL" = "复制订阅源 URL";
+
+"Copy Home Page URL" = "复制主页 URL";
+
+"Copy URL" = "复制链接";
+
+"Copy title" = "复制标题";
+
+/* Dark */
+"Dark" = "暗色";
+
+"Delete" = "删除";
+
+"Delete Default RSS Source" = "删除默认 RSS 源";
+
+"Delete Feed" = "删除订阅源";
+
+"E-mail" = "电子邮件";
+
+"Enter feed name (optional)" = "请输入订阅源名称（可选）";
+
+"Error" = "错误";
+
+"Export" = "导出";
+
+"Export Feeds (.json)" = "导出订阅源(.json)";
+
+"Export Feeds..." = "导出订阅源…";
+
+"Export OPML" = "导出OPML";
+
+"Export failed: %@" = "导出失败：%@";
+
+"Failed to fetch RSS feed" = "获取 RSS 源失败";
+
+"Feedback" = "反馈";
+
+"Feeds" = "订阅源";
+
+"Free" = "免费";
+
+"General" = "常规";
+
+"Go to Settings to grant notification permissions" = "前往设置授权通知权限";
+
+"Import Feeds (.json)" = "导入订阅源（.json）";
+
+"Import OPML" = "导入OPML";
+
+"Import failed: %@" = "导入失败: %@";
+
+"Just now" = "刚刚";
+
+"Language" = "语言";
+
+"Launch at login" = "开机时启动";
+
+/* Light */
+"Light" = "亮色";
+
+"Loading failed: %@" = "加载失败：%@";
+
+"Loading..." = "加载中…";
+
+"Main Window" = "主窗口";
+
+"Mark All As Read" = "设置全部已读";
+
+"Mark All As Unread" = "设置全部未读";
+
+"Mark All Read" = "标记全部已读";
+
+"Mark As Read" = "标记为已读";
+
+"Mark As Starred" = "标记为收藏";
+
+"Mark As Unread" = "标记为未读";
+
+"Mark As Unstarred" = "取消收藏";
+
+"Move to Top" = "移动到顶部";
+
+"My Apps" = "我的应用";
+
+"New Feed..." = "新建订阅源…";
+
+"No Selection" = "没有选择";
+
+"No data" = "没有数据";
+
+"No more content" = "没有更多内容了";
+
+"OK" = "确认";
+
+"Open Feed in browser" = "在浏览器中打开订阅源";
+
+"Open Home Page in browser" = "在浏览器中打开主页";
+
+"Open in Browser" = "在浏览器中打开";
+
+"Page details are in the app, display full webpage content" = "页面详情在应用中，显示完整网页内容";
+
+"Please enter the Feed URL addres" = "请输入订阅源的 URL 地址";
+
+"Pro" = "专业版";
+
+"RSS feed already imported; no need to import again." = "RSS 源已导入，无需重复导入。";
+
+"Read" = "已读";
+
+"Refresh" = "刷新";
+
+"Refresh Feed" = "刷新订阅源";
+
+"Rename" = "重命名";
+
+"Rename Feed" = "重命名订阅";
+
+"Share" = "分享";
+
+"Show full page" = "显示完整网页";
+
+"Social Accounts" = "社交账号";
+
+"Starred" = "收藏";
+
+"Successfully exported \"%lld\" feeds to \"%@\"" = "成功将 \"%1$lld\" 条订阅导出到 \"%2$@\"";
+
+"Successfully exported \"%lld\" feeds to %@" = "已成功将 “%1$lld” 个订阅源导出到 %2$@";
+
+/* System */
+"System" = "系统";
+
+"The content you select will be displayed here." = "您选择的内容将显示在这里";
+
+"Today" = "今天";
+
+"Unlock all Features" = "解锁所有功能";
+
+"Unread" = "未读";
+
+"Unstarred" = "取消收藏";
+
+"Version %@" = "版本 %@";
+
+"X(Twitter)" = "X(Twitter)";
+
+"[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)";
+
+"my_other_apps" = "my_other_apps";
