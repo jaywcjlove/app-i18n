@@ -287,6 +287,13 @@ private func completionRatioText(translated: Int, total: Int) -> String {
     return "\(percent)% (\(translated)/\(total))"
 }
 
+private func completionClass(translated: Int, total: Int) -> String {
+    guard total > 0 else { return "completion-zero" }
+    if translated == 0 { return "completion-zero" }
+    if translated >= total { return "completion-full" }
+    return "completion-partial"
+}
+
 private func localizedLanguageLabel(_ code: String) -> String {
     let lookup = code.replacingOccurrences(of: "-", with: "_")
     let name = Locale.current.localizedString(forIdentifier: lookup) ?? code
@@ -364,18 +371,21 @@ private func renderPreviewIndexHTML(apps: [AppPreview]) -> String {
         var langRows: [String] = []
         for lang in langs {
             let completion: String
+            let completionClassName: String
             if lang == app.baseLanguage {
                 let total = app.baseTotal
                 completion = completionRatioText(translated: total, total: total)
+                completionClassName = completionClass(translated: total, total: total)
             } else {
                 let progress = app.progressByLanguage[lang] ?? LangProgress()
                 completion = completionRatioText(translated: progress.translated, total: progress.total)
+                completionClassName = completionClass(translated: progress.translated, total: progress.total)
             }
             langRows.append(
                 """
                 <tr>
                   <td>\(htmlEscape(localizedLanguageLabel(lang)))</td>
-                  <td>\(htmlEscape(completion))</td>
+                  <td class="\(completionClassName)">\(htmlEscape(completion))</td>
                 </tr>
                 """
             )
@@ -420,6 +430,9 @@ private func renderPreviewIndexHTML(apps: [AppPreview]) -> String {
         table { border-collapse: collapse; width: 100%; min-width: 720px; table-layout: fixed; }
         th, td { border-bottom: 1px solid #e5e7eb; border-right: 1px solid #e5e7eb; text-align: left; padding: 8px 10px; font-size: 12px; line-height: 1.5; }
         th { background: #f3f4f6; position: sticky; top: 0; }
+        td.completion-full { background: #ecfdf5; color: #065f46; }
+        td.completion-zero { background: #fef2f2; color: #991b1b; }
+        td.completion-partial { background: #fffbeb; color: #92400e; }
         a { color: #2563eb; text-decoration: none; }
         a:hover { text-decoration: underline; }
       </style>
