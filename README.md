@@ -36,7 +36,7 @@
 </div>
 <hr>
 
-[中文](./README.zh.md)
+[中文](./README.zh.md) • [MyApp i18n](#myapp-i18n) • [Installation](#installation)
 
 App i18n
 ===
