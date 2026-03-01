@@ -13,16 +13,6 @@ body:
         
         App i18n is a lightweight CLI tool for unifying and optimizing the internationalization (i18n) workflow across multiple apps.
         
-        **Current supported languages in various apps**:
-        - English (en)
-        - Chinese Simplified (zh-Hans)
-        - Chinese Traditional (zh-Hant)
-        - Japanese (ja)
-        - Korean (ko)
-        - German (de)
-        - French (fr)
-        - Italian (it)
-
         ### Contact Information
 
         If you have any questions about language support, please feel free to contact us:
@@ -106,7 +96,7 @@ body:
       multiple: true
     validations:
       required: true
-  
+
   - type: textarea
     attributes:
       label: ℹ️ Additional Context
