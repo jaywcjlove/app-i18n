@@ -176,7 +176,7 @@ $ appi18n extract ~/path/to/menuist/
 Index the following `.xcstrings` files
 
 ```bash
-menuist # menuist 应用
+menuist # menuist app
 ├── Menuist.xcodeproj
 ├── Menuist
 │   ├── InfoPlist.xcstrings
@@ -196,7 +196,7 @@ Internationalization files will be extracted to the `i18n/source` directory
 ./i18n
     ├── lproj
     └── source
-        └── menuist  # menuist 应用
+        └── menuist  # menuist app
             ├── Menuist
             │   ├── InfoPlist.xcstrings
             │   ├── Localizable.xcstrings
