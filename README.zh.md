@@ -46,6 +46,8 @@ App i18n
 
 ## MyApp i18n
 
+[iconed](./i18n/lproj/iconed) • [keyzer](./i18n/lproj/keyzer/) • [menuist](./i18n/lproj/menuist/) • [scap](./i18n/lproj/scap/)
+
 我的应用国际化文件都存储在 [`i18n/source`](./i18n/source/) 目录中，大家协同维护 [`i18n/lproj`](./i18n/lproj/) 的语言文件，将通过 `appi18n` 命令合并到 [`i18n/source`](./i18n/source/) 中
 
 ```shell
@@ -332,6 +334,7 @@ swift run appi18n clean
 ```shell
 $ env 'CLANG_MODULE_CACHE_PATH=/tmp/clang-module-cache' swift build -c release
 $ tar -czf ./appi18n.tar.gz -C ./.build/arm64-apple-macosx/release appi18n
+$ cd $(brew --repository jaywcjlove/tap)
 ```
 
 ## 许可证

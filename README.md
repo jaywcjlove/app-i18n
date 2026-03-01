@@ -45,6 +45,8 @@ it also supports converting back to `.xcstrings` to ensure seamless integration 
 
 ## MyApp i18n
 
+[iconed](./i18n/lproj/iconed) • [keyzer](./i18n/lproj/keyzer/) • [menuist](./i18n/lproj/menuist/) • [scap](./i18n/lproj/scap/)
+
 My app internationalization files are stored in the [`i18n/source`](./i18n/source/) directory. Teams collaborate to maintain the [`i18n/lproj`](./i18n/lproj/) language files, which will be merged into [`i18n/source`](./i18n/source/) using the `appi18n` command.
 
 ```shell
@@ -331,6 +333,7 @@ swift run appi18n clean
 ```shell
 $ env 'CLANG_MODULE_CACHE_PATH=/tmp/clang-module-cache' swift build -c release
 $ tar -czf ./appi18n.tar.gz -C ./.build/arm64-apple-macosx/release appi18n
+$ cd $(brew --repository jaywcjlove/tap)
 ```
 
 ## License
