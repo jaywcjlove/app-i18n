@@ -200,6 +200,37 @@ List all system-provided language/region identifiers:
 $ appi18n langs --all
 ```
 
+List commonly used languages
+
+```shell
+$ appi18n langs
+
+# Arabic (ar)                            Japanese (ja)
+# Bulgarian (bg)                         Korean (ko)
+# Catalan (ca)                           Lithuanian (lt)
+# Czech (cs)                             Latvian (lv)
+# Danish (da)                            Malay (ms)
+# German (de)                            Norwegian Bokmål (nb)
+# Greek (el)                             Dutch (nl)
+# English (en)                           Polish (pl)
+# English (Australia) (en-AU)            Portuguese (pt)
+# English (Canada) (en-CA)               Portuguese (Brazil) (pt-BR)
+# English (United Kingdom) (en-GB)       Portuguese (Portugal) (pt-PT)
+# English (United States) (en-US)        Romanian (ro)
+# Spanish (es)                           Russian (ru)
+# Spanish (Latin America) (es-419)       Slovak (sk)
+# Estonian (et)                          Slovenian (sl)
+# Finnish (fi)                           Serbian (sr)
+# French (fr)                            Serbian (Latin) (sr-Latn)
+# French (Canada) (fr-CA)                Swedish (sv)
+# Hebrew (he)                            Thai (th)
+# Hindi (hi)                             Turkish (tr)
+# Croatian (hr)                          Ukrainian (uk)
+# Hungarian (hu)                         Vietnamese (vi)
+# Indonesian (id)                        Chinese, Simplified (zh-Hans)
+# Italian (it)                           Chinese, Traditional (zh-Hant)
+```
+
 ### `to-xcstrings`
 
 Update `.lproj` to `.xcstrings` (for importing to Xcode)
