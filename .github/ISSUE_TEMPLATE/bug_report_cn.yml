@@ -1,0 +1,74 @@
+name: 🙋‍♂️ [App i18n] - 支持与反馈
+description: "获取有关 App i18n、报告错误或请求功能的帮助。"
+title: '🙋‍♂️ 支持与反馈: App i18n'
+labels: ['support', 'feedback', 'question']
+assignees:
+  - jaywcjlove
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请尽可能详细地提供您的支持请求或反馈。
+
+        App i18n 是一个轻量级命令行工具，用于统一管理和优化多个 App 的国际化（i18n）流程。
+        
+        **主要功能**：
+        - 🔁 双向转换：`.xcstrings` ⇄ `.lproj`
+        - 🤖 `.lproj` 结构更适合 AI 批量翻译
+        - 👥 便于多人 Git 协作维护
+        - 📦 支持统一管理多个 App 的本地化文件
+        - ⚡ CLI 优先，易于脚本化与 CI/CD 集成
+
+        ### 联系信息
+
+        如果您在使用我们的应用时遇到任何问题或需要支持，请随时通过以下方式与我们联系：
+
+        - **电子邮件支持**: [kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com)
+        - **社交媒体**: [Twitter](https://twitter.com/jaywcjlove)
+
+        我们会尽快回复您的消息，感谢您对我们应用的支持！
+
+
+  - type: textarea
+    attributes:
+      label: 🙋‍♂️ 您需要什么帮助？
+      description: 描述您面临的问题或您想要请求的功能。
+      placeholder: 例如，我遇到了问题...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os_version
+    attributes:
+      label: "💻 操作系统"
+      description: 您的操作系统和版本。
+      options:
+        - macOS 15.x (Sequoia)
+        - macOS 14.x (Sonoma)
+        - macOS 13.x (Ventura)
+        - macOS 12.x (Monterey)
+        - Linux
+        - Other
+      default: 0
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        **如何向我发送应用程序的崩溃报告？**
+
+        - 在 macOS 上打开 Finder
+        - 从“前往”菜单中选择 **前往文件夹…** <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>G</kbd>
+        - 输入：**~/Library/Logs/DiagnosticReports**
+        - 在出现的列表中，选择所有以应用程序名称开头的文件，将它们压缩成 ZIP 文件并发送给我
+        - 将文件附加到此问题中
+
+  - type: textarea
+    attributes:
+      label: ℹ️ 补充说明
+      description: 在此添加有关问题的其他上下文信息。
+      placeholder: 例如：截图、复现步骤等。
+    validations:
+      required: false
