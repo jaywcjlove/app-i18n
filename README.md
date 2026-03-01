@@ -45,7 +45,7 @@ it also supports converting back to `.xcstrings` to ensure seamless integration 
 
 ## MyApp i18n
 
-[iconed](./i18n/lproj/iconed) • [keyzer](./i18n/lproj/keyzer/) • [menuist](./i18n/lproj/menuist/) • [scap](./i18n/lproj/scap/)
+[iconed](./i18n/lproj/iconed) • [keyzer](./i18n/lproj/keyzer/) • [menuist](./i18n/lproj/menuist/) • [scap](./i18n/lproj/scap/) • [devhub](./i18n/lproj/devhub/) • [musicer](./i18n/lproj/musicer/)
 
 My app internationalization files are stored in the [`i18n/source`](./i18n/source/) directory. Teams collaborate to maintain the [`i18n/lproj`](./i18n/lproj/) language files, which will be merged into [`i18n/source`](./i18n/source/) using the `appi18n` command.
 
