@@ -1,0 +1,116 @@
+name: 🌍 [App i18n] - Language Request
+description: Request support for a new language in App i18n.
+title: '🌍 Language Request: [Language Name]'
+labels: ['enhancement', 'language', 'i18n']
+assignees:
+  - jaywcjlove
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please provide detailed information about the language you'd like to request support for.
+        
+        App i18n is a lightweight CLI tool for unifying and optimizing the internationalization (i18n) workflow across multiple apps.
+        
+        **Current supported languages in various apps**:
+        - English (en)
+        - Chinese Simplified (zh-Hans)
+        - Chinese Traditional (zh-Hant)
+        - Japanese (ja)
+        - Korean (ko)
+        - German (de)
+        - French (fr)
+        - Italian (it)
+
+        ### Contact Information
+
+        If you have any questions about language support, please feel free to contact us:
+
+        - **Email Support**: [kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com)
+        - **Social Media**: [Twitter](https://twitter.com/jaywcjlove)
+
+  - type: dropdown
+    attributes:
+      label: 🌍 Language
+      description: What language would you like to request support for?
+      options:
+        - Arabic (ar)
+        - Bulgarian (bg)
+        - Catalan (ca)
+        - Czech (cs)
+        - Danish (da)
+        - German (de)
+        - Greek (el)
+        - English (en)
+        - English (Australia) (en-AU)
+        - English (Canada) (en-CA)
+        - English (United Kingdom) (en-GB)
+        - English (United States) (en-US)
+        - Spanish (es)
+        - Spanish (Latin America) (es-419)
+        - Estonian (et)
+        - Finnish (fi)
+        - French (fr)
+        - French (Canada) (fr-CA)
+        - Hebrew (he)
+        - Hindi (hi)
+        - Croatian (hr)
+        - Hungarian (hu)
+        - Indonesian (id)
+        - Italian (it)
+        - Japanese (ja)
+        - Korean (ko)
+        - Lithuanian (lt)
+        - Latvian (lv)
+        - Malay (ms)
+        - Norwegian Bokmål (nb)
+        - Dutch (nl)
+        - Polish (pl)
+        - Portuguese (pt)
+        - Portuguese (Brazil) (pt-BR)
+        - Portuguese (Portugal) (pt-PT)
+        - Romanian (ro)
+        - Russian (ru)
+        - Slovak (sk)
+        - Slovenian (sl)
+        - Serbian (sr)
+        - Serbian (Latin) (sr-Latn)
+        - Swedish (sv)
+        - Thai (th)
+        - Turkish (tr)
+        - Ukrainian (uk)
+        - Vietnamese (vi)
+        - Chinese, Simplified (zh-Hans)
+        - Chinese, Traditional (zh-Hant)
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: 🎯 Target App(s)
+      description: Which app(s) do you need this language for?
+      options:
+        - All apps
+        - audioer
+        - daybar
+        - devhub
+        - iconed
+        - keyzer
+        - menuist
+        - musicer
+        - quickrss
+        - regexmate
+        - scap
+        - Other (please specify in additional context)
+      multiple: true
+    validations:
+      required: true
+  
+  - type: textarea
+    attributes:
+      label: ℹ️ Additional Context
+      description: Any additional information about this language request.
+      placeholder: e.g., Regional variations, cultural considerations, existing translation resources, etc.
+    validations:
+      required: false
