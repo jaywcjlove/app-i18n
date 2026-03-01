@@ -1,0 +1,1180 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    " - %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " - %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " - %@"
+          }
+        }
+      }
+    },
+    ".%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ".%@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ".%@"
+          }
+        }
+      }
+    },
+    "%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        }
+      }
+    },
+    "%@ - %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ - %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ - %2$@"
+          }
+        }
+      }
+    },
+    "%lld audios selected" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已选择 %lld 个音频"
+          }
+        }
+      }
+    },
+    "AAC (Advanced Audio Codec)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AAC（高级音频编码）"
+          }
+        }
+      }
+    },
+    "AC3 (Dolby Digital)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AC3（杜比数字音频）"
+          }
+        }
+      }
+    },
+    "Adaptive Multi-Rate" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自适应多速率"
+          }
+        }
+      }
+    },
+    "Add Album Name" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加专辑名称"
+          }
+        }
+      }
+    },
+    "Add Artist Name" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加艺术家名称"
+          }
+        }
+      }
+    },
+    "Add Title" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加标题"
+          }
+        }
+      }
+    },
+    "ADPCM IMA Dialogic OKI" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ADPCM IMA Dialogic OKI"
+          }
+        }
+      }
+    },
+    "Advanced Audio Coding" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级音频编码"
+          }
+        }
+      }
+    },
+    "ALAC (Apple Lossless Audio Codec)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ALAC（苹果无损音频编码）"
+          }
+        }
+      }
+    },
+    "Album" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "专辑"
+          }
+        }
+      }
+    },
+    "AMR-NB (Adaptive Multi-Rate Narrowband)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AMR-NB（自适应多速率窄带）"
+          }
+        }
+      }
+    },
+    "Artist" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "艺术家"
+          }
+        }
+      }
+    },
+    "Audio Conversion (1 file each time)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "音频转换（每次一个文件）"
+          }
+        }
+      }
+    },
+    "Audio Interchange File" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "音频交换文件"
+          }
+        }
+      }
+    },
+    "Audio Interchange File Format" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "音频交换文件格式"
+          }
+        }
+      }
+    },
+    "Audio Interchange File Format Compressed" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "压缩音频交换文件格式"
+          }
+        }
+      }
+    },
+    "Audio Stream Information" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "音频流信息"
+          }
+        }
+      }
+    },
+    "Audioer" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
+          }
+        }
+      }
+    },
+    "Automatic" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动"
+          }
+        }
+      }
+    },
+    "Batch conversion" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "批量转换"
+          }
+        }
+      }
+    },
+    "Bit Rate" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "比特率"
+          }
+        }
+      }
+    },
+    "Bitrate" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "比特率"
+          }
+        }
+      }
+    },
+    "Bits per Sample" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每采样位数"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        }
+      }
+    },
+    "Channel" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "声道"
+          }
+        }
+      }
+    },
+    "Channel Count" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "声道数"
+          }
+        }
+      }
+    },
+    "Channel Layout" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "声道布局"
+          }
+        }
+      }
+    },
+    "Codec" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编码器"
+          }
+        }
+      }
+    },
+    "Convert all" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转换所有"
+          }
+        }
+      }
+    },
+    "Convert To" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转换为"
+          }
+        }
+      }
+    },
+    "Convert To -> (.%@)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转换为 -> (.%@)"
+          }
+        }
+      }
+    },
+    "Core Audio Format" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "核心音频格式"
+          }
+        }
+      }
+    },
+    "Creative Voice" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "创意语音"
+          }
+        }
+      }
+    },
+    "Dialogic ADPCM" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dialogic ADPCM"
+          }
+        }
+      }
+    },
+    "Dolby Digital (ATSC A/52)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "杜比数字（ATSC A/52）"
+          }
+        }
+      }
+    },
+    "Drop audio files!" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拖放音频文件！"
+          }
+        }
+      }
+    },
+    "DTS (Digital Theater Systems)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DTS（数字剧院系统）"
+          }
+        }
+      }
+    },
+    "DTS Coherent Acoustics" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DTS一致性声学"
+          }
+        }
+      }
+    },
+    "Duration" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "时长"
+          }
+        }
+      }
+    },
+    "EAC3 (Dolby Digital Plus)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EAC3（杜比数字增强版）"
+          }
+        }
+      }
+    },
+    "Encoder" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编码器"
+          }
+        }
+      }
+    },
+    "Encoding" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编码"
+          }
+        }
+      }
+    },
+    "Enhanced AC-3 (Dolby Digital Plus)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "增强型AC-3（杜比数字增强版）"
+          }
+        }
+      }
+    },
+    "Failed to play" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "播放失败"
+          }
+        }
+      }
+    },
+    "File does not exist" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件不存在"
+          }
+        }
+      }
+    },
+    "FLAC (Free Lossless Audio Codec)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FLAC（自由无损音频编码"
+          }
+        }
+      }
+    },
+    "Format" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "格式"
+          }
+        }
+      }
+    },
+    "Free" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "免费"
+          }
+        }
+      }
+    },
+    "Free Lossless Audio Codec" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自由无损音频编码"
+          }
+        }
+      }
+    },
+    "iTunes Ringtone File" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTunes 铃声文件"
+          }
+        }
+      }
+    },
+    "Main Window" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主窗口"
+          }
+        }
+      }
+    },
+    "Matroska Audio" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matroska音频"
+          }
+        }
+      }
+    },
+    "Mono" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "单声道"
+          }
+        }
+      }
+    },
+    "MP2 (MPEG Audio Layer 2)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP3（MPEG音频层2）"
+          }
+        }
+      }
+    },
+    "MP3 (MPEG Audio Layer 3)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP3（MPEG音频层3）"
+          }
+        }
+      }
+    },
+    "MPEG Layer 2 Audio" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MPEG层2音频"
+          }
+        }
+      }
+    },
+    "MPEG Layer 3 Audio" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MPEG层3音频"
+          }
+        }
+      }
+    },
+    "MPEG-4 Audio" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MPEG-4音频"
+          }
+        }
+      }
+    },
+    "No available audio streams, unable to extract audio." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有可用的音频流，无法提取音频。"
+          }
+        }
+      }
+    },
+    "Ogg Vorbis" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ogg Vorbis"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确定"
+          }
+        }
+      }
+    },
+    "Open" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开"
+          }
+        }
+      }
+    },
+    "Open in Finder" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "访达中打开"
+          }
+        }
+      }
+    },
+    "Opus (Low-latency Codec)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opus（低延迟编码器）"
+          }
+        }
+      }
+    },
+    "Opus Audio" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opus音频"
+          }
+        }
+      }
+    },
+    "or" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "或"
+          }
+        }
+      }
+    },
+    "PCM 16-bit Big Endian (AIFF)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCM 16位大端格式 (AIFF)"
+          }
+        }
+      }
+    },
+    "PCM 16-bit Little Endian" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCM 16位小端格式"
+          }
+        }
+      }
+    },
+    "PCM 24-bit Little Endian" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCM 24位小端格式"
+          }
+        }
+      }
+    },
+    "PCM 32-bit Floating Point" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCM 32位浮点数格式"
+          }
+        }
+      }
+    },
+    "PCM 32-bit Little Endian" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCM 32位小端格式"
+          }
+        }
+      }
+    },
+    "PCM A-law" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCM A-law"
+          }
+        }
+      }
+    },
+    "PCM mu-law" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCM mu-law"
+          }
+        }
+      }
+    },
+    "PCM signed 16-bit little-endian" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCM signed 16-bit little-endian"
+          }
+        }
+      }
+    },
+    "PCM unsigned 8-bit" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCM unsigned 8-bit"
+          }
+        }
+      }
+    },
+    "PCM μ-law" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCM μ-law"
+          }
+        }
+      }
+    },
+    "Pro" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级版"
+          }
+        }
+      }
+    },
+    "Profile" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配置文件"
+          }
+        }
+      }
+    },
+    "Quick Time" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quick Time"
+          }
+        }
+      }
+    },
+    "Real Audio 1.0" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Real音频1.0"
+          }
+        }
+      }
+    },
+    "RealAudio" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RealAudio"
+          }
+        }
+      }
+    },
+    "RealMedia" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RealMedia"
+          }
+        }
+      }
+    },
+    "RealMedia Audio" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RealMedia音频"
+          }
+        }
+      }
+    },
+    "Sample Rate" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "采样率"
+          }
+        }
+      }
+    },
+    "Select Audio Files" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择音频文件"
+          }
+        }
+      }
+    },
+    "Select Folder" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择文件夹"
+          }
+        }
+      }
+    },
+    "Size" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大小"
+          }
+        }
+      }
+    },
+    "Sony Wave64" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "索尼 Wave64"
+          }
+        }
+      }
+    },
+    "Sound Designer II" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sound Designer II"
+          }
+        }
+      }
+    },
+    "Speex" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speex"
+          }
+        }
+      }
+    },
+    "Speex (Speech Codec)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speex（语音编码器）"
+          }
+        }
+      }
+    },
+    "Stereo" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "立体声"
+          }
+        }
+      }
+    },
+    "Stream Count" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "流数量"
+          }
+        }
+      }
+    },
+    "Sun Microsystems AU" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sun Microsystems AU"
+          }
+        }
+      }
+    },
+    "Title" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标题"
+          }
+        }
+      }
+    },
+    "True Audio" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "真音频"
+          }
+        }
+      }
+    },
+    "TrueHD (Dolby TrueHD)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TrueHD（杜比TrueHD）"
+          }
+        }
+      }
+    },
+    "TTA (True Audio)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TTA（真音频）"
+          }
+        }
+      }
+    },
+    "Unknown Codec" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未知编解码器"
+          }
+        }
+      }
+    },
+    "Unlimited Conversions" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无限次转换"
+          }
+        }
+      }
+    },
+    "Unlock all Features" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解锁所有功能"
+          }
+        }
+      }
+    },
+    "Update metadata" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新源数据"
+          }
+        }
+      }
+    },
+    "Use original" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用原始"
+          }
+        }
+      }
+    },
+    "Video Object" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "视频对象"
+          }
+        }
+      }
+    },
+    "Vorbis (OGG Vorbis)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorbis (OGG Vorbis)"
+          }
+        }
+      }
+    },
+    "VOX Dialogic Voice Audio File" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOX Dialogic Voice Audio File"
+          }
+        }
+      }
+    },
+    "Waveform Audio File Format" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "波形音频文件格式"
+          }
+        }
+      }
+    },
+    "WebM Audio" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WebM 音频"
+          }
+        }
+      }
+    },
+    "Windows Media Audio" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Windows 媒体音频"
+          }
+        }
+      }
+    },
+    "WMA (Windows Media Audio)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WMA（Windows媒体音频）"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
