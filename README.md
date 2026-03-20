@@ -41,6 +41,9 @@
 App i18n
 ===
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
+[![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
+
 Lightweight CLI tool for unifying and optimizing the internationalization (i18n) workflow across multiple apps. This project also contains [my app](https://wangchujiang.com/#/app) internationalization files stored in the [`i18n`](./i18n/source/) directory.
 
 `appi18n` helps you perform bidirectional conversion between `.xcstrings` and `.lproj`, making localization files more suitable for multi-person Git collaboration and AI batch translation, while maintaining seamless integration with Xcode.

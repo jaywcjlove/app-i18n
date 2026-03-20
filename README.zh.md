@@ -41,6 +41,9 @@
 App i18n
 ===
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
+[![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
+
 轻量级命令行工具，用于统一管理和优化多个 App 的国际化（i18n）流程。当前项目也包含[我的应用](https://wangchujiang.com/#/app)国际化文件存放在 [`i18n`](./i18n/source/) 目录中。
 
 `appi18n` 帮助你在 `.xcstrings` 与 `.lproj` 之间进行双向转换，使本地化文件更适合多人 Git 协作与 AI 批量翻译，同时保持与 Xcode 的无缝集成。
