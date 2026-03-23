@@ -739,6 +739,28 @@
         }
       }
     },
+    "Default font" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デフォルトフォント"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기본 글꼴"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "默认字体"
+          }
+        }
+      }
+    },
     "Dotted Line" : {
       "localizations" : {
         "ja" : {
