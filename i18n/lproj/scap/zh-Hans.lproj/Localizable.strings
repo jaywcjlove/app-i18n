@@ -10,6 +10,8 @@
 
 "%@ Light Mode" = "%@ 亮模式";
 
+"%@%@" = "%1$@%2$@";
+
 "%@(%@)" = "%1$@(%2$@)";
 
 "%@x%@" = "%1$@x%2$@";
@@ -136,6 +138,8 @@
 
 "Paste Image" = "粘贴图片";
 
+"Paste Image Overlay" = "粘贴图像覆盖层";
+
 "Please choose a location to save the image." = "请选择一个位置保存图片。";
 
 "Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "请开启「屏幕与系统音频录制」权限，否则无法截取完整桌面图像。\n前往：系统设置 → 隐私与安全性 → 屏幕与系统音频录制";
@@ -151,6 +155,8 @@
 "Radius" = "半径";
 
 "Rate App" = "给应用评分";
+
+"Recognizing text..." = "识别文本中...";
 
 "Rectangle" = "矩形";
 
@@ -175,6 +181,8 @@
 "Screenshot" = "屏幕截图";
 
 "Screenshot (Quick)" = "屏幕截图（快捷）";
+
+"Screenshot OCR" = "截图文字识别";
 
 "Select Image file" = "选择图片文件";
 

@@ -155,30 +155,30 @@
         }
       }
     },
-    "%@(%@)" : {
+    "%@%@" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "%1$@(%2$@)"
+            "value" : "%1$@%2$@"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@(%2$@)"
+            "value" : "%1$@%2$@"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@(%2$@)"
+            "value" : "%1$@%2$@"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@(%2$@)"
+            "value" : "%1$@%2$@"
           }
         }
       }
@@ -1553,6 +1553,9 @@
         }
       }
     },
+    "Paste Image Overlay" : {
+
+    },
     "Please choose a location to save the image." : {
       "localizations" : {
         "ja" : {
@@ -1750,6 +1753,9 @@
           }
         }
       }
+    },
+    "Recognizing text..." : {
+
     },
     "Rectangle" : {
       "localizations" : {
@@ -2014,6 +2020,9 @@
           }
         }
       }
+    },
+    "Screenshot OCR" : {
+
     },
     "Select Image file" : {
       "localizations" : {

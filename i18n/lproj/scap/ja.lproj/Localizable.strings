@@ -10,6 +10,8 @@
 
 "%@ Light Mode" = "%@ ライトモード";
 
+"%@%@" = "%1$@%2$@";
+
 "%@(%@)" = "%1$@(%2$@)";
 
 "%@x%@" = "%1$@x%2$@";
@@ -136,6 +138,8 @@
 
 "Paste Image" = "画像を貼り付け";
 
+"Paste Image Overlay" = "画像オーバーレイを貼り付け";
+
 "Please choose a location to save the image." = "画像を保存する場所を選択してください。";
 
 "Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "「画面とシステムオーディオの収録」を有効にしてください。そうでないと、アプリがデスクトップ全体の画像をキャプチャできません。**システム設定** → **プライバシーとセキュリティ** → **画面とシステムオーディオの収録** から設定してください";
@@ -151,6 +155,8 @@
 "Radius" = "半径";
 
 "Rate App" = "アプリを評価する";
+
+"Recognizing text..." = "テキストを認識中...";
 
 "Rectangle" = "矩形";
 
@@ -175,6 +181,8 @@
 "Screenshot" = "スクリーンショット";
 
 "Screenshot (Quick)" = "スクリーンショット（クイック）";
+
+"Screenshot OCR" = "スクリーンショット文字認識";
 
 "Select Image file" = "画像ファイルを選択";
 
