@@ -120,7 +120,11 @@
 
 "Name" = "名字";
 
+"No QR code recognized in the selected screenshot." = "所选截图中未识别到二维码。";
+
 "No access permission to the resource" = "没有访问该资源的权限";
+
+"No text recognized in the selected screenshot." = "所选截图中未识别到文本。";
 
 "Open" = "打开";
 
@@ -146,6 +150,8 @@
 
 "QR Code" = "二维码";
 
+"QR code recognition failed." = "二维码识别失败。";
+
 "QR content" = "二维码内容";
 
 "Quit %@" = "退出 %@";
@@ -153,6 +159,8 @@
 "Radius" = "半径";
 
 "Rate App" = "给应用评分";
+
+"Recognizing QR code..." = "正在识别二维码...";
 
 "Recognizing text..." = "识别文本中...";
 
@@ -182,6 +190,8 @@
 
 "Screenshot OCR" = "截图文字识别";
 
+"Screenshot QR Code" = "截图二维码";
+
 "Select Image file" = "选择图片文件";
 
 "Select Save Folder" = "选择保存文件夹";
@@ -203,6 +213,8 @@
 "Terms of Service" = "服务条款";
 
 "Text" = "文本";
+
+"Text recognition failed." = "文本识别失败。";
 
 "Unlock" = "解锁";
 

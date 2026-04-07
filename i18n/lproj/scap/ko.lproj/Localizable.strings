@@ -120,7 +120,11 @@
 
 "Name" = "이름";
 
+"No QR code recognized in the selected screenshot." = "선택한 스크린샷에서 QR 코드를 인식하지 못했습니다.";
+
 "No access permission to the resource" = "리소스에 대한 액세스 권한이 없습니다";
+
+"No text recognized in the selected screenshot." = "선택한 스크린샷에서 텍스트를 인식하지 못했습니다.";
 
 "Open" = "열기";
 
@@ -146,6 +150,8 @@
 
 "QR Code" = "QR 코드";
 
+"QR code recognition failed." = "QR 코드 인식에 실패했습니다.";
+
 "QR content" = "QR 콘텐츠";
 
 "Quit %@" = "%@ 종료";
@@ -153,6 +159,8 @@
 "Radius" = "반지름";
 
 "Rate App" = "앱 평가하기";
+
+"Recognizing QR code..." = "QR 코드 인식 중...";
 
 "Recognizing text..." = "텍스트 인식 중...";
 
@@ -182,6 +190,8 @@
 
 "Screenshot OCR" = "스크린샷 문자 인식";
 
+"Screenshot QR Code" = "스크린샷 QR 코드";
+
 "Select Image file" = "이미지 파일 선택";
 
 "Select Save Folder" = "저장 폴더 선택";
@@ -203,6 +213,8 @@
 "Terms of Service" = "서비스 약관";
 
 "Text" = "텍스트";
+
+"Text recognition failed." = "텍스트 인식에 실패했습니다.";
 
 "Unlock" = "언락";
 

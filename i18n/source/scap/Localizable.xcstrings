@@ -1399,6 +1399,50 @@
         }
       }
     },
+    "No QR code recognized in the selected screenshot." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選択されたスクリーンショットでQRコードが認識されませんでした。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택한 스크린샷에서 QR 코드를 인식하지 못했습니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所选截图中未识别到二维码。"
+          }
+        }
+      }
+    },
+    "No text recognized in the selected screenshot." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選択されたスクリーンショットでテキストが認識されませんでした。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택한 스크린샷에서 텍스트를 인식하지 못했습니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所选截图中未识别到文本。"
+          }
+        }
+      }
+    },
     "Open" : {
       "localizations" : {
         "ja" : {
@@ -1685,6 +1729,28 @@
         }
       }
     },
+    "QR code recognition failed." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QRコード認識に失敗しました。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QR 코드 인식에 실패했습니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "二维码识别失败。"
+          }
+        }
+      }
+    },
     "QR content" : {
       "localizations" : {
         "ja" : {
@@ -1769,6 +1835,28 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "给应用评分"
+          }
+        }
+      }
+    },
+    "Recognizing QR code..." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QRコードを認識中..."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QR 코드 인식 중..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在识别二维码..."
           }
         }
       }
@@ -2081,6 +2169,28 @@
         }
       }
     },
+    "Screenshot QR Code" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクリーンショットQRコード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스크린샷 QR 코드"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "截图二维码"
+          }
+        }
+      }
+    },
     "Select Image file" : {
       "localizations" : {
         "ja" : {
@@ -2319,6 +2429,28 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "文本"
+          }
+        }
+      }
+    },
+    "Text recognition failed." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "テキスト認識に失敗しました。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "텍스트 인식에 실패했습니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文本识别失败。"
           }
         }
       }
