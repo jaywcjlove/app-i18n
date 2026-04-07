@@ -1554,7 +1554,26 @@
       }
     },
     "Paste Image Overlay" : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画像オーバーレイを貼り付け"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지 오버레이 붙여넣기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粘贴图像覆盖层"
+          }
+        }
+      }
     },
     "Please choose a location to save the image." : {
       "localizations" : {
@@ -1755,7 +1774,26 @@
       }
     },
     "Recognizing text..." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "テキストを認識中..."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "텍스트 인식 중..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "识别文本中..."
+          }
+        }
+      }
     },
     "Rectangle" : {
       "localizations" : {
@@ -2022,7 +2060,26 @@
       }
     },
     "Screenshot OCR" : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクリーンショット文字認識"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스크린샷 문자 인식"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "截图文字识别"
+          }
+        }
+      }
     },
     "Select Image file" : {
       "localizations" : {
