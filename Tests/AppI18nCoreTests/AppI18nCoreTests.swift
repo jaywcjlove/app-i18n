@@ -89,6 +89,47 @@ final class AppI18nCoreTests: XCTestCase {
         }
     }
 
+    func testToLprojRemovesStaleKeysAndFiles() throws {
+        try withTempDir { dir in
+            let sourceRoot = dir.appendingPathComponent("i18n/source/menuist")
+            try FileManager.default.createDirectory(at: sourceRoot, withIntermediateDirectories: true)
+            let xcFile = sourceRoot.appendingPathComponent("Localizable.xcstrings")
+            let xcJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [
+                    "Hello": [
+                        "localizations": [
+                            "en": ["stringUnit": ["state": "new", "value": "Hello"]],
+                            "fr": ["stringUnit": ["state": "translated", "value": "Bonjour"]]
+                        ]
+                    ]
+                ],
+                "version": "1.0"
+            ]
+            let data = try JSONSerialization.data(withJSONObject: xcJSON, options: [.prettyPrinted, .sortedKeys])
+            try data.write(to: xcFile)
+
+            let frDir = dir.appendingPathComponent("i18n/lproj/menuist/fr.lproj")
+            try FileManager.default.createDirectory(at: frDir, withIntermediateDirectories: true)
+
+            let localizable = frDir.appendingPathComponent("Localizable.strings")
+            try """
+            "Hello" = "Bonjour";
+            "OldKey" = "Ancienne valeur";
+            """.write(to: localizable, atomically: true, encoding: .utf8)
+
+            let obsolete = frDir.appendingPathComponent("Obsolete.strings")
+            try "\"Legacy\" = \"Legacy\";\n".write(to: obsolete, atomically: true, encoding: .utf8)
+
+            try toLproj()
+
+            let content = try String(contentsOf: localizable, encoding: .utf8)
+            XCTAssertTrue(content.contains("\"Hello\" = \"Bonjour\";"))
+            XCTAssertFalse(content.contains("\"OldKey\" = \"Ancienne valeur\";"))
+            XCTAssertFalse(FileManager.default.fileExists(atPath: obsolete.path))
+        }
+    }
+
     func testToXCStringsUpdatesFromStrings() throws {
         try withTempDir { dir in
             let sourceRoot = dir.appendingPathComponent("i18n/source/menuist")
