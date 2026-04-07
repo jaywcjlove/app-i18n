@@ -130,6 +130,41 @@ final class AppI18nCoreTests: XCTestCase {
         }
     }
 
+    func testToLprojSkipsEmptyPlaceholderEntry() throws {
+        try withTempDir { dir in
+            let sourceRoot = dir.appendingPathComponent("i18n/source/menuist")
+            try FileManager.default.createDirectory(at: sourceRoot, withIntermediateDirectories: true)
+            let xcFile = sourceRoot.appendingPathComponent("Localizable.xcstrings")
+            let xcJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [
+                    "": [
+                        "localizations": [
+                            "en": ["stringUnit": ["state": "new", "value": ""]],
+                            "fr": ["stringUnit": ["state": "translated", "value": ""]]
+                        ]
+                    ],
+                    "Hello": [
+                        "localizations": [
+                            "en": ["stringUnit": ["state": "new", "value": "Hello"]],
+                            "fr": ["stringUnit": ["state": "translated", "value": "Bonjour"]]
+                        ]
+                    ]
+                ],
+                "version": "1.0"
+            ]
+            let data = try JSONSerialization.data(withJSONObject: xcJSON, options: [.prettyPrinted, .sortedKeys])
+            try data.write(to: xcFile)
+
+            try toLproj()
+
+            let target = dir.appendingPathComponent("i18n/lproj/menuist/fr.lproj/Localizable.strings")
+            let content = try String(contentsOf: target, encoding: .utf8)
+            XCTAssertTrue(content.contains("\"Hello\" = \"Bonjour\";"))
+            XCTAssertFalse(content.contains("\"\" = \"\";"))
+        }
+    }
+
     func testToXCStringsUpdatesFromStrings() throws {
         try withTempDir { dir in
             let sourceRoot = dir.appendingPathComponent("i18n/source/menuist")
@@ -169,6 +204,209 @@ final class AppI18nCoreTests: XCTestCase {
                 return
             }
             XCTAssertEqual(value, "Bonjour")
+        }
+    }
+
+    func testToXCStringsMarksEmptyTranslationAsTranslated() throws {
+        try withTempDir { dir in
+            let sourceRoot = dir.appendingPathComponent("i18n/source/menuist")
+            try FileManager.default.createDirectory(at: sourceRoot, withIntermediateDirectories: true)
+            let xcFile = sourceRoot.appendingPathComponent("Localizable.xcstrings")
+            let xcJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [
+                    "Hello": [
+                        "localizations": [
+                            "en": ["stringUnit": ["state": "new", "value": "Hello"]]
+                        ]
+                    ]
+                ],
+                "version": "1.0"
+            ]
+            let data = try JSONSerialization.data(withJSONObject: xcJSON, options: [.prettyPrinted, .sortedKeys])
+            try data.write(to: xcFile)
+
+            let frDir = dir.appendingPathComponent("i18n/lproj/menuist/fr.lproj")
+            try FileManager.default.createDirectory(at: frDir, withIntermediateDirectories: true)
+            let frStrings = frDir.appendingPathComponent("Localizable.strings")
+            try "\"Hello\" = \"\";\n".write(to: frStrings, atomically: true, encoding: .utf8)
+
+            try toXCStrings()
+
+            let updated = try Data(contentsOf: xcFile)
+            let obj = try JSONSerialization.jsonObject(with: updated, options: [])
+            guard let dict = obj as? [String: Any],
+                  let strings = dict["strings"] as? [String: Any],
+                  let entry = strings["Hello"] as? [String: Any],
+                  let locs = entry["localizations"] as? [String: Any],
+                  let fr = locs["fr"] as? [String: Any],
+                  let unit = fr["stringUnit"] as? [String: Any],
+                  let value = unit["value"] as? String,
+                  let state = unit["state"] as? String else {
+                XCTFail("Updated JSON structure missing")
+                return
+            }
+            XCTAssertEqual(value, "")
+            XCTAssertEqual(state, "translated")
+        }
+    }
+
+    func testToXCStringsMarksAllEmptyLocalizationsAsTranslated() throws {
+        try withTempDir { dir in
+            let sourceRoot = dir.appendingPathComponent("i18n/source/menuist")
+            try FileManager.default.createDirectory(at: sourceRoot, withIntermediateDirectories: true)
+            let xcFile = sourceRoot.appendingPathComponent("Localizable.xcstrings")
+            let xcJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [
+                    "Hello": [
+                        "localizations": [
+                            "en": ["stringUnit": ["state": "new", "value": ""]],
+                            "fr": ["stringUnit": ["state": "new", "value": ""]],
+                            "de": ["stringUnit": ["state": "new", "value": "Hallo"]]
+                        ]
+                    ]
+                ],
+                "version": "1.0"
+            ]
+            let data = try JSONSerialization.data(withJSONObject: xcJSON, options: [.prettyPrinted, .sortedKeys])
+            try data.write(to: xcFile)
+
+            let frDir = dir.appendingPathComponent("i18n/lproj/menuist/fr.lproj")
+            try FileManager.default.createDirectory(at: frDir, withIntermediateDirectories: true)
+            let frStrings = frDir.appendingPathComponent("Localizable.strings")
+            try "\"Hello\" = \"\";\n".write(to: frStrings, atomically: true, encoding: .utf8)
+
+            try toXCStrings()
+
+            let updated = try Data(contentsOf: xcFile)
+            let obj = try JSONSerialization.jsonObject(with: updated, options: [])
+            guard let dict = obj as? [String: Any],
+                  let strings = dict["strings"] as? [String: Any],
+                  let entry = strings["Hello"] as? [String: Any],
+                  let locs = entry["localizations"] as? [String: Any],
+                  let en = locs["en"] as? [String: Any],
+                  let fr = locs["fr"] as? [String: Any],
+                  let enUnit = en["stringUnit"] as? [String: Any],
+                  let frUnit = fr["stringUnit"] as? [String: Any],
+                  let enState = enUnit["state"] as? String,
+                  let frState = frUnit["state"] as? String else {
+                XCTFail("Updated JSON structure missing")
+                return
+            }
+
+            XCTAssertEqual(enState, "translated")
+            XCTAssertEqual(frState, "translated")
+        }
+    }
+
+    func testToXCStringsMarksEmptyLocalizationsTranslatedWithoutMatchingLprojFile() throws {
+        try withTempDir { dir in
+            let sourceRoot = dir.appendingPathComponent("i18n/source/menuist")
+            try FileManager.default.createDirectory(at: sourceRoot, withIntermediateDirectories: true)
+            let touchedXCFile = sourceRoot.appendingPathComponent("Localizable.xcstrings")
+            let untouchedXCFile = sourceRoot.appendingPathComponent("InfoPlist.xcstrings")
+
+            let touchedJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [
+                    "Hello": [
+                        "localizations": [
+                            "en": ["stringUnit": ["state": "new", "value": "Hello"]]
+                        ]
+                    ]
+                ],
+                "version": "1.0"
+            ]
+            let untouchedJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [
+                    "": [
+                        "localizations": [
+                            "ja": ["stringUnit": ["state": "new", "value": ""]],
+                            "ko": ["stringUnit": ["state": "new", "value": ""]],
+                            "zh-Hans": ["stringUnit": ["state": "new", "value": ""]]
+                        ]
+                    ]
+                ],
+                "version": "1.0"
+            ]
+            try JSONSerialization.data(withJSONObject: touchedJSON, options: [.prettyPrinted, .sortedKeys]).write(to: touchedXCFile)
+            try JSONSerialization.data(withJSONObject: untouchedJSON, options: [.prettyPrinted, .sortedKeys]).write(to: untouchedXCFile)
+
+            let frDir = dir.appendingPathComponent("i18n/lproj/menuist/fr.lproj")
+            try FileManager.default.createDirectory(at: frDir, withIntermediateDirectories: true)
+            let frStrings = frDir.appendingPathComponent("Localizable.strings")
+            try "\"Hello\" = \"Bonjour\";\n".write(to: frStrings, atomically: true, encoding: .utf8)
+
+            try toXCStrings()
+
+            let updated = try Data(contentsOf: untouchedXCFile)
+            let obj = try JSONSerialization.jsonObject(with: updated, options: [])
+            guard let dict = obj as? [String: Any],
+                  let strings = dict["strings"] as? [String: Any],
+                  let entry = strings[""] as? [String: Any],
+                  let locs = entry["localizations"] as? [String: Any] else {
+                XCTFail("Updated JSON structure missing")
+                return
+            }
+
+            for language in ["ja", "ko", "zh-Hans"] {
+                let lang = locs[language] as? [String: Any]
+                let unit = lang?["stringUnit"] as? [String: Any]
+                let state = unit?["state"] as? String
+                XCTAssertEqual(state, "translated")
+            }
+        }
+    }
+
+    func testToXCStringsAddsMissingLanguagesForEmptyKey() throws {
+        try withTempDir { dir in
+            let sourceRoot = dir.appendingPathComponent("i18n/source/menuist")
+            try FileManager.default.createDirectory(at: sourceRoot, withIntermediateDirectories: true)
+            let xcFile = sourceRoot.appendingPathComponent("Localizable.xcstrings")
+            let xcJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [
+                    "": [
+                        "localizations": [
+                            "ja": ["stringUnit": ["state": "translated", "value": ""]]
+                        ]
+                    ]
+                ],
+                "version": "1.0"
+            ]
+            try JSONSerialization.data(withJSONObject: xcJSON, options: [.prettyPrinted, .sortedKeys]).write(to: xcFile)
+
+            for lang in ["de", "fr", "ja", "zh-Hant"] {
+                let dirURL = dir.appendingPathComponent("i18n/lproj/menuist/\(lang).lproj")
+                try FileManager.default.createDirectory(at: dirURL, withIntermediateDirectories: true)
+                try "\"Hello\" = \"Hello\";\n".write(
+                    to: dirURL.appendingPathComponent("Localizable.strings"),
+                    atomically: true,
+                    encoding: .utf8
+                )
+            }
+
+            try toXCStrings()
+
+            let updated = try Data(contentsOf: xcFile)
+            let obj = try JSONSerialization.jsonObject(with: updated, options: [])
+            guard let dict = obj as? [String: Any],
+                  let strings = dict["strings"] as? [String: Any],
+                  let entry = strings[""] as? [String: Any],
+                  let locs = entry["localizations"] as? [String: Any] else {
+                XCTFail("Updated JSON structure missing")
+                return
+            }
+
+            for language in ["de", "fr", "ja", "zh-Hant"] {
+                let lang = locs[language] as? [String: Any]
+                let unit = lang?["stringUnit"] as? [String: Any]
+                XCTAssertEqual(unit?["value"] as? String, "")
+                XCTAssertEqual(unit?["state"] as? String, "translated")
+            }
+            XCTAssertNil(locs["en"])
         }
     }
 

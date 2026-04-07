@@ -110,6 +110,50 @@ private func removeEmptyDirectories(at url: URL) {
     }
 }
 
+private func markEmptyLocalizationsAsTranslated(in xc: inout XCStringsFile) {
+    for (key, var entry) in xc.strings {
+        guard var localizations = entry["localizations"] as? [String: Any] else { continue }
+        var didChange = false
+        for (language, localization) in localizations {
+            guard var langObj = localization as? [String: Any],
+                  var unit = langObj["stringUnit"] as? [String: Any],
+                  let value = unit["value"] as? String,
+                  value.isEmpty else { continue }
+            if (unit["state"] as? String) != "translated" {
+                unit["state"] = "translated"
+                langObj["stringUnit"] = unit
+                localizations[language] = langObj
+                didChange = true
+            }
+        }
+        if didChange {
+            entry["localizations"] = localizations
+            xc.strings[key] = entry
+        }
+    }
+}
+
+private func ensureEmptyKeyLocalizations(
+    in xc: inout XCStringsFile,
+    availableLanguages: Set<String>
+) {
+    guard var entry = xc.strings[""] else { return }
+    var localizations = entry["localizations"] as? [String: Any] ?? [:]
+
+    for language in availableLanguages where language != xc.sourceLanguage {
+        if localizations[language] != nil { continue }
+        localizations[language] = [
+            "stringUnit": [
+                "state": "translated",
+                "value": ""
+            ]
+        ]
+    }
+
+    entry["localizations"] = localizations
+    xc.strings[""] = entry
+}
+
 public func extract(projectPath: String) throws {
     let projectURL = URL(fileURLWithPath: projectPath).standardizedFileURL
     let appName = projectURL.lastPathComponent.lowercased()
@@ -263,6 +307,12 @@ public func toXCStrings(skipDefaultValue: Bool = true) throws {
         guard fileManager.fileExists(atPath: appLproj.path, isDirectory: &isDir), isDir.boolValue else { continue }
 
         let langDirs = (try? fileManager.contentsOfDirectory(at: appLproj, includingPropertiesForKeys: nil, options: [.skipsHiddenFiles])) ?? []
+        let availableLanguages = Set(
+            langDirs
+                .filter { $0.pathExtension == "lproj" }
+                .map { $0.deletingPathExtension().lastPathComponent }
+        )
+        var touchedXCFiles = Set<String>()
         for langDir in langDirs where langDir.pathExtension == "lproj" {
             let lang = langDir.deletingPathExtension().lastPathComponent
             let stringsFiles = listFiles(withExtension: "strings", under: langDir)
@@ -280,31 +330,60 @@ public func toXCStrings(skipDefaultValue: Bool = true) throws {
                     continue
                 }
                 var xc = try loadXCStrings(at: xcFile)
-                if lang == xc.sourceLanguage { continue }
-                let strings = parseStringsFile(at: stringsFile)
-                for (key, value) in strings.entries {
-                    if value.isEmpty { continue }
-                    var entry = xc.strings[key] ?? [:]
-                    let defaultValue = getLocalizationValue(entry, lang: xc.sourceLanguage) ?? key
-                    if skipDefaultValue, value == defaultValue { continue }
-                    var localizations = entry["localizations"] as? [String: Any] ?? [:]
-                    var langObj = localizations[lang] as? [String: Any] ?? [:]
-                    var unit = langObj["stringUnit"] as? [String: Any] ?? [:]
-                    unit["value"] = value
-                    if unit["state"] == nil {
-                        unit["state"] = (lang == xc.sourceLanguage) ? "new" : "translated"
+                if lang != xc.sourceLanguage {
+                    let strings = parseStringsFile(at: stringsFile)
+                    for (key, value) in strings.entries {
+                        var entry = xc.strings[key] ?? [:]
+                        let defaultValue = getLocalizationValue(entry, lang: xc.sourceLanguage) ?? key
+                        var localizations = entry["localizations"] as? [String: Any] ?? [:]
+                        var langObj = localizations[lang] as? [String: Any] ?? [:]
+                        var unit = langObj["stringUnit"] as? [String: Any] ?? [:]
+
+                        // Preserve explicit empty translations instead of dropping them.
+                        // Xcode should treat them as already reviewed, not as untouched.
+                        if value.isEmpty {
+                            unit["value"] = value
+                            unit["state"] = "translated"
+                            langObj["stringUnit"] = unit
+                            localizations[lang] = langObj
+                            entry["localizations"] = localizations
+                            xc.strings[key] = entry
+                            continue
+                        }
+
+                        if skipDefaultValue, value == defaultValue { continue }
+                        unit["value"] = value
+                        if unit["state"] == nil {
+                            unit["state"] = (lang == xc.sourceLanguage) ? "new" : "translated"
+                        }
+                        langObj["stringUnit"] = unit
+                        localizations[lang] = langObj
+                        entry["localizations"] = localizations
+                        xc.strings[key] = entry
                     }
-                    langObj["stringUnit"] = unit
-                    localizations[lang] = langObj
-                    entry["localizations"] = localizations
-                    xc.strings[key] = entry
                 }
+
+                ensureEmptyKeyLocalizations(in: &xc, availableLanguages: availableLanguages)
+                markEmptyLocalizationsAsTranslated(in: &xc)
 
                 xc.raw["strings"] = xc.strings
                 xc.raw["sourceLanguage"] = xc.sourceLanguage
                 if let version = xc.version { xc.raw["version"] = version }
                 try writeJSON(xc.raw, to: xcFile)
+                touchedXCFiles.insert(xcFile.path)
             }
+        }
+
+        let appSource = sourceRoot.appendingPathComponent(app)
+        let allXCFiles = listFiles(withExtension: "xcstrings", under: appSource)
+        for xcFile in allXCFiles where !touchedXCFiles.contains(xcFile.path) {
+            var xc = try loadXCStrings(at: xcFile)
+            ensureEmptyKeyLocalizations(in: &xc, availableLanguages: availableLanguages)
+            markEmptyLocalizationsAsTranslated(in: &xc)
+            xc.raw["strings"] = xc.strings
+            xc.raw["sourceLanguage"] = xc.sourceLanguage
+            if let version = xc.version { xc.raw["version"] = version }
+            try writeJSON(xc.raw, to: xcFile)
         }
     }
     Logger.info("Updated .xcstrings from .lproj")

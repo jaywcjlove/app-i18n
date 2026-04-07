@@ -72,10 +72,15 @@ func writeStringsFile(entries: [String: String], comments: [String: String?], to
     var lines: [String] = []
     let keys = entries.keys.sorted()
     for key in keys {
+        let value = entries[key] ?? ""
+        // Skip placeholder-style empty pairs so `to-lproj` does not emit
+        // meaningless `"" = "";` lines into generated `.strings` files.
+        if key.isEmpty, value.isEmpty {
+            continue
+        }
         if let comment = comments[key] ?? nil, !comment.isEmpty {
             lines.append("/* \(comment) */")
         }
-        let value = entries[key] ?? ""
         lines.append("\"\(escapeStringsValue(key))\" = \"\(escapeStringsValue(value))\";")
         lines.append("")
     }
