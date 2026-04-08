@@ -10,10 +10,6 @@
 
 "%@%@" = "%1$@%2$@";
 
-"%@x%@" = "%1$@x%2$@";
-
-"%lld%%" = "%lld%%";
-
 "About" = "について";
 
 "About %@" = "%@ について";
@@ -24,13 +20,7 @@
 
 "Appearance" = "外観";
 
-"Arrow" = "矢印";
-
 "Background Color" = "背景色";
-
-"Blur" = "ぼかし";
-
-"Can't be undone!" = "元に戻せません！";
 
 "Capture Screen" = "画面をキャプチャ";
 
@@ -44,27 +34,15 @@
 
 "Clear Drawing Board" = "描画ボードをクリア";
 
-"Click to open in Finder %@" = "Finderで開く %@";
-
 "Contribute Translation" = "翻訳に貢献";
-
-"Copied to clipboard!" = "クリップボードにコピーしました！";
 
 "Copy (Esc/⌘+C)" = "コピー (Esc/⌘+C)";
 
 "Copy Image" = "画像をコピー";
 
-"Counter" = "カウンター";
-
-"Crop/Select" = "切り抜き/選択";
-
 "Custom Social Media Badge" = "カスタムソーシャルメディアバッジ";
 
 "Customize watermark and QR code text" = "ウォーターマークとQRコードテキストをカスタマイズ";
-
-"Default font" = "デフォルトフォント";
-
-"Dotted Line" = "点線";
 
 "Draw" = "描画";
 
@@ -74,33 +52,17 @@
 
 "Exit Drawing Board" = "描画ボードを終了";
 
-"Export .jpeg Image" = "JPEG画像でエクスポート";
-
-"Export .png Image" = "PNG画像でエクスポート";
-
-"Failed to resolve bookmark" = "ブックマークの解決に失敗しました";
-
-"File not found" = "ファイルが見つかりません";
-
-"Freehand Drawing" = "フリーハンド描画";
-
 "General" = "一般";
 
 "Granted" = "許可済み";
-
-"Height" = "高さ";
 
 "Hidde StatusBar Menu" = "ステータスバーのメニューを隠す";
 
 "Hide Dock Icon" = "Dockアイコンを隠す";
 
-"Hit Enter to crop" = "Enterキーを押して切り抜き";
-
 "If you prefer not to subscribe, you can unlock the features permanently with a one-time payment and enjoy all future upgrades for free—no additional fees ever." = "サブスクリプションを希望されない場合は、一回限りのお支払いで機能を永続的にアンロックし、今後のすべてのアップグレードを無料でお楽しみいただけます。追加料金は一切かかりません。";
 
 "Image Save Folder" = "画像保存フォルダ";
-
-"Invalid bookmark data" = "無効なブックマークデータ";
 
 "Keyboard Shortcuts" = "キーボードショートカット";
 
@@ -108,25 +70,17 @@
 
 "Launch at login" = "ログイン時に起動";
 
-"Line" = "ライン";
-
 "Load From Clipboard" = "クリップボードから読み込み";
 
 "Main Window" = "メインウィンドウ";
 
 "My Apps" = "マイアプリ";
 
-"My Other Apps" = "私の他のアプリ";
-
 "Name" = "名前";
 
 "No QR code recognized in the selected screenshot." = "選択されたスクリーンショットでQRコードが認識されませんでした。";
 
-"No access permission to the resource" = "リソースへのアクセス権限がありません";
-
 "No text recognized in the selected screenshot." = "選択されたスクリーンショットでテキストが認識されませんでした。";
-
-"Open" = "開く";
 
 "Open Image" = "画像を開く";
 
@@ -134,51 +88,29 @@
 
 "Open Settings" = "設定を開く";
 
-"Oval" = "楕円";
-
 "Padding" = "パディング";
 
-"Paste Image" = "画像を貼り付け";
-
 "Paste Image Overlay" = "画像オーバーレイを貼り付け";
-
-"Please choose a location to save the image." = "画像を保存する場所を選択してください。";
 
 "Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "「画面とシステムオーディオの収録」を有効にしてください。そうでないと、アプリがデスクトップ全体の画像をキャプチャできません。**システム設定** → **プライバシーとセキュリティ** → **画面とシステムオーディオの収録** から設定してください";
 
 "Privacy Policy" = "プライバシーポリシー";
 
-"QR Code" = "QRコード";
-
 "QR code recognition failed." = "QRコード認識に失敗しました。";
-
-"QR content" = "QRコンテンツ";
 
 "Quit %@" = "%@を終了";
 
 "Radius" = "半径";
 
-"Rate App" = "アプリを評価する";
-
 "Recognizing QR code..." = "QRコードを認識中...";
 
 "Recognizing text..." = "テキストを認識中...";
-
-"Rectangle" = "矩形";
-
-"Resize" = "リサイズ";
-
-"Resize Image" = "画像をリサイズ";
-
-"Save" = "保存";
 
 "Save (⌘+S)" = "保存 (⌘+S)";
 
 "Save Image" = "画像を保存";
 
 "Save Image As" = "画像を別名で保存";
-
-"Save Image File" = "画像ファイルを保存";
 
 "Screen & System Audio Recording permission" = "画面とシステムオーディオの収録権限";
 
@@ -192,27 +124,17 @@
 
 "Screenshot QR Code" = "スクリーンショットQRコード";
 
-"Select Image file" = "画像ファイルを選択";
-
 "Select Save Folder" = "保存フォルダを選択";
 
 "Select save location for image" = "画像の保存場所を選択";
-
-"Send Feedback" = "フィードバックを送る";
 
 "Settings..." = "設定...";
 
 "Shortcut Key" = "ショートカットキー";
 
-"Show Size in Logical Points" = "論理ポイントでサイズを表示";
-
 "Social Badge" = "ソーシャルバッジ";
 
-"Spotlight" = "スポットライト";
-
 "Terms of Service" = "利用規約";
-
-"Text" = "テキスト";
 
 "Text recognition failed." = "テキスト認識に失敗しました。";
 
@@ -226,24 +148,6 @@
 
 "Watermark" = "ウォーターマーク";
 
-"Watermark Content" = "ウォーターマークコンテンツ";
-
-"Wavy Line" = "波線";
-
-"Website" = "ウェブサイト";
-
-"Width" = "幅";
-
 "Zoom" = "ズーム";
 
-"Zoom In" = "拡大";
-
-"Zoom Out" = "縮小";
-
-"Zoom to Actual Size" = "実際のサイズでズーム";
-
-"Zoom to Fit Canvas" = "キャンバスに合わせてズーム";
-
 "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=Scap) • [Github](https://github.com/jaywcjlove/scap)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=Scap) • [Github](https://github.com/jaywcjlove/scap)";
-
-"px" = "px";

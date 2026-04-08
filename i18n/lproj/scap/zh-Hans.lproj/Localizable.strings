@@ -10,10 +10,6 @@
 
 "%@%@" = "%1$@%2$@";
 
-"%@x%@" = "%1$@x%2$@";
-
-"%lld%%" = "%lld%%";
-
 "About" = "关于";
 
 "About %@" = "关于 %@";
@@ -24,13 +20,7 @@
 
 "Appearance" = "外观";
 
-"Arrow" = "箭头";
-
 "Background Color" = "背景颜色";
-
-"Blur" = "模糊";
-
-"Can't be undone!" = "此操作无法撤销！";
 
 "Capture Screen" = "捕获屏幕";
 
@@ -44,27 +34,15 @@
 
 "Clear Drawing Board" = "清理绘画板";
 
-"Click to open in Finder %@" = "点击在 Finder 中打开 %@";
-
 "Contribute Translation" = "贡献翻译";
-
-"Copied to clipboard!" = "已经复制到剪切板";
 
 "Copy (Esc/⌘+C)" = "复制 (Esc/⌘+C)";
 
 "Copy Image" = "复制图片";
 
-"Counter" = "计数器";
-
-"Crop/Select" = "裁剪/选择";
-
 "Custom Social Media Badge" = "自定义社交媒体徽章";
 
 "Customize watermark and QR code text" = "自定义水印和二维码文本";
-
-"Default font" = "默认字体";
-
-"Dotted Line" = "虚线";
 
 "Draw" = "绘制";
 
@@ -74,33 +52,17 @@
 
 "Exit Drawing Board" = "退出画板";
 
-"Export .jpeg Image" = "导出 .jpeg 图片";
-
-"Export .png Image" = "导出 .png 图片";
-
-"Failed to resolve bookmark" = "解析书签失败";
-
-"File not found" = "文件未找到";
-
-"Freehand Drawing" = "自由绘制";
-
 "General" = "常规";
 
 "Granted" = "已授权";
-
-"Height" = "高";
 
 "Hidde StatusBar Menu" = "隐藏状态栏菜单";
 
 "Hide Dock Icon" = "隐藏程序坞图标";
 
-"Hit Enter to crop" = "按回车键裁剪";
-
 "If you prefer not to subscribe, you can unlock the features permanently with a one-time payment and enjoy all future upgrades for free—no additional fees ever." = "如果不喜欢订阅，可终身解锁功能，今后不再付任何费用免费升级。";
 
 "Image Save Folder" = "图片保存文件夹";
-
-"Invalid bookmark data" = "无效的书签数据";
 
 "Keyboard Shortcuts" = "键盘快捷键";
 
@@ -108,25 +70,17 @@
 
 "Launch at login" = "开机启动";
 
-"Line" = "线";
-
 "Load From Clipboard" = "从剪贴板加载";
 
 "Main Window" = "主窗口";
 
 "My Apps" = "我的应用";
 
-"My Other Apps" = "其他应用";
-
 "Name" = "名字";
 
 "No QR code recognized in the selected screenshot." = "所选截图中未识别到二维码。";
 
-"No access permission to the resource" = "没有访问该资源的权限";
-
 "No text recognized in the selected screenshot." = "所选截图中未识别到文本。";
-
-"Open" = "打开";
 
 "Open Image" = "打开图片";
 
@@ -134,51 +88,29 @@
 
 "Open Settings" = "打开设置";
 
-"Oval" = "椭圆";
-
 "Padding" = "填充";
 
-"Paste Image" = "粘贴图片";
-
 "Paste Image Overlay" = "粘贴图像覆盖层";
-
-"Please choose a location to save the image." = "请选择一个位置保存图片。";
 
 "Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "请开启「屏幕与系统音频录制」权限，否则无法截取完整桌面图像。\n前往：系统设置 → 隐私与安全性 → 屏幕与系统音频录制";
 
 "Privacy Policy" = "隐私政策";
 
-"QR Code" = "二维码";
-
 "QR code recognition failed." = "二维码识别失败。";
-
-"QR content" = "二维码内容";
 
 "Quit %@" = "退出 %@";
 
 "Radius" = "半径";
 
-"Rate App" = "给应用评分";
-
 "Recognizing QR code..." = "正在识别二维码...";
 
 "Recognizing text..." = "识别文本中...";
-
-"Rectangle" = "矩形";
-
-"Resize" = "调整大小";
-
-"Resize Image" = "调整图像尺寸";
-
-"Save" = "保存";
 
 "Save (⌘+S)" = "保存 (⌘+S)";
 
 "Save Image" = "保存图片";
 
 "Save Image As" = "另存图片";
-
-"Save Image File" = "保存图片文件";
 
 "Screen & System Audio Recording permission" = "屏幕与系统音频录制权限";
 
@@ -192,27 +124,17 @@
 
 "Screenshot QR Code" = "截图二维码";
 
-"Select Image file" = "选择图片文件";
-
 "Select Save Folder" = "选择保存文件夹";
 
 "Select save location for image" = "选择图片保存位置";
-
-"Send Feedback" = "发送反馈";
 
 "Settings..." = "设置...";
 
 "Shortcut Key" = "快捷键";
 
-"Show Size in Logical Points" = "以逻辑点显示大小";
-
 "Social Badge" = "社交徽章";
 
-"Spotlight" = "聚焦";
-
 "Terms of Service" = "服务条款";
-
-"Text" = "文本";
 
 "Text recognition failed." = "文本识别失败。";
 
@@ -226,24 +148,6 @@
 
 "Watermark" = "水印";
 
-"Watermark Content" = "水印内容";
-
-"Wavy Line" = "波浪线";
-
-"Website" = "网站";
-
-"Width" = "宽";
-
 "Zoom" = "缩放";
 
-"Zoom In" = "放大";
-
-"Zoom Out" = "缩小";
-
-"Zoom to Actual Size" = "缩放至实际大小";
-
-"Zoom to Fit Canvas" = "缩放适应画布";
-
 "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=Scap) • [Github](https://github.com/jaywcjlove/scap)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=Scap) • [Github](https://github.com/jaywcjlove/scap)";
-
-"px" = "像素";
