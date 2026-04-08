@@ -4,364 +4,596 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>My App i18n Preview</title>
-  <style>
-    body { margin: 0; background: #f7f7f9; color: #1f2937; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
-    .wrap { padding: 16px; }
-    h1 { margin: 0 0 4px; font-size: 22px; }
-    .meta { margin: 0 0 12px; color: #6b7280; font-size: 12px; }
-    .app-block { margin: 0 0 16px; }
-    h2 { margin: 0 0 8px; font-size: 16px; }
-    .table-wrap { overflow: auto; border: 1px solid #e5e7eb; background: #fff; border-radius: 8px; }
-    table { border-collapse: collapse; width: 100%; min-width: 720px; table-layout: fixed; }
-    th, td { border-bottom: 1px solid #e5e7eb; border-right: 1px solid #e5e7eb; text-align: left; padding: 8px 10px; font-size: 12px; line-height: 1.5; }
-    th { background: #f3f4f6; position: sticky; top: 0; }
-    td.completion-full { background: #ecfdf5; color: #065f46; }
-    td.completion-zero { background: #fef2f2; color: #991b1b; }
-    td.completion-partial { background: #fffbeb; color: #92400e; }
-    a { color: #2563eb; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-  </style>
+  <link rel="stylesheet" href="preview.css">
 </head>
 <body>
   <div class="wrap">
-    <h1>My App i18n Preview</h1>
-    <p class="meta">Generated at: 2026-04-08T13:17:42Z · Apps: 12</p>
-    <section class="app-block">
-  <h2><a href="audioer.html">audioer</a></h2>
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>Language</th>
-          <th>Completion</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-  <td>English(en)</td>
-  <td class="completion-full">100% (138/138)</td>
-</tr>
-<tr>
-  <td>Chinese, Simplified(zh-Hans)</td>
-  <td class="completion-full">100% (138/138)</td>
-</tr>
-      </tbody>
-    </table>
+    <section class="hero">
+      <h1>My App i18n Preview</h1>
+      <p class="hero-copy">A visual index of translation coverage across your apps. Each card links to a detailed per-file matrix, with language progress surfaced directly on the front page.</p>
+      <p class="meta">Generated at: 2026-04-08T20:38:57Z · Apps: 12</p>
+    </section>
+    <section class="apps-grid">
+      <section class="app-block app-card">
+  <div class="app-header">
+    <div class="app-brand">
+      <img class="app-logo" src="assets/logos/audioer.png" alt="audioer logo">
+      <div>
+        <p class="eyebrow">i18n Preview</p>
+        <h2><a href="audioer.html">audioer</a></h2>
+      </div>
+    </div>
+    <div class="app-meta">
+      <span class="meta-pill">Base en</span>
+      <span class="meta-pill">Files 2</span>
+    </div>
+  </div>
+  <div class="table-wrap card-table">
+    <ul class="language-list">
+      <li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">English(en)</span>
+    <span class="language-ratio completion-full">100% (138/138)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Chinese, Simplified(zh-Hans)</span>
+    <span class="language-ratio completion-full">100% (138/138)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+    </ul>
   </div>
 </section>
-<section class="app-block">
-  <h2><a href="daybar.html">daybar</a></h2>
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>Language</th>
-          <th>Completion</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-  <td>English(en)</td>
-  <td class="completion-full">100% (175/175)</td>
-</tr>
-<tr>
-  <td>Chinese, Simplified(zh-Hans)</td>
-  <td class="completion-full">100% (175/175)</td>
-</tr>
-      </tbody>
-    </table>
+<section class="app-block app-card">
+  <div class="app-header">
+    <div class="app-brand">
+      <img class="app-logo" src="assets/logos/daybar.png" alt="daybar logo">
+      <div>
+        <p class="eyebrow">i18n Preview</p>
+        <h2><a href="daybar.html">daybar</a></h2>
+      </div>
+    </div>
+    <div class="app-meta">
+      <span class="meta-pill">Base en</span>
+      <span class="meta-pill">Files 2</span>
+    </div>
+  </div>
+  <div class="table-wrap card-table">
+    <ul class="language-list">
+      <li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">English(en)</span>
+    <span class="language-ratio completion-full">100% (175/175)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Chinese, Simplified(zh-Hans)</span>
+    <span class="language-ratio completion-full">100% (175/175)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+    </ul>
   </div>
 </section>
-<section class="app-block">
-  <h2><a href="deskmark.html">deskmark</a></h2>
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>Language</th>
-          <th>Completion</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-  <td>German(de)</td>
-  <td class="completion-full">100% (38/38)</td>
-</tr>
-<tr>
-  <td>English(en)</td>
-  <td class="completion-full">100% (38/38)</td>
-</tr>
-<tr>
-  <td>Japanese(ja)</td>
-  <td class="completion-full">100% (38/38)</td>
-</tr>
-<tr>
-  <td>Korean(ko)</td>
-  <td class="completion-full">100% (38/38)</td>
-</tr>
-<tr>
-  <td>Chinese, Simplified(zh-Hans)</td>
-  <td class="completion-full">100% (38/38)</td>
-</tr>
-      </tbody>
-    </table>
+<section class="app-block app-card">
+  <div class="app-header">
+    <div class="app-brand">
+      <img class="app-logo" src="assets/logos/deskmark.png" alt="deskmark logo">
+      <div>
+        <p class="eyebrow">i18n Preview</p>
+        <h2><a href="deskmark.html">deskmark</a></h2>
+      </div>
+    </div>
+    <div class="app-meta">
+      <span class="meta-pill">Base en</span>
+      <span class="meta-pill">Files 2</span>
+    </div>
+  </div>
+  <div class="table-wrap card-table">
+    <ul class="language-list">
+      <li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">German(de)</span>
+    <span class="language-ratio completion-full">100% (38/38)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">English(en)</span>
+    <span class="language-ratio completion-full">100% (38/38)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Japanese(ja)</span>
+    <span class="language-ratio completion-full">100% (38/38)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Korean(ko)</span>
+    <span class="language-ratio completion-full">100% (38/38)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Chinese, Simplified(zh-Hans)</span>
+    <span class="language-ratio completion-full">100% (38/38)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+    </ul>
   </div>
 </section>
-<section class="app-block">
-  <h2><a href="devhub.html">devhub</a></h2>
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>Language</th>
-          <th>Completion</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-  <td>English(en)</td>
-  <td class="completion-full">100% (731/731)</td>
-</tr>
-<tr>
-  <td>Japanese(ja)</td>
-  <td class="completion-full">100% (731/731)</td>
-</tr>
-<tr>
-  <td>Chinese, Simplified(zh-Hans)</td>
-  <td class="completion-full">100% (731/731)</td>
-</tr>
-      </tbody>
-    </table>
+<section class="app-block app-card">
+  <div class="app-header">
+    <div class="app-brand">
+      <img class="app-logo" src="assets/logos/devhub.png" alt="devhub logo">
+      <div>
+        <p class="eyebrow">i18n Preview</p>
+        <h2><a href="devhub.html">devhub</a></h2>
+      </div>
+    </div>
+    <div class="app-meta">
+      <span class="meta-pill">Base en</span>
+      <span class="meta-pill">Files 2</span>
+    </div>
+  </div>
+  <div class="table-wrap card-table">
+    <ul class="language-list">
+      <li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">English(en)</span>
+    <span class="language-ratio completion-full">100% (731/731)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Japanese(ja)</span>
+    <span class="language-ratio completion-full">100% (731/731)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Chinese, Simplified(zh-Hans)</span>
+    <span class="language-ratio completion-full">100% (731/731)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+    </ul>
   </div>
 </section>
-<section class="app-block">
-  <h2><a href="iconed.html">iconed</a></h2>
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>Language</th>
-          <th>Completion</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-  <td>English(en)</td>
-  <td class="completion-full">100% (88/88)</td>
-</tr>
-<tr>
-  <td>Chinese, Simplified(zh-Hans)</td>
-  <td class="completion-full">100% (88/88)</td>
-</tr>
-      </tbody>
-    </table>
+<section class="app-block app-card">
+  <div class="app-header">
+    <div class="app-brand">
+      <img class="app-logo" src="assets/logos/iconed.png" alt="iconed logo">
+      <div>
+        <p class="eyebrow">i18n Preview</p>
+        <h2><a href="iconed.html">iconed</a></h2>
+      </div>
+    </div>
+    <div class="app-meta">
+      <span class="meta-pill">Base en</span>
+      <span class="meta-pill">Files 2</span>
+    </div>
+  </div>
+  <div class="table-wrap card-table">
+    <ul class="language-list">
+      <li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">English(en)</span>
+    <span class="language-ratio completion-full">100% (88/88)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Chinese, Simplified(zh-Hans)</span>
+    <span class="language-ratio completion-full">100% (88/88)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+    </ul>
   </div>
 </section>
-<section class="app-block">
-  <h2><a href="keyzer.html">keyzer</a></h2>
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>Language</th>
-          <th>Completion</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-  <td>English(en)</td>
-  <td class="completion-full">100% (168/168)</td>
-</tr>
-<tr>
-  <td>Chinese, Simplified(zh-Hans)</td>
-  <td class="completion-full">100% (168/168)</td>
-</tr>
-      </tbody>
-    </table>
+<section class="app-block app-card">
+  <div class="app-header">
+    <div class="app-brand">
+      <img class="app-logo" src="assets/logos/keyzer.png" alt="keyzer logo">
+      <div>
+        <p class="eyebrow">i18n Preview</p>
+        <h2><a href="keyzer.html">keyzer</a></h2>
+      </div>
+    </div>
+    <div class="app-meta">
+      <span class="meta-pill">Base en</span>
+      <span class="meta-pill">Files 2</span>
+    </div>
+  </div>
+  <div class="table-wrap card-table">
+    <ul class="language-list">
+      <li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">English(en)</span>
+    <span class="language-ratio completion-full">100% (168/168)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Chinese, Simplified(zh-Hans)</span>
+    <span class="language-ratio completion-full">100% (168/168)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+    </ul>
   </div>
 </section>
-<section class="app-block">
-  <h2><a href="menuist.html">menuist</a></h2>
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>Language</th>
-          <th>Completion</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-  <td>English(en)</td>
-  <td class="completion-full">100% (320/320)</td>
-</tr>
-<tr>
-  <td>Italian(it)</td>
-  <td class="completion-full">100% (320/320)</td>
-</tr>
-<tr>
-  <td>Chinese, Simplified(zh-Hans)</td>
-  <td class="completion-full">100% (320/320)</td>
-</tr>
-      </tbody>
-    </table>
+<section class="app-block app-card">
+  <div class="app-header">
+    <div class="app-brand">
+      <img class="app-logo" src="assets/logos/menuist.png" alt="menuist logo">
+      <div>
+        <p class="eyebrow">i18n Preview</p>
+        <h2><a href="menuist.html">menuist</a></h2>
+      </div>
+    </div>
+    <div class="app-meta">
+      <span class="meta-pill">Base en</span>
+      <span class="meta-pill">Files 4</span>
+    </div>
+  </div>
+  <div class="table-wrap card-table">
+    <ul class="language-list">
+      <li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">English(en)</span>
+    <span class="language-ratio completion-full">100% (320/320)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Italian(it)</span>
+    <span class="language-ratio completion-full">100% (320/320)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Chinese, Simplified(zh-Hans)</span>
+    <span class="language-ratio completion-full">100% (320/320)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+    </ul>
   </div>
 </section>
-<section class="app-block">
-  <h2><a href="musicer.html">musicer</a></h2>
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>Language</th>
-          <th>Completion</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-  <td>English(en)</td>
-  <td class="completion-full">100% (91/91)</td>
-</tr>
-<tr>
-  <td>Chinese, Simplified(zh-Hans)</td>
-  <td class="completion-full">100% (91/91)</td>
-</tr>
-      </tbody>
-    </table>
+<section class="app-block app-card">
+  <div class="app-header">
+    <div class="app-brand">
+      <img class="app-logo" src="assets/logos/musicer.png" alt="musicer logo">
+      <div>
+        <p class="eyebrow">i18n Preview</p>
+        <h2><a href="musicer.html">musicer</a></h2>
+      </div>
+    </div>
+    <div class="app-meta">
+      <span class="meta-pill">Base en</span>
+      <span class="meta-pill">Files 2</span>
+    </div>
+  </div>
+  <div class="table-wrap card-table">
+    <ul class="language-list">
+      <li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">English(en)</span>
+    <span class="language-ratio completion-full">100% (91/91)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Chinese, Simplified(zh-Hans)</span>
+    <span class="language-ratio completion-full">100% (91/91)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+    </ul>
   </div>
 </section>
-<section class="app-block">
-  <h2><a href="quickrss.html">quickrss</a></h2>
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>Language</th>
-          <th>Completion</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-  <td>English(en)</td>
-  <td class="completion-full">100% (118/118)</td>
-</tr>
-<tr>
-  <td>Chinese, Simplified(zh-Hans)</td>
-  <td class="completion-full">100% (118/118)</td>
-</tr>
-      </tbody>
-    </table>
+<section class="app-block app-card">
+  <div class="app-header">
+    <div class="app-brand">
+      <img class="app-logo" src="assets/logos/quickrss.png" alt="quickrss logo">
+      <div>
+        <p class="eyebrow">i18n Preview</p>
+        <h2><a href="quickrss.html">quickrss</a></h2>
+      </div>
+    </div>
+    <div class="app-meta">
+      <span class="meta-pill">Base en</span>
+      <span class="meta-pill">Files 2</span>
+    </div>
+  </div>
+  <div class="table-wrap card-table">
+    <ul class="language-list">
+      <li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">English(en)</span>
+    <span class="language-ratio completion-full">100% (118/118)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Chinese, Simplified(zh-Hans)</span>
+    <span class="language-ratio completion-full">100% (118/118)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+    </ul>
   </div>
 </section>
-<section class="app-block">
-  <h2><a href="regexmate.html">regexmate</a></h2>
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>Language</th>
-          <th>Completion</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-  <td>German(de)</td>
-  <td class="completion-full">100% (37/37)</td>
-</tr>
-<tr>
-  <td>English(en)</td>
-  <td class="completion-full">100% (37/37)</td>
-</tr>
-<tr>
-  <td>French(fr)</td>
-  <td class="completion-full">100% (37/37)</td>
-</tr>
-<tr>
-  <td>Japanese(ja)</td>
-  <td class="completion-full">100% (37/37)</td>
-</tr>
-<tr>
-  <td>Korean(ko)</td>
-  <td class="completion-full">100% (37/37)</td>
-</tr>
-<tr>
-  <td>Chinese, Simplified(zh-Hans)</td>
-  <td class="completion-full">100% (37/37)</td>
-</tr>
-<tr>
-  <td>Chinese, Traditional(zh-Hant)</td>
-  <td class="completion-full">100% (37/37)</td>
-</tr>
-      </tbody>
-    </table>
+<section class="app-block app-card">
+  <div class="app-header">
+    <div class="app-brand">
+      <img class="app-logo" src="assets/logos/regexmate.png" alt="regexmate logo">
+      <div>
+        <p class="eyebrow">i18n Preview</p>
+        <h2><a href="regexmate.html">regexmate</a></h2>
+      </div>
+    </div>
+    <div class="app-meta">
+      <span class="meta-pill">Base en</span>
+      <span class="meta-pill">Files 2</span>
+    </div>
+  </div>
+  <div class="table-wrap card-table">
+    <ul class="language-list">
+      <li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">German(de)</span>
+    <span class="language-ratio completion-full">100% (37/37)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">English(en)</span>
+    <span class="language-ratio completion-full">100% (37/37)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">French(fr)</span>
+    <span class="language-ratio completion-full">100% (37/37)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Japanese(ja)</span>
+    <span class="language-ratio completion-full">100% (37/37)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Korean(ko)</span>
+    <span class="language-ratio completion-full">100% (37/37)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Chinese, Simplified(zh-Hans)</span>
+    <span class="language-ratio completion-full">100% (37/37)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Chinese, Traditional(zh-Hant)</span>
+    <span class="language-ratio completion-full">100% (37/37)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+    </ul>
   </div>
 </section>
-<section class="app-block">
-  <h2><a href="scap.html">scap</a></h2>
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>Language</th>
-          <th>Completion</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-  <td>German(de)</td>
-  <td class="completion-full">100% (128/128)</td>
-</tr>
-<tr>
-  <td>English(en)</td>
-  <td class="completion-full">100% (128/128)</td>
-</tr>
-<tr>
-  <td>French(fr)</td>
-  <td class="completion-full">100% (128/128)</td>
-</tr>
-<tr>
-  <td>Japanese(ja)</td>
-  <td class="completion-full">100% (128/128)</td>
-</tr>
-<tr>
-  <td>Korean(ko)</td>
-  <td class="completion-full">100% (128/128)</td>
-</tr>
-<tr>
-  <td>Chinese, Simplified(zh-Hans)</td>
-  <td class="completion-full">100% (128/128)</td>
-</tr>
-<tr>
-  <td>Chinese, Traditional(zh-Hant)</td>
-  <td class="completion-full">100% (128/128)</td>
-</tr>
-      </tbody>
-    </table>
+<section class="app-block app-card">
+  <div class="app-header">
+    <div class="app-brand">
+      <img class="app-logo" src="assets/logos/scap.png" alt="scap logo">
+      <div>
+        <p class="eyebrow">i18n Preview</p>
+        <h2><a href="scap.html">scap</a></h2>
+      </div>
+    </div>
+    <div class="app-meta">
+      <span class="meta-pill">Base en</span>
+      <span class="meta-pill">Files 2</span>
+    </div>
+  </div>
+  <div class="table-wrap card-table">
+    <ul class="language-list">
+      <li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">German(de)</span>
+    <span class="language-ratio completion-full">100% (80/80)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">English(en)</span>
+    <span class="language-ratio completion-full">100% (80/80)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">French(fr)</span>
+    <span class="language-ratio completion-full">100% (80/80)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Japanese(ja)</span>
+    <span class="language-ratio completion-full">100% (80/80)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Korean(ko)</span>
+    <span class="language-ratio completion-full">100% (80/80)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Chinese, Simplified(zh-Hans)</span>
+    <span class="language-ratio completion-full">100% (80/80)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Chinese, Traditional(zh-Hant)</span>
+    <span class="language-ratio completion-full">100% (80/80)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+    </ul>
   </div>
 </section>
-<section class="app-block">
-  <h2><a href="vidcrop.html">vidcrop</a></h2>
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th>Language</th>
-          <th>Completion</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-  <td>English(en)</td>
-  <td class="completion-full">100% (40/40)</td>
-</tr>
-<tr>
-  <td>Chinese, Simplified(zh-Hans)</td>
-  <td class="completion-full">100% (40/40)</td>
-</tr>
-      </tbody>
-    </table>
+<section class="app-block app-card">
+  <div class="app-header">
+    <div class="app-brand">
+      <img class="app-logo" src="assets/logos/vidcrop.png" alt="vidcrop logo">
+      <div>
+        <p class="eyebrow">i18n Preview</p>
+        <h2><a href="vidcrop.html">vidcrop</a></h2>
+      </div>
+    </div>
+    <div class="app-meta">
+      <span class="meta-pill">Base en</span>
+      <span class="meta-pill">Files 2</span>
+    </div>
+  </div>
+  <div class="table-wrap card-table">
+    <ul class="language-list">
+      <li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">English(en)</span>
+    <span class="language-ratio completion-full">100% (40/40)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+<li class="language-row">
+  <div class="language-row-head">
+    <span class="language-name">Chinese, Simplified(zh-Hans)</span>
+    <span class="language-ratio completion-full">100% (40/40)</span>
+  </div>
+  <div class="progress-track">
+    <span class="progress-fill completion-full" style="width: 100%"></span>
+  </div>
+</li>
+    </ul>
   </div>
 </section>
+    </section>
   </div>
 </body>
 </html>
