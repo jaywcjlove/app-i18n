@@ -566,13 +566,16 @@ final class AppI18nCoreTests: XCTestCase {
             let indexOutput = dir.appendingPathComponent("i18n/preview/index.html")
             let appOutput = dir.appendingPathComponent("i18n/preview/menuist.html")
             let copiedLogo = dir.appendingPathComponent("i18n/preview/assets/logos/menuist.png")
+            let cssOutput = dir.appendingPathComponent("i18n/preview/preview.css")
 
             XCTAssertTrue(FileManager.default.fileExists(atPath: indexOutput.path))
             XCTAssertTrue(FileManager.default.fileExists(atPath: appOutput.path))
             XCTAssertTrue(FileManager.default.fileExists(atPath: copiedLogo.path))
+            XCTAssertTrue(FileManager.default.fileExists(atPath: cssOutput.path))
 
             let indexHTML = try String(contentsOf: indexOutput, encoding: .utf8)
             XCTAssertTrue(indexHTML.contains("My App i18n Preview"))
+            XCTAssertTrue(indexHTML.contains("href=\"preview.css\""))
             XCTAssertTrue(indexHTML.contains(">menuist</a>"))
             XCTAssertTrue(indexHTML.contains("apps-grid"))
             XCTAssertTrue(indexHTML.contains("app-logo"))
@@ -587,6 +590,7 @@ final class AppI18nCoreTests: XCTestCase {
 
             let appHTML = try String(contentsOf: appOutput, encoding: .utf8)
             XCTAssertTrue(appHTML.contains("menuist"))
+            XCTAssertTrue(appHTML.contains("href=\"preview.css\""))
             XCTAssertTrue(appHTML.contains("assets/logos/menuist.png"))
             XCTAssertTrue(appHTML.contains("Localizable.strings"))
             XCTAssertTrue(appHTML.contains("file-select"))
