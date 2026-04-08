@@ -51,6 +51,49 @@ final class AppI18nCoreTests: XCTestCase {
         }
     }
 
+    func testExtractCopiesAppIconToLogoPNG() throws {
+        try withTempDir { dir in
+            let projectRoot = dir.appendingPathComponent("YourApp")
+            let sourceRoot = projectRoot.appendingPathComponent("Sources")
+            let xcassets = sourceRoot.appendingPathComponent("Assets.xcassets/AppIcon.appiconset")
+            try FileManager.default.createDirectory(at: xcassets, withIntermediateDirectories: true)
+
+            let xcFile = projectRoot.appendingPathComponent("Localizable.xcstrings")
+            let xcJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [:],
+                "version": "1.0"
+            ]
+            try JSONSerialization.data(withJSONObject: xcJSON, options: [.prettyPrinted, .sortedKeys]).write(to: xcFile)
+
+            let contentsJSON: [String: Any] = [
+                "images": [
+                    [
+                        "filename": "icon-128.png",
+                        "idiom": "mac",
+                        "scale": "1x",
+                        "size": "128x128"
+                    ]
+                ],
+                "info": [
+                    "author": "xcode",
+                    "version": 1
+                ]
+            ]
+            try JSONSerialization.data(withJSONObject: contentsJSON, options: [.prettyPrinted, .sortedKeys]).write(
+                to: xcassets.appendingPathComponent("Contents.json")
+            )
+            let pngData = Data([0x89, 0x50, 0x4E, 0x47])
+            try pngData.write(to: xcassets.appendingPathComponent("icon-128.png"))
+
+            try extract(projectPath: projectRoot.path)
+
+            let logo = dir.appendingPathComponent("i18n/source/yourapp/logo.png")
+            XCTAssertTrue(FileManager.default.fileExists(atPath: logo.path))
+            XCTAssertEqual(try Data(contentsOf: logo), pngData)
+        }
+    }
+
     func testToLprojPreservesExistingValues() throws {
         try withTempDir { dir in
             let sourceRoot = dir.appendingPathComponent("i18n/source/menuist")
@@ -162,6 +205,57 @@ final class AppI18nCoreTests: XCTestCase {
             let content = try String(contentsOf: target, encoding: .utf8)
             XCTAssertTrue(content.contains("\"Hello\" = \"Bonjour\";"))
             XCTAssertFalse(content.contains("\"\" = \"\";"))
+        }
+    }
+
+    func testToLprojUsesAppLevelLanguagesForAllFiles() throws {
+        try withTempDir { dir in
+            let sourceRoot = dir.appendingPathComponent("i18n/source/menuist")
+            try FileManager.default.createDirectory(at: sourceRoot.appendingPathComponent("DependencyKit"), withIntermediateDirectories: true)
+
+            let appXCFile = sourceRoot.appendingPathComponent("Localizable.xcstrings")
+            let dependencyXCFile = sourceRoot.appendingPathComponent("DependencyKit/Localizable.xcstrings")
+
+            let appXCJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [
+                    "MainHello": [
+                        "localizations": [
+                            "en": ["stringUnit": ["state": "new", "value": "Hello"]],
+                            "fr": ["stringUnit": ["state": "translated", "value": "Bonjour"]],
+                            "de": ["stringUnit": ["state": "translated", "value": "Hallo"]]
+                        ]
+                    ]
+                ],
+                "version": "1.0"
+            ]
+            let dependencyXCJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [
+                    "PackageHello": [
+                        "localizations": [
+                            "en": ["stringUnit": ["state": "new", "value": "Package Hello"]]
+                        ]
+                    ]
+                ],
+                "version": "1.0"
+            ]
+
+            try JSONSerialization.data(withJSONObject: appXCJSON, options: [.prettyPrinted, .sortedKeys]).write(to: appXCFile)
+            try JSONSerialization.data(withJSONObject: dependencyXCJSON, options: [.prettyPrinted, .sortedKeys]).write(to: dependencyXCFile)
+
+            try toLproj()
+
+            let dependencyFR = dir.appendingPathComponent("i18n/lproj/menuist/fr.lproj/DependencyKit/Localizable.strings")
+            let dependencyDE = dir.appendingPathComponent("i18n/lproj/menuist/de.lproj/DependencyKit/Localizable.strings")
+
+            XCTAssertTrue(FileManager.default.fileExists(atPath: dependencyFR.path))
+            XCTAssertTrue(FileManager.default.fileExists(atPath: dependencyDE.path))
+
+            let frContent = try String(contentsOf: dependencyFR, encoding: .utf8)
+            let deContent = try String(contentsOf: dependencyDE, encoding: .utf8)
+            XCTAssertTrue(frContent.contains("\"PackageHello\" = \"Package Hello\";"))
+            XCTAssertTrue(deContent.contains("\"PackageHello\" = \"Package Hello\";"))
         }
     }
 
@@ -450,6 +544,7 @@ final class AppI18nCoreTests: XCTestCase {
             ]
             let xcData = try JSONSerialization.data(withJSONObject: xcJSON, options: [.prettyPrinted, .sortedKeys])
             try xcData.write(to: xcFile)
+            try Data([0x89, 0x50, 0x4E, 0x47]).write(to: sourceRoot.appendingPathComponent("logo.png"))
 
             let enDir = dir.appendingPathComponent("i18n/lproj/menuist/en.lproj")
             let frDir = dir.appendingPathComponent("i18n/lproj/menuist/fr.lproj")
@@ -470,17 +565,21 @@ final class AppI18nCoreTests: XCTestCase {
 
             let indexOutput = dir.appendingPathComponent("i18n/preview/index.html")
             let appOutput = dir.appendingPathComponent("i18n/preview/menuist.html")
+            let copiedLogo = dir.appendingPathComponent("i18n/preview/assets/logos/menuist.png")
 
             XCTAssertTrue(FileManager.default.fileExists(atPath: indexOutput.path))
             XCTAssertTrue(FileManager.default.fileExists(atPath: appOutput.path))
+            XCTAssertTrue(FileManager.default.fileExists(atPath: copiedLogo.path))
 
             let indexHTML = try String(contentsOf: indexOutput, encoding: .utf8)
             XCTAssertTrue(indexHTML.contains("My App i18n Preview"))
             XCTAssertTrue(indexHTML.contains(">menuist</a>"))
-            XCTAssertTrue(indexHTML.contains("app-block"))
-            XCTAssertTrue(indexHTML.contains("<th>Language</th>"))
-            XCTAssertTrue(indexHTML.contains("<th>Completion</th>"))
-            XCTAssertFalse(indexHTML.contains("<th>App</th>"))
+            XCTAssertTrue(indexHTML.contains("apps-grid"))
+            XCTAssertTrue(indexHTML.contains("app-logo"))
+            XCTAssertTrue(indexHTML.contains("assets/logos/menuist.png"))
+            XCTAssertTrue(indexHTML.contains("language-list"))
+            XCTAssertTrue(indexHTML.contains("progress-track"))
+            XCTAssertFalse(indexHTML.contains("<th>Language</th>"))
             XCTAssertTrue(indexHTML.contains("(en)"))
             XCTAssertTrue(indexHTML.contains("(fr)"))
             XCTAssertTrue(indexHTML.contains("100% (2/2)"))
@@ -488,6 +587,7 @@ final class AppI18nCoreTests: XCTestCase {
 
             let appHTML = try String(contentsOf: appOutput, encoding: .utf8)
             XCTAssertTrue(appHTML.contains("menuist"))
+            XCTAssertTrue(appHTML.contains("assets/logos/menuist.png"))
             XCTAssertTrue(appHTML.contains("Localizable.strings"))
             XCTAssertTrue(appHTML.contains("file-select"))
             XCTAssertTrue(appHTML.contains("Default Value (en)"))

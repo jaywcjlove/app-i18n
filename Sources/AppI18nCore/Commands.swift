@@ -154,12 +154,69 @@ private func ensureEmptyKeyLocalizations(
     xc.strings[""] = entry
 }
 
+private func appLanguages(app: String, appSource: URL, lprojRoot: URL) throws -> [String] {
+    var languages = Set<String>()
+
+    let xcFiles = listFiles(withExtension: "xcstrings", under: appSource)
+    for xcFile in xcFiles {
+        let xc = try loadXCStrings(at: xcFile)
+        languages.formUnion(extractLanguages(from: xc))
+    }
+
+    let appLproj = lprojRoot.appendingPathComponent(app)
+    var isDir: ObjCBool = false
+    if fileManager.fileExists(atPath: appLproj.path, isDirectory: &isDir), isDir.boolValue {
+        let langDirs = (try? fileManager.contentsOfDirectory(at: appLproj, includingPropertiesForKeys: nil, options: [.skipsHiddenFiles])) ?? []
+        for langDir in langDirs where langDir.pathExtension == "lproj" {
+            languages.insert(langDir.deletingPathExtension().lastPathComponent)
+        }
+    }
+
+    return languages.sorted()
+}
+
+private func findAppLogoPNG(in projectURL: URL) -> URL? {
+    let contentsFiles = listFiles(withExtension: "json", under: projectURL)
+        .filter {
+            $0.lastPathComponent == "Contents.json" &&
+            $0.path.contains(".xcassets/") &&
+            $0.deletingLastPathComponent().pathExtension == "appiconset"
+        }
+        .sorted {
+            let lhsPreferred = $0.deletingLastPathComponent().lastPathComponent == "AppIcon.appiconset"
+            let rhsPreferred = $1.deletingLastPathComponent().lastPathComponent == "AppIcon.appiconset"
+            if lhsPreferred != rhsPreferred { return lhsPreferred && !rhsPreferred }
+            return $0.path < $1.path
+        }
+
+    for contentsFile in contentsFiles {
+        guard let raw = try? readJSON(from: contentsFile),
+              let images = raw["images"] as? [[String: Any]] else {
+            continue
+        }
+        for image in images {
+            guard let size = image["size"] as? String,
+                  size == "128x128",
+                  let filename = image["filename"] as? String,
+                  filename.lowercased().hasSuffix(".png") else {
+                continue
+            }
+            let logoFile = contentsFile.deletingLastPathComponent().appendingPathComponent(filename)
+            if fileManager.fileExists(atPath: logoFile.path) {
+                return logoFile
+            }
+        }
+    }
+    return nil
+}
+
 public func extract(projectPath: String) throws {
     let projectURL = URL(fileURLWithPath: projectPath).standardizedFileURL
     let appName = projectURL.lastPathComponent.lowercased()
     let targetRoot = i18nSourceURL().appendingPathComponent(appName)
     let files = listFiles(withExtension: "xcstrings", under: projectURL)
-    if files.isEmpty {
+    let logoFile = findAppLogoPNG(in: projectURL)
+    if files.isEmpty, logoFile == nil {
         Logger.warn("No .xcstrings found under \(projectURL.path)")
         return
     }
@@ -167,6 +224,10 @@ public func extract(projectPath: String) throws {
         let rel = relativePath(from: projectURL, to: file)
         let dst = targetRoot.appendingPathComponent(rel)
         try copyFile(file, to: dst)
+    }
+    if let logoFile {
+        let logoTarget = targetRoot.appendingPathComponent("logo.png")
+        try copyFile(logoFile, to: logoTarget)
     }
     Logger.info("Extracted \(files.count) .xcstrings to \(targetRoot.path)")
 }
@@ -182,10 +243,10 @@ public func toLproj() throws {
         let appSource = sourceRoot.appendingPathComponent(app)
         var isDir: ObjCBool = false
         guard fileManager.fileExists(atPath: appSource.path, isDirectory: &isDir), isDir.boolValue else { continue }
+        let appLevelLanguages = try appLanguages(app: app, appSource: appSource, lprojRoot: lprojRoot)
         let xcFiles = listFiles(withExtension: "xcstrings", under: appSource)
         for xcFile in xcFiles {
             let xc = try loadXCStrings(at: xcFile)
-            let languages = extractLanguages(from: xc)
             let rel = relativePath(from: appSource, to: xcFile)
             let relDir = (rel as NSString).deletingLastPathComponent
             let baseName = (rel as NSString).lastPathComponent.replacingOccurrences(of: ".xcstrings", with: ".strings")
@@ -195,7 +256,7 @@ public func toLproj() throws {
                 comments[key] = getEntryComment(entry)
             }
 
-            for lang in languages {
+            for lang in appLevelLanguages {
                 let langDir = lprojRoot
                     .appendingPathComponent(app)
                     .appendingPathComponent("\(lang).lproj")

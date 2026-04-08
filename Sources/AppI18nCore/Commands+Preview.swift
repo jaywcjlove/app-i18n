@@ -44,6 +44,7 @@ private struct LangProgress {
 private struct AppPreview {
     let appName: String
     let pageFileName: String
+    let logoPath: String?
     let baseLanguage: String
     /// Number of valid base rows after filtering empty base keys/values.
     let baseTotal: Int
@@ -67,6 +68,8 @@ private struct GitHubBlobContext {
 public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") throws {
     let lprojRoot = i18nLprojURL()
     let sourceRoot = i18nSourceURL()
+    let outputDir = URL(fileURLWithPath: outputPath, relativeTo: projectRootURL()).standardizedFileURL
+    let logoOutputDir = outputDir.appendingPathComponent("assets/logos")
     let gitHubBlobContext = detectGitHubBlobContext(at: projectRootURL())
     guard let allEntries = try? fileManager.contentsOfDirectory(atPath: lprojRoot.path) else {
         Logger.warn("No lproj directory found at \(lprojRoot.path)")
@@ -79,6 +82,9 @@ public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") thr
         Logger.warn("No app found under \(lprojRoot.path)")
         return
     }
+
+    try ensureDirectory(outputDir)
+    try ensureDirectory(logoOutputDir)
 
     var appPreviews: [AppPreview] = []
     var usedPageNames = Set<String>()
@@ -224,11 +230,22 @@ public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") thr
         }
 
         let pageFileName = uniqueAppPageFileName(appName: app, usedNames: &usedPageNames)
+        let logoFile = sourceRoot.appendingPathComponent(app).appendingPathComponent("logo.png")
+        let logoPath: String?
+        if fileManager.fileExists(atPath: logoFile.path) {
+            let logoFileName = pageFileName.replacingOccurrences(of: ".html", with: ".png")
+            let copiedLogo = logoOutputDir.appendingPathComponent(logoFileName)
+            try copyFile(logoFile, to: copiedLogo)
+            logoPath = "assets/logos/\(logoFileName)"
+        } else {
+            logoPath = nil
+        }
         let baseLanguage = files.first?.defaultLanguage ?? langs.first ?? "en"
         appPreviews.append(
             AppPreview(
                 appName: app,
                 pageFileName: pageFileName,
+                logoPath: logoPath,
                 baseLanguage: baseLanguage,
                 baseTotal: baseTotal,
                 languages: langs,
@@ -242,9 +259,6 @@ public func previewHTML(apps: [String]? = nil, outputPath: String = ".html") thr
         Logger.warn("No app preview data generated.")
         return
     }
-
-    let outputDir = URL(fileURLWithPath: outputPath, relativeTo: projectRootURL()).standardizedFileURL
-    try ensureDirectory(outputDir)
 
     let indexURL = outputDir.appendingPathComponent("index.html")
     let indexHTML = renderPreviewIndexHTML(apps: appPreviews)
@@ -275,6 +289,35 @@ private func htmlEscape(_ text: String) -> String {
         .replacingOccurrences(of: ">", with: "&gt;")
         .replacingOccurrences(of: "\"", with: "&quot;")
         .replacingOccurrences(of: "'", with: "&#39;")
+}
+
+private func relativeURLPath(from baseDirectory: URL, to target: URL) -> String {
+    let baseParts = baseDirectory.standardizedFileURL.path.split(separator: "/").map(String.init)
+    let targetParts = target.standardizedFileURL.path.split(separator: "/").map(String.init)
+    var sharedCount = 0
+    while sharedCount < baseParts.count &&
+            sharedCount < targetParts.count &&
+            baseParts[sharedCount] == targetParts[sharedCount] {
+        sharedCount += 1
+    }
+    let upward = Array(repeating: "..", count: baseParts.count - sharedCount)
+    let downward = Array(targetParts.dropFirst(sharedCount))
+    let parts = (upward + downward).map {
+        $0.addingPercentEncoding(withAllowedCharacters: .urlPathAllowed) ?? $0
+    }
+    return parts.isEmpty ? "." : parts.joined(separator: "/")
+}
+
+private func appMonogram(_ appName: String) -> String {
+    let tokens = appName
+        .split { !$0.isLetter && !$0.isNumber }
+        .map(String.init)
+        .filter { !$0.isEmpty }
+    let letters = tokens.prefix(2).compactMap { $0.first.map { String($0).uppercased() } }
+    if !letters.isEmpty {
+        return letters.joined()
+    }
+    return String(appName.prefix(2)).uppercased()
 }
 
 /// Convert an arbitrary app name/path-like string to a URL-safe slug.
@@ -431,40 +474,61 @@ private func renderPreviewIndexHTML(apps: [AppPreview]) -> String {
         for lang in langs {
             let completion: String
             let completionClassName: String
+            let translated: Int
+            let total: Int
             if lang == app.baseLanguage {
-                let total = app.baseTotal
-                completion = completionRatioText(translated: total, total: total)
-                completionClassName = completionClass(translated: total, total: total)
+                total = app.baseTotal
+                translated = total
+                completion = completionRatioText(translated: translated, total: total)
+                completionClassName = completionClass(translated: translated, total: total)
             } else {
                 let progress = app.progressByLanguage[lang] ?? LangProgress()
-                completion = completionRatioText(translated: progress.translated, total: progress.total)
-                completionClassName = completionClass(translated: progress.translated, total: progress.total)
+                translated = progress.translated
+                total = progress.total
+                completion = completionRatioText(translated: translated, total: total)
+                completionClassName = completionClass(translated: translated, total: total)
             }
+            let ratioPercent = total > 0 ? Int((Double(translated) * 100.0 / Double(total)).rounded()) : 0
             langRows.append(
                 """
-                <tr>
-                  <td>\(htmlEscape(localizedLanguageLabel(lang)))</td>
-                  <td class="\(completionClassName)">\(htmlEscape(completion))</td>
-                </tr>
+                <li class="language-row">
+                  <div class="language-row-head">
+                    <span class="language-name">\(htmlEscape(localizedLanguageLabel(lang)))</span>
+                    <span class="language-ratio \(completionClassName)">\(htmlEscape(completion))</span>
+                  </div>
+                  <div class="progress-track">
+                    <span class="progress-fill \(completionClassName)" style="width: \(ratioPercent)%"></span>
+                  </div>
+                </li>
                 """
             )
         }
+        let logoMarkup: String
+        if let logoPath = app.logoPath {
+            logoMarkup = "<img class=\"app-logo\" src=\"\(htmlEscape(logoPath))\" alt=\"\(htmlEscape(app.appName)) logo\">"
+        } else {
+            logoMarkup = "<div class=\"app-logo app-logo-fallback\">\(htmlEscape(appMonogram(app.appName)))</div>"
+        }
         appTables.append(
             """
-            <section class="app-block">
-              <h2><a href="\(htmlEscape(app.pageFileName))">\(htmlEscape(app.appName))</a></h2>
-              <div class="table-wrap">
-                <table>
-                  <thead>
-                    <tr>
-                      <th>Language</th>
-                      <th>Completion</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    \(langRows.joined(separator: "\n"))
-                  </tbody>
-                </table>
+            <section class="app-block app-card">
+              <div class="app-header">
+                <div class="app-brand">
+                  \(logoMarkup)
+                  <div>
+                    <p class="eyebrow">i18n Preview</p>
+                    <h2><a href="\(htmlEscape(app.pageFileName))">\(htmlEscape(app.appName))</a></h2>
+                  </div>
+                </div>
+                <div class="app-meta">
+                  <span class="meta-pill">Base \(htmlEscape(app.baseLanguage))</span>
+                  <span class="meta-pill">Files \(app.files.count)</span>
+                </div>
+              </div>
+              <div class="table-wrap card-table">
+                <ul class="language-list">
+                  \(langRows.joined(separator: "\n"))
+                </ul>
               </div>
             </section>
             """
@@ -479,28 +543,178 @@ private func renderPreviewIndexHTML(apps: [AppPreview]) -> String {
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>My App i18n Preview</title>
       <style>
-        body { margin: 0; background: #f7f7f9; color: #1f2937; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
-        .wrap { padding: 16px; }
-        h1 { margin: 0 0 4px; font-size: 22px; }
-        .meta { margin: 0 0 12px; color: #6b7280; font-size: 12px; }
-        .app-block { margin: 0 0 16px; }
-        h2 { margin: 0 0 8px; font-size: 16px; }
-        .table-wrap { overflow: auto; border: 1px solid #e5e7eb; background: #fff; border-radius: 8px; }
-        table { border-collapse: collapse; width: 100%; min-width: 720px; table-layout: fixed; }
-        th, td { border-bottom: 1px solid #e5e7eb; border-right: 1px solid #e5e7eb; text-align: left; padding: 8px 10px; font-size: 12px; line-height: 1.5; }
-        th { background: #f3f4f6; position: sticky; top: 0; }
-        td.completion-full { background: #ecfdf5; color: #065f46; }
-        td.completion-zero { background: #fef2f2; color: #991b1b; }
-        td.completion-partial { background: #fffbeb; color: #92400e; }
-        a { color: #2563eb; text-decoration: none; }
+        :root {
+          --bg: #060708;
+          --surface: rgba(15,17,20,0.82);
+          --surface-strong: rgba(19,22,26,0.94);
+          --ink: #eef2f6;
+          --muted: #93a0ad;
+          --line: rgba(255,255,255,0.08);
+          --accent: #8fd0bb;
+          --accent-soft: rgba(143,208,187,0.14);
+          --shadow: 0 14px 32px rgba(0, 0, 0, 0.28);
+        }
+        * { box-sizing: border-box; }
+        body {
+          margin: 0;
+          color: var(--ink);
+          font-family: "Avenir Next", "Segoe UI", sans-serif;
+          background:
+            radial-gradient(circle at top left, rgba(103, 142, 255, 0.14), transparent 28%),
+            radial-gradient(circle at top right, rgba(85, 192, 154, 0.1), transparent 30%),
+            linear-gradient(180deg, #0b0d10 0%, #08090b 52%, #050608 100%);
+        }
+        .wrap { max-width: 1180px; margin: 0 auto; padding: 28px 18px 56px; }
+        .hero {
+          margin: 0 0 24px;
+          padding: 24px;
+          border: 1px solid rgba(255,255,255,0.09);
+          border-radius: 18px;
+          background:
+            linear-gradient(135deg, rgba(255,255,255,0.035), rgba(255,255,255,0.015)),
+            linear-gradient(180deg, rgba(143,208,187,0.045), rgba(92,111,255,0.02));
+          backdrop-filter: blur(12px);
+          box-shadow: var(--shadow);
+        }
+        h1 {
+          margin: 0 0 8px;
+          font-size: clamp(30px, 5vw, 52px);
+          line-height: 0.98;
+          letter-spacing: -0.05em;
+        }
+        .hero-copy {
+          max-width: 760px;
+          margin: 0 0 14px;
+          color: var(--muted);
+          font-size: 15px;
+          line-height: 1.7;
+        }
+        .meta { margin: 0; color: var(--muted); font-size: 12px; letter-spacing: 0.02em; text-transform: uppercase; }
+        .apps-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+          gap: 18px;
+        }
+        .app-block { margin: 0; }
+        .app-card {
+          overflow: hidden;
+          border: 1px solid rgba(255,255,255,0.08);
+          border-radius: 16px;
+          background: var(--surface);
+          backdrop-filter: blur(14px);
+          box-shadow: var(--shadow);
+        }
+        .app-header {
+          display: flex;
+          align-items: flex-start;
+          justify-content: space-between;
+          gap: 14px;
+          padding: 20px 20px 16px;
+          border-bottom: 1px solid var(--line);
+        }
+        .app-brand { display: flex; align-items: center; gap: 14px; min-width: 0; }
+        .app-logo {
+          width: 64px;
+          height: 64px;
+          flex: none;
+          border-radius: 14px;
+          object-fit: cover;
+          box-shadow: 0 8px 20px rgba(0, 0, 0, 0.22);
+          background: #101317;
+        }
+        .app-logo-fallback {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          background: linear-gradient(135deg, #203b33, #364b78);
+          color: #f5f7fa;
+          font-weight: 700;
+          letter-spacing: 0.08em;
+        }
+        .eyebrow {
+          margin: 0 0 4px;
+          color: var(--muted);
+          font-size: 11px;
+          letter-spacing: 0.18em;
+          text-transform: uppercase;
+          white-space: nowrap;
+        }
+        h2 { margin: 0; font-size: 23px; line-height: 1.1; letter-spacing: -0.03em; }
+        .app-meta { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; }
+        .meta-pill {
+          display: inline-flex;
+          align-items: center;
+          padding: 7px 12px;
+          border-radius: 999px;
+          background: rgba(255,255,255,0.04);
+          border: 1px solid var(--line);
+          color: var(--muted);
+          font-size: 11px;
+          text-transform: uppercase;
+          letter-spacing: 0.08em;
+        }
+        .card-table { margin: 0 16px 16px; padding-top: 15px; }
+        .language-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+        .language-row {
+          padding: 10px 10px 12px;
+          border-radius: 10px;
+          border: 1px solid rgba(255,255,255,0.05);
+          background: rgba(255,255,255,0.02);
+        }
+        .language-row-head {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          gap: 12px;
+          margin-bottom: 8px;
+        }
+        .language-name { color: var(--ink); font-size: 12px; line-height: 1.5; }
+        .language-ratio {
+          font-size: 11px;
+          line-height: 1;
+          padding: 5px 7px;
+          border-radius: 999px;
+          border: 1px solid transparent;
+          white-space: nowrap;
+        }
+        .progress-track {
+          width: 100%;
+          height: 7px;
+          overflow: hidden;
+          border-radius: 999px;
+          background: rgba(255,255,255,0.06);
+        }
+        .progress-fill {
+          display: block;
+          height: 100%;
+          min-width: 0;
+          border-radius: inherit;
+        }
+        .completion-full { color: #9fe2c2; background: rgba(45, 165, 118, 0.12); border-color: rgba(45, 165, 118, 0.2); }
+        .completion-zero { color: #ffb4ba; background: rgba(190, 70, 78, 0.12); border-color: rgba(190, 70, 78, 0.2); }
+        .completion-partial { color: #f0d48a; background: rgba(180, 132, 47, 0.12); border-color: rgba(180, 132, 47, 0.2); }
+        .progress-fill.completion-full { background: linear-gradient(90deg, rgba(75, 203, 145, 0.75), rgba(128, 232, 188, 0.96)); }
+        .progress-fill.completion-zero { background: linear-gradient(90deg, rgba(209, 74, 84, 0.76), rgba(255, 138, 146, 0.96)); }
+        .progress-fill.completion-partial { background: linear-gradient(90deg, rgba(184, 131, 38, 0.76), rgba(243, 198, 94, 0.96)); }
+        a { color: var(--accent); text-decoration: none; }
         a:hover { text-decoration: underline; }
+        @media (max-width: 760px) {
+          .hero { padding: 20px; border-radius: 16px; }
+          .app-header { flex-direction: column; }
+          .app-meta { justify-content: flex-start; }
+        }
       </style>
     </head>
     <body>
       <div class="wrap">
-        <h1>My App i18n Preview</h1>
-        <p class="meta">Generated at: \(htmlEscape(generatedAt)) · Apps: \(apps.count)</p>
-        \(appTables.joined(separator: "\n"))
+        <section class="hero">
+          <h1>My App i18n Preview</h1>
+          <p class="hero-copy">A visual index of translation coverage across your apps. Each card links to a detailed per-file matrix, with language progress surfaced directly on the front page.</p>
+          <p class="meta">Generated at: \(htmlEscape(generatedAt)) · Apps: \(apps.count)</p>
+        </section>
+        <section class="apps-grid">
+          \(appTables.joined(separator: "\n"))
+        </section>
       </div>
     </body>
     </html>
@@ -583,6 +797,12 @@ private func renderPreviewAppHTML(app: AppPreview) -> String {
             """
         )
     }
+    let logoMarkup: String
+    if let logoPath = app.logoPath {
+        logoMarkup = "<img class=\"app-logo\" src=\"\(htmlEscape(logoPath))\" alt=\"\(htmlEscape(app.appName)) logo\">"
+    } else {
+        logoMarkup = "<div class=\"app-logo app-logo-fallback\">\(htmlEscape(appMonogram(app.appName)))</div>"
+    }
 
     return """
     <!doctype html>
@@ -592,42 +812,73 @@ private func renderPreviewAppHTML(app: AppPreview) -> String {
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>\(htmlEscape(app.appName)) i18n Preview</title>
       <style>
-        body { margin: 0; background: #f7f7f9; color: #1f2937; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
-        .wrap { padding: 16px; }
-        h1 { margin: 0 0 4px; font-size: 22px; }
-        .meta { margin: 0 0 10px; color: #6b7280; font-size: 12px; }
-        .chips { margin-bottom: 12px; display: flex; flex-wrap: wrap; gap: 6px; }
-        .chip { display: inline-block; border: 1px solid #d1d5db; border-radius: 999px; padding: 2px 8px; font-size: 12px; background: #fff; color: #374151; }
-        .toolbar { display: flex; justify-content: flex-start; align-items: center; margin-bottom: 10px; }
-        .file-select { border: 1px solid #d1d5db; border-radius: 6px; background: #e6ecff; padding: 6px 8px; font-size: 12px; min-width: 360px; max-width: 100%; }
+        :root {
+          --bg: #060708;
+          --surface: rgba(15,17,20,0.84);
+          --surface-strong: rgba(19,22,26,0.96);
+          --ink: #eef2f6;
+          --muted: #93a0ad;
+          --line: rgba(255,255,255,0.08);
+          --accent: #8fd0bb;
+        }
+        * { box-sizing: border-box; }
+        body {
+          margin: 0;
+          min-height: 100vh;
+          background:
+            radial-gradient(circle at top left, rgba(103, 142, 255, 0.12), transparent 28%),
+            radial-gradient(circle at top right, rgba(85, 192, 154, 0.08), transparent 30%),
+            linear-gradient(180deg, #0b0d10 0%, #08090b 52%, #050608 100%);
+          color: var(--ink);
+          font-family: "Avenir Next", "Segoe UI", sans-serif;
+        }
+        .wrap { max-width: 1240px; margin: 0 auto; padding: 24px 18px 42px; }
+        h1 { margin: 0 0 6px; font-size: clamp(28px, 4vw, 42px); letter-spacing: -0.04em; }
+        .meta { margin: 0 0 10px; color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; }
+        .hero { margin-bottom: 16px; padding: 20px; border: 1px solid rgba(255,255,255,0.09); border-radius: 16px; background: linear-gradient(135deg, rgba(255,255,255,0.035), rgba(255,255,255,0.015)); box-shadow: 0 14px 32px rgba(0, 0, 0, 0.28); }
+        .hero-head { display: flex; align-items: center; gap: 16px; margin-bottom: 10px; }
+        .app-logo { width: 68px; height: 68px; flex: none; border-radius: 14px; object-fit: cover; background: #101317; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.22); }
+        .app-logo-fallback { display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #203b33, #364b78); color: #f5f7fa; font-weight: 700; letter-spacing: 0.08em; }
+        .chips { margin-bottom: 14px; display: flex; flex-wrap: wrap; gap: 8px; }
+        .chip { display: inline-block; border: 1px solid var(--line); border-radius: 999px; padding: 6px 10px; font-size: 12px; background: rgba(255,255,255,0.04); color: #d4dde6; }
+        .toolbar { display: flex; justify-content: flex-start; align-items: center; margin-bottom: 12px; }
+        .file-select { border: 1px solid var(--line); border-radius: 10px; background: rgba(255,255,255,0.04); color: var(--ink); padding: 8px 10px; font-size: 12px; min-width: 360px; max-width: 100%; }
         .panel { display: none; }
         .panel.active { display: block; }
         h3 { margin: 0 0 8px; font-size: 14px; }
-        .table-wrap { overflow: auto; border: 1px solid #e5e7eb; background: #fff; border-radius: 8px; }
+        .table-wrap { overflow: auto; border: 1px solid var(--line); background: var(--surface-strong); border-radius: 12px; }
         table { border-collapse: collapse; width: 100%; min-width: 820px; }
-        th, td { border-bottom: 1px solid #e5e7eb; border-right: 1px solid #e5e7eb; text-align: left; vertical-align: top; padding: 8px 10px; font-size: 12px; line-height: 1.5; }
-        th { position: sticky; top: 0; background: #f3f4f6; z-index: 1; }
+        th, td { border-bottom: 1px solid var(--line); border-right: 1px solid var(--line); text-align: left; vertical-align: top; padding: 8px 10px; font-size: 12px; line-height: 1.5; }
+        th { position: sticky; top: 0; background: rgba(255,255,255,0.045); z-index: 1; }
         code { white-space: pre-wrap; word-break: break-all; }
         td { white-space: pre-wrap; word-break: break-word; }
-        td.ok { background: #ecfdf5; color: #065f46; }
-        td.todo { background: #fff7ed; color: #9a3412; }
+        td.ok { background: rgba(45, 165, 118, 0.15); color: #9fe2c2; }
+        td.todo { background: rgba(180, 132, 47, 0.16); color: #f0d48a; }
         .cell-link { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
-        .back { display: inline-block; margin-bottom: 8px; color: #2563eb; text-decoration: none; }
+        .back { display: inline-block; margin-bottom: 10px; color: var(--accent); text-decoration: none; }
         .back:hover { text-decoration: underline; }
         @media (max-width: 900px) {
           .toolbar { justify-content: stretch; }
           .file-select { min-width: 0; width: 100%; }
+          .hero-head { align-items: flex-start; }
         }
       </style>
     </head>
     <body>
       <div class="wrap">
         <a class="back" href="index.html">← Back to index</a>
-        <h1>\(htmlEscape(app.appName))</h1>
-        <p class="meta">Generated at: \(htmlEscape(generatedAt)) · Files: \(app.files.count)</p>
+        <section class="hero">
+          <div class="hero-head">
+            \(logoMarkup)
+            <div>
+              <h1>\(htmlEscape(app.appName))</h1>
+              <p class="meta">Generated at: \(htmlEscape(generatedAt)) · Files: \(app.files.count)</p>
+            </div>
+          </div>
         <div class="chips">
           \(summaryChips.joined(separator: "\n"))
         </div>
+        </section>
         <div class="toolbar">
           <select id="file-select" class="file-select">
             \(selectOptions.joined(separator: "\n"))
