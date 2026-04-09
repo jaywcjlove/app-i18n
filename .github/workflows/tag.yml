@@ -31,6 +31,12 @@ jobs:
           chmod +x dist/appi18n
           tar -czf dist/appi18n-linux-x86_64.tar.gz -C dist appi18n
 
+      - name: Verify Linux release asset
+        run: |
+          ls -lah
+          ls -lah dist
+          test -f dist/appi18n-linux-x86_64.tar.gz
+
       - name: Create Tag
         id: create_tag
         uses: jaywcjlove/create-tag-action@main
