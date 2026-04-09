@@ -1,6 +1,7 @@
 import XCTest
 import AppI18nCore
 import Foundation
+import AppKit
 
 #if canImport(Darwin)
 import Darwin
@@ -20,6 +21,41 @@ final class AppI18nCoreTests: XCTestCase {
             try? FileManager.default.removeItem(at: dir)
         }
         try body(dir)
+    }
+
+    private func makePNGData(size: CGFloat, color: NSColor = .systemBlue) throws -> Data {
+        let pixelSize = Int(size)
+        guard let bitmap = NSBitmapImageRep(
+            bitmapDataPlanes: nil,
+            pixelsWide: pixelSize,
+            pixelsHigh: pixelSize,
+            bitsPerSample: 8,
+            samplesPerPixel: 4,
+            hasAlpha: true,
+            isPlanar: false,
+            colorSpaceName: .deviceRGB,
+            bytesPerRow: 0,
+            bitsPerPixel: 0
+        ) else {
+            throw XCTSkip("Unable to create bitmap for test image")
+        }
+
+        NSGraphicsContext.saveGraphicsState()
+        NSGraphicsContext.current = NSGraphicsContext(bitmapImageRep: bitmap)
+        color.setFill()
+        NSBezierPath(rect: NSRect(x: 0, y: 0, width: size, height: size)).fill()
+        NSGraphicsContext.restoreGraphicsState()
+
+        guard let data = bitmap.representation(using: .png, properties: [:]) else {
+            throw XCTSkip("Unable to encode test PNG")
+        }
+        return data
+    }
+
+    private func pngPixelSize(at fileURL: URL) -> NSSize? {
+        guard let image = NSImage(contentsOf: fileURL) else { return nil }
+        guard let representation = image.representations.first else { return nil }
+        return NSSize(width: representation.pixelsWide, height: representation.pixelsHigh)
     }
 
     func testAddLanguageCreatesStringsFile() throws {
@@ -83,14 +119,192 @@ final class AppI18nCoreTests: XCTestCase {
             try JSONSerialization.data(withJSONObject: contentsJSON, options: [.prettyPrinted, .sortedKeys]).write(
                 to: xcassets.appendingPathComponent("Contents.json")
             )
-            let pngData = Data([0x89, 0x50, 0x4E, 0x47])
+            let pngData = try makePNGData(size: 128)
             try pngData.write(to: xcassets.appendingPathComponent("icon-128.png"))
 
             try extract(projectPath: projectRoot.path)
 
             let logo = dir.appendingPathComponent("i18n/source/yourapp/logo.png")
             XCTAssertTrue(FileManager.default.fileExists(atPath: logo.path))
-            XCTAssertEqual(try Data(contentsOf: logo), pngData)
+            XCTAssertEqual(pngPixelSize(at: logo), NSSize(width: 128, height: 128))
+        }
+    }
+
+    func testExtractFindsAppIconIconAndNormalizesTo128PNG() throws {
+        try withTempDir { dir in
+            let projectRoot = dir.appendingPathComponent("YourApp")
+            let sourceRoot = projectRoot.appendingPathComponent("Sources")
+            let xcassets = sourceRoot.appendingPathComponent("Assets.xcassets/AppIcon.icon")
+            try FileManager.default.createDirectory(at: xcassets, withIntermediateDirectories: true)
+
+            let xcFile = projectRoot.appendingPathComponent("Localizable.xcstrings")
+            let xcJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [:],
+                "version": "1.0"
+            ]
+            try JSONSerialization.data(withJSONObject: xcJSON, options: [.prettyPrinted, .sortedKeys]).write(to: xcFile)
+
+            let contentsJSON: [String: Any] = [
+                "images": [
+                    [
+                        "filename": "icon-256.png",
+                        "idiom": "mac",
+                        "scale": "1x",
+                        "size": "256x256"
+                    ]
+                ],
+                "info": [
+                    "author": "xcode",
+                    "version": 1
+                ]
+            ]
+            try JSONSerialization.data(withJSONObject: contentsJSON, options: [.prettyPrinted, .sortedKeys]).write(
+                to: xcassets.appendingPathComponent("Contents.json")
+            )
+            try makePNGData(size: 256, color: .systemRed).write(to: xcassets.appendingPathComponent("icon-256.png"))
+
+            try extract(projectPath: projectRoot.path)
+
+            let logo = dir.appendingPathComponent("i18n/source/yourapp/logo.png")
+            XCTAssertTrue(FileManager.default.fileExists(atPath: logo.path))
+            XCTAssertEqual(pngPixelSize(at: logo), NSSize(width: 128, height: 128))
+        }
+    }
+
+    func testExtractFindsAppIconIconOutsideXCAssetsWithNestedAssetsDirectory() throws {
+        try withTempDir { dir in
+            let projectRoot = dir.appendingPathComponent("VidwallHub")
+            let appIconAssets = projectRoot.appendingPathComponent("AppIcon.icon/Assets")
+            try FileManager.default.createDirectory(at: appIconAssets, withIntermediateDirectories: true)
+
+            let xcFile = projectRoot.appendingPathComponent("Localizable.xcstrings")
+            let xcJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [:],
+                "version": "1.0"
+            ]
+            try JSONSerialization.data(withJSONObject: xcJSON, options: [.prettyPrinted, .sortedKeys]).write(to: xcFile)
+
+            let contentsJSON: [String: Any] = [
+                "images": [
+                    [
+                        "filename": "Assets/vidwall-hub.png",
+                        "idiom": "mac",
+                        "scale": "1x",
+                        "size": "256x256"
+                    ]
+                ],
+                "info": [
+                    "author": "xcode",
+                    "version": 1
+                ]
+            ]
+            try JSONSerialization.data(withJSONObject: contentsJSON, options: [.prettyPrinted, .sortedKeys]).write(
+                to: projectRoot.appendingPathComponent("AppIcon.icon/Contents.json")
+            )
+            try makePNGData(size: 256, color: .systemGreen).write(
+                to: appIconAssets.appendingPathComponent("vidwall-hub.png")
+            )
+
+            try extract(projectPath: projectRoot.path)
+
+            let logo = dir.appendingPathComponent("i18n/source/vidwallhub/logo.png")
+            XCTAssertTrue(FileManager.default.fileExists(atPath: logo.path))
+            XCTAssertEqual(pngPixelSize(at: logo), NSSize(width: 128, height: 128))
+        }
+    }
+
+    func testExtractFindsAppIconUsingIconJSON() throws {
+        try withTempDir { dir in
+            let projectRoot = dir.appendingPathComponent("VidwallHub")
+            let appIconAssets = projectRoot.appendingPathComponent("AppIcon.icon/Assets")
+            try FileManager.default.createDirectory(at: appIconAssets, withIntermediateDirectories: true)
+
+            let xcFile = projectRoot.appendingPathComponent("Localizable.xcstrings")
+            let xcJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [:],
+                "version": "1.0"
+            ]
+            try JSONSerialization.data(withJSONObject: xcJSON, options: [.prettyPrinted, .sortedKeys]).write(to: xcFile)
+
+            let iconJSON: [String: Any] = [
+                "images": [
+                    [
+                        "filename": "Assets/vidwall-hub.png",
+                        "idiom": "mac",
+                        "scale": "1x",
+                        "size": "512x512"
+                    ]
+                ],
+                "info": [
+                    "author": "xcode",
+                    "version": 1
+                ]
+            ]
+            try JSONSerialization.data(withJSONObject: iconJSON, options: [.prettyPrinted, .sortedKeys]).write(
+                to: projectRoot.appendingPathComponent("AppIcon.icon/icon.json")
+            )
+            try makePNGData(size: 512, color: .systemOrange).write(
+                to: appIconAssets.appendingPathComponent("vidwall-hub.png")
+            )
+
+            try extract(projectPath: projectRoot.path)
+
+            let logo = dir.appendingPathComponent("i18n/source/vidwallhub/logo.png")
+            XCTAssertTrue(FileManager.default.fileExists(atPath: logo.path))
+            XCTAssertEqual(pngPixelSize(at: logo), NSSize(width: 128, height: 128))
+        }
+    }
+
+    func testExtractFindsAppIconUsingRealIconJSONSchema() throws {
+        try withTempDir { dir in
+            let projectRoot = dir.appendingPathComponent("VidwallHub")
+            let appIconAssets = projectRoot.appendingPathComponent("AppIcon.icon/Assets")
+            try FileManager.default.createDirectory(at: appIconAssets, withIntermediateDirectories: true)
+
+            let xcFile = projectRoot.appendingPathComponent("Localizable.xcstrings")
+            let xcJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [:],
+                "version": "1.0"
+            ]
+            try JSONSerialization.data(withJSONObject: xcJSON, options: [.prettyPrinted, .sortedKeys]).write(to: xcFile)
+
+            let iconJSON: [String: Any] = [
+                "fill": [
+                    "automatic-gradient": "extended-srgb:0.00000,0.53333,1.00000,1.00000"
+                ],
+                "groups": [
+                    [
+                        "layers": [
+                            [
+                                "blend-mode": "normal",
+                                "fill": "none",
+                                "glass": false,
+                                "image-name": "vidwall-hub.png",
+                                "name": "vidwall-hub"
+                            ]
+                        ]
+                    ]
+                ],
+                "supported-platforms": [
+                    "squares": "shared"
+                ]
+            ]
+            try JSONSerialization.data(withJSONObject: iconJSON, options: [.prettyPrinted, .sortedKeys]).write(
+                to: projectRoot.appendingPathComponent("AppIcon.icon/icon.json")
+            )
+            try makePNGData(size: 512, color: .systemPink).write(
+                to: appIconAssets.appendingPathComponent("vidwall-hub.png")
+            )
+
+            try extract(projectPath: projectRoot.path)
+
+            let logo = dir.appendingPathComponent("i18n/source/vidwallhub/logo.png")
+            XCTAssertTrue(FileManager.default.fileExists(atPath: logo.path))
+            XCTAssertEqual(pngPixelSize(at: logo), NSSize(width: 128, height: 128))
         }
     }
 

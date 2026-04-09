@@ -1,4 +1,5 @@
 import Foundation
+import AppKit
 
 /// Reconcile generated `.lproj` files against the current `i18n/source` tree.
 ///
@@ -175,36 +176,185 @@ private func appLanguages(app: String, appSource: URL, lprojRoot: URL) throws ->
     return languages.sorted()
 }
 
+private struct AppLogoCandidate {
+    let fileURL: URL
+    let score: Int
+}
+
+private func parseIconPointSize(_ rawValue: String) -> Double? {
+    let parts = rawValue.split(separator: "x")
+    guard parts.count == 2,
+          let width = Double(parts[0]),
+          let height = Double(parts[1]),
+          width > 0,
+          width == height else {
+        return nil
+    }
+    return width
+}
+
+private func appIconContainerPriority(for fileURL: URL) -> Int {
+    let containerName = fileURL.deletingLastPathComponent().lastPathComponent.lowercased()
+    if containerName == "appicon.icon" { return 0 }
+    if containerName == "appicon.appiconset" { return 1 }
+    if containerName.hasPrefix("appicon") { return 2 }
+    return 3
+}
+
+private func appIconContainerDirectory(for fileURL: URL) -> URL {
+    if fileURL.hasDirectoryPath {
+        return fileURL
+    }
+    return fileURL.deletingLastPathComponent()
+}
+
+private func resolveAppIconImage(named filename: String, relativeTo contentsFile: URL) -> URL? {
+    let containerURL = appIconContainerDirectory(for: contentsFile.deletingLastPathComponent())
+    let directURL = containerURL.appendingPathComponent(filename)
+    if fileManager.fileExists(atPath: directURL.path) {
+        return directURL
+    }
+
+    let basename = URL(fileURLWithPath: filename).lastPathComponent
+    let nestedMatches = listFiles(withExtension: "png", under: containerURL)
+        .filter { $0.lastPathComponent == basename }
+        .sorted { $0.path < $1.path }
+    return nestedMatches.first
+}
+
+private func imagePixelSize(at fileURL: URL) -> Double? {
+    guard let image = NSImage(contentsOf: fileURL) else { return nil }
+    for representation in image.representations {
+        if representation.pixelsWide > 0, representation.pixelsWide == representation.pixelsHigh {
+            return Double(representation.pixelsWide)
+        }
+    }
+    return nil
+}
+
+private func collectImageNames(from jsonObject: Any) -> [String] {
+    var names: [String] = []
+
+    if let dictionary = jsonObject as? [String: Any] {
+        for (key, value) in dictionary {
+            if key == "image-name", let imageName = value as? String, imageName.lowercased().hasSuffix(".png") {
+                names.append(imageName)
+            } else {
+                names.append(contentsOf: collectImageNames(from: value))
+            }
+        }
+    } else if let array = jsonObject as? [Any] {
+        for item in array {
+            names.append(contentsOf: collectImageNames(from: item))
+        }
+    }
+
+    return names
+}
+
+private func normalizedLogoPNGData(from logoFile: URL, size: CGFloat = 128) -> Data? {
+    guard let image = NSImage(contentsOf: logoFile) else {
+        return try? Data(contentsOf: logoFile)
+    }
+
+    let targetSize = NSSize(width: size, height: size)
+    let bitmap = NSBitmapImageRep(
+        bitmapDataPlanes: nil,
+        pixelsWide: Int(size),
+        pixelsHigh: Int(size),
+        bitsPerSample: 8,
+        samplesPerPixel: 4,
+        hasAlpha: true,
+        isPlanar: false,
+        colorSpaceName: .deviceRGB,
+        bytesPerRow: 0,
+        bitsPerPixel: 0
+    )
+
+    guard let bitmap else { return nil }
+
+    NSGraphicsContext.saveGraphicsState()
+    NSGraphicsContext.current = NSGraphicsContext(bitmapImageRep: bitmap)
+    defer {
+        NSGraphicsContext.restoreGraphicsState()
+    }
+
+    NSColor.clear.setFill()
+    NSBezierPath(rect: NSRect(origin: .zero, size: targetSize)).fill()
+    image.draw(
+        in: NSRect(origin: .zero, size: targetSize),
+        from: .zero,
+        operation: .copy,
+        fraction: 1
+    )
+
+    return bitmap.representation(using: .png, properties: [:])
+}
+
+private func writeNormalizedLogo(from logoFile: URL, to destination: URL) throws {
+    guard let pngData = normalizedLogoPNGData(from: logoFile) else {
+        throw NSError(
+            domain: "AppI18nCore",
+            code: 1,
+            userInfo: [NSLocalizedDescriptionKey: "Unable to normalize app logo at \(logoFile.path)"]
+        )
+    }
+    try ensureDirectory(destination.deletingLastPathComponent())
+    try pngData.write(to: destination, options: .atomic)
+}
+
 private func findAppLogoPNG(in projectURL: URL) -> URL? {
     let contentsFiles = listFiles(withExtension: "json", under: projectURL)
         .filter {
-            $0.lastPathComponent == "Contents.json" &&
-            $0.path.contains(".xcassets/") &&
-            $0.deletingLastPathComponent().pathExtension == "appiconset"
+            ["Contents.json", "icon.json"].contains($0.lastPathComponent) &&
+            ["appiconset", "icon"].contains($0.deletingLastPathComponent().pathExtension.lowercased())
         }
         .sorted {
-            let lhsPreferred = $0.deletingLastPathComponent().lastPathComponent == "AppIcon.appiconset"
-            let rhsPreferred = $1.deletingLastPathComponent().lastPathComponent == "AppIcon.appiconset"
-            if lhsPreferred != rhsPreferred { return lhsPreferred && !rhsPreferred }
+            let lhsPriority = appIconContainerPriority(for: $0)
+            let rhsPriority = appIconContainerPriority(for: $1)
+            if lhsPriority != rhsPriority { return lhsPriority < rhsPriority }
             return $0.path < $1.path
         }
 
     for contentsFile in contentsFiles {
-        guard let raw = try? readJSON(from: contentsFile),
-              let images = raw["images"] as? [[String: Any]] else {
+        guard let raw = try? readJSON(from: contentsFile) else {
             continue
         }
-        for image in images {
-            guard let size = image["size"] as? String,
-                  size == "128x128",
-                  let filename = image["filename"] as? String,
-                  filename.lowercased().hasSuffix(".png") else {
-                continue
+        var bestCandidate: AppLogoCandidate?
+
+        if let images = raw["images"] as? [[String: Any]] {
+            for image in images {
+                guard let size = image["size"] as? String,
+                      let pointSize = parseIconPointSize(size),
+                      let filename = image["filename"] as? String,
+                      filename.lowercased().hasSuffix(".png") else {
+                    continue
+                }
+                guard let logoFile = resolveAppIconImage(named: filename, relativeTo: contentsFile) else { continue }
+
+                let score = abs(Int(pointSize - 128)) * 10 + appIconContainerPriority(for: contentsFile)
+                let candidate = AppLogoCandidate(fileURL: logoFile, score: score)
+                if bestCandidate == nil || candidate.score < bestCandidate!.score {
+                    bestCandidate = candidate
+                }
             }
-            let logoFile = contentsFile.deletingLastPathComponent().appendingPathComponent(filename)
-            if fileManager.fileExists(atPath: logoFile.path) {
-                return logoFile
+        }
+
+        if bestCandidate == nil {
+            let imageNames = Array(Set(collectImageNames(from: raw)))
+            for imageName in imageNames {
+                guard let logoFile = resolveAppIconImage(named: imageName, relativeTo: contentsFile) else { continue }
+                let pointSize = imagePixelSize(at: logoFile) ?? 128
+                let score = abs(Int(pointSize - 128)) * 10 + appIconContainerPriority(for: contentsFile)
+                let candidate = AppLogoCandidate(fileURL: logoFile, score: score)
+                if bestCandidate == nil || candidate.score < bestCandidate!.score {
+                    bestCandidate = candidate
+                }
             }
+        }
+
+        if let bestCandidate {
+            return bestCandidate.fileURL
         }
     }
     return nil
@@ -227,7 +377,7 @@ public func extract(projectPath: String) throws {
     }
     if let logoFile {
         let logoTarget = targetRoot.appendingPathComponent("logo.png")
-        try copyFile(logoFile, to: logoTarget)
+        try writeNormalizedLogo(from: logoFile, to: logoTarget)
     }
     Logger.info("Extracted \(files.count) .xcstrings to \(targetRoot.path)")
 }

@@ -761,7 +761,7 @@ private func renderPreviewCSS() -> String {
     }
     .app-header {
       display: flex;
-      align-items: flex-start;
+      align-items: center;
       justify-content: space-between;
       gap: 14px;
       padding: 20px 20px 16px;
@@ -806,10 +806,10 @@ private func renderPreviewCSS() -> String {
     .meta-pill {
       display: inline-flex;
       align-items: center;
-      padding: 7px 12px;
+      padding: 3px 6px;
       background: rgba(255,255,255,0.04);
       color: var(--muted);
-      font-size: 11px;
+      font-size: 9px;
       text-transform: uppercase;
       letter-spacing: 0.08em;
     }
