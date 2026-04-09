@@ -38,6 +38,8 @@
 
 [English](./README.md) • [MyApp i18n](#myapp-i18n) • [安装](#安装)
 
+<hr>
+
 App i18n
 ===
 
