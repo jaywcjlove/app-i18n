@@ -1,5 +1,8 @@
 import Foundation
+
+#if canImport(AppKit)
 import AppKit
+#endif
 
 /// Reconcile generated `.lproj` files against the current `i18n/source` tree.
 ///
@@ -223,35 +226,47 @@ private func resolveAppIconImage(named filename: String, relativeTo contentsFile
 }
 
 private func imagePixelSize(at fileURL: URL) -> Double? {
+    #if canImport(AppKit)
     guard let image = NSImage(contentsOf: fileURL) else { return nil }
     for representation in image.representations {
         if representation.pixelsWide > 0, representation.pixelsWide == representation.pixelsHigh {
             return Double(representation.pixelsWide)
         }
     }
-    return nil
+    #endif
+    guard let data = try? Data(contentsOf: fileURL) else { return nil }
+    return pngPixelSize(from: data)
 }
 
-private func collectImageNames(from jsonObject: Any) -> [String] {
-    var names: [String] = []
-
-    if let dictionary = jsonObject as? [String: Any] {
-        for (key, value) in dictionary {
-            if key == "image-name", let imageName = value as? String, imageName.lowercased().hasSuffix(".png") {
-                names.append(imageName)
-            } else {
-                names.append(contentsOf: collectImageNames(from: value))
-            }
-        }
-    } else if let array = jsonObject as? [Any] {
-        for item in array {
-            names.append(contentsOf: collectImageNames(from: item))
-        }
+private func pngPixelSize(from data: Data) -> Double? {
+    let pngSignature: [UInt8] = [0x89, 0x50, 0x4E, 0x47, 0x0D, 0x0A, 0x1A, 0x0A]
+    guard data.count >= 24,
+          Array(data.prefix(8)) == pngSignature else {
+        return nil
     }
 
-    return names
+    let ihdrRange = 12..<16
+    guard String(data: data.subdata(in: ihdrRange), encoding: .ascii) == "IHDR" else {
+        return nil
+    }
+
+    let widthRange = 16..<20
+    let heightRange = 20..<24
+    let width = data.subdata(in: widthRange).reduce(0) { ($0 << 8) | UInt32($1) }
+    let height = data.subdata(in: heightRange).reduce(0) { ($0 << 8) | UInt32($1) }
+    guard width > 0, width == height else { return nil }
+    return Double(width)
 }
 
+private func copiedOrNormalizedLogoPNGData(from logoFile: URL, size: CGFloat = 128) -> Data? {
+    #if canImport(AppKit)
+    return normalizedLogoPNGData(from: logoFile, size: size)
+    #else
+    return try? Data(contentsOf: logoFile)
+    #endif
+}
+
+#if canImport(AppKit)
 private func normalizedLogoPNGData(from logoFile: URL, size: CGFloat = 128) -> Data? {
     guard let image = NSImage(contentsOf: logoFile) else {
         return try? Data(contentsOf: logoFile)
@@ -290,17 +305,38 @@ private func normalizedLogoPNGData(from logoFile: URL, size: CGFloat = 128) -> D
 
     return bitmap.representation(using: .png, properties: [:])
 }
+#endif
 
-private func writeNormalizedLogo(from logoFile: URL, to destination: URL) throws {
-    guard let pngData = normalizedLogoPNGData(from: logoFile) else {
+private func writeLogoPNG(from logoFile: URL, to destination: URL) throws {
+    guard let pngData = copiedOrNormalizedLogoPNGData(from: logoFile) else {
         throw NSError(
             domain: "AppI18nCore",
             code: 1,
-            userInfo: [NSLocalizedDescriptionKey: "Unable to normalize app logo at \(logoFile.path)"]
+            userInfo: [NSLocalizedDescriptionKey: "Unable to process app logo at \(logoFile.path)"]
         )
     }
     try ensureDirectory(destination.deletingLastPathComponent())
     try pngData.write(to: destination, options: .atomic)
+}
+
+private func collectImageNames(from jsonObject: Any) -> [String] {
+    var names: [String] = []
+
+    if let dictionary = jsonObject as? [String: Any] {
+        for (key, value) in dictionary {
+            if key == "image-name", let imageName = value as? String, imageName.lowercased().hasSuffix(".png") {
+                names.append(imageName)
+            } else {
+                names.append(contentsOf: collectImageNames(from: value))
+            }
+        }
+    } else if let array = jsonObject as? [Any] {
+        for item in array {
+            names.append(contentsOf: collectImageNames(from: item))
+        }
+    }
+
+    return names
 }
 
 private func findAppLogoPNG(in projectURL: URL) -> URL? {
@@ -377,7 +413,7 @@ public func extract(projectPath: String) throws {
     }
     if let logoFile {
         let logoTarget = targetRoot.appendingPathComponent("logo.png")
-        try writeNormalizedLogo(from: logoFile, to: logoTarget)
+        try writeLogoPNG(from: logoFile, to: logoTarget)
     }
     Logger.info("Extracted \(files.count) .xcstrings to \(targetRoot.path)")
 }

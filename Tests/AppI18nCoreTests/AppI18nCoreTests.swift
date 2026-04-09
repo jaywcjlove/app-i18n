@@ -1,7 +1,10 @@
 import XCTest
 import AppI18nCore
 import Foundation
+
+#if canImport(AppKit)
 import AppKit
+#endif
 
 #if canImport(Darwin)
 import Darwin
@@ -23,6 +26,7 @@ final class AppI18nCoreTests: XCTestCase {
         try body(dir)
     }
 
+    #if canImport(AppKit)
     private func makePNGData(size: CGFloat, color: NSColor = .systemBlue) throws -> Data {
         let pixelSize = Int(size)
         guard let bitmap = NSBitmapImageRep(
@@ -57,6 +61,7 @@ final class AppI18nCoreTests: XCTestCase {
         guard let representation = image.representations.first else { return nil }
         return NSSize(width: representation.pixelsWide, height: representation.pixelsHigh)
     }
+    #endif
 
     func testAddLanguageCreatesStringsFile() throws {
         try withTempDir { dir in
@@ -87,6 +92,7 @@ final class AppI18nCoreTests: XCTestCase {
         }
     }
 
+    #if canImport(AppKit)
     func testExtractCopiesAppIconToLogoPNG() throws {
         try withTempDir { dir in
             let projectRoot = dir.appendingPathComponent("YourApp")
@@ -307,6 +313,7 @@ final class AppI18nCoreTests: XCTestCase {
             XCTAssertEqual(pngPixelSize(at: logo), NSSize(width: 128, height: 128))
         }
     }
+    #endif
 
     func testToLprojPreservesExistingValues() throws {
         try withTempDir { dir in
