@@ -29,7 +29,7 @@ jobs:
           mkdir -p dist
           cp .build/release/appi18n dist/appi18n
           chmod +x dist/appi18n
-          tar -czf appi18n-linux-x86_64.tar.gz -C dist appi18n
+          tar -czf dist/appi18n-linux-x86_64.tar.gz -C dist appi18n
 
       - name: Create Tag
         id: create_tag
