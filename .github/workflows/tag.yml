@@ -12,9 +12,24 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      - name: Setup Swift
+        uses: swift-actions/setup-swift@v2
+        with:
+          swift-version: "5.9"
+
       - name: Extract version from tag
         id: extract_version
         run: echo "VERSION=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+
+      - name: Build release binary
+        run: swift build -c release
+
+      - name: Package Linux binary
+        run: |
+          mkdir -p dist
+          cp .build/release/appi18n dist/appi18n
+          chmod +x dist/appi18n
+          tar -czf appi18n-linux-x86_64.tar.gz -C dist appi18n
 
       - name: Create Tag
         id: create_tag
@@ -23,9 +38,28 @@ jobs:
           version: ${{ steps.extract_version.outputs.VERSION }}
           release: true
           body: |
-            ## Installation 
-            
+            ## Installation
+
+            ### macOS
+
             ```bash
             brew install jaywcjlove/tap/appi18n
             brew reinstall jaywcjlove/tap/appi18n
             ```
+
+            ### Linux
+
+            Download `appi18n-linux-x86_64.tar.gz` from this release, then:
+
+            ```bash
+            tar -xzf appi18n-linux-x86_64.tar.gz
+            chmod +x appi18n
+            ./appi18n --help
+            ```
+
+      - name: Upload Linux release asset
+        uses: jaywcjlove/github-action-upload-assets@main
+        if: steps.create_tag.outputs.successful == 'true'
+        with:
+          tag: ${{ steps.create_tag.outputs.version }}
+          asset-path: '["dist/appi18n-linux-x86_64.tar.gz"]'

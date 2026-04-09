@@ -1,0 +1,22 @@
+name: Build
+
+on:
+  push:
+
+jobs:
+  ubuntu-build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Setup Swift
+        uses: swift-actions/setup-swift@v2
+        with:
+          swift-version: "5.9"
+
+      - name: Build
+        run: swift build
+
+      - name: Test
+        run: swift test
