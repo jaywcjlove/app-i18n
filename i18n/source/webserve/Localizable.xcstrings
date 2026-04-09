@@ -1,0 +1,816 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        }
+      }
+    },
+    ":" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ":"
+          }
+        }
+      }
+    },
+    "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)"
+          }
+        }
+      }
+    },
+    "/index.html" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/index.html"
+          }
+        }
+      }
+    },
+    "%@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        }
+      }
+    },
+    "%@ Dark Mode" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 深色模式"
+          }
+        }
+      }
+    },
+    "%@ Follow System" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 跟随系统"
+          }
+        }
+      }
+    },
+    "%@ Light Mode" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 浅色模式"
+          }
+        }
+      }
+    },
+    "⚠️" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️"
+          }
+        }
+      }
+    },
+    "A number between 1 - 65535. Port that the local web server is accessible on. Access the website at _`http://localhost:[PORT]`_ ." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "介于1到65535之间的数字。此端口可访问本机Web服务器。 访问网站：_`http://localhost:[PORT]`_。"
+          }
+        }
+      }
+    },
+    "About" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于"
+          }
+        }
+      }
+    },
+    "About %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于 %@"
+          }
+        }
+      }
+    },
+    "Allow cross origin requests. Sets **Access-Control-Allow-Origin** header to **\\***, **Access-Control-Allow-Methods** to **GET, POST, PUT, DELETE**, and **Access-Control-Max-Age** to **120**. [Learn more about Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许跨域请求。将 **Access-Control-Allow-Origin** 头设置为 *，**Access-Control-Allow-Methods** 头设置为 **GET, POST, PUT, DELETE**，**Access-Control-Max-Age** 头设置为 **120**。 [了解更多关于跨域资源共享 (CORS) 的信息](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)。"
+          }
+        }
+      }
+    },
+    "Appearance" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "外观"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        }
+      }
+    },
+    "Confirm" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确认"
+          }
+        }
+      }
+    },
+    "Confirm deletion [Port number: %@] %@?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Confirm deletion [Port number: %1$@] %2$@?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确认删除 [端口号:%1$@] %2$@ ?"
+          }
+        }
+      }
+    },
+    "Dark" : {
+      "comment" : "Dark",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暗色"
+          }
+        }
+      }
+    },
+    "Delete Server" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除服务"
+          }
+        }
+      }
+    },
+    "Directory does not exist: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目录不存在： %@"
+          }
+        }
+      }
+    },
+    "Do you want to enable auto-launch at startup?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "是否要在启动时启用自动启动？"
+          }
+        }
+      }
+    },
+    "Drag a folder here to add a service" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将文件夹拖到此处以添加服务"
+          }
+        }
+      }
+    },
+    "Enable auto-launch?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用自动启动？"
+          }
+        }
+      }
+    },
+    "Enable HTTP Basic authentication" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用HTTP基本身份验证"
+          }
+        }
+      }
+    },
+    "Error" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "错误"
+          }
+        }
+      }
+    },
+    "Exclude .htm and .html extensions from URLs. For example, `/example.html` will redirect to `/example`. If a file exists at the path without an extension, the HTML file will still be rendered instead." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从 URL 中排除 .htm 和 .html 扩展名。例如，访问 `/example.html` 将重定向到 `/example`。如果路径上存在一个没有扩展名的文件，HTML文件仍然会被呈现。"
+          }
+        }
+      }
+    },
+    "Exclude .html extension" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "排除 .html 扩展名"
+          }
+        }
+      }
+    },
+    "Failed to access" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法访问"
+          }
+        }
+      }
+    },
+    "Failed to access security scoped resource." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法访问受安全保护的资源。"
+          }
+        }
+      }
+    },
+    "Folder Not Found" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未找到文件夹"
+          }
+        }
+      }
+    },
+    "Folder path" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件夹路径"
+          }
+        }
+      }
+    },
+    "Forward Host" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转发主机"
+          }
+        }
+      }
+    },
+    "Forward Port" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转发端口"
+          }
+        }
+      }
+    },
+    "General" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "常规"
+          }
+        }
+      }
+    },
+    "Generate Cert" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生成证书"
+          }
+        }
+      }
+    },
+    "Got it" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "知道了"
+          }
+        }
+      }
+    },
+    "HTTP Basic auth Password" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTP基本身份验证密码"
+          }
+        }
+      }
+    },
+    "HTTP Basic auth Username" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTP基本身份验证用户名"
+          }
+        }
+      }
+    },
+    "If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果您是一位发现 WebServe 有助于提高工作效率的个人用户，请考虑赞助我，以表谢意。就像偶尔请我喝杯咖啡一样。"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "语言"
+          }
+        }
+      }
+    },
+    "Launch at login" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开机时启动"
+          }
+        }
+      }
+    },
+    "Light" : {
+      "comment" : "Light",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "亮色"
+          }
+        }
+      }
+    },
+    "Main Window" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主窗口"
+          }
+        }
+      }
+    },
+    "Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使服务器只能通过安全连接(HTTPS)而不是HTTP访问。服务使用单个端口，因此您不能同时同时使用HTTP和HTTPS。"
+          }
+        }
+      }
+    },
+    "More App" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更多应用"
+          }
+        }
+      }
+    },
+    "No access permission" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没访问权限"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "comment" : "Default OK button",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确认"
+          }
+        }
+      }
+    },
+    "Open in Finder" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在访达中打开"
+          }
+        }
+      }
+    },
+    "Please enter your password" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请输入您的密码"
+          }
+        }
+      }
+    },
+    "Please enter your username" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请输入您的用户名"
+          }
+        }
+      }
+    },
+    "Please select a folder" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请选择一个文件夹"
+          }
+        }
+      }
+    },
+    "Port" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "端口号"
+          }
+        }
+      }
+    },
+    "Port %u is already in use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "端口 %u 已被使用"
+          }
+        }
+      }
+    },
+    "Port Forward" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "端口转发"
+          }
+        }
+      }
+    },
+    "Port Unavailable" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "端口号不可用"
+          }
+        }
+      }
+    },
+    "Reauth" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新授权"
+          }
+        }
+      }
+    },
+    "Rewrite to (for SPAs)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重写到 (for SPAs)"
+          }
+        }
+      }
+    },
+    "Running" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "运行中"
+          }
+        }
+      }
+    },
+    "Save Changes" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存更改"
+          }
+        }
+      }
+    },
+    "Select Folder" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择文件夹"
+          }
+        }
+      }
+    },
+    "Select Folder..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择文件夹"
+          }
+        }
+      }
+    },
+    "Set CORS headers" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置跨域请求头(CORS)"
+          }
+        }
+      }
+    },
+    "Show directory file list?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "是否显示目录文件列表"
+          }
+        }
+      }
+    },
+    "Show Folder" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示文件夹"
+          }
+        }
+      }
+    },
+    "Single page rewrite (for SPAs)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "单页重写 (for SPAs)"
+          }
+        }
+      }
+    },
+    "Skip hidden files" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跳过隐藏文件"
+          }
+        }
+      }
+    },
+    "Sponsor" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "赞助"
+          }
+        }
+      }
+    },
+    "SSL/TLS certificate" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL/TLS 证书"
+          }
+        }
+      }
+    },
+    "SSL/TLS private key" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL/TLS 私钥"
+          }
+        }
+      }
+    },
+    "Stopped" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已停止"
+          }
+        }
+      }
+    },
+    "System" : {
+      "comment" : "System",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系统"
+          }
+        }
+      }
+    },
+    "Thank you for your support! 🙌" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "感谢您的支持！🙌"
+          }
+        }
+      }
+    },
+    "The folder does not exist at the specified path: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在指定路径未找到该文件夹：%@"
+          }
+        }
+      }
+    },
+    "Unable to start due to insufficient permissions. Please select a folder again and save to obtain read access to the folder." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有权限无法启动，请重新选择文件夹并保存，获取文件夹读取权限。"
+          }
+        }
+      }
+    },
+    "Use HTTPS" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用 HTTPS"
+          }
+        }
+      }
+    },
+    "Version %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本 %@"
+          }
+        }
+      }
+    },
+    "Warning" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "警告"
+          }
+        }
+      }
+    },
+    "Web server URLs" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web 服务器 URL"
+          }
+        }
+      }
+    },
+    "With your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "有了你们慷慨的资助，我对保持 WebServe 的健康发展和积极维护它充满信心。"
+          }
+        }
+      }
+    },
+    "Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在你们的慷慨资助下，我对保持 WebServe 的健康发展和积极维护它充满信心。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

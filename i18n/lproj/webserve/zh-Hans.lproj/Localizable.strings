@@ -1,0 +1,161 @@
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ 深色模式";
+
+"%@ Follow System" = "%@ 跟随系统";
+
+"%@ Light Mode" = "%@ 浅色模式";
+
+"/index.html" = "/index.html";
+
+":" = ":";
+
+"A number between 1 - 65535. Port that the local web server is accessible on. Access the website at _`http://localhost:[PORT]`_ ." = "介于1到65535之间的数字。此端口可访问本机Web服务器。 访问网站：_`http://localhost:[PORT]`_。";
+
+"About" = "关于";
+
+"About %@" = "关于 %@";
+
+"Allow cross origin requests. Sets **Access-Control-Allow-Origin** header to **\\***, **Access-Control-Allow-Methods** to **GET, POST, PUT, DELETE**, and **Access-Control-Max-Age** to **120**. [Learn more about Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)." = "允许跨域请求。将 **Access-Control-Allow-Origin** 头设置为 *，**Access-Control-Allow-Methods** 头设置为 **GET, POST, PUT, DELETE**，**Access-Control-Max-Age** 头设置为 **120**。 [了解更多关于跨域资源共享 (CORS) 的信息](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)。";
+
+"Appearance" = "外观";
+
+"Cancel" = "取消";
+
+"Confirm" = "确认";
+
+"Confirm deletion [Port number: %@] %@?" = "确认删除 [端口号:%1$@] %2$@ ?";
+
+/* Dark */
+"Dark" = "暗色";
+
+"Delete Server" = "删除服务";
+
+"Directory does not exist: %@" = "目录不存在： %@";
+
+"Do you want to enable auto-launch at startup?" = "是否要在启动时启用自动启动？";
+
+"Drag a folder here to add a service" = "将文件夹拖到此处以添加服务";
+
+"Enable HTTP Basic authentication" = "启用HTTP基本身份验证";
+
+"Enable auto-launch?" = "启用自动启动？";
+
+"Error" = "错误";
+
+"Exclude .htm and .html extensions from URLs. For example, `/example.html` will redirect to `/example`. If a file exists at the path without an extension, the HTML file will still be rendered instead." = "从 URL 中排除 .htm 和 .html 扩展名。例如，访问 `/example.html` 将重定向到 `/example`。如果路径上存在一个没有扩展名的文件，HTML文件仍然会被呈现。";
+
+"Exclude .html extension" = "排除 .html 扩展名";
+
+"Failed to access" = "无法访问";
+
+"Failed to access security scoped resource." = "无法访问受安全保护的资源。";
+
+"Folder Not Found" = "未找到文件夹";
+
+"Folder path" = "文件夹路径";
+
+"Forward Host" = "转发主机";
+
+"Forward Port" = "转发端口";
+
+"General" = "常规";
+
+"Generate Cert" = "生成证书";
+
+"Got it" = "知道了";
+
+"HTTP Basic auth Password" = "HTTP基本身份验证密码";
+
+"HTTP Basic auth Username" = "HTTP基本身份验证用户名";
+
+"If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." = "如果您是一位发现 WebServe 有助于提高工作效率的个人用户，请考虑赞助我，以表谢意。就像偶尔请我喝杯咖啡一样。";
+
+"Language" = "语言";
+
+"Launch at login" = "开机时启动";
+
+/* Light */
+"Light" = "亮色";
+
+"Main Window" = "主窗口";
+
+"Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." = "使服务器只能通过安全连接(HTTPS)而不是HTTP访问。服务使用单个端口，因此您不能同时同时使用HTTP和HTTPS。";
+
+"More App" = "更多应用";
+
+"No access permission" = "没访问权限";
+
+/* Default OK button */
+"OK" = "确认";
+
+"Open in Finder" = "在访达中打开";
+
+"Please enter your password" = "请输入您的密码";
+
+"Please enter your username" = "请输入您的用户名";
+
+"Please select a folder" = "请选择一个文件夹";
+
+"Port" = "端口号";
+
+"Port %u is already in use." = "端口 %u 已被使用";
+
+"Port Forward" = "端口转发";
+
+"Port Unavailable" = "端口号不可用";
+
+"Reauth" = "重新授权";
+
+"Rewrite to (for SPAs)" = "重写到 (for SPAs)";
+
+"Running" = "运行中";
+
+"SSL/TLS certificate" = "SSL/TLS 证书";
+
+"SSL/TLS private key" = "SSL/TLS 私钥";
+
+"Save Changes" = "保存更改";
+
+"Select Folder" = "选择文件夹";
+
+"Select Folder..." = "选择文件夹";
+
+"Set CORS headers" = "设置跨域请求头(CORS)";
+
+"Show Folder" = "显示文件夹";
+
+"Show directory file list?" = "是否显示目录文件列表";
+
+"Single page rewrite (for SPAs)" = "单页重写 (for SPAs)";
+
+"Skip hidden files" = "跳过隐藏文件";
+
+"Sponsor" = "赞助";
+
+"Stopped" = "已停止";
+
+/* System */
+"System" = "系统";
+
+"Thank you for your support! 🙌" = "感谢您的支持！🙌";
+
+"The folder does not exist at the specified path: %@" = "在指定路径未找到该文件夹：%@";
+
+"Unable to start due to insufficient permissions. Please select a folder again and save to obtain read access to the folder." = "没有权限无法启动，请重新选择文件夹并保存，获取文件夹读取权限。";
+
+"Use HTTPS" = "使用 HTTPS";
+
+"Version %@" = "版本 %@";
+
+"Warning" = "警告";
+
+"Web server URLs" = "Web 服务器 URL";
+
+"With your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "有了你们慷慨的资助，我对保持 WebServe 的健康发展和积极维护它充满信心。";
+
+"Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "在你们的慷慨资助下，我对保持 WebServe 的健康发展和积极维护它充满信心。";
+
+"[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"⚠️" = "⚠️";

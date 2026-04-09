@@ -1,0 +1,161 @@
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ Dark Mode";
+
+"%@ Follow System" = "%@ Follow System";
+
+"%@ Light Mode" = "%@ Light Mode";
+
+"/index.html" = "/index.html";
+
+":" = ":";
+
+"A number between 1 - 65535. Port that the local web server is accessible on. Access the website at _`http://localhost:[PORT]`_ ." = "A number between 1 - 65535. Port that the local web server is accessible on. Access the website at _`http://localhost:[PORT]`_ .";
+
+"About" = "About";
+
+"About %@" = "About %@";
+
+"Allow cross origin requests. Sets **Access-Control-Allow-Origin** header to **\\***, **Access-Control-Allow-Methods** to **GET, POST, PUT, DELETE**, and **Access-Control-Max-Age** to **120**. [Learn more about Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)." = "Allow cross origin requests. Sets **Access-Control-Allow-Origin** header to **\\***, **Access-Control-Allow-Methods** to **GET, POST, PUT, DELETE**, and **Access-Control-Max-Age** to **120**. [Learn more about Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS).";
+
+"Appearance" = "Appearance";
+
+"Cancel" = "Cancel";
+
+"Confirm" = "Confirm";
+
+"Confirm deletion [Port number: %@] %@?" = "Confirm deletion [Port number: %1$@] %2$@?";
+
+/* Dark */
+"Dark" = "Dark";
+
+"Delete Server" = "Delete Server";
+
+"Directory does not exist: %@" = "Directory does not exist: %@";
+
+"Do you want to enable auto-launch at startup?" = "Do you want to enable auto-launch at startup?";
+
+"Drag a folder here to add a service" = "Drag a folder here to add a service";
+
+"Enable HTTP Basic authentication" = "Enable HTTP Basic authentication";
+
+"Enable auto-launch?" = "Enable auto-launch?";
+
+"Error" = "Error";
+
+"Exclude .htm and .html extensions from URLs. For example, `/example.html` will redirect to `/example`. If a file exists at the path without an extension, the HTML file will still be rendered instead." = "Exclude .htm and .html extensions from URLs. For example, `/example.html` will redirect to `/example`. If a file exists at the path without an extension, the HTML file will still be rendered instead.";
+
+"Exclude .html extension" = "Exclude .html extension";
+
+"Failed to access" = "Failed to access";
+
+"Failed to access security scoped resource." = "Failed to access security scoped resource.";
+
+"Folder Not Found" = "Folder Not Found";
+
+"Folder path" = "Folder path";
+
+"Forward Host" = "Forward Host";
+
+"Forward Port" = "Forward Port";
+
+"General" = "General";
+
+"Generate Cert" = "Generate Cert";
+
+"Got it" = "Got it";
+
+"HTTP Basic auth Password" = "HTTP Basic auth Password";
+
+"HTTP Basic auth Username" = "HTTP Basic auth Username";
+
+"If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." = "If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while.";
+
+"Language" = "Language";
+
+"Launch at login" = "Launch at login";
+
+/* Light */
+"Light" = "Light";
+
+"Main Window" = "Main Window";
+
+"Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." = "Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time.";
+
+"More App" = "More App";
+
+"No access permission" = "No access permission";
+
+/* Default OK button */
+"OK" = "OK";
+
+"Open in Finder" = "Open in Finder";
+
+"Please enter your password" = "Please enter your password";
+
+"Please enter your username" = "Please enter your username";
+
+"Please select a folder" = "Please select a folder";
+
+"Port" = "Port";
+
+"Port %u is already in use." = "Port %u is already in use.";
+
+"Port Forward" = "Port Forward";
+
+"Port Unavailable" = "Port Unavailable";
+
+"Reauth" = "Reauth";
+
+"Rewrite to (for SPAs)" = "Rewrite to (for SPAs)";
+
+"Running" = "Running";
+
+"SSL/TLS certificate" = "SSL/TLS certificate";
+
+"SSL/TLS private key" = "SSL/TLS private key";
+
+"Save Changes" = "Save Changes";
+
+"Select Folder" = "Select Folder";
+
+"Select Folder..." = "Select Folder...";
+
+"Set CORS headers" = "Set CORS headers";
+
+"Show Folder" = "Show Folder";
+
+"Show directory file list?" = "Show directory file list?";
+
+"Single page rewrite (for SPAs)" = "Single page rewrite (for SPAs)";
+
+"Skip hidden files" = "Skip hidden files";
+
+"Sponsor" = "Sponsor";
+
+"Stopped" = "Stopped";
+
+/* System */
+"System" = "System";
+
+"Thank you for your support! 🙌" = "Thank you for your support! 🙌";
+
+"The folder does not exist at the specified path: %@" = "The folder does not exist at the specified path: %@";
+
+"Unable to start due to insufficient permissions. Please select a folder again and save to obtain read access to the folder." = "Unable to start due to insufficient permissions. Please select a folder again and save to obtain read access to the folder.";
+
+"Use HTTPS" = "Use HTTPS";
+
+"Version %@" = "Version %@";
+
+"Warning" = "Warning";
+
+"Web server URLs" = "Web server URLs";
+
+"With your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "With your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively.";
+
+"Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively.";
+
+"[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"⚠️" = "⚠️";

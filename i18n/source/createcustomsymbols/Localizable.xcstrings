@@ -1,0 +1,816 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "[Terms of Service](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) and [Privacy Policy](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[服务条款](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) 和 [隐私政策](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)"
+          }
+        }
+      }
+    },
+    "%@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        }
+      }
+    },
+    "Accessibility" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可访问性"
+          }
+        }
+      }
+    },
+    "Add SVG String To Cache Error: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加 SVG 字符串到缓存时出错：%@"
+          }
+        }
+      }
+    },
+    "After sponsoring once, all features will be accessible, and the donation button will no longer be displayed on the interface. However, you can support me again by donating through the 'Sponsor' menu. Thank you for your generosity." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "赞助一次后，所有功能都可使用，界面上将不再显示捐赠按钮。但您可通过\"赞助\"菜单再次捐赠以支持我。感谢您的慷慨。"
+          }
+        }
+      }
+    },
+    "All" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全部"
+          }
+        }
+      }
+    },
+    "Arrows" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "箭头"
+          }
+        }
+      }
+    },
+    "Automotive" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "汽车"
+          }
+        }
+      }
+    },
+    "Camera & Photos" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "相机和照片"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        }
+      }
+    },
+    "Changelog" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "变更日志"
+          }
+        }
+      }
+    },
+    "Click the icon website, copy the SVG icon string, \nand paste it into the Symbol editor!" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "点击图标网站，**复制** SVG 图标字符串，\n然后**粘贴**到符号编辑器中！"
+          }
+        }
+      }
+    },
+    "Commerce" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商务"
+          }
+        }
+      }
+    },
+    "Communication" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沟通"
+          }
+        }
+      }
+    },
+    "Confirm delete %lld icon?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确认删除 %lld 个图标？"
+          }
+        }
+      }
+    },
+    "Confirm delete all icon?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确认删除所有图标？"
+          }
+        }
+      }
+    },
+    "Confirm delete icon \"%@\"?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请确认删除 \"%@\" 图标?"
+          }
+        }
+      }
+    },
+    "Confirm delete icon?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您确定删除图标？"
+          }
+        }
+      }
+    },
+    "Connectivity" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "连接"
+          }
+        }
+      }
+    },
+    "Copy Name" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制名称"
+          }
+        }
+      }
+    },
+    "Create Custom Symbols" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "创建自定义符号"
+          }
+        }
+      }
+    },
+    "Create Symbol Error: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "创建符号出错：%@"
+          }
+        }
+      }
+    },
+    "Delete" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "Delete all icons" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除所有图标"
+          }
+        }
+      }
+    },
+    "Delete Icon" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除图标"
+          }
+        }
+      }
+    },
+    "Delete Symbol" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除符号"
+          }
+        }
+      }
+    },
+    "Devices" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设备"
+          }
+        }
+      }
+    },
+    "Editing" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编辑"
+          }
+        }
+      }
+    },
+    "Error copying SVG file to cache: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制 SVG 文件到缓存时出错：%@"
+          }
+        }
+      }
+    },
+    "Error copying SVG: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制 SVG 时出错：%@ "
+          }
+        }
+      }
+    },
+    "Error removing existing file: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除现有文件时出错：%@ "
+          }
+        }
+      }
+    },
+    "Export" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出"
+          }
+        }
+      }
+    },
+    "Export Symbols Files" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出 Symbols 文件"
+          }
+        }
+      }
+    },
+    "File Name" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件名"
+          }
+        }
+      }
+    },
+    "Fitness" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "健身"
+          }
+        }
+      }
+    },
+    "Gaming" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "游戏"
+          }
+        }
+      }
+    },
+    "Health" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "健康"
+          }
+        }
+      }
+    },
+    "Home" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家"
+          }
+        }
+      }
+    },
+    "How to add custom SF symbols to a string?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何将自定义 SF 符号添加到字符串中？"
+          }
+        }
+      }
+    },
+    "How to Enable Multi-Color Support for Custom Symbols?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何定义多彩 SF 符号？"
+          }
+        }
+      }
+    },
+    "How to Use Your Custom SF Symbol in AppKit?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何在 AppKit 中使用您的自定义 SF 符号？"
+          }
+        }
+      }
+    },
+    "How to Use Your Custom SF Symbol in SwiftUI?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何在 SwiftUI 中使用您的自定义 SF 符号？"
+          }
+        }
+      }
+    },
+    "How to Use Your Custom SF Symbol in UIKit?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何在 UIKit 中使用您的自定义 SF 符号？"
+          }
+        }
+      }
+    },
+    "Human" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人类"
+          }
+        }
+      }
+    },
+    "Import from Clipboard" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从剪贴板导入"
+          }
+        }
+      }
+    },
+    "Import SVG Files" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入SVG文件"
+          }
+        }
+      }
+    },
+    "Indices" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "指数"
+          }
+        }
+      }
+    },
+    "Keyboard" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "键盘"
+          }
+        }
+      }
+    },
+    "Main Window" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主窗口"
+          }
+        }
+      }
+    },
+    "Maps" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "地图"
+          }
+        }
+      }
+    },
+    "Math" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数学"
+          }
+        }
+      }
+    },
+    "Media" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "媒体"
+          }
+        }
+      }
+    },
+    "Nature" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自然"
+          }
+        }
+      }
+    },
+    "New Custom Symbol" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新建自定义符号"
+          }
+        }
+      }
+    },
+    "Objects & Tools" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "对象和工具"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确认"
+          }
+        }
+      }
+    },
+    "Only SVG icons are supported" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "只支持 SVG 图标"
+          }
+        }
+      }
+    },
+    "Open %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开 %@"
+          }
+        }
+      }
+    },
+    "Please drag and drop your SVG icon files here" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请将 SVG 图标文件拖拽到此处"
+          }
+        }
+      }
+    },
+    "Please paste the SVG icon string." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请粘贴 SVG 图标字符串。"
+          }
+        }
+      }
+    },
+    "Privacy & Security" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐私与安全"
+          }
+        }
+      }
+    },
+    "Quit" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出"
+          }
+        }
+      }
+    },
+    "Restore" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复"
+          }
+        }
+      }
+    },
+    "Restore Sponsor" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复捐赠"
+          }
+        }
+      }
+    },
+    "Search SVG" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "搜索 SVG"
+          }
+        }
+      }
+    },
+    "Search SVG Icon" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "搜索 SVG 图标"
+          }
+        }
+      }
+    },
+    "Select folder" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择文件夹"
+          }
+        }
+      }
+    },
+    "Shapes" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "形状"
+          }
+        }
+      }
+    },
+    "Sponsor" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "赞助"
+          }
+        }
+      }
+    },
+    "Sponsor Now" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "现在赞助"
+          }
+        }
+      }
+    },
+    "Status bar preview icon" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状态栏预览图标"
+          }
+        }
+      }
+    },
+    "Symbol Icons 5.0" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "符号图标 5.0"
+          }
+        }
+      }
+    },
+    "Text Formatting" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文本格式"
+          }
+        }
+      }
+    },
+    "Thank you for your sponsor" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "感谢您的赞助"
+          }
+        }
+      }
+    },
+    "Time" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "时间"
+          }
+        }
+      }
+    },
+    "Transportation" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "运输"
+          }
+        }
+      }
+    },
+    "Users who have not donated can create 5 icons for free." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有捐赠的用户可以免费创建 5 个图标"
+          }
+        }
+      }
+    },
+    "Weather" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "天气"
+          }
+        }
+      }
+    },
+    "Your custom symbol at large scale, 21pt font and Heavy weight" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的自定义符号在大尺寸、21 号字体和加粗重量下。"
+          }
+        }
+      }
+    },
+    "Your custom symbol at Medium scale, Regular weight" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中等尺寸的自定义符号，正常粗细"
+          }
+        }
+      }
+    },
+    "Your sponsor is an encouragement to me." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的赞助是对我的一种鼓励。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
