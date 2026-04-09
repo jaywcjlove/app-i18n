@@ -9,6 +9,12 @@
             "value" : ""
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20,6 +26,12 @@
     "%lld%%" : {
       "localizations" : {
         "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld%%"
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld%%"
@@ -41,6 +53,12 @@
             "value" : "適用"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "적용"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -55,6 +73,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "キャンセル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취소"
           }
         },
         "zh-Hans" : {
@@ -73,6 +97,12 @@
             "value" : "元のビデオを上書きできません"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "원본 비디오를 덮어쓸 수 없습니다"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -87,6 +117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "トリミングエリア設定"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자르기 영역 설정"
           }
         },
         "zh-Hans" : {
@@ -105,6 +141,12 @@
             "value" : "ビデオをドロップしてください！"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오를 드롭하세요!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -119,6 +161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : ".m4v ビデオを書き出し"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ".m4v 비디오 내보내기"
           }
         },
         "zh-Hans" : {
@@ -137,6 +185,12 @@
             "value" : ".mov ビデオを書き出し"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ".mov 비디오 내보내기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -151,6 +205,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : ".mp4 ビデオを書き出し"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ".mp4 비디오 내보내기"
           }
         },
         "zh-Hans" : {
@@ -169,6 +229,12 @@
             "value" : "書き出しがキャンセルされました"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내보내기가 취소되었습니다"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -183,6 +249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "書き出し完了"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내보내기 완료"
           }
         },
         "zh-Hans" : {
@@ -201,6 +273,12 @@
             "value" : "トリミングしたビデオを書き出し"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "잘라낸 비디오 내보내기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -215,6 +293,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "書き出しに失敗しました"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내보내기에 실패했습니다"
           }
         },
         "zh-Hans" : {
@@ -233,6 +317,12 @@
             "value" : "ビデオを書き出し"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오 내보내기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -247,6 +337,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ビデオを書き出し中..."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오를 내보내는 중..."
           }
         },
         "zh-Hans" : {
@@ -265,6 +361,12 @@
             "value" : "無料"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "무료"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -279,6 +381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "高さ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "높이"
           }
         },
         "zh-Hans" : {
@@ -297,6 +405,12 @@
             "value" : "ビデオを読み込み中…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오를 불러오는 중…"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -311,6 +425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "最大: %lld"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "최대값: %lld"
           }
         },
         "zh-Hans" : {
@@ -329,6 +449,12 @@
             "value" : "ビデオファイルを解析する権限がありません"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오 파일을 분석할 권한이 없습니다"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -343,6 +469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "확인"
           }
         },
         "zh-Hans" : {
@@ -361,6 +493,12 @@
             "value" : "開く"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "열기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -375,6 +513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ファイルの場所を開く"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "파일 위치 열기"
           }
         },
         "zh-Hans" : {
@@ -393,6 +537,12 @@
             "value" : "または"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "또는"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -407,6 +557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "再生速度"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "재생 속도"
           }
         },
         "zh-Hans" : {
@@ -425,6 +581,12 @@
             "value" : "保存する場所とファイル名を選択してください"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저장할 위치와 파일 이름을 선택하세요"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -439,6 +601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "プロ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프로"
           }
         },
         "zh-Hans" : {
@@ -457,6 +625,12 @@
             "value" : "処理中..."
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "처리 중..."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -471,6 +645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "保存"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저장"
           }
         },
         "zh-Hans" : {
@@ -489,6 +669,12 @@
             "value" : "ファイルを保存"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "파일 저장"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -503,6 +689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ビデオファイルを選択"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오 파일 선택"
           }
         },
         "zh-Hans" : {
@@ -521,6 +713,12 @@
             "value" : "トリミングエリアを設定"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자르기 영역 설정"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -535,6 +733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "不明なステータス"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알 수 없는 상태"
           }
         },
         "zh-Hans" : {
@@ -553,6 +757,12 @@
             "value" : "すべての機能をアンロック"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 기능 잠금 해제"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -567,6 +777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ビデオの書き出しが成功しました"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오를 성공적으로 내보냈습니다"
           }
         },
         "zh-Hans" : {
@@ -585,6 +801,12 @@
             "value" : "ビデオの読み込みに失敗しました"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오를 불러오지 못했습니다"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -601,6 +823,12 @@
             "value" : "ビデオの保存先: %@"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오 저장 위치: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -615,6 +843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "幅"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "너비"
           }
         },
         "zh-Hans" : {
