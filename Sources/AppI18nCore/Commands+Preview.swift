@@ -518,14 +518,13 @@ private func renderPreviewIndexHTML(apps: [AppPreview]) -> String {
               <div class="app-header">
                 <div class="app-brand">
                   \(logoMarkup)
-                  <div>
-                    <p class="eyebrow">i18n Preview</p>
+                  <div class="app-title">
                     <h2><a href="\(htmlEscape(app.pageFileName))">\(htmlEscape(app.appName))</a></h2>
+                    <div class="app-meta">
+                        <span class="meta-pill">Base \(htmlEscape(app.baseLanguage))</span>
+                        <span class="meta-pill">Files \(app.files.count)</span>
+                    </div>
                   </div>
-                </div>
-                <div class="app-meta">
-                  <span class="meta-pill">Base \(htmlEscape(app.baseLanguage))</span>
-                  <span class="meta-pill">Files \(app.files.count)</span>
                 </div>
               </div>
               <div class="table-wrap card-table">
@@ -551,7 +550,6 @@ private func renderPreviewIndexHTML(apps: [AppPreview]) -> String {
       <div class="wrap">
         <section class="hero">
           <h1>My App i18n Preview</h1>
-          <p class="hero-copy">A visual index of translation coverage across your apps. Each card links to a detailed per-file matrix, with language progress surfaced directly on the front page.</p>
           <p class="meta">Generated at: \(htmlEscape(generatedAt)) · Apps: \(apps.count)</p>
         </section>
         <section class="apps-grid">
@@ -709,7 +707,7 @@ private func renderPreviewCSS() -> String {
       --ink: #eef2f6;
       --muted: #93a0ad;
       --line: rgba(255,255,255,0.08);
-      --accent: #8fd0bb;
+      --accent: #5465ff;
       --accent-soft: rgba(143,208,187,0.14);
       --shadow: 0 14px 32px rgba(0, 0, 0, 0.28);
     }
@@ -728,22 +726,8 @@ private func renderPreviewCSS() -> String {
     h1 { margin: 0 0 8px; font-size: clamp(30px, 5vw, 52px); line-height: 0.98; letter-spacing: -0.05em; }
     h2 { margin: 0; font-size: 23px; line-height: 1.1; letter-spacing: -0.03em; }
     h3 { margin: 0 0 8px; font-size: 14px; }
-    .hero-copy {
-      max-width: 760px;
-      margin: 0 0 14px;
-      color: var(--muted);
-      font-size: 15px;
-      line-height: 1.7;
-    }
     .meta { margin: 0 0 10px; color: var(--muted); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; }
-    .hero {
-      margin-bottom: 16px;
-      padding: 20px 24px;
-      border: 1px solid rgba(255,255,255,0.09);
-      border-radius: 16px;
-      background: linear-gradient(135deg, rgba(255,255,255,0.035), rgba(255,255,255,0.015));
-      box-shadow: var(--shadow);
-    }
+    .hero { margin-bottom: 16px; padding-top: 38px; }
     .hero-head { display: flex; align-items: center; gap: 16px; margin-bottom: 10px; }
     .apps-grid {
       display: grid;
@@ -759,25 +743,19 @@ private func renderPreviewCSS() -> String {
       backdrop-filter: blur(14px);
       box-shadow: var(--shadow);
     }
-    .app-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 14px;
-      padding: 20px 20px 16px;
-      border-bottom: 1px solid var(--line);
-    }
-    .app-brand { display: flex; align-items: center; gap: 14px; min-width: 0; }
+    .app-header { padding: 14px 14px 14px; border-bottom: 1px solid var(--line); }
+    .app-brand { display: flex; align-items: center; gap: 10px; min-width: 0; }
+    .app-title { display: flex; flex-direction: column; gap: 3px; }
     .app-logo {
-      width: 64px;
-      height: 64px;
+      width: 58px;
+      height: 58px;
       flex: none;
       border-radius: 14px;
       object-fit: cover;
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.22);
       background: #101317;
     }
-    .hero .app-logo { width: 68px; height: 68px; }
+    .hero .app-logo { width: 92px; height: 92px; }
     .app-logo-fallback {
       display: flex;
       align-items: center;
@@ -795,7 +773,7 @@ private func renderPreviewCSS() -> String {
       text-transform: uppercase;
       white-space: nowrap;
     }
-    .app-meta { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; }
+    .app-meta { display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px; }
     .meta-pill,
     .chip,
     .language-ratio {
@@ -806,7 +784,7 @@ private func renderPreviewCSS() -> String {
     .meta-pill {
       display: inline-flex;
       align-items: center;
-      padding: 3px 6px;
+      padding: 1px 4px;
       background: rgba(255,255,255,0.04);
       color: var(--muted);
       font-size: 9px;
@@ -832,7 +810,7 @@ private func renderPreviewCSS() -> String {
     .language-ratio {
       font-size: 11px;
       line-height: 1;
-      padding: 5px 7px;
+      padding: 2px 5px;
       border-color: transparent;
     }
     .progress-track {
