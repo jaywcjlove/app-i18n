@@ -3,17 +3,77 @@
   "strings" : {
     "[Terms of Service](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) and [Privacy Policy](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Nutzungsbedingungen](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) und [Datenschutzerklärung](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Conditions d’utilisation](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) et [Politique de confidentialité](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[利用規約](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) と [プライバシーポリシー](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[서비스 약관](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) 및 [개인정보 처리방침](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "[服务条款](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) 和 [隐私政策](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[服務條款](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) 與 [隱私權政策](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)"
           }
         }
       }
     },
     "%@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@"
@@ -23,37 +83,157 @@
     },
     "Accessibility" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bedienungshilfen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accessibilité"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アクセシビリティ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "손쉬운 사용"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "可访问性"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輔助使用"
           }
         }
       }
     },
     "Add SVG String To Cache Error: %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Hinzufügen der SVG-Zeichenkette zum Cache: %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors de l’ajout de la chaîne SVG au cache : %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG 文字列をキャッシュに追加中にエラーが発生しました: %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG 문자열을 캐시에 추가하는 중 오류가 발생했습니다: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加 SVG 字符串到缓存时出错：%@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "將 SVG 字串加入快取時發生錯誤：%@"
           }
         }
       }
     },
     "After sponsoring once, all features will be accessible, and the donation button will no longer be displayed on the interface. However, you can support me again by donating through the 'Sponsor' menu. Thank you for your generosity." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nach einer einmaligen Unterstützung werden alle Funktionen freigeschaltet, und die Spenden-Schaltfläche wird nicht mehr in der Oberfläche angezeigt. Sie können mich jedoch jederzeit erneut über das Menü „Sponsor“ unterstützen. Vielen Dank für Ihre Großzügigkeit."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Après un premier soutien, toutes les fonctionnalités seront accessibles et le bouton de don ne sera plus affiché dans l’interface. Toutefois, vous pouvez me soutenir à nouveau en faisant un don via le menu « Sponsor ». Merci pour votre générosité."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一度スポンサーになると、すべての機能が利用可能になり、寄付ボタンはインターフェースに表示されなくなります。ただし、「Sponsor」メニューから再度寄付してご支援いただくことも可能です。ご厚意に感謝します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "한 번 후원하시면 모든 기능을 이용할 수 있으며, 기부 버튼은 더 이상 인터페이스에 표시되지 않습니다. 하지만 'Sponsor' 메뉴를 통해 다시 기부하여 저를 후원하실 수 있습니다. 너그러운 지원에 감사드립니다."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "赞助一次后，所有功能都可使用，界面上将不再显示捐赠按钮。但您可通过\"赞助\"菜单再次捐赠以支持我。感谢您的慷慨。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "贊助一次後，所有功能都將可用，介面上也不再顯示捐贈按鈕。不過，您仍可透過「贊助」選單再次捐贈來支持我。感謝您的慷慨支持。"
           }
         }
       }
     },
     "All" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tout"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべて"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전체"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全部"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "全部"
@@ -63,37 +243,157 @@
     },
     "Arrows" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pfeile"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flèches"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "矢印"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "화살표"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "箭头"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "箭頭"
           }
         }
       }
     },
     "Automotive" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fahrzeuge"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automobile"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自動車"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자동차"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "汽车"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "汽車"
           }
         }
       }
     },
     "Camera & Photos" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamera & Fotos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appareil photo et photos"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カメラと写真"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카메라 및 사진"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "相机和照片"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "相機與照片"
           }
         }
       }
     },
     "Cancel" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuler"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취소"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
@@ -103,247 +403,997 @@
     },
     "Changelog" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Änderungsprotokoll"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Journal des modifications"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新履歴"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "변경 기록"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "变更日志"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新日誌"
           }
         }
       }
     },
     "Click the icon website, copy the SVG icon string, \nand paste it into the Symbol editor!" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klicken Sie auf die Icon-Website, kopieren Sie die SVG-Icon-Zeichenkette \nund fügen Sie sie in den Symbol-Editor ein!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cliquez sur le site d’icônes, copiez la chaîne SVG de l’icône, \npuis collez-la dans l’éditeur de symboles !"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アイコンサイトを開き、SVG アイコン文字列をコピーして、\nシンボルエディタに貼り付けてください！"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아이콘 웹사이트를 열어 SVG 아이콘 문자열을 복사한 뒤,\n심볼 편집기에 붙여넣으세요!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "点击图标网站，**复制** SVG 图标字符串，\n然后**粘贴**到符号编辑器中！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "點擊圖示網站，複製 SVG 圖示字串，\n然後貼到符號編輯器中！"
           }
         }
       }
     },
     "Commerce" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Handel"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commerce"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コマース"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "상거래"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "商务"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商務"
           }
         }
       }
     },
     "Communication" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kommunikation"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Communication"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コミュニケーション"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "커뮤니케이션"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "沟通"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通訊"
           }
         }
       }
     },
     "Confirm delete %lld icon?" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Löschen von %lld Symbolen bestätigen?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmer la suppression de %lld icônes ?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 個のアイコンを削除してもよろしいですか？"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld개의 아이콘을 삭제하시겠습니까?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "确认删除 %lld 个图标？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認刪除 %lld 個圖示？"
           }
         }
       }
     },
     "Confirm delete all icon?" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Löschen aller Symbole bestätigen?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmer la suppression de toutes les icônes ?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべてのアイコンを削除してもよろしいですか？"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 아이콘을 삭제하시겠습니까?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "确认删除所有图标？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認刪除所有圖示？"
           }
         }
       }
     },
     "Confirm delete icon \"%@\"?" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Löschen des Symbols \"%@\" bestätigen?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmer la suppression de l’icône « %@ » ?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アイコン \"%@\" を削除してもよろしいですか？"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%@\" 아이콘을 삭제하시겠습니까?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "请确认删除 \"%@\" 图标?"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認刪除圖示「%@」？"
           }
         }
       }
     },
     "Confirm delete icon?" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Löschen des Symbols bestätigen?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmer la suppression de l’icône ?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アイコンを削除してもよろしいですか？"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아이콘을 삭제하시겠습니까?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "您确定删除图标？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認刪除圖示？"
           }
         }
       }
     },
     "Connectivity" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konnektivität"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connectivité"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接続"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "연결"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "连接"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "連線"
           }
         }
       }
     },
     "Copy Name" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Namen kopieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copier le nom"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前をコピー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이름 복사"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "复制名称"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "複製名稱"
           }
         }
       }
     },
     "Create Custom Symbols" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzerdefinierte Symbole erstellen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Créer des symboles personnalisés"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カスタムシンボルを作成"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사용자 지정 심볼 만들기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "创建自定义符号"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "建立自訂符號"
           }
         }
       }
     },
     "Create Symbol Error: %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Erstellen des Symbols: %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors de la création du symbole : %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シンボル作成エラー: %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "심볼 생성 오류: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "创建符号出错：%@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "建立符號時發生錯誤：%@"
           }
         }
       }
     },
     "Delete" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Löschen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "削除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "삭제"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除"
           }
         }
       }
     },
     "Delete all icons" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Symbole löschen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer toutes les icônes"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべてのアイコンを削除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 아이콘 삭제"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除所有图标"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除所有圖示"
           }
         }
       }
     },
     "Delete Icon" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbol löschen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer l’icône"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アイコンを削除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아이콘 삭제"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除图标"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除圖示"
           }
         }
       }
     },
     "Delete Symbol" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbol löschen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer le symbole"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シンボルを削除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "심볼 삭제"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除符号"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除符號"
           }
         }
       }
     },
     "Devices" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geräte"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appareils"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デバイス"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "设备"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "裝置"
           }
         }
       }
     },
     "Editing" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bearbeitung"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Édition"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "編集"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "편집"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "编辑"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "編輯"
           }
         }
       }
     },
     "Error copying SVG file to cache: %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Kopieren der SVG-Datei in den Cache: %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors de la copie du fichier SVG dans le cache : %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG ファイルをキャッシュにコピー中にエラーが発生しました: %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG 파일을 캐시에 복사하는 중 오류가 발생했습니다: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "复制 SVG 文件到缓存时出错：%@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "將 SVG 檔案複製到快取時發生錯誤：%@"
           }
         }
       }
     },
     "Error copying SVG: %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Kopieren der SVG: %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors de la copie du SVG : %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG のコピー中にエラーが発生しました: %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG를 복사하는 중 오류가 발생했습니다: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "复制 SVG 时出错：%@ "
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "複製 SVG 時發生錯誤：%@"
           }
         }
       }
     },
     "Error removing existing file: %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Entfernen der vorhandenen Datei: %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors de la suppression du fichier existant : %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "既存ファイルの削除中にエラーが発生しました: %@"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기존 파일을 제거하는 중 오류가 발생했습니다: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "删除现有文件时出错：%@ "
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除現有檔案時發生錯誤：%@"
           }
         }
       }
     },
     "Export" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exportieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exporter"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "書き出し"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내보내기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "导出"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匯出"
           }
         }
       }
     },
     "Export Symbols Files" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbol-Dateien exportieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exporter les fichiers de symboles"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シンボルファイルを書き出し"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "심볼 파일 내보내기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "导出 Symbols 文件"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匯出 Symbols 檔案"
           }
         }
       }
     },
     "File Name" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dateiname"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nom du fichier"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル名"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "파일 이름"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "文件名"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "檔案名稱"
           }
         }
       }
     },
     "Fitness" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fitness"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fitness"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フィットネス"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "피트니스"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "健身"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "健身"
@@ -353,17 +1403,77 @@
     },
     "Gaming" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spiele"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeux"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゲーム"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "게임"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "游戏"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "遊戲"
           }
         }
       }
     },
     "Health" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gesundheit"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Santé"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "健康"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "건강"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "健康"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "健康"
@@ -373,7 +1483,37 @@
     },
     "Home" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zuhause"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maison"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ホーム"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "홈"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "家"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "家"
@@ -383,147 +1523,597 @@
     },
     "How to add custom SF symbols to a string?" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie fügt man benutzerdefinierte SF-Symbole zu einer Zeichenkette hinzu?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comment ajouter des symboles SF personnalisés à une chaîne ?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文字列にカスタム SF Symbol を追加する方法"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문자열에 사용자 지정 SF Symbol을 추가하는 방법"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "如何将自定义 SF 符号添加到字符串中？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何將自訂 SF Symbol 加入字串中？"
           }
         }
       }
     },
     "How to Enable Multi-Color Support for Custom Symbols?" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie aktiviert man die Mehrfarben-Unterstützung für benutzerdefinierte Symbole?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comment activer la prise en charge multicolore pour les symboles personnalisés ?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カスタムシンボルでマルチカラーサポートを有効にする方法は？"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사용자 지정 심볼에서 다중 색상 지원을 활성화하는 방법은?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "如何定义多彩 SF 符号？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何為自訂符號啟用多色支援？"
           }
         }
       }
     },
     "How to Use Your Custom SF Symbol in AppKit?" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie verwenden Sie Ihr benutzerdefiniertes SF Symbol in AppKit?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comment utiliser votre symbole SF personnalisé dans AppKit ?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AppKit でカスタム SF Symbol を使用する方法"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AppKit에서 사용자 지정 SF Symbol을 사용하는 방법"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "如何在 AppKit 中使用您的自定义 SF 符号？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何在 AppKit 中使用自訂 SF Symbol？"
           }
         }
       }
     },
     "How to Use Your Custom SF Symbol in SwiftUI?" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie verwenden Sie Ihr benutzerdefiniertes SF Symbol in SwiftUI?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comment utiliser votre symbole SF personnalisé dans SwiftUI ?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftUI でカスタム SF Symbol を使用する方法"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftUI에서 사용자 지정 SF Symbol을 사용하는 방법"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "如何在 SwiftUI 中使用您的自定义 SF 符号？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何在 SwiftUI 中使用自訂 SF Symbol？"
           }
         }
       }
     },
     "How to Use Your Custom SF Symbol in UIKit?" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie verwenden Sie Ihr benutzerdefiniertes SF Symbol in UIKit?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comment utiliser votre symbole SF personnalisé dans UIKit ?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit でカスタム SF Symbol を使用する方法"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UIKit에서 사용자 지정 SF Symbol을 사용하는 방법"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "如何在 UIKit 中使用您的自定义 SF 符号？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何在 UIKit 中使用自訂 SF Symbol？"
           }
         }
       }
     },
     "Human" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menschen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Humain"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人物"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사람"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "人类"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人物"
           }
         }
       }
     },
     "Import from Clipboard" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aus der Zwischenablage importieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Importer depuis le presse-papiers"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クリップボードから読み込む"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "클립보드에서 가져오기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "从剪贴板导入"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "從剪貼簿匯入"
           }
         }
       }
     },
     "Import SVG Files" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG-Dateien importieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Importer des fichiers SVG"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG ファイルを読み込む"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG 파일 가져오기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "导入SVG文件"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匯入 SVG 檔案"
           }
         }
       }
     },
     "Indices" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indizes"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indices"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "インデックス"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인덱스"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "指数"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "索引"
           }
         }
       }
     },
     "Keyboard" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tastatur"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clavier"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キーボード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "키보드"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "键盘"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鍵盤"
           }
         }
       }
     },
     "Main Window" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hauptfenster"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fenêtre principale"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メインウインドウ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메인 윈도우"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "主窗口"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主視窗"
           }
         }
       }
     },
     "Maps" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Karten"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cartes"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マップ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지도"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "地图"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "地圖"
           }
         }
       }
     },
     "Math" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mathematik"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mathématiques"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数学"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수학"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "数学"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "數學"
           }
         }
       }
     },
     "Media" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medien"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Médias"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メディア"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "미디어"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "媒体"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "媒體"
           }
         }
       }
     },
     "Nature" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Natur"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nature"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自然"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자연"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自然"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "自然"
@@ -533,87 +2123,357 @@
     },
     "New Custom Symbol" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neues benutzerdefiniertes Symbol"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nouveau symbole personnalisé"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しいカスタムシンボル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "새 사용자 지정 심볼"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "新建自定义符号"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增自訂符號"
           }
         }
       }
     },
     "Objects & Tools" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Objekte & Werkzeuge"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Objets et outils"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オブジェクトとツール"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사물 및 도구"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "对象和工具"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物件與工具"
           }
         }
       }
     },
     "OK" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "확인"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "确认"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認"
           }
         }
       }
     },
     "Only SVG icons are supported" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Es werden nur SVG-Symbole unterstützt"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seules les icônes SVG sont prises en charge"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG アイコンのみ対応しています"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG 아이콘만 지원됩니다"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "只支持 SVG 图标"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "僅支援 SVG 圖示"
           }
         }
       }
     },
     "Open %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ öffnen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ を開く"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 열기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "打开 %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟 %@"
           }
         }
       }
     },
     "Please drag and drop your SVG icon files here" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte ziehen Sie Ihre SVG-Symbol-Dateien hierher"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veuillez glisser-déposer vos fichiers d’icônes SVG ici"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ここに SVG アイコンファイルをドラッグ＆ドロップしてください"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "여기로 SVG 아이콘 파일을 드래그 앤 드롭하세요"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "请将 SVG 图标文件拖拽到此处"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請將 SVG 圖示檔拖曳到此處"
           }
         }
       }
     },
     "Please paste the SVG icon string." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte fügen Sie die SVG-Icon-Zeichenkette ein."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veuillez coller la chaîne SVG de l’icône."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG アイコン文字列を貼り付けてください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG 아이콘 문자열을 붙여넣으세요."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "请粘贴 SVG 图标字符串。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請貼上 SVG 圖示字串。"
           }
         }
       }
     },
     "Privacy & Security" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datenschutz & Sicherheit"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confidentialité et sécurité"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プライバシーとセキュリティ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개인정보 보호 및 보안"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "隐私与安全"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隱私與安全"
           }
         }
       }
     },
     "Quit" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beenden"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quitter"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "終了"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "종료"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "退出"
@@ -623,190 +2483,760 @@
     },
     "Restore" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederherstellen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurer"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "復元"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "복원"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "恢复"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢復"
           }
         }
       }
     },
     "Restore Sponsor" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sponsoring wiederherstellen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurer le sponsoring"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スポンサー状態を復元"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "후원 복원"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "恢复捐赠"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢復贊助"
           }
         }
       }
     },
     "Search SVG" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG suchen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rechercher SVG"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG を検索"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG 검색"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "搜索 SVG"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "搜尋 SVG"
           }
         }
       }
     },
     "Search SVG Icon" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG-Symbol suchen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rechercher une icône SVG"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG アイコンを検索"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SVG 아이콘 검색"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "搜索 SVG 图标"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "搜尋 SVG 圖示"
           }
         }
       }
     },
     "Select folder" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ordner auswählen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner un dossier"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダを選択"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "폴더 선택"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择文件夹"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇資料夾"
           }
         }
       }
     },
     "Shapes" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Formen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Formes"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "図形"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "도형"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "形状"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "形狀"
           }
         }
       }
     },
     "Sponsor" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sponsern"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sponsor"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スポンサー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "후원"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "赞助"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "贊助"
           }
         }
       }
     },
     "Sponsor Now" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jetzt sponsern"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sponsoriser maintenant"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今すぐスポンサーになる"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지금 후원하기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "现在赞助"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "立即贊助"
           }
         }
       }
     },
     "Status bar preview icon" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorschausymbol in der Menüleiste"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icône d’aperçu dans la barre d’état"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ステータスバーのプレビューアイコン"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "상태 막대 미리보기 아이콘"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "状态栏预览图标"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "狀態列預覽圖示"
           }
         }
       }
     },
     "Symbol Icons 5.0" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbol Icons 5.0"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbol Icons 5.0"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbol Icons 5.0"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbol Icons 5.0"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "符号图标 5.0"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbol Icons 5.0"
           }
         }
       }
     },
     "Text Formatting" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Textformatierung"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mise en forme du texte"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "テキストフォーマット"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "텍스트 서식"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "文本格式"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文字格式"
           }
         }
       }
     },
     "Thank you for your sponsor" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vielen Dank für Ihre Unterstützung"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Merci pour votre soutien"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ご支援ありがとうございます"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "후원해 주셔서 감사합니다"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "感谢您的赞助"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "感謝您的贊助"
           }
         }
       }
     },
     "Time" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeit"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temps"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "時間"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시간"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "时间"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "時間"
           }
         }
       }
     },
     "Transportation" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transport"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transport"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交通"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "교통"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "运输"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交通運輸"
           }
         }
       }
     },
     "Users who have not donated can create 5 icons for free." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzer, die nicht gespendet haben, können 5 Symbole kostenlos erstellen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les utilisateurs n’ayant pas fait de don peuvent créer gratuitement 5 icônes."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "寄付していないユーザーは、5 個のアイコンを無料で作成できます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기부하지 않은 사용자는 아이콘 5개를 무료로 만들 수 있습니다."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有捐赠的用户可以免费创建 5 个图标"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未捐贈的使用者可免費建立 5 個圖示。"
           }
         }
       }
     },
     "Weather" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wetter"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Météo"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "天気"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "날씨"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "天气"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "天氣"
           }
         }
       }
     },
     "Your custom symbol at large scale, 21pt font and Heavy weight" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ihr benutzerdefiniertes Symbol in großer Größe, 21pt Schrift und fetter Stärke"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre symbole personnalisé à grande échelle, police 21 pt et graisse Heavy"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大サイズ、21pt フォント、Heavy ウェイトのカスタムシンボル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "큰 크기, 21pt 글꼴, Heavy 굵기의 사용자 지정 심볼"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "你的自定义符号在大尺寸、21 号字体和加粗重量下。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的自訂符號，使用大型尺寸、21pt 字體與 Heavy 字重"
           }
         }
       }
     },
     "Your custom symbol at Medium scale, Regular weight" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ihr benutzerdefiniertes Symbol in mittlerer Größe und regulärer Schriftstärke"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre symbole personnalisé à l’échelle moyenne, graisse Regular"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中サイズ、Regular ウェイトのカスタムシンボル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중간 크기, Regular 굵기의 사용자 지정 심볼"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "中等尺寸的自定义符号，正常粗细"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的自訂符號，使用中等尺寸與 Regular 字重"
           }
         }
       }
     },
     "Your sponsor is an encouragement to me." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ihre Unterstützung ist eine große Ermutigung für mich."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre soutien est un encouragement pour moi."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ご支援は私にとって大きな励みになります。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "여러분의 후원은 저에게 큰 힘이 됩니다."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "您的赞助是对我的一种鼓励。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的贊助是對我最大的鼓勵。"
           }
         }
       }
