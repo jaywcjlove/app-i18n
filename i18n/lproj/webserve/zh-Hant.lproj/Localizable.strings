@@ -1,0 +1,161 @@
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ 深色模式";
+
+"%@ Follow System" = "%@ 跟隨系統";
+
+"%@ Light Mode" = "%@ 淺色模式";
+
+"/index.html" = "/index.html";
+
+":" = ":";
+
+"A number between 1 - 65535. Port that the local web server is accessible on. Access the website at _`http://localhost:[PORT]`_ ." = "介於 1 到 65535 之間的數字。此連接埠可讓您存取本機 Web 伺服器。請透過 _`http://localhost:[PORT]`_ 存取網站。";
+
+"About" = "關於";
+
+"About %@" = "關於 %@";
+
+"Allow cross origin requests. Sets **Access-Control-Allow-Origin** header to **\\***, **Access-Control-Allow-Methods** to **GET, POST, PUT, DELETE**, and **Access-Control-Max-Age** to **120**. [Learn more about Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)." = "允許跨來源請求。將 **Access-Control-Allow-Origin** 標頭設為 **\\***、**Access-Control-Allow-Methods** 設為 **GET, POST, PUT, DELETE**，並將 **Access-Control-Max-Age** 設為 **120**。[進一步了解跨來源資源共用 (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)。";
+
+"Appearance" = "外觀";
+
+"Cancel" = "取消";
+
+"Confirm" = "確認";
+
+"Confirm deletion [Port number: %@] %@?" = "確認刪除 [連接埠號碼: %1$@] %2$@？";
+
+/* Dark */
+"Dark" = "深色";
+
+"Delete Server" = "刪除服務";
+
+"Directory does not exist: %@" = "目錄不存在：%@";
+
+"Do you want to enable auto-launch at startup?" = "您要在啟動時啟用自動啟動嗎？";
+
+"Drag a folder here to add a service" = "將資料夾拖曳到此處以新增服務";
+
+"Enable HTTP Basic authentication" = "啟用 HTTP Basic 驗證";
+
+"Enable auto-launch?" = "啟用自動啟動？";
+
+"Error" = "錯誤";
+
+"Exclude .htm and .html extensions from URLs. For example, `/example.html` will redirect to `/example`. If a file exists at the path without an extension, the HTML file will still be rendered instead." = "從 URL 中排除 .htm 和 .html 副檔名。例如，`/example.html` 會重新導向至 `/example`。如果該路徑下存在沒有副檔名的檔案，仍會改為顯示 HTML 檔案。";
+
+"Exclude .html extension" = "排除 .html 副檔名";
+
+"Failed to access" = "無法存取";
+
+"Failed to access security scoped resource." = "無法存取安全範圍資源。";
+
+"Folder Not Found" = "找不到資料夾";
+
+"Folder path" = "資料夾路徑";
+
+"Forward Host" = "轉送主機";
+
+"Forward Port" = "轉送連接埠";
+
+"General" = "一般";
+
+"Generate Cert" = "產生憑證";
+
+"Got it" = "知道了";
+
+"HTTP Basic auth Password" = "HTTP Basic 驗證密碼";
+
+"HTTP Basic auth Username" = "HTTP Basic 驗證使用者名稱";
+
+"If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." = "如果您是覺得 WebServe 對提升生產力很有幫助的個人使用者，請考慮贊助我，作為對我的一點鼓勵。就像偶爾請我喝杯咖啡一樣。";
+
+"Language" = "語言";
+
+"Launch at login" = "登入時啟動";
+
+/* Light */
+"Light" = "淺色";
+
+"Main Window" = "主視窗";
+
+"Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." = "讓伺服器透過安全連線（https）而不是 http 存取。由於使用相同的單一連接埠，因此無法同時使用 http 和 https。";
+
+"More App" = "更多應用";
+
+"No access permission" = "沒有存取權限";
+
+/* Default OK button */
+"OK" = "確認";
+
+"Open in Finder" = "在 Finder 中打開";
+
+"Please enter your password" = "請輸入您的密碼";
+
+"Please enter your username" = "請輸入您的使用者名稱";
+
+"Please select a folder" = "請選擇一個資料夾";
+
+"Port" = "連接埠";
+
+"Port %u is already in use." = "連接埠 %u 已被使用。";
+
+"Port Forward" = "連接埠轉送";
+
+"Port Unavailable" = "連接埠不可用";
+
+"Reauth" = "重新授權";
+
+"Rewrite to (for SPAs)" = "重寫到（用於 SPA）";
+
+"Running" = "執行中";
+
+"SSL/TLS certificate" = "SSL/TLS 憑證";
+
+"SSL/TLS private key" = "SSL/TLS 私密金鑰";
+
+"Save Changes" = "儲存變更";
+
+"Select Folder" = "選擇資料夾";
+
+"Select Folder..." = "選擇資料夾...";
+
+"Set CORS headers" = "設定 CORS 標頭";
+
+"Show Folder" = "顯示資料夾";
+
+"Show directory file list?" = "顯示目錄檔案清單？";
+
+"Single page rewrite (for SPAs)" = "單頁重寫（用於 SPA）";
+
+"Skip hidden files" = "略過隱藏檔案";
+
+"Sponsor" = "贊助";
+
+"Stopped" = "已停止";
+
+/* System */
+"System" = "系統";
+
+"Thank you for your support! 🙌" = "感謝您的支持！🙌";
+
+"The folder does not exist at the specified path: %@" = "在指定路徑中找不到該資料夾：%@";
+
+"Unable to start due to insufficient permissions. Please select a folder again and save to obtain read access to the folder." = "因權限不足而無法啟動。請重新選擇資料夾並儲存，以取得該資料夾的讀取權限。";
+
+"Use HTTPS" = "使用 HTTPS";
+
+"Version %@" = "版本 %@";
+
+"Warning" = "警告";
+
+"Web server URLs" = "Web 伺服器 URL";
+
+"With your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "有了您慷慨的資助，我更有信心讓 WebServe 保持良好狀態並持續積極維護。";
+
+"Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "在您慷慨的資助下，我更有信心讓 WebServe 保持良好狀態並持續積極維護。";
+
+"[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"⚠️" = "⚠️";

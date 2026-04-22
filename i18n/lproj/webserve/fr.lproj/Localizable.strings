@@ -1,0 +1,161 @@
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ Mode sombre";
+
+"%@ Follow System" = "%@ Suivre le système";
+
+"%@ Light Mode" = "%@ Mode clair";
+
+"/index.html" = "/index.html";
+
+":" = ":";
+
+"A number between 1 - 65535. Port that the local web server is accessible on. Access the website at _`http://localhost:[PORT]`_ ." = "Un nombre compris entre 1 et 65535. Port sur lequel le serveur Web local est accessible. Accédez au site via _`http://localhost:[PORT]`_.";
+
+"About" = "À propos";
+
+"About %@" = "À propos de %@";
+
+"Allow cross origin requests. Sets **Access-Control-Allow-Origin** header to **\\***, **Access-Control-Allow-Methods** to **GET, POST, PUT, DELETE**, and **Access-Control-Max-Age** to **120**. [Learn more about Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)." = "Autoriser les requêtes inter-origines. Définit l’en-tête **Access-Control-Allow-Origin** sur **\\***, **Access-Control-Allow-Methods** sur **GET, POST, PUT, DELETE** et **Access-Control-Max-Age** sur **120**. [En savoir plus sur le partage de ressources entre origines (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS).";
+
+"Appearance" = "Apparence";
+
+"Cancel" = "Annuler";
+
+"Confirm" = "Confirmer";
+
+"Confirm deletion [Port number: %@] %@?" = "Confirmer la suppression de [numéro de port : %1$@] %2$@ ?";
+
+/* Dark */
+"Dark" = "Sombre";
+
+"Delete Server" = "Supprimer le serveur";
+
+"Directory does not exist: %@" = "Le répertoire n’existe pas : %@";
+
+"Do you want to enable auto-launch at startup?" = "Voulez-vous activer le lancement automatique au démarrage ?";
+
+"Drag a folder here to add a service" = "Faites glisser un dossier ici pour ajouter un service";
+
+"Enable HTTP Basic authentication" = "Activer l’authentification HTTP Basic";
+
+"Enable auto-launch?" = "Activer le lancement automatique ?";
+
+"Error" = "Erreur";
+
+"Exclude .htm and .html extensions from URLs. For example, `/example.html` will redirect to `/example`. If a file exists at the path without an extension, the HTML file will still be rendered instead." = "Exclut les extensions .htm et .html des URL. Par exemple, `/example.html` sera redirigé vers `/example`. Si un fichier existe déjà à ce chemin sans extension, le fichier HTML sera tout de même affiché à la place.";
+
+"Exclude .html extension" = "Exclure l’extension .html";
+
+"Failed to access" = "Échec de l’accès";
+
+"Failed to access security scoped resource." = "Impossible d’accéder à la ressource à portée de sécurité.";
+
+"Folder Not Found" = "Dossier introuvable";
+
+"Folder path" = "Chemin du dossier";
+
+"Forward Host" = "Hôte de transfert";
+
+"Forward Port" = "Port de transfert";
+
+"General" = "Général";
+
+"Generate Cert" = "Générer le certificat";
+
+"Got it" = "Compris";
+
+"HTTP Basic auth Password" = "Mot de passe HTTP Basic";
+
+"HTTP Basic auth Username" = "Nom d’utilisateur HTTP Basic";
+
+"If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." = "Si vous êtes un utilisateur individuel et que WebServe vous aide dans votre productivité, envisagez de me soutenir en signe d’appréciation. C’est comme m’offrir un café de temps en temps.";
+
+"Language" = "Langue";
+
+"Launch at login" = "Lancer à l’ouverture de session";
+
+/* Light */
+"Light" = "Clair";
+
+"Main Window" = "Fenêtre principale";
+
+"Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." = "Rend le serveur accessible via une connexion sécurisée (https) au lieu de http. Utilise le même port unique, vous ne pouvez donc pas utiliser http et https en même temps.";
+
+"More App" = "Plus d’apps";
+
+"No access permission" = "Aucune autorisation d’accès";
+
+/* Default OK button */
+"OK" = "OK";
+
+"Open in Finder" = "Ouvrir dans le Finder";
+
+"Please enter your password" = "Veuillez saisir votre mot de passe";
+
+"Please enter your username" = "Veuillez saisir votre nom d’utilisateur";
+
+"Please select a folder" = "Veuillez sélectionner un dossier";
+
+"Port" = "Port";
+
+"Port %u is already in use." = "Le port %u est déjà utilisé.";
+
+"Port Forward" = "Transfert de port";
+
+"Port Unavailable" = "Port indisponible";
+
+"Reauth" = "Réautoriser";
+
+"Rewrite to (for SPAs)" = "Réécrire vers (pour les SPA)";
+
+"Running" = "En cours d’exécution";
+
+"SSL/TLS certificate" = "Certificat SSL/TLS";
+
+"SSL/TLS private key" = "Clé privée SSL/TLS";
+
+"Save Changes" = "Enregistrer les modifications";
+
+"Select Folder" = "Sélectionner un dossier";
+
+"Select Folder..." = "Sélectionner un dossier...";
+
+"Set CORS headers" = "Définir les en-têtes CORS";
+
+"Show Folder" = "Afficher le dossier";
+
+"Show directory file list?" = "Afficher la liste des fichiers du répertoire ?";
+
+"Single page rewrite (for SPAs)" = "Réécriture de page unique (pour les SPA)";
+
+"Skip hidden files" = "Ignorer les fichiers cachés";
+
+"Sponsor" = "Sponsoriser";
+
+"Stopped" = "Arrêté";
+
+/* System */
+"System" = "Système";
+
+"Thank you for your support! 🙌" = "Merci pour votre soutien ! 🙌";
+
+"The folder does not exist at the specified path: %@" = "Le dossier n’existe pas au chemin spécifié : %@";
+
+"Unable to start due to insufficient permissions. Please select a folder again and save to obtain read access to the folder." = "Impossible de démarrer en raison d’autorisations insuffisantes. Veuillez sélectionner à nouveau un dossier et enregistrer pour obtenir un accès en lecture à ce dossier.";
+
+"Use HTTPS" = "Utiliser HTTPS";
+
+"Version %@" = "Version %@";
+
+"Warning" = "Avertissement";
+
+"Web server URLs" = "URL du serveur Web";
+
+"With your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "Grâce à votre généreux soutien financier, j’ai toute confiance dans le fait de garder WebServe en bonne santé et de le maintenir activement.";
+
+"Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "Avec votre généreux soutien financier, j’ai toute confiance dans le fait de garder WebServe en bonne santé et de le maintenir activement.";
+
+"[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"⚠️" = "⚠️";

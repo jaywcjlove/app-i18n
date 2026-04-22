@@ -4,13 +4,43 @@
     "CFBundleDisplayName" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web Serve"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Web Serve"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web Serve"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web Serve"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web Serve"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web Serve"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Web Serve"
@@ -21,13 +51,43 @@
     "CFBundleName" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web Serve"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Web Serve"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web Serve"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web Serve"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web Serve"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web Serve"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Web Serve"
@@ -39,10 +99,34 @@
       "comment" : "Privacy - Documents Folder Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wir benötigen Zugriff auf Ihren Dokumente-Ordner, um Lesezeichen zu speichern."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "We need to access your Documents directory to save bookmarks."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nous avons besoin d’accéder à votre dossier Documents pour enregistrer les signets."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ブックマークを保存するために、書類フォルダへアクセスする必要があります。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "북마크를 저장하려면 문서 폴더에 접근해야 합니다."
           }
         },
         "zh-Hans" : {
@@ -50,16 +134,46 @@
             "state" : "translated",
             "value" : "我们需要访问您的文档目录来保存书签。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們需要存取您的「文件」資料夾以儲存書籤。"
+          }
         }
       }
     },
     "NSFileAccessUsageDescription" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wir benötigen Zugriff auf Ihre Dateien, um Ihre Dokumente zu laden und zu speichern."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "We need access to your files to load and save your documents."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nous avons besoin d’accéder à vos fichiers pour charger et enregistrer vos documents."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "書類を読み込み、保存するために、ファイルへアクセスする必要があります。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문서를 불러오고 저장하려면 파일에 접근해야 합니다."
           }
         },
         "zh-Hans" : {
@@ -67,22 +181,58 @@
             "state" : "translated",
             "value" : "我们需要访问您的文件，以加载和保存您的文件。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們需要存取您的檔案，以載入並儲存您的文件。"
+          }
         }
       }
     },
     "NSFileSystemUsageDescription" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wir benötigen Zugriff auf Ihr Dateisystem, um Dokumente zu speichern und zu verwalten."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "We need access to your file system to save and manage documents."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nous avons besoin d’accéder à votre système de fichiers pour enregistrer et gérer les documents."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "書類を保存して管理するために、ファイルシステムへアクセスする必要があります。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문서를 저장하고 관리하려면 파일 시스템에 접근해야 합니다."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "我们需要访问您的文件系统来保存和管理文档。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我們需要存取您的檔案系統，以儲存並管理文件。"
           }
         }
       }
@@ -91,16 +241,46 @@
       "comment" : "Copyright (human-readable)",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2024 王楚江. Alle Rechte vorbehalten."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "© 2024 WangChujiang. All rights reserved."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2024 王楚江. Tous droits réservés."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2024 王楚江 All rights reserved."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2024 王楚江. All rights reserved."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "© 2024 王楚江 版权所有"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2024 王楚江 版權所有"
           }
         }
       }

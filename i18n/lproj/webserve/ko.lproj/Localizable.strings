@@ -1,0 +1,161 @@
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ 다크 모드";
+
+"%@ Follow System" = "%@ 시스템 설정 따르기";
+
+"%@ Light Mode" = "%@ 라이트 모드";
+
+"/index.html" = "/index.html";
+
+":" = ":";
+
+"A number between 1 - 65535. Port that the local web server is accessible on. Access the website at _`http://localhost:[PORT]`_ ." = "1에서 65535 사이의 숫자입니다. 로컬 웹 서버에 접근할 수 있는 포트입니다. _`http://localhost:[PORT]`_ 에서 웹사이트에 접속할 수 있습니다.";
+
+"About" = "정보";
+
+"About %@" = "%@ 정보";
+
+"Allow cross origin requests. Sets **Access-Control-Allow-Origin** header to **\\***, **Access-Control-Allow-Methods** to **GET, POST, PUT, DELETE**, and **Access-Control-Max-Age** to **120**. [Learn more about Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)." = "교차 출처 요청을 허용합니다. **Access-Control-Allow-Origin** 헤더를 **\\*** 로, **Access-Control-Allow-Methods** 를 **GET, POST, PUT, DELETE** 로, **Access-Control-Max-Age** 를 **120** 으로 설정합니다. [Cross-Origin Resource Sharing에 대해 자세히 알아보기](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS).";
+
+"Appearance" = "모양";
+
+"Cancel" = "취소";
+
+"Confirm" = "확인";
+
+"Confirm deletion [Port number: %@] %@?" = "[포트 번호: %1$@] %2$@ 를 삭제하시겠습니까?";
+
+/* Dark */
+"Dark" = "다크";
+
+"Delete Server" = "서버 삭제";
+
+"Directory does not exist: %@" = "디렉터리가 존재하지 않습니다: %@";
+
+"Do you want to enable auto-launch at startup?" = "시작 시 자동 실행을 활성화하시겠습니까?";
+
+"Drag a folder here to add a service" = "서비스를 추가하려면 폴더를 여기에 드래그하세요";
+
+"Enable HTTP Basic authentication" = "HTTP Basic 인증 활성화";
+
+"Enable auto-launch?" = "자동 실행을 활성화하시겠습니까?";
+
+"Error" = "오류";
+
+"Exclude .htm and .html extensions from URLs. For example, `/example.html` will redirect to `/example`. If a file exists at the path without an extension, the HTML file will still be rendered instead." = "URL에서 .htm 및 .html 확장자를 제외합니다. 예를 들어 `/example.html` 은 `/example` 으로 리디렉션됩니다. 확장자가 없는 파일이 해당 경로에 존재하는 경우에는 대신 HTML 파일이 계속 표시됩니다.";
+
+"Exclude .html extension" = ".html 확장자 제외";
+
+"Failed to access" = "접근에 실패했습니다";
+
+"Failed to access security scoped resource." = "보안 범위 리소스에 접근하지 못했습니다.";
+
+"Folder Not Found" = "폴더를 찾을 수 없음";
+
+"Folder path" = "폴더 경로";
+
+"Forward Host" = "전달 호스트";
+
+"Forward Port" = "전달 포트";
+
+"General" = "일반";
+
+"Generate Cert" = "인증서 생성";
+
+"Got it" = "알겠습니다";
+
+"HTTP Basic auth Password" = "HTTP Basic 인증 비밀번호";
+
+"HTTP Basic auth Username" = "HTTP Basic 인증 사용자 이름";
+
+"If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." = "WebServe가 생산성 향상에 도움이 되었다고 느끼는 개인 사용자라면, 감사의 표시로 후원을 고려해 주세요. 가끔 커피 한 잔을 사주는 것과 같습니다.";
+
+"Language" = "언어";
+
+"Launch at login" = "로그인 시 실행";
+
+/* Light */
+"Light" = "라이트";
+
+"Main Window" = "메인 창";
+
+"Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." = "서버를 http 대신 보안 연결(https)로 접근할 수 있게 합니다. 동일한 단일 포트를 사용하므로 http와 https를 동시에 사용할 수 없습니다.";
+
+"More App" = "더 많은 앱";
+
+"No access permission" = "접근 권한 없음";
+
+/* Default OK button */
+"OK" = "확인";
+
+"Open in Finder" = "Finder에서 열기";
+
+"Please enter your password" = "비밀번호를 입력하세요";
+
+"Please enter your username" = "사용자 이름을 입력하세요";
+
+"Please select a folder" = "폴더를 선택하세요";
+
+"Port" = "포트";
+
+"Port %u is already in use." = "포트 %u 는 이미 사용 중입니다.";
+
+"Port Forward" = "포트 포워딩";
+
+"Port Unavailable" = "사용할 수 없는 포트";
+
+"Reauth" = "다시 인증";
+
+"Rewrite to (for SPAs)" = "다음으로 재작성 (SPA용)";
+
+"Running" = "실행 중";
+
+"SSL/TLS certificate" = "SSL/TLS 인증서";
+
+"SSL/TLS private key" = "SSL/TLS 개인 키";
+
+"Save Changes" = "변경 사항 저장";
+
+"Select Folder" = "폴더 선택";
+
+"Select Folder..." = "폴더 선택...";
+
+"Set CORS headers" = "CORS 헤더 설정";
+
+"Show Folder" = "폴더 보기";
+
+"Show directory file list?" = "디렉터리 파일 목록을 표시하시겠습니까?";
+
+"Single page rewrite (for SPAs)" = "단일 페이지 재작성 (SPA용)";
+
+"Skip hidden files" = "숨김 파일 건너뛰기";
+
+"Sponsor" = "후원";
+
+"Stopped" = "중지됨";
+
+/* System */
+"System" = "시스템";
+
+"Thank you for your support! 🙌" = "지원해 주셔서 감사합니다! 🙌";
+
+"The folder does not exist at the specified path: %@" = "지정된 경로에 폴더가 존재하지 않습니다: %@";
+
+"Unable to start due to insufficient permissions. Please select a folder again and save to obtain read access to the folder." = "권한이 부족하여 시작할 수 없습니다. 폴더를 다시 선택하고 저장하여 읽기 권한을 획득하세요.";
+
+"Use HTTPS" = "HTTPS 사용";
+
+"Version %@" = "버전 %@";
+
+"Warning" = "경고";
+
+"Web server URLs" = "웹 서버 URL";
+
+"With your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "여러분의 아낌없는 재정적 지원 덕분에 WebServe를 건강하게 유지하고 적극적으로 관리해 나갈 수 있다는 큰 자신감을 얻고 있습니다.";
+
+"Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "여러분의 아낌없는 재정적 지원으로 WebServe를 건강하게 유지하고 적극적으로 관리해 나갈 수 있다는 큰 자신감을 얻고 있습니다.";
+
+"[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"⚠️" = "⚠️";

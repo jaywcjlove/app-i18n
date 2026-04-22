@@ -1,0 +1,161 @@
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ ダークモード";
+
+"%@ Follow System" = "%@ システムに従う";
+
+"%@ Light Mode" = "%@ ライトモード";
+
+"/index.html" = "/index.html";
+
+":" = ":";
+
+"A number between 1 - 65535. Port that the local web server is accessible on. Access the website at _`http://localhost:[PORT]`_ ." = "1 から 65535 までの数値です。ローカル Web サーバーが利用するポートです。 _`http://localhost:[PORT]`_ でアクセスできます。";
+
+"About" = "このアプリについて";
+
+"About %@" = "%@ について";
+
+"Allow cross origin requests. Sets **Access-Control-Allow-Origin** header to **\\***, **Access-Control-Allow-Methods** to **GET, POST, PUT, DELETE**, and **Access-Control-Max-Age** to **120**. [Learn more about Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)." = "クロスオリジンリクエストを許可します。 **Access-Control-Allow-Origin** ヘッダーを **\\*** に、**Access-Control-Allow-Methods** を **GET, POST, PUT, DELETE** に、**Access-Control-Max-Age** を **120** に設定します。 [Cross-Origin Resource Sharing の詳細を見る](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)。";
+
+"Appearance" = "外観";
+
+"Cancel" = "キャンセル";
+
+"Confirm" = "確認";
+
+"Confirm deletion [Port number: %@] %@?" = "[ポート番号: %1$@] %2$@ を削除してもよろしいですか？";
+
+/* Dark */
+"Dark" = "ダーク";
+
+"Delete Server" = "サーバーを削除";
+
+"Directory does not exist: %@" = "ディレクトリが存在しません: %@";
+
+"Do you want to enable auto-launch at startup?" = "起動時に自動起動を有効にしますか？";
+
+"Drag a folder here to add a service" = "ここにフォルダをドラッグしてサービスを追加";
+
+"Enable HTTP Basic authentication" = "HTTP Basic 認証を有効にする";
+
+"Enable auto-launch?" = "自動起動を有効にしますか？";
+
+"Error" = "エラー";
+
+"Exclude .htm and .html extensions from URLs. For example, `/example.html` will redirect to `/example`. If a file exists at the path without an extension, the HTML file will still be rendered instead." = "URL から .htm と .html の拡張子を除外します。たとえば `/example.html` は `/example` にリダイレクトされます。拡張子なしの同名ファイルが存在する場合は、その HTML ファイルが引き続き表示されます。";
+
+"Exclude .html extension" = ".html 拡張子を除外";
+
+"Failed to access" = "アクセスに失敗しました";
+
+"Failed to access security scoped resource." = "セキュリティスコープ付きリソースへのアクセスに失敗しました。";
+
+"Folder Not Found" = "フォルダが見つかりません";
+
+"Folder path" = "フォルダパス";
+
+"Forward Host" = "転送ホスト";
+
+"Forward Port" = "転送ポート";
+
+"General" = "一般";
+
+"Generate Cert" = "証明書を生成";
+
+"Got it" = "了解";
+
+"HTTP Basic auth Password" = "HTTP Basic 認証パスワード";
+
+"HTTP Basic auth Username" = "HTTP Basic 認証ユーザー名";
+
+"If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." = "WebServe が生産性向上に役立っていると感じる個人ユーザーの方は、感謝の気持ちとしてスポンサーをご検討ください。ときどきコーヒーをごちそうしていただくようなものです。";
+
+"Language" = "言語";
+
+"Launch at login" = "ログイン時に起動";
+
+/* Light */
+"Light" = "ライト";
+
+"Main Window" = "メインウインドウ";
+
+"Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." = "サーバーを http ではなく安全な接続 (https) で利用できるようにします。同じ単一ポートを使用するため、http と https を同時に使うことはできません。";
+
+"More App" = "その他のアプリ";
+
+"No access permission" = "アクセス権限がありません";
+
+/* Default OK button */
+"OK" = "OK";
+
+"Open in Finder" = "Finder で開く";
+
+"Please enter your password" = "パスワードを入力してください";
+
+"Please enter your username" = "ユーザー名を入力してください";
+
+"Please select a folder" = "フォルダを選択してください";
+
+"Port" = "ポート";
+
+"Port %u is already in use." = "ポート %u はすでに使用されています。";
+
+"Port Forward" = "ポート転送";
+
+"Port Unavailable" = "ポートが使用できません";
+
+"Reauth" = "再認証";
+
+"Rewrite to (for SPAs)" = "書き換え先 (SPA 用)";
+
+"Running" = "実行中";
+
+"SSL/TLS certificate" = "SSL/TLS 証明書";
+
+"SSL/TLS private key" = "SSL/TLS 秘密鍵";
+
+"Save Changes" = "変更を保存";
+
+"Select Folder" = "フォルダを選択";
+
+"Select Folder..." = "フォルダを選択...";
+
+"Set CORS headers" = "CORS ヘッダーを設定";
+
+"Show Folder" = "フォルダを表示";
+
+"Show directory file list?" = "ディレクトリのファイル一覧を表示しますか？";
+
+"Single page rewrite (for SPAs)" = "単一ページ書き換え (SPA 用)";
+
+"Skip hidden files" = "隠しファイルをスキップ";
+
+"Sponsor" = "スポンサー";
+
+"Stopped" = "停止中";
+
+/* System */
+"System" = "システム";
+
+"Thank you for your support! 🙌" = "ご支援ありがとうございます！🙌";
+
+"The folder does not exist at the specified path: %@" = "指定されたパスにフォルダが存在しません: %@";
+
+"Unable to start due to insufficient permissions. Please select a folder again and save to obtain read access to the folder." = "権限不足のため起動できません。フォルダを再度選択して保存し、読み取り権限を取得してください。";
+
+"Use HTTPS" = "HTTPS を使用";
+
+"Version %@" = "バージョン %@";
+
+"Warning" = "警告";
+
+"Web server URLs" = "Web サーバー URL";
+
+"With your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "皆さまの惜しみないご支援のおかげで、WebServe を健全に保ち、積極的にメンテナンスし続ける自信があります。";
+
+"Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "皆さまの惜しみないご支援により、WebServe を健全に保ち、積極的にメンテナンスし続ける自信があります。";
+
+"[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"⚠️" = "⚠️";
