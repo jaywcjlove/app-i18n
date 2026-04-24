@@ -75,6 +75,8 @@
 
 "Install Root CA failed" = "ルート CA のインストールに失敗しました";
 
+"Keychain Access.app was not found." = "Keychain Access.app が見つかりませんでした。";
+
 "Language" = "言語";
 
 "Launch at login" = "ログイン時に起動";
@@ -98,6 +100,8 @@
 "Open Root CA failed" = "ルート CA を開けませんでした";
 
 "Open Root CA in Keychain Access" = "キーチェーンアクセスでルート CA を開く";
+
+"Opening the Root CA in Keychain Access failed with exit code %d." = "キーチェーンアクセスでルート CA を開く処理は、終了コード %d で失敗しました。";
 
 "Open in Finder" = "Finder で開く";
 
@@ -149,6 +153,8 @@
 
 /* System */
 "System" = "システム";
+
+"security add-trusted-cert failed with exit code %d." = "security add-trusted-cert は終了コード %d で失敗しました。";
 
 "Thank you for your support! 🙌" = "ご支援ありがとうございます！🙌";
 

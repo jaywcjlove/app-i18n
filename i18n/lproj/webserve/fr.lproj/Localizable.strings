@@ -75,6 +75,8 @@
 
 "Install Root CA failed" = "Échec de l'installation de l'autorité racine";
 
+"Keychain Access.app was not found." = "Keychain Access.app est introuvable.";
+
 "Language" = "Langue";
 
 "Launch at login" = "Lancer à l’ouverture de session";
@@ -98,6 +100,8 @@
 "Open Root CA failed" = "Impossible d'ouvrir l'autorité racine";
 
 "Open Root CA in Keychain Access" = "Ouvrir l'autorité racine dans Accès au trousseau";
+
+"Opening the Root CA in Keychain Access failed with exit code %d." = "L'ouverture de l'autorité racine dans Accès au trousseau a échoué avec le code de sortie %d.";
 
 "Open in Finder" = "Ouvrir dans le Finder";
 
@@ -149,6 +153,8 @@
 
 /* System */
 "System" = "Système";
+
+"security add-trusted-cert failed with exit code %d." = "\"security add-trusted-cert\" a échoué avec le code de sortie %d.";
 
 "Thank you for your support! 🙌" = "Merci pour votre soutien ! 🙌";
 

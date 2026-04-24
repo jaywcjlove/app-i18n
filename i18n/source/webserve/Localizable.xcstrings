@@ -1648,6 +1648,46 @@
         }
       }
     },
+    "Keychain Access.app was not found." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keychain Access.app wurde nicht gefunden."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keychain Access.app est introuvable."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keychain Access.app が見つかりませんでした。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keychain Access.app을(를) 찾을 수 없습니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未找到 Keychain Access.app。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "找不到 Keychain Access.app。"
+          }
+        }
+      }
+    },
     "Language" : {
       "localizations" : {
         "de" : {
@@ -2130,6 +2170,46 @@
         }
       }
     },
+    "Opening the Root CA in Keychain Access failed with exit code %d." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das Öffnen der Root-CA in der Schlüsselbundverwaltung ist mit Exit-Code %d fehlgeschlagen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'ouverture de l'autorité racine dans Accès au trousseau a échoué avec le code de sortie %d."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キーチェーンアクセスでルート CA を開く処理は、終了コード %d で失敗しました。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "키체인 접근에서 루트 CA를 여는 데 실패했습니다. 종료 코드: %d."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在“钥匙串访问”中打开根 CA 失败，退出代码为 %d。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在「鑰匙圈存取」中開啟根 CA 失敗，結束代碼為 %d。"
+          }
+        }
+      }
+    },
     "Please enter your password" : {
       "localizations" : {
         "de" : {
@@ -2606,6 +2686,46 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "儲存變更"
+          }
+        }
+      }
+    },
+    "security add-trusted-cert failed with exit code %d." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"security add-trusted-cert\" ist mit Exit-Code %d fehlgeschlagen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"security add-trusted-cert\" a échoué avec le code de sortie %d."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "security add-trusted-cert は終了コード %d で失敗しました。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "security add-trusted-cert가 종료 코드 %d로 실패했습니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "security add-trusted-cert 失败，退出代码为 %d。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "security add-trusted-cert 失敗，結束代碼為 %d。"
           }
         }
       }

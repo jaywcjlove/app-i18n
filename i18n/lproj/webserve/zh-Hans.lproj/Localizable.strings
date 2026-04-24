@@ -75,6 +75,8 @@
 
 "Install Root CA failed" = "安装根 CA 失败";
 
+"Keychain Access.app was not found." = "未找到 Keychain Access.app。";
+
 "Language" = "语言";
 
 "Launch at login" = "开机时启动";
@@ -98,6 +100,8 @@
 "Open Root CA failed" = "打开根 CA 失败";
 
 "Open Root CA in Keychain Access" = "在“钥匙串访问”中打开根 CA";
+
+"Opening the Root CA in Keychain Access failed with exit code %d." = "在“钥匙串访问”中打开根 CA 失败，退出代码为 %d。";
 
 "Open in Finder" = "在访达中打开";
 
@@ -149,6 +153,8 @@
 
 /* System */
 "System" = "系统";
+
+"security add-trusted-cert failed with exit code %d." = "security add-trusted-cert 失败，退出代码为 %d。";
 
 "Thank you for your support! 🙌" = "感谢您的支持！🙌";
 
