@@ -1568,6 +1568,86 @@
         }
       }
     },
+    "Install Root CA" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root-CA installieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installer l'autorité racine"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ルート CA をインストール"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "루트 CA 설치"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装根 CA"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安裝根 CA"
+          }
+        }
+      }
+    },
+    "Install Root CA failed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation der Root-CA fehlgeschlagen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de l'installation de l'autorité racine"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ルート CA のインストールに失敗しました"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "루트 CA 설치 실패"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装根 CA 失败"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安裝根 CA 失敗"
+          }
+        }
+      }
+    },
     "Language" : {
       "localizations" : {
         "de" : {
@@ -1769,6 +1849,46 @@
         }
       }
     },
+    "Manual trust required" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manuelles Vertrauen erforderlich"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confiance manuelle requise"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "手動で信頼設定が必要です"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수동 신뢰 설정 필요"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要手动信任"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要手動信任"
+          }
+        }
+      }
+    },
     "More App" : {
       "localizations" : {
         "de" : {
@@ -1926,6 +2046,86 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在 Finder 中打開"
+          }
+        }
+      }
+    },
+    "Open Root CA failed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root-CA konnte nicht geöffnet werden"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d'ouvrir l'autorité racine"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ルート CA を開けませんでした"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "루트 CA 열기 실패"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开根 CA 失败"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟根 CA 失敗"
+          }
+        }
+      }
+    },
+    "Open Root CA in Keychain Access" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root-CA in der Schlüsselbundverwaltung öffnen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir l'autorité racine dans Accès au trousseau"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キーチェーンアクセスでルート CA を開く"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "키체인 접근에서 루트 CA 열기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在“钥匙串访问”中打开根 CA"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在「鑰匙圈存取」中開啟根 CA"
           }
         }
       }
@@ -2286,6 +2486,46 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重寫到（用於 SPA）"
+          }
+        }
+      }
+    },
+    "Root CA installed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root-CA installiert"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autorité racine installée"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ルート CA をインストールしました"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "루트 CA 설치됨"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根 CA 已安装"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根 CA 已安裝"
           }
         }
       }
@@ -2927,6 +3167,46 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在指定路徑中找不到該資料夾：%@"
+          }
+        }
+      }
+    },
+    "The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Root-CA wurde in der Schlüsselbundverwaltung geöffnet. Stellen Sie sie für SSL auf \"Immer vertrauen\" und starten Sie dann Ihren Browser neu."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'autorité racine a été ouverte dans Accès au trousseau. Réglez-la sur \"Toujours approuver\" pour SSL, puis redémarrez votre navigateur."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ルート CA をキーチェーンアクセスで開きました。SSL で「常に信頼」に設定してから、ブラウザを再起動してください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "루트 CA가 키체인 접근에서 열렸습니다. SSL에 대해 '항상 신뢰'로 설정한 후 브라우저를 다시 시작하세요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已在“钥匙串访问”中打开根 CA。请将其 SSL 信任设置为“始终信任”，然后重启浏览器。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已在「鑰匙圈存取」中開啟根 CA。請將其 SSL 信任設為「永遠信任」，然後重新啟動瀏覽器。"
           }
         }
       }

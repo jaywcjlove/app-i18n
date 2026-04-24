@@ -71,6 +71,10 @@
 
 "If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." = "If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while.";
 
+"Install Root CA" = "Install Root CA";
+
+"Install Root CA failed" = "Install Root CA failed";
+
 "Language" = "Language";
 
 "Launch at login" = "Launch at login";
@@ -82,12 +86,18 @@
 
 "Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." = "Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time.";
 
+"Manual trust required" = "Manual trust required";
+
 "More App" = "More App";
 
 "No access permission" = "No access permission";
 
 /* Default OK button */
 "OK" = "OK";
+
+"Open Root CA failed" = "Open Root CA failed";
+
+"Open Root CA in Keychain Access" = "Open Root CA in Keychain Access";
 
 "Open in Finder" = "Open in Finder";
 
@@ -108,6 +118,8 @@
 "Reauth" = "Reauth";
 
 "Rewrite to (for SPAs)" = "Rewrite to (for SPAs)";
+
+"Root CA installed" = "Root CA installed";
 
 "Running" = "Running";
 
@@ -139,6 +151,8 @@
 "System" = "System";
 
 "Thank you for your support! 🙌" = "Thank you for your support! 🙌";
+
+"The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser." = "The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser.";
 
 "The folder does not exist at the specified path: %@" = "The folder does not exist at the specified path: %@";
 

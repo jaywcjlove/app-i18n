@@ -71,6 +71,10 @@
 
 "If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." = "Si vous êtes un utilisateur individuel et que WebServe vous aide dans votre productivité, envisagez de me soutenir en signe d’appréciation. C’est comme m’offrir un café de temps en temps.";
 
+"Install Root CA" = "Installer l'autorité racine";
+
+"Install Root CA failed" = "Échec de l'installation de l'autorité racine";
+
 "Language" = "Langue";
 
 "Launch at login" = "Lancer à l’ouverture de session";
@@ -82,12 +86,18 @@
 
 "Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." = "Rend le serveur accessible via une connexion sécurisée (https) au lieu de http. Utilise le même port unique, vous ne pouvez donc pas utiliser http et https en même temps.";
 
+"Manual trust required" = "Confiance manuelle requise";
+
 "More App" = "Plus d’apps";
 
 "No access permission" = "Aucune autorisation d’accès";
 
 /* Default OK button */
 "OK" = "OK";
+
+"Open Root CA failed" = "Impossible d'ouvrir l'autorité racine";
+
+"Open Root CA in Keychain Access" = "Ouvrir l'autorité racine dans Accès au trousseau";
 
 "Open in Finder" = "Ouvrir dans le Finder";
 
@@ -108,6 +118,8 @@
 "Reauth" = "Réautoriser";
 
 "Rewrite to (for SPAs)" = "Réécrire vers (pour les SPA)";
+
+"Root CA installed" = "Autorité racine installée";
 
 "Running" = "En cours d’exécution";
 
@@ -139,6 +151,8 @@
 "System" = "Système";
 
 "Thank you for your support! 🙌" = "Merci pour votre soutien ! 🙌";
+
+"The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser." = "L'autorité racine a été ouverte dans Accès au trousseau. Réglez-la sur \"Toujours approuver\" pour SSL, puis redémarrez votre navigateur.";
 
 "The folder does not exist at the specified path: %@" = "Le dossier n’existe pas au chemin spécifié : %@";
 

@@ -71,6 +71,10 @@
 
 "If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." = "如果您是覺得 WebServe 對提升生產力很有幫助的個人使用者，請考慮贊助我，作為對我的一點鼓勵。就像偶爾請我喝杯咖啡一樣。";
 
+"Install Root CA" = "安裝根 CA";
+
+"Install Root CA failed" = "安裝根 CA 失敗";
+
 "Language" = "語言";
 
 "Launch at login" = "登入時啟動";
@@ -82,12 +86,18 @@
 
 "Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." = "讓伺服器透過安全連線（https）而不是 http 存取。由於使用相同的單一連接埠，因此無法同時使用 http 和 https。";
 
+"Manual trust required" = "需要手動信任";
+
 "More App" = "更多應用";
 
 "No access permission" = "沒有存取權限";
 
 /* Default OK button */
 "OK" = "確認";
+
+"Open Root CA failed" = "開啟根 CA 失敗";
+
+"Open Root CA in Keychain Access" = "在「鑰匙圈存取」中開啟根 CA";
 
 "Open in Finder" = "在 Finder 中打開";
 
@@ -108,6 +118,8 @@
 "Reauth" = "重新授權";
 
 "Rewrite to (for SPAs)" = "重寫到（用於 SPA）";
+
+"Root CA installed" = "根 CA 已安裝";
 
 "Running" = "執行中";
 
@@ -139,6 +151,8 @@
 "System" = "系統";
 
 "Thank you for your support! 🙌" = "感謝您的支持！🙌";
+
+"The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser." = "已在「鑰匙圈存取」中開啟根 CA。請將其 SSL 信任設為「永遠信任」，然後重新啟動瀏覽器。";
 
 "The folder does not exist at the specified path: %@" = "在指定路徑中找不到該資料夾：%@";
 

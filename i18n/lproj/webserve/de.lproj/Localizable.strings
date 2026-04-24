@@ -71,6 +71,10 @@
 
 "If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." = "Wenn Sie als Einzelanwender WebServe hilfreich für Ihre Produktivität finden, ziehen Sie bitte in Betracht, mich als Zeichen Ihrer Wertschätzung zu unterstützen. Es ist, als würden Sie mir gelegentlich einen Kaffee spendieren.";
 
+"Install Root CA" = "Root-CA installieren";
+
+"Install Root CA failed" = "Installation der Root-CA fehlgeschlagen";
+
 "Language" = "Sprache";
 
 "Launch at login" = "Beim Anmelden starten";
@@ -82,12 +86,18 @@
 
 "Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." = "Macht den Server über eine sichere Verbindung (https) statt über http erreichbar. Es wird derselbe einzelne Port verwendet, daher können Sie http und https nicht gleichzeitig nutzen.";
 
+"Manual trust required" = "Manuelles Vertrauen erforderlich";
+
 "More App" = "Weitere Apps";
 
 "No access permission" = "Keine Zugriffsberechtigung";
 
 /* Default OK button */
 "OK" = "OK";
+
+"Open Root CA failed" = "Root-CA konnte nicht geöffnet werden";
+
+"Open Root CA in Keychain Access" = "Root-CA in der Schlüsselbundverwaltung öffnen";
 
 "Open in Finder" = "Im Finder öffnen";
 
@@ -108,6 +118,8 @@
 "Reauth" = "Erneut autorisieren";
 
 "Rewrite to (for SPAs)" = "Umschreiben auf (für SPAs)";
+
+"Root CA installed" = "Root-CA installiert";
 
 "Running" = "Läuft";
 
@@ -139,6 +151,8 @@
 "System" = "System";
 
 "Thank you for your support! 🙌" = "Vielen Dank für Ihre Unterstützung! 🙌";
+
+"The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser." = "Die Root-CA wurde in der Schlüsselbundverwaltung geöffnet. Stellen Sie sie für SSL auf \"Immer vertrauen\" und starten Sie dann Ihren Browser neu.";
 
 "The folder does not exist at the specified path: %@" = "Der Ordner existiert nicht unter dem angegebenen Pfad: %@";
 

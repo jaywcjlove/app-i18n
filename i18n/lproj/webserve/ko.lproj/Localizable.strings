@@ -71,6 +71,10 @@
 
 "If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." = "WebServe가 생산성 향상에 도움이 되었다고 느끼는 개인 사용자라면, 감사의 표시로 후원을 고려해 주세요. 가끔 커피 한 잔을 사주는 것과 같습니다.";
 
+"Install Root CA" = "루트 CA 설치";
+
+"Install Root CA failed" = "루트 CA 설치 실패";
+
 "Language" = "언어";
 
 "Launch at login" = "로그인 시 실행";
@@ -82,12 +86,18 @@
 
 "Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." = "서버를 http 대신 보안 연결(https)로 접근할 수 있게 합니다. 동일한 단일 포트를 사용하므로 http와 https를 동시에 사용할 수 없습니다.";
 
+"Manual trust required" = "수동 신뢰 설정 필요";
+
 "More App" = "더 많은 앱";
 
 "No access permission" = "접근 권한 없음";
 
 /* Default OK button */
 "OK" = "확인";
+
+"Open Root CA failed" = "루트 CA 열기 실패";
+
+"Open Root CA in Keychain Access" = "키체인 접근에서 루트 CA 열기";
 
 "Open in Finder" = "Finder에서 열기";
 
@@ -108,6 +118,8 @@
 "Reauth" = "다시 인증";
 
 "Rewrite to (for SPAs)" = "다음으로 재작성 (SPA용)";
+
+"Root CA installed" = "루트 CA 설치됨";
 
 "Running" = "실행 중";
 
@@ -139,6 +151,8 @@
 "System" = "시스템";
 
 "Thank you for your support! 🙌" = "지원해 주셔서 감사합니다! 🙌";
+
+"The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser." = "루트 CA가 키체인 접근에서 열렸습니다. SSL에 대해 '항상 신뢰'로 설정한 후 브라우저를 다시 시작하세요.";
 
 "The folder does not exist at the specified path: %@" = "지정된 경로에 폴더가 존재하지 않습니다: %@";
 
