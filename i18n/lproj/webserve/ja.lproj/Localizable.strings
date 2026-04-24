@@ -101,9 +101,9 @@
 
 "Open Root CA in Keychain Access" = "キーチェーンアクセスでルート CA を開く";
 
-"Opening the Root CA in Keychain Access failed with exit code %d." = "キーチェーンアクセスでルート CA を開く処理は、終了コード %d で失敗しました。";
-
 "Open in Finder" = "Finder で開く";
+
+"Opening the Root CA in Keychain Access failed with exit code %d." = "キーチェーンアクセスでルート CA を開く処理は、終了コード %d で失敗しました。";
 
 "Please enter your password" = "パスワードを入力してください";
 
@@ -154,8 +154,6 @@
 /* System */
 "System" = "システム";
 
-"security add-trusted-cert failed with exit code %d." = "security add-trusted-cert は終了コード %d で失敗しました。";
-
 "Thank you for your support! 🙌" = "ご支援ありがとうございます！🙌";
 
 "The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser." = "ルート CA をキーチェーンアクセスで開きました。SSL で「常に信頼」に設定してから、ブラウザを再起動してください。";
@@ -177,5 +175,7 @@
 "Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "皆さまの惜しみないご支援により、WebServe を健全に保ち、積極的にメンテナンスし続ける自信があります。";
 
 "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"security add-trusted-cert failed with exit code %d." = "security add-trusted-cert は終了コード %d で失敗しました。";
 
 "⚠️" = "⚠️";

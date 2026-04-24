@@ -101,9 +101,9 @@
 
 "Open Root CA in Keychain Access" = "Root-CA in der Schlüsselbundverwaltung öffnen";
 
-"Opening the Root CA in Keychain Access failed with exit code %d." = "Das Öffnen der Root-CA in der Schlüsselbundverwaltung ist mit Exit-Code %d fehlgeschlagen.";
-
 "Open in Finder" = "Im Finder öffnen";
+
+"Opening the Root CA in Keychain Access failed with exit code %d." = "Das Öffnen der Root-CA in der Schlüsselbundverwaltung ist mit Exit-Code %d fehlgeschlagen.";
 
 "Please enter your password" = "Bitte geben Sie Ihr Passwort ein";
 
@@ -154,8 +154,6 @@
 /* System */
 "System" = "System";
 
-"security add-trusted-cert failed with exit code %d." = "\"security add-trusted-cert\" ist mit Exit-Code %d fehlgeschlagen.";
-
 "Thank you for your support! 🙌" = "Vielen Dank für Ihre Unterstützung! 🙌";
 
 "The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser." = "Die Root-CA wurde in der Schlüsselbundverwaltung geöffnet. Stellen Sie sie für SSL auf \"Immer vertrauen\" und starten Sie dann Ihren Browser neu.";
@@ -177,5 +175,7 @@
 "Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "Mit Ihrer großzügigen finanziellen Unterstützung bin ich sehr zuversichtlich, WebServe gesund zu halten und aktiv weiterzuentwickeln.";
 
 "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"security add-trusted-cert failed with exit code %d." = "\"security add-trusted-cert\" ist mit Exit-Code %d fehlgeschlagen.";
 
 "⚠️" = "⚠️";

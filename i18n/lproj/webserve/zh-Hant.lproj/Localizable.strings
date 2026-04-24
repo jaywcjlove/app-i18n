@@ -101,9 +101,9 @@
 
 "Open Root CA in Keychain Access" = "在「鑰匙圈存取」中開啟根 CA";
 
-"Opening the Root CA in Keychain Access failed with exit code %d." = "在「鑰匙圈存取」中開啟根 CA 失敗，結束代碼為 %d。";
-
 "Open in Finder" = "在 Finder 中打開";
+
+"Opening the Root CA in Keychain Access failed with exit code %d." = "在「鑰匙圈存取」中開啟根 CA 失敗，結束代碼為 %d。";
 
 "Please enter your password" = "請輸入您的密碼";
 
@@ -154,8 +154,6 @@
 /* System */
 "System" = "系統";
 
-"security add-trusted-cert failed with exit code %d." = "security add-trusted-cert 失敗，結束代碼為 %d。";
-
 "Thank you for your support! 🙌" = "感謝您的支持！🙌";
 
 "The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser." = "已在「鑰匙圈存取」中開啟根 CA。請將其 SSL 信任設為「永遠信任」，然後重新啟動瀏覽器。";
@@ -177,5 +175,7 @@
 "Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "在您慷慨的資助下，我更有信心讓 WebServe 保持良好狀態並持續積極維護。";
 
 "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"security add-trusted-cert failed with exit code %d." = "security add-trusted-cert 失敗，結束代碼為 %d。";
 
 "⚠️" = "⚠️";

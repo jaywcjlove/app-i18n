@@ -101,9 +101,9 @@
 
 "Open Root CA in Keychain Access" = "키체인 접근에서 루트 CA 열기";
 
-"Opening the Root CA in Keychain Access failed with exit code %d." = "키체인 접근에서 루트 CA를 여는 데 실패했습니다. 종료 코드: %d.";
-
 "Open in Finder" = "Finder에서 열기";
+
+"Opening the Root CA in Keychain Access failed with exit code %d." = "키체인 접근에서 루트 CA를 여는 데 실패했습니다. 종료 코드: %d.";
 
 "Please enter your password" = "비밀번호를 입력하세요";
 
@@ -154,8 +154,6 @@
 /* System */
 "System" = "시스템";
 
-"security add-trusted-cert failed with exit code %d." = "security add-trusted-cert가 종료 코드 %d로 실패했습니다.";
-
 "Thank you for your support! 🙌" = "지원해 주셔서 감사합니다! 🙌";
 
 "The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser." = "루트 CA가 키체인 접근에서 열렸습니다. SSL에 대해 '항상 신뢰'로 설정한 후 브라우저를 다시 시작하세요.";
@@ -177,5 +175,7 @@
 "Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "여러분의 아낌없는 재정적 지원으로 WebServe를 건강하게 유지하고 적극적으로 관리해 나갈 수 있다는 큰 자신감을 얻고 있습니다.";
 
 "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"security add-trusted-cert failed with exit code %d." = "security add-trusted-cert가 종료 코드 %d로 실패했습니다.";
 
 "⚠️" = "⚠️";

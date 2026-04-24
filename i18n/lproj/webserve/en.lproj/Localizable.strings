@@ -75,6 +75,8 @@
 
 "Install Root CA failed" = "Install Root CA failed";
 
+"Keychain Access.app was not found." = "Keychain Access.app was not found.";
+
 "Language" = "Language";
 
 "Launch at login" = "Launch at login";
@@ -100,6 +102,8 @@
 "Open Root CA in Keychain Access" = "Open Root CA in Keychain Access";
 
 "Open in Finder" = "Open in Finder";
+
+"Opening the Root CA in Keychain Access failed with exit code %d." = "Opening the Root CA in Keychain Access failed with exit code %d.";
 
 "Please enter your password" = "Please enter your password";
 
@@ -171,5 +175,7 @@
 "Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively.";
 
 "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"security add-trusted-cert failed with exit code %d." = "security add-trusted-cert failed with exit code %d.";
 
 "⚠️" = "⚠️";

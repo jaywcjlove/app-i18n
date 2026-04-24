@@ -101,9 +101,9 @@
 
 "Open Root CA in Keychain Access" = "在“钥匙串访问”中打开根 CA";
 
-"Opening the Root CA in Keychain Access failed with exit code %d." = "在“钥匙串访问”中打开根 CA 失败，退出代码为 %d。";
-
 "Open in Finder" = "在访达中打开";
+
+"Opening the Root CA in Keychain Access failed with exit code %d." = "在“钥匙串访问”中打开根 CA 失败，退出代码为 %d。";
 
 "Please enter your password" = "请输入您的密码";
 
@@ -154,8 +154,6 @@
 /* System */
 "System" = "系统";
 
-"security add-trusted-cert failed with exit code %d." = "security add-trusted-cert 失败，退出代码为 %d。";
-
 "Thank you for your support! 🙌" = "感谢您的支持！🙌";
 
 "The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser." = "已在“钥匙串访问”中打开根 CA。请将其 SSL 信任设置为“始终信任”，然后重启浏览器。";
@@ -177,5 +175,7 @@
 "Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "在你们的慷慨资助下，我对保持 WebServe 的健康发展和积极维护它充满信心。";
 
 "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"security add-trusted-cert failed with exit code %d." = "security add-trusted-cert 失败，退出代码为 %d。";
 
 "⚠️" = "⚠️";
