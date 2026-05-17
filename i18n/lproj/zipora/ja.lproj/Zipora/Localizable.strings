@@ -1,0 +1,289 @@
+"\"%@\" requires a password before it can be extracted." = "「%@」を展開するにはパスワードが必要です。";
+
+"\"%@\" requires a password before it can be opened." = "「%@」を開くにはパスワードが必要です。";
+
+"\"%@\" requires a password before protection can be removed." = "「%@」の保護を解除するにはパスワードが必要です。";
+
+"%lld files" = "%lld 個のファイル";
+
+"1. Open [System Settings](systemSettings)." = "1. [システム設定](systemSettings)を開きます。";
+
+"2. Scroll down to the \"Extensions\" section and click the info button in \"Folder Preview\"." = "2. 「拡張機能」セクションまでスクロールし、「Folder Preview」の情報ボタンをクリックします。";
+
+"3. Select \"Folder Preview\" extension." = "3. 「Folder Preview」拡張機能を選択します。";
+
+"4. Select \"Archive Preview\" if you want to preview archive files like .zip, .7z, and .rar." = "4. .zip、.7z、.rar などのアーカイブファイルをプレビューする場合は、「Archive Preview」を選択します。";
+
+"Add" = "追加";
+
+"Add Files" = "ファイルを追加";
+
+"Add Password" = "パスワードを追加";
+
+"Adding password protection" = "パスワード保護を追加中";
+
+"Analyzing %@" = "%@ を解析中";
+
+"Apply Change" = "変更を適用";
+
+"Apply Protection" = "保護を適用";
+
+"Applying changes" = "変更を適用中";
+
+"Archive" = "アーカイブ";
+
+"Archive Created" = "アーカイブを作成しました";
+
+"Archive updated" = "アーカイブを更新しました";
+
+"Archives" = "アーカイブ";
+
+"Backend Format" = "バックエンド形式";
+
+"Cancel" = "キャンセル";
+
+"Change Password" = "パスワードを変更";
+
+"Changing Password" = "パスワードを変更中";
+
+"Choose" = "選択";
+
+"Choose Destination" = "保存先を選択";
+
+"Choose Files or Folders" = "ファイルまたはフォルダを選択";
+
+"Choose a destination folder." = "保存先フォルダを選択してください。";
+
+"Choose files to archive and an output location." = "アーカイブするファイルと出力先を選択してください。";
+
+"Completed" = "完了";
+
+"Confirm New Password" = "新しいパスワードを確認";
+
+"Confirm Password" = "パスワードを確認";
+
+"Continue" = "続ける";
+
+"Create" = "作成";
+
+"Create Archive" = "アーカイブを作成";
+
+"Created %@" = "%@ を作成しました";
+
+"Current Password" = "現在のパスワード";
+
+"Destination Folder" = "保存先フォルダ";
+
+"Drag a ZIP, TAR, TAR.GZ, or TGZ archive into the window, or open an existing archive from the toolbar." = "ZIP、TAR、TAR.GZ、TGZ のアーカイブをウィンドウにドラッグするか、ツールバーから既存のアーカイブを開いてください。";
+
+"Drop Files Here" = "ここにファイルをドロップ";
+
+"Drop an archive to preview or extract it, or drop multiple files and folders to create a new archive." = "アーカイブをドロップするとプレビューまたは展開できます。複数のファイルやフォルダをドロップすると新しいアーカイブを作成できます。";
+
+"Drop files to create an archive, or open an archive to preview and extract." = "ファイルをドロップしてアーカイブを作成するか、アーカイブを開いてプレビューと展開を行います。";
+
+"Edit Archive" = "アーカイブを編集";
+
+"Edit Complete" = "編集完了";
+
+"Enable Quick Look Extension" = "Quick Look 拡張機能を有効にする";
+
+"Encountered an invalid archive path." = "無効なアーカイブパスが見つかりました。";
+
+"Encrypting ZIP" = "ZIP を暗号化中";
+
+"Enter Archive Password" = "アーカイブのパスワードを入力";
+
+"Enter Extraction Password" = "展開用パスワードを入力";
+
+"Enter Password" = "パスワードを入力";
+
+"Enter a password for the archive." = "アーカイブのパスワードを入力してください。";
+
+"Enter a password." = "パスワードを入力してください。";
+
+"Enter the archive password." = "アーカイブのパスワードを入力してください。";
+
+"Enter the current password." = "現在のパスワードを入力してください。";
+
+"Entries" = "項目";
+
+"Expand all subfolders by default" = "すべてのサブフォルダを既定で展開";
+
+"Extract" = "展開";
+
+"Extract Archive" = "アーカイブを展開";
+
+"Extract to Folder" = "フォルダに展開";
+
+"Extracted to %@" = "%@ に展開しました";
+
+"Extracting to a temporary workspace" = "一時ワークスペースに展開中";
+
+"Extraction Complete" = "展開完了";
+
+"Extraction Progress" = "展開の進行状況";
+
+"File" = "ファイル";
+
+"Filters" = "フィルタ";
+
+"Folder depth" = "フォルダの深さ";
+
+"Format" = "形式";
+
+"General" = "一般";
+
+"How to Use" = "使い方";
+
+"Items to Archive" = "アーカイブ対象";
+
+"Latest Output" = "最新の出力";
+
+"Loaded %lld entries" = "%lld 項目を読み込みました";
+
+"Modified" = "変更日";
+
+"Name" = "名前";
+
+"New Archive" = "新規アーカイブ";
+
+"New Password" = "新しいパスワード";
+
+"No archive opened" = "アーカイブが開かれていません";
+
+"No files or folders selected" = "ファイルまたはフォルダが選択されていません";
+
+"No folder selected" = "フォルダが選択されていません";
+
+"No recent archives" = "最近使ったアーカイブはありません";
+
+"OK" = "OK";
+
+"Only ZIP archives can add password protection in the current version." = "現在のバージョンでは、ZIP アーカイブのみパスワード保護を追加できます。";
+
+"Only ZIP archives can change password protection in the current version." = "現在のバージョンでは、ZIP アーカイブのみパスワード保護を変更できます。";
+
+"Only ZIP archives can remove password protection in the current version." = "現在のバージョンでは、ZIP アーカイブのみパスワード保護を解除できます。";
+
+"Open" = "開く";
+
+"Open Archive" = "アーカイブを開く";
+
+"Open an Archive" = "アーカイブを開く";
+
+"Open an archive first." = "先にアーカイブを開いてください。";
+
+"Operation Failed" = "操作に失敗しました";
+
+"Output" = "出力";
+
+"Password" = "パスワード";
+
+"Password Changed" = "パスワードを変更しました";
+
+"Password Protected" = "パスワード保護あり";
+
+"Password Removed" = "パスワードを削除しました";
+
+"Password added" = "パスワードを追加しました";
+
+"Password protection was added to %@" = "%@ にパスワード保護を追加しました";
+
+"Password protection was changed for %@" = "%@ のパスワード保護を変更しました";
+
+"Password protection was removed from %@" = "%@ からパスワード保護を解除しました";
+
+"Please select a valid file or folder." = "有効なファイルまたはフォルダを選択してください。";
+
+"Preparing…" = "準備中…";
+
+"Protect Archive" = "アーカイブを保護";
+
+"Protect the archive with a password" = "パスワードでアーカイブを保護";
+
+"Protection Applied" = "保護を適用しました";
+
+"Protection Progress" = "保護の進行状況";
+
+"Quick Look" = "Quick Look";
+
+"Quick Look Preview" = "Quick Look プレビュー";
+
+"Read Archive" = "アーカイブを読み込む";
+
+"Reading archive contents" = "アーカイブ内容を読み込み中";
+
+"Ready" = "準備完了";
+
+"Refresh" = "更新";
+
+"Remove" = "削除";
+
+"Remove Files" = "ファイルを削除";
+
+"Remove Password" = "パスワードを削除";
+
+"Removing Password" = "パスワードを削除中";
+
+"Removing password protection" = "パスワード保護を解除中";
+
+"Replacing original archive" = "元のアーカイブを置き換え中";
+
+"Reveal in Finder" = "Finder で表示";
+
+"Scanning selected items" = "選択項目をスキャン中";
+
+"Search Current Folder" = "現在のフォルダを検索";
+
+"Security" = "セキュリティ";
+
+"Select a folder or archive, then press **Space** or **Command + Y** to preview its contents with Quick Look." = "フォルダまたはアーカイブを選び、**Space** または **Command + Y** を押して Quick Look で内容をプレビューします。";
+
+"Select at least one item to remove." = "削除する項目を少なくとも 1 つ選択してください。";
+
+"Select the archive folder to allow Zipora to extract files there." = "Zipora がその場所にファイルを展開できるよう、アーカイブのフォルダを選択してください。";
+
+"Show hidden files" = "隠しファイルを表示";
+
+"Show path bar below preview table" = "プレビュー表の下にパスバーを表示";
+
+"Size" = "サイズ";
+
+"Split Volume Archive" = "分割ボリュームアーカイブ";
+
+"Start Extracting" = "展開を開始";
+
+"The current archive backend does not support creating password-protected archives yet." = "現在のアーカイブバックエンドでは、パスワード保護付きアーカイブの作成はまだサポートされていません。";
+
+"The current version rebuilds the ZIP archive and writes it back as an encrypted ZIP." = "現在のバージョンでは ZIP アーカイブを再構築し、暗号化 ZIP として書き戻します。";
+
+"The current version rebuilds the ZIP archive and writes it back with the new password." = "現在のバージョンでは ZIP アーカイブを再構築し、新しいパスワードで書き戻します。";
+
+"The operation was cancelled." = "操作はキャンセルされました。";
+
+"The password is incorrect, or this encryption method is not supported yet." = "パスワードが正しくないか、この暗号化方式はまだサポートされていません。";
+
+"The passwords do not match." = "パスワードが一致しません。";
+
+"The recent archive entry is no longer available." = "最近のアーカイブ項目は利用できなくなりました。";
+
+"The save location will be selected after you click Create Archive." = "[アーカイブを作成] をクリックしたあとで保存先を選択します。";
+
+"The selected archive is no longer available." = "選択したアーカイブは利用できなくなりました。";
+
+"This archive requires a password before it can be extracted." = "このアーカイブを展開するにはパスワードが必要です。";
+
+"This archive requires a password, or its encryption method is not supported yet." = "このアーカイブにはパスワードが必要か、暗号化方式がまだサポートされていません。";
+
+"This archive requires a password." = "このアーカイブにはパスワードが必要です。";
+
+"This version supports reading and extracting common archive formats. Creating archives currently supports ZIP, 7Z, TAR, TAR.GZ, TAR.BZ2, and TAR.XZ." = "このバージョンは一般的なアーカイブ形式の読み込みと展開に対応しています。アーカイブの作成は現在、ZIP、7Z、TAR、TAR.GZ、TAR.BZ2、TAR.XZ に対応しています。";
+
+"Total Size" = "合計サイズ";
+
+"Unable to access related RAR volume files." = "関連する RAR 分割ボリュームファイルにアクセスできません。";
+
+"Writing %@ archive" = "%@ アーカイブを書き込み中";
+
+"Zipora" = "Zipora";

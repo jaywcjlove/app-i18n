@@ -1,0 +1,289 @@
+"\"%@\" requires a password before it can be extracted." = "\"%@\" nécessite un mot de passe avant de pouvoir être extrait.";
+
+"\"%@\" requires a password before it can be opened." = "\"%@\" nécessite un mot de passe avant de pouvoir être ouvert.";
+
+"\"%@\" requires a password before protection can be removed." = "\"%@\" nécessite un mot de passe avant que la protection puisse être retirée.";
+
+"%lld files" = "%lld fichiers";
+
+"1. Open [System Settings](systemSettings)." = "1. Ouvrez les [Réglages Système](systemSettings).";
+
+"2. Scroll down to the \"Extensions\" section and click the info button in \"Folder Preview\"." = "2. Faites défiler jusqu'à la section \"Extensions\" et cliquez sur le bouton d'information dans \"Aperçu des dossiers\".";
+
+"3. Select \"Folder Preview\" extension." = "3. Sélectionnez l'extension \"Aperçu des dossiers\".";
+
+"4. Select \"Archive Preview\" if you want to preview archive files like .zip, .7z, and .rar." = "4. Sélectionnez \"Aperçu des archives\" si vous souhaitez prévisualiser des fichiers d'archive comme .zip, .7z et .rar.";
+
+"Add" = "Ajouter";
+
+"Add Files" = "Ajouter des fichiers";
+
+"Add Password" = "Ajouter un mot de passe";
+
+"Adding password protection" = "Ajout d'une protection par mot de passe";
+
+"Analyzing %@" = "Analyse de %@";
+
+"Apply Change" = "Appliquer la modification";
+
+"Apply Protection" = "Appliquer la protection";
+
+"Applying changes" = "Application des modifications";
+
+"Archive" = "Archive";
+
+"Archive Created" = "Archive créée";
+
+"Archive updated" = "Archive mise à jour";
+
+"Archives" = "Archives";
+
+"Backend Format" = "Format du moteur";
+
+"Cancel" = "Annuler";
+
+"Change Password" = "Changer le mot de passe";
+
+"Changing Password" = "Changement du mot de passe";
+
+"Choose" = "Choisir";
+
+"Choose Destination" = "Choisir la destination";
+
+"Choose Files or Folders" = "Choisir des fichiers ou des dossiers";
+
+"Choose a destination folder." = "Choisissez un dossier de destination.";
+
+"Choose files to archive and an output location." = "Choisissez les fichiers à archiver et un emplacement de sortie.";
+
+"Completed" = "Terminé";
+
+"Confirm New Password" = "Confirmer le nouveau mot de passe";
+
+"Confirm Password" = "Confirmer le mot de passe";
+
+"Continue" = "Continuer";
+
+"Create" = "Créer";
+
+"Create Archive" = "Créer une archive";
+
+"Created %@" = "%@ créé";
+
+"Current Password" = "Mot de passe actuel";
+
+"Destination Folder" = "Dossier de destination";
+
+"Drag a ZIP, TAR, TAR.GZ, or TGZ archive into the window, or open an existing archive from the toolbar." = "Faites glisser une archive ZIP, TAR, TAR.GZ ou TGZ dans la fenêtre, ou ouvrez une archive existante depuis la barre d'outils.";
+
+"Drop Files Here" = "Déposez les fichiers ici";
+
+"Drop an archive to preview or extract it, or drop multiple files and folders to create a new archive." = "Déposez une archive pour la prévisualiser ou l'extraire, ou déposez plusieurs fichiers et dossiers pour créer une nouvelle archive.";
+
+"Drop files to create an archive, or open an archive to preview and extract." = "Déposez des fichiers pour créer une archive, ou ouvrez une archive pour la prévisualiser et l'extraire.";
+
+"Edit Archive" = "Modifier l'archive";
+
+"Edit Complete" = "Modification terminée";
+
+"Enable Quick Look Extension" = "Activer l'extension Quick Look";
+
+"Encountered an invalid archive path." = "Chemin d'archive invalide détecté.";
+
+"Encrypting ZIP" = "Chiffrement ZIP";
+
+"Enter Archive Password" = "Saisir le mot de passe de l'archive";
+
+"Enter Extraction Password" = "Saisir le mot de passe d'extraction";
+
+"Enter Password" = "Saisir le mot de passe";
+
+"Enter a password for the archive." = "Saisissez un mot de passe pour l'archive.";
+
+"Enter a password." = "Saisissez un mot de passe.";
+
+"Enter the archive password." = "Saisissez le mot de passe de l'archive.";
+
+"Enter the current password." = "Saisissez le mot de passe actuel.";
+
+"Entries" = "Entrées";
+
+"Expand all subfolders by default" = "Développer tous les sous-dossiers par défaut";
+
+"Extract" = "Extraire";
+
+"Extract Archive" = "Extraire l'archive";
+
+"Extract to Folder" = "Extraire vers un dossier";
+
+"Extracted to %@" = "Extrait vers %@";
+
+"Extracting to a temporary workspace" = "Extraction vers un espace de travail temporaire";
+
+"Extraction Complete" = "Extraction terminée";
+
+"Extraction Progress" = "Progression de l'extraction";
+
+"File" = "Fichier";
+
+"Filters" = "Filtres";
+
+"Folder depth" = "Profondeur des dossiers";
+
+"Format" = "Format";
+
+"General" = "Général";
+
+"How to Use" = "Comment utiliser";
+
+"Items to Archive" = "Éléments à archiver";
+
+"Latest Output" = "Dernière sortie";
+
+"Loaded %lld entries" = "%lld entrées chargées";
+
+"Modified" = "Modifié";
+
+"Name" = "Nom";
+
+"New Archive" = "Nouvelle archive";
+
+"New Password" = "Nouveau mot de passe";
+
+"No archive opened" = "Aucune archive ouverte";
+
+"No files or folders selected" = "Aucun fichier ou dossier sélectionné";
+
+"No folder selected" = "Aucun dossier sélectionné";
+
+"No recent archives" = "Aucune archive récente";
+
+"OK" = "OK";
+
+"Only ZIP archives can add password protection in the current version." = "Dans la version actuelle, seule l'ajout d'une protection par mot de passe aux archives ZIP est pris en charge.";
+
+"Only ZIP archives can change password protection in the current version." = "Dans la version actuelle, seule la modification de la protection par mot de passe des archives ZIP est prise en charge.";
+
+"Only ZIP archives can remove password protection in the current version." = "Dans la version actuelle, seule la suppression de la protection par mot de passe des archives ZIP est prise en charge.";
+
+"Open" = "Ouvrir";
+
+"Open Archive" = "Ouvrir une archive";
+
+"Open an Archive" = "Ouvrir une archive";
+
+"Open an archive first." = "Ouvrez d'abord une archive.";
+
+"Operation Failed" = "Échec de l'opération";
+
+"Output" = "Sortie";
+
+"Password" = "Mot de passe";
+
+"Password Changed" = "Mot de passe changé";
+
+"Password Protected" = "Protégé par mot de passe";
+
+"Password Removed" = "Mot de passe supprimé";
+
+"Password added" = "Mot de passe ajouté";
+
+"Password protection was added to %@" = "Une protection par mot de passe a été ajoutée à %@";
+
+"Password protection was changed for %@" = "La protection par mot de passe a été modifiée pour %@";
+
+"Password protection was removed from %@" = "La protection par mot de passe a été supprimée de %@";
+
+"Please select a valid file or folder." = "Veuillez sélectionner un fichier ou un dossier valide.";
+
+"Preparing…" = "Préparation…";
+
+"Protect Archive" = "Protéger l'archive";
+
+"Protect the archive with a password" = "Protéger l'archive avec un mot de passe";
+
+"Protection Applied" = "Protection appliquée";
+
+"Protection Progress" = "Progression de la protection";
+
+"Quick Look" = "Quick Look";
+
+"Quick Look Preview" = "Aperçu Quick Look";
+
+"Read Archive" = "Lire l'archive";
+
+"Reading archive contents" = "Lecture du contenu de l'archive";
+
+"Ready" = "Prêt";
+
+"Refresh" = "Actualiser";
+
+"Remove" = "Supprimer";
+
+"Remove Files" = "Supprimer les fichiers";
+
+"Remove Password" = "Supprimer le mot de passe";
+
+"Removing Password" = "Suppression du mot de passe";
+
+"Removing password protection" = "Suppression de la protection par mot de passe";
+
+"Replacing original archive" = "Remplacement de l'archive d'origine";
+
+"Reveal in Finder" = "Afficher dans le Finder";
+
+"Scanning selected items" = "Analyse des éléments sélectionnés";
+
+"Search Current Folder" = "Rechercher dans le dossier actuel";
+
+"Security" = "Sécurité";
+
+"Select a folder or archive, then press **Space** or **Command + Y** to preview its contents with Quick Look." = "Sélectionnez un dossier ou une archive, puis appuyez sur **Espace** ou **Commande + Y** pour prévisualiser son contenu avec Quick Look.";
+
+"Select at least one item to remove." = "Sélectionnez au moins un élément à supprimer.";
+
+"Select the archive folder to allow Zipora to extract files there." = "Sélectionnez le dossier de l'archive pour autoriser Zipora à y extraire des fichiers.";
+
+"Show hidden files" = "Afficher les fichiers cachés";
+
+"Show path bar below preview table" = "Afficher la barre de chemin sous le tableau d'aperçu";
+
+"Size" = "Taille";
+
+"Split Volume Archive" = "Archive multi-volume";
+
+"Start Extracting" = "Commencer l'extraction";
+
+"The current archive backend does not support creating password-protected archives yet." = "Le moteur d'archive actuel ne prend pas encore en charge la création d'archives protégées par mot de passe.";
+
+"The current version rebuilds the ZIP archive and writes it back as an encrypted ZIP." = "La version actuelle reconstruit l'archive ZIP et la réécrit en ZIP chiffré.";
+
+"The current version rebuilds the ZIP archive and writes it back with the new password." = "La version actuelle reconstruit l'archive ZIP et la réécrit avec le nouveau mot de passe.";
+
+"The operation was cancelled." = "L'opération a été annulée.";
+
+"The password is incorrect, or this encryption method is not supported yet." = "Le mot de passe est incorrect, ou cette méthode de chiffrement n'est pas encore prise en charge.";
+
+"The passwords do not match." = "Les mots de passe ne correspondent pas.";
+
+"The recent archive entry is no longer available." = "L'entrée d'archive récente n'est plus disponible.";
+
+"The save location will be selected after you click Create Archive." = "L'emplacement d'enregistrement sera sélectionné après avoir cliqué sur Créer une archive.";
+
+"The selected archive is no longer available." = "L'archive sélectionnée n'est plus disponible.";
+
+"This archive requires a password before it can be extracted." = "Cette archive nécessite un mot de passe avant de pouvoir être extraite.";
+
+"This archive requires a password, or its encryption method is not supported yet." = "Cette archive nécessite un mot de passe, ou sa méthode de chiffrement n'est pas encore prise en charge.";
+
+"This archive requires a password." = "Cette archive nécessite un mot de passe.";
+
+"This version supports reading and extracting common archive formats. Creating archives currently supports ZIP, 7Z, TAR, TAR.GZ, TAR.BZ2, and TAR.XZ." = "Cette version prend en charge la lecture et l'extraction des formats d'archives courants. La création d'archives prend actuellement en charge ZIP, 7Z, TAR, TAR.GZ, TAR.BZ2 et TAR.XZ.";
+
+"Total Size" = "Taille totale";
+
+"Unable to access related RAR volume files." = "Impossible d'accéder aux volumes RAR associés.";
+
+"Writing %@ archive" = "Écriture de l'archive %@";
+
+"Zipora" = "Zipora";

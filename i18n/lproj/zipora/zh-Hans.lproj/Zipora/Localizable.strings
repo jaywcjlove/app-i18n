@@ -1,0 +1,289 @@
+"\"%@\" requires a password before it can be extracted." = "“%@”在解压前需要输入密码。";
+
+"\"%@\" requires a password before it can be opened." = "“%@”在打开前需要输入密码。";
+
+"\"%@\" requires a password before protection can be removed." = "“%@”在移除保护前需要输入密码。";
+
+"%lld files" = "%lld 个文件";
+
+"1. Open [System Settings](systemSettings)." = "1. 打开[系统设置](systemSettings)。";
+
+"2. Scroll down to the \"Extensions\" section and click the info button in \"Folder Preview\"." = "2. 向下滚动到“扩展”部分，然后点击“文件夹预览”中的信息按钮。";
+
+"3. Select \"Folder Preview\" extension." = "3. 选择“文件夹预览”扩展。";
+
+"4. Select \"Archive Preview\" if you want to preview archive files like .zip, .7z, and .rar." = "4. 如果你想预览 .zip、.7z、.rar 等压缩文件，请选择“压缩包预览”。";
+
+"Add" = "添加";
+
+"Add Files" = "添加文件";
+
+"Add Password" = "添加密码";
+
+"Adding password protection" = "正在添加密码保护";
+
+"Analyzing %@" = "正在分析 %@";
+
+"Apply Change" = "应用修改";
+
+"Apply Protection" = "应用保护";
+
+"Applying changes" = "正在应用更改";
+
+"Archive" = "压缩包";
+
+"Archive Created" = "压缩包已创建";
+
+"Archive updated" = "压缩包已更新";
+
+"Archives" = "压缩包";
+
+"Backend Format" = "后端格式";
+
+"Cancel" = "取消";
+
+"Change Password" = "修改密码";
+
+"Changing Password" = "正在修改密码";
+
+"Choose" = "选择";
+
+"Choose Destination" = "选择目标位置";
+
+"Choose Files or Folders" = "选择文件或文件夹";
+
+"Choose a destination folder." = "请选择目标文件夹。";
+
+"Choose files to archive and an output location." = "请选择要压缩的文件以及输出位置。";
+
+"Completed" = "已完成";
+
+"Confirm New Password" = "确认新密码";
+
+"Confirm Password" = "确认密码";
+
+"Continue" = "继续";
+
+"Create" = "创建";
+
+"Create Archive" = "创建压缩包";
+
+"Created %@" = "已创建 %@";
+
+"Current Password" = "当前密码";
+
+"Destination Folder" = "目标文件夹";
+
+"Drag a ZIP, TAR, TAR.GZ, or TGZ archive into the window, or open an existing archive from the toolbar." = "将 ZIP、TAR、TAR.GZ 或 TGZ 压缩包拖入窗口，或从工具栏打开已有压缩包。";
+
+"Drop Files Here" = "将文件拖放到这里";
+
+"Drop an archive to preview or extract it, or drop multiple files and folders to create a new archive." = "拖入压缩包可预览或解压；拖入多个文件和文件夹可创建新的压缩包。";
+
+"Drop files to create an archive, or open an archive to preview and extract." = "拖入文件可创建压缩包，或打开压缩包进行预览与解压。";
+
+"Edit Archive" = "编辑压缩包";
+
+"Edit Complete" = "编辑完成";
+
+"Enable Quick Look Extension" = "启用 Quick Look 扩展";
+
+"Encountered an invalid archive path." = "检测到无效的压缩包路径。";
+
+"Encrypting ZIP" = "正在加密 ZIP";
+
+"Enter Archive Password" = "输入压缩包密码";
+
+"Enter Extraction Password" = "输入解压密码";
+
+"Enter Password" = "输入密码";
+
+"Enter a password for the archive." = "请输入压缩包密码。";
+
+"Enter a password." = "请输入密码。";
+
+"Enter the archive password." = "请输入压缩包密码。";
+
+"Enter the current password." = "请输入当前密码。";
+
+"Entries" = "条目";
+
+"Expand all subfolders by default" = "默认展开所有子文件夹";
+
+"Extract" = "解压";
+
+"Extract Archive" = "解压压缩包";
+
+"Extract to Folder" = "解压到文件夹";
+
+"Extracted to %@" = "已解压到 %@";
+
+"Extracting to a temporary workspace" = "正在解压到临时工作区";
+
+"Extraction Complete" = "解压完成";
+
+"Extraction Progress" = "解压进度";
+
+"File" = "文件";
+
+"Filters" = "筛选";
+
+"Folder depth" = "文件夹层级";
+
+"Format" = "格式";
+
+"General" = "常规";
+
+"How to Use" = "使用方法";
+
+"Items to Archive" = "待压缩项目";
+
+"Latest Output" = "最新输出";
+
+"Loaded %lld entries" = "已加载 %lld 个条目";
+
+"Modified" = "修改时间";
+
+"Name" = "名称";
+
+"New Archive" = "新建压缩包";
+
+"New Password" = "新密码";
+
+"No archive opened" = "未打开压缩包";
+
+"No files or folders selected" = "未选择文件或文件夹";
+
+"No folder selected" = "未选择文件夹";
+
+"No recent archives" = "没有最近使用的压缩包";
+
+"OK" = "确定";
+
+"Only ZIP archives can add password protection in the current version." = "当前版本仅支持为 ZIP 压缩包添加密码保护。";
+
+"Only ZIP archives can change password protection in the current version." = "当前版本仅支持修改 ZIP 压缩包的密码保护。";
+
+"Only ZIP archives can remove password protection in the current version." = "当前版本仅支持移除 ZIP 压缩包的密码保护。";
+
+"Open" = "打开";
+
+"Open Archive" = "打开压缩包";
+
+"Open an Archive" = "打开一个压缩包";
+
+"Open an archive first." = "请先打开一个压缩包。";
+
+"Operation Failed" = "操作失败";
+
+"Output" = "输出";
+
+"Password" = "密码";
+
+"Password Changed" = "密码已修改";
+
+"Password Protected" = "受密码保护";
+
+"Password Removed" = "密码已移除";
+
+"Password added" = "密码已添加";
+
+"Password protection was added to %@" = "已为 %@ 添加密码保护";
+
+"Password protection was changed for %@" = "已为 %@ 修改密码保护";
+
+"Password protection was removed from %@" = "已从 %@ 移除密码保护";
+
+"Please select a valid file or folder." = "请选择有效的文件或文件夹。";
+
+"Preparing…" = "准备中…";
+
+"Protect Archive" = "保护压缩包";
+
+"Protect the archive with a password" = "用密码保护压缩包";
+
+"Protection Applied" = "保护已应用";
+
+"Protection Progress" = "保护进度";
+
+"Quick Look" = "快速查看";
+
+"Quick Look Preview" = "快速查看预览";
+
+"Read Archive" = "读取压缩包";
+
+"Reading archive contents" = "正在读取压缩包内容";
+
+"Ready" = "就绪";
+
+"Refresh" = "刷新";
+
+"Remove" = "移除";
+
+"Remove Files" = "移除文件";
+
+"Remove Password" = "移除密码";
+
+"Removing Password" = "正在移除密码";
+
+"Removing password protection" = "正在移除密码保护";
+
+"Replacing original archive" = "正在替换原始压缩包";
+
+"Reveal in Finder" = "在访达中显示";
+
+"Scanning selected items" = "正在扫描已选项目";
+
+"Search Current Folder" = "搜索当前文件夹";
+
+"Security" = "安全";
+
+"Select a folder or archive, then press **Space** or **Command + Y** to preview its contents with Quick Look." = "选择一个文件夹或压缩包，然后按 **Space** 或 **Command + Y** 使用 Quick Look 预览其内容。";
+
+"Select at least one item to remove." = "请至少选择一个要移除的项目。";
+
+"Select the archive folder to allow Zipora to extract files there." = "选择压缩包所在文件夹，以允许 Zipora 在此处解压文件。";
+
+"Show hidden files" = "显示隐藏文件";
+
+"Show path bar below preview table" = "在预览表格下方显示路径栏";
+
+"Size" = "大小";
+
+"Split Volume Archive" = "分卷压缩包";
+
+"Start Extracting" = "开始解压";
+
+"The current archive backend does not support creating password-protected archives yet." = "当前压缩后端暂不支持创建带密码保护的压缩包。";
+
+"The current version rebuilds the ZIP archive and writes it back as an encrypted ZIP." = "当前版本重新构建 ZIP 压缩包并将其写回为加密的 ZIP。";
+
+"The current version rebuilds the ZIP archive and writes it back with the new password." = "当前版本会重新构建 ZIP 压缩包，并使用新密码写回。";
+
+"The operation was cancelled." = "操作已取消。";
+
+"The password is incorrect, or this encryption method is not supported yet." = "密码错误，或当前尚不支持此加密方式。";
+
+"The passwords do not match." = "两次输入的密码不一致。";
+
+"The recent archive entry is no longer available." = "最近打开记录中的压缩包已不可用。";
+
+"The save location will be selected after you click Create Archive." = "点击创建压缩包后将选择保存位置。";
+
+"The selected archive is no longer available." = "所选压缩包已不可用。";
+
+"This archive requires a password before it can be extracted." = "此压缩包在解压前需要输入密码。";
+
+"This archive requires a password, or its encryption method is not supported yet." = "此压缩包需要密码，或当前尚不支持其加密方式。";
+
+"This archive requires a password." = "此压缩包需要密码。";
+
+"This version supports reading and extracting common archive formats. Creating archives currently supports ZIP, 7Z, TAR, TAR.GZ, TAR.BZ2, and TAR.XZ." = "当前版本支持读取和解压常见压缩格式；创建压缩包目前支持 ZIP、7Z、TAR、TAR.GZ、TAR.BZ2 和 TAR.XZ。";
+
+"Total Size" = "总大小";
+
+"Unable to access related RAR volume files." = "无法访问相关的 RAR 分卷文件。";
+
+"Writing %@ archive" = "正在写入 %@ 压缩包";
+
+"Zipora" = "Zipora";

@@ -1,0 +1,289 @@
+"\"%@\" requires a password before it can be extracted." = "Для извлечения \"%@\" требуется пароль.";
+
+"\"%@\" requires a password before it can be opened." = "Для открытия \"%@\" требуется пароль.";
+
+"\"%@\" requires a password before protection can be removed." = "Для снятия защиты с \"%@\" требуется пароль.";
+
+"%lld files" = "%lld файлов";
+
+"1. Open [System Settings](systemSettings)." = "1. Откройте [Системные настройки](systemSettings).";
+
+"2. Scroll down to the \"Extensions\" section and click the info button in \"Folder Preview\"." = "2. Прокрутите вниз до раздела \"Расширения\" и нажмите кнопку информации в \"Предпросмотре папок\".";
+
+"3. Select \"Folder Preview\" extension." = "3. Выберите расширение \"Предпросмотр папок\".";
+
+"4. Select \"Archive Preview\" if you want to preview archive files like .zip, .7z, and .rar." = "4. Выберите \"Предпросмотр архивов\", если хотите просматривать архивы, такие как .zip, .7z и .rar.";
+
+"Add" = "Добавить";
+
+"Add Files" = "Добавить файлы";
+
+"Add Password" = "Добавить пароль";
+
+"Adding password protection" = "Добавление парольной защиты";
+
+"Analyzing %@" = "Анализ %@";
+
+"Apply Change" = "Применить изменение";
+
+"Apply Protection" = "Применить защиту";
+
+"Applying changes" = "Применение изменений";
+
+"Archive" = "Архив";
+
+"Archive Created" = "Архив создан";
+
+"Archive updated" = "Архив обновлен";
+
+"Archives" = "Архивы";
+
+"Backend Format" = "Формат движка";
+
+"Cancel" = "Отмена";
+
+"Change Password" = "Изменить пароль";
+
+"Changing Password" = "Изменение пароля";
+
+"Choose" = "Выбрать";
+
+"Choose Destination" = "Выбрать место назначения";
+
+"Choose Files or Folders" = "Выберите файлы или папки";
+
+"Choose a destination folder." = "Выберите папку назначения.";
+
+"Choose files to archive and an output location." = "Выберите файлы для архивации и место сохранения.";
+
+"Completed" = "Завершено";
+
+"Confirm New Password" = "Подтвердите новый пароль";
+
+"Confirm Password" = "Подтвердите пароль";
+
+"Continue" = "Продолжить";
+
+"Create" = "Создать";
+
+"Create Archive" = "Создать архив";
+
+"Created %@" = "Создан %@";
+
+"Current Password" = "Текущий пароль";
+
+"Destination Folder" = "Папка назначения";
+
+"Drag a ZIP, TAR, TAR.GZ, or TGZ archive into the window, or open an existing archive from the toolbar." = "Перетащите в окно архив ZIP, TAR, TAR.GZ или TGZ, либо откройте существующий архив с панели инструментов.";
+
+"Drop Files Here" = "Перетащите файлы сюда";
+
+"Drop an archive to preview or extract it, or drop multiple files and folders to create a new archive." = "Перетащите архив для просмотра или извлечения, либо перетащите несколько файлов и папок, чтобы создать новый архив.";
+
+"Drop files to create an archive, or open an archive to preview and extract." = "Перетащите файлы, чтобы создать архив, или откройте архив для просмотра и извлечения.";
+
+"Edit Archive" = "Редактировать архив";
+
+"Edit Complete" = "Редактирование завершено";
+
+"Enable Quick Look Extension" = "Включить расширение Quick Look";
+
+"Encountered an invalid archive path." = "Обнаружен недопустимый путь к архиву.";
+
+"Encrypting ZIP" = "Шифрование ZIP";
+
+"Enter Archive Password" = "Введите пароль архива";
+
+"Enter Extraction Password" = "Введите пароль для извлечения";
+
+"Enter Password" = "Введите пароль";
+
+"Enter a password for the archive." = "Введите пароль для архива.";
+
+"Enter a password." = "Введите пароль.";
+
+"Enter the archive password." = "Введите пароль архива.";
+
+"Enter the current password." = "Введите текущий пароль.";
+
+"Entries" = "Записи";
+
+"Expand all subfolders by default" = "Разворачивать все подпапки по умолчанию";
+
+"Extract" = "Извлечь";
+
+"Extract Archive" = "Извлечь архив";
+
+"Extract to Folder" = "Извлечь в папку";
+
+"Extracted to %@" = "Извлечено в %@";
+
+"Extracting to a temporary workspace" = "Извлечение во временное рабочее пространство";
+
+"Extraction Complete" = "Извлечение завершено";
+
+"Extraction Progress" = "Ход извлечения";
+
+"File" = "Файл";
+
+"Filters" = "Фильтры";
+
+"Folder depth" = "Глубина папок";
+
+"Format" = "Формат";
+
+"General" = "Общие";
+
+"How to Use" = "Как использовать";
+
+"Items to Archive" = "Элементы для архивации";
+
+"Latest Output" = "Последний вывод";
+
+"Loaded %lld entries" = "Загружено %lld записей";
+
+"Modified" = "Изменено";
+
+"Name" = "Имя";
+
+"New Archive" = "Новый архив";
+
+"New Password" = "Новый пароль";
+
+"No archive opened" = "Архив не открыт";
+
+"No files or folders selected" = "Файлы или папки не выбраны";
+
+"No folder selected" = "Папка не выбрана";
+
+"No recent archives" = "Нет недавних архивов";
+
+"OK" = "OK";
+
+"Only ZIP archives can add password protection in the current version." = "В текущей версии добавить парольную защиту можно только для ZIP-архивов.";
+
+"Only ZIP archives can change password protection in the current version." = "В текущей версии изменить парольную защиту можно только для ZIP-архивов.";
+
+"Only ZIP archives can remove password protection in the current version." = "В текущей версии убрать парольную защиту можно только для ZIP-архивов.";
+
+"Open" = "Открыть";
+
+"Open Archive" = "Открыть архив";
+
+"Open an Archive" = "Открыть архив";
+
+"Open an archive first." = "Сначала откройте архив.";
+
+"Operation Failed" = "Операция не удалась";
+
+"Output" = "Вывод";
+
+"Password" = "Пароль";
+
+"Password Changed" = "Пароль изменен";
+
+"Password Protected" = "Защищено паролем";
+
+"Password Removed" = "Пароль удален";
+
+"Password added" = "Пароль добавлен";
+
+"Password protection was added to %@" = "Для %@ добавлена парольная защита";
+
+"Password protection was changed for %@" = "Для %@ изменена парольная защита";
+
+"Password protection was removed from %@" = "Для %@ удалена парольная защита";
+
+"Please select a valid file or folder." = "Пожалуйста, выберите корректный файл или папку.";
+
+"Preparing…" = "Подготовка…";
+
+"Protect Archive" = "Защитить архив";
+
+"Protect the archive with a password" = "Защитить архив паролем";
+
+"Protection Applied" = "Защита применена";
+
+"Protection Progress" = "Ход применения защиты";
+
+"Quick Look" = "Quick Look";
+
+"Quick Look Preview" = "Предпросмотр Quick Look";
+
+"Read Archive" = "Чтение архива";
+
+"Reading archive contents" = "Чтение содержимого архива";
+
+"Ready" = "Готово";
+
+"Refresh" = "Обновить";
+
+"Remove" = "Удалить";
+
+"Remove Files" = "Удалить файлы";
+
+"Remove Password" = "Удалить пароль";
+
+"Removing Password" = "Удаление пароля";
+
+"Removing password protection" = "Удаление парольной защиты";
+
+"Replacing original archive" = "Замена исходного архива";
+
+"Reveal in Finder" = "Показать в Finder";
+
+"Scanning selected items" = "Сканирование выбранных элементов";
+
+"Search Current Folder" = "Искать в текущей папке";
+
+"Security" = "Безопасность";
+
+"Select a folder or archive, then press **Space** or **Command + Y** to preview its contents with Quick Look." = "Выберите папку или архив, затем нажмите **Space** или **Command + Y**, чтобы просмотреть содержимое через Quick Look.";
+
+"Select at least one item to remove." = "Выберите хотя бы один элемент для удаления.";
+
+"Select the archive folder to allow Zipora to extract files there." = "Выберите папку архива, чтобы разрешить Zipora извлекать туда файлы.";
+
+"Show hidden files" = "Показывать скрытые файлы";
+
+"Show path bar below preview table" = "Показывать строку пути под таблицей предпросмотра";
+
+"Size" = "Размер";
+
+"Split Volume Archive" = "Многотомный архив";
+
+"Start Extracting" = "Начать извлечение";
+
+"The current archive backend does not support creating password-protected archives yet." = "Текущий архивный движок пока не поддерживает создание архивов с парольной защитой.";
+
+"The current version rebuilds the ZIP archive and writes it back as an encrypted ZIP." = "Текущая версия пересобирает ZIP-архив и сохраняет его как зашифрованный ZIP.";
+
+"The current version rebuilds the ZIP archive and writes it back with the new password." = "Текущая версия пересобирает ZIP-архив и сохраняет его с новым паролем.";
+
+"The operation was cancelled." = "Операция была отменена.";
+
+"The password is incorrect, or this encryption method is not supported yet." = "Неверный пароль, или этот метод шифрования пока не поддерживается.";
+
+"The passwords do not match." = "Пароли не совпадают.";
+
+"The recent archive entry is no longer available." = "Недавняя запись архива больше недоступна.";
+
+"The save location will be selected after you click Create Archive." = "Место сохранения будет выбрано после нажатия «Создать архив».";
+
+"The selected archive is no longer available." = "Выбранный архив больше недоступен.";
+
+"This archive requires a password before it can be extracted." = "Для извлечения этого архива требуется пароль.";
+
+"This archive requires a password, or its encryption method is not supported yet." = "Для этого архива требуется пароль, или его метод шифрования пока не поддерживается.";
+
+"This archive requires a password." = "Для этого архива требуется пароль.";
+
+"This version supports reading and extracting common archive formats. Creating archives currently supports ZIP, 7Z, TAR, TAR.GZ, TAR.BZ2, and TAR.XZ." = "Эта версия поддерживает чтение и извлечение распространенных форматов архивов. Создание архивов сейчас поддерживает ZIP, 7Z, TAR, TAR.GZ, TAR.BZ2 и TAR.XZ.";
+
+"Total Size" = "Общий размер";
+
+"Unable to access related RAR volume files." = "Не удалось получить доступ к связанным томам RAR.";
+
+"Writing %@ archive" = "Запись архива %@";
+
+"Zipora" = "Zipora";
