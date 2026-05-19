@@ -6349,6 +6349,98 @@
         }
       }
     },
+    "This archive format is not supported." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieses Archivformat wird nicht unterstützt."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ce format d'archive n'est pas pris en charge."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアーカイブ形式はサポートされていません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 아카이브 형식은 지원되지 않습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Этот формат архива не поддерживается."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不支持此压缩包格式。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不支援此封存檔格式。"
+          }
+        }
+      }
+    },
+    "This archive is encrypted. Enter the password to continue." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieses Archiv ist verschlüsselt. Geben Sie das Passwort ein, um fortzufahren."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cette archive est chiffrée. Saisissez le mot de passe pour continuer."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアーカイブは暗号化されています。続行するにはパスワードを入力してください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 아카이브는 암호화되어 있습니다. 계속하려면 암호를 입력하세요."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Этот архив зашифрован. Введите пароль, чтобы продолжить."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此压缩包已加密，请输入密码继续。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此封存檔已加密，請輸入密碼繼續。"
+          }
+        }
+      }
+    },
     "This archive requires a password before it can be extracted." : {
       "localizations" : {
         "de" : {
@@ -6483,6 +6575,52 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "此封存檔需要密碼。"
+          }
+        }
+      }
+    },
+    "This archive uses an encryption method that is not supported yet." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieses Archiv verwendet eine Verschlüsselungsmethode, die noch nicht unterstützt wird."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cette archive utilise une méthode de chiffrement qui n'est pas encore prise en charge."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアーカイブは、まだサポートされていない暗号化方式を使用しています。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 아카이브는 아직 지원되지 않는 암호화 방식을 사용합니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Этот архив использует метод шифрования, который пока не поддерживается."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此压缩包使用的加密方式当前尚不支持。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此封存檔使用的加密方式目前尚不支援。"
           }
         }
       }

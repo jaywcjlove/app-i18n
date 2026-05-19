@@ -272,11 +272,17 @@
 
 "The selected archive is no longer available." = "選択したアーカイブは利用できなくなりました。";
 
+"This archive format is not supported." = "このアーカイブ形式はサポートされていません。";
+
+"This archive is encrypted. Enter the password to continue." = "このアーカイブは暗号化されています。続行するにはパスワードを入力してください。";
+
 "This archive requires a password before it can be extracted." = "このアーカイブを展開するにはパスワードが必要です。";
 
 "This archive requires a password, or its encryption method is not supported yet." = "このアーカイブにはパスワードが必要か、暗号化方式がまだサポートされていません。";
 
 "This archive requires a password." = "このアーカイブにはパスワードが必要です。";
+
+"This archive uses an encryption method that is not supported yet." = "このアーカイブは、まだサポートされていない暗号化方式を使用しています。";
 
 "This version supports reading and extracting common archive formats. Creating archives currently supports ZIP, 7Z, TAR, TAR.GZ, TAR.BZ2, and TAR.XZ." = "このバージョンは一般的なアーカイブ形式の読み込みと展開に対応しています。アーカイブの作成は現在、ZIP、7Z、TAR、TAR.GZ、TAR.BZ2、TAR.XZ に対応しています。";
 

@@ -272,11 +272,17 @@
 
 "The selected archive is no longer available." = "所选压缩包已不可用。";
 
+"This archive format is not supported." = "不支持此压缩包格式。";
+
+"This archive is encrypted. Enter the password to continue." = "此压缩包已加密，请输入密码继续。";
+
 "This archive requires a password before it can be extracted." = "此压缩包在解压前需要输入密码。";
 
 "This archive requires a password, or its encryption method is not supported yet." = "此压缩包需要密码，或当前尚不支持其加密方式。";
 
 "This archive requires a password." = "此压缩包需要密码。";
+
+"This archive uses an encryption method that is not supported yet." = "此压缩包使用的加密方式当前尚不支持。";
 
 "This version supports reading and extracting common archive formats. Creating archives currently supports ZIP, 7Z, TAR, TAR.GZ, TAR.BZ2, and TAR.XZ." = "当前版本支持读取和解压常见压缩格式；创建压缩包目前支持 ZIP、7Z、TAR、TAR.GZ、TAR.BZ2 和 TAR.XZ。";
 

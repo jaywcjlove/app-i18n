@@ -272,11 +272,17 @@
 
 "The selected archive is no longer available." = "선택한 아카이브를 더 이상 사용할 수 없습니다.";
 
+"This archive format is not supported." = "이 아카이브 형식은 지원되지 않습니다.";
+
+"This archive is encrypted. Enter the password to continue." = "이 아카이브는 암호화되어 있습니다. 계속하려면 암호를 입력하세요.";
+
 "This archive requires a password before it can be extracted." = "이 아카이브를 압축 해제하려면 암호가 필요합니다.";
 
 "This archive requires a password, or its encryption method is not supported yet." = "이 아카이브에는 암호가 필요하거나, 암호화 방식이 아직 지원되지 않습니다.";
 
 "This archive requires a password." = "이 아카이브에는 암호가 필요합니다.";
+
+"This archive uses an encryption method that is not supported yet." = "이 아카이브는 아직 지원되지 않는 암호화 방식을 사용합니다.";
 
 "This version supports reading and extracting common archive formats. Creating archives currently supports ZIP, 7Z, TAR, TAR.GZ, TAR.BZ2, and TAR.XZ." = "이 버전은 일반적인 아카이브 형식의 읽기와 압축 해제를 지원합니다. 아카이브 생성은 현재 ZIP, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ를 지원합니다.";
 

@@ -272,11 +272,17 @@
 
 "The selected archive is no longer available." = "L'archive sélectionnée n'est plus disponible.";
 
+"This archive format is not supported." = "Ce format d'archive n'est pas pris en charge.";
+
+"This archive is encrypted. Enter the password to continue." = "Cette archive est chiffrée. Saisissez le mot de passe pour continuer.";
+
 "This archive requires a password before it can be extracted." = "Cette archive nécessite un mot de passe avant de pouvoir être extraite.";
 
 "This archive requires a password, or its encryption method is not supported yet." = "Cette archive nécessite un mot de passe, ou sa méthode de chiffrement n'est pas encore prise en charge.";
 
 "This archive requires a password." = "Cette archive nécessite un mot de passe.";
+
+"This archive uses an encryption method that is not supported yet." = "Cette archive utilise une méthode de chiffrement qui n'est pas encore prise en charge.";
 
 "This version supports reading and extracting common archive formats. Creating archives currently supports ZIP, 7Z, TAR, TAR.GZ, TAR.BZ2, and TAR.XZ." = "Cette version prend en charge la lecture et l'extraction des formats d'archives courants. La création d'archives prend actuellement en charge ZIP, 7Z, TAR, TAR.GZ, TAR.BZ2 et TAR.XZ.";
 
