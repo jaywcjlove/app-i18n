@@ -6487,52 +6487,6 @@
         }
       }
     },
-    "This archive requires a password, or its encryption method is not supported yet." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dieses Archiv erfordert ein Passwort oder seine Verschlusselungsmethode wird noch nicht unterstutzt."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cette archive nécessite un mot de passe, ou sa méthode de chiffrement n'est pas encore prise en charge."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "このアーカイブにはパスワードが必要か、暗号化方式がまだサポートされていません。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "이 아카이브에는 암호가 필요하거나, 암호화 방식이 아직 지원되지 않습니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Для этого архива требуется пароль, или его метод шифрования пока не поддерживается."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "此压缩包需要密码，或当前尚不支持其加密方式。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "此封存檔需要密碼，或目前尚不支援其加密方式。"
-          }
-        }
-      }
-    },
     "This archive requires a password." : {
       "localizations" : {
         "de" : {
