@@ -6,6 +6,10 @@
 
 "%lld files" = "%lld 個のファイル";
 
+"%lld selected" = "%lld 件選択済み";
+
+"(%lld items)" = "（%lld 件）";
+
 "1. Open [System Settings](systemSettings)." = "1. [システム設定](systemSettings)を開きます。";
 
 "2. Scroll down to the \"Extensions\" section and click the info button in \"Folder Preview\"." = "2. 「拡張機能」セクションまでスクロールし、「Folder Preview」の情報ボタンをクリックします。";
@@ -118,6 +122,12 @@
 
 "Extract Archive" = "アーカイブを展開";
 
+"Extract Selected" = "選択項目を展開";
+
+"Extract Selected Items" = "選択した項目を展開";
+
+"Extract Selected..." = "選択項目を展開...";
+
 "Extract to Folder" = "フォルダに展開";
 
 "Extracted to %@" = "%@ に展開しました";
@@ -145,6 +155,10 @@
 "Latest Output" = "最新の出力";
 
 "Loaded %lld entries" = "%lld 項目を読み込みました";
+
+"Missing or damaged RAR volume. Make sure %@ is in the same folder and try again." = "RAR ボリュームが見つからないか破損しています。%@ が同じフォルダにあることを確認して再試行してください。";
+
+"Missing or damaged RAR volume. Make sure all related RAR volume files are in the same folder and try again." = "RAR ボリュームが見つからないか破損しています。すべての関連する RAR ボリュームファイルが同じフォルダにあることを確認して再試行してください。";
 
 "Modified" = "変更日";
 
@@ -230,6 +244,8 @@
 
 "Remove Password" = "パスワードを削除";
 
+"Remove Selected" = "選択項目を削除";
+
 "Removing Password" = "パスワードを削除中";
 
 "Removing password protection" = "パスワード保護を解除中";
@@ -281,6 +297,8 @@
 "This archive format is not supported." = "このアーカイブ形式はサポートされていません。";
 
 "This archive is encrypted. Enter the password to continue." = "このアーカイブは暗号化されています。続行するにはパスワードを入力してください。";
+
+"This archive is too large to open through the in-memory fallback." = "このアーカイブは大きすぎるため、メモリフォールバックで開くことができません。";
 
 "This archive requires a password before it can be extracted." = "このアーカイブを展開するにはパスワードが必要です。";
 

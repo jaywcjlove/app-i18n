@@ -6,6 +6,10 @@
 
 "%lld files" = "%lld files";
 
+"%lld selected" = "%lld selected";
+
+"(%lld items)" = "(%lld items)";
+
 "1. Open [System Settings](systemSettings)." = "1. Open [System Settings](systemSettings).";
 
 "2. Scroll down to the \"Extensions\" section and click the info button in \"Folder Preview\"." = "2. Scroll down to the \"Extensions\" section and click the info button in \"Folder Preview\".";
@@ -118,6 +122,12 @@
 
 "Extract Archive" = "Extract Archive";
 
+"Extract Selected" = "Extract Selected";
+
+"Extract Selected Items" = "Extract Selected Items";
+
+"Extract Selected..." = "Extract Selected...";
+
 "Extract to Folder" = "Extract to Folder";
 
 "Extracted to %@" = "Extracted to %@";
@@ -145,6 +155,10 @@
 "Latest Output" = "Latest Output";
 
 "Loaded %lld entries" = "Loaded %lld entries";
+
+"Missing or damaged RAR volume. Make sure %@ is in the same folder and try again." = "Missing or damaged RAR volume. Make sure %@ is in the same folder and try again.";
+
+"Missing or damaged RAR volume. Make sure all related RAR volume files are in the same folder and try again." = "Missing or damaged RAR volume. Make sure all related RAR volume files are in the same folder and try again.";
 
 "Modified" = "Modified";
 
@@ -230,6 +244,8 @@
 
 "Remove Password" = "Remove Password";
 
+"Remove Selected" = "Remove Selected";
+
 "Removing Password" = "Removing Password";
 
 "Removing password protection" = "Removing password protection";
@@ -281,6 +297,8 @@
 "This archive format is not supported." = "This archive format is not supported.";
 
 "This archive is encrypted. Enter the password to continue." = "This archive is encrypted. Enter the password to continue.";
+
+"This archive is too large to open through the in-memory fallback." = "This archive is too large to open through the in-memory fallback.";
 
 "This archive requires a password before it can be extracted." = "This archive requires a password before it can be extracted.";
 

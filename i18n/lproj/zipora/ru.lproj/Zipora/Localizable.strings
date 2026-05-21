@@ -6,6 +6,10 @@
 
 "%lld files" = "%lld файлов";
 
+"%lld selected" = "%lld выбрано";
+
+"(%lld items)" = "(%lld элементов)";
+
 "1. Open [System Settings](systemSettings)." = "1. Откройте [Системные настройки](systemSettings).";
 
 "2. Scroll down to the \"Extensions\" section and click the info button in \"Folder Preview\"." = "2. Прокрутите вниз до раздела \"Расширения\" и нажмите кнопку информации в \"Предпросмотре папок\".";
@@ -118,6 +122,12 @@
 
 "Extract Archive" = "Извлечь архив";
 
+"Extract Selected" = "Извлечь выбранное";
+
+"Extract Selected Items" = "Извлечь выбранные элементы";
+
+"Extract Selected..." = "Извлечь выбранное...";
+
 "Extract to Folder" = "Извлечь в папку";
 
 "Extracted to %@" = "Извлечено в %@";
@@ -145,6 +155,10 @@
 "Latest Output" = "Последний вывод";
 
 "Loaded %lld entries" = "Загружено %lld записей";
+
+"Missing or damaged RAR volume. Make sure %@ is in the same folder and try again." = "Отсутствует или поврежден том RAR. Убедитесь, что %@ находится в той же папке, и попробуйте снова.";
+
+"Missing or damaged RAR volume. Make sure all related RAR volume files are in the same folder and try again." = "Отсутствует или поврежден том RAR. Убедитесь, что все связанные тома RAR находятся в одной папке, и попробуйте снова.";
 
 "Modified" = "Изменено";
 
@@ -230,6 +244,8 @@
 
 "Remove Password" = "Удалить пароль";
 
+"Remove Selected" = "Удалить выбранное";
+
 "Removing Password" = "Удаление пароля";
 
 "Removing password protection" = "Удаление парольной защиты";
@@ -281,6 +297,8 @@
 "This archive format is not supported." = "Этот формат архива не поддерживается.";
 
 "This archive is encrypted. Enter the password to continue." = "Этот архив зашифрован. Введите пароль, чтобы продолжить.";
+
+"This archive is too large to open through the in-memory fallback." = "Этот архив слишком большой для открытия через резервную загрузку в памяти.";
 
 "This archive requires a password before it can be extracted." = "Для извлечения этого архива требуется пароль.";
 

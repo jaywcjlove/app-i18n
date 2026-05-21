@@ -6,6 +6,10 @@
 
 "%lld files" = "%lld 個檔案";
 
+"%lld selected" = "%lld 已選取";
+
+"(%lld items)" = "（%lld 項目）";
+
 "1. Open [System Settings](systemSettings)." = "1. 開啟[系統設定](systemSettings)。";
 
 "2. Scroll down to the \"Extensions\" section and click the info button in \"Folder Preview\"." = "2. 向下捲動到「擴充功能」區段，然後點擊「資料夾預覽」中的資訊按鈕。";
@@ -118,6 +122,12 @@
 
 "Extract Archive" = "解壓封存檔";
 
+"Extract Selected" = "解壓所選項目";
+
+"Extract Selected Items" = "解壓所選項目";
+
+"Extract Selected..." = "解壓所選項目...";
+
 "Extract to Folder" = "解壓到資料夾";
 
 "Extracted to %@" = "已解壓到 %@";
@@ -145,6 +155,10 @@
 "Latest Output" = "最新輸出";
 
 "Loaded %lld entries" = "已載入 %lld 個項目";
+
+"Missing or damaged RAR volume. Make sure %@ is in the same folder and try again." = "RAR 分卷遺失或損壞。請確保 %@ 位於同一資料夾後重試。";
+
+"Missing or damaged RAR volume. Make sure all related RAR volume files are in the same folder and try again." = "RAR 分卷遺失或損壞。請確保所有相關的 RAR 分卷檔案都在同一資料夾後重試。";
 
 "Modified" = "修改時間";
 
@@ -230,6 +244,8 @@
 
 "Remove Password" = "移除密碼";
 
+"Remove Selected" = "移除所選項目";
+
 "Removing Password" = "正在移除密碼";
 
 "Removing password protection" = "正在移除密碼保護";
@@ -281,6 +297,8 @@
 "This archive format is not supported." = "不支援此封存檔格式。";
 
 "This archive is encrypted. Enter the password to continue." = "此封存檔已加密，請輸入密碼繼續。";
+
+"This archive is too large to open through the in-memory fallback." = "此封存檔過大，無法透過記憶體備援方式開啟。";
 
 "This archive requires a password before it can be extracted." = "此封存檔在解壓前需要輸入密碼。";
 

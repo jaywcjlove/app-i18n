@@ -6,6 +6,10 @@
 
 "%lld files" = "%lld개 파일";
 
+"%lld selected" = "%lld개 선택됨";
+
+"(%lld items)" = "(%lld개 항목)";
+
 "1. Open [System Settings](systemSettings)." = "1. [시스템 설정](systemSettings)을 엽니다.";
 
 "2. Scroll down to the \"Extensions\" section and click the info button in \"Folder Preview\"." = "2. \"확장 프로그램\" 섹션으로 스크롤한 다음 \"Folder Preview\"의 정보 버튼을 클릭합니다.";
@@ -118,6 +122,12 @@
 
 "Extract Archive" = "아카이브 압축 해제";
 
+"Extract Selected" = "선택 항목 압축 해제";
+
+"Extract Selected Items" = "선택한 항목 압축 해제";
+
+"Extract Selected..." = "선택 항목 압축 해제...";
+
 "Extract to Folder" = "폴더로 압축 해제";
 
 "Extracted to %@" = "%@에 압축 해제됨";
@@ -145,6 +155,10 @@
 "Latest Output" = "최근 출력";
 
 "Loaded %lld entries" = "%lld개 항목을 불러왔습니다";
+
+"Missing or damaged RAR volume. Make sure %@ is in the same folder and try again." = "RAR 분할 볼륨이 없거나 손상되었습니다. %@가 같은 폴더에 있는지 확인한 후 다시 시도하세요.";
+
+"Missing or damaged RAR volume. Make sure all related RAR volume files are in the same folder and try again." = "RAR 분할 볼륨이 없거나 손상되었습니다. 모든 관련 RAR 분할 볼륨 파일이 같은 폴더에 있는지 확인한 후 다시 시도하세요.";
 
 "Modified" = "수정일";
 
@@ -230,6 +244,8 @@
 
 "Remove Password" = "암호 제거";
 
+"Remove Selected" = "선택 항목 제거";
+
 "Removing Password" = "암호 제거 중";
 
 "Removing password protection" = "암호 보호 제거 중";
@@ -281,6 +297,8 @@
 "This archive format is not supported." = "이 아카이브 형식은 지원되지 않습니다.";
 
 "This archive is encrypted. Enter the password to continue." = "이 아카이브는 암호화되어 있습니다. 계속하려면 암호를 입력하세요.";
+
+"This archive is too large to open through the in-memory fallback." = "이 아카이브는 너무 커서 메모리 대체 방식으로 열 수 없습니다.";
 
 "This archive requires a password before it can be extracted." = "이 아카이브를 압축 해제하려면 암호가 필요합니다.";
 
