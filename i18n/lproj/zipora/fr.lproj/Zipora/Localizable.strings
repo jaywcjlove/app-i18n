@@ -22,6 +22,10 @@
 
 "Add Files" = "Ajouter des fichiers";
 
+"Add Folder" = "Ajouter un dossier";
+
+"Add Folder Permission" = "Ajouter une autorisation de dossier";
+
 "Add Password" = "Ajouter un mot de passe";
 
 "Adding password protection" = "Ajout d'une protection par mot de passe";
@@ -142,6 +146,10 @@
 
 "Filters" = "Filtres";
 
+"Folder Access" = "Accès au dossier";
+
+"Folder Permissions" = "Autorisations de dossier";
+
 "Folder depth" = "Profondeur des dossiers";
 
 "Format" = "Format";
@@ -169,6 +177,8 @@
 "New Password" = "Nouveau mot de passe";
 
 "No archive opened" = "Aucune archive ouverte";
+
+"No authorized folders." = "Aucun dossier autorisé.";
 
 "No files or folders selected" = "Aucun fichier ou dossier sélectionné";
 
@@ -242,6 +252,8 @@
 
 "Remove Files" = "Supprimer les fichiers";
 
+"Remove Folder Permission" = "Supprimer l'autorisation du dossier";
+
 "Remove Password" = "Supprimer le mot de passe";
 
 "Remove Selected" = "Supprimer la sélection";
@@ -264,6 +276,8 @@
 
 "Select at least one item to remove." = "Sélectionnez au moins un élément à supprimer.";
 
+"Select folders to allow Zipora to extract archives there without asking again." = "Sélectionnez des dossiers pour autoriser Zipora à y extraire des archives sans redemander.";
+
 "Select the archive folder to allow Zipora to extract files there." = "Sélectionnez le dossier de l'archive pour autoriser Zipora à y extraire des fichiers.";
 
 "Show hidden files" = "Afficher les fichiers cachés";
@@ -271,6 +285,8 @@
 "Show path bar below preview table" = "Afficher la barre de chemin sous le tableau d'aperçu";
 
 "Size" = "Taille";
+
+"Some folders could not be authorized. Please choose them again." = "Certains dossiers n'ont pas pu être autorisés. Veuillez les choisir à nouveau.";
 
 "Split Volume Archive" = "Archive multi-volume";
 

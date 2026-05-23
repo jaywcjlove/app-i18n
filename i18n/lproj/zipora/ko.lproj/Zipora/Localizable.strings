@@ -22,6 +22,10 @@
 
 "Add Files" = "파일 추가";
 
+"Add Folder" = "폴더 추가";
+
+"Add Folder Permission" = "폴더 권한 추가";
+
 "Add Password" = "암호 추가";
 
 "Adding password protection" = "암호 보호 추가 중";
@@ -142,6 +146,10 @@
 
 "Filters" = "필터";
 
+"Folder Access" = "폴더 접근";
+
+"Folder Permissions" = "폴더 권한";
+
 "Folder depth" = "폴더 깊이";
 
 "Format" = "형식";
@@ -169,6 +177,8 @@
 "New Password" = "새 암호";
 
 "No archive opened" = "열린 아카이브가 없습니다";
+
+"No authorized folders." = "권한이 부여된 폴더가 없습니다.";
 
 "No files or folders selected" = "선택된 파일이나 폴더가 없습니다";
 
@@ -242,6 +252,8 @@
 
 "Remove Files" = "파일 제거";
 
+"Remove Folder Permission" = "폴더 권한 제거";
+
 "Remove Password" = "암호 제거";
 
 "Remove Selected" = "선택 항목 제거";
@@ -264,6 +276,8 @@
 
 "Select at least one item to remove." = "제거할 항목을 하나 이상 선택하세요.";
 
+"Select folders to allow Zipora to extract archives there without asking again." = "Zipora가 다시 묻지 않고 해당 위치에 아카이브를 압축 해제할 수 있도록 폴더를 선택하세요.";
+
 "Select the archive folder to allow Zipora to extract files there." = "Zipora가 해당 위치에 파일을 압축 해제할 수 있도록 아카이브 폴더를 선택하세요.";
 
 "Show hidden files" = "숨김 파일 보기";
@@ -271,6 +285,8 @@
 "Show path bar below preview table" = "미리보기 표 아래에 경로 막대 표시";
 
 "Size" = "크기";
+
+"Some folders could not be authorized. Please choose them again." = "일부 폴더에 권한을 부여할 수 없습니다. 다시 선택해 주세요.";
 
 "Split Volume Archive" = "분할 볼륨 아카이브";
 

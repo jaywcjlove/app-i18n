@@ -22,6 +22,10 @@
 
 "Add Files" = "加入檔案";
 
+"Add Folder" = "新增資料夾";
+
+"Add Folder Permission" = "新增資料夾權限";
+
 "Add Password" = "新增密碼";
 
 "Adding password protection" = "正在新增密碼保護";
@@ -142,6 +146,10 @@
 
 "Filters" = "篩選";
 
+"Folder Access" = "資料夾存取";
+
+"Folder Permissions" = "資料夾權限";
+
 "Folder depth" = "資料夾層級";
 
 "Format" = "格式";
@@ -169,6 +177,8 @@
 "New Password" = "新密碼";
 
 "No archive opened" = "尚未開啟封存檔";
+
+"No authorized folders." = "沒有已授權的資料夾。";
 
 "No files or folders selected" = "尚未選擇檔案或資料夾";
 
@@ -242,6 +252,8 @@
 
 "Remove Files" = "移除檔案";
 
+"Remove Folder Permission" = "移除資料夾權限";
+
 "Remove Password" = "移除密碼";
 
 "Remove Selected" = "移除所選項目";
@@ -264,6 +276,8 @@
 
 "Select at least one item to remove." = "請至少選擇一個要移除的項目。";
 
+"Select folders to allow Zipora to extract archives there without asking again." = "選擇資料夾，允許 Zipora 在不再詢問的情況下於該處解壓封存檔。";
+
 "Select the archive folder to allow Zipora to extract files there." = "選擇封存檔所在資料夾，以允許 Zipora 在此處解壓檔案。";
 
 "Show hidden files" = "顯示隱藏檔案";
@@ -271,6 +285,8 @@
 "Show path bar below preview table" = "在預覽表格下方顯示路徑列";
 
 "Size" = "大小";
+
+"Some folders could not be authorized. Please choose them again." = "某些資料夾無法授權。請重新選擇。";
 
 "Split Volume Archive" = "分卷封存檔";
 

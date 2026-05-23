@@ -22,6 +22,10 @@
 
 "Add Files" = "Добавить файлы";
 
+"Add Folder" = "Добавить папку";
+
+"Add Folder Permission" = "Добавить разрешение для папки";
+
 "Add Password" = "Добавить пароль";
 
 "Adding password protection" = "Добавление парольной защиты";
@@ -142,6 +146,10 @@
 
 "Filters" = "Фильтры";
 
+"Folder Access" = "Доступ к папке";
+
+"Folder Permissions" = "Разрешения для папок";
+
 "Folder depth" = "Глубина папок";
 
 "Format" = "Формат";
@@ -169,6 +177,8 @@
 "New Password" = "Новый пароль";
 
 "No archive opened" = "Архив не открыт";
+
+"No authorized folders." = "Нет авторизованных папок.";
 
 "No files or folders selected" = "Файлы или папки не выбраны";
 
@@ -242,6 +252,8 @@
 
 "Remove Files" = "Удалить файлы";
 
+"Remove Folder Permission" = "Удалить разрешение для папки";
+
 "Remove Password" = "Удалить пароль";
 
 "Remove Selected" = "Удалить выбранное";
@@ -264,6 +276,8 @@
 
 "Select at least one item to remove." = "Выберите хотя бы один элемент для удаления.";
 
+"Select folders to allow Zipora to extract archives there without asking again." = "Выберите папки, чтобы разрешить Zipora извлекать туда архивы без повторного запроса.";
+
 "Select the archive folder to allow Zipora to extract files there." = "Выберите папку архива, чтобы разрешить Zipora извлекать туда файлы.";
 
 "Show hidden files" = "Показывать скрытые файлы";
@@ -271,6 +285,8 @@
 "Show path bar below preview table" = "Показывать строку пути под таблицей предпросмотра";
 
 "Size" = "Размер";
+
+"Some folders could not be authorized. Please choose them again." = "Некоторые папки не удалось авторизовать. Пожалуйста, выберите их снова.";
 
 "Split Volume Archive" = "Многотомный архив";
 

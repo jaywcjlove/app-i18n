@@ -22,6 +22,10 @@
 
 "Add Files" = "ファイルを追加";
 
+"Add Folder" = "フォルダを追加";
+
+"Add Folder Permission" = "フォルダ権限を追加";
+
 "Add Password" = "パスワードを追加";
 
 "Adding password protection" = "パスワード保護を追加中";
@@ -142,6 +146,10 @@
 
 "Filters" = "フィルタ";
 
+"Folder Access" = "フォルダアクセス";
+
+"Folder Permissions" = "フォルダ権限";
+
 "Folder depth" = "フォルダの深さ";
 
 "Format" = "形式";
@@ -169,6 +177,8 @@
 "New Password" = "新しいパスワード";
 
 "No archive opened" = "アーカイブが開かれていません";
+
+"No authorized folders." = "許可されたフォルダはありません。";
 
 "No files or folders selected" = "ファイルまたはフォルダが選択されていません";
 
@@ -242,6 +252,8 @@
 
 "Remove Files" = "ファイルを削除";
 
+"Remove Folder Permission" = "フォルダ権限を削除";
+
 "Remove Password" = "パスワードを削除";
 
 "Remove Selected" = "選択項目を削除";
@@ -264,6 +276,8 @@
 
 "Select at least one item to remove." = "削除する項目を少なくとも 1 つ選択してください。";
 
+"Select folders to allow Zipora to extract archives there without asking again." = "Zipora が次回以降確認せずにその場所へアーカイブを展開できるよう、フォルダを選択してください。";
+
 "Select the archive folder to allow Zipora to extract files there." = "Zipora がその場所にファイルを展開できるよう、アーカイブのフォルダを選択してください。";
 
 "Show hidden files" = "隠しファイルを表示";
@@ -271,6 +285,8 @@
 "Show path bar below preview table" = "プレビュー表の下にパスバーを表示";
 
 "Size" = "サイズ";
+
+"Some folders could not be authorized. Please choose them again." = "一部のフォルダを許可できませんでした。もう一度選択してください。";
 
 "Split Volume Archive" = "分割ボリュームアーカイブ";
 
