@@ -1,0 +1,1116 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Accessibility" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "辅助功能"
+          }
+        }
+      }
+    },
+    "Allows Dictate to capture your voice locally for speech recognition. Audio is not uploaded." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许 Dictate 在本地采集你的语音用于识别。音频不会上传。"
+          }
+        }
+      }
+    },
+    "Allows Dictate to detect the selected hold-to-dictate shortcut while you are using other apps." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许 Dictate 在你使用其他应用时检测所选的按住听写快捷键。"
+          }
+        }
+      }
+    },
+    "Allows Dictate to insert recognized text into the app and text field currently focused by the cursor." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许 Dictate 将识别文本插入到当前光标聚焦的应用与文本输入框中。"
+          }
+        }
+      }
+    },
+    "Audio never leaves this Mac" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "音频绝不会离开这台 Mac"
+          }
+        }
+      }
+    },
+    "Auto" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动"
+          }
+        }
+      }
+    },
+    "Auto detects the spoken language. Choosing a language can improve short dictation accuracy." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动检测口语语言。手动选择语言可提升短句听写准确率。"
+          }
+        }
+      }
+    },
+    "Available Models" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可用模型"
+          }
+        }
+      }
+    },
+    "Chinese" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中文"
+          }
+        }
+      }
+    },
+    "Chinese and English Whisper models" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中文与英文 Whisper 模型"
+          }
+        }
+      }
+    },
+    "Chinese Models" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中文模型"
+          }
+        }
+      }
+    },
+    "Commands" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "命令"
+          }
+        }
+      }
+    },
+    "Compact MLX model for Chinese and multilingual dictation." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "适合中文和多语言听写的紧凑型 MLX 模型。"
+          }
+        }
+      }
+    },
+    "Compact MLX multilingual ASR model." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紧凑型 MLX 多语言 ASR 模型。"
+          }
+        }
+      }
+    },
+    "CoreML multilingual ASR model for broad language coverage." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "覆盖多种语言的 CoreML 多语言 ASR 模型。"
+          }
+        }
+      }
+    },
+    "Current model" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当前模型"
+          }
+        }
+      }
+    },
+    "Device" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设备"
+          }
+        }
+      }
+    },
+    "Dictation shortcut" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "听写快捷键"
+          }
+        }
+      }
+    },
+    "Download" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载"
+          }
+        }
+      }
+    },
+    "Download Models..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载模型..."
+          }
+        }
+      }
+    },
+    "Downloading" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载中"
+          }
+        }
+      }
+    },
+    "Downloading the CoreML model once. Voice audio is not uploaded." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在一次性下载 CoreML 模型。语音音频不会上传。"
+          }
+        }
+      }
+    },
+    "English" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "英文"
+          }
+        }
+      }
+    },
+    "Fast CoreML ASR model for English dictation." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "适合英文听写的快速 CoreML ASR 模型。"
+          }
+        }
+      }
+    },
+    "French" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "法语"
+          }
+        }
+      }
+    },
+    "General" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通用"
+          }
+        }
+      }
+    },
+    "German" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "德语"
+          }
+        }
+      }
+    },
+    "Hide Dock icon" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏 Dock 图标"
+          }
+        }
+      }
+    },
+    "Higher precision 0.6B MLX model with more memory use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "精度更高的 0.6B MLX 模型，会占用更多内存。"
+          }
+        }
+      }
+    },
+    "Higher precision 1B MLX multilingual ASR model with more memory use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "精度更高的 1B MLX 多语言 ASR 模型，会占用更多内存。"
+          }
+        }
+      }
+    },
+    "Higher precision compact MLX multilingual ASR model." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "精度更高的紧凑型 MLX 多语言 ASR 模型。"
+          }
+        }
+      }
+    },
+    "Hold %@ to dictate, release to insert" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按住 %@ 开始听写，松开后插入"
+          }
+        }
+      }
+    },
+    "Hold %@ to start voice input." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按住 %@ 开始语音输入。"
+          }
+        }
+      }
+    },
+    "huggingface.co/aufklarer" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "huggingface.co/aufklarer"
+          }
+        }
+      }
+    },
+    "huggingface.co/whisperkit-coreml" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "huggingface.co/whisperkit-coreml"
+          }
+        }
+      }
+    },
+    "Input Monitoring" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入监控"
+          }
+        }
+      }
+    },
+    "Inserting" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在插入"
+          }
+        }
+      }
+    },
+    "Installed Models" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已安装模型"
+          }
+        }
+      }
+    },
+    "Installing local model" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在安装本地模型"
+          }
+        }
+      }
+    },
+    "Japanese" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日语"
+          }
+        }
+      }
+    },
+    "Keep Dictate available from the menu bar and start it automatically after signing in." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "让 Dictate 保持在菜单栏可用，并在登录后自动启动。"
+          }
+        }
+      }
+    },
+    "Korean" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "韩语"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "语言"
+          }
+        }
+      }
+    },
+    "Large MLX multilingual ASR model for higher quality local transcription." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大型 MLX 多语言 ASR 模型，适合更高质量的本地转写。"
+          }
+        }
+      }
+    },
+    "Larger MLX model for quality-focused local transcription." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更大的 MLX 模型，适合优先考虑识别质量的本地转写。"
+          }
+        }
+      }
+    },
+    "Larger MLX multilingual ASR model for quality-focused local transcription." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更大的 MLX 多语言 ASR 模型，适合优先考虑识别质量的本地转写。"
+          }
+        }
+      }
+    },
+    "Largest MLX multilingual ASR model for quality-focused local transcription." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大的 MLX 多语言 ASR 模型，适合优先考虑识别质量的本地转写。"
+          }
+        }
+      }
+    },
+    "Launch at Login" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登录时启动"
+          }
+        }
+      }
+    },
+    "Listening" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在聆听"
+          }
+        }
+      }
+    },
+    "Loading model" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在加载模型"
+          }
+        }
+      }
+    },
+    "Loading WhisperKit model catalog..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在加载 WhisperKit 模型目录..."
+          }
+        }
+      }
+    },
+    "Local model is ready: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本地模型已就绪：%@"
+          }
+        }
+      }
+    },
+    "Local Whisper dictation for macOS" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "适用于 macOS 的本地 Whisper 听写"
+          }
+        }
+      }
+    },
+    "Microphone" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "麦克风"
+          }
+        }
+      }
+    },
+    "Microphone and Accessibility permissions are needed for local capture and cursor insertion." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要麦克风和辅助功能权限，才能在本地采集语音并在光标处插入文本。"
+          }
+        }
+      }
+    },
+    "Microphone Privacy Settings..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "麦克风隐私设置..."
+          }
+        }
+      }
+    },
+    "MLX speech models are downloaded from Hugging Face and stored locally before use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MLX 语音模型会先从 Hugging Face 下载并存储到本地，然后才能使用。"
+          }
+        }
+      }
+    },
+    "Model installed" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模型已安装"
+          }
+        }
+      }
+    },
+    "Model: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模型：%@"
+          }
+        }
+      }
+    },
+    "Models" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模型"
+          }
+        }
+      }
+    },
+    "Needs attention" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要处理"
+          }
+        }
+      }
+    },
+    "No Installed Models" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有已安装模型"
+          }
+        }
+      }
+    },
+    "No local models installed." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未安装本地模型。"
+          }
+        }
+      }
+    },
+    "No Model Installed" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未安装模型"
+          }
+        }
+      }
+    },
+    "Offline only" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅离线"
+          }
+        }
+      }
+    },
+    "Open Main Window" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开主窗口"
+          }
+        }
+      }
+    },
+    "Open Settings..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开设置..."
+          }
+        }
+      }
+    },
+    "Permissions" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "权限"
+          }
+        }
+      }
+    },
+    "Preparing local model: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在准备本地模型：%@"
+          }
+        }
+      }
+    },
+    "Preparing recognized text." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在准备识别文本。"
+          }
+        }
+      }
+    },
+    "Press and hold the selected key to start dictation. Release it to transcribe and insert." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按住所选按键开始听写，松开后转写并插入。"
+          }
+        }
+      }
+    },
+    "Quit Dictate" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出 Dictate"
+          }
+        }
+      }
+    },
+    "Qwen3-ASR models are downloaded by speech-swift the first time you use them." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qwen3-ASR 模型会在首次使用时由 speech-swift 下载。"
+          }
+        }
+      }
+    },
+    "Qwen3-ASR models are downloaded from Hugging Face and stored locally before use." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qwen3-ASR 模型会先从 Hugging Face 下载并存储到本地，然后才能使用。"
+          }
+        }
+      }
+    },
+    "Ready" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "准备就绪"
+          }
+        }
+      }
+    },
+    "Recommended for Apple Silicon Macs with 16 GB memory. Downloads before use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐 16 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。"
+          }
+        }
+      }
+    },
+    "Recommended for Apple Silicon Macs with 16 GB memory. Downloads on first use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐 16 GB 内存的 Apple Silicon Mac 使用。首次使用时下载。"
+          }
+        }
+      }
+    },
+    "Recommended for Apple Silicon Macs with 24 GB memory. Downloads before use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐 24 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。"
+          }
+        }
+      }
+    },
+    "Recommended for Apple Silicon Macs with 32 GB memory. Downloads before use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐 32 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。"
+          }
+        }
+      }
+    },
+    "Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐 64 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。"
+          }
+        }
+      }
+    },
+    "Recommended for Apple Silicon Macs. Downloads before use." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐 Apple Silicon Mac 使用。使用前需要下载。"
+          }
+        }
+      }
+    },
+    "Refresh WhisperKit model catalog" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刷新 WhisperKit 模型目录"
+          }
+        }
+      }
+    },
+    "Requesting permissions" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在请求权限"
+          }
+        }
+      }
+    },
+    "Requires macOS 15 or newer on Apple Silicon. Downloads before use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要 Apple Silicon 且 macOS 15 或更高版本。使用前需要下载。"
+          }
+        }
+      }
+    },
+    "Requires macOS 15 or newer on Apple Silicon. Downloads on first use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要 Apple Silicon 且 macOS 15 或更高版本。首次使用时下载。"
+          }
+        }
+      }
+    },
+    "Right Command" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "右 Command"
+          }
+        }
+      }
+    },
+    "Right Control" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "右 Control"
+          }
+        }
+      }
+    },
+    "Right Option" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "右 Option"
+          }
+        }
+      }
+    },
+    "Running local CoreML Whisper inference on this Mac." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在这台 Mac 上运行本地 CoreML Whisper 推理。"
+          }
+        }
+      }
+    },
+    "Runs local Core ML speech models optimized for Apple Silicon." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "运行针对 Apple Silicon 优化的本地 Core ML 语音模型。"
+          }
+        }
+      }
+    },
+    "Runs local MLX speech models, including Qwen3-ASR and Omnilingual." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "运行本地 MLX 语音模型，包括 Qwen3-ASR 和 Omnilingual。"
+          }
+        }
+      }
+    },
+    "Runs Qwen3-ASR models through speech-swift. Optimized for Chinese and multilingual dictation." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通过 speech-swift 运行 Qwen3-ASR 模型，针对中文和多语言听写优化。"
+          }
+        }
+      }
+    },
+    "Runs speech-swift ASR models, including Qwen3-ASR, Parakeet, and Omnilingual." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "运行 speech-swift ASR 模型，包括 Qwen3-ASR、Parakeet 和 Omnilingual。"
+          }
+        }
+      }
+    },
+    "Runs Whisper CoreML models through WhisperKit." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通过 WhisperKit 运行 Whisper CoreML 模型。"
+          }
+        }
+      }
+    },
+    "Shortcut" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "快捷键"
+          }
+        }
+      }
+    },
+    "Show model folder in Finder" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Finder 中显示模型文件夹"
+          }
+        }
+      }
+    },
+    "Source" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "来源"
+          }
+        }
+      }
+    },
+    "Spanish" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "西班牙语"
+          }
+        }
+      }
+    },
+    "Speak Chinese or English. Release %@ to stop." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "说中文或英文。松开 %@ 停止。"
+          }
+        }
+      }
+    },
+    "Speech Engine" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "语音引擎"
+          }
+        }
+      }
+    },
+    "Speech Swift ASR models are downloaded from Hugging Face and stored locally before use." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speech Swift ASR 模型会先从 Hugging Face 下载并存储到本地，然后才能使用。"
+          }
+        }
+      }
+    },
+    "Status: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状态：%@"
+          }
+        }
+      }
+    },
+    "System default" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系统默认"
+          }
+        }
+      }
+    },
+    "The selected model is English-only." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所选模型仅支持英文。"
+          }
+        }
+      }
+    },
+    "This list is provided by WhisperKit for the current Mac. If the remote catalog cannot load, the app falls back to WhisperKit's local recommendations." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此列表由 WhisperKit 针对当前 Mac 提供。若远程目录加载失败，应用将回退到 WhisperKit 的本地推荐。"
+          }
+        }
+      }
+    },
+    "Transcribing locally" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在本地转写"
+          }
+        }
+      }
+    },
+    "Use" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用"
+          }
+        }
+      }
+    },
+    "Using" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用中"
+          }
+        }
+      }
+    },
+    "Using local WhisperKit recommendations. Remote catalog failed: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在使用 WhisperKit 本地推荐。远程目录加载失败：%@"
+          }
+        }
+      }
+    },
+    "When enabled, Dictate stays in the menu bar and does not show an icon in the Dock." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用后，Dictate 会保留在菜单栏中，不在 Dock 中显示图标。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.2"
+}

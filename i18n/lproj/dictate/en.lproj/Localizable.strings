@@ -1,0 +1,219 @@
+"Accessibility" = "Accessibility";
+
+"Allows Dictate to capture your voice locally for speech recognition. Audio is not uploaded." = "Allows Dictate to capture your voice locally for speech recognition. Audio is not uploaded.";
+
+"Allows Dictate to detect the selected hold-to-dictate shortcut while you are using other apps." = "Allows Dictate to detect the selected hold-to-dictate shortcut while you are using other apps.";
+
+"Allows Dictate to insert recognized text into the app and text field currently focused by the cursor." = "Allows Dictate to insert recognized text into the app and text field currently focused by the cursor.";
+
+"Audio never leaves this Mac" = "Audio never leaves this Mac";
+
+"Auto" = "Auto";
+
+"Auto detects the spoken language. Choosing a language can improve short dictation accuracy." = "Auto detects the spoken language. Choosing a language can improve short dictation accuracy.";
+
+"Available Models" = "Available Models";
+
+"Chinese" = "Chinese";
+
+"Chinese Models" = "Chinese Models";
+
+"Chinese and English Whisper models" = "Chinese and English Whisper models";
+
+"Commands" = "Commands";
+
+"Compact MLX model for Chinese and multilingual dictation." = "Compact MLX model for Chinese and multilingual dictation.";
+
+"Compact MLX multilingual ASR model." = "Compact MLX multilingual ASR model.";
+
+"CoreML multilingual ASR model for broad language coverage." = "CoreML multilingual ASR model for broad language coverage.";
+
+"Current model" = "Current model";
+
+"Device" = "Device";
+
+"Dictation shortcut" = "Dictation shortcut";
+
+"Download" = "Download";
+
+"Download Models..." = "Download Models...";
+
+"Downloading" = "Downloading";
+
+"Downloading the CoreML model once. Voice audio is not uploaded." = "Downloading the CoreML model once. Voice audio is not uploaded.";
+
+"English" = "English";
+
+"Fast CoreML ASR model for English dictation." = "Fast CoreML ASR model for English dictation.";
+
+"French" = "French";
+
+"General" = "General";
+
+"German" = "German";
+
+"Hide Dock icon" = "Hide Dock icon";
+
+"Higher precision 0.6B MLX model with more memory use." = "Higher precision 0.6B MLX model with more memory use.";
+
+"Higher precision 1B MLX multilingual ASR model with more memory use." = "Higher precision 1B MLX multilingual ASR model with more memory use.";
+
+"Higher precision compact MLX multilingual ASR model." = "Higher precision compact MLX multilingual ASR model.";
+
+"Hold %@ to dictate, release to insert" = "Hold %@ to dictate, release to insert";
+
+"Hold %@ to start voice input." = "Hold %@ to start voice input.";
+
+"Input Monitoring" = "Input Monitoring";
+
+"Inserting" = "Inserting";
+
+"Installed Models" = "Installed Models";
+
+"Installing local model" = "Installing local model";
+
+"Japanese" = "Japanese";
+
+"Keep Dictate available from the menu bar and start it automatically after signing in." = "Keep Dictate available from the menu bar and start it automatically after signing in.";
+
+"Korean" = "Korean";
+
+"Language" = "Language";
+
+"Large MLX multilingual ASR model for higher quality local transcription." = "Large MLX multilingual ASR model for higher quality local transcription.";
+
+"Larger MLX model for quality-focused local transcription." = "Larger MLX model for quality-focused local transcription.";
+
+"Larger MLX multilingual ASR model for quality-focused local transcription." = "Larger MLX multilingual ASR model for quality-focused local transcription.";
+
+"Largest MLX multilingual ASR model for quality-focused local transcription." = "Largest MLX multilingual ASR model for quality-focused local transcription.";
+
+"Launch at Login" = "Launch at Login";
+
+"Listening" = "Listening";
+
+"Loading WhisperKit model catalog..." = "Loading WhisperKit model catalog...";
+
+"Loading model" = "Loading model";
+
+"Local Whisper dictation for macOS" = "Local Whisper dictation for macOS";
+
+"Local model is ready: %@" = "Local model is ready: %@";
+
+"MLX speech models are downloaded from Hugging Face and stored locally before use." = "MLX speech models are downloaded from Hugging Face and stored locally before use.";
+
+"Microphone" = "Microphone";
+
+"Microphone Privacy Settings..." = "Microphone Privacy Settings...";
+
+"Microphone and Accessibility permissions are needed for local capture and cursor insertion." = "Microphone and Accessibility permissions are needed for local capture and cursor insertion.";
+
+"Model installed" = "Model installed";
+
+"Model: %@" = "Model: %@";
+
+"Models" = "Models";
+
+"Needs attention" = "Needs attention";
+
+"No Installed Models" = "No Installed Models";
+
+"No Model Installed" = "No Model Installed";
+
+"No local models installed." = "No local models installed.";
+
+"Offline only" = "Offline only";
+
+"Open Main Window" = "Open Main Window";
+
+"Open Settings..." = "Open Settings...";
+
+"Permissions" = "Permissions";
+
+"Preparing local model: %@" = "Preparing local model: %@";
+
+"Preparing recognized text." = "Preparing recognized text.";
+
+"Press and hold the selected key to start dictation. Release it to transcribe and insert." = "Press and hold the selected key to start dictation. Release it to transcribe and insert.";
+
+"Quit Dictate" = "Quit Dictate";
+
+"Qwen3-ASR models are downloaded by speech-swift the first time you use them." = "Qwen3-ASR models are downloaded by speech-swift the first time you use them.";
+
+"Qwen3-ASR models are downloaded from Hugging Face and stored locally before use." = "Qwen3-ASR models are downloaded from Hugging Face and stored locally before use.";
+
+"Ready" = "Ready";
+
+"Recommended for Apple Silicon Macs with 16 GB memory. Downloads before use." = "Recommended for Apple Silicon Macs with 16 GB memory. Downloads before use.";
+
+"Recommended for Apple Silicon Macs with 16 GB memory. Downloads on first use." = "Recommended for Apple Silicon Macs with 16 GB memory. Downloads on first use.";
+
+"Recommended for Apple Silicon Macs with 24 GB memory. Downloads before use." = "Recommended for Apple Silicon Macs with 24 GB memory. Downloads before use.";
+
+"Recommended for Apple Silicon Macs with 32 GB memory. Downloads before use." = "Recommended for Apple Silicon Macs with 32 GB memory. Downloads before use.";
+
+"Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use." = "Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use.";
+
+"Recommended for Apple Silicon Macs. Downloads before use." = "Recommended for Apple Silicon Macs. Downloads before use.";
+
+"Refresh WhisperKit model catalog" = "Refresh WhisperKit model catalog";
+
+"Requesting permissions" = "Requesting permissions";
+
+"Requires macOS 15 or newer on Apple Silicon. Downloads before use." = "Requires macOS 15 or newer on Apple Silicon. Downloads before use.";
+
+"Requires macOS 15 or newer on Apple Silicon. Downloads on first use." = "Requires macOS 15 or newer on Apple Silicon. Downloads on first use.";
+
+"Right Command" = "Right Command";
+
+"Right Control" = "Right Control";
+
+"Right Option" = "Right Option";
+
+"Running local CoreML Whisper inference on this Mac." = "Running local CoreML Whisper inference on this Mac.";
+
+"Runs Qwen3-ASR models through speech-swift. Optimized for Chinese and multilingual dictation." = "Runs Qwen3-ASR models through speech-swift. Optimized for Chinese and multilingual dictation.";
+
+"Runs Whisper CoreML models through WhisperKit." = "Runs Whisper CoreML models through WhisperKit.";
+
+"Runs local Core ML speech models optimized for Apple Silicon." = "Runs local Core ML speech models optimized for Apple Silicon.";
+
+"Runs local MLX speech models, including Qwen3-ASR and Omnilingual." = "Runs local MLX speech models, including Qwen3-ASR and Omnilingual.";
+
+"Runs speech-swift ASR models, including Qwen3-ASR, Parakeet, and Omnilingual." = "Runs speech-swift ASR models, including Qwen3-ASR, Parakeet, and Omnilingual.";
+
+"Shortcut" = "Shortcut";
+
+"Show model folder in Finder" = "Show model folder in Finder";
+
+"Source" = "Source";
+
+"Spanish" = "Spanish";
+
+"Speak Chinese or English. Release %@ to stop." = "Speak Chinese or English. Release %@ to stop.";
+
+"Speech Engine" = "Speech Engine";
+
+"Speech Swift ASR models are downloaded from Hugging Face and stored locally before use." = "Speech Swift ASR models are downloaded from Hugging Face and stored locally before use.";
+
+"Status: %@" = "Status: %@";
+
+"System default" = "System default";
+
+"The selected model is English-only." = "The selected model is English-only.";
+
+"This list is provided by WhisperKit for the current Mac. If the remote catalog cannot load, the app falls back to WhisperKit's local recommendations." = "This list is provided by WhisperKit for the current Mac. If the remote catalog cannot load, the app falls back to WhisperKit's local recommendations.";
+
+"Transcribing locally" = "Transcribing locally";
+
+"Use" = "Use";
+
+"Using" = "Using";
+
+"Using local WhisperKit recommendations. Remote catalog failed: %@" = "Using local WhisperKit recommendations. Remote catalog failed: %@";
+
+"When enabled, Dictate stays in the menu bar and does not show an icon in the Dock." = "When enabled, Dictate stays in the menu bar and does not show an icon in the Dock.";
+
+"huggingface.co/aufklarer" = "huggingface.co/aufklarer";
+
+"huggingface.co/whisperkit-coreml" = "huggingface.co/whisperkit-coreml";
