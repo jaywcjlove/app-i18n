@@ -441,7 +441,8 @@ swift run appi18n clean
 ```shell
 $ env 'CLANG_MODULE_CACHE_PATH=/tmp/clang-module-cache' swift build -c release
 $ tar -czf ./appi18n.tar.gz -C ./.build/arm64-apple-macosx/release appi18n
-$ cd $(brew --repository jaywcjlove/tap)
+$ brew tap jaywcjlove/tap
+$ cd "$(brew --repository jaywcjlove/tap)"
 ```
 
 ## 许可证
