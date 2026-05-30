@@ -1,0 +1,160 @@
+"Add Application" = "애플리케이션 추가";
+
+"Add Color" = "색상 추가";
+
+"Add template" = "템플릿 추가";
+
+"Add to Common Folders" = "공통 폴더에 추가";
+
+"Cancel" = "취소";
+
+"Common App" = "공통 앱";
+
+"Common Folder" = "공통 폴더";
+
+"Common Script" = "공통 스크립트";
+
+"Common Scripts in Main Menu" = "메인 메뉴의 공통 스크립트";
+
+"Compress" = "압박 붕대";
+
+"Convert To" = "다음으로 변환";
+
+"Copy File Name" = "파일 이름 복사";
+
+"Copy Folder Name" = "폴더 이름 복사";
+
+"Copy Name" = "이름 복사";
+
+"Copy Path" = "경로 복사";
+
+"Copy To" = "복사 위치";
+
+"Create %@ File" = "%@ 파일 만들기";
+
+"Create 3 random folders" = "무작위 폴더 3개 만들기";
+
+"Create New File Error" = "새 파일 만들기 오류";
+
+"Create icns Icon" = "icns 아이콘 만들기";
+
+"Cut" = "잘라내기";
+
+"Cut (%lld Items)" = "잘라내기(%lld 항목)";
+
+"Cut and Paste" = "잘라내어 붙여넣기";
+
+/* Dark */
+"Dark" = "어두운";
+
+"Delete Directly" = "직접 삭제";
+
+"Error Opening Runner" = "러너를 여는 중 오류가 발생했습니다.";
+
+"Error creating shortcut: %@" = "바로가기 생성 오류: %@";
+
+"Failed to create PDF page from image: %@" = "이미지에서 PDF 페이지를 생성하지 못했습니다: %@";
+
+"Failed to open runner: %@" = "실행기를 열지 못했습니다: %@";
+
+"Failed to read fileType" = "fileType을 읽지 못했습니다.";
+
+"Failed to read, folder permission required: %@\n\n" = "읽지 못했습니다. 폴더 권한이 필요합니다: %@\n\n";
+
+"Failed to save image" = "이미지를 저장하지 못했습니다.";
+
+"Folder Color" = "폴더 색상";
+
+"Folder History" = "폴더 기록";
+
+"Folder access required" = "폴더 액세스 필요";
+
+"Folder does not exist" = "폴더가 존재하지 않습니다";
+
+"Free App" = "무료 앱";
+
+"Grant Folder Permission" = "폴더 권한 부여";
+
+"Grant Permissions" = "권한 부여";
+
+"Image convert error: %@" = "이미지 변환 오류: %@";
+
+"Image convert error: %llu" = "이미지 변환 오류: %llu";
+
+/* Light */
+"Light" = "빛";
+
+"Locked File/Folder" = "잠긴 파일/폴더";
+
+"Move To" = "다음으로 이동";
+
+"New File" = "새 파일";
+
+"New File in Main" = "메인의 새 파일";
+
+"No items selected" = "선택한 항목이 없습니다.";
+
+"OK" = "좋아요";
+
+"Open Git Remote" = "Git 원격 열기";
+
+"Open in Xcode" = "Xcode에서 열기";
+
+"Open in browser (%@" = "브라우저에서 열기(%@";
+
+"Overwrite" = "덮어쓰기";
+
+"Paste (%lld Items)" = "붙여넣기(%lld 항목)";
+
+"Paste Image from clip" = "클립보드의 이미지 붙여넣기";
+
+"Paste from Cut" = "잘라내기에서 붙여넣기";
+
+"Path Information" = "경로 정보";
+
+"Please check if the folder exists: \n\"%@\"" = "폴더가 있는지 확인하세요: \n\"%@\"";
+
+"Reauthorization required" = "재인증 필요";
+
+"Reset Folder Icon" = "폴더 아이콘 재설정";
+
+"Select Folder" = "폴더 선택";
+
+"Send To Desktop Symlink" = "데스크톱 Symlink로 보내기";
+
+"Set Icon" = "아이콘 설정";
+
+"Share File" = "파일 공유";
+
+"Show Total Size" = "전체 크기 표시";
+
+"Show in Finder" = "Finder에 표시";
+
+/* System */
+"System" = "체계";
+
+"The calculation of the size for “%@” took longer than 2 seconds, and the task has been cancelled." = "“%@”의 크기를 계산하는 데 2초 이상이 소요되어 작업이 취소되었습니다.";
+
+"The folder does not exist." = "폴더가 존재하지 않습니다.";
+
+"Total Size: %@" = "총 크기: %@";
+
+"✅ Shortcut created successfully: %@" = "✅ 바로가기가 성공적으로 생성되었습니다: %@";
+
+"🚨 Error resolving bookmark or removing file: %@" = "🚨 북마크 확인 또는 파일 제거 중 오류 발생: %@";
+
+"🚨 Failed to save image: %@" = "🚨 이미지 저장 실패: %@";
+
+"🚨 Failed to set folder icon." = "🚨 폴더 아이콘을 설정하지 못했습니다.";
+
+"🚨 File Too Large" = "🚨 파일이 너무 큼";
+
+"🚨 No image data or file path found" = "🚨 이미지 데이터 또는 파일 경로를 찾을 수 없습니다.";
+
+"🚨 There are %lld files already existing. Do you want to overwrite them?" = "🚨 %lld 파일이 이미 존재합니다. 덮어쓰시겠습니까?";
+
+"🚨 This folder does not have the required permissions. Please click the button to grant folder operation permissions." = "🚨 이 폴더에는 필수 권한이 ​​없습니다. 폴더 작업 권한을 부여하려면 버튼을 클릭하세요.";
+
+"🚨 Unable to retrieve the desktop path." = "🚨 데스크탑 경로를 검색할 수 없습니다.";
+
+"🚨🚨Shortcut exists🚨🚨" = "🚨🚨바로가기가 존재합니다🚨🚨";

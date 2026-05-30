@@ -382,6 +382,7 @@ swift run appi18n to-xcstrings
 swift run appi18n to-xcstrings --no-skip-default-value
 # 为一个或多个应用添加新语言：
 swift run appi18n langs menuist,scap fr
+swift run appi18n langs menuist fr
 # 查看某个应用已有语言：
 swift run appi18n langs menuist
 # 列出可用的推荐语言代码：
