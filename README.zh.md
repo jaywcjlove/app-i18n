@@ -130,6 +130,22 @@ $ appi18n to-xcstrings --no-skip-default-value
 # ✅ 💯 用更新后的文件替换 Xcode 中的 .xcstrings 文件
 ```
 
+命令流程如下：
+
+```mermaid
+flowchart LR
+    A["Xcode 项目<br/>.xcstrings"] --> B["appi18n extract<br/>提取到 i18n/source"]
+    B --> C["appi18n to-lproj<br/>转换到 i18n/lproj"]
+    C --> D{"是否需要新增语言？"}
+    D -- "是" --> E["appi18n langs app lang<br/>创建语言目录"]
+    D -- "否" --> F["维护 .lproj<br/>翻译 .strings"]
+    E --> F
+    F --> G["appi18n status<br/>检查缺失/未完成"]
+    G --> H["appi18n preview<br/>生成预览"]
+    H --> I["appi18n to-xcstrings<br/>合并回 i18n/source"]
+    I --> J["替换回 Xcode 项目<br/>继续 Xcode 工作流"]
+```
+
 ## 安装
 
 ```bash

@@ -129,6 +129,22 @@ $ appi18n to-xcstrings --no-skip-default-value
 # ✅ 💯 Replace .xcstrings files in Xcode with the updated ones
 ```
 
+Command flow:
+
+```mermaid
+flowchart LR
+    A["Xcode project<br/>.xcstrings"] --> B["appi18n extract<br/>Extract to i18n/source"]
+    B --> C["appi18n to-lproj<br/>Convert to i18n/lproj"]
+    C --> D{"Need a new language?"}
+    D -- "Yes" --> E["appi18n langs app lang<br/>Create language folders"]
+    D -- "No" --> F["Maintain .lproj<br/>Translate .strings"]
+    E --> F
+    F --> G["appi18n status<br/>Check missing/incomplete items"]
+    G --> H["appi18n preview<br/>Generate preview"]
+    H --> I["appi18n to-xcstrings<br/>Merge back to i18n/source"]
+    I --> J["Replace files in Xcode<br/>Continue Xcode workflow"]
+```
+
 ## Installation
 
 ```bash
