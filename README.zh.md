@@ -123,17 +123,23 @@ $ appi18n extract  ~/git/IconedApp/Iconed
 $ appi18n to-lproj
 # 3️⃣ 为 Iconed 应用添加 fr 语言
 $ appi18n langs iconed fr
-# 4️⃣ 将所有 .lproj 内容更新到 .xcstrings 文件中
+# 4️⃣ 本地预览翻译结果
+$ appi18n preview
+# 5️⃣ 将预览页面提交到 gh-pages 分支，可在 GitHub Pages 中生成网站
+$ appi18n ghpage
+# 6️⃣ 将所有 .lproj 内容更新到 .xcstrings 文件中
 $ appi18n to-xcstrings
-# 5️⃣ 语言与默认语言一致，也要更新
+# 7️⃣ 不需要国际化、值与默认语言一致的条目也要写入
 $ appi18n to-xcstrings --no-skip-default-value
 # ✅ 💯 用更新后的文件替换 Xcode 中的 .xcstrings 文件
 ```
 
+如果在 Xcode 中新增或移除了国际化 key，先更新 `.xcstrings`，再运行 `appi18n to-lproj` 同步到 `i18n/lproj` 中继续维护。
+
 命令流程如下：
 
 ```mermaid
-flowchart LR
+flowchart TD
     A["Xcode 项目<br/>.xcstrings"] --> B["appi18n extract<br/>提取到 i18n/source"]
     B --> C["appi18n to-lproj<br/>转换到 i18n/lproj"]
     C --> D{"是否需要新增语言？"}
@@ -141,9 +147,17 @@ flowchart LR
     D -- "否" --> F["维护 .lproj<br/>翻译 .strings"]
     E --> F
     F --> G["appi18n status<br/>检查缺失/未完成"]
-    G --> H["appi18n preview<br/>生成预览"]
-    H --> I["appi18n to-xcstrings<br/>合并回 i18n/source"]
-    I --> J["替换回 Xcode 项目<br/>继续 Xcode 工作流"]
+    G --> H["appi18n preview<br/>生成 HTML 本地预览"]
+    H --> I["appi18n ghpage<br/>提交到 gh-pages"]
+    I --> J["GitHub Pages 设置<br/>生成网站"]
+    H --> K["appi18n to-xcstrings<br/>合并回 i18n/source"]
+    K --> L{"默认语言相同<br/>也要写入？"}
+    L -- "是" --> M["appi18n to-xcstrings<br/>--no-skip-default-value"]
+    L -- "否" --> N["替换回 Xcode 项目<br/>继续 Xcode 工作流"]
+    M --> N
+    N --> O{"Xcode 中 key<br/>新增或移除？"}
+    O -- "是" --> P["更新 .xcstrings<br/>再运行 appi18n to-lproj"]
+    P --> F
 ```
 
 ## 安装
@@ -236,6 +250,7 @@ menuist # menuist app
 1. 若对应的 .strings 文件不存在，则自动创建
 2. 已存在的键值不会被覆盖
 3. 若某个键的值为空，则填入默认值以供参考
+4. 当 Xcode 中新增或移除了国际化 key，更新 `.xcstrings` 后可再次运行该命令同步到 `.lproj`
 
 ```shell
 $ appi18n to-lproj

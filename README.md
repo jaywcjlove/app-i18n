@@ -122,17 +122,23 @@ $ appi18n extract  ~/git/IconedApp/Iconed
 $ appi18n to-lproj
 # 3️⃣ Add French (fr) language to Iconed app
 $ appi18n langs iconed fr
-# 4️⃣ Update all .lproj content back to .xcstrings
+# 4️⃣ Preview translations locally
+$ appi18n preview
+# 5️⃣ Commit the preview site to gh-pages, then enable it with GitHub Pages
+$ appi18n ghpage
+# 6️⃣ Update all .lproj content back to .xcstrings
 $ appi18n to-xcstrings
-# 5️⃣ Also update when language matches base language
+# 7️⃣ Also write entries that do not need localization and match the base language
 $ appi18n to-xcstrings --no-skip-default-value
 # ✅ 💯 Replace .xcstrings files in Xcode with the updated ones
 ```
 
+When localization keys are added or removed in Xcode, update the `.xcstrings` files first, then run `appi18n to-lproj` to sync the changes back into `i18n/lproj` for continued maintenance.
+
 Command flow:
 
 ```mermaid
-flowchart LR
+flowchart TD
     A["Xcode project<br/>.xcstrings"] --> B["appi18n extract<br/>Extract to i18n/source"]
     B --> C["appi18n to-lproj<br/>Convert to i18n/lproj"]
     C --> D{"Need a new language?"}
@@ -140,9 +146,17 @@ flowchart LR
     D -- "No" --> F["Maintain .lproj<br/>Translate .strings"]
     E --> F
     F --> G["appi18n status<br/>Check missing/incomplete items"]
-    G --> H["appi18n preview<br/>Generate preview"]
-    H --> I["appi18n to-xcstrings<br/>Merge back to i18n/source"]
-    I --> J["Replace files in Xcode<br/>Continue Xcode workflow"]
+    G --> H["appi18n preview<br/>Generate local HTML preview"]
+    H --> I["appi18n ghpage<br/>Commit to gh-pages"]
+    I --> J["GitHub Pages settings<br/>Publish website"]
+    H --> K["appi18n to-xcstrings<br/>Merge back to i18n/source"]
+    K --> L{"Also write values<br/>matching base language?"}
+    L -- "Yes" --> M["appi18n to-xcstrings<br/>--no-skip-default-value"]
+    L -- "No" --> N["Replace files in Xcode<br/>Continue Xcode workflow"]
+    M --> N
+    N --> O{"Keys added or removed<br/>in Xcode?"}
+    O -- "Yes" --> P["Update .xcstrings<br/>then run appi18n to-lproj"]
+    P --> F
 ```
 
 ## Installation
@@ -235,6 +249,7 @@ Internationalization files will be extracted to the `i18n/source` directory
 1. If the corresponding .strings file does not exist, it will be created automatically
 2. Existing key-value pairs will not be overwritten
 3. If a key's value is empty, the default value will be filled in for reference
+4. When localization keys are added or removed in Xcode, update `.xcstrings` and run this command again to sync the changes into `.lproj`
 
 ```shell
 $ appi18n to-lproj
