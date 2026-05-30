@@ -394,6 +394,16 @@ private func localizedLanguageLabel(_ code: String) -> String {
     return "\(name)(\(code))"
 }
 
+/// Render favicon links when an app logo is available.
+private func renderFaviconLinks(logoPath: String?) -> String {
+    guard let logoPath else { return "" }
+    let href = htmlEscape(logoPath)
+    return """
+      <link rel="icon" type="image/png" href="\(href)">
+      <link rel="apple-touch-icon" href="\(href)">
+    """
+}
+
 /// Small command runner used only for lightweight git probes in preview generation.
 /// Returns `(exitStatus, trimmedStdout)`.
 private func runCommand(_ executable: String, _ arguments: [String], currentDirectory: URL) -> (Int32, String) {
@@ -471,7 +481,9 @@ private func makeGitHubBlobLineURL(context: GitHubBlobContext, repositoryRelativ
 private func renderPreviewIndexHTML(apps: [AppPreview]) -> String {
     let generatedAt = ISO8601DateFormatter().string(from: Date())
     var appTables: [String] = []
-    for app in apps.sorted(by: { $0.appName.localizedCaseInsensitiveCompare($1.appName) == .orderedAscending }) {
+    let sortedApps = apps.sorted(by: { $0.appName.localizedCaseInsensitiveCompare($1.appName) == .orderedAscending })
+    let faviconLinks = renderFaviconLinks(logoPath: sortedApps.first(where: { $0.logoPath != nil })?.logoPath)
+    for app in sortedApps {
         let langs = app.languages.sorted()
         var langRows: [String] = []
         for lang in langs {
@@ -544,6 +556,7 @@ private func renderPreviewIndexHTML(apps: [AppPreview]) -> String {
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>My App i18n Preview</title>
+      \(faviconLinks)
       <link rel="stylesheet" href="preview.css">
     </head>
     <body>
@@ -565,6 +578,7 @@ private func renderPreviewIndexHTML(apps: [AppPreview]) -> String {
 private func renderPreviewAppHTML(app: AppPreview) -> String {
     let generatedAt = ISO8601DateFormatter().string(from: Date())
     let languages = app.languages
+    let faviconLinks = renderFaviconLinks(logoPath: app.logoPath)
 
     var summaryChips: [String] = []
     for lang in languages {
@@ -651,6 +665,7 @@ private func renderPreviewAppHTML(app: AppPreview) -> String {
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>\(htmlEscape(app.appName)) i18n Preview</title>
+      \(faviconLinks)
       <link rel="stylesheet" href="preview.css">
     </head>
     <body>
