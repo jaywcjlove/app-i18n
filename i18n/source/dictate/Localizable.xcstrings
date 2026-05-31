@@ -1,6 +1,26 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[X(Twitter)](https://x.com/jaywcjlove) • [电子邮件](emailurl) • [GitHub](githuburl)"
+          }
+        }
+      }
+    },
+    "About" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于"
+          }
+        }
+      }
+    },
     "Accessibility" : {
       "localizations" : {
         "zh-Hans" : {
@@ -101,27 +121,6 @@
         }
       }
     },
-    "Chinese Models" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "中文模型"
-          }
-        }
-      }
-    },
-    "Commands" : {
-      "localizations" : {
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "命令"
-          }
-        }
-      }
-    },
     "Compact MLX model for Chinese and multilingual dictation." : {
       "localizations" : {
         "zh-Hans" : {
@@ -142,13 +141,12 @@
         }
       }
     },
-    "CoreML multilingual ASR model for broad language coverage." : {
-      "extractionState" : "stale",
+    "Contact" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "覆盖多种语言的 CoreML 多语言 ASR 模型。"
+            "value" : "联系"
           }
         }
       }
@@ -169,6 +167,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "设备"
+          }
+        }
+      }
+    },
+    "Dictate" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "听写"
           }
         }
       }
@@ -223,6 +231,16 @@
         }
       }
     },
+    "E-mail" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "电子邮件"
+          }
+        }
+      }
+    },
     "English" : {
       "localizations" : {
         "zh-Hans" : {
@@ -233,13 +251,12 @@
         }
       }
     },
-    "Fast CoreML ASR model for English dictation." : {
-      "extractionState" : "stale",
+    "Feedback" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "适合英文听写的快速 CoreML ASR 模型。"
+            "value" : "反馈"
           }
         }
       }
@@ -724,28 +741,6 @@
         }
       }
     },
-    "Qwen3-ASR models are downloaded by speech-swift the first time you use them." : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Qwen3-ASR 模型会在首次使用时由 speech-swift 下载。"
-          }
-        }
-      }
-    },
-    "Qwen3-ASR models are downloaded from Hugging Face and stored locally before use." : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Qwen3-ASR 模型会先从 Hugging Face 下载并存储到本地，然后才能使用。"
-          }
-        }
-      }
-    },
     "Ready" : {
       "localizations" : {
         "zh-Hans" : {
@@ -802,17 +797,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "推荐 64 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。"
-          }
-        }
-      }
-    },
-    "Recommended for Apple Silicon Macs. Downloads before use." : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "推荐 Apple Silicon Mac 使用。使用前需要下载。"
           }
         }
       }
@@ -917,39 +901,6 @@
         }
       }
     },
-    "Runs Qwen3-ASR models through speech-swift. Optimized for Chinese and multilingual dictation." : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "通过 speech-swift 运行 Qwen3-ASR 模型，针对中文和多语言听写优化。"
-          }
-        }
-      }
-    },
-    "Runs speech-swift ASR models, including Qwen3-ASR, Parakeet, and Omnilingual." : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "运行 speech-swift ASR 模型，包括 Qwen3-ASR、Parakeet 和 Omnilingual。"
-          }
-        }
-      }
-    },
-    "Runs Whisper CoreML models through WhisperKit." : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "通过 WhisperKit 运行 Whisper CoreML 模型。"
-          }
-        }
-      }
-    },
     "Shortcut" : {
       "localizations" : {
         "zh-Hans" : {
@@ -966,6 +917,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在 Finder 中显示模型文件夹"
+          }
+        }
+      }
+    },
+    "Social Accounts" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "社交账号"
           }
         }
       }
@@ -1006,17 +967,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "语音引擎"
-          }
-        }
-      }
-    },
-    "Speech Swift ASR models are downloaded from Hugging Face and stored locally before use." : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Speech Swift ASR 模型会先从 Hugging Face 下载并存储到本地，然后才能使用。"
           }
         }
       }
@@ -1101,12 +1051,28 @@
         }
       }
     },
-    "When enabled, Dictate stays in the menu bar and does not show an icon in the Dock." : {
+    "Version %@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version %1$@ (%2$@)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本 %1$@（%2$@）"
+          }
+        }
+      }
+    },
+    "X(Twitter)" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "启用后，Dictate 会保留在菜单栏中，不在 Dock 中显示图标。"
+            "value" : "X（Twitter）"
           }
         }
       }

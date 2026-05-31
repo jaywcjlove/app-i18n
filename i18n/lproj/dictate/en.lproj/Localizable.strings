@@ -1,3 +1,5 @@
+"About" = "About";
+
 "Accessibility" = "Accessibility";
 
 "Allows Dictate to capture your voice locally for speech recognition. Audio is not uploaded." = "Allows Dictate to capture your voice locally for speech recognition. Audio is not uploaded.";
@@ -16,21 +18,19 @@
 
 "Chinese" = "Chinese";
 
-"Chinese Models" = "Chinese Models";
-
 "Chinese and English Whisper models" = "Chinese and English Whisper models";
-
-"Commands" = "Commands";
 
 "Compact MLX model for Chinese and multilingual dictation." = "Compact MLX model for Chinese and multilingual dictation.";
 
 "Compact MLX multilingual ASR model." = "Compact MLX multilingual ASR model.";
 
-"CoreML multilingual ASR model for broad language coverage." = "CoreML multilingual ASR model for broad language coverage.";
+"Contact" = "Contact";
 
 "Current model" = "Current model";
 
 "Device" = "Device";
+
+"Dictate" = "Dictate";
 
 "Dictation shortcut" = "Dictation shortcut";
 
@@ -42,9 +42,11 @@
 
 "Downloading the CoreML model once. Voice audio is not uploaded." = "Downloading the CoreML model once. Voice audio is not uploaded.";
 
+"E-mail" = "E-mail";
+
 "English" = "English";
 
-"Fast CoreML ASR model for English dictation." = "Fast CoreML ASR model for English dictation.";
+"Feedback" = "Feedback";
 
 "French" = "French";
 
@@ -138,10 +140,6 @@
 
 "Quit Dictate" = "Quit Dictate";
 
-"Qwen3-ASR models are downloaded by speech-swift the first time you use them." = "Qwen3-ASR models are downloaded by speech-swift the first time you use them.";
-
-"Qwen3-ASR models are downloaded from Hugging Face and stored locally before use." = "Qwen3-ASR models are downloaded from Hugging Face and stored locally before use.";
-
 "Ready" = "Ready";
 
 "Recommended for Apple Silicon Macs with 16 GB memory. Downloads before use." = "Recommended for Apple Silicon Macs with 16 GB memory. Downloads before use.";
@@ -153,8 +151,6 @@
 "Recommended for Apple Silicon Macs with 32 GB memory. Downloads before use." = "Recommended for Apple Silicon Macs with 32 GB memory. Downloads before use.";
 
 "Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use." = "Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use.";
-
-"Recommended for Apple Silicon Macs. Downloads before use." = "Recommended for Apple Silicon Macs. Downloads before use.";
 
 "Refresh WhisperKit model catalog" = "Refresh WhisperKit model catalog";
 
@@ -172,19 +168,15 @@
 
 "Running local CoreML Whisper inference on this Mac." = "Running local CoreML Whisper inference on this Mac.";
 
-"Runs Qwen3-ASR models through speech-swift. Optimized for Chinese and multilingual dictation." = "Runs Qwen3-ASR models through speech-swift. Optimized for Chinese and multilingual dictation.";
-
-"Runs Whisper CoreML models through WhisperKit." = "Runs Whisper CoreML models through WhisperKit.";
-
 "Runs local Core ML speech models optimized for Apple Silicon." = "Runs local Core ML speech models optimized for Apple Silicon.";
 
 "Runs local MLX speech models, including Qwen3-ASR and Omnilingual." = "Runs local MLX speech models, including Qwen3-ASR and Omnilingual.";
 
-"Runs speech-swift ASR models, including Qwen3-ASR, Parakeet, and Omnilingual." = "Runs speech-swift ASR models, including Qwen3-ASR, Parakeet, and Omnilingual.";
-
 "Shortcut" = "Shortcut";
 
 "Show model folder in Finder" = "Show model folder in Finder";
+
+"Social Accounts" = "Social Accounts";
 
 "Source" = "Source";
 
@@ -193,8 +185,6 @@
 "Speak Chinese or English. Release %@ to stop." = "Speak Chinese or English. Release %@ to stop.";
 
 "Speech Engine" = "Speech Engine";
-
-"Speech Swift ASR models are downloaded from Hugging Face and stored locally before use." = "Speech Swift ASR models are downloaded from Hugging Face and stored locally before use.";
 
 "Status: %@" = "Status: %@";
 
@@ -212,7 +202,11 @@
 
 "Using local WhisperKit recommendations. Remote catalog failed: %@" = "Using local WhisperKit recommendations. Remote catalog failed: %@";
 
-"When enabled, Dictate stays in the menu bar and does not show an icon in the Dock." = "When enabled, Dictate stays in the menu bar and does not show an icon in the Dock.";
+"Version %@ (%@)" = "Version %1$@ (%2$@)";
+
+"X(Twitter)" = "X(Twitter)";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
 
 "huggingface.co/aufklarer" = "huggingface.co/aufklarer";
 

@@ -1,3 +1,5 @@
+"About" = "关于";
+
 "Accessibility" = "辅助功能";
 
 "Allows Dictate to capture your voice locally for speech recognition. Audio is not uploaded." = "允许 Dictate 在本地采集你的语音用于识别。音频不会上传。";
@@ -16,21 +18,19 @@
 
 "Chinese" = "中文";
 
-"Chinese Models" = "中文模型";
-
 "Chinese and English Whisper models" = "中文与英文 Whisper 模型";
-
-"Commands" = "命令";
 
 "Compact MLX model for Chinese and multilingual dictation." = "适合中文和多语言听写的紧凑型 MLX 模型。";
 
 "Compact MLX multilingual ASR model." = "紧凑型 MLX 多语言 ASR 模型。";
 
-"CoreML multilingual ASR model for broad language coverage." = "覆盖多种语言的 CoreML 多语言 ASR 模型。";
+"Contact" = "联系";
 
 "Current model" = "当前模型";
 
 "Device" = "设备";
+
+"Dictate" = "听写";
 
 "Dictation shortcut" = "听写快捷键";
 
@@ -42,9 +42,11 @@
 
 "Downloading the CoreML model once. Voice audio is not uploaded." = "正在一次性下载 CoreML 模型。语音音频不会上传。";
 
+"E-mail" = "电子邮件";
+
 "English" = "英文";
 
-"Fast CoreML ASR model for English dictation." = "适合英文听写的快速 CoreML ASR 模型。";
+"Feedback" = "反馈";
 
 "French" = "法语";
 
@@ -138,10 +140,6 @@
 
 "Quit Dictate" = "退出 Dictate";
 
-"Qwen3-ASR models are downloaded by speech-swift the first time you use them." = "Qwen3-ASR 模型会在首次使用时由 speech-swift 下载。";
-
-"Qwen3-ASR models are downloaded from Hugging Face and stored locally before use." = "Qwen3-ASR 模型会先从 Hugging Face 下载并存储到本地，然后才能使用。";
-
 "Ready" = "准备就绪";
 
 "Recommended for Apple Silicon Macs with 16 GB memory. Downloads before use." = "推荐 16 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。";
@@ -153,8 +151,6 @@
 "Recommended for Apple Silicon Macs with 32 GB memory. Downloads before use." = "推荐 32 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。";
 
 "Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use." = "推荐 64 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。";
-
-"Recommended for Apple Silicon Macs. Downloads before use." = "推荐 Apple Silicon Mac 使用。使用前需要下载。";
 
 "Refresh WhisperKit model catalog" = "刷新 WhisperKit 模型目录";
 
@@ -172,19 +168,15 @@
 
 "Running local CoreML Whisper inference on this Mac." = "正在这台 Mac 上运行本地 CoreML Whisper 推理。";
 
-"Runs Qwen3-ASR models through speech-swift. Optimized for Chinese and multilingual dictation." = "通过 speech-swift 运行 Qwen3-ASR 模型，针对中文和多语言听写优化。";
-
-"Runs Whisper CoreML models through WhisperKit." = "通过 WhisperKit 运行 Whisper CoreML 模型。";
-
 "Runs local Core ML speech models optimized for Apple Silicon." = "运行针对 Apple Silicon 优化的本地 Core ML 语音模型。";
 
 "Runs local MLX speech models, including Qwen3-ASR and Omnilingual." = "运行本地 MLX 语音模型，包括 Qwen3-ASR 和 Omnilingual。";
 
-"Runs speech-swift ASR models, including Qwen3-ASR, Parakeet, and Omnilingual." = "运行 speech-swift ASR 模型，包括 Qwen3-ASR、Parakeet 和 Omnilingual。";
-
 "Shortcut" = "快捷键";
 
 "Show model folder in Finder" = "在 Finder 中显示模型文件夹";
+
+"Social Accounts" = "社交账号";
 
 "Source" = "来源";
 
@@ -193,8 +185,6 @@
 "Speak Chinese or English. Release %@ to stop." = "说中文或英文。松开 %@ 停止。";
 
 "Speech Engine" = "语音引擎";
-
-"Speech Swift ASR models are downloaded from Hugging Face and stored locally before use." = "Speech Swift ASR 模型会先从 Hugging Face 下载并存储到本地，然后才能使用。";
 
 "Status: %@" = "状态：%@";
 
@@ -212,7 +202,11 @@
 
 "Using local WhisperKit recommendations. Remote catalog failed: %@" = "正在使用 WhisperKit 本地推荐。远程目录加载失败：%@";
 
-"When enabled, Dictate stays in the menu bar and does not show an icon in the Dock." = "启用后，Dictate 会保留在菜单栏中，不在 Dock 中显示图标。";
+"Version %@ (%@)" = "版本 %1$@（%2$@）";
+
+"X(Twitter)" = "X（Twitter）";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[X(Twitter)](https://x.com/jaywcjlove) • [电子邮件](emailurl) • [GitHub](githuburl)";
 
 "huggingface.co/aufklarer" = "huggingface.co/aufklarer";
 
