@@ -2,12 +2,6 @@
 
 "Accessibility" = "Accessibility";
 
-"Allows Dictate to capture your voice locally for speech recognition. Audio is not uploaded." = "Allows Dictate to capture your voice locally for speech recognition. Audio is not uploaded.";
-
-"Allows Dictate to detect the selected hold-to-dictate shortcut while you are using other apps." = "Allows Dictate to detect the selected hold-to-dictate shortcut while you are using other apps.";
-
-"Allows Dictate to insert recognized text into the app and text field currently focused by the cursor." = "Allows Dictate to insert recognized text into the app and text field currently focused by the cursor.";
-
 "Audio never leaves this Mac" = "Audio never leaves this Mac";
 
 "Auto" = "Auto";
@@ -54,6 +48,8 @@
 
 "German" = "German";
 
+"Granted" = "Granted";
+
 "Hide Dock icon" = "Hide Dock icon";
 
 "Higher precision 0.6B MLX model with more memory use." = "Higher precision 0.6B MLX model with more memory use.";
@@ -67,6 +63,8 @@
 "Hold %@ to start voice input." = "Hold %@ to start voice input.";
 
 "Input Monitoring" = "Input Monitoring";
+
+"Insert recognized text into active app input boxes." = "Insert recognized text into active app input boxes.";
 
 "Inserting" = "Inserting";
 
@@ -116,6 +114,8 @@
 
 "Models" = "Models";
 
+"Monitor global shortcut to launch dictation." = "Monitor global shortcut to launch dictation.";
+
 "Needs attention" = "Needs attention";
 
 "No Installed Models" = "No Installed Models";
@@ -152,7 +152,11 @@
 
 "Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use." = "Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use.";
 
+"Record audio locally for speech recognition; no cloud upload." = "Record audio locally for speech recognition; no cloud upload.";
+
 "Refresh WhisperKit model catalog" = "Refresh WhisperKit model catalog";
+
+"Request" = "Request";
 
 "Requesting permissions" = "Requesting permissions";
 
