@@ -1,6 +1,6 @@
-" Disabled" = " Désactivé";
+" (Disabled)" = " (Désactivé)";
 
-" Enabled" = " Activé";
+" (Enabled)" = " (Activé)";
 
 "%@ - Dynamic Wallpaper" = "%@ - Fond d'écran dynamique";
 
@@ -12,11 +12,17 @@
 
 "About %@" = "À propos de %@";
 
+"Adaptive Fill Screen" = "Remplissage adaptatif de l'écran";
+
 "Are you sure you want to delete all records?" = "Voulez-vous vraiment supprimer tous les enregistrements ?";
+
+"Are you sure you want to delete selected records?" = "Voulez-vous vraiment supprimer les éléments sélectionnés ?";
 
 "Authorization" = "Autorisation";
 
 "Cancel" = "Annuler";
+
+"Cancel Selection" = "Annuler la sélection";
 
 "Click to import the video into the system wallpaper service. Then go to \"%@\" in System Settings and select it to set it as your lock screen animated wallpaper." = "Cliquez pour importer la vidéo dans le service de fond d'écran système. Ensuite, allez dans \"%@\" dans Réglages Système et sélectionnez-la pour la définir comme fond d'écran animé de l'écran verrouillé.";
 
@@ -95,6 +101,8 @@
 "Refresh Video Wallpaper" = "Rafraîchir le fond d'écran vidéo";
 
 "Remove" = "Supprimer";
+
+"Remove %lld items" = "Supprimer %lld éléments";
 
 "Select Video Files" = "Sélectionner des fichiers vidéo";
 

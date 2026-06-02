@@ -1,6 +1,6 @@
-" Disabled" = " 無効";
+" (Disabled)" = " (無効)";
 
-" Enabled" = " 有効";
+" (Enabled)" = " (有効)";
 
 "%@ - Dynamic Wallpaper" = "%@ - 動的壁紙";
 
@@ -12,11 +12,17 @@
 
 "About %@" = "このアプリについて %@";
 
+"Adaptive Fill Screen" = "画面に合わせて拡大";
+
 "Are you sure you want to delete all records?" = "すべての記録を削除してもよろしいですか？";
+
+"Are you sure you want to delete selected records?" = "選択した記録を削除してもよろしいですか？";
 
 "Authorization" = "認証";
 
 "Cancel" = "キャンセル";
+
+"Cancel Selection" = "選択を解除";
 
 "Click to import the video into the system wallpaper service. Then go to \"%@\" in System Settings and select it to set it as your lock screen animated wallpaper." = "クリックして動画をシステムの壁紙サービスに読み込みます。その後、システム設定の「%@」に移動して選択すると、ロック画面のアニメーション壁紙として設定できます。";
 
@@ -95,6 +101,8 @@
 "Refresh Video Wallpaper" = "動画壁紙を更新";
 
 "Remove" = "削除";
+
+"Remove %lld items" = "%lld件を削除";
 
 "Select Video Files" = "動画ファイルを選択";
 

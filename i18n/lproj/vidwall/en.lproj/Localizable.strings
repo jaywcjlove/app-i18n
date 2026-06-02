@@ -1,6 +1,6 @@
-" Disabled" = " Disabled";
+" (Disabled)" = " (Disabled)";
 
-" Enabled" = " Enabled";
+" (Enabled)" = " (Enabled)";
 
 "%@ - Dynamic Wallpaper" = "%@ - Dynamic Wallpaper";
 
@@ -12,11 +12,17 @@
 
 "About %@" = "About %@";
 
+"Adaptive Fill Screen" = "Adaptive Fill Screen";
+
 "Are you sure you want to delete all records?" = "Are you sure you want to delete all records?";
+
+"Are you sure you want to delete selected records?" = "Are you sure you want to delete selected records?";
 
 "Authorization" = "Authorization";
 
 "Cancel" = "Cancel";
+
+"Cancel Selection" = "Cancel Selection";
 
 "Click to import the video into the system wallpaper service. Then go to \"%@\" in System Settings and select it to set it as your lock screen animated wallpaper." = "Click to import the video into the system wallpaper service. Then go to \"%@\" in System Settings and select it to set it as your lock screen animated wallpaper.";
 
@@ -95,6 +101,8 @@
 "Refresh Video Wallpaper" = "Refresh Video Wallpaper";
 
 "Remove" = "Remove";
+
+"Remove %lld items" = "Remove %lld items";
 
 "Select Video Files" = "Select Video Files";
 

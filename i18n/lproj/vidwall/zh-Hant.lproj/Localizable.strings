@@ -1,6 +1,6 @@
-" Disabled" = " 已停用";
+" (Disabled)" = " (已停用)";
 
-" Enabled" = " 已啟用";
+" (Enabled)" = " (已啟用)";
 
 "%@ - Dynamic Wallpaper" = "%@ - 動態桌布";
 
@@ -12,11 +12,17 @@
 
 "About %@" = "關於 %@";
 
+"Adaptive Fill Screen" = "自適應填滿螢幕";
+
 "Are you sure you want to delete all records?" = "確定要刪除所有紀錄嗎？";
+
+"Are you sure you want to delete selected records?" = "確定要刪除所選紀錄嗎？";
 
 "Authorization" = "授權";
 
 "Cancel" = "取消";
+
+"Cancel Selection" = "取消選擇";
 
 "Click to import the video into the system wallpaper service. Then go to \"%@\" in System Settings and select it to set it as your lock screen animated wallpaper." = "點擊即可將影片匯入系統桌布服務。接著前往系統設定中的「%@」，選取後即可設為鎖定畫面的動態桌布。";
 
@@ -95,6 +101,8 @@
 "Refresh Video Wallpaper" = "重新整理影片桌布";
 
 "Remove" = "移除";
+
+"Remove %lld items" = "移除 %lld 項";
 
 "Select Video Files" = "選擇影片檔案";
 

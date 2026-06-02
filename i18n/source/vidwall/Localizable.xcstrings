@@ -41,82 +41,82 @@
         }
       }
     },
-    " Disabled" : {
+    " (Disabled)" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " Deaktiviert"
+            "value" : " (Deaktiviert)"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " Désactivé"
+            "value" : " (Désactivé)"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " 無効"
+            "value" : " (無効)"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " 비활성화됨"
+            "value" : " (비활성화됨)"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已禁用"
+            "value" : " (已禁用)"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " 已停用"
+            "value" : " (已停用)"
           }
         }
       }
     },
-    " Enabled" : {
+    " (Enabled)" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " Aktiviert"
+            "value" : " (Aktiviert)"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " Activé"
+            "value" : " (Activé)"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " 有効"
+            "value" : " (有効)"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " 활성화됨"
+            "value" : " (활성화됨)"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已启用"
+            "value" : " (已启用)"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " 已啟用"
+            "value" : " (已啟用)"
           }
         }
       }
@@ -367,6 +367,46 @@
         }
       }
     },
+    "Adaptive Fill Screen" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bildschirm adaptiv ausfüllen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remplissage adaptatif de l'écran"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画面に合わせて拡大"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "화면에 맞춰 채우기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自适应填充屏幕"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自適應填滿螢幕"
+          }
+        }
+      }
+    },
     "Are you sure you want to delete all records?" : {
       "localizations" : {
         "de" : {
@@ -403,6 +443,46 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "確定要刪除所有紀錄嗎？"
+          }
+        }
+      }
+    },
+    "Are you sure you want to delete selected records?" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Möchten Sie die ausgewählten Einträge wirklich löschen?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voulez-vous vraiment supprimer les éléments sélectionnés ?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選択した記録を削除してもよろしいですか？"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택한 기록을 삭제하시겠습니까?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确定要删除所选记录吗？"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確定要刪除所選紀錄嗎？"
           }
         }
       }
@@ -483,6 +563,46 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
+          }
+        }
+      }
+    },
+    "Cancel Selection" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auswahl aufheben"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuler la sélection"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選択を解除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택 취소"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消选择"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消選擇"
           }
         }
       }
@@ -2095,6 +2215,46 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "移除"
+          }
+        }
+      }
+    },
+    "Remove %lld items" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Einträge entfernen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer %lld éléments"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld件を削除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld개 항목 제거"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除 %lld 项"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除 %lld 項"
           }
         }
       }

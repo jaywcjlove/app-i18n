@@ -1,6 +1,6 @@
-" Disabled" = "已禁用";
+" (Disabled)" = " (已禁用)";
 
-" Enabled" = "已启用";
+" (Enabled)" = " (已启用)";
 
 "%@ - Dynamic Wallpaper" = "%@ - 动态壁纸";
 
@@ -12,11 +12,17 @@
 
 "About %@" = "关于 %@";
 
+"Adaptive Fill Screen" = "自适应填充屏幕";
+
 "Are you sure you want to delete all records?" = "确认删除所有记录？";
+
+"Are you sure you want to delete selected records?" = "确定要删除所选记录吗？";
 
 "Authorization" = "授权";
 
 "Cancel" = "取消";
+
+"Cancel Selection" = "取消选择";
 
 "Click to import the video into the system wallpaper service. Then go to \"%@\" in System Settings and select it to set it as your lock screen animated wallpaper." = "点击将视频导入系统壁纸服务。然后在系统设置中找到“%@”，选择它即可将其设置为锁屏动画壁纸。";
 
@@ -95,6 +101,8 @@
 "Refresh Video Wallpaper" = "刷新视频壁纸";
 
 "Remove" = "移除";
+
+"Remove %lld items" = "移除 %lld 项";
 
 "Select Video Files" = "选择视频文件";
 
