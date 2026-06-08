@@ -66,6 +66,8 @@
 
 "Choose files to archive and an output location." = "请选择要压缩的文件以及输出位置。";
 
+"Close" = "关闭";
+
 "Completed" = "已完成";
 
 "Confirm New Password" = "确认新密码";
@@ -130,11 +132,11 @@
 
 "Extract Selected Items" = "解压所选项目";
 
-"Extract Selected..." = "解压所选项目...";
-
 "Extract to Folder" = "解压到文件夹";
 
 "Extracted to %@" = "已解压到 %@";
+
+"Extracting" = "正在解压";
 
 "Extracting to a temporary workspace" = "正在解压到临时工作区";
 
@@ -143,6 +145,10 @@
 "Extraction Progress" = "解压进度";
 
 "File" = "文件";
+
+"Files added." = "文件已添加。";
+
+"Files removed." = "文件已移除。";
 
 "Filters" = "筛选";
 
@@ -246,6 +252,8 @@
 
 "Ready" = "就绪";
 
+"Reauthorize Folder" = "重新授权文件夹";
+
 "Refresh" = "刷新";
 
 "Remove" = "移除";
@@ -263,6 +271,8 @@
 "Removing password protection" = "正在移除密码保护";
 
 "Replacing original archive" = "正在替换原始压缩包";
+
+"Reveal File" = "显示文件";
 
 "Reveal in Finder" = "在访达中显示";
 

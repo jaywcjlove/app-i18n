@@ -66,6 +66,8 @@
 
 "Choose files to archive and an output location." = "請選擇要封存的檔案與輸出位置。";
 
+"Close" = "關閉";
+
 "Completed" = "已完成";
 
 "Confirm New Password" = "確認新密碼";
@@ -130,11 +132,11 @@
 
 "Extract Selected Items" = "解壓所選項目";
 
-"Extract Selected..." = "解壓所選項目...";
-
 "Extract to Folder" = "解壓到資料夾";
 
 "Extracted to %@" = "已解壓到 %@";
+
+"Extracting" = "正在解壓";
 
 "Extracting to a temporary workspace" = "正在解壓到暫存工作區";
 
@@ -143,6 +145,10 @@
 "Extraction Progress" = "解壓進度";
 
 "File" = "檔案";
+
+"Files added." = "檔案已新增。";
+
+"Files removed." = "檔案已移除。";
 
 "Filters" = "篩選";
 
@@ -246,6 +252,8 @@
 
 "Ready" = "就緒";
 
+"Reauthorize Folder" = "重新授權資料夾";
+
 "Refresh" = "重新整理";
 
 "Remove" = "移除";
@@ -263,6 +271,8 @@
 "Removing password protection" = "正在移除密碼保護";
 
 "Replacing original archive" = "正在取代原始封存檔";
+
+"Reveal File" = "顯示檔案";
 
 "Reveal in Finder" = "在 Finder 中顯示";
 

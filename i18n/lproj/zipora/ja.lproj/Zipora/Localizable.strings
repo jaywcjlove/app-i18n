@@ -66,6 +66,8 @@
 
 "Choose files to archive and an output location." = "アーカイブするファイルと出力先を選択してください。";
 
+"Close" = "閉じる";
+
 "Completed" = "完了";
 
 "Confirm New Password" = "新しいパスワードを確認";
@@ -130,11 +132,11 @@
 
 "Extract Selected Items" = "選択した項目を展開";
 
-"Extract Selected..." = "選択項目を展開...";
-
 "Extract to Folder" = "フォルダに展開";
 
 "Extracted to %@" = "%@ に展開しました";
+
+"Extracting" = "展開中";
 
 "Extracting to a temporary workspace" = "一時ワークスペースに展開中";
 
@@ -143,6 +145,10 @@
 "Extraction Progress" = "展開の進行状況";
 
 "File" = "ファイル";
+
+"Files added." = "ファイルを追加しました。";
+
+"Files removed." = "ファイルを削除しました。";
 
 "Filters" = "フィルタ";
 
@@ -246,6 +252,8 @@
 
 "Ready" = "準備完了";
 
+"Reauthorize Folder" = "フォルダを再認可";
+
 "Refresh" = "更新";
 
 "Remove" = "削除";
@@ -263,6 +271,8 @@
 "Removing password protection" = "パスワード保護を解除中";
 
 "Replacing original archive" = "元のアーカイブを置き換え中";
+
+"Reveal File" = "ファイルを表示";
 
 "Reveal in Finder" = "Finder で表示";
 
