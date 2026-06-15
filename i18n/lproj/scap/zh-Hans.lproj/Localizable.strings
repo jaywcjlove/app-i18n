@@ -10,17 +10,23 @@
 
 "%@%@" = "%1$@%2$@";
 
+"%lldpx" = "%lldpx";
+
 "About" = "关于";
 
 "About %@" = "关于 %@";
 
 "Acknowledgments" = "致谢";
 
+"Add Image" = "添加图片";
+
 "Add image icon" = "添加图片图标";
 
 "Appearance" = "外观";
 
-"Background Color" = "背景颜色";
+"Background" = "背景";
+
+"Blur" = "模糊";
 
 "Capture Screen" = "捕获屏幕";
 
@@ -39,6 +45,8 @@
 "Copy (Esc/⌘+C)" = "复制 (Esc/⌘+C)";
 
 "Copy Image" = "复制图片";
+
+"Copy Sound" = "复制音效";
 
 "Custom Social Media Badge" = "自定义社交媒体徽章";
 
@@ -74,6 +82,8 @@
 
 "Main Window" = "主窗口";
 
+"Margin" = "边距";
+
 "My Apps" = "我的应用";
 
 "Name" = "名字";
@@ -81,6 +91,8 @@
 "No QR code recognized in the selected screenshot." = "所选截图中未识别到二维码。";
 
 "No text recognized in the selected screenshot." = "所选截图中未识别到文本。";
+
+"Opacity" = "不透明度";
 
 "Open Image" = "打开图片";
 
@@ -94,6 +106,8 @@
 
 "Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "请开启「屏幕与系统音频录制」权限，否则无法截取完整桌面图像。\n前往：系统设置 → 隐私与安全性 → 屏幕与系统音频录制";
 
+"Position" = "位置";
+
 "Privacy Policy" = "隐私政策";
 
 "QR code recognition failed." = "二维码识别失败。";
@@ -105,6 +119,10 @@
 "Recognizing QR code..." = "正在识别二维码...";
 
 "Recognizing text..." = "识别文本中...";
+
+"Remove" = "移除";
+
+"Reset" = "重置";
 
 "Save (⌘+S)" = "保存 (⌘+S)";
 
@@ -124,15 +142,25 @@
 
 "Screenshot QR Code" = "截图二维码";
 
+"Screenshot Sound" = "截图音效";
+
 "Select Save Folder" = "选择保存文件夹";
 
 "Select save location for image" = "选择图片保存位置";
 
 "Settings..." = "设置...";
 
+"Shadow" = "阴影";
+
 "Shortcut Key" = "快捷键";
 
+"Size" = "大小";
+
 "Social Badge" = "社交徽章";
+
+"Solid" = "纯色";
+
+"Start/End Color" = "起始/结束颜色";
 
 "Terms of Service" = "服务条款";
 
@@ -147,6 +175,10 @@
 "Version %@ (%@)" = "版本 %1$@ (%2$@)";
 
 "Watermark" = "水印";
+
+"X" = "X";
+
+"Y" = "Y";
 
 "Zoom" = "缩放";
 

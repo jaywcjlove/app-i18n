@@ -10,17 +10,23 @@
 
 "%@%@" = "%1$@%2$@";
 
+"%lldpx" = "%lldpx";
+
 "About" = "關於";
 
 "About %@" = "關於 %@";
 
 "Acknowledgments" = "致謝";
 
+"Add Image" = "加入圖片";
+
 "Add image icon" = "添加圖片圖示";
 
 "Appearance" = "外觀";
 
-"Background Color" = "背景顏色";
+"Background" = "背景";
+
+"Blur" = "模糊";
 
 "Capture Screen" = "擷取螢幕";
 
@@ -39,6 +45,8 @@
 "Copy (Esc/⌘+C)" = "複製 (Esc/⌘+C)";
 
 "Copy Image" = "複製圖片";
+
+"Copy Sound" = "複製音效";
 
 "Custom Social Media Badge" = "自訂社交媒體徽章";
 
@@ -74,6 +82,8 @@
 
 "Main Window" = "主視窗";
 
+"Margin" = "邊距";
+
 "My Apps" = "我的應用程式";
 
 "Name" = "名稱";
@@ -81,6 +91,8 @@
 "No QR code recognized in the selected screenshot." = "在所選的螢幕截圖中未辨識出 QR 碼。";
 
 "No text recognized in the selected screenshot." = "在所選的螢幕截圖中未辨識出文字。";
+
+"Opacity" = "不透明度";
 
 "Open Image" = "打開圖片";
 
@@ -94,6 +106,8 @@
 
 "Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "請啟用「螢幕與系統音訊錄影」，否則應用程式無法擷取完整的桌面圖片。前往：**系統設定** → **隱私與安全** → **螢幕與系統音訊錄影**";
 
+"Position" = "位置";
+
 "Privacy Policy" = "隱私政策";
 
 "QR code recognition failed." = "QR 碼辨識失敗。";
@@ -105,6 +119,10 @@
 "Recognizing QR code..." = "正在辨識 QR 碼...";
 
 "Recognizing text..." = "正在辨識文字...";
+
+"Remove" = "移除";
+
+"Reset" = "重設";
 
 "Save (⌘+S)" = "儲存 (⌘+S)";
 
@@ -124,15 +142,25 @@
 
 "Screenshot QR Code" = "螢幕截圖 QR 碼";
 
+"Screenshot Sound" = "截圖音效";
+
 "Select Save Folder" = "選擇儲存資料夾";
 
 "Select save location for image" = "選擇圖片儲存位置";
 
 "Settings..." = "設定...";
 
+"Shadow" = "陰影";
+
 "Shortcut Key" = "快捷鍵";
 
+"Size" = "大小";
+
 "Social Badge" = "社交徽章";
+
+"Solid" = "純色";
+
+"Start/End Color" = "起始/結束顏色";
 
 "Terms of Service" = "服務條款";
 
@@ -147,6 +175,10 @@
 "Version %@ (%@)" = "版本 %1$@ (%2$@)";
 
 "Watermark" = "水印";
+
+"X" = "X";
+
+"Y" = "Y";
 
 "Zoom" = "縮放";
 

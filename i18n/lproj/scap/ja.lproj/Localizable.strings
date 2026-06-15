@@ -10,17 +10,23 @@
 
 "%@%@" = "%1$@%2$@";
 
+"%lldpx" = "%lldpx";
+
 "About" = "について";
 
 "About %@" = "%@ について";
 
 "Acknowledgments" = "謝辞";
 
+"Add Image" = "画像を追加";
+
 "Add image icon" = "画像アイコンを追加";
 
 "Appearance" = "外観";
 
-"Background Color" = "背景色";
+"Background" = "背景";
+
+"Blur" = "ぼかし";
 
 "Capture Screen" = "画面をキャプチャ";
 
@@ -39,6 +45,8 @@
 "Copy (Esc/⌘+C)" = "コピー (Esc/⌘+C)";
 
 "Copy Image" = "画像をコピー";
+
+"Copy Sound" = "コピー音";
 
 "Custom Social Media Badge" = "カスタムソーシャルメディアバッジ";
 
@@ -74,6 +82,8 @@
 
 "Main Window" = "メインウィンドウ";
 
+"Margin" = "余白";
+
 "My Apps" = "マイアプリ";
 
 "Name" = "名前";
@@ -81,6 +91,8 @@
 "No QR code recognized in the selected screenshot." = "選択されたスクリーンショットでQRコードが認識されませんでした。";
 
 "No text recognized in the selected screenshot." = "選択されたスクリーンショットでテキストが認識されませんでした。";
+
+"Opacity" = "不透明度";
 
 "Open Image" = "画像を開く";
 
@@ -94,6 +106,8 @@
 
 "Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "「画面とシステムオーディオの収録」を有効にしてください。そうでないと、アプリがデスクトップ全体の画像をキャプチャできません。**システム設定** → **プライバシーとセキュリティ** → **画面とシステムオーディオの収録** から設定してください";
 
+"Position" = "位置";
+
 "Privacy Policy" = "プライバシーポリシー";
 
 "QR code recognition failed." = "QRコード認識に失敗しました。";
@@ -105,6 +119,10 @@
 "Recognizing QR code..." = "QRコードを認識中...";
 
 "Recognizing text..." = "テキストを認識中...";
+
+"Remove" = "削除";
+
+"Reset" = "リセット";
 
 "Save (⌘+S)" = "保存 (⌘+S)";
 
@@ -124,15 +142,25 @@
 
 "Screenshot QR Code" = "スクリーンショットQRコード";
 
+"Screenshot Sound" = "スクリーンショット音";
+
 "Select Save Folder" = "保存フォルダを選択";
 
 "Select save location for image" = "画像の保存場所を選択";
 
 "Settings..." = "設定...";
 
+"Shadow" = "影";
+
 "Shortcut Key" = "ショートカットキー";
 
+"Size" = "サイズ";
+
 "Social Badge" = "ソーシャルバッジ";
+
+"Solid" = "単色";
+
+"Start/End Color" = "開始/終了色";
 
 "Terms of Service" = "利用規約";
 
@@ -147,6 +175,10 @@
 "Version %@ (%@)" = "バージョン %1$@ (%2$@)";
 
 "Watermark" = "ウォーターマーク";
+
+"X" = "X";
+
+"Y" = "Y";
 
 "Zoom" = "ズーム";
 

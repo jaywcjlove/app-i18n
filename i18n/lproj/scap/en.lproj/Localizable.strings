@@ -10,17 +10,23 @@
 
 "%@%@" = "%1$@%2$@";
 
+"%lldpx" = "%lldpx";
+
 "About" = "About";
 
 "About %@" = "About %@";
 
 "Acknowledgments" = "Acknowledgments";
 
+"Add Image" = "Add Image";
+
 "Add image icon" = "Add image icon";
 
 "Appearance" = "Appearance";
 
-"Background Color" = "Background Color";
+"Background" = "Background";
+
+"Blur" = "Blur";
 
 "Capture Screen" = "Capture Screen";
 
@@ -39,6 +45,8 @@
 "Copy (Esc/⌘+C)" = "Copy (Esc/⌘+C)";
 
 "Copy Image" = "Copy Image";
+
+"Copy Sound" = "Copy Sound";
 
 "Custom Social Media Badge" = "Custom Social Media Badge";
 
@@ -74,6 +82,8 @@
 
 "Main Window" = "Main Window";
 
+"Margin" = "Margin";
+
 "My Apps" = "My Apps";
 
 "Name" = "Name";
@@ -81,6 +91,8 @@
 "No QR code recognized in the selected screenshot." = "No QR code recognized in the selected screenshot.";
 
 "No text recognized in the selected screenshot." = "No text recognized in the selected screenshot.";
+
+"Opacity" = "Opacity";
 
 "Open Image" = "Open Image";
 
@@ -94,6 +106,8 @@
 
 "Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**";
 
+"Position" = "Position";
+
 "Privacy Policy" = "Privacy Policy";
 
 "QR code recognition failed." = "QR code recognition failed.";
@@ -105,6 +119,10 @@
 "Recognizing QR code..." = "Recognizing QR code...";
 
 "Recognizing text..." = "Recognizing text...";
+
+"Remove" = "Remove";
+
+"Reset" = "Reset";
 
 "Save (⌘+S)" = "Save (⌘+S)";
 
@@ -124,15 +142,25 @@
 
 "Screenshot QR Code" = "Screenshot QR Code";
 
+"Screenshot Sound" = "Screenshot Sound";
+
 "Select Save Folder" = "Select Save Folder";
 
 "Select save location for image" = "Select save location for image";
 
 "Settings..." = "Settings...";
 
+"Shadow" = "Shadow";
+
 "Shortcut Key" = "Shortcut Key";
 
+"Size" = "Size";
+
 "Social Badge" = "Social Badge";
+
+"Solid" = "Solid";
+
+"Start/End Color" = "Start/End Color";
 
 "Terms of Service" = "Terms of Service";
 
@@ -147,6 +175,10 @@
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
 
 "Watermark" = "Watermark";
+
+"X" = "X";
+
+"Y" = "Y";
 
 "Zoom" = "Zoom";
 

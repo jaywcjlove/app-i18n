@@ -10,17 +10,23 @@
 
 "%@%@" = "%1$@%2$@";
 
+"%lldpx" = "%lldpx";
+
 "About" = "Über";
 
 "About %@" = "Über %@";
 
 "Acknowledgments" = "Danksagungen";
 
+"Add Image" = "Bild hinzufügen";
+
 "Add image icon" = "Bildsymbol hinzufügen";
 
 "Appearance" = "Darstellung";
 
-"Background Color" = "Hintergrundfarbe";
+"Background" = "Hintergrund";
+
+"Blur" = "Unschärfe";
 
 "Capture Screen" = "Bildschirm aufnehmen";
 
@@ -39,6 +45,8 @@
 "Copy (Esc/⌘+C)" = "Kopieren (Esc/⌘+C)";
 
 "Copy Image" = "Bild kopieren";
+
+"Copy Sound" = "Kopierton";
 
 "Custom Social Media Badge" = "Benutzerdefiniertes Social Media Abzeichen";
 
@@ -74,6 +82,8 @@
 
 "Main Window" = "Hauptfenster";
 
+"Margin" = "Rand";
+
 "My Apps" = "Meine Apps";
 
 "Name" = "Name";
@@ -81,6 +91,8 @@
 "No QR code recognized in the selected screenshot." = "Kein QR-Code im ausgewählten Screenshot erkannt.";
 
 "No text recognized in the selected screenshot." = "Kein Text im ausgewählten Screenshot erkannt.";
+
+"Opacity" = "Deckkraft";
 
 "Open Image" = "Bild öffnen";
 
@@ -94,6 +106,8 @@
 
 "Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "Bitte aktivieren Sie „Bildschirm- und Systemtonaufzeichnung“, andernfalls kann die App nicht das vollständige Desktop-Bild aufnehmen. Gehen Sie zu: **Systemeinstellungen** → **Datenschutz & Sicherheit** → **Bildschirm- und Systemtonaufzeichnung**";
 
+"Position" = "Lage";
+
 "Privacy Policy" = "Datenschutzerklärung";
 
 "QR code recognition failed." = "QR-Code-Erkennung fehlgeschlagen.";
@@ -105,6 +119,10 @@
 "Recognizing QR code..." = "QR-Code wird erkannt...";
 
 "Recognizing text..." = "Text wird erkannt...";
+
+"Remove" = "Entfernen";
+
+"Reset" = "Zurücksetzen";
 
 "Save (⌘+S)" = "Speichern (⌘+S)";
 
@@ -124,15 +142,25 @@
 
 "Screenshot QR Code" = "Screenshot QR-Code";
 
+"Screenshot Sound" = "Screenshot-Ton";
+
 "Select Save Folder" = "Speicherordner auswählen";
 
 "Select save location for image" = "Speicherort für Bild auswählen";
 
 "Settings..." = "Einstellungen...";
 
+"Shadow" = "Schatten";
+
 "Shortcut Key" = "Tastenkombination";
 
+"Size" = "Größe";
+
 "Social Badge" = "Social Badge";
+
+"Solid" = "Einfarbig";
+
+"Start/End Color" = "Start-/Endfarbe";
 
 "Terms of Service" = "Nutzungsbedingungen";
 
@@ -147,6 +175,10 @@
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
 
 "Watermark" = "Wasserzeichen";
+
+"X" = "X";
+
+"Y" = "Y";
 
 "Zoom" = "Zoom";
 

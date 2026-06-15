@@ -10,17 +10,23 @@
 
 "%@%@" = "%1$@%2$@";
 
+"%lldpx" = "%lldpx";
+
 "About" = "À propos";
 
 "About %@" = "À propos de %@";
 
 "Acknowledgments" = "Remerciements";
 
+"Add Image" = "Ajouter une image";
+
 "Add image icon" = "Ajouter une icône d'image";
 
 "Appearance" = "Apparence";
 
-"Background Color" = "Couleur d'arrière-plan";
+"Background" = "Arrière-plan";
+
+"Blur" = "Flou";
 
 "Capture Screen" = "Capturer l'écran";
 
@@ -39,6 +45,8 @@
 "Copy (Esc/⌘+C)" = "Copier (Esc/⌘+C)";
 
 "Copy Image" = "Copier l'image";
+
+"Copy Sound" = "Son de copie";
 
 "Custom Social Media Badge" = "Badge réseaux sociaux personnalisé";
 
@@ -74,6 +82,8 @@
 
 "Main Window" = "Fenêtre principale";
 
+"Margin" = "Marge";
+
 "My Apps" = "Mes applications";
 
 "Name" = "Nom";
@@ -81,6 +91,8 @@
 "No QR code recognized in the selected screenshot." = "Aucun code QR reconnu dans la capture d'écran sélectionnée.";
 
 "No text recognized in the selected screenshot." = "Aucun texte reconnu dans la capture d'écran sélectionnée.";
+
+"Opacity" = "Opacité";
 
 "Open Image" = "Ouvrir l'image";
 
@@ -94,6 +106,8 @@
 
 "Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "Veuillez activer « Enregistrement d'écran et audio système », sinon l'application ne peut pas capturer l'image complète du bureau. Allez dans : **Réglages système** → **Confidentialité et sécurité** → **Enregistrement d'écran et audio système**";
 
+"Position" = "Emplacement";
+
 "Privacy Policy" = "Politique de confidentialité";
 
 "QR code recognition failed." = "Échec de la reconnaissance du code QR.";
@@ -105,6 +119,10 @@
 "Recognizing QR code..." = "Reconnaissance du code QR...";
 
 "Recognizing text..." = "Reconnaissance du texte...";
+
+"Remove" = "Supprimer";
+
+"Reset" = "Réinitialiser";
 
 "Save (⌘+S)" = "Enregistrer (⌘+S)";
 
@@ -124,15 +142,25 @@
 
 "Screenshot QR Code" = "Code QR de capture d'écran";
 
+"Screenshot Sound" = "Son de capture d'écran";
+
 "Select Save Folder" = "Sélectionner le dossier de sauvegarde";
 
 "Select save location for image" = "Sélectionner l'emplacement de sauvegarde pour l'image";
 
 "Settings..." = "Paramètres...";
 
+"Shadow" = "Ombre";
+
 "Shortcut Key" = "Touche de raccourci";
 
+"Size" = "Taille";
+
 "Social Badge" = "Badge social";
+
+"Solid" = "Uni";
+
+"Start/End Color" = "Couleur début/fin";
 
 "Terms of Service" = "Conditions d'utilisation";
 
@@ -147,6 +175,10 @@
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
 
 "Watermark" = "Filigrane";
+
+"X" = "X";
+
+"Y" = "Y";
 
 "Zoom" = "Zoom";
 
