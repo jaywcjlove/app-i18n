@@ -11,6 +11,58 @@
         }
       }
     },
+    "%@ · %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ · %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ · %2$@"
+          }
+        }
+      }
+    },
+    "%@ / %lld GB" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ / %2$lld GB"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ / %2$lld GB"
+          }
+        }
+      }
+    },
+    "%d records loaded" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已加载 %d 条记录"
+          }
+        }
+      }
+    },
+    "%d selected" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已选择 %d 项"
+          }
+        }
+      }
+    },
     "About" : {
       "localizations" : {
         "zh-Hans" : {
@@ -31,12 +83,72 @@
         }
       }
     },
+    "After granting permissions in System Settings, return to Dictate." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在系统设置中完成授权后，返回 Dictate。"
+          }
+        }
+      }
+    },
+    "Allows Dictate to detect the dictation shortcut globally." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许 Dictate 在全局检测听写快捷键。"
+          }
+        }
+      }
+    },
+    "Allows Dictate to insert recognized text at the active cursor." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许 Dictate 将识别结果插入当前光标位置。"
+          }
+        }
+      }
+    },
+    "Allows Dictate to record audio locally for speech recognition." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许 Dictate 在本地录制音频用于语音识别。"
+          }
+        }
+      }
+    },
+    "Apple Silicon" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Silicon"
+          }
+        }
+      }
+    },
     "Audio never leaves this Mac" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "音频绝不会离开这台 Mac"
+          }
+        }
+      }
+    },
+    "Authorize" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "授权"
           }
         }
       }
@@ -61,12 +173,32 @@
         }
       }
     },
+    "Available" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可用"
+          }
+        }
+      }
+    },
     "Available Models" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "可用模型"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
           }
         }
       }
@@ -121,12 +253,92 @@
         }
       }
     },
+    "Controls how many saved dictation results appear in the menu bar recent text menu." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "控制菜单栏最近文本菜单中显示的已保存听写结果数量。"
+          }
+        }
+      }
+    },
+    "Copy" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制"
+          }
+        }
+      }
+    },
     "Current model" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "当前模型"
+          }
+        }
+      }
+    },
+    "Delete" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "Delete local engine" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除本地引擎"
+          }
+        }
+      }
+    },
+    "Delete model" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除模型"
+          }
+        }
+      }
+    },
+    "Delete Model?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除模型？"
+          }
+        }
+      }
+    },
+    "Delete selected history?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除选中的历史记录？"
+          }
+        }
+      }
+    },
+    "Detect the dictation shortcut globally, even when Dictate is in the background." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "即使 Dictate 在后台，也能全局检测听写快捷键。"
           }
         }
       }
@@ -151,6 +363,16 @@
         }
       }
     },
+    "Dictate needs Accessibility, Input Monitoring, and Microphone permissions before it can listen and insert text." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要先授权辅助功能、输入监控和麦克风，Dictate 才能聆听并插入文字。"
+          }
+        }
+      }
+    },
     "Dictation shortcut" : {
       "localizations" : {
         "zh-Hans" : {
@@ -167,6 +389,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "下载"
+          }
+        }
+      }
+    },
+    "Download 3+ local engines" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载 3 个以上本地引擎"
           }
         }
       }
@@ -207,6 +439,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "电子邮件"
+          }
+        }
+      }
+    },
+    "Enable Dictation" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用听写"
           }
         }
       }
@@ -281,12 +523,32 @@
         }
       }
     },
+    "Hide Unavailable" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏不可用"
+          }
+        }
+      }
+    },
     "Higher precision 0.6B MLX model with more memory use." : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "精度更高的 0.6B MLX 模型，会占用更多内存。"
+          }
+        }
+      }
+    },
+    "Higher precision 1.7B MLX model with more memory use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "精度更高的 1.7B MLX 模型，会占用更多内存。"
           }
         }
       }
@@ -301,12 +563,42 @@
         }
       }
     },
+    "Higher precision 3B MLX multilingual ASR model with more memory use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "精度更高的 3B MLX 多语言 ASR 模型，会占用更多内存。"
+          }
+        }
+      }
+    },
+    "Higher precision 7B MLX multilingual ASR model with more memory use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "精度更高的 7B MLX 多语言 ASR 模型，会占用更多内存。"
+          }
+        }
+      }
+    },
     "Higher precision compact MLX multilingual ASR model." : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "精度更高的紧凑型 MLX 多语言 ASR 模型。"
+          }
+        }
+      }
+    },
+    "History" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "历史记录"
           }
         }
       }
@@ -491,6 +783,16 @@
         }
       }
     },
+    "Length" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "时长"
+          }
+        }
+      }
+    },
     "Listening" : {
       "localizations" : {
         "zh-Hans" : {
@@ -541,6 +843,16 @@
         }
       }
     },
+    "Menu Bar Recent Text" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "菜单栏最近文本"
+          }
+        }
+      }
+    },
     "Microphone" : {
       "localizations" : {
         "zh-Hans" : {
@@ -551,22 +863,22 @@
         }
       }
     },
-    "Microphone and Accessibility permissions are needed for local capture and cursor insertion." : {
-      "localizations" : {
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "需要麦克风和辅助功能权限，才能在本地采集语音并在光标处插入文本。"
-          }
-        }
-      }
-    },
     "Microphone Privacy Settings..." : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "麦克风隐私设置..."
+          }
+        }
+      }
+    },
+    "Microphone, Input Monitoring, and Accessibility permissions are needed for shortcut detection, local capture, and cursor insertion." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要麦克风、输入监控和辅助功能权限，才能检测快捷键、本地采集语音并在光标处插入文本。"
           }
         }
       }
@@ -591,6 +903,16 @@
         }
       }
     },
+    "Model List" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模型列表"
+          }
+        }
+      }
+    },
     "Model: %@" : {
       "localizations" : {
         "zh-Hans" : {
@@ -611,22 +933,22 @@
         }
       }
     },
-    "Monitor global shortcut to launch dictation." : {
-      "localizations" : {
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "监测全局快捷键以启动听写。"
-          }
-        }
-      }
-    },
     "Needs attention" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "需要处理"
+          }
+        }
+      }
+    },
+    "No dictation history yet." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂无听写历史。"
           }
         }
       }
@@ -661,12 +983,42 @@
         }
       }
     },
+    "No Recent Text" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无最近文本"
+          }
+        }
+      }
+    },
+    "No Speech" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无内容"
+          }
+        }
+      }
+    },
     "Offline only" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "仅离线"
+          }
+        }
+      }
+    },
+    "Open History..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开历史记录..."
           }
         }
       }
@@ -751,6 +1103,16 @@
         }
       }
     },
+    "Recent Text (%d)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近文本 (%d)"
+          }
+        }
+      }
+    },
     "Recommended for Apple Silicon Macs with 16 GB memory. Downloads before use." : {
       "localizations" : {
         "zh-Hans" : {
@@ -821,6 +1183,16 @@
         }
       }
     },
+    "Remove" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除"
+          }
+        }
+      }
+    },
     "Request" : {
       "localizations" : {
         "zh-Hans" : {
@@ -841,6 +1213,26 @@
         }
       }
     },
+    "Requires Apple Silicon." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要 Apple Silicon。"
+          }
+        }
+      }
+    },
+    "Requires at least %lld GB memory." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "至少需要 %lld GB 内存。"
+          }
+        }
+      }
+    },
     "Requires macOS 15 or newer on Apple Silicon. Downloads before use." : {
       "localizations" : {
         "zh-Hans" : {
@@ -857,6 +1249,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "需要 Apple Silicon 且 macOS 15 或更高版本。首次使用时下载。"
+          }
+        }
+      }
+    },
+    "Requires macOS 15 or newer." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要 macOS 15 或更高版本。"
           }
         }
       }
@@ -1001,12 +1403,32 @@
         }
       }
     },
+    "Switch speech engine" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换语音引擎"
+          }
+        }
+      }
+    },
     "System default" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "系统默认"
+          }
+        }
+      }
+    },
+    "Text" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文本"
           }
         }
       }
@@ -1031,12 +1453,82 @@
         }
       }
     },
+    "This removes the selected dictation history from this Mac." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此操作将从这台 Mac 上删除选中的听写历史记录。"
+          }
+        }
+      }
+    },
+    "This will remove %@ from disk." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这会从磁盘中删除 %@。"
+          }
+        }
+      }
+    },
+    "Time" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "时间"
+          }
+        }
+      }
+    },
+    "Transcribing" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在转写"
+          }
+        }
+      }
+    },
     "Transcribing locally" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "正在本地转写"
+          }
+        }
+      }
+    },
+    "Unavailable" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不可用"
+          }
+        }
+      }
+    },
+    "Unlock all features permanently with a one-time payment and enjoy all future upgrades for free—no additional fees ever." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一次性付费永久解锁所有功能，免费享受未来所有升级——无需额外付费。"
+          }
+        }
+      }
+    },
+    "Unlock Features" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解锁功能"
           }
         }
       }

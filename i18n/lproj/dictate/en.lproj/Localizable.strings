@@ -1,14 +1,38 @@
+"%@ / %lld GB" = "%1$@ / %2$lld GB";
+
+"%@ · %@" = "%1$@ · %2$@";
+
+"%d records loaded" = "%d records loaded";
+
+"%d selected" = "%d selected";
+
 "About" = "About";
 
 "Accessibility" = "Accessibility";
 
+"After granting permissions in System Settings, return to Dictate." = "After granting permissions in System Settings, return to Dictate.";
+
+"Allows Dictate to detect the dictation shortcut globally." = "Allows Dictate to detect the dictation shortcut globally.";
+
+"Allows Dictate to insert recognized text at the active cursor." = "Allows Dictate to insert recognized text at the active cursor.";
+
+"Allows Dictate to record audio locally for speech recognition." = "Allows Dictate to record audio locally for speech recognition.";
+
+"Apple Silicon" = "Apple Silicon";
+
 "Audio never leaves this Mac" = "Audio never leaves this Mac";
+
+"Authorize" = "Authorize";
 
 "Auto" = "Auto";
 
 "Auto detects the spoken language. Choosing a language can improve short dictation accuracy." = "Auto detects the spoken language. Choosing a language can improve short dictation accuracy.";
 
+"Available" = "Available";
+
 "Available Models" = "Available Models";
+
+"Cancel" = "Cancel";
 
 "Chinese" = "Chinese";
 
@@ -20,15 +44,35 @@
 
 "Contact" = "Contact";
 
+"Controls how many saved dictation results appear in the menu bar recent text menu." = "Controls how many saved dictation results appear in the menu bar recent text menu.";
+
+"Copy" = "Copy";
+
 "Current model" = "Current model";
+
+"Delete" = "Delete";
+
+"Delete Model?" = "Delete Model?";
+
+"Delete local engine" = "Delete local engine";
+
+"Delete model" = "Delete model";
+
+"Delete selected history?" = "Delete selected history?";
+
+"Detect the dictation shortcut globally, even when Dictate is in the background." = "Detect the dictation shortcut globally, even when Dictate is in the background.";
 
 "Device" = "Device";
 
 "Dictate" = "Dictate";
 
+"Dictate needs Accessibility, Input Monitoring, and Microphone permissions before it can listen and insert text." = "Dictate needs Accessibility, Input Monitoring, and Microphone permissions before it can listen and insert text.";
+
 "Dictation shortcut" = "Dictation shortcut";
 
 "Download" = "Download";
+
+"Download 3+ local engines" = "Download 3+ local engines";
 
 "Download Models..." = "Download Models...";
 
@@ -37,6 +81,8 @@
 "Downloading the CoreML model once. Voice audio is not uploaded." = "Downloading the CoreML model once. Voice audio is not uploaded.";
 
 "E-mail" = "E-mail";
+
+"Enable Dictation" = "Enable Dictation";
 
 "English" = "English";
 
@@ -52,11 +98,21 @@
 
 "Hide Dock icon" = "Hide Dock icon";
 
+"Hide Unavailable" = "Hide Unavailable";
+
 "Higher precision 0.6B MLX model with more memory use." = "Higher precision 0.6B MLX model with more memory use.";
+
+"Higher precision 1.7B MLX model with more memory use." = "Higher precision 1.7B MLX model with more memory use.";
 
 "Higher precision 1B MLX multilingual ASR model with more memory use." = "Higher precision 1B MLX multilingual ASR model with more memory use.";
 
+"Higher precision 3B MLX multilingual ASR model with more memory use." = "Higher precision 3B MLX multilingual ASR model with more memory use.";
+
+"Higher precision 7B MLX multilingual ASR model with more memory use." = "Higher precision 7B MLX multilingual ASR model with more memory use.";
+
 "Higher precision compact MLX multilingual ASR model." = "Higher precision compact MLX multilingual ASR model.";
+
+"History" = "History";
 
 "Hold %@ to dictate, release to insert" = "Hold %@ to dictate, release to insert";
 
@@ -90,6 +146,8 @@
 
 "Launch at Login" = "Launch at Login";
 
+"Length" = "Length";
+
 "Listening" = "Listening";
 
 "Loading WhisperKit model catalog..." = "Loading WhisperKit model catalog...";
@@ -102,11 +160,15 @@
 
 "MLX speech models are downloaded from Hugging Face and stored locally before use." = "MLX speech models are downloaded from Hugging Face and stored locally before use.";
 
+"Menu Bar Recent Text" = "Menu Bar Recent Text";
+
 "Microphone" = "Microphone";
 
 "Microphone Privacy Settings..." = "Microphone Privacy Settings...";
 
-"Microphone and Accessibility permissions are needed for local capture and cursor insertion." = "Microphone and Accessibility permissions are needed for local capture and cursor insertion.";
+"Microphone, Input Monitoring, and Accessibility permissions are needed for shortcut detection, local capture, and cursor insertion." = "Microphone, Input Monitoring, and Accessibility permissions are needed for shortcut detection, local capture, and cursor insertion.";
+
+"Model List" = "Model List";
 
 "Model installed" = "Model installed";
 
@@ -114,17 +176,23 @@
 
 "Models" = "Models";
 
-"Monitor global shortcut to launch dictation." = "Monitor global shortcut to launch dictation.";
-
 "Needs attention" = "Needs attention";
 
 "No Installed Models" = "No Installed Models";
 
 "No Model Installed" = "No Model Installed";
 
+"No Recent Text" = "No Recent Text";
+
+"No Speech" = "No Speech";
+
+"No dictation history yet." = "No dictation history yet.";
+
 "No local models installed." = "No local models installed.";
 
 "Offline only" = "Offline only";
+
+"Open History..." = "Open History...";
 
 "Open Main Window" = "Open Main Window";
 
@@ -142,6 +210,8 @@
 
 "Ready" = "Ready";
 
+"Recent Text (%d)" = "Recent Text (%d)";
+
 "Recommended for Apple Silicon Macs with 16 GB memory. Downloads before use." = "Recommended for Apple Silicon Macs with 16 GB memory. Downloads before use.";
 
 "Recommended for Apple Silicon Macs with 16 GB memory. Downloads on first use." = "Recommended for Apple Silicon Macs with 16 GB memory. Downloads on first use.";
@@ -156,13 +226,21 @@
 
 "Refresh WhisperKit model catalog" = "Refresh WhisperKit model catalog";
 
+"Remove" = "Remove";
+
 "Request" = "Request";
 
 "Requesting permissions" = "Requesting permissions";
 
+"Requires Apple Silicon." = "Requires Apple Silicon.";
+
+"Requires at least %lld GB memory." = "Requires at least %lld GB memory.";
+
 "Requires macOS 15 or newer on Apple Silicon. Downloads before use." = "Requires macOS 15 or newer on Apple Silicon. Downloads before use.";
 
 "Requires macOS 15 or newer on Apple Silicon. Downloads on first use." = "Requires macOS 15 or newer on Apple Silicon. Downloads on first use.";
+
+"Requires macOS 15 or newer." = "Requires macOS 15 or newer.";
 
 "Right Command" = "Right Command";
 
@@ -192,13 +270,31 @@
 
 "Status: %@" = "Status: %@";
 
+"Switch speech engine" = "Switch speech engine";
+
 "System default" = "System default";
+
+"Text" = "Text";
 
 "The selected model is English-only." = "The selected model is English-only.";
 
 "This list is provided by WhisperKit for the current Mac. If the remote catalog cannot load, the app falls back to WhisperKit's local recommendations." = "This list is provided by WhisperKit for the current Mac. If the remote catalog cannot load, the app falls back to WhisperKit's local recommendations.";
 
+"This removes the selected dictation history from this Mac." = "This removes the selected dictation history from this Mac.";
+
+"This will remove %@ from disk." = "This will remove %@ from disk.";
+
+"Time" = "Time";
+
+"Transcribing" = "Transcribing";
+
 "Transcribing locally" = "Transcribing locally";
+
+"Unavailable" = "Unavailable";
+
+"Unlock Features" = "Unlock Features";
+
+"Unlock all features permanently with a one-time payment and enjoy all future upgrades for free—no additional fees ever." = "Unlock all features permanently with a one-time payment and enjoy all future upgrades for free—no additional fees ever.";
 
 "Use" = "Use";
 
