@@ -1,0 +1,355 @@
+" Compressed package with lower disk and memory use." = "壓縮套件，磁碟與記憶體佔用更低。";
+
+" English-only." = "僅支援英文。";
+
+" Multilingual." = "多語言。";
+
+" Turbo variant with lower latency." = "Turbo 變體，延遲更低。";
+
+"%.1f seconds" = "%.1f 秒";
+
+"%@ / %lld GB" = "%1$@ / %2$lld GB";
+
+"%@ · %@" = "%1$@ · %2$@";
+
+"%d records loaded" = "已載入 %d 筆記錄";
+
+"%d selected" = "已選擇 %d 項";
+
+"About" = "關於";
+
+"Accessibility" = "輔助功能";
+
+"After granting permissions in System Settings, return to Dictate." = "在系統設定中完成授權後，返回 Dictate。";
+
+"Allows Dictate to detect the dictation shortcut globally." = "允許 Dictate 在全域偵測聽寫快捷鍵。";
+
+"Allows Dictate to insert recognized text at the active cursor." = "允許 Dictate 將識別結果插入目前游標位置。";
+
+"Allows Dictate to record audio locally for speech recognition." = "允許 Dictate 在本機錄製音訊用於語音辨識。";
+
+"Apple Silicon" = "Apple Silicon";
+
+"Audio never leaves this Mac" = "音訊絕不會離開這台 Mac";
+
+"Authorize" = "授權";
+
+"Auto" = "自動";
+
+"Auto detects the spoken language. Choosing a language can improve short dictation accuracy." = "自動偵測口語語言。手動選擇語言可提升短句聽寫準確率。";
+
+"Available" = "可用";
+
+"Available Models" = "可用模型";
+
+"Available according to WhisperKit device support." = "根據 WhisperKit 裝置支援情況可用。";
+
+"Balanced default model for local dictation." = "均衡的預設本機聽寫模型。";
+
+"Better recognition quality than base with moderate resource use." = "辨識品質優於基礎模型，資源佔用適中。";
+
+"Cancel" = "取消";
+
+"Chinese" = "中文";
+
+"Chinese and English Whisper models" = "中文與英文 Whisper 模型";
+
+"Compact MLX model for Chinese and multilingual dictation." = "適合中文與多語言聽寫的緊湊型 MLX 模型。";
+
+"Compact MLX multilingual ASR model." = "緊湊型 MLX 多語言 ASR 模型。";
+
+"Contact" = "聯絡";
+
+"Controls how many saved dictation results appear in the menu bar recent text menu." = "控制選單列最近文字選單中顯示的已儲存聽寫結果數量。";
+
+"Copy" = "複製";
+
+"Current model" = "目前模型";
+
+"Delete" = "刪除";
+
+"Delete Model?" = "刪除模型？";
+
+"Delete local engine" = "刪除本機引擎";
+
+"Delete model" = "刪除模型";
+
+"Delete selected history?" = "刪除選中的歷史記錄？";
+
+"Detect the dictation shortcut globally, even when Dictate is in the background." = "即使 Dictate 在背景，也能全域偵測聽寫快捷鍵。";
+
+"Device" = "裝置";
+
+"Dictate" = "聽寫";
+
+"Dictate needs Accessibility, Input Monitoring, and Microphone permissions before it can listen and insert text." = "需要先授權輔助功能、輸入監控與麥克風，Dictate 才能聆聽並插入文字。";
+
+"Dictation shortcut" = "聽寫快捷鍵";
+
+"Distilled large model, usually faster than full large models while keeping strong accuracy." = "蒸餾大模型，通常比完整大模型更快，同時保持高準確率。";
+
+"Download" = "下載";
+
+"Download 3+ local engines" = "下載 3 個以上本機引擎";
+
+"Download Models..." = "下載模型⋯";
+
+"Downloading the CoreML model once. Voice audio is not uploaded." = "正在一次性下載 CoreML 模型。語音音訊不會上傳。";
+
+"E-mail" = "電子郵件";
+
+"Enable Dictation" = "啟用聽寫";
+
+"English" = "英文";
+
+"Feedback" = "意見回饋";
+
+"French" = "法語";
+
+"General" = "一般";
+
+"German" = "德語";
+
+"Granted" = "已授權";
+
+"Hide Dock icon" = "隱藏 Dock 圖示";
+
+"Hide Unavailable" = "隱藏不可用";
+
+"High accuracy model for quality-focused transcription with higher startup and memory cost." = "高精度模型，適合注重品質的轉寫，啟動與記憶體開銷更高。";
+
+"Higher accuracy model with noticeably higher latency and memory use." = "精度更高的模型，延遲與記憶體佔用明顯更高。";
+
+"Higher precision 0.6B MLX model with more memory use." = "精度更高的 0.6B MLX 模型，會佔用更多記憶體。";
+
+"Higher precision 1.7B MLX model with more memory use." = "精度更高的 1.7B MLX 模型，會佔用更多記憶體。";
+
+"Higher precision 1B MLX multilingual ASR model with more memory use." = "精度更高的 1B MLX 多語言 ASR 模型，會佔用更多記憶體。";
+
+"Higher precision 3B MLX multilingual ASR model with more memory use." = "精度更高的 3B MLX 多語言 ASR 模型，會佔用更多記憶體。";
+
+"Higher precision 7B MLX multilingual ASR model with more memory use." = "精度更高的 7B MLX 多語言 ASR 模型，會佔用更多記憶體。";
+
+"Higher precision compact MLX multilingual ASR model." = "精度更高的緊湊型 MLX 多語言 ASR 模型。";
+
+"History" = "歷史記錄";
+
+"Hold %@ to dictate, release to insert" = "按住 %@ 開始聽寫，放開後插入";
+
+"Hold %@ to start voice input." = "按住 %@ 開始語音輸入。";
+
+"Immediately" = "立即";
+
+"Input Monitoring" = "輸入監控";
+
+"Insert recognized text into active app input boxes." = "將識別文字插入到目前應用的輸入框中。";
+
+"Inserting" = "正在插入";
+
+"Installed Models" = "已安裝模型";
+
+"Installing local model" = "正在安裝本機模型";
+
+"Japanese" = "日語";
+
+"Keep Dictate available from the menu bar, start it automatically after signing in, and optionally load the current model in the background." = "讓 Dictate 保持在選單列可用、登入後自動啟動，並可在背景載入目前模型。";
+
+"Korean" = "韓語";
+
+"Language" = "語言";
+
+"Large MLX multilingual ASR model for higher quality local transcription." = "大型 MLX 多語言 ASR 模型，適合更高品質的本機轉寫。";
+
+"Larger MLX model for quality-focused local transcription." = "更大的 MLX 模型，適合優先考慮辨識品質的本機轉寫。";
+
+"Larger MLX multilingual ASR model for quality-focused local transcription." = "更大的 MLX 多語言 ASR 模型，適合優先考慮辨識品質的本機轉寫。";
+
+"Largest MLX multilingual ASR model for quality-focused local transcription." = "最大的 MLX 多語言 ASR 模型，適合優先考慮辨識品質的本機轉寫。";
+
+"Launch at Login" = "登入時啟動";
+
+"Length" = "時長";
+
+"Listening" = "正在聆聽";
+
+"Loading WhisperKit model catalog..." = "正在載入 WhisperKit 模型目錄⋯";
+
+"Loading model" = "正在載入模型";
+
+"Local Whisper dictation for macOS" = "適用於 macOS 的本機 Whisper 聽寫";
+
+"Local model is ready: %@" = "本機模型已就緒：%@";
+
+"Lowest latency model for short dictation and quick commands." = "延遲最低的模型，適合短句聽寫與快速指令。";
+
+"MLX speech models are downloaded from Hugging Face and stored locally before use." = "MLX 語音模型會先從 Hugging Face 下載並儲存到本機，然後才能使用。";
+
+"Menu Bar Recent Text" = "選單列最近文字";
+
+"Microphone" = "麥克風";
+
+"Microphone Privacy Settings..." = "麥克風隱私設定⋯";
+
+"Microphone, Input Monitoring, and Accessibility permissions are needed for shortcut detection, local capture, and cursor insertion." = "需要麥克風、輸入監控與輔助功能權限，才能偵測快捷鍵、本機擷取語音並在游標處插入文字。";
+
+"Model List" = "模型列表";
+
+"Model installed" = "模型已安裝";
+
+"Model: %@" = "模型：%@";
+
+"Models" = "模型";
+
+"Needs attention" = "需要處理";
+
+"No Installed Models" = "沒有已安裝模型";
+
+"No Model Installed" = "未安裝模型";
+
+"No Recent Text" = "無最近文字";
+
+"No Speech" = "無內容";
+
+"No dictation history yet." = "暫無聽寫歷史。";
+
+"No local models installed." = "未安裝本機模型。";
+
+"Offline only" = "僅離線";
+
+"Open History..." = "開啟歷史記錄⋯";
+
+"Open Main Window" = "開啟主視窗";
+
+"Open Settings..." = "開啟設定⋯";
+
+"Permissions" = "權限";
+
+"Preload model at launch" = "啟動時預載入模型";
+
+"Preparing" = "準備中";
+
+"Preparing local model: %@" = "正在準備本機模型：%@";
+
+"Preparing microphone input." = "正在準備麥克風輸入。";
+
+"Preparing recognized text." = "正在準備識別文字。";
+
+"Press and hold the selected key until the delay passes to start dictation. Release it to transcribe and insert." = "按住所選按鍵直到延遲時間結束後開始聽寫，放開後轉寫並插入。";
+
+"Quit Dictate" = "結束 Dictate";
+
+"Ready" = "準備就緒";
+
+"Recent Text (%d)" = "最近文字 (%d)";
+
+"Recommended for Apple Silicon Macs with 16 GB memory. Downloads before use." = "推薦 16 GB 記憶體的 Apple Silicon Mac 使用。使用前需要下載。";
+
+"Recommended for Apple Silicon Macs with 16 GB memory. Downloads on first use." = "推薦 16 GB 記憶體的 Apple Silicon Mac 使用。首次使用時下載。";
+
+"Recommended for Apple Silicon Macs with 24 GB memory. Downloads before use." = "推薦 24 GB 記憶體的 Apple Silicon Mac 使用。使用前需要下載。";
+
+"Recommended for Apple Silicon Macs with 32 GB memory. Downloads before use." = "推薦 32 GB 記憶體的 Apple Silicon Mac 使用。使用前需要下載。";
+
+"Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use." = "推薦 64 GB 記憶體的 Apple Silicon Mac 使用。使用前需要下載。";
+
+"Recommended for M1 or newer." = "推薦 M1 或更新機型。";
+
+"Recommended for M1 or newer; best with 16 GB memory." = "推薦 M1 或更新機型，建議 16 GB 記憶體。";
+
+"Recommended for M2/M3/M4 with 16 GB memory." = "推薦 M2/M3/M4，建議 16 GB 記憶體。";
+
+"Recommended for any Apple Silicon Mac." = "推薦任何 Apple Silicon Mac 使用。";
+
+"Record audio locally for speech recognition; no cloud upload." = "在本機錄製音訊用於語音辨識；不會上傳到雲端。";
+
+"Refresh WhisperKit model catalog" = "重新整理 WhisperKit 模型目錄";
+
+"Remove" = "移除";
+
+"Request" = "請求";
+
+"Requesting permissions" = "正在請求權限";
+
+"Requires Apple Silicon." = "需要 Apple Silicon。";
+
+"Requires at least %lld GB memory." = "至少需要 %lld GB 記憶體。";
+
+"Requires macOS 15 or newer on Apple Silicon. Downloads before use." = "需要 Apple Silicon 且 macOS 15 或更高版本。使用前需要下載。";
+
+"Requires macOS 15 or newer on Apple Silicon. Downloads on first use." = "需要 Apple Silicon 且 macOS 15 或更高版本。首次使用時下載。";
+
+"Requires macOS 15 or newer." = "需要 macOS 15 或更高版本。";
+
+"Right Command" = "右 Command";
+
+"Right Control" = "右 Control";
+
+"Right Option" = "右 Option";
+
+"Running local CoreML Whisper inference on this Mac." = "正在這台 Mac 上執行本機 CoreML Whisper 推論。";
+
+"Runs local Core ML speech models optimized for Apple Silicon." = "執行針對 Apple Silicon 最佳化的本機 Core ML 語音模型。";
+
+"Runs local MLX speech models, including Qwen3-ASR and Omnilingual." = "執行本機 MLX 語音模型，包括 Qwen3-ASR 與 Omnilingual。";
+
+"Shortcut" = "快捷鍵";
+
+"Show model folder in Finder" = "在 Finder 中顯示模型檔案夾";
+
+"Social Accounts" = "社群帳號";
+
+"Source" = "來源";
+
+"Spanish" = "西班牙語";
+
+"Speak Chinese or English. Release %@ to stop." = "說中文或英文。放開 %@ 停止。";
+
+"Speech Engine" = "語音引擎";
+
+"Start listening after" = "開始聽寫前等待";
+
+"Status: %@" = "狀態：%@";
+
+"Switch speech engine" = "切換語音引擎";
+
+"System default" = "系統預設";
+
+"Text" = "文字";
+
+"The selected model is English-only." = "所選模型僅支援英文。";
+
+"This list is provided by WhisperKit for the current Mac. If the remote catalog cannot load, the app falls back to WhisperKit's local recommendations." = "此列表由 WhisperKit 針對目前 Mac 提供。若遠端目錄載入失敗，應用將回退到 WhisperKit 的本機推薦。";
+
+"This removes the selected dictation history from this Mac." = "此操作將從這台 Mac 上刪除選中的聽寫歷史記錄。";
+
+"This will remove %@ from disk." = "這會從磁碟中刪除 %@。";
+
+"Time" = "時間";
+
+"Transcribing" = "正在轉寫";
+
+"Transcribing locally" = "正在本機轉寫";
+
+"Unavailable" = "不可用";
+
+"Unlock Features" = "解鎖功能";
+
+"Unlock all features permanently with a one-time payment and enjoy all future upgrades for free—no additional fees ever." = "一次性付費永久解鎖所有功能，免費享受未來所有升級——無需額外付費。";
+
+"Use" = "使用";
+
+"Using" = "使用中";
+
+"Using local WhisperKit recommendations. Remote catalog failed: %@" = "正在使用 WhisperKit 本機推薦。遠端目錄載入失敗：%@";
+
+"Version %@ (%@)" = "版本 %1$@（%2$@）";
+
+"WhisperKit CoreML model available for this Mac." = "此 Mac 可用的 WhisperKit CoreML 模型。";
+
+"X(Twitter)" = "X（Twitter）";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[X(Twitter)](https://x.com/jaywcjlove) • [電子郵件](emailurl) • [GitHub](githuburl)";
+
+"huggingface.co/aufklarer" = "huggingface.co/aufklarer";
+
+"huggingface.co/whisperkit-coreml" = "huggingface.co/whisperkit-coreml";

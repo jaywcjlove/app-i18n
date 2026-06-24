@@ -1,2872 +1,5008 @@
 {
-  "sourceLanguage" : "en",
-  "strings" : {
-    " Compressed package with lower disk and memory use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "압축 패키지, 디스크 및 메모리 사용량이 더 낮습니다."
+  "sourceLanguage": "en",
+  "strings": {
+    " Compressed package with lower disk and memory use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ディスクとメモリ使用量が少ない圧縮パッケージ。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "压缩包，磁盘和内存占用更低。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "압축 패키지, 디스크 및 메모리 사용량이 더 낮습니다."
           }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "压缩包，磁盘和内存占用更低。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "壓縮套件，磁碟與記憶體佔用更低。"
+          }
+        }
+      }
+    },
+    " English-only.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "英語のみ対応。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "영어만 지원합니다."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仅支持英文。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "僅支援英文。"
+          }
+        }
+      }
+    },
+    " Multilingual.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "多言語対応。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다국어."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "多语言。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "多語言。"
+          }
+        }
+      }
+    },
+    " Turbo variant with lower latency.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "低遅延のTurboバリアント。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "더 낮은 지연 시간의 Turbo 변형."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turbo 变体，延迟更低。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turbo 變體，延遲更低。"
+          }
+        }
+      }
+    },
+    "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "[Twitter](https://x.com/jaywcjlove) • [メール](emailurl) • [Github](githuburl)"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "[Twitter](https://x.com/jaywcjlove) • [이메일](emailurl) • [Github](githuburl)"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "[X(Twitter)](https://x.com/jaywcjlove) • [电子邮件](emailurl) • [GitHub](githuburl)"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "[X(Twitter)](https://x.com/jaywcjlove) • [電子郵件](emailurl) • [GitHub](githuburl)"
+          }
+        }
+      }
+    },
+    "%.1f seconds": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%.1f秒"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%.1f초"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%.1f 秒"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%.1f 秒"
+          }
+        }
+      }
+    },
+    "%@ · %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ · %2$@"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ · %2$@"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ · %2$@"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ · %2$@"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ · %2$@"
+          }
+        }
+      }
+    },
+    "%@ / %lld GB": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ / %2$lld GB"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ / %2$lld GB"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ / %2$lld GB"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ / %2$lld GB"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ / %2$lld GB"
+          }
+        }
+      }
+    },
+    "%d records loaded": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d件のレコードを読み込みました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d개 기록 로드됨"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已加载 %d 条记录"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已載入 %d 筆記錄"
+          }
+        }
+      }
+    },
+    "%d selected": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d件選択中"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d개 선택됨"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已选择 %d 项"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已選擇 %d 項"
+          }
+        }
+      }
+    },
+    "About": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "について"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "정보"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关于"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "關於"
+          }
+        }
+      }
+    },
+    "Accessibility": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アクセシビリティ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "접근성"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "辅助功能"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "輔助功能"
+          }
+        }
+      }
+    },
+    "After granting permissions in System Settings, return to Dictate.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "システム設定で権限を許可した後、Dictateに戻ってください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시스템 설정에서 권한을 허용한 후 Dictate로 돌아오세요."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在系统设置中完成授权后，返回 Dictate。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在系統設定中完成授權後，返回 Dictate。"
+          }
+        }
+      }
+    },
+    "Allows Dictate to detect the dictation shortcut globally.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictateがディクテーションショートカットをグローバルに検出できるようにします。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictate가 전역에서 받아쓰기 단축키를 감지할 수 있도록 허용합니다."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "允许 Dictate 在全局检测听写快捷键。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "允許 Dictate 在全域偵測聽寫快捷鍵。"
+          }
+        }
+      }
+    },
+    "Allows Dictate to insert recognized text at the active cursor.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictateが認識したテキストをアクティブなカーソル位置に挿入できるようにします。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictate가 활성 커서 위치에 인식된 텍스트를 삽입할 수 있도록 허용합니다."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "允许 Dictate 将识别结果插入当前光标位置。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "允許 Dictate 將識別結果插入目前游標位置。"
+          }
+        }
+      }
+    },
+    "Allows Dictate to record audio locally for speech recognition.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictateが音声認識のためにローカルでオーディオを録音できるようにします。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictate가 음성 인식을 위해 로컬에서 오디오를 녹음할 수 있도록 허용합니다."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "允许 Dictate 在本地录制音频用于语音识别。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "允許 Dictate 在本機錄製音訊用於語音辨識。"
+          }
+        }
+      }
+    },
+    "Apple Silicon": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Silicon"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Silicon"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Silicon"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Silicon"
+          }
+        }
+      }
+    },
+    "Audio never leaves this Mac": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "音声はこのMacから外部に出ることはありません"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오디오는 절대 이 Mac을 떠나지 않습니다"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "音频绝不会离开这台 Mac"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "音訊絕不會離開這台 Mac"
+          }
+        }
+      }
+    },
+    "Authorize": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "許可"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "승인"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "授权"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "授權"
+          }
+        }
+      }
+    },
+    "Auto": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自動"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "자동"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自动"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自動"
+          }
+        }
+      }
+    },
+    "Auto detects the spoken language. Choosing a language can improve short dictation accuracy.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "話し言葉を自動検出します。言語を選択すると短いディクテーションの精度が向上します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "음성 언어를 자동으로 감지합니다. 언어를 선택하면 짧은 받아쓰기 정확도를 높일 수 있습니다."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自动检测口语语言。手动选择语言可提升短句听写准确率。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自動偵測口語語言。手動選擇語言可提升短句聽寫準確率。"
+          }
+        }
+      }
+    },
+    "Available": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "利用可能"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용 가능"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可用"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可用"
+          }
+        }
+      }
+    },
+    "Available according to WhisperKit device support.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhisperKitデバイスサポートに応じて利用可能。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhisperKit 기기 지원에 따라 사용 가능합니다."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "根据 WhisperKit 设备支持情况可用。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "根據 WhisperKit 裝置支援情況可用。"
+          }
+        }
+      }
+    },
+    "Available Models": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "利用可能なモデル"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용 가능한 모델"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可用模型"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可用模型"
+          }
+        }
+      }
+    },
+    "Balanced default model for local dictation.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ローカルディクテーション用のバランスの取れたデフォルトモデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로컬 받아쓰기를 위한 균형 잡힌 기본 모델."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "均衡的默认本地听写模型。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "均衡的預設本機聽寫模型。"
+          }
+        }
+      }
+    },
+    "Better recognition quality than base with moderate resource use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ベースモデルより認識品質が高く、リソース使用量は適度。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기본 모델보다 인식 품질이 좋고 리소스 사용량은 적당합니다."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "识别质量优于基础模型，资源占用适中。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "辨識品質優於基礎模型，資源佔用適中。"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "キャンセル"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "취소"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消"
+          }
+        }
+      }
+    },
+    "Chinese": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中国語"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "중국어"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中文"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中文"
+          }
+        }
+      }
+    },
+    "Chinese and English Whisper models": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中国語・英語Whisperモデル"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "중국어 및 영어 Whisper 모델"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中文与英文 Whisper 模型"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中文與英文 Whisper 模型"
+          }
+        }
+      }
+    },
+    "Compact MLX model for Chinese and multilingual dictation.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中国語および多言語ディクテーション用のコンパクトMLXモデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "중국어 및 다국어 받아쓰기를 위한 소형 MLX 모델."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "适合中文和多语言听写的紧凑型 MLX 模型。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "適合中文與多語言聽寫的緊湊型 MLX 模型。"
+          }
+        }
+      }
+    },
+    "Compact MLX multilingual ASR model.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "コンパクトMLX多言語ASRモデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "소형 MLX 다국어 ASR 모델."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "紧凑型 MLX 多语言 ASR 模型。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "緊湊型 MLX 多語言 ASR 模型。"
+          }
+        }
+      }
+    },
+    "Contact": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "お問い合わせ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "문의"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "联系"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "聯絡"
+          }
+        }
+      }
+    },
+    "Controls how many saved dictation results appear in the menu bar recent text menu.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "メニューバーの最近のテキストメニューに表示される保存済みディクテーション結果の数を制御します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메뉴 막대 최근 텍스트 메뉴에 표시되는 저장된 받아쓰기 결과 수를 제어합니다."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "控制菜单栏最近文本菜单中显示的已保存听写结果数量。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "控制選單列最近文字選單中顯示的已儲存聽寫結果數量。"
+          }
+        }
+      }
+    },
+    "Copy": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "コピー"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "복사"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "复制"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "複製"
+          }
+        }
+      }
+    },
+    "Current model": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "現在のモデル"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "현재 모델"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "当前模型"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "目前模型"
+          }
+        }
+      }
+    },
+    "Delete": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "削除"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "삭제"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "刪除"
+          }
+        }
+      }
+    },
+    "Delete local engine": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ローカルエンジンを削除"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로컬 엔진 삭제"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除本地引擎"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "刪除本機引擎"
+          }
+        }
+      }
+    },
+    "Delete model": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "モデルを削除"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델 삭제"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除模型"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "刪除模型"
+          }
+        }
+      }
+    },
+    "Delete Model?": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "モデルを削除しますか？"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델을 삭제하시겠습니까?"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除模型？"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "刪除模型？"
+          }
+        }
+      }
+    },
+    "Delete selected history?": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "選択した履歴を削除しますか？"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택한 기록을 삭제하시겠습니까?"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除选中的历史记录？"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "刪除選中的歷史記錄？"
+          }
+        }
+      }
+    },
+    "Detect the dictation shortcut globally, even when Dictate is in the background.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictateがバックグラウンドにある場合でも、ディクテーションショートカットをグローバルに検出します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictate가 백그라운드에 있어도 전역에서 받아쓰기 단축키를 감지합니다."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "即使 Dictate 在后台，也能全局检测听写快捷键。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "即使 Dictate 在背景，也能全域偵測聽寫快捷鍵。"
+          }
+        }
+      }
+    },
+    "Device": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "デバイス"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기기"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设备"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "裝置"
+          }
+        }
+      }
+    },
+    "Dictate": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictate"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰기"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "听写"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "聽寫"
+          }
+        }
+      }
+    },
+    "Dictate needs Accessibility, Input Monitoring, and Microphone permissions before it can listen and insert text.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictateが音声を聞き取ってテキストを挿入するには、アクセシビリティ、入力監視、マイクの権限が必要です。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictate가 음성을 듣고 텍스트를 삽입하려면 접근성, 입력 모니터링 및 마이크 권한이 필요합니다."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要先授权辅助功能、输入监控和麦克风，Dictate 才能聆听并插入文字。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要先授權輔助功能、輸入監控與麥克風，Dictate 才能聆聽並插入文字。"
+          }
+        }
+      }
+    },
+    "Dictation shortcut": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ディクテーションショートカット"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰기 단축키"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "听写快捷键"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "聽寫快捷鍵"
+          }
+        }
+      }
+    },
+    "Distilled large model, usually faster than full large models while keeping strong accuracy.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蒸留大規模モデル。通常、完全な大規模モデルよりも高速で、高い精度を維持します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "증류 대형 모델, 일반적으로 전체 대형 모델보다 빠르면서 높은 정확도를 유지합니다."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蒸馏大模型，通常比完整大模型更快，同时保持高准确率。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蒸餾大模型，通常比完整大模型更快，同時保持高準確率。"
+          }
+        }
+      }
+    },
+    "Download": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ダウンロード"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다운로드"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下載"
+          }
+        }
+      }
+    },
+    "Download 3+ local engines": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3つ以上のローカルエンジンをダウンロード"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3개 이상의 로컬 엔진 다운로드"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载 3 个以上本地引擎"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下載 3 個以上本機引擎"
+          }
+        }
+      }
+    },
+    "Download Models...": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "モデルをダウンロード..."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델 다운로드..."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下载模型..."
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下載模型⋯"
+          }
+        }
+      }
+    },
+    "Downloading the CoreML model once. Voice audio is not uploaded.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CoreMLモデルを一度だけダウンロードします。音声データはアップロードされません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CoreML 모델을 한 번 다운로드합니다. 음성 오디오는 업로드되지 않습니다."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在一次性下载 CoreML 模型。语音音频不会上传。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在一次性下載 CoreML 模型。語音音訊不會上傳。"
+          }
+        }
+      }
+    },
+    "E-mail": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "メール"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이메일"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "电子邮件"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "電子郵件"
+          }
+        }
+      }
+    },
+    "Enable Dictation": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ディクテーションを有効にする"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰기 활성화"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "启用听写"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "啟用聽寫"
+          }
+        }
+      }
+    },
+    "English": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "英語"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "영어"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "英文"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "英文"
+          }
+        }
+      }
+    },
+    "Feedback": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フィードバック"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "피드백"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "反馈"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "意見回饋"
+          }
+        }
+      }
+    },
+    "French": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フランス語"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "프랑스어"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "法语"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "法語"
+          }
+        }
+      }
+    },
+    "General": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一般"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "일반"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通用"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一般"
+          }
+        }
+      }
+    },
+    "German": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ドイツ語"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "독일어"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "德语"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "德語"
+          }
+        }
+      }
+    },
+    "Granted": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "許可済み"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "허용됨"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已授权"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已授權"
+          }
+        }
+      }
+    },
+    "Hide Dock icon": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dockアイコンを非表示"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dock 아이콘 숨기기"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "隐藏 Dock 图标"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "隱藏 Dock 圖示"
+          }
+        }
+      }
+    },
+    "Hide Unavailable": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "利用不可を非表示"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용 불가능한 항목 숨기기"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "隐藏不可用"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "隱藏不可用"
+          }
+        }
+      }
+    },
+    "High accuracy model for quality-focused transcription with higher startup and memory cost.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "起動時間とメモリコストが高い、品質重視の文字起こし向け高精度モデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "품질 중심의 전사에 적합한 고정밀 모델, 시작 및 메모리 비용이 더 높습니다."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "高精度模型，适合注重质量的转写，启动和内存开销更高。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "高精度模型，適合注重品質的轉寫，啟動與記憶體開銷更高。"
+          }
         }
       }
     },
-    " English-only." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "영어만 지원합니다."
+    "Higher accuracy model with noticeably higher latency and memory use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "より高精度なモデル。遅延とメモリ使用量が顕著に高くなります。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "더 높은 정확도의 모델, 지연 시간과 메모리 사용량이 눈에 띄게 높습니다."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精度更高的模型，延迟和内存占用明显更高。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精度更高的模型，延遲與記憶體佔用明顯更高。"
+          }
+        }
+      }
+    },
+    "Higher precision 0.6B MLX model with more memory use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "より多くのメモリを使用する高精度0.6B MLXモデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "더 많은 메모리를 사용하는 고정밀 0.6B MLX 모델."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精度更高的 0.6B MLX 模型，会占用更多内存。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精度更高的 0.6B MLX 模型，會佔用更多記憶體。"
+          }
+        }
+      }
+    },
+    "Higher precision 1.7B MLX model with more memory use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "より多くのメモリを使用する高精度1.7B MLXモデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "더 많은 메모리를 사용하는 고정밀 1.7B MLX 모델."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精度更高的 1.7B MLX 模型，会占用更多内存。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精度更高的 1.7B MLX 模型，會佔用更多記憶體。"
+          }
+        }
+      }
+    },
+    "Higher precision 1B MLX multilingual ASR model with more memory use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "より多くのメモリを使用する高精度1B MLX多言語ASRモデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "더 많은 메모리를 사용하는 고정밀 1B MLX 다국어 ASR 모델."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "仅支持英文。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精度更高的 1B MLX 多语言 ASR 模型，会占用更多内存。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精度更高的 1B MLX 多語言 ASR 模型，會佔用更多記憶體。"
+          }
         }
       }
     },
-    " Multilingual." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "다국어."
+    "Higher precision 3B MLX multilingual ASR model with more memory use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "より多くのメモリを使用する高精度3B MLX多言語ASRモデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "더 많은 메모리를 사용하는 고정밀 3B MLX 다국어 ASR 모델."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "多语言。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精度更高的 3B MLX 多语言 ASR 模型，会占用更多内存。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精度更高的 3B MLX 多語言 ASR 模型，會佔用更多記憶體。"
+          }
         }
       }
     },
-    " Turbo variant with lower latency." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "더 낮은 지연 시간의 Turbo 변형."
+    "Higher precision 7B MLX multilingual ASR model with more memory use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "より多くのメモリを使用する高精度7B MLX多言語ASRモデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "더 많은 메모리를 사용하는 고정밀 7B MLX 다국어 ASR 모델."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Turbo 变体，延迟更低。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精度更高的 7B MLX 多语言 ASR 模型，会占用更多内存。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精度更高的 7B MLX 多語言 ASR 模型，會佔用更多記憶體。"
+          }
         }
       }
     },
-    "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "[Twitter](https://x.com/jaywcjlove) • [이메일](emailurl) • [Github](githuburl)"
+    "Higher precision compact MLX multilingual ASR model.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "高精度コンパクトMLX多言語ASRモデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "고정밀 소형 MLX 다국어 ASR 모델."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "[X(Twitter)](https://x.com/jaywcjlove) • [电子邮件](emailurl) • [GitHub](githuburl)"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精度更高的紧凑型 MLX 多语言 ASR 模型。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "精度更高的緊湊型 MLX 多語言 ASR 模型。"
+          }
         }
       }
     },
-    "%.1f seconds" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%.1f초"
+    "History": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "履歴"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기록"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%.1f 秒"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "历史记录"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "歷史記錄"
+          }
         }
       }
     },
-    "%@ · %@" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ · %2$@"
+    "Hold %@ to dictate, release to insert": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@を長押しでディクテーション開始、離すと挿入"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@을(를) 길게 눌러 받아쓰기, 놓으면 삽입"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ · %2$@"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按住 %@ 开始听写，松开后插入"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ · %2$@"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按住 %@ 開始聽寫，放開後插入"
           }
         }
       }
     },
-    "%@ / %lld GB" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ / %2$lld GB"
+    "Hold %@ to start voice input.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@を長押しして音声入力を開始します。"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ / %2$lld GB"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@을(를) 길게 눌러 음성 입력을 시작하세요."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ / %2$lld GB"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按住 %@ 开始语音输入。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按住 %@ 開始語音輸入。"
+          }
         }
       }
     },
-    "%d records loaded" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%d개 기록 로드됨"
+    "huggingface.co/aufklarer": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "huggingface.co/aufklarer"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "huggingface.co/aufklarer"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "已加载 %d 条记录"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "huggingface.co/aufklarer"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "huggingface.co/aufklarer"
+          }
         }
       }
     },
-    "%d selected" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%d개 선택됨"
+    "huggingface.co/whisperkit-coreml": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "huggingface.co/whisperkit-coreml"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "huggingface.co/whisperkit-coreml"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "已选择 %d 项"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "huggingface.co/whisperkit-coreml"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "huggingface.co/whisperkit-coreml"
+          }
         }
       }
     },
-    "About" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "정보"
+    "Immediately": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "すぐに"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "즉시"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "关于"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "立即"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "立即"
+          }
         }
       }
     },
-    "Accessibility" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "접근성"
+    "Input Monitoring": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "入力監視"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "입력 모니터링"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "辅助功能"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "输入监控"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "輸入監控"
+          }
         }
       }
     },
-    "After granting permissions in System Settings, return to Dictate." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "시스템 설정에서 권한을 허용한 후 Dictate로 돌아오세요."
+    "Insert recognized text into active app input boxes.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "認識したテキストをアクティブなアプリの入力欄に挿入します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인식된 텍스트를 활성 앱의 입력 상자에 삽입합니다."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "在系统设置中完成授权后，返回 Dictate。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将识别文本插入到当前应用的输入框中。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "將識別文字插入到目前應用的輸入框中。"
+          }
         }
       }
     },
-    "Allows Dictate to detect the dictation shortcut globally." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dictate가 전역에서 받아쓰기 단축키를 감지할 수 있도록 허용합니다."
+    "Inserting": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "挿入中"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "삽입 중"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "允许 Dictate 在全局检测听写快捷键。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在插入"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在插入"
+          }
         }
       }
     },
-    "Allows Dictate to insert recognized text at the active cursor." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dictate가 활성 커서 위치에 인식된 텍스트를 삽입할 수 있도록 허용합니다."
+    "Installed Models": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "インストール済みモデル"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설치된 모델"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "允许 Dictate 将识别结果插入当前光标位置。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已安装模型"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已安裝模型"
+          }
         }
       }
     },
-    "Allows Dictate to record audio locally for speech recognition." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dictate가 음성 인식을 위해 로컬에서 오디오를 녹음할 수 있도록 허용합니다."
+    "Installing local model": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ローカルモデルをインストール中"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로컬 모델 설치 중"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "允许 Dictate 在本地录制音频用于语音识别。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在安装本地模型"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在安裝本機模型"
+          }
         }
       }
     },
-    "Apple Silicon" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apple Silicon"
+    "Japanese": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日本語"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "일본어"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apple Silicon"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日语"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日語"
+          }
         }
       }
     },
-    "Audio never leaves this Mac" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "오디오는 절대 이 Mac을 떠나지 않습니다"
+    "Keep Dictate available from the menu bar, start it automatically after signing in, and optionally load the current model in the background.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictateをメニューバーから利用可能に保ち、サインイン後に自動起動し、必要に応じて現在のモデルをバックグラウンドで読み込みます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictate를 메뉴 막대에서 사용할 수 있도록 유지하고, 로그인 후 자동으로 시작하며, 선택적으로 백그라운드에서 현재 모델을 로드합니다."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "音频绝不会离开这台 Mac"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "让 Dictate 保持在菜单栏可用、登录后自动启动，并可在后台加载当前模型。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "讓 Dictate 保持在選單列可用、登入後自動啟動，並可在背景載入目前模型。"
+          }
         }
       }
     },
-    "Authorize" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "승인"
+    "Korean": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "韓国語"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "한국어"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "授权"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "韩语"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "韓語"
+          }
         }
       }
     },
-    "Auto" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "자동"
+    "Language": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "言語"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "언어"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "自动"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "语言"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "語言"
+          }
         }
       }
     },
-    "Auto detects the spoken language. Choosing a language can improve short dictation accuracy." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "음성 언어를 자동으로 감지합니다. 언어를 선택하면 짧은 받아쓰기 정확도를 높일 수 있습니다."
+    "Large MLX multilingual ASR model for higher quality local transcription.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "より高品質なローカル文字起こしのための大規模MLX多言語ASRモデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "더 높은 품질의 로컬 전사를 위한 대형 MLX 다국어 ASR 모델."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "自动检测口语语言。手动选择语言可提升短句听写准确率。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "大型 MLX 多语言 ASR 模型，适合更高质量的本地转写。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "大型 MLX 多語言 ASR 模型，適合更高品質的本機轉寫。"
+          }
         }
       }
     },
-    "Available" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "사용 가능"
+    "Larger MLX model for quality-focused local transcription.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "品質重視のローカル文字起こしのためのより大きなMLXモデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "품질 중심의 로컬 전사를 위한 더 큰 MLX 모델."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "可用"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更大的 MLX 模型，适合优先考虑识别质量的本地转写。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更大的 MLX 模型，適合優先考慮辨識品質的本機轉寫。"
+          }
         }
       }
     },
-    "Available according to WhisperKit device support." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "WhisperKit 기기 지원에 따라 사용 가능합니다."
+    "Larger MLX multilingual ASR model for quality-focused local transcription.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "品質重視のローカル文字起こしのためのより大きなMLX多言語ASRモデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "품질 중심의 로컬 전사를 위한 더 큰 MLX 다국어 ASR 모델."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "根据 WhisperKit 设备支持情况可用。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更大的 MLX 多语言 ASR 模型，适合优先考虑识别质量的本地转写。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更大的 MLX 多語言 ASR 模型，適合優先考慮辨識品質的本機轉寫。"
+          }
         }
       }
     },
-    "Available Models" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "사용 가능한 모델"
+    "Largest MLX multilingual ASR model for quality-focused local transcription.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "品質重視のローカル文字起こしのための最大のMLX多言語ASRモデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "품질 중심의 로컬 전사를 위한 가장 큰 MLX 다국어 ASR 모델."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "可用模型"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最大的 MLX 多语言 ASR 模型，适合优先考虑识别质量的本地转写。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最大的 MLX 多語言 ASR 模型，適合優先考慮辨識品質的本機轉寫。"
+          }
         }
       }
     },
-    "Balanced default model for local dictation." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "로컬 받아쓰기를 위한 균형 잡힌 기본 모델."
+    "Launch at Login": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ログイン時に起動"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그인 시 실행"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "均衡的默认本地听写模型。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "登录时启动"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "登入時啟動"
+          }
         }
       }
     },
-    "Better recognition quality than base with moderate resource use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "기본 모델보다 인식 품질이 좋고 리소스 사용량은 적당합니다."
+    "Length": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "長さ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "길이"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "识别质量优于基础模型，资源占用适中。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "时长"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "時長"
+          }
         }
       }
     },
-    "Cancel" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "취소"
+    "Listening": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "リスニング中"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "듣는 중"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "取消"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在聆听"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在聆聽"
+          }
         }
       }
     },
-    "Chinese" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "중국어"
+    "Loading model": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "モデルを読み込み中"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델 로드 중"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "中文"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在加载模型"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在載入模型"
+          }
         }
       }
     },
-    "Chinese and English Whisper models" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "중국어 및 영어 Whisper 모델"
+    "Loading WhisperKit model catalog...": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhisperKitモデルカタログを読み込み中..."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhisperKit 모델 카탈로그 로드 중..."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "中文与英文 Whisper 模型"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在加载 WhisperKit 模型目录..."
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在載入 WhisperKit 模型目錄⋯"
+          }
         }
       }
     },
-    "Compact MLX model for Chinese and multilingual dictation." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "중국어 및 다국어 받아쓰기를 위한 소형 MLX 모델."
+    "Local model is ready: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ローカルモデルの準備完了: %@"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로컬 모델 준비 완료: %@"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "适合中文和多语言听写的紧凑型 MLX 模型。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本地模型已就绪：%@"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本機模型已就緒：%@"
+          }
         }
       }
     },
-    "Compact MLX multilingual ASR model." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "소형 MLX 다국어 ASR 모델."
+    "Local Whisper dictation for macOS": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS用ローカルWhisperディクテーション"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS용 로컬 Whisper 받아쓰기"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "紧凑型 MLX 多语言 ASR 模型。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "适用于 macOS 的本地 Whisper 听写"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "適用於 macOS 的本機 Whisper 聽寫"
+          }
         }
       }
     },
-    "Contact" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "문의"
+    "Lowest latency model for short dictation and quick commands.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "短いディクテーションとクイックコマンドに最適な最低遅延モデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "짧은 받아쓰기와 빠른 명령에 적합한 최저 지연 시간 모델."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "联系"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "延迟最低的模型，适合短句听写和快速指令。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "延遲最低的模型，適合短句聽寫與快速指令。"
+          }
         }
       }
     },
-    "Controls how many saved dictation results appear in the menu bar recent text menu." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "메뉴 막대 최근 텍스트 메뉴에 표시되는 저장된 받아쓰기 결과 수를 제어합니다."
+    "Menu Bar Recent Text": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "メニューバーの最近のテキスト"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메뉴 막대 최근 텍스트"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "控制菜单栏最近文本菜单中显示的已保存听写结果数量。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "菜单栏最近文本"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "選單列最近文字"
+          }
         }
       }
     },
-    "Copy" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "복사"
+    "Microphone": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "マイク"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "마이크"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "复制"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "麦克风"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "麥克風"
+          }
         }
       }
     },
-    "Current model" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "현재 모델"
+    "Microphone Privacy Settings...": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "マイクのプライバシー設定..."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "마이크 개인정보 설정..."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "当前模型"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "麦克风隐私设置..."
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "麥克風隱私設定⋯"
+          }
         }
       }
     },
-    "Delete" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "삭제"
+    "Microphone, Input Monitoring, and Accessibility permissions are needed for shortcut detection, local capture, and cursor insertion.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ショートカット検出、ローカルキャプチャ、カーソル挿入には、マイク、入力監視、アクセシビリティの権限が必要です。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축키 감지, 로컬 캡처 및 커서 삽입을 위해 마이크, 입력 모니터링 및 접근성 권한이 필요합니다."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "删除"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要麦克风、输入监控和辅助功能权限，才能检测快捷键、本地采集语音并在光标处插入文本。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要麥克風、輸入監控與輔助功能權限，才能偵測快捷鍵、本機擷取語音並在游標處插入文字。"
+          }
         }
       }
     },
-    "Delete local engine" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "로컬 엔진 삭제"
+    "MLX speech models are downloaded from Hugging Face and stored locally before use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MLX音声モデルはHugging Faceからダウンロードされ、使用前にローカルに保存されます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MLX 음성 모델은 Hugging Face에서 다운로드되어 사용 전 로컬에 저장됩니다."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "删除本地引擎"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MLX 语音模型会先从 Hugging Face 下载并存储到本地，然后才能使用。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MLX 語音模型會先從 Hugging Face 下載並儲存到本機，然後才能使用。"
+          }
         }
       }
     },
-    "Delete model" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "모델 삭제"
+    "Model installed": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "モデルがインストールされました"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델 설치됨"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "删除模型"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型已安装"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型已安裝"
+          }
         }
       }
     },
-    "Delete Model?" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "모델을 삭제하시겠습니까?"
+    "Model List": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "モデル一覧"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델 목록"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "删除模型？"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型列表"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型列表"
+          }
         }
       }
     },
-    "Delete selected history?" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "선택한 기록을 삭제하시겠습니까?"
+    "Model: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "モデル: %@"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델: %@"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "删除选中的历史记录？"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型：%@"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型：%@"
+          }
         }
       }
     },
-    "Detect the dictation shortcut globally, even when Dictate is in the background." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dictate가 백그라운드에 있어도 전역에서 받아쓰기 단축키를 감지합니다."
+    "Models": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "モデル"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "即使 Dictate 在后台，也能全局检测听写快捷键。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模型"
+          }
         }
       }
     },
-    "Device" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "기기"
+    "Needs attention": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "注意が必要"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "주의 필요"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "设备"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要处理"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要處理"
+          }
         }
       }
     },
-    "Dictate" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "받아쓰기"
+    "No dictation history yet.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "まだディクテーション履歴がありません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아직 받아쓰기 기록이 없습니다."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "听写"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂无听写历史。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暫無聽寫歷史。"
+          }
         }
       }
     },
-    "Dictate needs Accessibility, Input Monitoring, and Microphone permissions before it can listen and insert text." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dictate가 음성을 듣고 텍스트를 삽입하려면 접근성, 입력 모니터링 및 마이크 권한이 필요합니다."
+    "No Installed Models": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "インストール済みモデルなし"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설치된 모델 없음"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "需要先授权辅助功能、输入监控和麦克风，Dictate 才能聆听并插入文字。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "没有已安装模型"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "沒有已安裝模型"
+          }
         }
       }
     },
-    "Dictation shortcut" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "받아쓰기 단축키"
+    "No local models installed.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ローカルモデルがインストールされていません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설치된 로컬 모델이 없습니다."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "听写快捷键"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未安装本地模型。"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未安裝本機模型。"
+          }
         }
       }
     },
-    "Distilled large model, usually faster than full large models while keeping strong accuracy." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "증류 대형 모델, 일반적으로 전체 대형 모델보다 빠르면서 높은 정확도를 유지합니다."
+    "No Model Installed": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "モデルがインストールされていません"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설치된 모델 없음"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "蒸馏大模型，通常比完整大模型更快，同时保持高准确率。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未安装模型"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未安裝模型"
+          }
         }
       }
     },
-    "Download" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "다운로드"
+    "No Recent Text": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最近のテキストなし"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "최근 텍스트 없음"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "下载"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无最近文本"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "無最近文字"
+          }
         }
       }
     },
-    "Download 3+ local engines" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "3개 이상의 로컬 엔진 다운로드"
+    "No Speech": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "音声なし"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "음성 없음"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "下载 3 个以上本地引擎"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无内容"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "無內容"
+          }
         }
       }
     },
-    "Download Models..." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "모델 다운로드..."
+    "Offline only": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "オフラインのみ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오프라인 전용"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "下载模型..."
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仅离线"
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "僅離線"
+          }
         }
       }
     },
-    "Downloading the CoreML model once. Voice audio is not uploaded." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "CoreML 모델을 한 번 다운로드합니다. 음성 오디오는 업로드되지 않습니다."
+    "Open History...": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "履歴を開く..."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기록 열기..."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在一次性下载 CoreML 模型。语音音频不会上传。"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开历史记录..."
           }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "開啟歷史記錄⋯"
+          }
         }
       }
     },
-    "E-mail" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "이메일"
+    "Open Main Window": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "メインウィンドウを開く"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메인 윈도우 열기"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开主窗口"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "电子邮件"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "開啟主視窗"
           }
         }
       }
     },
-    "Enable Dictation" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "받아쓰기 활성화"
+    "Open Settings...": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "設定を開く..."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "启用听写"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설정 열기..."
           }
-        }
-      }
-    },
-    "English" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "영어"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开设置..."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "英文"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "開啟設定⋯"
           }
         }
       }
     },
-    "Feedback" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "피드백"
+    "Permissions": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "権限"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "反馈"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "권한"
           }
-        }
-      }
-    },
-    "French" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "프랑스어"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "权限"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "法语"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "權限"
           }
         }
       }
     },
-    "General" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "일반"
+    "Preload model at launch": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "起動時にモデルをプリロード"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "通用"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "실행 시 모델 미리 로드"
           }
-        }
-      }
-    },
-    "German" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "독일어"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "启动时预加载模型"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "德语"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "啟動時預載入模型"
           }
         }
       }
     },
-    "Granted" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "허용됨"
+    "Preparing": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "準備中"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "已授权"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "준비 중"
           }
-        }
-      }
-    },
-    "Hide Dock icon" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dock 아이콘 숨기기"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "准备中"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "隐藏 Dock 图标"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "準備中"
           }
         }
       }
     },
-    "Hide Unavailable" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "사용 불가능한 항목 숨기기"
+    "Preparing local model: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ローカルモデルを準備中: %@"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "隐藏不可用"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로컬 모델 준비 중: %@"
           }
-        }
-      }
-    },
-    "High accuracy model for quality-focused transcription with higher startup and memory cost." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "품질 중심의 전사에 적합한 고정밀 모델, 시작 및 메모리 비용이 더 높습니다."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在准备本地模型：%@"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "高精度模型，适合注重质量的转写，启动和内存开销更高。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在準備本機模型：%@"
           }
         }
       }
     },
-    "Higher accuracy model with noticeably higher latency and memory use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "더 높은 정확도의 모델, 지연 시간과 메모리 사용량이 눈에 띄게 높습니다."
+    "Preparing microphone input.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "マイク入力を準備中。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "精度更高的模型，延迟和内存占用明显更高。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "마이크 입력 준비 중."
           }
-        }
-      }
-    },
-    "Higher precision 0.6B MLX model with more memory use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "더 많은 메모리를 사용하는 고정밀 0.6B MLX 모델."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在准备麦克风输入。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "精度更高的 0.6B MLX 模型，会占用更多内存。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在準備麥克風輸入。"
           }
         }
       }
     },
-    "Higher precision 1.7B MLX model with more memory use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "더 많은 메모리를 사용하는 고정밀 1.7B MLX 모델."
+    "Preparing recognized text.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "認識テキストを準備中。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "精度更高的 1.7B MLX 模型，会占用更多内存。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인식된 텍스트 준비 중."
           }
-        }
-      }
-    },
-    "Higher precision 1B MLX multilingual ASR model with more memory use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "더 많은 메모리를 사용하는 고정밀 1B MLX 다국어 ASR 모델."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在准备识别文本。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "精度更高的 1B MLX 多语言 ASR 模型，会占用更多内存。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在準備識別文字。"
           }
         }
       }
     },
-    "Higher precision 3B MLX multilingual ASR model with more memory use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "더 많은 메모리를 사용하는 고정밀 3B MLX 다국어 ASR 모델."
+    "Press and hold the selected key until the delay passes to start dictation. Release it to transcribe and insert.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "遅延時間が経過するまで選択したキーを長押ししてディクテーションを開始します。離すと文字起こしして挿入します。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "精度更高的 3B MLX 多语言 ASR 模型，会占用更多内存。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "지연 시간이 지날 때까지 선택한 키를 길게 눌러 받아쓰기를 시작하세요. 놓으면 전사하여 삽입됩니다."
           }
-        }
-      }
-    },
-    "Higher precision 7B MLX multilingual ASR model with more memory use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "더 많은 메모리를 사용하는 고정밀 7B MLX 다국어 ASR 모델."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按住所选按键直到延迟时间结束后开始听写，松开后转写并插入。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "精度更高的 7B MLX 多语言 ASR 模型，会占用更多内存。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按住所選按鍵直到延遲時間結束後開始聽寫，放開後轉寫並插入。"
           }
         }
       }
     },
-    "Higher precision compact MLX multilingual ASR model." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "고정밀 소형 MLX 다국어 ASR 모델."
+    "Quit Dictate": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictateを終了"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "精度更高的紧凑型 MLX 多语言 ASR 模型。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictate 종료"
           }
-        }
-      }
-    },
-    "History" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "기록"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "退出 Dictate"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "历史记录"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "結束 Dictate"
           }
         }
       }
     },
-    "Hold %@ to dictate, release to insert" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@을(를) 길게 눌러 받아쓰기, 놓으면 삽입"
+    "Ready": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "準備完了"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "按住 %@ 开始听写，松开后插入"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "준비됨"
           }
-        }
-      }
-    },
-    "Hold %@ to start voice input." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@을(를) 길게 눌러 음성 입력을 시작하세요."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "准备就绪"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "按住 %@ 开始语音输入。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "準備就緒"
           }
         }
       }
     },
-    "huggingface.co/aufklarer" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "huggingface.co/aufklarer"
+    "Recent Text (%d)": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最近のテキスト (%d)"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "huggingface.co/aufklarer"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "최근 텍스트 (%d)"
           }
-        }
-      }
-    },
-    "huggingface.co/whisperkit-coreml" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "huggingface.co/whisperkit-coreml"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最近文本 (%d)"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "huggingface.co/whisperkit-coreml"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最近文字 (%d)"
           }
         }
       }
     },
-    "Immediately" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "즉시"
+    "Recommended for any Apple Silicon Mac.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "すべてのApple Silicon Macに推奨。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "立即"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모든 Apple Silicon Mac에 권장."
           }
-        }
-      }
-    },
-    "Input Monitoring" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "입력 모니터링"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推荐任何 Apple Silicon Mac 使用。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "输入监控"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推薦任何 Apple Silicon Mac 使用。"
           }
         }
       }
     },
-    "Insert recognized text into active app input boxes." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "인식된 텍스트를 활성 앱의 입력 상자에 삽입합니다."
+    "Recommended for Apple Silicon Macs with 16 GB memory. Downloads before use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "16GBメモリのApple Silicon Macに推奨。使用前にダウンロード。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "将识别文本插入到当前应用的输入框中。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "16 GB 메모리의 Apple Silicon Mac에 권장됩니다. 사용 전 다운로드."
           }
-        }
-      }
-    },
-    "Inserting" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "삽입 중"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推荐 16 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在插入"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推薦 16 GB 記憶體的 Apple Silicon Mac 使用。使用前需要下載。"
           }
         }
       }
     },
-    "Installed Models" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "설치된 모델"
+    "Recommended for Apple Silicon Macs with 16 GB memory. Downloads on first use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "16GBメモリのApple Silicon Macに推奨。初回使用時にダウンロード。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "已安装模型"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "16 GB 메모리의 Apple Silicon Mac에 권장됩니다. 최초 사용 시 다운로드."
           }
-        }
-      }
-    },
-    "Installing local model" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "로컬 모델 설치 중"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推荐 16 GB 内存的 Apple Silicon Mac 使用。首次使用时下载。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在安装本地模型"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推薦 16 GB 記憶體的 Apple Silicon Mac 使用。首次使用時下載。"
           }
         }
       }
     },
-    "Japanese" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "일본어"
+    "Recommended for Apple Silicon Macs with 24 GB memory. Downloads before use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "24GBメモリのApple Silicon Macに推奨。使用前にダウンロード。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "日语"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "24 GB 메모리의 Apple Silicon Mac에 권장됩니다. 사용 전 다운로드."
           }
-        }
-      }
-    },
-    "Keep Dictate available from the menu bar, start it automatically after signing in, and optionally load the current model in the background." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dictate를 메뉴 막대에서 사용할 수 있도록 유지하고, 로그인 후 자동으로 시작하며, 선택적으로 백그라운드에서 현재 모델을 로드합니다."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推荐 24 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "让 Dictate 保持在菜单栏可用、登录后自动启动，并可在后台加载当前模型。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推薦 24 GB 記憶體的 Apple Silicon Mac 使用。使用前需要下載。"
           }
         }
       }
     },
-    "Korean" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "한국어"
+    "Recommended for Apple Silicon Macs with 32 GB memory. Downloads before use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "32GBメモリのApple Silicon Macに推奨。使用前にダウンロード。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "韩语"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "32 GB 메모리의 Apple Silicon Mac에 권장됩니다. 사용 전 다운로드."
           }
-        }
-      }
-    },
-    "Language" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "언어"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推荐 32 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "语言"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推薦 32 GB 記憶體的 Apple Silicon Mac 使用。使用前需要下載。"
           }
         }
       }
     },
-    "Large MLX multilingual ASR model for higher quality local transcription." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "더 높은 품질의 로컬 전사를 위한 대형 MLX 다국어 ASR 모델."
+    "Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "64GBメモリのApple Silicon Macに推奨。使用前にダウンロード。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "大型 MLX 多语言 ASR 模型，适合更高质量的本地转写。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "64 GB 메모리의 Apple Silicon Mac에 권장됩니다. 사용 전 다운로드."
           }
-        }
-      }
-    },
-    "Larger MLX model for quality-focused local transcription." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "품질 중심의 로컬 전사를 위한 더 큰 MLX 모델."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推荐 64 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "更大的 MLX 模型，适合优先考虑识别质量的本地转写。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推薦 64 GB 記憶體的 Apple Silicon Mac 使用。使用前需要下載。"
           }
         }
       }
     },
-    "Larger MLX multilingual ASR model for quality-focused local transcription." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "품질 중심의 로컬 전사를 위한 더 큰 MLX 다국어 ASR 모델."
+    "Recommended for M1 or newer; best with 16 GB memory.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "M1以降に推奨、16GBメモリ推奨。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "更大的 MLX 多语言 ASR 模型，适合优先考虑识别质量的本地转写。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "M1 이상 권장, 16 GB 메모리 권장."
           }
-        }
-      }
-    },
-    "Largest MLX multilingual ASR model for quality-focused local transcription." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "품질 중심의 로컬 전사를 위한 가장 큰 MLX 다국어 ASR 모델."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推荐 M1 或更新机型，建议 16 GB 内存。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "最大的 MLX 多语言 ASR 模型，适合优先考虑识别质量的本地转写。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推薦 M1 或更新機型，建議 16 GB 記憶體。"
           }
         }
       }
     },
-    "Launch at Login" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "로그인 시 실행"
+    "Recommended for M1 or newer.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "M1以降に推奨。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "登录时启动"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "M1 이상 권장."
           }
-        }
-      }
-    },
-    "Length" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "길이"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推荐 M1 或更新机型。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "时长"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推薦 M1 或更新機型。"
           }
         }
       }
     },
-    "Listening" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "듣는 중"
+    "Recommended for M2/M3/M4 with 16 GB memory.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "16GBメモリ搭載のM2/M3/M4に推奨。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在聆听"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "16 GB 메모리의 M2/M3/M4 권장."
           }
-        }
-      }
-    },
-    "Loading model" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "모델 로드 중"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推荐 M2/M3/M4，建议 16 GB 内存。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在加载模型"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "推薦 M2/M3/M4，建議 16 GB 記憶體。"
           }
         }
       }
     },
-    "Loading WhisperKit model catalog..." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "WhisperKit 모델 카탈로그 로드 중..."
+    "Record audio locally for speech recognition; no cloud upload.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "音声認識のためにローカルでオーディオを録音。クラウドへのアップロードはありません。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在加载 WhisperKit 模型目录..."
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "음성 인식을 위해 로컬에서 오디오를 녹음하며, 클라우드 업로드가 없습니다."
           }
-        }
-      }
-    },
-    "Local model is ready: %@" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "로컬 모델 준비 완료: %@"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在本地录制音频用于语音识别；不会上传到云端。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "本地模型已就绪：%@"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在本機錄製音訊用於語音辨識；不會上傳到雲端。"
           }
         }
       }
     },
-    "Local Whisper dictation for macOS" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "macOS용 로컬 Whisper 받아쓰기"
+    "Refresh WhisperKit model catalog": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhisperKitモデルカタログを更新"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "适用于 macOS 的本地 Whisper 听写"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhisperKit 모델 카탈로그 새로고침"
           }
-        }
-      }
-    },
-    "Lowest latency model for short dictation and quick commands." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "짧은 받아쓰기와 빠른 명령에 적합한 최저 지연 시간 모델."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "刷新 WhisperKit 模型目录"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "延迟最低的模型，适合短句听写和快速指令。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重新整理 WhisperKit 模型目錄"
           }
         }
       }
     },
-    "Menu Bar Recent Text" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "메뉴 막대 최근 텍스트"
+    "Remove": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "削除"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "菜单栏最近文本"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제거"
           }
-        }
-      }
-    },
-    "Microphone" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "마이크"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移除"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "麦克风"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移除"
           }
         }
       }
     },
-    "Microphone Privacy Settings..." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "마이크 개인정보 설정..."
+    "Request": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "リクエスト"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "麦克风隐私设置..."
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "요청"
           }
-        }
-      }
-    },
-    "Microphone, Input Monitoring, and Accessibility permissions are needed for shortcut detection, local capture, and cursor insertion." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "단축키 감지, 로컬 캡처 및 커서 삽입을 위해 마이크, 입력 모니터링 및 접근성 권한이 필요합니다."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请求"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "需要麦克风、输入监控和辅助功能权限，才能检测快捷键、本地采集语音并在光标处插入文本。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "請求"
           }
         }
       }
     },
-    "MLX speech models are downloaded from Hugging Face and stored locally before use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "MLX 음성 모델은 Hugging Face에서 다운로드되어 사용 전 로컬에 저장됩니다."
+    "Requesting permissions": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "権限をリクエスト中"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "MLX 语音模型会先从 Hugging Face 下载并存储到本地，然后才能使用。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "권한 요청 중"
           }
-        }
-      }
-    },
-    "Model installed" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "모델 설치됨"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在请求权限"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "模型已安装"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在請求權限"
           }
         }
       }
     },
-    "Model List" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "모델 목록"
+    "Requires Apple Silicon.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Siliconが必要です。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "模型列表"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Silicon이 필요합니다."
           }
-        }
-      }
-    },
-    "Model: %@" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "모델: %@"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要 Apple Silicon。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "模型：%@"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要 Apple Silicon。"
           }
         }
       }
     },
-    "Models" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "모델"
+    "Requires at least %lld GB memory.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最低%lld GBのメモリが必要です。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "模型"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "최소 %lld GB 메모리가 필요합니다."
           }
-        }
-      }
-    },
-    "Needs attention" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "주의 필요"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "至少需要 %lld GB 内存。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "需要处理"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "至少需要 %lld GB 記憶體。"
           }
         }
       }
     },
-    "No dictation history yet." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "아직 받아쓰기 기록이 없습니다."
+    "Requires macOS 15 or newer on Apple Silicon. Downloads before use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Silicon搭載MacでmacOS 15以降が必要。使用前にダウンロード。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "暂无听写历史。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Silicon에서 macOS 15 이상이 필요합니다. 사용 전 다운로드."
           }
-        }
-      }
-    },
-    "No Installed Models" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "설치된 모델 없음"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要 Apple Silicon 且 macOS 15 或更高版本。使用前需要下载。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "没有已安装模型"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要 Apple Silicon 且 macOS 15 或更高版本。使用前需要下載。"
           }
         }
       }
     },
-    "No local models installed." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "설치된 로컬 모델이 없습니다."
+    "Requires macOS 15 or newer on Apple Silicon. Downloads on first use.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Silicon搭載MacでmacOS 15以降が必要。初回使用時にダウンロード。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "未安装本地模型。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Silicon에서 macOS 15 이상이 필요합니다. 최초 사용 시 다운로드."
           }
-        }
-      }
-    },
-    "No Model Installed" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "설치된 모델 없음"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要 Apple Silicon 且 macOS 15 或更高版本。首次使用时下载。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "未安装模型"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要 Apple Silicon 且 macOS 15 或更高版本。首次使用時下載。"
           }
         }
       }
     },
-    "No Recent Text" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "최근 텍스트 없음"
+    "Requires macOS 15 or newer.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS 15以降が必要です。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "无最近文本"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS 15 이상이 필요합니다."
           }
-        }
-      }
-    },
-    "No Speech" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "음성 없음"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要 macOS 15 或更高版本。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "无内容"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "需要 macOS 15 或更高版本。"
           }
         }
       }
     },
-    "Offline only" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "오프라인 전용"
+    "Right Command": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "右Command"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "仅离线"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오른쪽 Command"
           }
-        }
-      }
-    },
-    "Open History..." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "기록 열기..."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "右 Command"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "打开历史记录..."
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "右 Command"
           }
         }
       }
     },
-    "Open Main Window" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "메인 윈도우 열기"
+    "Right Control": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "右Control"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "打开主窗口"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오른쪽 Control"
           }
-        }
-      }
-    },
-    "Open Settings..." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "설정 열기..."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "右 Control"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "打开设置..."
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "右 Control"
           }
         }
       }
     },
-    "Permissions" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "권한"
+    "Right Option": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "右Option"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "权限"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오른쪽 Option"
           }
-        }
-      }
-    },
-    "Preload model at launch" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "실행 시 모델 미리 로드"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "右 Option"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "启动时预加载模型"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "右 Option"
           }
         }
       }
     },
-    "Preparing" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "준비 중"
+    "Running local CoreML Whisper inference on this Mac.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このMacでローカルCoreML Whisper推論を実行中。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "准备中"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 Mac에서 로컬 CoreML Whisper 추론 실행 중."
           }
-        }
-      }
-    },
-    "Preparing local model: %@" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "로컬 모델 준비 중: %@"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在这台 Mac 上运行本地 CoreML Whisper 推理。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在准备本地模型：%@"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在這台 Mac 上執行本機 CoreML Whisper 推論。"
           }
         }
       }
     },
-    "Preparing microphone input." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "마이크 입력 준비 중."
+    "Runs local Core ML speech models optimized for Apple Silicon.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Silicon向けに最適化されたローカルCore ML音声モデルを実行します。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在准备麦克风输入。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Silicon에 최적화된 로컬 Core ML 음성 모델을 실행합니다."
           }
-        }
-      }
-    },
-    "Preparing recognized text." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "인식된 텍스트 준비 중."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "运行针对 Apple Silicon 优化的本地 Core ML 语音模型。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在准备识别文本。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "執行針對 Apple Silicon 最佳化的本機 Core ML 語音模型。"
           }
         }
       }
     },
-    "Press and hold the selected key until the delay passes to start dictation. Release it to transcribe and insert." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "지연 시간이 지날 때까지 선택한 키를 길게 눌러 받아쓰기를 시작하세요. 놓으면 전사하여 삽입됩니다."
+    "Runs local MLX speech models, including Qwen3-ASR and Omnilingual.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Qwen3-ASRおよびOmnilingualを含むローカルMLX音声モデルを実行します。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "按住所选按键直到延迟时间结束后开始听写，松开后转写并插入。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Qwen3-ASR 및 Omnilingual을 포함한 로컬 MLX 음성 모델을 실행합니다."
           }
-        }
-      }
-    },
-    "Quit Dictate" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dictate 종료"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "运行本地 MLX 语音模型，包括 Qwen3-ASR 和 Omnilingual。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "退出 Dictate"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "執行本機 MLX 語音模型，包括 Qwen3-ASR 與 Omnilingual。"
           }
         }
       }
     },
-    "Ready" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "준비됨"
+    "Shortcut": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ショートカット"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "准备就绪"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축키"
           }
-        }
-      }
-    },
-    "Recent Text (%d)" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "최근 텍스트 (%d)"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "快捷键"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "最近文本 (%d)"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "快捷鍵"
           }
         }
       }
     },
-    "Recommended for any Apple Silicon Mac." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "모든 Apple Silicon Mac에 권장."
+    "Show model folder in Finder": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finderでモデルフォルダを表示"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "推荐任何 Apple Silicon Mac 使用。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finder에서 모델 폴더 보기"
           }
-        }
-      }
-    },
-    "Recommended for Apple Silicon Macs with 16 GB memory. Downloads before use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "16 GB 메모리의 Apple Silicon Mac에 권장됩니다. 사용 전 다운로드."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在 Finder 中显示模型文件夹"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "推荐 16 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在 Finder 中顯示模型檔案夾"
           }
         }
       }
     },
-    "Recommended for Apple Silicon Macs with 16 GB memory. Downloads on first use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "16 GB 메모리의 Apple Silicon Mac에 권장됩니다. 최초 사용 시 다운로드."
+    "Social Accounts": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ソーシャルアカウント"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "推荐 16 GB 内存的 Apple Silicon Mac 使用。首次使用时下载。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "소셜 계정"
           }
-        }
-      }
-    },
-    "Recommended for Apple Silicon Macs with 24 GB memory. Downloads before use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "24 GB 메모리의 Apple Silicon Mac에 권장됩니다. 사용 전 다운로드."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "社交账号"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "推荐 24 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "社群帳號"
           }
         }
       }
     },
-    "Recommended for Apple Silicon Macs with 32 GB memory. Downloads before use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "32 GB 메모리의 Apple Silicon Mac에 권장됩니다. 사용 전 다운로드."
+    "Source": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ソース"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "推荐 32 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "소스"
           }
-        }
-      }
-    },
-    "Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "64 GB 메모리의 Apple Silicon Mac에 권장됩니다. 사용 전 다운로드."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "来源"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "推荐 64 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "來源"
           }
         }
       }
     },
-    "Recommended for M1 or newer; best with 16 GB memory." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "M1 이상 권장, 16 GB 메모리 권장."
+    "Spanish": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スペイン語"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "推荐 M1 或更新机型，建议 16 GB 内存。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스페인어"
           }
-        }
-      }
-    },
-    "Recommended for M1 or newer." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "M1 이상 권장."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "西班牙语"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "推荐 M1 或更新机型。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "西班牙語"
           }
         }
       }
     },
-    "Recommended for M2/M3/M4 with 16 GB memory." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "16 GB 메모리의 M2/M3/M4 권장."
+    "Speak Chinese or English. Release %@ to stop.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中国語または英語で話してください。%@を離すと停止します。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "推荐 M2/M3/M4，建议 16 GB 内存。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "중국어 또는 영어로 말하세요. %@을(를) 놓으면 중지됩니다."
           }
-        }
-      }
-    },
-    "Record audio locally for speech recognition; no cloud upload." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "음성 인식을 위해 로컬에서 오디오를 녹음하며, 클라우드 업로드가 없습니다."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "说中文或英文。松开 %@ 停止。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "在本地录制音频用于语音识别；不会上传到云端。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "說中文或英文。放開 %@ 停止。"
           }
         }
       }
     },
-    "Refresh WhisperKit model catalog" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "WhisperKit 모델 카탈로그 새로고침"
+    "Speech Engine": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "音声エンジン"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "刷新 WhisperKit 模型目录"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "음성 엔진"
           }
-        }
-      }
-    },
-    "Remove" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "제거"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "语音引擎"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "移除"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "語音引擎"
           }
         }
       }
     },
-    "Request" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "요청"
+    "Start listening after": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "次の時間後にリスニング開始"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "请求"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다음 시간 후 듣기 시작"
           }
-        }
-      }
-    },
-    "Requesting permissions" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "권한 요청 중"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开始听写前等待"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在请求权限"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "開始聽寫前等待"
           }
         }
       }
     },
-    "Requires Apple Silicon." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apple Silicon이 필요합니다."
+    "Status: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ステータス: %@"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "需要 Apple Silicon。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "상태: %@"
           }
-        }
-      }
-    },
-    "Requires at least %lld GB memory." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "최소 %lld GB 메모리가 필요합니다."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "状态：%@"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "至少需要 %lld GB 内存。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "狀態：%@"
           }
         }
       }
     },
-    "Requires macOS 15 or newer on Apple Silicon. Downloads before use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apple Silicon에서 macOS 15 이상이 필요합니다. 사용 전 다운로드."
+    "Switch speech engine": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "音声エンジンを切り替え"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "需要 Apple Silicon 且 macOS 15 或更高版本。使用前需要下载。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "음성 엔진 전환"
           }
-        }
-      }
-    },
-    "Requires macOS 15 or newer on Apple Silicon. Downloads on first use." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apple Silicon에서 macOS 15 이상이 필요합니다. 최초 사용 시 다운로드."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "切换语音引擎"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "需要 Apple Silicon 且 macOS 15 或更高版本。首次使用时下载。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "切換語音引擎"
           }
         }
       }
     },
-    "Requires macOS 15 or newer." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "macOS 15 이상이 필요합니다."
+    "System default": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "システムデフォルト"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "需要 macOS 15 或更高版本。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시스템 기본값"
           }
-        }
-      }
-    },
-    "Right Command" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "오른쪽 Command"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "系统默认"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "右 Command"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "系統預設"
           }
         }
       }
     },
-    "Right Control" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "오른쪽 Control"
+    "Text": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "テキスト"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "右 Control"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "텍스트"
           }
-        }
-      }
-    },
-    "Right Option" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "오른쪽 Option"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文本"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "右 Option"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文字"
           }
         }
       }
     },
-    "Running local CoreML Whisper inference on this Mac." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "이 Mac에서 로컬 CoreML Whisper 추론 실행 중."
+    "The selected model is English-only.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "選択したモデルは英語のみ対応です。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在这台 Mac 上运行本地 CoreML Whisper 推理。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택한 모델은 영어만 지원합니다."
           }
-        }
-      }
-    },
-    "Runs local Core ML speech models optimized for Apple Silicon." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apple Silicon에 최적화된 로컬 Core ML 음성 모델을 실행합니다."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "所选模型仅支持英文。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "运行针对 Apple Silicon 优化的本地 Core ML 语音模型。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "所選模型僅支援英文。"
           }
         }
       }
     },
-    "Runs local MLX speech models, including Qwen3-ASR and Omnilingual." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Qwen3-ASR 및 Omnilingual을 포함한 로컬 MLX 음성 모델을 실행합니다."
+    "This list is provided by WhisperKit for the current Mac. If the remote catalog cannot load, the app falls back to WhisperKit's local recommendations.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このリストは現在のMac向けにWhisperKitが提供しています。リモートカタログを読み込めない場合、アプリはWhisperKitのローカル推奨にフォールバックします。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "运行本地 MLX 语音模型，包括 Qwen3-ASR 和 Omnilingual。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 목록은 현재 Mac에 대해 WhisperKit에서 제공합니다. 원격 카탈로그를 로드할 수 없는 경우 앱은 WhisperKit의 로컬 권장 사항으로 대체됩니다."
           }
-        }
-      }
-    },
-    "Shortcut" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "단축키"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此列表由 WhisperKit 针对当前 Mac 提供。若远程目录加载失败，应用将回退到 WhisperKit 的本地推荐。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "快捷键"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此列表由 WhisperKit 針對目前 Mac 提供。若遠端目錄載入失敗，應用將回退到 WhisperKit 的本機推薦。"
           }
         }
       }
     },
-    "Show model folder in Finder" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Finder에서 모델 폴더 보기"
+    "This removes the selected dictation history from this Mac.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "この操作により、選択したディクテーション履歴がこのMacから削除されます。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "在 Finder 中显示模型文件夹"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 작업은 이 Mac에서 선택한 받아쓰기 기록을 제거합니다."
           }
-        }
-      }
-    },
-    "Social Accounts" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "소셜 계정"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此操作将从这台 Mac 上删除选中的听写历史记录。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "社交账号"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此操作將從這台 Mac 上刪除選中的聽寫歷史記錄。"
           }
         }
       }
     },
-    "Source" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "소스"
+    "This will remove %@ from disk.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ディスクから%@を削除します。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "来源"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "디스크에서 %@을(를) 제거합니다."
           }
-        }
-      }
-    },
-    "Spanish" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "스페인어"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这会从磁盘中删除 %@。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "西班牙语"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "這會從磁碟中刪除 %@。"
           }
         }
       }
     },
-    "Speak Chinese or English. Release %@ to stop." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "중국어 또는 영어로 말하세요. %@을(를) 놓으면 중지됩니다."
+    "Time": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "時刻"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "说中文或英文。松开 %@ 停止。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시간"
           }
-        }
-      }
-    },
-    "Speech Engine" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "음성 엔진"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "时间"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "语音引擎"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "時間"
           }
         }
       }
     },
-    "Start listening after" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "다음 시간 후 듣기 시작"
+    "Transcribing": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文字起こし中"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "开始听写前等待"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "전사 중"
           }
-        }
-      }
-    },
-    "Status: %@" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "상태: %@"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在转写"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "状态：%@"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在轉寫"
           }
         }
       }
     },
-    "Switch speech engine" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "음성 엔진 전환"
+    "Transcribing locally": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ローカルで文字起こし中"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "切换语音引擎"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로컬에서 전사 중"
           }
-        }
-      }
-    },
-    "System default" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "시스템 기본값"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在本地转写"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "系统默认"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在本機轉寫"
           }
         }
       }
     },
-    "Text" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "텍스트"
+    "Unavailable": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "利用不可"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "文本"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용 불가"
           }
-        }
-      }
-    },
-    "The selected model is English-only." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "선택한 모델은 영어만 지원합니다."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不可用"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "所选模型仅支持英文。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不可用"
           }
         }
       }
     },
-    "This list is provided by WhisperKit for the current Mac. If the remote catalog cannot load, the app falls back to WhisperKit's local recommendations." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "이 목록은 현재 Mac에 대해 WhisperKit에서 제공합니다. 원격 카탈로그를 로드할 수 없는 경우 앱은 WhisperKit의 로컬 권장 사항으로 대체됩니다."
+    "Unlock all features permanently with a one-time payment and enjoy all future upgrades for free—no additional fees ever.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一度の支払いですべての機能を永続的にロック解除し、将来のすべてのアップグレードを無料でご利用いただけます。追加料金は一切ありません。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "此列表由 WhisperKit 针对当前 Mac 提供。若远程目录加载失败，应用将回退到 WhisperKit 的本地推荐。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "일회성 결제로 모든 기능을 영구적으로 잠금 해제하고 향후 모든 업그레이드를 무료로 이용하세요. 추가 비용은 없습니다."
           }
-        }
-      }
-    },
-    "This removes the selected dictation history from this Mac." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "이 작업은 이 Mac에서 선택한 받아쓰기 기록을 제거합니다."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一次性付费永久解锁所有功能，免费享受未来所有升级——无需额外付费。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "此操作将从这台 Mac 上删除选中的听写历史记录。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一次性付費永久解鎖所有功能，免費享受未來所有升級——無需額外付費。"
           }
         }
       }
     },
-    "This will remove %@ from disk." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "디스크에서 %@을(를) 제거합니다."
+    "Unlock Features": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "機能をロック解除"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "这会从磁盘中删除 %@。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기능 잠금 해제"
           }
-        }
-      }
-    },
-    "Time" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "시간"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "解锁功能"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "时间"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "解鎖功能"
           }
         }
       }
     },
-    "Transcribing" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "전사 중"
+    "Use": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在转写"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용"
           }
-        }
-      }
-    },
-    "Transcribing locally" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "로컬에서 전사 중"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在本地转写"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用"
           }
         }
       }
     },
-    "Unavailable" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "사용 불가"
+    "Using": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用中"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "不可用"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용 중"
           }
-        }
-      }
-    },
-    "Unlock all features permanently with a one-time payment and enjoy all future upgrades for free—no additional fees ever." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "일회성 결제로 모든 기능을 영구적으로 잠금 해제하고 향후 모든 업그레이드를 무료로 이용하세요. 추가 비용은 없습니다."
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用中"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "一次性付费永久解锁所有功能，免费享受未来所有升级——无需额外付费。"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用中"
           }
         }
       }
     },
-    "Unlock Features" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "기능 잠금 해제"
+    "Using local WhisperKit recommendations. Remote catalog failed: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhisperKitのローカル推奨を使用中。リモートカタログの読み込みに失敗: %@"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "解锁功能"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhisperKit 로컬 권장 사항을 사용 중입니다. 원격 카탈로그 실패: %@"
           }
-        }
-      }
-    },
-    "Use" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "사용"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在使用 WhisperKit 本地推荐。远程目录加载失败：%@"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "使用"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在使用 WhisperKit 本機推薦。遠端目錄載入失敗：%@"
           }
         }
       }
     },
-    "Using" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "사용 중"
+    "Version %@ (%@)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Version %1$@ (%2$@)"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "使用中"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バージョン %1$@ (%2$@)"
           }
-        }
-      }
-    },
-    "Using local WhisperKit recommendations. Remote catalog failed: %@" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "WhisperKit 로컬 권장 사항을 사용 중입니다. 원격 카탈로그 실패: %@"
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "버전 %1$@ (%2$@)"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "版本 %1$@（%2$@）"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在使用 WhisperKit 本地推荐。远程目录加载失败：%@"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "版本 %1$@（%2$@）"
           }
         }
       }
     },
-    "Version %@ (%@)" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Version %1$@ (%2$@)"
+    "WhisperKit CoreML model available for this Mac.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このMacで利用可能なWhisperKit CoreMLモデル。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 Mac에서 사용 가능한 WhisperKit CoreML 모델."
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "버전 %1$@ (%2$@)"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此 Mac 可用的 WhisperKit CoreML 模型。"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "版本 %1$@（%2$@）"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此 Mac 可用的 WhisperKit CoreML 模型。"
           }
         }
       }
     },
-    "WhisperKit CoreML model available for this Mac." : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "이 Mac에서 사용 가능한 WhisperKit CoreML 모델."
+    "X(Twitter)": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "X(Twitter)"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "此 Mac 可用的 WhisperKit CoreML 模型。"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "X(Twitter)"
           }
-        }
-      }
-    },
-    "X(Twitter)" : {
-      "localizations" : {
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "X(Twitter)"
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "X（Twitter）"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "X（Twitter）"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "X（Twitter）"
           }
         }
       }
     }
   },
-  "version" : "1.2"
+  "version": "1.2"
 }
