@@ -1,0 +1,355 @@
+" Compressed package with lower disk and memory use." = "Package compressé avec une utilisation réduite du disque et de la mémoire.";
+
+" English-only." = "Anglais uniquement.";
+
+" Multilingual." = "Multilingue.";
+
+" Turbo variant with lower latency." = "Variante Turbo avec une latence réduite.";
+
+"%.1f seconds" = "%.1f secondes";
+
+"%@ / %lld GB" = "%1$@ / %2$lld Go";
+
+"%@ · %@" = "%1$@ · %2$@";
+
+"%d records loaded" = "%d enregistrements chargés";
+
+"%d selected" = "%d sélectionné(s)";
+
+"About" = "À propos";
+
+"Accessibility" = "Accessibilité";
+
+"After granting permissions in System Settings, return to Dictate." = "Après avoir accordé les autorisations dans Réglages Système, revenez à Dictate.";
+
+"Allows Dictate to detect the dictation shortcut globally." = "Permet à Dictate de détecter le raccourci de dictée globalement.";
+
+"Allows Dictate to insert recognized text at the active cursor." = "Permet à Dictate d'insérer le texte reconnu au niveau du curseur actif.";
+
+"Allows Dictate to record audio locally for speech recognition." = "Permet à Dictate d'enregistrer l'audio localement pour la reconnaissance vocale.";
+
+"Apple Silicon" = "Apple Silicon";
+
+"Audio never leaves this Mac" = "L'audio ne quitte jamais ce Mac";
+
+"Authorize" = "Autoriser";
+
+"Auto" = "Auto";
+
+"Auto detects the spoken language. Choosing a language can improve short dictation accuracy." = "Détecte automatiquement la langue parlée. Choisir une langue peut améliorer la précision des dictées courtes.";
+
+"Available" = "Disponible";
+
+"Available Models" = "Modèles disponibles";
+
+"Available according to WhisperKit device support." = "Disponible selon la prise en charge de l'appareil par WhisperKit.";
+
+"Balanced default model for local dictation." = "Modèle par défaut équilibré pour la dictée locale.";
+
+"Better recognition quality than base with moderate resource use." = "Meilleure qualité de reconnaissance que le modèle de base avec une utilisation modérée des ressources.";
+
+"Cancel" = "Annuler";
+
+"Chinese" = "Chinois";
+
+"Chinese and English Whisper models" = "Modèles Whisper chinois et anglais";
+
+"Compact MLX model for Chinese and multilingual dictation." = "Modèle MLX compact pour la dictée en chinois et multilingue.";
+
+"Compact MLX multilingual ASR model." = "Modèle ASR multilingue MLX compact.";
+
+"Contact" = "Contact";
+
+"Controls how many saved dictation results appear in the menu bar recent text menu." = "Contrôle le nombre de résultats de dictée enregistrés affichés dans le menu de texte récent de la barre de menus.";
+
+"Copy" = "Copier";
+
+"Current model" = "Modèle actuel";
+
+"Delete" = "Supprimer";
+
+"Delete Model?" = "Supprimer le modèle ?";
+
+"Delete local engine" = "Supprimer le moteur local";
+
+"Delete model" = "Supprimer le modèle";
+
+"Delete selected history?" = "Supprimer l'historique sélectionné ?";
+
+"Detect the dictation shortcut globally, even when Dictate is in the background." = "Détecter le raccourci de dictée globalement, même lorsque Dictate est en arrière-plan.";
+
+"Device" = "Appareil";
+
+"Dictate" = "Dictate";
+
+"Dictate needs Accessibility, Input Monitoring, and Microphone permissions before it can listen and insert text." = "Dictate a besoin des autorisations Accessibilité, Surveillance des entrées et Microphone avant de pouvoir écouter et insérer du texte.";
+
+"Dictation shortcut" = "Raccourci de dictée";
+
+"Distilled large model, usually faster than full large models while keeping strong accuracy." = "Grand modèle distillé, généralement plus rapide que les grands modèles complets tout en conservant une forte précision.";
+
+"Download" = "Télécharger";
+
+"Download 3+ local engines" = "Télécharger 3+ moteurs locaux";
+
+"Download Models..." = "Télécharger des modèles...";
+
+"Downloading the CoreML model once. Voice audio is not uploaded." = "Téléchargement unique du modèle CoreML. L'audio vocal n'est pas téléversé.";
+
+"E-mail" = "E-mail";
+
+"Enable Dictation" = "Activer la dictée";
+
+"English" = "Anglais";
+
+"Feedback" = "Commentaires";
+
+"French" = "Français";
+
+"General" = "Général";
+
+"German" = "Allemand";
+
+"Granted" = "Accordé";
+
+"Hide Dock icon" = "Masquer l'icône du Dock";
+
+"Hide Unavailable" = "Masquer indisponibles";
+
+"High accuracy model for quality-focused transcription with higher startup and memory cost." = "Modèle de haute précision pour une transcription de qualité, avec un coût de démarrage et de mémoire plus élevé.";
+
+"Higher accuracy model with noticeably higher latency and memory use." = "Modèle de précision supérieure avec une latence et une utilisation mémoire nettement plus élevées.";
+
+"Higher precision 0.6B MLX model with more memory use." = "Modèle MLX 0,6B de précision supérieure avec une utilisation mémoire accrue.";
+
+"Higher precision 1.7B MLX model with more memory use." = "Modèle MLX 1,7B de précision supérieure avec une utilisation mémoire accrue.";
+
+"Higher precision 1B MLX multilingual ASR model with more memory use." = "Modèle ASR multilingue MLX 1B de précision supérieure avec une utilisation mémoire accrue.";
+
+"Higher precision 3B MLX multilingual ASR model with more memory use." = "Modèle ASR multilingue MLX 3B de précision supérieure avec une utilisation mémoire accrue.";
+
+"Higher precision 7B MLX multilingual ASR model with more memory use." = "Modèle ASR multilingue MLX 7B de précision supérieure avec une utilisation mémoire accrue.";
+
+"Higher precision compact MLX multilingual ASR model." = "Modèle ASR multilingue MLX compact de précision supérieure.";
+
+"History" = "Historique";
+
+"Hold %@ to dictate, release to insert" = "Maintenez %@ pour dicter, relâchez pour insérer";
+
+"Hold %@ to start voice input." = "Maintenez %@ pour démarrer la saisie vocale.";
+
+"Immediately" = "Immédiatement";
+
+"Input Monitoring" = "Surveillance des entrées";
+
+"Insert recognized text into active app input boxes." = "Insérer le texte reconnu dans les champs de saisie de l'application active.";
+
+"Inserting" = "Insertion en cours";
+
+"Installed Models" = "Modèles installés";
+
+"Installing local model" = "Installation du modèle local";
+
+"Japanese" = "Japonais";
+
+"Keep Dictate available from the menu bar, start it automatically after signing in, and optionally load the current model in the background." = "Garder Dictate disponible dans la barre de menus, le démarrer automatiquement après la connexion et éventuellement charger le modèle actuel en arrière-plan.";
+
+"Korean" = "Coréen";
+
+"Language" = "Langue";
+
+"Large MLX multilingual ASR model for higher quality local transcription." = "Grand modèle ASR multilingue MLX pour une transcription locale de meilleure qualité.";
+
+"Larger MLX model for quality-focused local transcription." = "Modèle MLX plus grand pour une transcription locale axée sur la qualité.";
+
+"Larger MLX multilingual ASR model for quality-focused local transcription." = "Modèle ASR multilingue MLX plus grand pour une transcription locale axée sur la qualité.";
+
+"Largest MLX multilingual ASR model for quality-focused local transcription." = "Plus grand modèle ASR multilingue MLX pour une transcription locale axée sur la qualité.";
+
+"Launch at Login" = "Lancer à l'ouverture de session";
+
+"Length" = "Durée";
+
+"Listening" = "À l'écoute";
+
+"Loading WhisperKit model catalog..." = "Chargement du catalogue de modèles WhisperKit...";
+
+"Loading model" = "Chargement du modèle";
+
+"Local Whisper dictation for macOS" = "Dictée Whisper locale pour macOS";
+
+"Local model is ready: %@" = "Le modèle local est prêt : %@";
+
+"Lowest latency model for short dictation and quick commands." = "Modèle à latence minimale pour les dictées courtes et les commandes rapides.";
+
+"MLX speech models are downloaded from Hugging Face and stored locally before use." = "Les modèles vocaux MLX sont téléchargés depuis Hugging Face et stockés localement avant utilisation.";
+
+"Menu Bar Recent Text" = "Texte récent dans la barre de menus";
+
+"Microphone" = "Microphone";
+
+"Microphone Privacy Settings..." = "Réglages de confidentialité du microphone...";
+
+"Microphone, Input Monitoring, and Accessibility permissions are needed for shortcut detection, local capture, and cursor insertion." = "Les autorisations Microphone, Surveillance des entrées et Accessibilité sont nécessaires pour la détection des raccourcis, la capture locale et l'insertion au curseur.";
+
+"Model List" = "Liste des modèles";
+
+"Model installed" = "Modèle installé";
+
+"Model: %@" = "Modèle : %@";
+
+"Models" = "Modèles";
+
+"Needs attention" = "Nécessite une attention";
+
+"No Installed Models" = "Aucun modèle installé";
+
+"No Model Installed" = "Aucun modèle installé";
+
+"No Recent Text" = "Aucun texte récent";
+
+"No Speech" = "Aucun contenu vocal";
+
+"No dictation history yet." = "Aucun historique de dictée pour le moment.";
+
+"No local models installed." = "Aucun modèle local installé.";
+
+"Offline only" = "Hors ligne uniquement";
+
+"Open History..." = "Ouvrir l'historique...";
+
+"Open Main Window" = "Ouvrir la fenêtre principale";
+
+"Open Settings..." = "Ouvrir les réglages...";
+
+"Permissions" = "Autorisations";
+
+"Preload model at launch" = "Précharger le modèle au lancement";
+
+"Preparing" = "Préparation en cours";
+
+"Preparing local model: %@" = "Préparation du modèle local : %@";
+
+"Preparing microphone input." = "Préparation de l'entrée microphone.";
+
+"Preparing recognized text." = "Préparation du texte reconnu.";
+
+"Press and hold the selected key until the delay passes to start dictation. Release it to transcribe and insert." = "Maintenez la touche sélectionnée enfoncée jusqu'à ce que le délai soit écoulé pour démarrer la dictée. Relâchez-la pour transcrire et insérer.";
+
+"Quit Dictate" = "Quitter Dictate";
+
+"Ready" = "Prêt";
+
+"Recent Text (%d)" = "Texte récent (%d)";
+
+"Recommended for Apple Silicon Macs with 16 GB memory. Downloads before use." = "Recommandé pour les Mac Apple Silicon avec 16 Go de mémoire. Téléchargement avant utilisation.";
+
+"Recommended for Apple Silicon Macs with 16 GB memory. Downloads on first use." = "Recommandé pour les Mac Apple Silicon avec 16 Go de mémoire. Téléchargement à la première utilisation.";
+
+"Recommended for Apple Silicon Macs with 24 GB memory. Downloads before use." = "Recommandé pour les Mac Apple Silicon avec 24 Go de mémoire. Téléchargement avant utilisation.";
+
+"Recommended for Apple Silicon Macs with 32 GB memory. Downloads before use." = "Recommandé pour les Mac Apple Silicon avec 32 Go de mémoire. Téléchargement avant utilisation.";
+
+"Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use." = "Recommandé pour les Mac Apple Silicon avec 64 Go de mémoire. Téléchargement avant utilisation.";
+
+"Recommended for M1 or newer." = "Recommandé pour M1 ou plus récent.";
+
+"Recommended for M1 or newer; best with 16 GB memory." = "Recommandé pour M1 ou plus récent ; optimal avec 16 Go de mémoire.";
+
+"Recommended for M2/M3/M4 with 16 GB memory." = "Recommandé pour M2/M3/M4 avec 16 Go de mémoire.";
+
+"Recommended for any Apple Silicon Mac." = "Recommandé pour tout Mac Apple Silicon.";
+
+"Record audio locally for speech recognition; no cloud upload." = "Enregistrer l'audio localement pour la reconnaissance vocale ; aucun téléversement cloud.";
+
+"Refresh WhisperKit model catalog" = "Actualiser le catalogue de modèles WhisperKit";
+
+"Remove" = "Retirer";
+
+"Request" = "Demander";
+
+"Requesting permissions" = "Demande d'autorisations";
+
+"Requires Apple Silicon." = "Nécessite Apple Silicon.";
+
+"Requires at least %lld GB memory." = "Nécessite au moins %lld Go de mémoire.";
+
+"Requires macOS 15 or newer on Apple Silicon. Downloads before use." = "Nécessite macOS 15 ou plus récent sur Apple Silicon. Téléchargement avant utilisation.";
+
+"Requires macOS 15 or newer on Apple Silicon. Downloads on first use." = "Nécessite macOS 15 ou plus récent sur Apple Silicon. Téléchargement à la première utilisation.";
+
+"Requires macOS 15 or newer." = "Nécessite macOS 15 ou plus récent.";
+
+"Right Command" = "Commande droite";
+
+"Right Control" = "Contrôle droite";
+
+"Right Option" = "Option droite";
+
+"Running local CoreML Whisper inference on this Mac." = "Exécution de l'inférence Whisper CoreML locale sur ce Mac.";
+
+"Runs local Core ML speech models optimized for Apple Silicon." = "Exécute des modèles vocaux Core ML locaux optimisés pour Apple Silicon.";
+
+"Runs local MLX speech models, including Qwen3-ASR and Omnilingual." = "Exécute des modèles vocaux MLX locaux, y compris Qwen3-ASR et Omnilingual.";
+
+"Shortcut" = "Raccourci";
+
+"Show model folder in Finder" = "Afficher le dossier des modèles dans le Finder";
+
+"Social Accounts" = "Réseaux sociaux";
+
+"Source" = "Source";
+
+"Spanish" = "Espagnol";
+
+"Speak Chinese or English. Release %@ to stop." = "Parlez en chinois ou en anglais. Relâchez %@ pour arrêter.";
+
+"Speech Engine" = "Moteur vocal";
+
+"Start listening after" = "Démarrer l'écoute après";
+
+"Status: %@" = "Statut : %@";
+
+"Switch speech engine" = "Changer de moteur vocal";
+
+"System default" = "Par défaut du système";
+
+"Text" = "Texte";
+
+"The selected model is English-only." = "Le modèle sélectionné est en anglais uniquement.";
+
+"This list is provided by WhisperKit for the current Mac. If the remote catalog cannot load, the app falls back to WhisperKit's local recommendations." = "Cette liste est fournie par WhisperKit pour le Mac actuel. Si le catalogue distant ne peut pas être chargé, l'application utilise les recommandations locales de WhisperKit.";
+
+"This removes the selected dictation history from this Mac." = "Cela supprime l'historique de dictée sélectionné de ce Mac.";
+
+"This will remove %@ from disk." = "Cela supprimera %@ du disque.";
+
+"Time" = "Heure";
+
+"Transcribing" = "Transcription en cours";
+
+"Transcribing locally" = "Transcription locale en cours";
+
+"Unavailable" = "Indisponible";
+
+"Unlock Features" = "Déverrouiller les fonctionnalités";
+
+"Unlock all features permanently with a one-time payment and enjoy all future upgrades for free—no additional fees ever." = "Déverrouillez toutes les fonctionnalités de façon permanente avec un paiement unique et profitez gratuitement de toutes les futures mises à niveau — sans frais supplémentaires.";
+
+"Use" = "Utiliser";
+
+"Using" = "En cours d'utilisation";
+
+"Using local WhisperKit recommendations. Remote catalog failed: %@" = "Utilisation des recommandations locales de WhisperKit. Échec du catalogue distant : %@";
+
+"Version %@ (%@)" = "Version %1$@ (%2$@)";
+
+"WhisperKit CoreML model available for this Mac." = "Modèle WhisperKit CoreML disponible pour ce Mac.";
+
+"X(Twitter)" = "X (Twitter)";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [GitHub](githuburl)";
+
+"huggingface.co/aufklarer" = "huggingface.co/aufklarer";
+
+"huggingface.co/whisperkit-coreml" = "huggingface.co/whisperkit-coreml";

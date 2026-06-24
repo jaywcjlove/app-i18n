@@ -3,6 +3,12 @@
   "strings": {
     " Compressed package with lower disk and memory use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Package compressé avec une utilisation réduite du disque et de la mémoire."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -26,11 +32,23 @@
             "state": "translated",
             "value": "壓縮套件，磁碟與記憶體佔用更低。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Komprimiertes Paket mit geringerer Festplatten- und Speichernutzung."
+          }
         }
       }
     },
     " English-only.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anglais uniquement."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -54,11 +72,23 @@
             "state": "translated",
             "value": "僅支援英文。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nur Englisch."
+          }
         }
       }
     },
     " Multilingual.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Multilingue."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -82,11 +112,23 @@
             "state": "translated",
             "value": "多語言。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mehrsprachig."
+          }
         }
       }
     },
     " Turbo variant with lower latency.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Variante Turbo avec une latence réduite."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -110,11 +152,23 @@
             "state": "translated",
             "value": "Turbo 變體，延遲更低。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turbo-Variante mit geringerer Latenz."
+          }
         }
       }
     },
     "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [GitHub](githuburl)"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -138,11 +192,23 @@
             "state": "translated",
             "value": "[X(Twitter)](https://x.com/jaywcjlove) • [電子郵件](emailurl) • [GitHub](githuburl)"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "[Twitter](https://x.com/jaywcjlove) • [E-Mail](emailurl) • [GitHub](githuburl)"
+          }
         }
       }
     },
     "%.1f seconds": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%.1f secondes"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -166,6 +232,12 @@
             "state": "translated",
             "value": "%.1f 秒"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%.1f Sekunden"
+          }
         }
       }
     },
@@ -174,6 +246,12 @@
         "en": {
           "stringUnit": {
             "state": "new",
+            "value": "%1$@ · %2$@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
             "value": "%1$@ · %2$@"
           }
         },
@@ -196,6 +274,12 @@
           }
         },
         "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ · %2$@"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "%1$@ · %2$@"
@@ -211,6 +295,12 @@
             "value": "%1$@ / %2$lld GB"
           }
         },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ / %2$lld Go"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -234,11 +324,23 @@
             "state": "translated",
             "value": "%1$@ / %2$lld GB"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ / %2$lld GB"
+          }
         }
       }
     },
     "%d records loaded": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d enregistrements chargés"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -262,11 +364,23 @@
             "state": "translated",
             "value": "已載入 %d 筆記錄"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d Einträge geladen"
+          }
         }
       }
     },
     "%d selected": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d sélectionné(s)"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -290,11 +404,23 @@
             "state": "translated",
             "value": "已選擇 %d 項"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d ausgewählt"
+          }
         }
       }
     },
     "About": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "À propos"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -318,11 +444,23 @@
             "state": "translated",
             "value": "關於"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Über"
+          }
         }
       }
     },
     "Accessibility": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accessibilité"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -346,11 +484,23 @@
             "state": "translated",
             "value": "輔助功能"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bedienungshilfen"
+          }
         }
       }
     },
     "After granting permissions in System Settings, return to Dictate.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Après avoir accordé les autorisations dans Réglages Système, revenez à Dictate."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -374,11 +524,23 @@
             "state": "translated",
             "value": "在系統設定中完成授權後，返回 Dictate。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nachdem Sie die Berechtigungen in den Systemeinstellungen erteilt haben, kehren Sie zu Dictate zurück."
+          }
         }
       }
     },
     "Allows Dictate to detect the dictation shortcut globally.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permet à Dictate de détecter le raccourci de dictée globalement."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -402,11 +564,23 @@
             "state": "translated",
             "value": "允許 Dictate 在全域偵測聽寫快捷鍵。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ermöglicht Dictate, das Diktierkürzel global zu erkennen."
+          }
         }
       }
     },
     "Allows Dictate to insert recognized text at the active cursor.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permet à Dictate d'insérer le texte reconnu au niveau du curseur actif."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -430,11 +604,23 @@
             "state": "translated",
             "value": "允許 Dictate 將識別結果插入目前游標位置。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ermöglicht Dictate, erkannten Text am aktiven Cursor einzufügen."
+          }
         }
       }
     },
     "Allows Dictate to record audio locally for speech recognition.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permet à Dictate d'enregistrer l'audio localement pour la reconnaissance vocale."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -458,11 +644,23 @@
             "state": "translated",
             "value": "允許 Dictate 在本機錄製音訊用於語音辨識。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ermöglicht Dictate, Audio lokal für die Spracherkennung aufzunehmen."
+          }
         }
       }
     },
     "Apple Silicon": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Silicon"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -486,11 +684,23 @@
             "state": "translated",
             "value": "Apple Silicon"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Silicon"
+          }
         }
       }
     },
     "Audio never leaves this Mac": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'audio ne quitte jamais ce Mac"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -514,11 +724,23 @@
             "state": "translated",
             "value": "音訊絕不會離開這台 Mac"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Audio verlässt diesen Mac nie"
+          }
         }
       }
     },
     "Authorize": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autoriser"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -542,11 +764,23 @@
             "state": "translated",
             "value": "授權"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autorisieren"
+          }
         }
       }
     },
     "Auto": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -570,11 +804,23 @@
             "state": "translated",
             "value": "自動"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto"
+          }
         }
       }
     },
     "Auto detects the spoken language. Choosing a language can improve short dictation accuracy.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Détecte automatiquement la langue parlée. Choisir une langue peut améliorer la précision des dictées courtes."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -598,11 +844,23 @@
             "state": "translated",
             "value": "自動偵測口語語言。手動選擇語言可提升短句聽寫準確率。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erkennt automatisch die gesprochene Sprache. Die Wahl einer Sprache kann die Genauigkeit bei kurzen Diktaten verbessern."
+          }
         }
       }
     },
     "Available": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Disponible"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -626,11 +884,23 @@
             "state": "translated",
             "value": "可用"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verfügbar"
+          }
         }
       }
     },
     "Available according to WhisperKit device support.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Disponible selon la prise en charge de l'appareil par WhisperKit."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -654,11 +924,23 @@
             "state": "translated",
             "value": "根據 WhisperKit 裝置支援情況可用。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verfügbar gemäß der Geräteunterstützung von WhisperKit."
+          }
         }
       }
     },
     "Available Models": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèles disponibles"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -682,11 +964,23 @@
             "state": "translated",
             "value": "可用模型"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verfügbare Modelle"
+          }
         }
       }
     },
     "Balanced default model for local dictation.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle par défaut équilibré pour la dictée locale."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -710,11 +1004,23 @@
             "state": "translated",
             "value": "均衡的預設本機聽寫模型。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ausgewogenes Standardmodell für lokales Diktat."
+          }
         }
       }
     },
     "Better recognition quality than base with moderate resource use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meilleure qualité de reconnaissance que le modèle de base avec une utilisation modérée des ressources."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -738,11 +1044,23 @@
             "state": "translated",
             "value": "辨識品質優於基礎模型，資源佔用適中。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bessere Erkennungsqualität als das Basismodell bei moderatem Ressourcenverbrauch."
+          }
         }
       }
     },
     "Cancel": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Annuler"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -766,11 +1084,23 @@
             "state": "translated",
             "value": "取消"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abbrechen"
+          }
         }
       }
     },
     "Chinese": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chinois"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -794,11 +1124,23 @@
             "state": "translated",
             "value": "中文"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chinesisch"
+          }
         }
       }
     },
     "Chinese and English Whisper models": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèles Whisper chinois et anglais"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -822,11 +1164,23 @@
             "state": "translated",
             "value": "中文與英文 Whisper 模型"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chinesische und englische Whisper-Modelle"
+          }
         }
       }
     },
     "Compact MLX model for Chinese and multilingual dictation.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle MLX compact pour la dictée en chinois et multilingue."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -850,11 +1204,23 @@
             "state": "translated",
             "value": "適合中文與多語言聽寫的緊湊型 MLX 模型。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kompaktes MLX-Modell für chinesisches und mehrsprachiges Diktat."
+          }
         }
       }
     },
     "Compact MLX multilingual ASR model.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle ASR multilingue MLX compact."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -878,11 +1244,23 @@
             "state": "translated",
             "value": "緊湊型 MLX 多語言 ASR 模型。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kompaktes mehrsprachiges MLX-ASR-Modell."
+          }
         }
       }
     },
     "Contact": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Contact"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -906,11 +1284,23 @@
             "state": "translated",
             "value": "聯絡"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kontakt"
+          }
         }
       }
     },
     "Controls how many saved dictation results appear in the menu bar recent text menu.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Contrôle le nombre de résultats de dictée enregistrés affichés dans le menu de texte récent de la barre de menus."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -934,11 +1324,23 @@
             "state": "translated",
             "value": "控制選單列最近文字選單中顯示的已儲存聽寫結果數量。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steuert, wie viele gespeicherte Diktatergebnisse im Menü „Letzte Texte\" der Menüleiste angezeigt werden."
+          }
         }
       }
     },
     "Copy": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copier"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -962,11 +1364,23 @@
             "state": "translated",
             "value": "複製"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kopieren"
+          }
         }
       }
     },
     "Current model": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle actuel"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -990,11 +1404,23 @@
             "state": "translated",
             "value": "目前模型"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktuelles Modell"
+          }
         }
       }
     },
     "Delete": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supprimer"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1018,11 +1444,23 @@
             "state": "translated",
             "value": "刪除"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Löschen"
+          }
         }
       }
     },
     "Delete local engine": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supprimer le moteur local"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1046,11 +1484,23 @@
             "state": "translated",
             "value": "刪除本機引擎"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lokale Engine löschen"
+          }
         }
       }
     },
     "Delete model": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supprimer le modèle"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1074,11 +1524,23 @@
             "state": "translated",
             "value": "刪除模型"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modell löschen"
+          }
         }
       }
     },
     "Delete Model?": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supprimer le modèle ?"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1102,11 +1564,23 @@
             "state": "translated",
             "value": "刪除模型？"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modell löschen?"
+          }
         }
       }
     },
     "Delete selected history?": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supprimer l'historique sélectionné ?"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1130,11 +1604,23 @@
             "state": "translated",
             "value": "刪除選中的歷史記錄？"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ausgewählten Verlauf löschen?"
+          }
         }
       }
     },
     "Detect the dictation shortcut globally, even when Dictate is in the background.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Détecter le raccourci de dictée globalement, même lorsque Dictate est en arrière-plan."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1158,11 +1644,23 @@
             "state": "translated",
             "value": "即使 Dictate 在背景，也能全域偵測聽寫快捷鍵。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das Diktierkürzel global erkennen, auch wenn Dictate im Hintergrund läuft."
+          }
         }
       }
     },
     "Device": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appareil"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1186,11 +1684,23 @@
             "state": "translated",
             "value": "裝置"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gerät"
+          }
         }
       }
     },
     "Dictate": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictate"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1214,11 +1724,23 @@
             "state": "translated",
             "value": "聽寫"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictate"
+          }
         }
       }
     },
     "Dictate needs Accessibility, Input Monitoring, and Microphone permissions before it can listen and insert text.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictate a besoin des autorisations Accessibilité, Surveillance des entrées et Microphone avant de pouvoir écouter et insérer du texte."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1242,11 +1764,23 @@
             "state": "translated",
             "value": "需要先授權輔助功能、輸入監控與麥克風，Dictate 才能聆聽並插入文字。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictate benötigt Berechtigungen für Bedienungshilfen, Eingabeüberwachung und Mikrofon, bevor es zuhören und Text einfügen kann."
+          }
         }
       }
     },
     "Dictation shortcut": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raccourci de dictée"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1270,11 +1804,23 @@
             "state": "translated",
             "value": "聽寫快捷鍵"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diktierkürzel"
+          }
         }
       }
     },
     "Distilled large model, usually faster than full large models while keeping strong accuracy.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grand modèle distillé, généralement plus rapide que les grands modèles complets tout en conservant une forte précision."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1298,11 +1844,23 @@
             "state": "translated",
             "value": "蒸餾大模型，通常比完整大模型更快，同時保持高準確率。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Destilliertes großes Modell, normalerweise schneller als vollständige große Modelle bei gleichbleibend hoher Genauigkeit."
+          }
         }
       }
     },
     "Download": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Télécharger"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1326,11 +1884,23 @@
             "state": "translated",
             "value": "下載"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Herunterladen"
+          }
         }
       }
     },
     "Download 3+ local engines": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Télécharger 3+ moteurs locaux"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1354,11 +1924,23 @@
             "state": "translated",
             "value": "下載 3 個以上本機引擎"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3+ lokale Engines herunterladen"
+          }
         }
       }
     },
     "Download Models...": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Télécharger des modèles..."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1382,11 +1964,23 @@
             "state": "translated",
             "value": "下載模型⋯"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modelle herunterladen ..."
+          }
         }
       }
     },
     "Downloading the CoreML model once. Voice audio is not uploaded.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Téléchargement unique du modèle CoreML. L'audio vocal n'est pas téléversé."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1410,11 +2004,23 @@
             "state": "translated",
             "value": "正在一次性下載 CoreML 模型。語音音訊不會上傳。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das CoreML-Modell wird einmalig heruntergeladen. Sprachaudio wird nicht hochgeladen."
+          }
         }
       }
     },
     "E-mail": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "E-mail"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1438,11 +2044,23 @@
             "state": "translated",
             "value": "電子郵件"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "E-Mail"
+          }
         }
       }
     },
     "Enable Dictation": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activer la dictée"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1466,11 +2084,23 @@
             "state": "translated",
             "value": "啟用聽寫"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diktat aktivieren"
+          }
         }
       }
     },
     "English": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anglais"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1494,11 +2124,23 @@
             "state": "translated",
             "value": "英文"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Englisch"
+          }
         }
       }
     },
     "Feedback": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Commentaires"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1522,11 +2164,23 @@
             "state": "translated",
             "value": "意見回饋"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feedback"
+          }
         }
       }
     },
     "French": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Français"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1550,11 +2204,23 @@
             "state": "translated",
             "value": "法語"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Französisch"
+          }
         }
       }
     },
     "General": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Général"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1578,11 +2244,23 @@
             "state": "translated",
             "value": "一般"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allgemein"
+          }
         }
       }
     },
     "German": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allemand"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1606,11 +2284,23 @@
             "state": "translated",
             "value": "德語"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deutsch"
+          }
         }
       }
     },
     "Granted": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accordé"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1634,11 +2324,23 @@
             "state": "translated",
             "value": "已授權"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erteilt"
+          }
         }
       }
     },
     "Hide Dock icon": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Masquer l'icône du Dock"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1662,11 +2364,23 @@
             "state": "translated",
             "value": "隱藏 Dock 圖示"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dock-Symbol ausblenden"
+          }
         }
       }
     },
     "Hide Unavailable": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Masquer indisponibles"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1690,11 +2404,23 @@
             "state": "translated",
             "value": "隱藏不可用"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nicht verfügbare ausblenden"
+          }
         }
       }
     },
     "High accuracy model for quality-focused transcription with higher startup and memory cost.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle de haute précision pour une transcription de qualité, avec un coût de démarrage et de mémoire plus élevé."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1718,11 +2444,23 @@
             "state": "translated",
             "value": "高精度模型，適合注重品質的轉寫，啟動與記憶體開銷更高。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hochgenaues Modell für qualitätsorientierte Transkription mit höherem Start- und Speicheraufwand."
+          }
         }
       }
     },
     "Higher accuracy model with noticeably higher latency and memory use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle de précision supérieure avec une latence et une utilisation mémoire nettement plus élevées."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1746,11 +2484,23 @@
             "state": "translated",
             "value": "精度更高的模型，延遲與記憶體佔用明顯更高。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modell mit höherer Genauigkeit, deutlich höherer Latenz und Speichernutzung."
+          }
         }
       }
     },
     "Higher precision 0.6B MLX model with more memory use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle MLX 0,6B de précision supérieure avec une utilisation mémoire accrue."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1774,11 +2524,23 @@
             "state": "translated",
             "value": "精度更高的 0.6B MLX 模型，會佔用更多記憶體。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "0,6B MLX-Modell mit höherer Präzision und höherem Speicherverbrauch."
+          }
         }
       }
     },
     "Higher precision 1.7B MLX model with more memory use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle MLX 1,7B de précision supérieure avec une utilisation mémoire accrue."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1802,11 +2564,23 @@
             "state": "translated",
             "value": "精度更高的 1.7B MLX 模型，會佔用更多記憶體。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1,7B MLX-Modell mit höherer Präzision und höherem Speicherverbrauch."
+          }
         }
       }
     },
     "Higher precision 1B MLX multilingual ASR model with more memory use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle ASR multilingue MLX 1B de précision supérieure avec une utilisation mémoire accrue."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1830,11 +2604,23 @@
             "state": "translated",
             "value": "精度更高的 1B MLX 多語言 ASR 模型，會佔用更多記憶體。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mehrsprachiges 1B MLX-ASR-Modell mit höherer Präzision und höherem Speicherverbrauch."
+          }
         }
       }
     },
     "Higher precision 3B MLX multilingual ASR model with more memory use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle ASR multilingue MLX 3B de précision supérieure avec une utilisation mémoire accrue."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1858,11 +2644,23 @@
             "state": "translated",
             "value": "精度更高的 3B MLX 多語言 ASR 模型，會佔用更多記憶體。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mehrsprachiges 3B MLX-ASR-Modell mit höherer Präzision und höherem Speicherverbrauch."
+          }
         }
       }
     },
     "Higher precision 7B MLX multilingual ASR model with more memory use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle ASR multilingue MLX 7B de précision supérieure avec une utilisation mémoire accrue."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1886,11 +2684,23 @@
             "state": "translated",
             "value": "精度更高的 7B MLX 多語言 ASR 模型，會佔用更多記憶體。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mehrsprachiges 7B MLX-ASR-Modell mit höherer Präzision und höherem Speicherverbrauch."
+          }
         }
       }
     },
     "Higher precision compact MLX multilingual ASR model.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle ASR multilingue MLX compact de précision supérieure."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1914,11 +2724,23 @@
             "state": "translated",
             "value": "精度更高的緊湊型 MLX 多語言 ASR 模型。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kompaktes mehrsprachiges MLX-ASR-Modell mit höherer Präzision."
+          }
         }
       }
     },
     "History": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Historique"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1942,11 +2764,23 @@
             "state": "translated",
             "value": "歷史記錄"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verlauf"
+          }
         }
       }
     },
     "Hold %@ to dictate, release to insert": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maintenez %@ pour dicter, relâchez pour insérer"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1970,11 +2804,23 @@
             "state": "translated",
             "value": "按住 %@ 開始聽寫，放開後插入"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ gedrückt halten zum Diktieren, loslassen zum Einfügen"
+          }
         }
       }
     },
     "Hold %@ to start voice input.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maintenez %@ pour démarrer la saisie vocale."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -1998,11 +2844,23 @@
             "state": "translated",
             "value": "按住 %@ 開始語音輸入。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ gedrückt halten, um die Spracheingabe zu starten."
+          }
         }
       }
     },
     "huggingface.co/aufklarer": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "huggingface.co/aufklarer"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2022,6 +2880,12 @@
           }
         },
         "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "huggingface.co/aufklarer"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "huggingface.co/aufklarer"
@@ -2031,6 +2895,12 @@
     },
     "huggingface.co/whisperkit-coreml": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "huggingface.co/whisperkit-coreml"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2054,11 +2924,23 @@
             "state": "translated",
             "value": "huggingface.co/whisperkit-coreml"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "huggingface.co/whisperkit-coreml"
+          }
         }
       }
     },
     "Immediately": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Immédiatement"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2082,11 +2964,23 @@
             "state": "translated",
             "value": "立即"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sofort"
+          }
         }
       }
     },
     "Input Monitoring": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Surveillance des entrées"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2110,11 +3004,23 @@
             "state": "translated",
             "value": "輸入監控"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eingabeüberwachung"
+          }
         }
       }
     },
     "Insert recognized text into active app input boxes.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Insérer le texte reconnu dans les champs de saisie de l'application active."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2138,11 +3044,23 @@
             "state": "translated",
             "value": "將識別文字插入到目前應用的輸入框中。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erkannten Text in die Eingabefelder der aktiven App einfügen."
+          }
         }
       }
     },
     "Inserting": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Insertion en cours"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2166,11 +3084,23 @@
             "state": "translated",
             "value": "正在插入"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einfügen"
+          }
         }
       }
     },
     "Installed Models": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèles installés"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2194,11 +3124,23 @@
             "state": "translated",
             "value": "已安裝模型"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Installierte Modelle"
+          }
         }
       }
     },
     "Installing local model": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Installation du modèle local"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2222,11 +3164,23 @@
             "state": "translated",
             "value": "正在安裝本機模型"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lokales Modell wird installiert"
+          }
         }
       }
     },
     "Japanese": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Japonais"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2250,11 +3204,23 @@
             "state": "translated",
             "value": "日語"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Japanisch"
+          }
         }
       }
     },
     "Keep Dictate available from the menu bar, start it automatically after signing in, and optionally load the current model in the background.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Garder Dictate disponible dans la barre de menus, le démarrer automatiquement après la connexion et éventuellement charger le modèle actuel en arrière-plan."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2278,11 +3244,23 @@
             "state": "translated",
             "value": "讓 Dictate 保持在選單列可用、登入後自動啟動，並可在背景載入目前模型。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictate in der Menüleiste verfügbar halten, nach der Anmeldung automatisch starten und optional das aktuelle Modell im Hintergrund laden."
+          }
         }
       }
     },
     "Korean": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coréen"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2306,11 +3284,23 @@
             "state": "translated",
             "value": "韓語"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Koreanisch"
+          }
         }
       }
     },
     "Language": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Langue"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2334,11 +3324,23 @@
             "state": "translated",
             "value": "語言"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sprache"
+          }
         }
       }
     },
     "Large MLX multilingual ASR model for higher quality local transcription.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grand modèle ASR multilingue MLX pour une transcription locale de meilleure qualité."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2362,11 +3364,23 @@
             "state": "translated",
             "value": "大型 MLX 多語言 ASR 模型，適合更高品質的本機轉寫。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Großes mehrsprachiges MLX-ASR-Modell für qualitativ hochwertigere lokale Transkription."
+          }
         }
       }
     },
     "Larger MLX model for quality-focused local transcription.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle MLX plus grand pour une transcription locale axée sur la qualité."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2390,11 +3404,23 @@
             "state": "translated",
             "value": "更大的 MLX 模型，適合優先考慮辨識品質的本機轉寫。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Größeres MLX-Modell für qualitätsorientierte lokale Transkription."
+          }
         }
       }
     },
     "Larger MLX multilingual ASR model for quality-focused local transcription.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle ASR multilingue MLX plus grand pour une transcription locale axée sur la qualité."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2418,11 +3444,23 @@
             "state": "translated",
             "value": "更大的 MLX 多語言 ASR 模型，適合優先考慮辨識品質的本機轉寫。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Größeres mehrsprachiges MLX-ASR-Modell für qualitätsorientierte lokale Transkription."
+          }
         }
       }
     },
     "Largest MLX multilingual ASR model for quality-focused local transcription.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plus grand modèle ASR multilingue MLX pour une transcription locale axée sur la qualité."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2446,11 +3484,23 @@
             "state": "translated",
             "value": "最大的 MLX 多語言 ASR 模型，適合優先考慮辨識品質的本機轉寫。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Größtes mehrsprachiges MLX-ASR-Modell für qualitätsorientierte lokale Transkription."
+          }
         }
       }
     },
     "Launch at Login": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lancer à l'ouverture de session"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2474,11 +3524,23 @@
             "state": "translated",
             "value": "登入時啟動"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beim Anmelden starten"
+          }
         }
       }
     },
     "Length": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Durée"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2502,11 +3564,23 @@
             "state": "translated",
             "value": "時長"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Länge"
+          }
         }
       }
     },
     "Listening": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "À l'écoute"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2530,11 +3604,23 @@
             "state": "translated",
             "value": "正在聆聽"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hört zu"
+          }
         }
       }
     },
     "Loading model": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chargement du modèle"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2558,11 +3644,23 @@
             "state": "translated",
             "value": "正在載入模型"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modell wird geladen"
+          }
         }
       }
     },
     "Loading WhisperKit model catalog...": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chargement du catalogue de modèles WhisperKit..."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2586,11 +3684,23 @@
             "state": "translated",
             "value": "正在載入 WhisperKit 模型目錄⋯"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhisperKit-Modellkatalog wird geladen ..."
+          }
         }
       }
     },
     "Local model is ready: %@": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le modèle local est prêt : %@"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2614,11 +3724,23 @@
             "state": "translated",
             "value": "本機模型已就緒：%@"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lokales Modell ist bereit: %@"
+          }
         }
       }
     },
     "Local Whisper dictation for macOS": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictée Whisper locale pour macOS"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2642,11 +3764,23 @@
             "state": "translated",
             "value": "適用於 macOS 的本機 Whisper 聽寫"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lokales Whisper-Diktat für macOS"
+          }
         }
       }
     },
     "Lowest latency model for short dictation and quick commands.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle à latence minimale pour les dictées courtes et les commandes rapides."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2670,11 +3804,23 @@
             "state": "translated",
             "value": "延遲最低的模型，適合短句聽寫與快速指令。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modell mit niedrigster Latenz für kurze Diktate und schnelle Befehle."
+          }
         }
       }
     },
     "Menu Bar Recent Text": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Texte récent dans la barre de menus"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2698,11 +3844,23 @@
             "state": "translated",
             "value": "選單列最近文字"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Letzte Texte in der Menüleiste"
+          }
         }
       }
     },
     "Microphone": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Microphone"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2726,11 +3884,23 @@
             "state": "translated",
             "value": "麥克風"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mikrofon"
+          }
         }
       }
     },
     "Microphone Privacy Settings...": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réglages de confidentialité du microphone..."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2754,11 +3924,23 @@
             "state": "translated",
             "value": "麥克風隱私設定⋯"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mikrofon-Datenschutzeinstellungen ..."
+          }
         }
       }
     },
     "Microphone, Input Monitoring, and Accessibility permissions are needed for shortcut detection, local capture, and cursor insertion.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les autorisations Microphone, Surveillance des entrées et Accessibilité sont nécessaires pour la détection des raccourcis, la capture locale et l'insertion au curseur."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2782,11 +3964,23 @@
             "state": "translated",
             "value": "需要麥克風、輸入監控與輔助功能權限，才能偵測快捷鍵、本機擷取語音並在游標處插入文字。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berechtigungen für Mikrofon, Eingabeüberwachung und Bedienungshilfen werden für die Tastenkürzelerkennung, lokale Aufnahme und Cursor-Einfügung benötigt."
+          }
         }
       }
     },
     "MLX speech models are downloaded from Hugging Face and stored locally before use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les modèles vocaux MLX sont téléchargés depuis Hugging Face et stockés localement avant utilisation."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2810,11 +4004,23 @@
             "state": "translated",
             "value": "MLX 語音模型會先從 Hugging Face 下載並儲存到本機，然後才能使用。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MLX-Sprachmodelle werden von Hugging Face heruntergeladen und vor der Verwendung lokal gespeichert."
+          }
         }
       }
     },
     "Model installed": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle installé"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2838,11 +4044,23 @@
             "state": "translated",
             "value": "模型已安裝"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modell installiert"
+          }
         }
       }
     },
     "Model List": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Liste des modèles"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2866,11 +4084,23 @@
             "state": "translated",
             "value": "模型列表"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modellliste"
+          }
         }
       }
     },
     "Model: %@": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle : %@"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2894,11 +4124,23 @@
             "state": "translated",
             "value": "模型：%@"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modell: %@"
+          }
         }
       }
     },
     "Models": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèles"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2922,11 +4164,23 @@
             "state": "translated",
             "value": "模型"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modelle"
+          }
         }
       }
     },
     "Needs attention": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nécessite une attention"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2950,11 +4204,23 @@
             "state": "translated",
             "value": "需要處理"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Benötigt Aufmerksamkeit"
+          }
         }
       }
     },
     "No dictation history yet.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun historique de dictée pour le moment."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -2978,11 +4244,23 @@
             "state": "translated",
             "value": "暫無聽寫歷史。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noch kein Diktierverlauf."
+          }
         }
       }
     },
     "No Installed Models": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun modèle installé"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3006,11 +4284,23 @@
             "state": "translated",
             "value": "沒有已安裝模型"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Modelle installiert"
+          }
         }
       }
     },
     "No local models installed.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun modèle local installé."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3034,11 +4324,23 @@
             "state": "translated",
             "value": "未安裝本機模型。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine lokalen Modelle installiert."
+          }
         }
       }
     },
     "No Model Installed": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun modèle installé"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3062,11 +4364,23 @@
             "state": "translated",
             "value": "未安裝模型"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kein Modell installiert"
+          }
         }
       }
     },
     "No Recent Text": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun texte récent"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3090,11 +4404,23 @@
             "state": "translated",
             "value": "無最近文字"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine letzten Texte"
+          }
         }
       }
     },
     "No Speech": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun contenu vocal"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3118,11 +4444,23 @@
             "state": "translated",
             "value": "無內容"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Sprache"
+          }
         }
       }
     },
     "Offline only": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hors ligne uniquement"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3146,11 +4484,23 @@
             "state": "translated",
             "value": "僅離線"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nur offline"
+          }
         }
       }
     },
     "Open History...": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir l'historique..."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3174,11 +4524,23 @@
             "state": "translated",
             "value": "開啟歷史記錄⋯"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verlauf öffnen ..."
+          }
         }
       }
     },
     "Open Main Window": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir la fenêtre principale"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3202,11 +4564,23 @@
             "state": "translated",
             "value": "開啟主視窗"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hauptfenster öffnen"
+          }
         }
       }
     },
     "Open Settings...": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir les réglages..."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3230,11 +4604,23 @@
             "state": "translated",
             "value": "開啟設定⋯"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einstellungen öffnen ..."
+          }
         }
       }
     },
     "Permissions": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autorisations"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3258,11 +4644,23 @@
             "state": "translated",
             "value": "權限"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berechtigungen"
+          }
         }
       }
     },
     "Preload model at launch": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Précharger le modèle au lancement"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3286,11 +4684,23 @@
             "state": "translated",
             "value": "啟動時預載入模型"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modell beim Start vorladen"
+          }
         }
       }
     },
     "Preparing": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Préparation en cours"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3314,11 +4724,23 @@
             "state": "translated",
             "value": "準備中"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vorbereitung"
+          }
         }
       }
     },
     "Preparing local model: %@": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Préparation du modèle local : %@"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3342,11 +4764,23 @@
             "state": "translated",
             "value": "正在準備本機模型：%@"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lokales Modell wird vorbereitet: %@"
+          }
         }
       }
     },
     "Preparing microphone input.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Préparation de l'entrée microphone."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3370,11 +4804,23 @@
             "state": "translated",
             "value": "正在準備麥克風輸入。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mikrofoneingabe wird vorbereitet."
+          }
         }
       }
     },
     "Preparing recognized text.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Préparation du texte reconnu."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3398,11 +4844,23 @@
             "state": "translated",
             "value": "正在準備識別文字。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erkannter Text wird vorbereitet."
+          }
         }
       }
     },
     "Press and hold the selected key until the delay passes to start dictation. Release it to transcribe and insert.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maintenez la touche sélectionnée enfoncée jusqu'à ce que le délai soit écoulé pour démarrer la dictée. Relâchez-la pour transcrire et insérer."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3426,11 +4884,23 @@
             "state": "translated",
             "value": "按住所選按鍵直到延遲時間結束後開始聽寫，放開後轉寫並插入。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Halten Sie die ausgewählte Taste gedrückt, bis die Verzögerung abgelaufen ist, um das Diktat zu starten. Lassen Sie sie los, um zu transkribieren und einzufügen."
+          }
         }
       }
     },
     "Quit Dictate": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quitter Dictate"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3454,11 +4924,23 @@
             "state": "translated",
             "value": "結束 Dictate"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictate beenden"
+          }
         }
       }
     },
     "Ready": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prêt"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3482,11 +4964,23 @@
             "state": "translated",
             "value": "準備就緒"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bereit"
+          }
         }
       }
     },
     "Recent Text (%d)": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Texte récent (%d)"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3510,11 +5004,23 @@
             "state": "translated",
             "value": "最近文字 (%d)"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Letzte Texte (%d)"
+          }
         }
       }
     },
     "Recommended for any Apple Silicon Mac.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recommandé pour tout Mac Apple Silicon."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3538,11 +5044,23 @@
             "state": "translated",
             "value": "推薦任何 Apple Silicon Mac 使用。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empfohlen für jeden Apple Silicon Mac."
+          }
         }
       }
     },
     "Recommended for Apple Silicon Macs with 16 GB memory. Downloads before use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recommandé pour les Mac Apple Silicon avec 16 Go de mémoire. Téléchargement avant utilisation."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3566,11 +5084,23 @@
             "state": "translated",
             "value": "推薦 16 GB 記憶體的 Apple Silicon Mac 使用。使用前需要下載。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empfohlen für Apple Silicon Macs mit 16 GB Speicher. Download vor der Verwendung."
+          }
         }
       }
     },
     "Recommended for Apple Silicon Macs with 16 GB memory. Downloads on first use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recommandé pour les Mac Apple Silicon avec 16 Go de mémoire. Téléchargement à la première utilisation."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3594,11 +5124,23 @@
             "state": "translated",
             "value": "推薦 16 GB 記憶體的 Apple Silicon Mac 使用。首次使用時下載。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empfohlen für Apple Silicon Macs mit 16 GB Speicher. Download bei erster Verwendung."
+          }
         }
       }
     },
     "Recommended for Apple Silicon Macs with 24 GB memory. Downloads before use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recommandé pour les Mac Apple Silicon avec 24 Go de mémoire. Téléchargement avant utilisation."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3622,11 +5164,23 @@
             "state": "translated",
             "value": "推薦 24 GB 記憶體的 Apple Silicon Mac 使用。使用前需要下載。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empfohlen für Apple Silicon Macs mit 24 GB Speicher. Download vor der Verwendung."
+          }
         }
       }
     },
     "Recommended for Apple Silicon Macs with 32 GB memory. Downloads before use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recommandé pour les Mac Apple Silicon avec 32 Go de mémoire. Téléchargement avant utilisation."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3650,11 +5204,23 @@
             "state": "translated",
             "value": "推薦 32 GB 記憶體的 Apple Silicon Mac 使用。使用前需要下載。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empfohlen für Apple Silicon Macs mit 32 GB Speicher. Download vor der Verwendung."
+          }
         }
       }
     },
     "Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recommandé pour les Mac Apple Silicon avec 64 Go de mémoire. Téléchargement avant utilisation."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3678,11 +5244,23 @@
             "state": "translated",
             "value": "推薦 64 GB 記憶體的 Apple Silicon Mac 使用。使用前需要下載。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empfohlen für Apple Silicon Macs mit 64 GB Speicher. Download vor der Verwendung."
+          }
         }
       }
     },
     "Recommended for M1 or newer; best with 16 GB memory.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recommandé pour M1 ou plus récent ; optimal avec 16 Go de mémoire."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3706,11 +5284,23 @@
             "state": "translated",
             "value": "推薦 M1 或更新機型，建議 16 GB 記憶體。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empfohlen für M1 oder neuer; optimal mit 16 GB Speicher."
+          }
         }
       }
     },
     "Recommended for M1 or newer.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recommandé pour M1 ou plus récent."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3734,11 +5324,23 @@
             "state": "translated",
             "value": "推薦 M1 或更新機型。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empfohlen für M1 oder neuer."
+          }
         }
       }
     },
     "Recommended for M2/M3/M4 with 16 GB memory.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recommandé pour M2/M3/M4 avec 16 Go de mémoire."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3762,11 +5364,23 @@
             "state": "translated",
             "value": "推薦 M2/M3/M4，建議 16 GB 記憶體。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empfohlen für M2/M3/M4 mit 16 GB Speicher."
+          }
         }
       }
     },
     "Record audio locally for speech recognition; no cloud upload.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistrer l'audio localement pour la reconnaissance vocale ; aucun téléversement cloud."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3790,11 +5404,23 @@
             "state": "translated",
             "value": "在本機錄製音訊用於語音辨識；不會上傳到雲端。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Audio lokal für die Spracherkennung aufnehmen; kein Cloud-Upload."
+          }
         }
       }
     },
     "Refresh WhisperKit model catalog": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actualiser le catalogue de modèles WhisperKit"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3818,11 +5444,23 @@
             "state": "translated",
             "value": "重新整理 WhisperKit 模型目錄"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhisperKit-Modellkatalog aktualisieren"
+          }
         }
       }
     },
     "Remove": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Retirer"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3846,11 +5484,23 @@
             "state": "translated",
             "value": "移除"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entfernen"
+          }
         }
       }
     },
     "Request": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demander"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3874,11 +5524,23 @@
             "state": "translated",
             "value": "請求"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anfordern"
+          }
         }
       }
     },
     "Requesting permissions": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demande d'autorisations"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3902,11 +5564,23 @@
             "state": "translated",
             "value": "正在請求權限"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Berechtigungen werden angefordert"
+          }
         }
       }
     },
     "Requires Apple Silicon.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nécessite Apple Silicon."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3930,11 +5604,23 @@
             "state": "translated",
             "value": "需要 Apple Silicon。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erfordert Apple Silicon."
+          }
         }
       }
     },
     "Requires at least %lld GB memory.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nécessite au moins %lld Go de mémoire."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3958,11 +5644,23 @@
             "state": "translated",
             "value": "至少需要 %lld GB 記憶體。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erfordert mindestens %lld GB Speicher."
+          }
         }
       }
     },
     "Requires macOS 15 or newer on Apple Silicon. Downloads before use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nécessite macOS 15 ou plus récent sur Apple Silicon. Téléchargement avant utilisation."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -3986,11 +5684,23 @@
             "state": "translated",
             "value": "需要 Apple Silicon 且 macOS 15 或更高版本。使用前需要下載。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erfordert macOS 15 oder neuer auf Apple Silicon. Download vor der Verwendung."
+          }
         }
       }
     },
     "Requires macOS 15 or newer on Apple Silicon. Downloads on first use.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nécessite macOS 15 ou plus récent sur Apple Silicon. Téléchargement à la première utilisation."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4014,11 +5724,23 @@
             "state": "translated",
             "value": "需要 Apple Silicon 且 macOS 15 或更高版本。首次使用時下載。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erfordert macOS 15 oder neuer auf Apple Silicon. Download bei erster Verwendung."
+          }
         }
       }
     },
     "Requires macOS 15 or newer.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nécessite macOS 15 ou plus récent."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4042,11 +5764,23 @@
             "state": "translated",
             "value": "需要 macOS 15 或更高版本。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erfordert macOS 15 oder neuer."
+          }
         }
       }
     },
     "Right Command": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Commande droite"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4070,11 +5804,23 @@
             "state": "translated",
             "value": "右 Command"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechte Befehlstaste"
+          }
         }
       }
     },
     "Right Control": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Contrôle droite"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4098,11 +5844,23 @@
             "state": "translated",
             "value": "右 Control"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechte Control-Taste"
+          }
         }
       }
     },
     "Right Option": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Option droite"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4126,11 +5884,23 @@
             "state": "translated",
             "value": "右 Option"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechte Wahltaste"
+          }
         }
       }
     },
     "Running local CoreML Whisper inference on this Mac.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exécution de l'inférence Whisper CoreML locale sur ce Mac."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4154,11 +5924,23 @@
             "state": "translated",
             "value": "正在這台 Mac 上執行本機 CoreML Whisper 推論。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lokale CoreML-Whisper-Inferenz wird auf diesem Mac ausgeführt."
+          }
         }
       }
     },
     "Runs local Core ML speech models optimized for Apple Silicon.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exécute des modèles vocaux Core ML locaux optimisés pour Apple Silicon."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4182,11 +5964,23 @@
             "state": "translated",
             "value": "執行針對 Apple Silicon 最佳化的本機 Core ML 語音模型。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Führt lokale Core ML-Sprachmodelle aus, die für Apple Silicon optimiert sind."
+          }
         }
       }
     },
     "Runs local MLX speech models, including Qwen3-ASR and Omnilingual.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exécute des modèles vocaux MLX locaux, y compris Qwen3-ASR et Omnilingual."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4210,11 +6004,23 @@
             "state": "translated",
             "value": "執行本機 MLX 語音模型，包括 Qwen3-ASR 與 Omnilingual。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Führt lokale MLX-Sprachmodelle aus, einschließlich Qwen3-ASR und Omnilingual."
+          }
         }
       }
     },
     "Shortcut": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raccourci"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4238,11 +6044,23 @@
             "state": "translated",
             "value": "快捷鍵"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tastenkürzel"
+          }
         }
       }
     },
     "Show model folder in Finder": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher le dossier des modèles dans le Finder"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4266,11 +6084,23 @@
             "state": "translated",
             "value": "在 Finder 中顯示模型檔案夾"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modellordner im Finder anzeigen"
+          }
         }
       }
     },
     "Social Accounts": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réseaux sociaux"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4294,11 +6124,23 @@
             "state": "translated",
             "value": "社群帳號"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Soziale Netzwerke"
+          }
         }
       }
     },
     "Source": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Source"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4322,11 +6164,23 @@
             "state": "translated",
             "value": "來源"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quelle"
+          }
         }
       }
     },
     "Spanish": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Espagnol"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4350,11 +6204,23 @@
             "state": "translated",
             "value": "西班牙語"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spanisch"
+          }
         }
       }
     },
     "Speak Chinese or English. Release %@ to stop.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parlez en chinois ou en anglais. Relâchez %@ pour arrêter."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4378,11 +6244,23 @@
             "state": "translated",
             "value": "說中文或英文。放開 %@ 停止。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sprechen Sie Chinesisch oder Englisch. Lassen Sie %@ los, um zu stoppen."
+          }
         }
       }
     },
     "Speech Engine": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Moteur vocal"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4406,11 +6284,23 @@
             "state": "translated",
             "value": "語音引擎"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sprach-Engine"
+          }
         }
       }
     },
     "Start listening after": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Démarrer l'écoute après"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4434,11 +6324,23 @@
             "state": "translated",
             "value": "開始聽寫前等待"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zuhören starten nach"
+          }
         }
       }
     },
     "Status: %@": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Statut : %@"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4462,11 +6364,23 @@
             "state": "translated",
             "value": "狀態：%@"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Status: %@"
+          }
         }
       }
     },
     "Switch speech engine": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Changer de moteur vocal"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4490,11 +6404,23 @@
             "state": "translated",
             "value": "切換語音引擎"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sprach-Engine wechseln"
+          }
         }
       }
     },
     "System default": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Par défaut du système"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4518,11 +6444,23 @@
             "state": "translated",
             "value": "系統預設"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Systemstandard"
+          }
         }
       }
     },
     "Text": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Texte"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4546,11 +6484,23 @@
             "state": "translated",
             "value": "文字"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Text"
+          }
         }
       }
     },
     "The selected model is English-only.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le modèle sélectionné est en anglais uniquement."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4574,11 +6524,23 @@
             "state": "translated",
             "value": "所選模型僅支援英文。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das ausgewählte Modell ist nur auf Englisch."
+          }
         }
       }
     },
     "This list is provided by WhisperKit for the current Mac. If the remote catalog cannot load, the app falls back to WhisperKit's local recommendations.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette liste est fournie par WhisperKit pour le Mac actuel. Si le catalogue distant ne peut pas être chargé, l'application utilise les recommandations locales de WhisperKit."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4602,11 +6564,23 @@
             "state": "translated",
             "value": "此列表由 WhisperKit 針對目前 Mac 提供。若遠端目錄載入失敗，應用將回退到 WhisperKit 的本機推薦。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Liste wird von WhisperKit für den aktuellen Mac bereitgestellt. Wenn der Remote-Katalog nicht geladen werden kann, greift die App auf die lokalen Empfehlungen von WhisperKit zurück."
+          }
         }
       }
     },
     "This removes the selected dictation history from this Mac.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cela supprime l'historique de dictée sélectionné de ce Mac."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4630,11 +6604,23 @@
             "state": "translated",
             "value": "此操作將從這台 Mac 上刪除選中的聽寫歷史記錄。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dadurch wird der ausgewählte Diktierverlauf von diesem Mac entfernt."
+          }
         }
       }
     },
     "This will remove %@ from disk.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cela supprimera %@ du disque."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4658,11 +6644,23 @@
             "state": "translated",
             "value": "這會從磁碟中刪除 %@。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dadurch wird %@ von der Festplatte entfernt."
+          }
         }
       }
     },
     "Time": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heure"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4686,11 +6684,23 @@
             "state": "translated",
             "value": "時間"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zeit"
+          }
         }
       }
     },
     "Transcribing": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Transcription en cours"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4714,11 +6724,23 @@
             "state": "translated",
             "value": "正在轉寫"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Transkribieren"
+          }
         }
       }
     },
     "Transcribing locally": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Transcription locale en cours"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4742,11 +6764,23 @@
             "state": "translated",
             "value": "正在本機轉寫"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lokal transkribieren"
+          }
         }
       }
     },
     "Unavailable": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Indisponible"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4770,11 +6804,23 @@
             "state": "translated",
             "value": "不可用"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nicht verfügbar"
+          }
         }
       }
     },
     "Unlock all features permanently with a one-time payment and enjoy all future upgrades for free—no additional fees ever.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Déverrouillez toutes les fonctionnalités de façon permanente avec un paiement unique et profitez gratuitement de toutes les futures mises à niveau — sans frais supplémentaires."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4798,11 +6844,23 @@
             "state": "translated",
             "value": "一次性付費永久解鎖所有功能，免費享受未來所有升級——無需額外付費。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schalten Sie alle Funktionen dauerhaft mit einer einmaligen Zahlung frei und genießen Sie alle zukünftigen Upgrades kostenlos – ohne weitere Gebühren."
+          }
         }
       }
     },
     "Unlock Features": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Déverrouiller les fonctionnalités"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4826,11 +6884,23 @@
             "state": "translated",
             "value": "解鎖功能"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Funktionen freischalten"
+          }
         }
       }
     },
     "Use": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utiliser"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4854,11 +6924,23 @@
             "state": "translated",
             "value": "使用"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verwenden"
+          }
         }
       }
     },
     "Using": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En cours d'utilisation"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4882,11 +6964,23 @@
             "state": "translated",
             "value": "使用中"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In Verwendung"
+          }
         }
       }
     },
     "Using local WhisperKit recommendations. Remote catalog failed: %@": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utilisation des recommandations locales de WhisperKit. Échec du catalogue distant : %@"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4910,6 +7004,12 @@
             "state": "translated",
             "value": "正在使用 WhisperKit 本機推薦。遠端目錄載入失敗：%@"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lokale WhisperKit-Empfehlungen werden verwendet. Remote-Katalog fehlgeschlagen: %@"
+          }
         }
       }
     },
@@ -4918,6 +7018,12 @@
         "en": {
           "stringUnit": {
             "state": "new",
+            "value": "Version %1$@ (%2$@)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
             "value": "Version %1$@ (%2$@)"
           }
         },
@@ -4944,11 +7050,23 @@
             "state": "translated",
             "value": "版本 %1$@（%2$@）"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version %1$@ (%2$@)"
+          }
         }
       }
     },
     "WhisperKit CoreML model available for this Mac.": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèle WhisperKit CoreML disponible pour ce Mac."
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4972,11 +7090,23 @@
             "state": "translated",
             "value": "此 Mac 可用的 WhisperKit CoreML 模型。"
           }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhisperKit CoreML-Modell für diesen Mac verfügbar."
+          }
         }
       }
     },
     "X(Twitter)": {
       "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "X (Twitter)"
+          }
+        },
         "ja": {
           "stringUnit": {
             "state": "translated",
@@ -4999,6 +7129,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "X（Twitter）"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "X (Twitter)"
           }
         }
       }
