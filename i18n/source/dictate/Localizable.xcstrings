@@ -1,12 +1,62 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    " Compressed package with lower disk and memory use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "压缩包，磁盘和内存占用更低。"
+          }
+        }
+      }
+    },
+    " English-only." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅支持英文。"
+          }
+        }
+      }
+    },
+    " Multilingual." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "多语言。"
+          }
+        }
+      }
+    },
+    " Turbo variant with lower latency." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turbo 变体，延迟更低。"
+          }
+        }
+      }
+    },
     "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "[X(Twitter)](https://x.com/jaywcjlove) • [电子邮件](emailurl) • [GitHub](githuburl)"
+          }
+        }
+      }
+    },
+    "%.1f seconds" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%.1f 秒"
           }
         }
       }
@@ -183,12 +233,42 @@
         }
       }
     },
+    "Available according to WhisperKit device support." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根据 WhisperKit 设备支持情况可用。"
+          }
+        }
+      }
+    },
     "Available Models" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "可用模型"
+          }
+        }
+      }
+    },
+    "Balanced default model for local dictation." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "均衡的默认本地听写模型。"
+          }
+        }
+      }
+    },
+    "Better recognition quality than base with moderate resource use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "识别质量优于基础模型，资源占用适中。"
           }
         }
       }
@@ -383,6 +463,16 @@
         }
       }
     },
+    "Distilled large model, usually faster than full large models while keeping strong accuracy." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蒸馏大模型，通常比完整大模型更快，同时保持高准确率。"
+          }
+        }
+      }
+    },
     "Download" : {
       "localizations" : {
         "zh-Hans" : {
@@ -409,16 +499,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "下载模型..."
-          }
-        }
-      }
-    },
-    "Downloading" : {
-      "localizations" : {
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "下载中"
           }
         }
       }
@@ -533,6 +613,26 @@
         }
       }
     },
+    "High accuracy model for quality-focused transcription with higher startup and memory cost." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高精度模型，适合注重质量的转写，启动和内存开销更高。"
+          }
+        }
+      }
+    },
+    "Higher accuracy model with noticeably higher latency and memory use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "精度更高的模型，延迟和内存占用明显更高。"
+          }
+        }
+      }
+    },
     "Higher precision 0.6B MLX model with more memory use." : {
       "localizations" : {
         "zh-Hans" : {
@@ -643,6 +743,16 @@
         }
       }
     },
+    "Immediately" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "立即"
+          }
+        }
+      }
+    },
     "Input Monitoring" : {
       "localizations" : {
         "zh-Hans" : {
@@ -703,12 +813,12 @@
         }
       }
     },
-    "Keep Dictate available from the menu bar and start it automatically after signing in." : {
+    "Keep Dictate available from the menu bar, start it automatically after signing in, and optionally load the current model in the background." : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "让 Dictate 保持在菜单栏可用，并在登录后自动启动。"
+            "value" : "让 Dictate 保持在菜单栏可用、登录后自动启动，并可在后台加载当前模型。"
           }
         }
       }
@@ -839,6 +949,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "适用于 macOS 的本地 Whisper 听写"
+          }
+        }
+      }
+    },
+    "Lowest latency model for short dictation and quick commands." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "延迟最低的模型，适合短句听写和快速指令。"
           }
         }
       }
@@ -1053,12 +1173,42 @@
         }
       }
     },
+    "Preload model at launch" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启动时预加载模型"
+          }
+        }
+      }
+    },
+    "Preparing" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "准备中"
+          }
+        }
+      }
+    },
     "Preparing local model: %@" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "正在准备本地模型：%@"
+          }
+        }
+      }
+    },
+    "Preparing microphone input." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在准备麦克风输入。"
           }
         }
       }
@@ -1073,12 +1223,12 @@
         }
       }
     },
-    "Press and hold the selected key to start dictation. Release it to transcribe and insert." : {
+    "Press and hold the selected key until the delay passes to start dictation. Release it to transcribe and insert." : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按住所选按键开始听写，松开后转写并插入。"
+            "value" : "按住所选按键直到延迟时间结束后开始听写，松开后转写并插入。"
           }
         }
       }
@@ -1109,6 +1259,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "最近文本 (%d)"
+          }
+        }
+      }
+    },
+    "Recommended for any Apple Silicon Mac." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐任何 Apple Silicon Mac 使用。"
           }
         }
       }
@@ -1159,6 +1319,36 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "推荐 64 GB 内存的 Apple Silicon Mac 使用。使用前需要下载。"
+          }
+        }
+      }
+    },
+    "Recommended for M1 or newer; best with 16 GB memory." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐 M1 或更新机型，建议 16 GB 内存。"
+          }
+        }
+      }
+    },
+    "Recommended for M1 or newer." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐 M1 或更新机型。"
+          }
+        }
+      }
+    },
+    "Recommended for M2/M3/M4 with 16 GB memory." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐 M2/M3/M4，建议 16 GB 内存。"
           }
         }
       }
@@ -1393,6 +1583,16 @@
         }
       }
     },
+    "Start listening after" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开始听写前等待"
+          }
+        }
+      }
+    },
     "Status: %@" : {
       "localizations" : {
         "zh-Hans" : {
@@ -1575,6 +1775,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "版本 %1$@（%2$@）"
+          }
+        }
+      }
+    },
+    "WhisperKit CoreML model available for this Mac." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此 Mac 可用的 WhisperKit CoreML 模型。"
           }
         }
       }

@@ -1,3 +1,13 @@
+" Compressed package with lower disk and memory use." = " Compressed package with lower disk and memory use.";
+
+" English-only." = " English-only.";
+
+" Multilingual." = " Multilingual.";
+
+" Turbo variant with lower latency." = " Turbo variant with lower latency.";
+
+"%.1f seconds" = "%.1f seconds";
+
 "%@ / %lld GB" = "%1$@ / %2$lld GB";
 
 "%@ · %@" = "%1$@ · %2$@";
@@ -31,6 +41,12 @@
 "Available" = "Available";
 
 "Available Models" = "Available Models";
+
+"Available according to WhisperKit device support." = "Available according to WhisperKit device support.";
+
+"Balanced default model for local dictation." = "Balanced default model for local dictation.";
+
+"Better recognition quality than base with moderate resource use." = "Better recognition quality than base with moderate resource use.";
 
 "Cancel" = "Cancel";
 
@@ -70,13 +86,13 @@
 
 "Dictation shortcut" = "Dictation shortcut";
 
+"Distilled large model, usually faster than full large models while keeping strong accuracy." = "Distilled large model, usually faster than full large models while keeping strong accuracy.";
+
 "Download" = "Download";
 
 "Download 3+ local engines" = "Download 3+ local engines";
 
 "Download Models..." = "Download Models...";
-
-"Downloading" = "Downloading";
 
 "Downloading the CoreML model once. Voice audio is not uploaded." = "Downloading the CoreML model once. Voice audio is not uploaded.";
 
@@ -100,6 +116,10 @@
 
 "Hide Unavailable" = "Hide Unavailable";
 
+"High accuracy model for quality-focused transcription with higher startup and memory cost." = "High accuracy model for quality-focused transcription with higher startup and memory cost.";
+
+"Higher accuracy model with noticeably higher latency and memory use." = "Higher accuracy model with noticeably higher latency and memory use.";
+
 "Higher precision 0.6B MLX model with more memory use." = "Higher precision 0.6B MLX model with more memory use.";
 
 "Higher precision 1.7B MLX model with more memory use." = "Higher precision 1.7B MLX model with more memory use.";
@@ -118,6 +138,8 @@
 
 "Hold %@ to start voice input." = "Hold %@ to start voice input.";
 
+"Immediately" = "Immediately";
+
 "Input Monitoring" = "Input Monitoring";
 
 "Insert recognized text into active app input boxes." = "Insert recognized text into active app input boxes.";
@@ -130,7 +152,7 @@
 
 "Japanese" = "Japanese";
 
-"Keep Dictate available from the menu bar and start it automatically after signing in." = "Keep Dictate available from the menu bar and start it automatically after signing in.";
+"Keep Dictate available from the menu bar, start it automatically after signing in, and optionally load the current model in the background." = "Keep Dictate available from the menu bar, start it automatically after signing in, and optionally load the current model in the background.";
 
 "Korean" = "Korean";
 
@@ -157,6 +179,8 @@
 "Local Whisper dictation for macOS" = "Local Whisper dictation for macOS";
 
 "Local model is ready: %@" = "Local model is ready: %@";
+
+"Lowest latency model for short dictation and quick commands." = "Lowest latency model for short dictation and quick commands.";
 
 "MLX speech models are downloaded from Hugging Face and stored locally before use." = "MLX speech models are downloaded from Hugging Face and stored locally before use.";
 
@@ -200,11 +224,17 @@
 
 "Permissions" = "Permissions";
 
+"Preload model at launch" = "Preload model at launch";
+
+"Preparing" = "Preparing";
+
 "Preparing local model: %@" = "Preparing local model: %@";
+
+"Preparing microphone input." = "Preparing microphone input.";
 
 "Preparing recognized text." = "Preparing recognized text.";
 
-"Press and hold the selected key to start dictation. Release it to transcribe and insert." = "Press and hold the selected key to start dictation. Release it to transcribe and insert.";
+"Press and hold the selected key until the delay passes to start dictation. Release it to transcribe and insert." = "Press and hold the selected key until the delay passes to start dictation. Release it to transcribe and insert.";
 
 "Quit Dictate" = "Quit Dictate";
 
@@ -221,6 +251,14 @@
 "Recommended for Apple Silicon Macs with 32 GB memory. Downloads before use." = "Recommended for Apple Silicon Macs with 32 GB memory. Downloads before use.";
 
 "Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use." = "Recommended for Apple Silicon Macs with 64 GB memory. Downloads before use.";
+
+"Recommended for M1 or newer." = "Recommended for M1 or newer.";
+
+"Recommended for M1 or newer; best with 16 GB memory." = "Recommended for M1 or newer; best with 16 GB memory.";
+
+"Recommended for M2/M3/M4 with 16 GB memory." = "Recommended for M2/M3/M4 with 16 GB memory.";
+
+"Recommended for any Apple Silicon Mac." = "Recommended for any Apple Silicon Mac.";
 
 "Record audio locally for speech recognition; no cloud upload." = "Record audio locally for speech recognition; no cloud upload.";
 
@@ -268,6 +306,8 @@
 
 "Speech Engine" = "Speech Engine";
 
+"Start listening after" = "Start listening after";
+
 "Status: %@" = "Status: %@";
 
 "Switch speech engine" = "Switch speech engine";
@@ -303,6 +343,8 @@
 "Using local WhisperKit recommendations. Remote catalog failed: %@" = "Using local WhisperKit recommendations. Remote catalog failed: %@";
 
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
+
+"WhisperKit CoreML model available for this Mac." = "WhisperKit CoreML model available for this Mac.";
 
 "X(Twitter)" = "X(Twitter)";
 
