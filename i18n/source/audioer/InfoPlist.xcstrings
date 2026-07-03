@@ -1,1223 +1,1223 @@
 {
-  "sourceLanguage": "en",
-  "strings": {
-    "AU Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "AU音声ファイル"
+  "sourceLanguage" : "en",
+  "strings" : {
+    "AU Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AU-Audiodatei"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "AU 오디오 파일"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio AU"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "AU 音频文件"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File audio AU"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "AU 音訊檔案"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AU音声ファイル"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "AU-Audiodatei"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AU 오디오 파일"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio AU"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиофайл AU"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File audio AU"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AU 音频文件"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудиофайл AU"
-          }
-        }
-      }
-    },
-    "CFBundleDisplayName": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
-          }
-        },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AU 音訊檔案"
           }
         }
       }
     },
-    "CFBundleName": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
+    "CFBundleDisplayName" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audioer"
-          }
-        }
-      }
-    },
-    "Core Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Core Audioファイル"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Core Audio 파일"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "核心音频文件"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "核心音訊檔案"
-          }
-        },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Core-Audiodatei"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio Core"
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File Core Audio"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Файл Core Audio"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         }
       }
     },
-    "DTS Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "DTS音声ファイル"
+    "CFBundleName" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "DTS 오디오 파일"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "DTS 音频文件"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "DTS 音訊檔案"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "DTS-Audiodatei"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio DTS"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File audio DTS"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудиофайл DTS"
-          }
-        }
-      }
-    },
-    "Matroska Audio": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Matroska音声"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Matroska 오디오"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Matroska 音频文件"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Matroska 音訊"
-          }
-        },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Matroska-Audio"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audio Matroska"
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audio Matroska"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудио Matroska"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioer"
           }
         }
       }
     },
-    "MIDI Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MIDI音声ファイル"
+    "Core Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Core-Audiodatei"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MIDI 오디오 파일"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio Core"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MIDI 音频文件"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File Core Audio"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MIDI 音訊檔案"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Core Audioファイル"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MIDI-Audiodatei"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Core Audio 파일"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio MIDI"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Файл Core Audio"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File audio MIDI"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "核心音频文件"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудиофайл MIDI"
-          }
-        }
-      }
-    },
-    "MP2 Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP2音声ファイル"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP2 오디오 파일"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP2 音频文件"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP2 音訊檔案"
-          }
-        },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP2-Audiodatei"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio MP2"
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File audio MP2"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудиофайл MP2"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "核心音訊檔案"
           }
         }
       }
     },
-    "MP3 Audio": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP3音声"
+    "DTS Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DTS-Audiodatei"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP3 오디오"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio DTS"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP3 音频"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File audio DTS"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP3 音訊"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DTS音声ファイル"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP3-Audio"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DTS 오디오 파일"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audio MP3"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиофайл DTS"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Audio MP3"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DTS 音频文件"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудио MP3"
-          }
-        }
-      }
-    },
-    "Musepack Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Musepack音声ファイル"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Musepack 오디오 파일"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Musepack 音频文件"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Musepack 音訊檔案"
-          }
-        },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Musepack-Audiodatei"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio Musepack"
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File audio Musepack"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудиофайл Musepack"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DTS 音訊檔案"
           }
         }
       }
     },
-    "NSHumanReadableCopyright": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Copyright © 2025 Chujiang Wang. All rights reserved."
+    "Matroska Audio" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matroska-Audio"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "著作権 © 2026 王楚江 無断転載を禁じます。"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audio Matroska"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "저작권 © 2026 왕초강. 모든 권리 보유."
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audio Matroska"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "版权所有 © 2025 王楚江 保留所有权利。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matroska音声"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "版權所有 © 2025 王楚江 保留所有權利。"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matroska 오디오"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Copyright © 2025 Chujiang Wang. Alle Rechte vorbehalten."
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудио Matroska"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Copyright © 2025 Chujiang Wang. Tous droits réservés."
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matroska 音频文件"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Copyright © 2025 Chujiang Wang. Tutti i diritti riservati."
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Copyright © 2025 Chujiang Wang. Все права защищены."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matroska 音訊"
           }
         }
       }
     },
-    "OGG Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OGG音声ファイル"
+    "MIDI Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MIDI-Audiodatei"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OGG 오디오 파일"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio MIDI"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OGG 音频文件"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File audio MIDI"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OGG 音訊檔案"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MIDI音声ファイル"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OGG-Audiodatei"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MIDI 오디오 파일"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio OGG"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиофайл MIDI"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File audio OGG"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MIDI 音频文件"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудиофайл OGG"
-          }
-        }
-      }
-    },
-    "OPUS Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OPUS音声ファイル"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OPUS 오디오 파일"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OPUS 音频文件"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OPUS 音訊檔案"
-          }
-        },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OPUS-Audiodatei"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio OPUS"
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File audio OPUS"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудиофайл OPUS"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MIDI 音訊檔案"
           }
         }
       }
     },
-    "RealAudio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "RealAudioファイル"
+    "MP2 Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP2-Audiodatei"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "RealAudio 파일"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio MP2"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "RealAudio 音频文件"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File audio MP2"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "RealAudio 音訊檔案"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP2音声ファイル"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "RealAudio-Datei"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP2 오디오 파일"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier RealAudio"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиофайл MP2"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File RealAudio"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP2 音频文件"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Файл RealAudio"
-          }
-        }
-      }
-    },
-    "RealMedia File (AudioER Custom)": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "RealMediaファイル（AudioERカスタム）"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "RealMedia 파일 (AudioER 커스텀)"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "RealMedia 文件（AudioER 自定义）"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "RealMedia 檔案（AudioER 自訂）"
-          }
-        },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "RealMedia-Datei (AudioER benutzerdefiniert)"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier RealMedia (AudioER personnalisé)"
-          }
-        },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File RealMedia (AudioER Custom)"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Файл RealMedia (AudioER Custom)"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP2 音訊檔案"
           }
         }
       }
     },
-    "Sound Designer II Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sound Designer II音声ファイル"
+    "MP3 Audio" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP3-Audio"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sound Designer II 오디오 파일"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audio MP3"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sound Designer II 音频文件"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audio MP3"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sound Designer II 音訊檔案"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP3音声"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sound Designer II-Audiodatei"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP3 오디오"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio Sound Designer II"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудио MP3"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File audio Sound Designer II"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP3 音频"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудиофайл Sound Designer II"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP3 音訊"
           }
         }
       }
     },
-    "TTA Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "TTA音声ファイル"
+    "Musepack Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musepack-Audiodatei"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "TTA 오디오 파일"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio Musepack"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "TTA 音频文件"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File audio Musepack"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "TTA 音訊檔案"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musepack音声ファイル"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "TTA-Audiodatei"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musepack 오디오 파일"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio TTA"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиофайл Musepack"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File audio TTA"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musepack 音频文件"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудиофайл TTA"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musepack 音訊檔案"
           }
         }
       }
     },
-    "VOB Video File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOBビデオファイル"
+    "NSHumanReadableCopyright" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2025 Chujiang Wang. Alle Rechte vorbehalten."
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOB 비디오 파일"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2025 Chujiang Wang. All rights reserved."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOB 视频文件"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2025 Chujiang Wang. Tous droits réservés."
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOB 視訊檔案"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2025 Chujiang Wang. Tutti i diritti riservati."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOB-Videodatei"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "著作権 © 2026 王楚江 無断転載を禁じます。"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier vidéo VOB"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저작권 © 2026 왕초강. 모든 권리 보유."
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File video VOB"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2025 Chujiang Wang. Все права защищены."
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Видеофайл VOB"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版权所有 © 2025 王楚江 保留所有权利。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版權所有 © 2025 王楚江 保留所有權利。"
           }
         }
       }
     },
-    "VOC Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOC音声ファイル"
+    "OGG Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OGG-Audiodatei"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOC 오디오 파일"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio OGG"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOC 音频文件"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File audio OGG"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOC 音訊檔案"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OGG音声ファイル"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOC-Audiodatei"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OGG 오디오 파일"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio VOC"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиофайл OGG"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File audio VOC"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OGG 音频文件"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудиофайл VOC"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OGG 音訊檔案"
           }
         }
       }
     },
-    "VOX Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOX音声ファイル"
+    "OPUS Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OPUS-Audiodatei"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOX 오디오 파일"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio OPUS"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOX 音频文件"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File audio OPUS"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOX 音訊檔案"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OPUS音声ファイル"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "VOX-Audiodatei"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OPUS 오디오 파일"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio VOX"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиофайл OPUS"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File audio VOX"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OPUS 音频文件"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудиофайл VOX"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OPUS 音訊檔案"
           }
         }
       }
     },
-    "WAV Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WAV音声ファイル"
+    "RealAudio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RealAudio-Datei"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WAV 오디오 파일"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier RealAudio"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WAV 音频文件"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File RealAudio"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WAV 音訊檔案"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RealAudioファイル"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WAV-Audiodatei"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RealAudio 파일"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio WAV"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Файл RealAudio"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File audio WAV"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RealAudio 音频文件"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудиофайл WAV"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RealAudio 音訊檔案"
           }
         }
       }
     },
-    "Wave64 Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wave64音声ファイル"
+    "RealMedia File (AudioER Custom)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RealMedia-Datei (AudioER benutzerdefiniert)"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wave64 오디오 파일"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier RealMedia (AudioER personnalisé)"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wave64 音频文件"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File RealMedia (AudioER Custom)"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wave64 音訊檔案"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RealMediaファイル（AudioERカスタム）"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wave64-Audiodatei"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RealMedia 파일 (AudioER 커스텀)"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio Wave64"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Файл RealMedia (AudioER Custom)"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File audio Wave64"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RealMedia 文件（AudioER 自定义）"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудиофайл Wave64"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RealMedia 檔案（AudioER 自訂）"
           }
         }
       }
     },
-    "WMA Audio File": {
-      "localizations": {
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WMA音声ファイル"
+    "Sound Designer II Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sound Designer II-Audiodatei"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WMA 오디오 파일"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio Sound Designer II"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WMA 音频文件"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File audio Sound Designer II"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WMA 音訊檔案"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sound Designer II音声ファイル"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "WMA-Audiodatei"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sound Designer II 오디오 파일"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fichier audio WMA"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиофайл Sound Designer II"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "File audio WMA"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sound Designer II 音频文件"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Аудиофайл WMA"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sound Designer II 音訊檔案"
+          }
+        }
+      }
+    },
+    "TTA Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TTA-Audiodatei"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio TTA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File audio TTA"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TTA音声ファイル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TTA 오디오 파일"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиофайл TTA"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TTA 音频文件"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TTA 音訊檔案"
+          }
+        }
+      }
+    },
+    "VOB Video File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOB-Videodatei"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier vidéo VOB"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File video VOB"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOBビデオファイル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOB 비디오 파일"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видеофайл VOB"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOB 视频文件"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOB 視訊檔案"
+          }
+        }
+      }
+    },
+    "VOC Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOC-Audiodatei"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio VOC"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File audio VOC"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOC音声ファイル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOC 오디오 파일"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиофайл VOC"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOC 音频文件"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOC 音訊檔案"
+          }
+        }
+      }
+    },
+    "VOX Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOX-Audiodatei"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio VOX"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File audio VOX"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOX音声ファイル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOX 오디오 파일"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиофайл VOX"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOX 音频文件"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOX 音訊檔案"
+          }
+        }
+      }
+    },
+    "WAV Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WAV-Audiodatei"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio WAV"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File audio WAV"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WAV音声ファイル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WAV 오디오 파일"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиофайл WAV"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WAV 音频文件"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WAV 音訊檔案"
+          }
+        }
+      }
+    },
+    "Wave64 Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wave64-Audiodatei"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio Wave64"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File audio Wave64"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wave64音声ファイル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wave64 오디오 파일"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиофайл Wave64"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wave64 音频文件"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wave64 音訊檔案"
+          }
+        }
+      }
+    },
+    "WMA Audio File" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WMA-Audiodatei"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichier audio WMA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File audio WMA"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WMA音声ファイル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WMA 오디오 파일"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиофайл WMA"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WMA 音频文件"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WMA 音訊檔案"
           }
         }
       }
     }
   },
-  "version": "1.1"
+  "version" : "1.1"
 }
