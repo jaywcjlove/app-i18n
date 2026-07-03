@@ -24,11 +24,19 @@
 
 "Add Artist Name" = "添加艺术家名称";
 
+"Add Cover" = "添加封面";
+
 "Add Title" = "添加标题";
 
 "Advanced Audio Coding" = "高级音频编码";
 
 "Album" = "专辑";
+
+"Apply artwork to %d selected audios." = "将封面应用到选中的 %d 个音频。";
+
+"Apply artwork to all %d audios." = "将封面应用到全部 %d 个音频。";
+
+"Apply artwork to the selected audio." = "将封面应用到选中的音频。";
 
 "Artist" = "艺术家";
 
@@ -120,7 +128,11 @@
 
 "Matroska Audio" = "Matroska音频";
 
+"Metadata" = "元数据";
+
 "Mono" = "单声道";
+
+"Multiple Values" = "多个值";
 
 "No available audio streams, unable to extract audio." = "没有可用的音频流，无法提取音频。";
 
@@ -170,9 +182,13 @@
 
 "RealMedia Audio" = "RealMedia音频";
 
+"Replace Cover" = "替换封面";
+
 "Sample Rate" = "采样率";
 
 "Select Audio Files" = "选择音频文件";
+
+"Select Cover Image" = "选择封面图片";
 
 "Select Folder" = "选择文件夹";
 
@@ -199,6 +215,8 @@
 "True Audio" = "真音频";
 
 "TrueHD (Dolby TrueHD)" = "TrueHD（杜比TrueHD）";
+
+"Unable to add cover artwork" = "无法添加封面";
 
 "Unknown Codec" = "未知编解码器";
 

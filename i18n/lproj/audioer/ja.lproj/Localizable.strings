@@ -1,0 +1,247 @@
+" - %@" = " - %@";
+
+"%@" = "%@";
+
+"%@ - %@" = "%1$@ - %2$@";
+
+"%lld audios selected" = "%lld個の音声を選択中";
+
+".%@" = ".%@";
+
+"AAC (Advanced Audio Codec)" = "AAC（高度な音声コーデック）";
+
+"AC3 (Dolby Digital)" = "AC3（ドルビーデジタル）";
+
+"ADPCM IMA Dialogic OKI" = "ADPCM IMA Dialogic OKI";
+
+"ALAC (Apple Lossless Audio Codec)" = "ALAC（Apple可逆音声コーデック）";
+
+"AMR-NB (Adaptive Multi-Rate Narrowband)" = "AMR-NB（適応型マルチレート狭帯域）";
+
+"Adaptive Multi-Rate" = "適応型マルチレート";
+
+"Add Album Name" = "アルバム名を追加";
+
+"Add Artist Name" = "アーティスト名を追加";
+
+"Add Cover" = "カバーを追加";
+
+"Add Title" = "タイトルを追加";
+
+"Advanced Audio Coding" = "高度な音声符号化";
+
+"Album" = "アルバム";
+
+"Apply artwork to %d selected audios." = "選択した%d個の音声にアートワークを適用します。";
+
+"Apply artwork to all %d audios." = "全%d個の音声にアートワークを適用します。";
+
+"Apply artwork to the selected audio." = "選択した音声にアートワークを適用します。";
+
+"Artist" = "アーティスト";
+
+"Audio Conversion (1 file each time)" = "音声変換（一度に1ファイル）";
+
+"Audio Interchange File" = "音声交換ファイル";
+
+"Audio Interchange File Format" = "音声交換ファイル形式";
+
+"Audio Interchange File Format Compressed" = "音声交換ファイル形式（圧縮）";
+
+"Audio Stream Information" = "音声ストリーム情報";
+
+"Audioer" = "Audioer";
+
+"Automatic" = "自動";
+
+"Batch conversion" = "バッチ変換";
+
+"Bit Rate" = "ビットレート";
+
+"Bitrate" = "ビットレート";
+
+"Bits per Sample" = "サンプルあたりのビット数";
+
+"Cancel" = "キャンセル";
+
+"Channel" = "チャンネル";
+
+"Channel Count" = "チャンネル数";
+
+"Channel Layout" = "チャンネルレイアウト";
+
+"Codec" = "コーデック";
+
+"Convert To" = "変換先";
+
+"Convert To -> (.%@)" = "変換先 -> (.%@)";
+
+"Convert all" = "すべて変換";
+
+"Core Audio Format" = "Core Audio Format";
+
+"Creative Voice" = "Creative Voice";
+
+"DTS (Digital Theater Systems)" = "DTS（デジタルシアターシステムズ）";
+
+"DTS Coherent Acoustics" = "DTSコヒーレント音響";
+
+"Dialogic ADPCM" = "Dialogic ADPCM";
+
+"Dolby Digital (ATSC A/52)" = "ドルビーデジタル（ATSC A/52）";
+
+"Drop audio files!" = "音声ファイルをドロップ！";
+
+"Duration" = "長さ";
+
+"EAC3 (Dolby Digital Plus)" = "EAC3（ドルビーデジタルプラス）";
+
+"Encoder" = "エンコーダー";
+
+"Encoding" = "エンコード中";
+
+"Enhanced AC-3 (Dolby Digital Plus)" = "拡張AC-3（ドルビーデジタルプラス）";
+
+"FLAC (Free Lossless Audio Codec)" = "FLAC（フリー可逆音声コーデック）";
+
+"Failed to play" = "再生に失敗しました";
+
+"File does not exist" = "ファイルが存在しません";
+
+"Format" = "フォーマット";
+
+"Free" = "無料";
+
+"Free Lossless Audio Codec" = "フリー可逆音声コーデック";
+
+"MP2 (MPEG Audio Layer 2)" = "MP2（MPEG音声レイヤー2）";
+
+"MP3 (MPEG Audio Layer 3)" = "MP3（MPEG音声レイヤー3）";
+
+"MPEG Layer 2 Audio" = "MPEGレイヤー2音声";
+
+"MPEG Layer 3 Audio" = "MPEGレイヤー3音声";
+
+"MPEG-4 Audio" = "MPEG-4音声";
+
+"Main Window" = "メインウィンドウ";
+
+"Matroska Audio" = "Matroska音声";
+
+"Metadata" = "メタデータ";
+
+"Mono" = "モノラル";
+
+"Multiple Values" = "複数の値";
+
+"No available audio streams, unable to extract audio." = "利用可能な音声ストリームがありません。音声を抽出できません。";
+
+"OK" = "OK";
+
+"Ogg Vorbis" = "Ogg Vorbis";
+
+"Open" = "開く";
+
+"Open in Finder" = "Finderで開く";
+
+"Opus (Low-latency Codec)" = "Opus（低遅延コーデック）";
+
+"Opus Audio" = "Opus音声";
+
+"PCM 16-bit Big Endian (AIFF)" = "PCM 16ビット ビッグエンディアン（AIFF）";
+
+"PCM 16-bit Little Endian" = "PCM 16ビット リトルエンディアン";
+
+"PCM 24-bit Little Endian" = "PCM 24ビット リトルエンディアン";
+
+"PCM 32-bit Floating Point" = "PCM 32ビット 浮動小数点";
+
+"PCM 32-bit Little Endian" = "PCM 32ビット リトルエンディアン";
+
+"PCM A-law" = "PCM A-law";
+
+"PCM mu-law" = "PCM mu-law";
+
+"PCM signed 16-bit little-endian" = "PCM符号付き16ビット リトルエンディアン";
+
+"PCM unsigned 8-bit" = "PCM符号なし8ビット";
+
+"PCM μ-law" = "PCM μ-law";
+
+"Pro" = "Pro";
+
+"Profile" = "プロファイル";
+
+"Quick Time" = "Quick Time";
+
+"Real Audio 1.0" = "Real Audio 1.0";
+
+"RealAudio" = "RealAudio";
+
+"RealMedia" = "RealMedia";
+
+"RealMedia Audio" = "RealMedia Audio";
+
+"Replace Cover" = "カバーを置換";
+
+"Sample Rate" = "サンプルレート";
+
+"Select Audio Files" = "音声ファイルを選択";
+
+"Select Cover Image" = "カバー画像を選択";
+
+"Select Folder" = "フォルダを選択";
+
+"Size" = "サイズ";
+
+"Sony Wave64" = "Sony Wave64";
+
+"Sound Designer II" = "Sound Designer II";
+
+"Speex" = "Speex";
+
+"Speex (Speech Codec)" = "Speex（音声コーデック）";
+
+"Stereo" = "ステレオ";
+
+"Stream Count" = "ストリーム数";
+
+"Sun Microsystems AU" = "Sun Microsystems AU";
+
+"TTA (True Audio)" = "TTA（True Audio）";
+
+"Title" = "タイトル";
+
+"True Audio" = "True Audio";
+
+"TrueHD (Dolby TrueHD)" = "TrueHD（ドルビーTrueHD）";
+
+"Unable to add cover artwork" = "カバーアートワークを追加できません";
+
+"Unknown Codec" = "不明なコーデック";
+
+"Unlimited Conversions" = "無制限変換";
+
+"Unlock all Features" = "すべての機能をロック解除";
+
+"Update metadata" = "メタデータを更新";
+
+"Use original" = "オリジナルを使用";
+
+"VOX Dialogic Voice Audio File" = "VOX Dialogic Voice Audio File";
+
+"Video Object" = "Video Object";
+
+"Vorbis (OGG Vorbis)" = "Vorbis（OGG Vorbis）";
+
+"WMA (Windows Media Audio)" = "WMA（Windows Media Audio）";
+
+"Waveform Audio File Format" = "波形音声ファイル形式";
+
+"WebM Audio" = "WebM Audio";
+
+"Windows Media Audio" = "Windows Media Audio";
+
+"iTunes Ringtone File" = "iTunes着信音ファイル";
+
+"or" = "または";

@@ -1,10 +1,11 @@
 " - %@" = " - %@";
 
-"%@" = "%@";
+"%@"
+ = "%@";
 
 "%@ - %@" = "%1$@ - %2$@";
 
-"%lld audios selected" = "%lld audios selected";
+"%lld audios selected" = "%lld개의 오디오 선택됨";
 
 ".%@" = ".%@";
 
@@ -20,27 +21,27 @@
 
 "Adaptive Multi-Rate" = "Adaptive Multi-Rate";
 
-"Add Album Name" = "Add Album Name";
+"Add Album Name" = "앨범 이름 추가";
 
-"Add Artist Name" = "Add Artist Name";
+"Add Artist Name" = "아티스트 이름 추가";
 
-"Add Cover" = "Add Cover";
+"Add Cover" = "커버 추가";
 
-"Add Title" = "Add Title";
+"Add Title" = "제목 추가";
 
 "Advanced Audio Coding" = "Advanced Audio Coding";
 
-"Album" = "Album";
+"Album" = "앨범";
 
-"Apply artwork to %d selected audios." = "Apply artwork to %d selected audios.";
+"Apply artwork to %d selected audios." = "선택한 %d개 오디오에 아트워크를 적용합니다.";
 
-"Apply artwork to all %d audios." = "Apply artwork to all %d audios.";
+"Apply artwork to all %d audios." = "전체 %d개 오디오에 아트워크를 적용합니다.";
 
-"Apply artwork to the selected audio." = "Apply artwork to the selected audio.";
+"Apply artwork to the selected audio." = "선택한 오디오에 아트워크를 적용합니다.";
 
-"Artist" = "Artist";
+"Artist" = "아티스트";
 
-"Audio Conversion (1 file each time)" = "Audio Conversion (1 file each time)";
+"Audio Conversion (1 file each time)" = "오디오 변환 (한 번에 1개 파일)";
 
 "Audio Interchange File" = "Audio Interchange File";
 
@@ -48,35 +49,35 @@
 
 "Audio Interchange File Format Compressed" = "Audio Interchange File Format Compressed";
 
-"Audio Stream Information" = "Audio Stream Information";
+"Audio Stream Information" = "오디오 스트림 정보";
 
 "Audioer" = "Audioer";
 
-"Automatic" = "Automatic";
+"Automatic" = "자동";
 
-"Batch conversion" = "Batch conversion";
+"Batch conversion" = "일괄 변환";
 
-"Bit Rate" = "Bit Rate";
+"Bit Rate" = "비트레이트";
 
-"Bitrate" = "Bitrate";
+"Bitrate" = "비트레이트";
 
-"Bits per Sample" = "Bits per Sample";
+"Bits per Sample" = "샘플당 비트";
 
-"Cancel" = "Cancel";
+"Cancel" = "취소";
 
-"Channel" = "Channel";
+"Channel" = "채널";
 
-"Channel Count" = "Channel Count";
+"Channel Count" = "채널 수";
 
-"Channel Layout" = "Channel Layout";
+"Channel Layout" = "채널 레이아웃";
 
-"Codec" = "Codec";
+"Codec" = "코덱";
 
-"Convert To" = "Convert To";
+"Convert To" = "변환 대상";
 
-"Convert To -> (.%@)" = "Convert To -> (.%@)";
+"Convert To -> (.%@)" = "변환 대상 -> (.%@)";
 
-"Convert all" = "Convert all";
+"Convert all" = "모두 변환";
 
 "Core Audio Format" = "Core Audio Format";
 
@@ -90,27 +91,27 @@
 
 "Dolby Digital (ATSC A/52)" = "Dolby Digital (ATSC A/52)";
 
-"Drop audio files!" = "Drop audio files!";
+"Drop audio files!" = "오디오 파일을 여기에 드롭하세요!";
 
-"Duration" = "Duration";
+"Duration" = "재생 시간";
 
 "EAC3 (Dolby Digital Plus)" = "EAC3 (Dolby Digital Plus)";
 
-"Encoder" = "Encoder";
+"Encoder" = "인코더";
 
-"Encoding" = "Encoding";
+"Encoding" = "인코딩 중";
 
 "Enhanced AC-3 (Dolby Digital Plus)" = "Enhanced AC-3 (Dolby Digital Plus)";
 
 "FLAC (Free Lossless Audio Codec)" = "FLAC (Free Lossless Audio Codec)";
 
-"Failed to play" = "Failed to play";
+"Failed to play" = "재생 실패";
 
-"File does not exist" = "File does not exist";
+"File does not exist" = "파일이 존재하지 않습니다";
 
-"Format" = "Format";
+"Format" = "포맷";
 
-"Free" = "Free";
+"Free" = "무료";
 
 "Free Lossless Audio Codec" = "Free Lossless Audio Codec";
 
@@ -124,25 +125,25 @@
 
 "MPEG-4 Audio" = "MPEG-4 Audio";
 
-"Main Window" = "Main Window";
+"Main Window" = "메인 윈도우";
 
 "Matroska Audio" = "Matroska Audio";
 
-"Metadata" = "Metadata";
+"Metadata" = "메타데이터";
 
-"Mono" = "Mono";
+"Mono" = "모노";
 
-"Multiple Values" = "Multiple Values";
+"Multiple Values" = "여러 값";
 
-"No available audio streams, unable to extract audio." = "No available audio streams, unable to extract audio.";
+"No available audio streams, unable to extract audio." = "사용 가능한 오디오 스트림이 없어 오디오를 추출할 수 없습니다.";
 
-"OK" = "OK";
+"OK" = "확인";
 
 "Ogg Vorbis" = "Ogg Vorbis";
 
-"Open" = "Open";
+"Open" = "열기";
 
-"Open in Finder" = "Open in Finder";
+"Open in Finder" = "Finder에서 열기";
 
 "Opus (Low-latency Codec)" = "Opus (Low-latency Codec)";
 
@@ -170,7 +171,7 @@
 
 "Pro" = "Pro";
 
-"Profile" = "Profile";
+"Profile" = "프로필";
 
 "Quick Time" = "Quick Time";
 
@@ -182,17 +183,17 @@
 
 "RealMedia Audio" = "RealMedia Audio";
 
-"Replace Cover" = "Replace Cover";
+"Replace Cover" = "커버 교체";
 
-"Sample Rate" = "Sample Rate";
+"Sample Rate" = "샘플 레이트";
 
-"Select Audio Files" = "Select Audio Files";
+"Select Audio Files" = "오디오 파일 선택";
 
-"Select Cover Image" = "Select Cover Image";
+"Select Cover Image" = "커버 이미지 선택";
 
-"Select Folder" = "Select Folder";
+"Select Folder" = "폴더 선택";
 
-"Size" = "Size";
+"Size" = "크기";
 
 "Sony Wave64" = "Sony Wave64";
 
@@ -202,31 +203,31 @@
 
 "Speex (Speech Codec)" = "Speex (Speech Codec)";
 
-"Stereo" = "Stereo";
+"Stereo" = "스테레오";
 
-"Stream Count" = "Stream Count";
+"Stream Count" = "스트림 수";
 
 "Sun Microsystems AU" = "Sun Microsystems AU";
 
 "TTA (True Audio)" = "TTA (True Audio)";
 
-"Title" = "Title";
+"Title" = "제목";
 
 "True Audio" = "True Audio";
 
 "TrueHD (Dolby TrueHD)" = "TrueHD (Dolby TrueHD)";
 
-"Unable to add cover artwork" = "Unable to add cover artwork";
+"Unable to add cover artwork" = "커버 아트워크를 추가할 수 없습니다";
 
-"Unknown Codec" = "Unknown Codec";
+"Unknown Codec" = "알 수 없는 코덱";
 
-"Unlimited Conversions" = "Unlimited Conversions";
+"Unlimited Conversions" = "무제한 변환";
 
-"Unlock all Features" = "Unlock all Features";
+"Unlock all Features" = "모든 기능 잠금 해제";
 
-"Update metadata" = "Update metadata";
+"Update metadata" = "메타데이터 업데이트";
 
-"Use original" = "Use original";
+"Use original" = "원본 사용";
 
 "VOX Dialogic Voice Audio File" = "VOX Dialogic Voice Audio File";
 
@@ -244,4 +245,4 @@
 
 "iTunes Ringtone File" = "iTunes Ringtone File";
 
-"or" = "or";
+"or" = "또는";
