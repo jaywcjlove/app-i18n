@@ -15,13 +15,25 @@
             "value": " - %@"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " - %@"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": " - %@"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " - %@"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": " - %@"
@@ -43,13 +55,25 @@
             "value": ".%@"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ".%@"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": ".%@"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ".%@"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": ".%@"
@@ -71,13 +95,25 @@
             "value": "%@"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "%@"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "%@"
@@ -99,13 +135,25 @@
             "value": "%1$@ - %2$@"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ - %2$@"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "%1$@ - %2$@"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ - %2$@"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "%1$@ - %2$@"
@@ -121,16 +169,28 @@
             "value": "%lld個の音声を選択中"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld개의 오디오 선택됨"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "已选择 %lld 个音频"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "%lld개의 오디오 선택됨"
+            "value": "已選擇 %lld 個音訊"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld Audios ausgewählt"
           }
         }
       }
@@ -143,13 +203,25 @@
             "value": "AAC（高度な音声コーデック）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AAC (Advanced Audio Codec)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "AAC（高级音频编码）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AAC（進階音訊編碼）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "AAC (Advanced Audio Codec)"
@@ -165,13 +237,25 @@
             "value": "AC3（ドルビーデジタル）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AC3 (Dolby Digital)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "AC3（杜比数字音频）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AC3（杜比數位音訊）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "AC3 (Dolby Digital)"
@@ -187,13 +271,25 @@
             "value": "適応型マルチレート"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adaptive Multi-Rate"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "自适应多速率"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自適應多速率"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Adaptive Multi-Rate"
@@ -209,16 +305,28 @@
             "value": "アルバム名を追加"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "앨범 이름 추가"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "添加专辑名称"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "앨범 이름 추가"
+            "value": "加入專輯名稱"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Albumname hinzufügen"
           }
         }
       }
@@ -231,16 +339,28 @@
             "value": "アーティスト名を追加"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아티스트 이름 추가"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "添加艺术家名称"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "아티스트 이름 추가"
+            "value": "加入藝人名稱"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Künstlernamen hinzufügen"
           }
         }
       }
@@ -253,16 +373,28 @@
             "value": "カバーを追加"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "커버 추가"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "添加封面"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "커버 추가"
+            "value": "加入封面"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cover hinzufügen"
           }
         }
       }
@@ -275,16 +407,28 @@
             "value": "タイトルを追加"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제목 추가"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "添加标题"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "제목 추가"
+            "value": "加入標題"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Titel hinzufügen"
           }
         }
       }
@@ -297,13 +441,25 @@
             "value": "ADPCM IMA Dialogic OKI"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ADPCM IMA Dialogic OKI"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "ADPCM IMA Dialogic OKI"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ADPCM IMA Dialogic OKI"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "ADPCM IMA Dialogic OKI"
@@ -319,13 +475,25 @@
             "value": "高度な音声符号化"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Advanced Audio Coding"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "高级音频编码"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "進階音訊編碼"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Advanced Audio Coding"
@@ -341,13 +509,25 @@
             "value": "ALAC（Apple可逆音声コーデック）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ALAC (Apple Lossless Audio Codec)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "ALAC（苹果无损音频编码）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ALAC（Apple 無損音訊編碼）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "ALAC (Apple Lossless Audio Codec)"
@@ -363,16 +543,28 @@
             "value": "アルバム"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "앨범"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "专辑"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "앨범"
+            "value": "專輯"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Album"
           }
         }
       }
@@ -385,13 +577,25 @@
             "value": "AMR-NB（適応型マルチレート狭帯域）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AMR-NB (Adaptive Multi-Rate Narrowband)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "AMR-NB（自适应多速率窄带）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AMR-NB（自適應多速率窄頻）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "AMR-NB (Adaptive Multi-Rate Narrowband)"
@@ -407,16 +611,28 @@
             "value": "選択した%d個の音声にアートワークを適用します。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택한 %d개 오디오에 아트워크를 적용합니다."
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "将封面应用到选中的 %d 个音频。"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "선택한 %d개 오디오에 아트워크를 적용합니다."
+            "value": "將封面套用到選取的 %d 個音訊。"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cover auf %d ausgewählte Audios anwenden."
           }
         }
       }
@@ -429,16 +645,28 @@
             "value": "全%d個の音声にアートワークを適用します。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "전체 %d개 오디오에 아트워크를 적용합니다."
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "将封面应用到全部 %d 个音频。"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "전체 %d개 오디오에 아트워크를 적용합니다."
+            "value": "將封面套用到全部 %d 個音訊。"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cover auf alle %d Audios anwenden."
           }
         }
       }
@@ -451,16 +679,28 @@
             "value": "選択した音声にアートワークを適用します。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택한 오디오에 아트워크를 적용합니다."
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "将封面应用到选中的音频。"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "선택한 오디오에 아트워크를 적용합니다."
+            "value": "將封面套用到選取的音訊。"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cover auf das ausgewählte Audio anwenden."
           }
         }
       }
@@ -473,16 +713,28 @@
             "value": "アーティスト"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아티스트"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "艺术家"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "아티스트"
+            "value": "藝人"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Künstler"
           }
         }
       }
@@ -495,16 +747,28 @@
             "value": "音声変換（一度に1ファイル）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오디오 변환 (한 번에 1개 파일)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "音频转换（每次一个文件）"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "오디오 변환 (한 번에 1개 파일)"
+            "value": "音訊轉換（每次一個檔案）"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Audiokonvertierung (1 Datei pro Vorgang)"
           }
         }
       }
@@ -517,13 +781,25 @@
             "value": "音声交換ファイル"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Audio Interchange File"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "音频交换文件"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "音訊交換檔案"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Audio Interchange File"
@@ -539,13 +815,25 @@
             "value": "音声交換ファイル形式"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Audio Interchange File Format"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "音频交换文件格式"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "音訊交換檔案格式"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Audio Interchange File Format"
@@ -561,13 +849,25 @@
             "value": "音声交換ファイル形式（圧縮）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Audio Interchange File Format Compressed"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "压缩音频交换文件格式"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "壓縮音訊交換檔案格式"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Audio Interchange File Format Compressed"
@@ -583,16 +883,28 @@
             "value": "音声ストリーム情報"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오디오 스트림 정보"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "音频流信息"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "오디오 스트림 정보"
+            "value": "音訊串流資訊"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Audiostream-Informationen"
           }
         }
       }
@@ -605,13 +917,25 @@
             "value": "Audioer"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Audioer"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "Audioer"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Audioer"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Audioer"
@@ -627,16 +951,28 @@
             "value": "自動"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "자동"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "自动"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "자동"
+            "value": "自動"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatisch"
           }
         }
       }
@@ -649,16 +985,28 @@
             "value": "バッチ変換"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "일괄 변환"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "批量转换"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "일괄 변환"
+            "value": "批次轉換"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stapelkonvertierung"
           }
         }
       }
@@ -671,16 +1019,28 @@
             "value": "ビットレート"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "비트레이트"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "比特率"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "비트레이트"
+            "value": "位元率"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bitrate"
           }
         }
       }
@@ -693,16 +1053,28 @@
             "value": "ビットレート"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "비트레이트"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "比特率"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "비트레이트"
+            "value": "位元率"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bitrate"
           }
         }
       }
@@ -715,16 +1087,28 @@
             "value": "サンプルあたりのビット数"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "샘플당 비트"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "每采样位数"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "샘플당 비트"
+            "value": "每取樣位元數"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bits pro Sample"
           }
         }
       }
@@ -737,16 +1121,28 @@
             "value": "キャンセル"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "취소"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "取消"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "취소"
+            "value": "取消"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abbrechen"
           }
         }
       }
@@ -759,16 +1155,28 @@
             "value": "チャンネル"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "채널"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "声道"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "채널"
+            "value": "聲道"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kanal"
           }
         }
       }
@@ -781,16 +1189,28 @@
             "value": "チャンネル数"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "채널 수"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "声道数"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "채널 수"
+            "value": "聲道數"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kanalanzahl"
           }
         }
       }
@@ -803,16 +1223,28 @@
             "value": "チャンネルレイアウト"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "채널 레이아웃"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "声道布局"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "채널 레이아웃"
+            "value": "聲道布局"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kanalanordnung"
           }
         }
       }
@@ -825,16 +1257,28 @@
             "value": "コーデック"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "코덱"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "编码器"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "코덱"
+            "value": "編碼器"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Codec"
           }
         }
       }
@@ -847,16 +1291,28 @@
             "value": "すべて変換"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모두 변환"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "转换所有"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "모두 변환"
+            "value": "轉換全部"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alle konvertieren"
           }
         }
       }
@@ -869,16 +1325,28 @@
             "value": "変換先"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "변환 대상"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "转换为"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "변환 대상"
+            "value": "轉換為"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Konvertieren in"
           }
         }
       }
@@ -891,16 +1359,28 @@
             "value": "変換先 -> (.%@)"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "변환 대상 -> (.%@)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "转换为 -> (.%@)"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "변환 대상 -> (.%@)"
+            "value": "轉換為 -> (.%@)"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Konvertieren in -> (.%@)"
           }
         }
       }
@@ -913,13 +1393,25 @@
             "value": "Core Audio Format"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Core Audio Format"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "核心音频格式"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "核心音訊格式"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Core Audio Format"
@@ -935,13 +1427,25 @@
             "value": "Creative Voice"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Creative Voice"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "创意语音"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "創意語音"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Creative Voice"
@@ -957,13 +1461,25 @@
             "value": "Dialogic ADPCM"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dialogic ADPCM"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "Dialogic ADPCM"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dialogic ADPCM"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Dialogic ADPCM"
@@ -979,13 +1495,25 @@
             "value": "ドルビーデジタル（ATSC A/52）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dolby Digital (ATSC A/52)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "杜比数字（ATSC A/52）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "杜比數位（ATSC A/52）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Dolby Digital (ATSC A/52)"
@@ -1001,16 +1529,28 @@
             "value": "音声ファイルをドロップ！"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오디오 파일을 여기에 드롭하세요!"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "拖放音频文件！"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "오디오 파일을 여기에 드롭하세요!"
+            "value": "拖放音訊檔案！"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Audiodateien hier ablegen!"
           }
         }
       }
@@ -1023,13 +1563,25 @@
             "value": "DTS（デジタルシアターシステムズ）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DTS (Digital Theater Systems)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "DTS（数字剧院系统）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DTS（數位劇院系統）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "DTS (Digital Theater Systems)"
@@ -1045,13 +1597,25 @@
             "value": "DTSコヒーレント音響"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DTS Coherent Acoustics"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "DTS一致性声学"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DTS 一致性聲學"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "DTS Coherent Acoustics"
@@ -1067,16 +1631,28 @@
             "value": "長さ"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "재생 시간"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "时长"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "재생 시간"
+            "value": "時長"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dauer"
           }
         }
       }
@@ -1089,13 +1665,25 @@
             "value": "EAC3（ドルビーデジタルプラス）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "EAC3 (Dolby Digital Plus)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "EAC3（杜比数字增强版）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "EAC3（杜比數位增強版）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "EAC3 (Dolby Digital Plus)"
@@ -1111,16 +1699,28 @@
             "value": "エンコーダー"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인코더"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "编码器"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "인코더"
+            "value": "編碼器"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Encoder"
           }
         }
       }
@@ -1133,16 +1733,28 @@
             "value": "エンコード中"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인코딩 중"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "编码"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "인코딩 중"
+            "value": "編碼中"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kodierung"
           }
         }
       }
@@ -1155,13 +1767,25 @@
             "value": "拡張AC-3（ドルビーデジタルプラス）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enhanced AC-3 (Dolby Digital Plus)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "增强型AC-3（杜比数字增强版）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "增強型 AC-3（杜比數位增強版）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Enhanced AC-3 (Dolby Digital Plus)"
@@ -1177,16 +1801,28 @@
             "value": "再生に失敗しました"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "재생 실패"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "播放失败"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "재생 실패"
+            "value": "播放失敗"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wiedergabe fehlgeschlagen"
           }
         }
       }
@@ -1199,16 +1835,28 @@
             "value": "ファイルが存在しません"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "파일이 존재하지 않습니다"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "文件不存在"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "파일이 존재하지 않습니다"
+            "value": "檔案不存在"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datei existiert nicht"
           }
         }
       }
@@ -1221,13 +1869,25 @@
             "value": "FLAC（フリー可逆音声コーデック）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "FLAC (Free Lossless Audio Codec)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "FLAC（自由无损音频编码"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "FLAC（自由無損音訊編碼）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "FLAC (Free Lossless Audio Codec)"
@@ -1243,16 +1903,28 @@
             "value": "フォーマット"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "포맷"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "格式"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "포맷"
+            "value": "格式"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Format"
           }
         }
       }
@@ -1265,16 +1937,28 @@
             "value": "無料"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "무료"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "免费"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "무료"
+            "value": "免費"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kostenlos"
           }
         }
       }
@@ -1287,13 +1971,25 @@
             "value": "フリー可逆音声コーデック"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Free Lossless Audio Codec"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "自由无损音频编码"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自由無損音訊編碼"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Free Lossless Audio Codec"
@@ -1309,13 +2005,25 @@
             "value": "iTunes着信音ファイル"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iTunes Ringtone File"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "iTunes 铃声文件"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iTunes 鈴聲檔案"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "iTunes Ringtone File"
@@ -1331,16 +2039,28 @@
             "value": "メインウィンドウ"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메인 윈도우"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "主窗口"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "메인 윈도우"
+            "value": "主視窗"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hauptfenster"
           }
         }
       }
@@ -1353,13 +2073,25 @@
             "value": "Matroska音声"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Matroska Audio"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "Matroska音频"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Matroska 音訊"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Matroska Audio"
@@ -1375,16 +2107,28 @@
             "value": "メタデータ"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메타데이터"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "元数据"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "메타데이터"
+            "value": "中繼資料"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Metadaten"
           }
         }
       }
@@ -1397,16 +2141,28 @@
             "value": "モノラル"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모노"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "单声道"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "모노"
+            "value": "單聲道"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mono"
           }
         }
       }
@@ -1419,13 +2175,25 @@
             "value": "MP2（MPEG音声レイヤー2）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MP2 (MPEG Audio Layer 2)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "MP3（MPEG音频层2）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MP2（MPEG 音訊層 2）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "MP2 (MPEG Audio Layer 2)"
@@ -1441,13 +2209,25 @@
             "value": "MP3（MPEG音声レイヤー3）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MP3 (MPEG Audio Layer 3)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "MP3（MPEG音频层3）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MP3（MPEG 音訊層 3）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "MP3 (MPEG Audio Layer 3)"
@@ -1463,13 +2243,25 @@
             "value": "MPEGレイヤー2音声"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MPEG Layer 2 Audio"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "MPEG层2音频"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MPEG 層 2 音訊"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "MPEG Layer 2 Audio"
@@ -1485,13 +2277,25 @@
             "value": "MPEGレイヤー3音声"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MPEG Layer 3 Audio"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "MPEG层3音频"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MPEG 層 3 音訊"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "MPEG Layer 3 Audio"
@@ -1507,13 +2311,25 @@
             "value": "MPEG-4音声"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MPEG-4 Audio"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "MPEG-4音频"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MPEG-4 音訊"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "MPEG-4 Audio"
@@ -1529,16 +2345,28 @@
             "value": "複数の値"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "여러 값"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "多个值"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "여러 값"
+            "value": "多個值"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mehrere Werte"
           }
         }
       }
@@ -1551,16 +2379,28 @@
             "value": "利用可能な音声ストリームがありません。音声を抽出できません。"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용 가능한 오디오 스트림이 없어 오디오를 추출할 수 없습니다."
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "没有可用的音频流，无法提取音频。"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "사용 가능한 오디오 스트림이 없어 오디오를 추출할 수 없습니다."
+            "value": "沒有可用的音訊串流，無法擷取音訊。"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine verfügbaren Audiostreams, Audio kann nicht extrahiert werden."
           }
         }
       }
@@ -1573,13 +2413,25 @@
             "value": "Ogg Vorbis"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ogg Vorbis"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "Ogg Vorbis"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ogg Vorbis"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Ogg Vorbis"
@@ -1595,16 +2447,28 @@
             "value": "OK"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확인"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "确定"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "확인"
+            "value": "確定"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
           }
         }
       }
@@ -1617,16 +2481,28 @@
             "value": "開く"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "열기"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "打开"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "열기"
+            "value": "打開"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öffnen"
           }
         }
       }
@@ -1639,16 +2515,28 @@
             "value": "Finderで開く"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finder에서 열기"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "访达中打开"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "Finder에서 열기"
+            "value": "在 Finder 中打開"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Im Finder öffnen"
           }
         }
       }
@@ -1661,13 +2549,25 @@
             "value": "Opus（低遅延コーデック）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opus (Low-latency Codec)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "Opus（低延迟编码器）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opus（低延遲編碼器）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Opus (Low-latency Codec)"
@@ -1683,13 +2583,25 @@
             "value": "Opus音声"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opus Audio"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "Opus音频"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opus 音訊"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Opus Audio"
@@ -1705,16 +2617,28 @@
             "value": "または"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "또는"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "或"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "또는"
+            "value": "或"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "oder"
           }
         }
       }
@@ -1727,13 +2651,25 @@
             "value": "PCM 16ビット ビッグエンディアン（AIFF）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM 16-bit Big Endian (AIFF)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM 16位大端格式 (AIFF)"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM 16 位元大端格式 (AIFF)"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM 16-bit Big Endian (AIFF)"
@@ -1749,13 +2685,25 @@
             "value": "PCM 16ビット リトルエンディアン"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM 16-bit Little Endian"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM 16位小端格式"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM 16 位元小端格式"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM 16-bit Little Endian"
@@ -1771,13 +2719,25 @@
             "value": "PCM 24ビット リトルエンディアン"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM 24-bit Little Endian"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM 24位小端格式"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM 24 位元小端格式"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM 24-bit Little Endian"
@@ -1793,13 +2753,25 @@
             "value": "PCM 32ビット 浮動小数点"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM 32-bit Floating Point"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM 32位浮点数格式"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM 32 位元浮點數格式"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM 32-bit Floating Point"
@@ -1815,13 +2787,25 @@
             "value": "PCM 32ビット リトルエンディアン"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM 32-bit Little Endian"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM 32位小端格式"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM 32 位元小端格式"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM 32-bit Little Endian"
@@ -1837,13 +2821,25 @@
             "value": "PCM A-law"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM A-law"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM A-law"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM A-law"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM A-law"
@@ -1859,13 +2855,25 @@
             "value": "PCM mu-law"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM mu-law"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM mu-law"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM mu-law"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM mu-law"
@@ -1881,13 +2889,25 @@
             "value": "PCM符号付き16ビット リトルエンディアン"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM signed 16-bit little-endian"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM signed 16-bit little-endian"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM signed 16-bit little-endian"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM signed 16-bit little-endian"
@@ -1903,13 +2923,25 @@
             "value": "PCM符号なし8ビット"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM unsigned 8-bit"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM unsigned 8-bit"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM unsigned 8-bit"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM unsigned 8-bit"
@@ -1925,13 +2957,25 @@
             "value": "PCM μ-law"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM μ-law"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM μ-law"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PCM μ-law"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "PCM μ-law"
@@ -1947,13 +2991,25 @@
             "value": "Pro"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "高级版"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "進階版"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Pro"
@@ -1969,16 +3025,28 @@
             "value": "プロファイル"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "프로필"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "配置文件"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "프로필"
+            "value": "設定檔"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Profil"
           }
         }
       }
@@ -1991,13 +3059,25 @@
             "value": "Quick Time"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quick Time"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "Quick Time"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quick Time"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Quick Time"
@@ -2013,13 +3093,25 @@
             "value": "Real Audio 1.0"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Real Audio 1.0"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "Real音频1.0"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Real 音訊 1.0"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Real Audio 1.0"
@@ -2035,13 +3127,25 @@
             "value": "RealAudio"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "RealAudio"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "RealAudio"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "RealAudio"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "RealAudio"
@@ -2057,13 +3161,25 @@
             "value": "RealMedia"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "RealMedia"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "RealMedia"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "RealMedia"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "RealMedia"
@@ -2079,13 +3195,25 @@
             "value": "RealMedia Audio"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "RealMedia Audio"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "RealMedia音频"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "RealMedia 音訊"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "RealMedia Audio"
@@ -2101,16 +3229,28 @@
             "value": "カバーを置換"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "커버 교체"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "替换封面"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "커버 교체"
+            "value": "取代封面"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cover ersetzen"
           }
         }
       }
@@ -2123,16 +3263,28 @@
             "value": "サンプルレート"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "샘플 레이트"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "采样率"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "샘플 레이트"
+            "value": "取樣率"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abtastrate"
           }
         }
       }
@@ -2145,16 +3297,28 @@
             "value": "音声ファイルを選択"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오디오 파일 선택"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "选择音频文件"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "오디오 파일 선택"
+            "value": "選取音訊檔案"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Audiodateien auswählen"
           }
         }
       }
@@ -2167,16 +3331,28 @@
             "value": "カバー画像を選択"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "커버 이미지 선택"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "选择封面图片"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "커버 이미지 선택"
+            "value": "選取封面圖片"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coverbild auswählen"
           }
         }
       }
@@ -2189,16 +3365,28 @@
             "value": "フォルダを選択"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "폴더 선택"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "选择文件夹"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "폴더 선택"
+            "value": "選取檔案夾"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ordner auswählen"
           }
         }
       }
@@ -2211,16 +3399,28 @@
             "value": "サイズ"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "크기"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "大小"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "크기"
+            "value": "大小"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Größe"
           }
         }
       }
@@ -2233,13 +3433,25 @@
             "value": "Sony Wave64"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sony Wave64"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "索尼 Wave64"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sony Wave64"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Sony Wave64"
@@ -2255,13 +3467,25 @@
             "value": "Sound Designer II"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sound Designer II"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "Sound Designer II"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sound Designer II"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Sound Designer II"
@@ -2277,13 +3501,25 @@
             "value": "Speex"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Speex"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "Speex"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Speex"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Speex"
@@ -2299,13 +3535,25 @@
             "value": "Speex（音声コーデック）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Speex (Speech Codec)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "Speex（语音编码器）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Speex（語音編碼器）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Speex (Speech Codec)"
@@ -2321,16 +3569,28 @@
             "value": "ステレオ"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스테레오"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "立体声"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "스테레오"
+            "value": "立體聲"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stereo"
           }
         }
       }
@@ -2343,16 +3603,28 @@
             "value": "ストリーム数"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스트림 수"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "流数量"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "스트림 수"
+            "value": "串流數量"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stream-Anzahl"
           }
         }
       }
@@ -2365,13 +3637,25 @@
             "value": "Sun Microsystems AU"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sun Microsystems AU"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "Sun Microsystems AU"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sun Microsystems AU"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Sun Microsystems AU"
@@ -2387,16 +3671,28 @@
             "value": "タイトル"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제목"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "标题"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "제목"
+            "value": "標題"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Titel"
           }
         }
       }
@@ -2409,13 +3705,25 @@
             "value": "True Audio"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "True Audio"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "真音频"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "True Audio"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "True Audio"
@@ -2431,13 +3739,25 @@
             "value": "TrueHD（ドルビーTrueHD）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TrueHD (Dolby TrueHD)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "TrueHD（杜比TrueHD）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TrueHD（Dolby TrueHD）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "TrueHD (Dolby TrueHD)"
@@ -2453,13 +3773,25 @@
             "value": "TTA（True Audio）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TTA (True Audio)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "TTA（真音频）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TTA（True Audio）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "TTA (True Audio)"
@@ -2475,16 +3807,28 @@
             "value": "カバーアートワークを追加できません"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "커버 아트워크를 추가할 수 없습니다"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "无法添加封面"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "커버 아트워크를 추가할 수 없습니다"
+            "value": "無法加入封面圖片"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cover-Bild kann nicht hinzugefügt werden"
           }
         }
       }
@@ -2497,16 +3841,28 @@
             "value": "不明なコーデック"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알 수 없는 코덱"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "未知编解码器"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "알 수 없는 코덱"
+            "value": "未知編解碼器"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unbekannter Codec"
           }
         }
       }
@@ -2519,16 +3875,28 @@
             "value": "無制限変換"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "무제한 변환"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "无限次转换"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "무제한 변환"
+            "value": "無限次轉換"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unbegrenzte Konvertierungen"
           }
         }
       }
@@ -2541,16 +3909,28 @@
             "value": "すべての機能をロック解除"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모든 기능 잠금 해제"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "解锁所有功能"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "모든 기능 잠금 해제"
+            "value": "解鎖所有功能"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alle Funktionen freischalten"
           }
         }
       }
@@ -2563,16 +3943,28 @@
             "value": "メタデータを更新"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메타데이터 업데이트"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "更新源数据"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "메타데이터 업데이트"
+            "value": "更新中繼資料"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Metadaten aktualisieren"
           }
         }
       }
@@ -2585,16 +3977,28 @@
             "value": "オリジナルを使用"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "원본 사용"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "使用原始"
           }
         },
-        "ko": {
+        "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "원본 사용"
+            "value": "使用原始"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Original verwenden"
           }
         }
       }
@@ -2607,13 +4011,25 @@
             "value": "Video Object"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Video Object"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "视频对象"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "視訊物件"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Video Object"
@@ -2629,13 +4045,25 @@
             "value": "Vorbis（OGG Vorbis）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vorbis (OGG Vorbis)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "Vorbis (OGG Vorbis)"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vorbis (OGG Vorbis)"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Vorbis (OGG Vorbis)"
@@ -2651,13 +4079,25 @@
             "value": "VOX Dialogic Voice Audio File"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "VOX Dialogic Voice Audio File"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "VOX Dialogic Voice Audio File"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "VOX Dialogic Voice Audio File"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "VOX Dialogic Voice Audio File"
@@ -2673,13 +4113,25 @@
             "value": "波形音声ファイル形式"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Waveform Audio File Format"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "波形音频文件格式"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "波形音訊檔案格式"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Waveform Audio File Format"
@@ -2695,13 +4147,25 @@
             "value": "WebM Audio"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WebM Audio"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "WebM 音频"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WebM 音訊"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "WebM Audio"
@@ -2717,13 +4181,25 @@
             "value": "Windows Media Audio"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Windows Media Audio"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "Windows 媒体音频"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Windows 媒體音訊"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "Windows Media Audio"
@@ -2739,13 +4215,25 @@
             "value": "WMA（Windows Media Audio）"
           }
         },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WMA (Windows Media Audio)"
+          }
+        },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
             "value": "WMA（Windows媒体音频）"
           }
         },
-        "ko": {
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WMA（Windows 媒體音訊）"
+          }
+        },
+        "de": {
           "stringUnit": {
             "state": "translated",
             "value": "WMA (Windows Media Audio)"

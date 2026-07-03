@@ -1,0 +1,247 @@
+" - %@" = " - %@";
+
+"%@" = "%@";
+
+"%@ - %@" = "%1$@ - %2$@";
+
+"%lld audios selected" = "%lld Audios ausgewählt";
+
+".%@" = ".%@";
+
+"AAC (Advanced Audio Codec)" = "AAC (Advanced Audio Codec)";
+
+"AC3 (Dolby Digital)" = "AC3 (Dolby Digital)";
+
+"ADPCM IMA Dialogic OKI" = "ADPCM IMA Dialogic OKI";
+
+"ALAC (Apple Lossless Audio Codec)" = "ALAC (Apple Lossless Audio Codec)";
+
+"AMR-NB (Adaptive Multi-Rate Narrowband)" = "AMR-NB (Adaptive Multi-Rate Narrowband)";
+
+"Adaptive Multi-Rate" = "Adaptive Multi-Rate";
+
+"Add Album Name" = "Albumname hinzufügen";
+
+"Add Artist Name" = "Künstlernamen hinzufügen";
+
+"Add Cover" = "Cover hinzufügen";
+
+"Add Title" = "Titel hinzufügen";
+
+"Advanced Audio Coding" = "Advanced Audio Coding";
+
+"Album" = "Album";
+
+"Apply artwork to %d selected audios." = "Cover auf %d ausgewählte Audios anwenden.";
+
+"Apply artwork to all %d audios." = "Cover auf alle %d Audios anwenden.";
+
+"Apply artwork to the selected audio." = "Cover auf das ausgewählte Audio anwenden.";
+
+"Artist" = "Künstler";
+
+"Audio Conversion (1 file each time)" = "Audiokonvertierung (1 Datei pro Vorgang)";
+
+"Audio Interchange File" = "Audio Interchange File";
+
+"Audio Interchange File Format" = "Audio Interchange File Format";
+
+"Audio Interchange File Format Compressed" = "Audio Interchange File Format Compressed";
+
+"Audio Stream Information" = "Audiostream-Informationen";
+
+"Audioer" = "Audioer";
+
+"Automatic" = "Automatisch";
+
+"Batch conversion" = "Stapelkonvertierung";
+
+"Bit Rate" = "Bitrate";
+
+"Bitrate" = "Bitrate";
+
+"Bits per Sample" = "Bits pro Sample";
+
+"Cancel" = "Abbrechen";
+
+"Channel" = "Kanal";
+
+"Channel Count" = "Kanalanzahl";
+
+"Channel Layout" = "Kanalanordnung";
+
+"Codec" = "Codec";
+
+"Convert To" = "Konvertieren in";
+
+"Convert To -> (.%@)" = "Konvertieren in -> (.%@)";
+
+"Convert all" = "Alle konvertieren";
+
+"Core Audio Format" = "Core Audio Format";
+
+"Creative Voice" = "Creative Voice";
+
+"DTS (Digital Theater Systems)" = "DTS (Digital Theater Systems)";
+
+"DTS Coherent Acoustics" = "DTS Coherent Acoustics";
+
+"Dialogic ADPCM" = "Dialogic ADPCM";
+
+"Dolby Digital (ATSC A/52)" = "Dolby Digital (ATSC A/52)";
+
+"Drop audio files!" = "Audiodateien hier ablegen!";
+
+"Duration" = "Dauer";
+
+"EAC3 (Dolby Digital Plus)" = "EAC3 (Dolby Digital Plus)";
+
+"Encoder" = "Encoder";
+
+"Encoding" = "Kodierung";
+
+"Enhanced AC-3 (Dolby Digital Plus)" = "Enhanced AC-3 (Dolby Digital Plus)";
+
+"FLAC (Free Lossless Audio Codec)" = "FLAC (Free Lossless Audio Codec)";
+
+"Failed to play" = "Wiedergabe fehlgeschlagen";
+
+"File does not exist" = "Datei existiert nicht";
+
+"Format" = "Format";
+
+"Free" = "Kostenlos";
+
+"Free Lossless Audio Codec" = "Free Lossless Audio Codec";
+
+"MP2 (MPEG Audio Layer 2)" = "MP2 (MPEG Audio Layer 2)";
+
+"MP3 (MPEG Audio Layer 3)" = "MP3 (MPEG Audio Layer 3)";
+
+"MPEG Layer 2 Audio" = "MPEG Layer 2 Audio";
+
+"MPEG Layer 3 Audio" = "MPEG Layer 3 Audio";
+
+"MPEG-4 Audio" = "MPEG-4 Audio";
+
+"Main Window" = "Hauptfenster";
+
+"Matroska Audio" = "Matroska Audio";
+
+"Metadata" = "Metadaten";
+
+"Mono" = "Mono";
+
+"Multiple Values" = "Mehrere Werte";
+
+"No available audio streams, unable to extract audio." = "Keine verfügbaren Audiostreams, Audio kann nicht extrahiert werden.";
+
+"OK" = "OK";
+
+"Ogg Vorbis" = "Ogg Vorbis";
+
+"Open" = "Öffnen";
+
+"Open in Finder" = "Im Finder öffnen";
+
+"Opus (Low-latency Codec)" = "Opus (Low-latency Codec)";
+
+"Opus Audio" = "Opus Audio";
+
+"PCM 16-bit Big Endian (AIFF)" = "PCM 16-bit Big Endian (AIFF)";
+
+"PCM 16-bit Little Endian" = "PCM 16-bit Little Endian";
+
+"PCM 24-bit Little Endian" = "PCM 24-bit Little Endian";
+
+"PCM 32-bit Floating Point" = "PCM 32-bit Floating Point";
+
+"PCM 32-bit Little Endian" = "PCM 32-bit Little Endian";
+
+"PCM A-law" = "PCM A-law";
+
+"PCM mu-law" = "PCM mu-law";
+
+"PCM signed 16-bit little-endian" = "PCM signed 16-bit little-endian";
+
+"PCM unsigned 8-bit" = "PCM unsigned 8-bit";
+
+"PCM μ-law" = "PCM μ-law";
+
+"Pro" = "Pro";
+
+"Profile" = "Profil";
+
+"Quick Time" = "Quick Time";
+
+"Real Audio 1.0" = "Real Audio 1.0";
+
+"RealAudio" = "RealAudio";
+
+"RealMedia" = "RealMedia";
+
+"RealMedia Audio" = "RealMedia Audio";
+
+"Replace Cover" = "Cover ersetzen";
+
+"Sample Rate" = "Abtastrate";
+
+"Select Audio Files" = "Audiodateien auswählen";
+
+"Select Cover Image" = "Coverbild auswählen";
+
+"Select Folder" = "Ordner auswählen";
+
+"Size" = "Größe";
+
+"Sony Wave64" = "Sony Wave64";
+
+"Sound Designer II" = "Sound Designer II";
+
+"Speex" = "Speex";
+
+"Speex (Speech Codec)" = "Speex (Speech Codec)";
+
+"Stereo" = "Stereo";
+
+"Stream Count" = "Stream-Anzahl";
+
+"Sun Microsystems AU" = "Sun Microsystems AU";
+
+"TTA (True Audio)" = "TTA (True Audio)";
+
+"Title" = "Titel";
+
+"True Audio" = "True Audio";
+
+"TrueHD (Dolby TrueHD)" = "TrueHD (Dolby TrueHD)";
+
+"Unable to add cover artwork" = "Cover-Bild kann nicht hinzugefügt werden";
+
+"Unknown Codec" = "Unbekannter Codec";
+
+"Unlimited Conversions" = "Unbegrenzte Konvertierungen";
+
+"Unlock all Features" = "Alle Funktionen freischalten";
+
+"Update metadata" = "Metadaten aktualisieren";
+
+"Use original" = "Original verwenden";
+
+"VOX Dialogic Voice Audio File" = "VOX Dialogic Voice Audio File";
+
+"Video Object" = "Video Object";
+
+"Vorbis (OGG Vorbis)" = "Vorbis (OGG Vorbis)";
+
+"WMA (Windows Media Audio)" = "WMA (Windows Media Audio)";
+
+"Waveform Audio File Format" = "Waveform Audio File Format";
+
+"WebM Audio" = "WebM Audio";
+
+"Windows Media Audio" = "Windows Media Audio";
+
+"iTunes Ringtone File" = "iTunes Ringtone File";
+
+"or" = "oder";
