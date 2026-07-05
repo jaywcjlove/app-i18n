@@ -28,6 +28,8 @@
 
 "Add template file" = "Vorlagendatei hinzufügen";
 
+"App Preview" = "App-Vorschau";
+
 "Appearance" = "Aussehen";
 
 "Authorization Folder" = "Autorisierungsordner";
@@ -43,6 +45,8 @@
 "Click to Open" = "Klicken Sie zum Öffnen";
 
 "Click to copy link" = "Klicken Sie, um den Link zu kopieren";
+
+"Code Highlighting" = "Code-Hervorhebung";
 
 "Collapse context menu" = "Kontextmenü einklappen";
 
@@ -135,6 +139,10 @@
 
 "Enable %@ and permissions." = "Aktivieren Sie %@ und Berechtigungen.";
 
+"Enable App Preview" = "App-Vorschau aktivieren";
+
+"Enable Code Highlighting" = "Code-Hervorhebung aktivieren";
+
 "Enable Common App" = "Aktivieren Sie die gemeinsame App";
 
 "Enable Common Script" = "Aktivieren Sie Common Script";
@@ -174,6 +182,8 @@
 "Finder Quick Look Extension" = "Finder Quick Look-Erweiterung";
 
 "Finder plugin" = "Finder-Plugin";
+
+"Folder & Archive Previews" = "Ordner- und Archivvorschauen";
 
 "Folder Authorization" = "Ordnerautorisierung";
 
@@ -293,6 +303,10 @@
 "Plugin needs to be enabled" = "Das Plugin muss aktiviert sein";
 
 "Port" = "Hafen";
+
+"Preview .app bundles in Finder with bundle ID, version, architectures, sandbox status, and more. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist App Preview**]." = "Vorschau von .app-Bundles im Finder mit Bundle-ID, Version, Architekturen, Sandbox-Status und mehr. Aktivieren oder deaktivieren Sie sie in [**Systemeinstellungen**] -> [**Allgemein**] -> [**Anmeldeelemente & Erweiterungen**] -> [**Kurzübersicht**] -> [**Menuist App Preview**].";
+
+"Preview source code files in Finder with syntax highlighting. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Code Highlighting**]." = "Vorschau von Quellcodedateien im Finder mit Syntaxhervorhebung. Aktivieren oder deaktivieren Sie sie in [**Systemeinstellungen**] -> [**Allgemein**] -> [**Anmeldeelemente & Erweiterungen**] -> [**Kurzübersicht**] -> [**Menuist Code Highlighting**].";
 
 "Privacy Policy" = "Datenschutzrichtlinie";
 

@@ -28,6 +28,8 @@
 
 "Add template file" = "Добавить файл шаблона";
 
+"App Preview" = "Предпросмотр приложений";
+
 "Appearance" = "Внешний вид";
 
 "Authorization Folder" = "Папка авторизации";
@@ -43,6 +45,8 @@
 "Click to Open" = "Нажмите, чтобы открыть";
 
 "Click to copy link" = "Нажмите, чтобы скопировать ссылку";
+
+"Code Highlighting" = "Подсветка кода";
 
 "Collapse context menu" = "Свернуть контекстное меню";
 
@@ -135,6 +139,10 @@
 
 "Enable %@ and permissions." = "Включите %@ и разрешения.";
 
+"Enable App Preview" = "Включить предпросмотр приложений";
+
+"Enable Code Highlighting" = "Включить подсветку кода";
+
 "Enable Common App" = "Включить общее приложение";
 
 "Enable Common Script" = "Включить общий сценарий";
@@ -174,6 +182,8 @@
 "Finder Quick Look Extension" = "Расширение Finder Quick Look";
 
 "Finder plugin" = "Плагин поиска";
+
+"Folder & Archive Previews" = "Предпросмотр папок и архивов";
 
 "Folder Authorization" = "Авторизация папок";
 
@@ -293,6 +303,10 @@
 "Plugin needs to be enabled" = "Плагин должен быть включен";
 
 "Port" = "Порт";
+
+"Preview .app bundles in Finder with bundle ID, version, architectures, sandbox status, and more. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist App Preview**]." = "Предпросмотр пакетов .app в Finder с ID пакета, версией, архитектурами, статусом песочницы и другим. Включить или отключить в [**Системные настройки**] -> [**Общие**] -> [**Элементы входа и расширения**] -> [**Быстрый просмотр**] -> [**Menuist App Preview**].";
+
+"Preview source code files in Finder with syntax highlighting. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Code Highlighting**]." = "Предпросмотр файлов исходного кода в Finder с подсветкой синтаксиса. Включить или отключить в [**Системные настройки**] -> [**Общие**] -> [**Элементы входа и расширения**] -> [**Быстрый просмотр**] -> [**Menuist Code Highlighting**].";
 
 "Privacy Policy" = "политика конфиденциальности";
 

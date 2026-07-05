@@ -28,6 +28,8 @@
 
 "Add template file" = "新增模板檔案";
 
+"App Preview" = "應用預覽";
+
 "Appearance" = "外觀";
 
 "Authorization Folder" = "授權資料夾";
@@ -43,6 +45,8 @@
 "Click to Open" = "點選開啟";
 
 "Click to copy link" = "點選複製連結";
+
+"Code Highlighting" = "程式碼高亮";
 
 "Collapse context menu" = "摺疊上下文選單";
 
@@ -135,6 +139,10 @@
 
 "Enable %@ and permissions." = "啟用 %@ 和許可權";
 
+"Enable App Preview" = "啟用應用預覽";
+
+"Enable Code Highlighting" = "啟用程式碼高亮";
+
 "Enable Common App" = "啟用常用應用";
 
 "Enable Common Script" = "啟用常用指令碼";
@@ -174,6 +182,8 @@
 "Finder Quick Look Extension" = "訪達快速瀏覽外掛";
 
 "Finder plugin" = "訪達外掛";
+
+"Folder & Archive Previews" = "資料夾與歸檔預覽";
 
 "Folder Authorization" = "資料夾授權";
 
@@ -293,6 +303,10 @@
 "Plugin needs to be enabled" = "需要啟用外掛";
 
 "Port" = "埠號";
+
+"Preview .app bundles in Finder with bundle ID, version, architectures, sandbox status, and more. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist App Preview**]." = "在訪達中預覽 .app 套件，顯示套件 ID、版本、架構、沙盒狀態等資訊。在 [**系統偏好設定**] -> [**通用**] -> [**登入項和擴充套件**] -> [**快速檢視**] -> [**Menuist App Preview**] 中啟用或禁用。";
+
+"Preview source code files in Finder with syntax highlighting. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Code Highlighting**]." = "在訪達中以語法高亮預覽原始碼檔案。在 [**系統偏好設定**] -> [**通用**] -> [**登入項和擴充套件**] -> [**快速檢視**] -> [**Menuist Code Highlighting**] 中啟用或禁用。";
 
 "Privacy Policy" = "隱私政策";
 

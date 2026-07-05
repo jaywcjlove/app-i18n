@@ -28,6 +28,8 @@
 
 "Add template file" = "Ajouter un fichier modèle";
 
+"App Preview" = "Aperçu de l'app";
+
 "Appearance" = "Apparence";
 
 "Authorization Folder" = "Dossier d'autorisation";
@@ -43,6 +45,8 @@
 "Click to Open" = "Cliquez pour ouvrir";
 
 "Click to copy link" = "Cliquez pour copier le lien";
+
+"Code Highlighting" = "Coloration syntaxique";
 
 "Collapse context menu" = "Réduire le menu contextuel";
 
@@ -135,6 +139,10 @@
 
 "Enable %@ and permissions." = "Activez %@ et les autorisations.";
 
+"Enable App Preview" = "Activer l'aperçu de l'app";
+
+"Enable Code Highlighting" = "Activer la coloration syntaxique";
+
 "Enable Common App" = "Activer l'application commune";
 
 "Enable Common Script" = "Activer le script commun";
@@ -174,6 +182,8 @@
 "Finder Quick Look Extension" = "Extension d'aperçu rapide du Finder";
 
 "Finder plugin" = "Extension Finder";
+
+"Folder & Archive Previews" = "Aperçus des dossiers et archives";
 
 "Folder Authorization" = "Autorisation de dossier";
 
@@ -293,6 +303,10 @@
 "Plugin needs to be enabled" = "Le plugin doit être activé";
 
 "Port" = "Port";
+
+"Preview .app bundles in Finder with bundle ID, version, architectures, sandbox status, and more. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist App Preview**]." = "Prévisualisez les bundles .app dans le Finder avec l'ID de bundle, la version, les architectures, le statut du bac à sable et plus encore. Activez ou désactivez-le dans [**Préférences Système**] -> [**Général**] -> [**Éléments de connexion et extensions**] -> [**Aperçu rapide**] -> [**Menuist App Preview**].";
+
+"Preview source code files in Finder with syntax highlighting. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Code Highlighting**]." = "Prévisualisez les fichiers de code source dans le Finder avec coloration syntaxique. Activez ou désactivez-le dans [**Préférences Système**] -> [**Général**] -> [**Éléments de connexion et extensions**] -> [**Aperçu rapide**] -> [**Menuist Code Highlighting**].";
 
 "Privacy Policy" = "politique de confidentialité";
 

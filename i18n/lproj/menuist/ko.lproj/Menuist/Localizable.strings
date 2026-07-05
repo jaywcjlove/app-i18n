@@ -28,6 +28,8 @@
 
 "Add template file" = "템플릿 파일 추가";
 
+"App Preview" = "앱 미리보기";
+
 "Appearance" = "외관";
 
 "Authorization Folder" = "폴더 권한";
@@ -43,6 +45,8 @@
 "Click to Open" = "열려면 클릭하세요";
 
 "Click to copy link" = "링크를 복사하려면 클릭하세요.";
+
+"Code Highlighting" = "코드 하이라이팅";
 
 "Collapse context menu" = "상황에 맞는 메뉴 접기";
 
@@ -135,6 +139,10 @@
 
 "Enable %@ and permissions." = "%@ 및 권한을 활성화합니다.";
 
+"Enable App Preview" = "앱 미리보기 활성화";
+
+"Enable Code Highlighting" = "코드 하이라이팅 활성화";
+
 "Enable Common App" = "공통 앱 활성화";
 
 "Enable Common Script" = "공통 스크립트 활성화";
@@ -174,6 +182,8 @@
 "Finder Quick Look Extension" = "Finder 훑어보기 확장 프로그램";
 
 "Finder plugin" = "파인더 플러그인";
+
+"Folder & Archive Previews" = "폴더 및 아카이브 미리보기";
 
 "Folder Authorization" = "폴더 인증";
 
@@ -293,6 +303,10 @@
 "Plugin needs to be enabled" = "플러그인을 활성화해야 합니다";
 
 "Port" = "포트";
+
+"Preview .app bundles in Finder with bundle ID, version, architectures, sandbox status, and more. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist App Preview**]." = "Finder에서 .app 번들을 번들 ID, 버전, 아키텍처, 샌드박스 상태 등과 함께 미리 봅니다. [**시스템 설정**] -> [**일반**] -> [**로그인 항목 및 확장 프로그램**] -> [**훑어보기**] -> [**Menuist App Preview**]에서 활성화 또는 비활성화할 수 있습니다.";
+
+"Preview source code files in Finder with syntax highlighting. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Code Highlighting**]." = "Finder에서 소스 코드 파일을 구문 강조 표시와 함께 미리 봅니다. [**시스템 설정**] -> [**일반**] -> [**로그인 항목 및 확장 프로그램**] -> [**훑어보기**] -> [**Menuist Code Highlighting**]에서 활성화 또는 비활성화할 수 있습니다.";
 
 "Privacy Policy" = "개인정보 처리방침";
 

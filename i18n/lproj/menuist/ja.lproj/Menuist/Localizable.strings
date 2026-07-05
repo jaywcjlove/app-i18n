@@ -28,6 +28,8 @@
 
 "Add template file" = "テンプレートファイルを追加";
 
+"App Preview" = "アプリプレビュー";
+
 "Appearance" = "外観";
 
 "Authorization Folder" = "認証フォルダー";
@@ -43,6 +45,8 @@
 "Click to Open" = "クリックして開く";
 
 "Click to copy link" = "クリックしてリンクをコピーします";
+
+"Code Highlighting" = "コードハイライト";
 
 "Collapse context menu" = "コンテキスト メニューを折りたたむ";
 
@@ -135,6 +139,10 @@
 
 "Enable %@ and permissions." = "%@ と権限を有効にします。";
 
+"Enable App Preview" = "アプリプレビューを有効にする";
+
+"Enable Code Highlighting" = "コードハイライトを有効にする";
+
 "Enable Common App" = "共通アプリを有効にする";
 
 "Enable Common Script" = "共通スクリプトを有効にする";
@@ -174,6 +182,8 @@
 "Finder Quick Look Extension" = "Finder クイックルック拡張機能";
 
 "Finder plugin" = "ファインダープラグイン";
+
+"Folder & Archive Previews" = "フォルダとアーカイブのプレビュー";
 
 "Folder Authorization" = "フォルダーの認証";
 
@@ -293,6 +303,10 @@
 "Plugin needs to be enabled" = "プラグインを有効にする必要があります";
 
 "Port" = "ポート";
+
+"Preview .app bundles in Finder with bundle ID, version, architectures, sandbox status, and more. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist App Preview**]." = "Finderで.appバンドルをバンドルID、バージョン、アーキテクチャ、サンドボックスステータスなどとともにプレビューします。[**システム設定**] -> [**一般**] -> [**ログイン項目と機能拡張**] -> [**クイックルック**] -> [**Menuist App Preview**]で有効/無効を切り替えます。";
+
+"Preview source code files in Finder with syntax highlighting. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Code Highlighting**]." = "Finderでソースコードファイルをシンタックスハイライト付きでプレビューします。[**システム設定**] -> [**一般**] -> [**ログイン項目と機能拡張**] -> [**クイックルック**] -> [**Menuist Code Highlighting**]で有効/無効を切り替えます。";
 
 "Privacy Policy" = "プライバシーポリシー";
 
