@@ -1,42 +1,54 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "[Terms of Service](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) and [Privacy Policy](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)" : {
+    "" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "[Nutzungsbedingungen](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) und [Datenschutzerklärung](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)"
+            "value" : ""
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "[Conditions d’utilisation](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) et [Politique de confidentialité](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)"
+            "value" : ""
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "[利用規約](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) と [プライバシーポリシー](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)"
+            "value" : ""
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "[서비스 약관](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) 및 [개인정보 처리방침](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)"
+            "value" : ""
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "[服务条款](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) 和 [隐私政策](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)"
+            "value" : ""
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "[服務條款](https://wangchujiang.com/create-custom-symbols/terms-of-service.html) 與 [隱私權政策](https://wangchujiang.com/create-custom-symbols/privacy-policy.html)"
+            "value" : ""
           }
         }
       }
@@ -55,6 +67,12 @@
             "value" : "%@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -62,6 +80,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@"
@@ -95,6 +119,12 @@
             "value" : "Accessibilité"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accessibilita"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -105,6 +135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "손쉬운 사용"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Универсальный доступ"
           }
         },
         "zh-Hans" : {
@@ -135,6 +171,12 @@
             "value" : "Erreur lors de l’ajout de la chaîne SVG au cache : %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Errore durante l'aggiunta della stringa SVG alla cache: %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -145,6 +187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "SVG 문자열을 캐시에 추가하는 중 오류가 발생했습니다: %@"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ошибка добавления строки SVG в кэш: %@"
           }
         },
         "zh-Hans" : {
@@ -175,6 +223,12 @@
             "value" : "Après un premier soutien, toutes les fonctionnalités seront accessibles et le bouton de don ne sera plus affiché dans l’interface. Toutefois, vous pouvez me soutenir à nouveau en faisant un don via le menu « Sponsor ». Merci pour votre générosité."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dopo una sponsorizzazione, tutte le funzionalita saranno accessibili e il pulsante di donazione non verra piu mostrato nell'interfaccia. Tuttavia, puoi supportarmi di nuovo donando tramite il menu 'Sponsor'. Grazie per la tua generosita."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -185,6 +239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "한 번 후원하시면 모든 기능을 이용할 수 있으며, 기부 버튼은 더 이상 인터페이스에 표시되지 않습니다. 하지만 'Sponsor' 메뉴를 통해 다시 기부하여 저를 후원하실 수 있습니다. 너그러운 지원에 감사드립니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "После единоразовой поддержки вам станут доступны все функции, а кнопка пожертвования больше не будет отображаться в интерфейсе. Однако вы можете снова поддержать меня через меню 'Sponsor'. Спасибо за вашу щедрость."
           }
         },
         "zh-Hans" : {
@@ -215,6 +275,12 @@
             "value" : "Tout"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutto"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -225,6 +291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "전체"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Все"
           }
         },
         "zh-Hans" : {
@@ -255,6 +327,12 @@
             "value" : "Flèches"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frecce"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -265,6 +343,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "화살표"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Стрелки"
           }
         },
         "zh-Hans" : {
@@ -295,6 +379,12 @@
             "value" : "Automobile"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automobilistico"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -305,6 +395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "자동차"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Автомобили"
           }
         },
         "zh-Hans" : {
@@ -335,6 +431,12 @@
             "value" : "Appareil photo et photos"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fotocamera e foto"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -345,6 +447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "카메라 및 사진"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Камера и фото"
           }
         },
         "zh-Hans" : {
@@ -375,6 +483,12 @@
             "value" : "Annuler"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annulla"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -385,6 +499,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "취소"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отмена"
           }
         },
         "zh-Hans" : {
@@ -415,6 +535,12 @@
             "value" : "Journal des modifications"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registro modifiche"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -425,6 +551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "변경 기록"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Журнал изменений"
           }
         },
         "zh-Hans" : {
@@ -455,6 +587,12 @@
             "value" : "Cliquez sur le site d’icônes, copiez la chaîne SVG de l’icône, \npuis collez-la dans l’éditeur de symboles !"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri il sito delle icone, copia la stringa SVG dell'icona \ne incollala nell'editor dei simboli!"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -465,6 +603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아이콘 웹사이트를 열어 SVG 아이콘 문자열을 복사한 뒤,\n심볼 편집기에 붙여넣으세요!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Откройте сайт с иконками, скопируйте SVG-строку значка \nи вставьте ее в редактор символов!"
           }
         },
         "zh-Hans" : {
@@ -495,6 +639,12 @@
             "value" : "Commerce"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commercio"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -505,6 +655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "상거래"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Коммерция"
           }
         },
         "zh-Hans" : {
@@ -535,6 +691,12 @@
             "value" : "Communication"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comunicazione"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -545,6 +707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "커뮤니케이션"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Коммуникация"
           }
         },
         "zh-Hans" : {
@@ -575,6 +743,12 @@
             "value" : "Confirmer la suppression de %lld icônes ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confermi l'eliminazione di %lld icone?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -585,6 +759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld개의 아이콘을 삭제하시겠습니까?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подтвердить удаление %lld значков?"
           }
         },
         "zh-Hans" : {
@@ -615,6 +795,12 @@
             "value" : "Confirmer la suppression de toutes les icônes ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confermi l'eliminazione di tutte le icone?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -625,6 +811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모든 아이콘을 삭제하시겠습니까?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подтвердить удаление всех значков?"
           }
         },
         "zh-Hans" : {
@@ -655,6 +847,12 @@
             "value" : "Confirmer la suppression de l’icône « %@ » ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confermi l'eliminazione dell'icona \"%@\"?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -665,6 +863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "\"%@\" 아이콘을 삭제하시겠습니까?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подтвердить удаление значка \"%@\"?"
           }
         },
         "zh-Hans" : {
@@ -695,6 +899,12 @@
             "value" : "Confirmer la suppression de l’icône ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confermi l'eliminazione dell'icona?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -705,6 +915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아이콘을 삭제하시겠습니까?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подтвердить удаление значка?"
           }
         },
         "zh-Hans" : {
@@ -735,6 +951,12 @@
             "value" : "Connectivité"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connettivita"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -745,6 +967,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "연결"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подключения"
           }
         },
         "zh-Hans" : {
@@ -775,6 +1003,12 @@
             "value" : "Copier le nom"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copia nome"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -785,6 +1019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이름 복사"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Копировать имя"
           }
         },
         "zh-Hans" : {
@@ -815,6 +1055,12 @@
             "value" : "Créer des symboles personnalisés"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crea simboli personalizzati"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -825,6 +1071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "사용자 지정 심볼 만들기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Создать пользовательские символы"
           }
         },
         "zh-Hans" : {
@@ -855,6 +1107,12 @@
             "value" : "Erreur lors de la création du symbole : %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Errore durante la creazione del simbolo: %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -865,6 +1123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "심볼 생성 오류: %@"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ошибка создания символа: %@"
           }
         },
         "zh-Hans" : {
@@ -895,6 +1159,12 @@
             "value" : "Supprimer"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elimina"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -905,6 +1175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "삭제"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить"
           }
         },
         "zh-Hans" : {
@@ -935,6 +1211,12 @@
             "value" : "Supprimer toutes les icônes"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elimina tutte le icone"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -945,6 +1227,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모든 아이콘 삭제"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить все значки"
           }
         },
         "zh-Hans" : {
@@ -975,6 +1263,12 @@
             "value" : "Supprimer l’icône"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elimina icona"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -985,6 +1279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "아이콘 삭제"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить значок"
           }
         },
         "zh-Hans" : {
@@ -1015,6 +1315,12 @@
             "value" : "Supprimer le symbole"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elimina simbolo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1025,6 +1331,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "심볼 삭제"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить символ"
           }
         },
         "zh-Hans" : {
@@ -1055,6 +1367,12 @@
             "value" : "Appareils"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dispositivi"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1065,6 +1383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "기기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Устройства"
           }
         },
         "zh-Hans" : {
@@ -1095,6 +1419,12 @@
             "value" : "Édition"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modifica"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1105,6 +1435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "편집"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Редактирование"
           }
         },
         "zh-Hans" : {
@@ -1135,6 +1471,12 @@
             "value" : "Erreur lors de la copie du fichier SVG dans le cache : %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Errore durante la copia del file SVG nella cache: %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1145,6 +1487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "SVG 파일을 캐시에 복사하는 중 오류가 발생했습니다: %@"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ошибка копирования файла SVG в кэш: %@"
           }
         },
         "zh-Hans" : {
@@ -1175,6 +1523,12 @@
             "value" : "Erreur lors de la copie du SVG : %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Errore durante la copia dell'SVG: %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1185,6 +1539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "SVG를 복사하는 중 오류가 발생했습니다: %@"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ошибка копирования SVG: %@"
           }
         },
         "zh-Hans" : {
@@ -1215,6 +1575,12 @@
             "value" : "Erreur lors de la suppression du fichier existant : %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Errore durante la rimozione del file esistente: %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1225,6 +1591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "기존 파일을 제거하는 중 오류가 발생했습니다: %@"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ошибка удаления существующего файла: %@"
           }
         },
         "zh-Hans" : {
@@ -1255,6 +1627,12 @@
             "value" : "Exporter"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esporta"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1265,6 +1643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "내보내기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Экспорт"
           }
         },
         "zh-Hans" : {
@@ -1295,6 +1679,12 @@
             "value" : "Exporter les fichiers de symboles"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esporta file simboli"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1305,6 +1695,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "심볼 파일 내보내기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Экспорт файлов символов"
           }
         },
         "zh-Hans" : {
@@ -1335,6 +1731,12 @@
             "value" : "Nom du fichier"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nome file"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1345,6 +1747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "파일 이름"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Имя файла"
           }
         },
         "zh-Hans" : {
@@ -1375,6 +1783,12 @@
             "value" : "Fitness"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fitness"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1385,6 +1799,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "피트니스"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фитнес"
           }
         },
         "zh-Hans" : {
@@ -1415,6 +1835,12 @@
             "value" : "Jeux"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giochi"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1425,6 +1851,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "게임"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Игры"
           }
         },
         "zh-Hans" : {
@@ -1455,6 +1887,12 @@
             "value" : "Santé"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salute"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1467,6 +1905,12 @@
             "value" : "건강"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Здоровье"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1477,6 +1921,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "健康"
+          }
+        }
+      }
+    },
+    "Hide Path" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pfad ausblenden"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masquer le tracé"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nascondi tracciato"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスを非表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "경로 숨기기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скрыть контур"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏路径"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隱藏路徑"
           }
         }
       }
@@ -1495,6 +1991,12 @@
             "value" : "Maison"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Casa"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1505,6 +2007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "홈"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Главная"
           }
         },
         "zh-Hans" : {
@@ -1535,6 +2043,12 @@
             "value" : "Comment ajouter des symboles SF personnalisés à une chaîne ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Come aggiungere simboli SF personalizzati a una stringa?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1545,6 +2059,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "문자열에 사용자 지정 SF Symbol을 추가하는 방법"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как добавить пользовательские символы SF в строку?"
           }
         },
         "zh-Hans" : {
@@ -1575,6 +2095,12 @@
             "value" : "Comment activer la prise en charge multicolore pour les symboles personnalisés ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Come abilitare il supporto multicolore per i simboli personalizzati?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1585,6 +2111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "사용자 지정 심볼에서 다중 색상 지원을 활성화하는 방법은?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как включить поддержку многоцветности для пользовательских символов?"
           }
         },
         "zh-Hans" : {
@@ -1615,6 +2147,12 @@
             "value" : "Comment utiliser votre symbole SF personnalisé dans AppKit ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Come usare il tuo simbolo SF personalizzato in AppKit?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1625,6 +2163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "AppKit에서 사용자 지정 SF Symbol을 사용하는 방법"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как использовать ваш пользовательский символ SF в AppKit?"
           }
         },
         "zh-Hans" : {
@@ -1655,6 +2199,12 @@
             "value" : "Comment utiliser votre symbole SF personnalisé dans SwiftUI ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Come usare il tuo simbolo SF personalizzato in SwiftUI?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1665,6 +2215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "SwiftUI에서 사용자 지정 SF Symbol을 사용하는 방법"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как использовать ваш пользовательский символ SF в SwiftUI?"
           }
         },
         "zh-Hans" : {
@@ -1695,6 +2251,12 @@
             "value" : "Comment utiliser votre symbole SF personnalisé dans UIKit ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Come usare il tuo simbolo SF personalizzato in UIKit?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1705,6 +2267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "UIKit에서 사용자 지정 SF Symbol을 사용하는 방법"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как использовать ваш пользовательский символ SF в UIKit?"
           }
         },
         "zh-Hans" : {
@@ -1735,6 +2303,12 @@
             "value" : "Humain"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Persone"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1747,6 +2321,12 @@
             "value" : "사람"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Люди"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1757,6 +2337,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "人物"
+          }
+        }
+      }
+    },
+    "Icon" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbol"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icône"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icona"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アイコン"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아이콘"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Значок"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "图标"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圖示"
           }
         }
       }
@@ -1775,6 +2407,12 @@
             "value" : "Importer depuis le presse-papiers"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Importa dagli appunti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1785,6 +2423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "클립보드에서 가져오기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Импорт из буфера обмена"
           }
         },
         "zh-Hans" : {
@@ -1815,6 +2459,12 @@
             "value" : "Importer des fichiers SVG"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Importa file SVG"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1825,6 +2475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "SVG 파일 가져오기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Импорт файлов SVG"
           }
         },
         "zh-Hans" : {
@@ -1855,6 +2511,12 @@
             "value" : "Indices"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indici"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1865,6 +2527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "인덱스"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Индексы"
           }
         },
         "zh-Hans" : {
@@ -1895,6 +2563,12 @@
             "value" : "Clavier"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tastiera"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1907,6 +2581,12 @@
             "value" : "키보드"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клавиатура"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1917,6 +2597,110 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "鍵盤"
+          }
+        }
+      }
+    },
+    "Large" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Groß"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grande"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grande"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대형"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Большой"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大"
+          }
+        }
+      }
+    },
+    "Link values" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Werte verknüpfen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lier les valeurs"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collega valori"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "値をリンク"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "값 연결"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Связать значения"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "链接数值"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "連結數值"
           }
         }
       }
@@ -1935,6 +2719,12 @@
             "value" : "Fenêtre principale"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finestra principale"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1945,6 +2735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "메인 윈도우"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Главное окно"
           }
         },
         "zh-Hans" : {
@@ -1975,6 +2771,12 @@
             "value" : "Cartes"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mappe"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1987,6 +2789,12 @@
             "value" : "지도"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Карты"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1997,6 +2805,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "地圖"
+          }
+        }
+      }
+    },
+    "Margins" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ränder"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marges"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Margini"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "余白"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "여백"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поля"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "边距"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邊距"
           }
         }
       }
@@ -2015,6 +2875,12 @@
             "value" : "Mathématiques"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matematica"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2025,6 +2891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "수학"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Математика"
           }
         },
         "zh-Hans" : {
@@ -2055,6 +2927,12 @@
             "value" : "Médias"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2067,6 +2945,12 @@
             "value" : "미디어"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Медиа"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2077,6 +2961,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "媒體"
+          }
+        }
+      }
+    },
+    "Medium" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mittel"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moyenne"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medio"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중간"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Средний"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中"
           }
         }
       }
@@ -2095,6 +3031,12 @@
             "value" : "Nature"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Natura"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2105,6 +3047,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "자연"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Природа"
           }
         },
         "zh-Hans" : {
@@ -2135,6 +3083,12 @@
             "value" : "Nouveau symbole personnalisé"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuovo simbolo personalizzato"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2145,6 +3099,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "새 사용자 지정 심볼"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Новый пользовательский символ"
           }
         },
         "zh-Hans" : {
@@ -2175,6 +3135,12 @@
             "value" : "Objets et outils"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oggetti e strumenti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2185,6 +3151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "사물 및 도구"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Объекты и инструменты"
           }
         },
         "zh-Hans" : {
@@ -2215,6 +3187,12 @@
             "value" : "OK"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2225,6 +3203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "확인"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ОК"
           }
         },
         "zh-Hans" : {
@@ -2255,6 +3239,12 @@
             "value" : "Seules les icônes SVG sont prises en charge"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sono supportate solo icone SVG"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2265,6 +3255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "SVG 아이콘만 지원됩니다"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поддерживаются только значки SVG"
           }
         },
         "zh-Hans" : {
@@ -2295,6 +3291,12 @@
             "value" : "Ouvrir %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2307,6 +3309,12 @@
             "value" : "%@ 열기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2317,6 +3325,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "開啟 %@"
+          }
+        }
+      }
+    },
+    "Paths" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pfade"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tracés"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tracciati"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パス"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "경로"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Контуры"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "路径"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "路徑"
           }
         }
       }
@@ -2335,6 +3395,12 @@
             "value" : "Veuillez glisser-déposer vos fichiers d’icônes SVG ici"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trascina qui i file delle icone SVG"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2345,6 +3411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "여기로 SVG 아이콘 파일을 드래그 앤 드롭하세요"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перетащите сюда файлы значков SVG"
           }
         },
         "zh-Hans" : {
@@ -2375,6 +3447,12 @@
             "value" : "Veuillez coller la chaîne SVG de l’icône."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Incolla la stringa SVG dell'icona."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2385,6 +3463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "SVG 아이콘 문자열을 붙여넣으세요."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вставьте строку SVG-значка."
           }
         },
         "zh-Hans" : {
@@ -2415,6 +3499,12 @@
             "value" : "Confidentialité et sécurité"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy e sicurezza"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2425,6 +3515,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "개인정보 보호 및 보안"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Конфиденциальность и безопасность"
           }
         },
         "zh-Hans" : {
@@ -2455,6 +3551,12 @@
             "value" : "Quitter"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esci"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2467,6 +3569,12 @@
             "value" : "종료"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выход"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2481,82 +3589,54 @@
         }
       }
     },
-    "Restore" : {
+    "Reset" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wiederherstellen"
+            "value" : "Zurücksetzen"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restaurer"
+            "value" : "Réinitialiser"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reimposta"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "復元"
+            "value" : "リセット"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "복원"
+            "value" : "재설정"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сброс"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "恢复"
+            "value" : "重置"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "恢復"
-          }
-        }
-      }
-    },
-    "Restore Sponsor" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sponsoring wiederherstellen"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restaurer le sponsoring"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "スポンサー状態を復元"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "후원 복원"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "恢复捐赠"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "恢復贊助"
+            "value" : "重設"
           }
         }
       }
@@ -2575,6 +3655,12 @@
             "value" : "Rechercher SVG"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerca SVG"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2585,6 +3671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "SVG 검색"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поиск SVG"
           }
         },
         "zh-Hans" : {
@@ -2615,6 +3707,12 @@
             "value" : "Rechercher une icône SVG"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerca icona SVG"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2625,6 +3723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "SVG 아이콘 검색"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поиск SVG-значка"
           }
         },
         "zh-Hans" : {
@@ -2655,6 +3759,12 @@
             "value" : "Sélectionner un dossier"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona cartella"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2665,6 +3775,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "폴더 선택"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбрать папку"
           }
         },
         "zh-Hans" : {
@@ -2695,6 +3811,12 @@
             "value" : "Formes"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forme"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2705,6 +3827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "도형"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фигуры"
           }
         },
         "zh-Hans" : {
@@ -2721,82 +3849,106 @@
         }
       }
     },
-    "Sponsor" : {
+    "Show Path" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sponsern"
+            "value" : "Pfad anzeigen"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sponsor"
+            "value" : "Afficher le tracé"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra tracciato"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "スポンサー"
+            "value" : "パスを表示"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "후원"
+            "value" : "경로 표시"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показать контур"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "赞助"
+            "value" : "显示路径"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "贊助"
+            "value" : "顯示路徑"
           }
         }
       }
     },
-    "Sponsor Now" : {
+    "Small is always included. Enable Medium and Large to add the additional scale rows required by Apple’s custom symbol template." : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jetzt sponsern"
+            "value" : "Klein ist immer enthalten. Aktivieren Sie Mittel und Groß, um die zusätzlichen Skalierungszeilen hinzuzufügen, die von Apples Vorlage für benutzerdefinierte Symbole benötigt werden."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sponsoriser maintenant"
+            "value" : "La taille Petite est toujours incluse. Activez les tailles Moyenne et Grande pour ajouter les lignes d’échelle supplémentaires requises par le modèle de symbole personnalisé d’Apple."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La dimensione Piccola e sempre inclusa. Abilita Medio e Grande per aggiungere le righe di scala aggiuntive richieste dal modello di simbolo personalizzato di Apple."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "今すぐスポンサーになる"
+            "value" : "小は常に含まれます。Apple のカスタムシンボルテンプレートで必要な追加のスケール行を追加するには、中と大を有効にしてください。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "지금 후원하기"
+            "value" : "Small은 항상 포함됩니다. Apple의 사용자 지정 심볼 템플릿에 필요한 추가 스케일 행을 추가하려면 Medium과 Large를 활성화하세요."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Малый масштаб включен всегда. Включите Средний и Большой, чтобы добавить дополнительные строки масштаба, требуемые шаблоном пользовательских символов Apple."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "现在赞助"
+            "value" : "始终包含小尺寸。启用中尺寸和大尺寸，以添加 Apple 自定义符号模板所需的额外缩放行。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "立即贊助"
+            "value" : "一律包含 Small。啟用 Medium 和 Large 以加入 Apple 自訂符號範本所需的額外縮放列。"
           }
         }
       }
@@ -2815,6 +3967,12 @@
             "value" : "Icône d’aperçu dans la barre d’état"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icona di anteprima nella barra di stato"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2827,6 +3985,12 @@
             "value" : "상태 막대 미리보기 아이콘"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Значок предпросмотра в строке состояния"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2837,6 +4001,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "狀態列預覽圖示"
+          }
+        }
+      }
+    },
+    "Support adding 3+ icons" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unterstützung für das Hinzufügen von 3+ Symbolen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prend en charge l’ajout de 3 icônes ou plus"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supporta l'aggiunta di 3+ icone"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3個以上のアイコン追加に対応"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3개 이상의 아이콘 추가 지원"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поддержка добавления 3+ значков"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支持添加 3 个以上图标"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支援新增 3 個以上圖示"
           }
         }
       }
@@ -2855,6 +4071,12 @@
             "value" : "Symbol Icons 5.0"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbol Icons 5.0"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2862,6 +4084,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbol Icons 5.0"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Symbol Icons 5.0"
@@ -2881,6 +4109,58 @@
         }
       }
     },
+    "Symbol Scales" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbol-Skalierungen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échelles de symbole"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scale simbolo"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シンボルスケール"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "심볼 스케일"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Масштабы символа"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "符号缩放比例"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "符號縮放比例"
+          }
+        }
+      }
+    },
     "Text Formatting" : {
       "localizations" : {
         "de" : {
@@ -2895,6 +4175,12 @@
             "value" : "Mise en forme du texte"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Formattazione testo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2907,6 +4193,12 @@
             "value" : "텍스트 서식"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Форматирование текста"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2917,46 +4209,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "文字格式"
-          }
-        }
-      }
-    },
-    "Thank you for your sponsor" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vielen Dank für Ihre Unterstützung"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Merci pour votre soutien"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ご支援ありがとうございます"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "후원해 주셔서 감사합니다"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "感谢您的赞助"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "感謝您的贊助"
           }
         }
       }
@@ -2975,6 +4227,12 @@
             "value" : "Temps"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2985,6 +4243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시간"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Время"
           }
         },
         "zh-Hans" : {
@@ -3015,6 +4279,12 @@
             "value" : "Transport"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trasporti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3025,6 +4295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "교통"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Транспорт"
           }
         },
         "zh-Hans" : {
@@ -3041,42 +4317,106 @@
         }
       }
     },
-    "Users who have not donated can create 5 icons for free." : {
+    "Unlink values" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Benutzer, die nicht gespendet haben, können 5 Symbole kostenlos erstellen."
+            "value" : "Verknüpfung der Werte aufheben"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Les utilisateurs n’ayant pas fait de don peuvent créer gratuitement 5 icônes."
+            "value" : "Dissocier les valeurs"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scollega valori"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "寄付していないユーザーは、5 個のアイコンを無料で作成できます。"
+            "value" : "値のリンクを解除"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "기부하지 않은 사용자는 아이콘 5개를 무료로 만들 수 있습니다."
+            "value" : "값 연결 해제"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отвязать значения"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "没有捐赠的用户可以免费创建 5 个图标"
+            "value" : "取消链接数值"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未捐贈的使用者可免費建立 5 個圖示。"
+            "value" : "取消連結數值"
+          }
+        }
+      }
+    },
+    "Unlock all Features" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Funktionen freischalten"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Déverrouiller toutes les fonctionnalités"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sblocca tutte le funzionalita"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべての機能をアンロック"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 기능 잠금 해제"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разблокировать все функции"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解锁全部功能"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解鎖所有功能"
           }
         }
       }
@@ -3095,6 +4435,12 @@
             "value" : "Météo"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meteo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3105,6 +4451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "날씨"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Погода"
           }
         },
         "zh-Hans" : {
@@ -3135,6 +4487,12 @@
             "value" : "Votre symbole personnalisé à grande échelle, police 21 pt et graisse Heavy"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il tuo simbolo personalizzato in scala Grande, font 21 pt e peso Heavy"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3145,6 +4503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "큰 크기, 21pt 글꼴, Heavy 굵기의 사용자 지정 심볼"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваш пользовательский символ в большом масштабе, со шрифтом 21 пт и насыщенностью Heavy"
           }
         },
         "zh-Hans" : {
@@ -3175,6 +4539,12 @@
             "value" : "Votre symbole personnalisé à l’échelle moyenne, graisse Regular"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il tuo simbolo personalizzato in scala Media, peso Regular"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3187,6 +4557,12 @@
             "value" : "중간 크기, Regular 굵기의 사용자 지정 심볼"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваш пользовательский символ в среднем масштабе и с насыщенностью Regular"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3197,46 +4573,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "您的自訂符號，使用中等尺寸與 Regular 字重"
-          }
-        }
-      }
-    },
-    "Your sponsor is an encouragement to me." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ihre Unterstützung ist eine große Ermutigung für mich."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Votre soutien est un encouragement pour moi."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ご支援は私にとって大きな励みになります。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "여러분의 후원은 저에게 큰 힘이 됩니다."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "您的赞助是对我的一种鼓励。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "您的贊助是對我最大的鼓勵。"
           }
         }
       }
