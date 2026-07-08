@@ -209,58 +209,6 @@
         }
       }
     },
-    "After sponsoring once, all features will be accessible, and the donation button will no longer be displayed on the interface. However, you can support me again by donating through the 'Sponsor' menu. Thank you for your generosity." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nach einer einmaligen Unterstützung werden alle Funktionen freigeschaltet, und die Spenden-Schaltfläche wird nicht mehr in der Oberfläche angezeigt. Sie können mich jedoch jederzeit erneut über das Menü „Sponsor“ unterstützen. Vielen Dank für Ihre Großzügigkeit."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Après un premier soutien, toutes les fonctionnalités seront accessibles et le bouton de don ne sera plus affiché dans l’interface. Toutefois, vous pouvez me soutenir à nouveau en faisant un don via le menu « Sponsor ». Merci pour votre générosité."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dopo una sponsorizzazione, tutte le funzionalita saranno accessibili e il pulsante di donazione non verra piu mostrato nell'interfaccia. Tuttavia, puoi supportarmi di nuovo donando tramite il menu 'Sponsor'. Grazie per la tua generosita."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "一度スポンサーになると、すべての機能が利用可能になり、寄付ボタンはインターフェースに表示されなくなります。ただし、「Sponsor」メニューから再度寄付してご支援いただくことも可能です。ご厚意に感謝します。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "한 번 후원하시면 모든 기능을 이용할 수 있으며, 기부 버튼은 더 이상 인터페이스에 표시되지 않습니다. 하지만 'Sponsor' 메뉴를 통해 다시 기부하여 저를 후원하실 수 있습니다. 너그러운 지원에 감사드립니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "После единоразовой поддержки вам станут доступны все функции, а кнопка пожертвования больше не будет отображаться в интерфейсе. Однако вы можете снова поддержать меня через меню 'Sponsor'. Спасибо за вашу щедрость."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "赞助一次后，所有功能都可使用，界面上将不再显示捐赠按钮。但您可通过\"赞助\"菜单再次捐赠以支持我。感谢您的慷慨。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "贊助一次後，所有功能都將可用，介面上也不再顯示捐贈按鈕。不過，您仍可透過「贊助」選單再次捐贈來支持我。感謝您的慷慨支持。"
-          }
-        }
-      }
-    },
     "All" : {
       "localizations" : {
         "de" : {
@@ -1401,6 +1349,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "裝置"
+          }
+        }
+      }
+    },
+    "Donate once to unlock all features. The free version lets you create up to 3 icons; delete one to add another. The app is free forever. If you enjoy using it, please consider supporting its development." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spenden Sie einmal, um alle Funktionen freizuschalten. In der kostenlosen Version können Sie bis zu 3 Symbole erstellen; löschen Sie eines, um ein weiteres hinzuzufügen. Die App bleibt dauerhaft kostenlos. Wenn sie Ihnen gefällt, ziehen Sie bitte in Betracht, ihre Entwicklung zu unterstützen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faites un don une fois pour déverrouiller toutes les fonctionnalités. La version gratuite vous permet de créer jusqu’à 3 icônes ; supprimez-en une pour en ajouter une autre. L’app reste gratuite pour toujours. Si vous aimez l’utiliser, merci d’envisager de soutenir son développement."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dona una volta per sbloccare tutte le funzionalità. La versione gratuita ti consente di creare fino a 3 icone; eliminane una per aggiungerne un'altra. L'app è gratuita per sempre. Se ti piace usarla, valuta di supportarne lo sviluppo."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一度寄付すると、すべての機能がアンロックされます。無料版では最大3つまでアイコンを作成できます。別のアイコンを追加するには、1つ削除してください。アプリはずっと無料です。気に入っていただけたら、開発支援をご検討ください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "한 번 후원하면 모든 기능이 잠금 해제됩니다. 무료 버전에서는 최대 3개의 아이콘을 만들 수 있으며, 다른 아이콘을 추가하려면 하나를 삭제해야 합니다. 앱은 영구적으로 무료입니다. 마음에 드셨다면 개발을 후원해 주세요."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разблокируйте все функции, сделав пожертвование один раз. Бесплатная версия позволяет создать до 3 значков; удалите один, чтобы добавить другой. Приложение навсегда остается бесплатным. Если вам нравится им пользоваться, пожалуйста, рассмотрите возможность поддержать его разработку."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "赞助一次即可解锁全部功能。免费版最多可创建 3 个图标；删除一个后即可再添加一个。应用将永久免费。如果你喜欢使用它，请考虑支持它的开发。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "贊助一次即可解鎖所有功能。免費版最多可建立 3 個圖示；刪除一個後即可再新增一個。App 將永久免費。如果您喜歡使用它，請考慮支持它的開發。"
           }
         }
       }
@@ -4001,58 +4001,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "狀態列預覽圖示"
-          }
-        }
-      }
-    },
-    "Support adding 3+ icons" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unterstützung für das Hinzufügen von 3+ Symbolen"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prend en charge l’ajout de 3 icônes ou plus"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Supporta l'aggiunta di 3+ icone"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "3個以上のアイコン追加に対応"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "3개 이상의 아이콘 추가 지원"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Поддержка добавления 3+ значков"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "支持添加 3 个以上图标"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "支援新增 3 個以上圖示"
           }
         }
       }
