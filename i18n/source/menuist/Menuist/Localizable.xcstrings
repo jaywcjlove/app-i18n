@@ -2451,6 +2451,58 @@
         }
       }
     },
+    "Contents" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inhalt"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contenu"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contenuto"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "内容"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내용"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Содержимое"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "内容"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "內容"
+          }
+        }
+      }
+    },
     "Convert To" : {
       "localizations" : {
         "de" : {
@@ -3440,59 +3492,6 @@
         }
       }
     },
-    "Directly disable the %@ plugin through [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**]." : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deaktivieren Sie das %@-Plugin direkt über [**Systemeinstellungen**] -> [**Allgemein**] -> [**Anmeldeelemente und Erweiterungen**] -> [**Kurzübersicht**]."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Désactivez directement le plugin %@ via [**Préférences Système**] -> [**Général**] -> [**Éléments de connexion et extensions**] -> [**Aperçu rapide**]."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Disabilita direttamente il plugin %@ tramite [**Impostazioni di Sistema**] -> [**Generali**] -> [**Elementi login ed estensioni**] -> [**Quick Look**]."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "[**システム設定**] -> [**一般**] -> [**ログイン項目と機能拡張**] -> [**クイックルック**] から %@ プラグインを直接無効にします。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "[**시스템 환경설정**] -> [**일반**] -> [**로그인 항목 및 확장 프로그램**] -> [**훑어보기**]를 통해 %@ 플러그인을 직접 비활성화하세요."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Отключите плагин %@ напрямую через [**Системные настройки**] -> [**Общие**] -> [**Элементы входа и расширения**] -> [**Быстрый просмотр**]."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "通过 [**系统偏好设置**] -> [**通用**] -> [**登录项和扩展**] -> [**快速查看**] 直接禁用 %@ 插件。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "透過 [**系統偏好設定**] -> [**通用**] -> [**登入項和擴充套件**] -> [**快速檢視**] 直接禁用 %@ 外掛。"
-          }
-        }
-      }
-    },
     "Disable" : {
       "localizations" : {
         "de" : {
@@ -3961,6 +3960,58 @@
         }
       }
     },
+    "Eject" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auswerfen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Éjecter"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Espelli"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取り出す"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "추출"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Извлечь"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推出"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出"
+          }
+        }
+      }
+    },
     "Enable" : {
       "localizations" : {
         "de" : {
@@ -4113,112 +4164,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "啟用並新增常用應用，支援各類編輯器和命令列工具快速開啟當前目錄，提升操作效率。"
-          }
-        }
-      }
-    },
-    "Enable App Preview" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "App-Vorschau aktivieren"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activer l'aperçu de l'app"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abilita anteprima app"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "アプリプレビューを有効にする"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "앱 미리보기 활성화"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Включить предпросмотр приложений"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "启用应用预览"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "啟用應用預覽"
-          }
-        }
-      }
-    },
-    "Enable Code Highlighting" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Code-Hervorhebung aktivieren"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activer la coloration syntaxique"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abilita evidenziazione codice"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "コードハイライトを有効にする"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "코드 하이라이팅 활성화"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Включить подсветку кода"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "启用代码高亮"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "啟用程式碼高亮"
           }
         }
       }
@@ -4483,59 +4428,6 @@
         }
       }
     },
-    "Enable QuickLook" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktivieren Sie QuickLook"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activer QuickLook"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abilita Visualizzazione rapida"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "クイックルックを有効にする"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "QuickLook 활성화"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Включить быстрый просмотр"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "启用快速预览"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "啟用快速預覽"
-          }
-        }
-      }
-    },
     "Enable right-click menu" : {
       "localizations" : {
         "de" : {
@@ -4584,59 +4476,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "啟用右鍵選單"
-          }
-        }
-      }
-    },
-    "Enable/Disable Quick Look in System Preferences" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktivieren/deaktivieren Sie die Schnellansicht in den Systemeinstellungen"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activer/Désactiver l'aperçu rapide dans les préférences système"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abilita/Disabilita Visualizzazione rapida nelle Impostazioni di Sistema"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "システム環境設定でクイックルックを有効/無効にする"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "시스템 환경설정에서 Quick Look 활성화/비활성화"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Включить/отключить быстрый просмотр в системных настройках"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "在系统偏好设置中启用/禁用快速预览"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "在系統偏好設定中啟用/禁用快速預覽"
           }
         }
       }
@@ -10680,6 +10519,58 @@
         }
       }
     },
+    "Show external drives in menu bar" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Externe Laufwerke in der Menüleiste anzeigen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher les disques externes dans la barre de menus"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra unità esterne nella barra dei menu"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メニューバーに外付けドライブを表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메뉴 막대에 외장 드라이브 표시"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показывать внешние диски в строке меню"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在菜单栏显示外部磁盘"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在選單列顯示外部磁碟"
+          }
+        }
+      }
+    },
     "Show files in folder" : {
       "localizations" : {
         "de" : {
@@ -11827,6 +11718,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在訪達中可見"
+          }
+        }
+      }
+    },
+    "When enabled, inserted USB drives and external hard disks appear automatically in the status bar menu." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn aktiviert, erscheinen eingesteckte USB-Sticks und externe Festplatten automatisch im Menü der Statusleiste."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lorsque cette option est activée, les clés USB et disques durs externes insérés apparaissent automatiquement dans le menu de la barre d'état."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se abilitato, le unità USB e i dischi rigidi esterni inseriti compaiono automaticamente nel menu della barra di stato."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "有効にすると、挿入した USB メモリや外付けハードディスクがステータスバーメニューに自動表示されます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "활성화하면 삽입한 USB 드라이브와 외장 하드 디스크가 상태 표시줄 메뉴에 자동으로 표시됩니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если включено, подключённые USB-накопители и внешние жёсткие диски автоматически появляются в меню строки состояния."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用后，插入的 U 盘和外部硬盘会自动出现在状态栏菜单中。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用後，插入的 USB 隨身碟與外部硬碟會自動出現在狀態列選單中。"
           }
         }
       }

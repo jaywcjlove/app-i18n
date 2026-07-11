@@ -76,6 +76,8 @@
 
 "Contact" = "Контакт";
 
+"Contents" = "Содержимое";
+
 "Convert To" = "Конвертировать в";
 
 "Copy Command" = "Копировать команду";
@@ -115,8 +117,6 @@
 
 "Delete Template" = "Удалить шаблон";
 
-"Directly disable the %@ plugin through [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**]." = "Отключите плагин %@ напрямую через [**Системные настройки**] -> [**Общие**] -> [**Элементы входа и расширения**] -> [**Быстрый просмотр**].";
-
 "Disable" = "Запрещать";
 
 "Disable Theme" = "Отключить тему";
@@ -135,13 +135,11 @@
 
 "Edit" = "Редактировать";
 
+"Eject" = "Извлечь";
+
 "Enable" = "Давать возможность";
 
 "Enable %@ and permissions." = "Включите %@ и разрешения.";
-
-"Enable App Preview" = "Включить предпросмотр приложений";
-
-"Enable Code Highlighting" = "Включить подсветку кода";
 
 "Enable Common App" = "Включить общее приложение";
 
@@ -151,15 +149,11 @@
 
 "Enable Folder Context Menu" = "Включить контекстное меню папки";
 
-"Enable QuickLook" = "Включить быстрый просмотр";
-
 "Enable and add common applications to support various editors and command-line tools for quickly opening the current directory, enhancing operational efficiency." = "Включите и добавьте общие приложения для поддержки различных редакторов и инструментов командной строки для быстрого открытия текущего каталога, повышая эффективность работы.";
 
 "Enable folder color settings, allowing quick adjustments to folder icon color via the right-click menu." = "Включите настройки цвета папки, что позволит быстро настраивать цвет значка папки с помощью контекстного меню.";
 
 "Enable right-click menu" = "Включить контекстное меню";
-
-"Enable/Disable Quick Look in System Preferences" = "Включить/отключить быстрый просмотр в системных настройках";
 
 "Enabled" = "Включено";
 
@@ -396,6 +390,8 @@
 
 "Show Total Size" = "Показать общий размер";
 
+"Show external drives in menu bar" = "Показывать внешние диски в строке меню";
+
 "Show files in folder" = "Показать файлы в папке";
 
 "Show folder icon" = "Показать значок папки";
@@ -438,6 +434,8 @@
 "View QR code" = "Посмотреть QR-код";
 
 "Visible in Finder" = "Видно в Finder";
+
+"When enabled, inserted USB drives and external hard disks appear automatically in the status bar menu." = "Если включено, подключённые USB-накопители и внешние жёсткие диски автоматически появляются в меню строки состояния.";
 
 "Whether to display the create file menu in the top-level menu" = "Отображать ли меню создания файла в меню верхнего уровня";
 

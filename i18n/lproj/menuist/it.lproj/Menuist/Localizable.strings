@@ -76,6 +76,8 @@
 
 "Contact" = "Contatti";
 
+"Contents" = "Contenuto";
+
 "Convert To" = "Converti in";
 
 "Copy Command" = "Copia comando";
@@ -115,8 +117,6 @@
 
 "Delete Template" = "Elimina modello";
 
-"Directly disable the %@ plugin through [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**]." = "Disabilita direttamente il plugin %@ tramite [**Impostazioni di Sistema**] -> [**Generali**] -> [**Elementi login ed estensioni**] -> [**Quick Look**].";
-
 "Disable" = "Disabilita";
 
 "Disable Theme" = "Disabilita tema";
@@ -135,13 +135,11 @@
 
 "Edit" = "Modifica";
 
+"Eject" = "Espelli";
+
 "Enable" = "Abilita";
 
 "Enable %@ and permissions." = "Abilita %@ e le relative autorizzazioni.";
-
-"Enable App Preview" = "Abilita anteprima app";
-
-"Enable Code Highlighting" = "Abilita evidenziazione codice";
 
 "Enable Common App" = "Abilita app frequente";
 
@@ -151,15 +149,11 @@
 
 "Enable Folder Context Menu" = "Abilita menu contestuale per le cartelle";
 
-"Enable QuickLook" = "Abilita Visualizzazione rapida";
-
 "Enable and add common applications to support various editors and command-line tools for quickly opening the current directory, enhancing operational efficiency." = "Abilita e aggiungi applicazioni frequenti per supportare editor e strumenti da riga di comando, consentendo l'apertura rapida della directory corrente e una maggiore efficienza operativa.";
 
 "Enable folder color settings, allowing quick adjustments to folder icon color via the right-click menu." = "Abilita le impostazioni del colore delle cartelle, consentendo modifiche rapide al colore dell'icona tramite il menu contestuale.";
 
 "Enable right-click menu" = "Abilita menu contestuale";
-
-"Enable/Disable Quick Look in System Preferences" = "Abilita/Disabilita Visualizzazione rapida nelle Impostazioni di Sistema";
 
 "Enabled" = "Abilitato";
 
@@ -396,6 +390,8 @@
 
 "Show Total Size" = "Mostra dimensione totale";
 
+"Show external drives in menu bar" = "Mostra unità esterne nella barra dei menu";
+
 "Show files in folder" = "Mostra file nella cartella";
 
 "Show folder icon" = "Mostra icona cartella";
@@ -438,6 +434,8 @@
 "View QR code" = "Visualizza codice QR";
 
 "Visible in Finder" = "Visibile nel Finder";
+
+"When enabled, inserted USB drives and external hard disks appear automatically in the status bar menu." = "Se abilitato, le unità USB e i dischi rigidi esterni inseriti compaiono automaticamente nel menu della barra di stato.";
 
 "Whether to display the create file menu in the top-level menu" = "Visualizzare il menu Nuovo file nel menu di primo livello";
 

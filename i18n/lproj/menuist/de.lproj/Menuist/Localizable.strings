@@ -76,6 +76,8 @@
 
 "Contact" = "Kontakt";
 
+"Contents" = "Inhalt";
+
 "Convert To" = "Konvertieren in";
 
 "Copy Command" = "Befehl kopieren";
@@ -115,8 +117,6 @@
 
 "Delete Template" = "Vorlage löschen";
 
-"Directly disable the %@ plugin through [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**]." = "Deaktivieren Sie das %@-Plugin direkt über [**Systemeinstellungen**] -> [**Allgemein**] -> [**Anmeldeelemente und Erweiterungen**] -> [**Kurzübersicht**].";
-
 "Disable" = "Deaktivieren";
 
 "Disable Theme" = "Theme deaktivieren";
@@ -135,13 +135,11 @@
 
 "Edit" = "Bearbeiten";
 
+"Eject" = "Auswerfen";
+
 "Enable" = "Aktivieren";
 
 "Enable %@ and permissions." = "Aktivieren Sie %@ und Berechtigungen.";
-
-"Enable App Preview" = "App-Vorschau aktivieren";
-
-"Enable Code Highlighting" = "Code-Hervorhebung aktivieren";
 
 "Enable Common App" = "Aktivieren Sie die gemeinsame App";
 
@@ -151,15 +149,11 @@
 
 "Enable Folder Context Menu" = "Aktivieren Sie das Ordnerkontextmenü";
 
-"Enable QuickLook" = "Aktivieren Sie QuickLook";
-
 "Enable and add common applications to support various editors and command-line tools for quickly opening the current directory, enhancing operational efficiency." = "Aktivieren und fügen Sie gängige Anwendungen hinzu, um verschiedene Editoren und Befehlszeilentools zum schnellen Öffnen des aktuellen Verzeichnisses zu unterstützen und so die betriebliche Effizienz zu steigern.";
 
 "Enable folder color settings, allowing quick adjustments to folder icon color via the right-click menu." = "Aktivieren Sie die Ordnerfarbeinstellungen und ermöglichen Sie schnelle Anpassungen der Ordnersymbolfarbe über das Rechtsklick-Menü.";
 
 "Enable right-click menu" = "Aktivieren Sie das Rechtsklick-Menü";
-
-"Enable/Disable Quick Look in System Preferences" = "Aktivieren/deaktivieren Sie die Schnellansicht in den Systemeinstellungen";
 
 "Enabled" = "Aktiviert";
 
@@ -396,6 +390,8 @@
 
 "Show Total Size" = "Gesamtgröße anzeigen";
 
+"Show external drives in menu bar" = "Externe Laufwerke in der Menüleiste anzeigen";
+
 "Show files in folder" = "Dateien im Ordner anzeigen";
 
 "Show folder icon" = "Ordnersymbol anzeigen";
@@ -438,6 +434,8 @@
 "View QR code" = "QR-Code anzeigen";
 
 "Visible in Finder" = "Im Finder sichtbar";
+
+"When enabled, inserted USB drives and external hard disks appear automatically in the status bar menu." = "Wenn aktiviert, erscheinen eingesteckte USB-Sticks und externe Festplatten automatisch im Menü der Statusleiste.";
 
 "Whether to display the create file menu in the top-level menu" = "Ob das Menü „Datei erstellen“ im Menü der obersten Ebene angezeigt werden soll";
 

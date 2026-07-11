@@ -76,6 +76,8 @@
 
 "Contact" = "お問い合わせ";
 
+"Contents" = "内容";
+
 "Convert To" = "変換先";
 
 "Copy Command" = "コマンドをコピー";
@@ -115,8 +117,6 @@
 
 "Delete Template" = "テンプレートの削除";
 
-"Directly disable the %@ plugin through [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**]." = "[**システム設定**] -> [**一般**] -> [**ログイン項目と機能拡張**] -> [**クイックルック**] から %@ プラグインを直接無効にします。";
-
 "Disable" = "無効にする";
 
 "Disable Theme" = "テーマを無効にする";
@@ -135,13 +135,11 @@
 
 "Edit" = "編集";
 
+"Eject" = "取り出す";
+
 "Enable" = "有効にする";
 
 "Enable %@ and permissions." = "%@ と権限を有効にします。";
-
-"Enable App Preview" = "アプリプレビューを有効にする";
-
-"Enable Code Highlighting" = "コードハイライトを有効にする";
 
 "Enable Common App" = "共通アプリを有効にする";
 
@@ -151,15 +149,11 @@
 
 "Enable Folder Context Menu" = "フォルダーのコンテキストメニューを有効にする";
 
-"Enable QuickLook" = "クイックルックを有効にする";
-
 "Enable and add common applications to support various editors and command-line tools for quickly opening the current directory, enhancing operational efficiency." = "共通アプリケーションを有効にして追加すると、さまざまなエディターやコマンド ライン ツールをサポートし、現在のディレクトリをすばやく開くことができ、操作効率が向上します。";
 
 "Enable folder color settings, allowing quick adjustments to folder icon color via the right-click menu." = "フォルダーの色の設定を有効にし、右クリック メニューからフォルダー アイコンの色をすばやく調整できるようにします。";
 
 "Enable right-click menu" = "右クリックメニューを有効にする";
-
-"Enable/Disable Quick Look in System Preferences" = "システム環境設定でクイックルックを有効/無効にする";
 
 "Enabled" = "有効";
 
@@ -396,6 +390,8 @@
 
 "Show Total Size" = "合計サイズを表示";
 
+"Show external drives in menu bar" = "メニューバーに外付けドライブを表示";
+
 "Show files in folder" = "フォルダー内のファイルを表示する";
 
 "Show folder icon" = "フォルダーアイコンを表示";
@@ -438,6 +434,8 @@
 "View QR code" = "QRコードを表示";
 
 "Visible in Finder" = "Finder に表示";
+
+"When enabled, inserted USB drives and external hard disks appear automatically in the status bar menu." = "有効にすると、挿入した USB メモリや外付けハードディスクがステータスバーメニューに自動表示されます。";
 
 "Whether to display the create file menu in the top-level menu" = "ファイル作成メニューをトップレベルメニューに表示するかどうか";
 

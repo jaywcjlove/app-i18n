@@ -76,6 +76,8 @@
 
 "Contact" = "聯絡";
 
+"Contents" = "內容";
+
 "Convert To" = "轉換為";
 
 "Copy Command" = "複製命令";
@@ -115,8 +117,6 @@
 
 "Delete Template" = "刪除模板";
 
-"Directly disable the %@ plugin through [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**]." = "透過 [**系統偏好設定**] -> [**通用**] -> [**登入項和擴充套件**] -> [**快速檢視**] 直接禁用 %@ 外掛。";
-
 "Disable" = "禁用";
 
 "Disable Theme" = "禁用主題";
@@ -135,13 +135,11 @@
 
 "Edit" = "編輯";
 
+"Eject" = "退出";
+
 "Enable" = "啟用";
 
 "Enable %@ and permissions." = "啟用 %@ 和許可權";
-
-"Enable App Preview" = "啟用應用預覽";
-
-"Enable Code Highlighting" = "啟用程式碼高亮";
 
 "Enable Common App" = "啟用常用應用";
 
@@ -151,15 +149,11 @@
 
 "Enable Folder Context Menu" = "啟用資料夾上下文選單";
 
-"Enable QuickLook" = "啟用快速預覽";
-
 "Enable and add common applications to support various editors and command-line tools for quickly opening the current directory, enhancing operational efficiency." = "啟用並新增常用應用，支援各類編輯器和命令列工具快速開啟當前目錄，提升操作效率。";
 
 "Enable folder color settings, allowing quick adjustments to folder icon color via the right-click menu." = "啟用資料夾顏色設定，從右鍵選單快速調整資料夾圖示顏色。";
 
 "Enable right-click menu" = "啟用右鍵選單";
-
-"Enable/Disable Quick Look in System Preferences" = "在系統偏好設定中啟用/禁用快速預覽";
 
 "Enabled" = "已啟用";
 
@@ -396,6 +390,8 @@
 
 "Show Total Size" = "顯示總大小";
 
+"Show external drives in menu bar" = "在選單列顯示外部磁碟";
+
 "Show files in folder" = "資料夾中顯示檔案";
 
 "Show folder icon" = "顯示資料夾圖示";
@@ -438,6 +434,8 @@
 "View QR code" = "檢視二維碼";
 
 "Visible in Finder" = "在訪達中可見";
+
+"When enabled, inserted USB drives and external hard disks appear automatically in the status bar menu." = "啟用後，插入的 USB 隨身碟與外部硬碟會自動出現在狀態列選單中。";
 
 "Whether to display the create file menu in the top-level menu" = "是否在頂層選單中顯示建立檔案選單";
 

@@ -76,6 +76,8 @@
 
 "Contact" = "Contact";
 
+"Contents" = "Contents";
+
 "Convert To" = "Convert To";
 
 "Copy Command" = "Copy Command";
@@ -115,8 +117,6 @@
 
 "Delete Template" = "Delete Template";
 
-"Directly disable the %@ plugin through [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**]." = "Directly disable the %@ plugin through [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**].";
-
 "Disable" = "Disable";
 
 "Disable Theme" = "Disable Theme";
@@ -135,13 +135,11 @@
 
 "Edit" = "Edit";
 
+"Eject" = "Eject";
+
 "Enable" = "Enable";
 
 "Enable %@ and permissions." = "Enable %@ and permissions.";
-
-"Enable App Preview" = "Enable App Preview";
-
-"Enable Code Highlighting" = "Enable Code Highlighting";
 
 "Enable Common App" = "Enable Common App";
 
@@ -151,15 +149,11 @@
 
 "Enable Folder Context Menu" = "Enable Folder Context Menu";
 
-"Enable QuickLook" = "Enable QuickLook";
-
 "Enable and add common applications to support various editors and command-line tools for quickly opening the current directory, enhancing operational efficiency." = "Enable and add common applications to support various editors and command-line tools for quickly opening the current directory, enhancing operational efficiency.";
 
 "Enable folder color settings, allowing quick adjustments to folder icon color via the right-click menu." = "Enable folder color settings, allowing quick adjustments to folder icon color via the right-click menu.";
 
 "Enable right-click menu" = "Enable right-click menu";
-
-"Enable/Disable Quick Look in System Preferences" = "Enable/Disable Quick Look in System Preferences";
 
 "Enabled" = "Enabled";
 
@@ -396,6 +390,8 @@
 
 "Show Total Size" = "Show Total Size";
 
+"Show external drives in menu bar" = "Show external drives in menu bar";
+
 "Show files in folder" = "Show files in folder";
 
 "Show folder icon" = "Show folder icon";
@@ -438,6 +434,8 @@
 "View QR code" = "View QR code";
 
 "Visible in Finder" = "Visible in Finder";
+
+"When enabled, inserted USB drives and external hard disks appear automatically in the status bar menu." = "When enabled, inserted USB drives and external hard disks appear automatically in the status bar menu.";
 
 "Whether to display the create file menu in the top-level menu" = "Whether to display the create file menu in the top-level menu";
 

@@ -76,6 +76,8 @@
 
 "Contact" = "문의";
 
+"Contents" = "내용";
+
 "Convert To" = "다음으로 변환";
 
 "Copy Command" = "복사 명령";
@@ -115,8 +117,6 @@
 
 "Delete Template" = "템플릿 삭제";
 
-"Directly disable the %@ plugin through [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**]." = "[**시스템 환경설정**] -> [**일반**] -> [**로그인 항목 및 확장 프로그램**] -> [**훑어보기**]를 통해 %@ 플러그인을 직접 비활성화하세요.";
-
 "Disable" = "비활성화";
 
 "Disable Theme" = "테마 비활성화";
@@ -135,13 +135,11 @@
 
 "Edit" = "편집하다";
 
+"Eject" = "추출";
+
 "Enable" = "활성화";
 
 "Enable %@ and permissions." = "%@ 및 권한을 활성화합니다.";
-
-"Enable App Preview" = "앱 미리보기 활성화";
-
-"Enable Code Highlighting" = "코드 하이라이팅 활성화";
 
 "Enable Common App" = "공통 앱 활성화";
 
@@ -151,15 +149,11 @@
 
 "Enable Folder Context Menu" = "폴더 컨텍스트 메뉴 활성화";
 
-"Enable QuickLook" = "QuickLook 활성화";
-
 "Enable and add common applications to support various editors and command-line tools for quickly opening the current directory, enhancing operational efficiency." = "현재 디렉토리를 빠르게 열 수 있도록 다양한 편집기와 명령줄 도구를 지원하는 공통 애플리케이션을 활성화하고 추가하여 운영 효율성을 향상시킵니다.";
 
 "Enable folder color settings, allowing quick adjustments to folder icon color via the right-click menu." = "폴더 색상 설정을 활성화하면 마우스 오른쪽 버튼 클릭 메뉴를 통해 폴더 아이콘 색상을 빠르게 조정할 수 있습니다.";
 
 "Enable right-click menu" = "마우스 오른쪽 버튼 클릭 메뉴 활성화";
-
-"Enable/Disable Quick Look in System Preferences" = "시스템 환경설정에서 Quick Look 활성화/비활성화";
 
 "Enabled" = "활성화됨";
 
@@ -396,6 +390,8 @@
 
 "Show Total Size" = "전체 크기 표시";
 
+"Show external drives in menu bar" = "메뉴 막대에 외장 드라이브 표시";
+
 "Show files in folder" = "폴더의 파일 표시";
 
 "Show folder icon" = "폴더 아이콘 표시";
@@ -438,6 +434,8 @@
 "View QR code" = "QR 코드 보기";
 
 "Visible in Finder" = "Finder에 표시";
+
+"When enabled, inserted USB drives and external hard disks appear automatically in the status bar menu." = "활성화하면 삽입한 USB 드라이브와 외장 하드 디스크가 상태 표시줄 메뉴에 자동으로 표시됩니다.";
 
 "Whether to display the create file menu in the top-level menu" = "최상위 메뉴에 파일 생성 메뉴 표시 여부";
 
