@@ -16,6 +16,8 @@
 
 "%@ Light Mode" = "%@ 亮模式";
 
+"%@ ago" = "%@ 之前";
+
 "AM/PM marker" = "上午/下午标记";
 
 "Abbreviated month name" = "月份缩写";
@@ -107,8 +109,6 @@
 
 "Four-digit year" = "四位数年份";
 
-"Fri" = "五";
-
 "Full month name" = "月份全称";
 
 "Full time zone name" = "时区全称";
@@ -129,9 +129,13 @@
 
 "Hide settings on launch" = "启动不显示设置界面";
 
+"High" = "高的";
+
 "Hourly" = "每小时";
 
 "Language" = "语言";
+
+"Large" = "大";
 
 "Launch At Startup" = "开机启动";
 
@@ -140,17 +144,19 @@
 
 "List" = "列表";
 
+"Low" = "低的";
+
 "Main Window" = "主窗口";
 
 "Mark as Completed" = "标记为已完成";
 
 "Mark as Not Completed" = "标记为未完成";
 
+"Medium" = "中等";
+
 "Menu Bar" = "菜单栏";
 
 "Menu bar settings" = "菜单栏设置";
-
-"Mon" = "一";
 
 "Month" = "月";
 
@@ -165,6 +171,10 @@
 "New update available!" = "有新更新可用！";
 
 "Next Week" = "下周";
+
+"No events" = "没有事件";
+
+"None" = "无";
 
 "Notes" = "笔记";
 
@@ -192,6 +202,8 @@
 
 "Open in Reminders" = "在提醒事项中打开";
 
+"Others" = "其它";
+
 "Pick a Date & Time" = "选择日期和时间";
 
 "Priority" = "优先级";
@@ -214,8 +226,6 @@
 
 "Repeat" = "重复";
 
-"Sat" = "六";
-
 "Save" = "保存";
 
 "Settings..." = "设置…";
@@ -232,11 +242,11 @@
 
 "Single character weekday" = "单字符星期";
 
+"Small" = "小";
+
 "Social Accounts" = "社交账号";
 
 "Suggestions" = "建议";
-
-"Sun" = "日";
 
 /* System */
 "System" = "系统";
@@ -244,8 +254,6 @@
 "Terms of Service" = "服务条款";
 
 "This Month’s Events" = "本月日期事件";
-
-"Thu" = "四";
 
 "Time zone abbreviation" = "时区缩写";
 
@@ -258,8 +266,6 @@
 "Tomorrow" = "明天";
 
 "Tomorrow, %@" = "明天, %@";
-
-"Tue" = "二";
 
 "Two-digit day" = "两位数日期";
 
@@ -290,8 +296,6 @@
 "Version %@ (%@)" = "版本 %1$@ (%2$@)";
 
 "Version History" = "版本历史";
-
-"Wed" = "三";
 
 "Week" = "星期";
 

@@ -16,6 +16,8 @@
 
 "%@ Light Mode" = "%@ 라이트 모드";
 
+"%@ ago" = "%@ 전";
+
 "AM/PM marker" = "오전/오후 표시";
 
 "Abbreviated month name" = "축약 월 이름";
@@ -107,8 +109,6 @@
 
 "Four-digit year" = "4자리 연도";
 
-"Fri" = "금";
-
 "Full month name" = "전체 월 이름";
 
 "Full time zone name" = "전체 시간대 이름";
@@ -129,9 +129,13 @@
 
 "Hide settings on launch" = "실행 시 설정 숨기기";
 
+"High" = "높음";
+
 "Hourly" = "매시간";
 
 "Language" = "언어";
+
+"Large" = "큼";
 
 "Launch At Startup" = "시동 시 실행";
 
@@ -140,17 +144,19 @@
 
 "List" = "목록";
 
+"Low" = "낮음";
+
 "Main Window" = "메인 창";
 
 "Mark as Completed" = "완료로 표시";
 
 "Mark as Not Completed" = "미완료로 표시";
 
+"Medium" = "중간";
+
 "Menu Bar" = "메뉴 막대";
 
 "Menu bar settings" = "메뉴 막대 설정";
-
-"Mon" = "월";
 
 "Month" = "월";
 
@@ -165,6 +171,10 @@
 "New update available!" = "새 업데이트가 있습니다!";
 
 "Next Week" = "다음 주";
+
+"No events" = "이벤트 없음";
+
+"None" = "없음";
 
 "Notes" = "메모";
 
@@ -192,6 +202,8 @@
 
 "Open in Reminders" = "미리 알림에서 열기";
 
+"Others" = "기타";
+
 "Pick a Date & Time" = "날짜 및 시간 선택";
 
 "Priority" = "우선순위";
@@ -214,8 +226,6 @@
 
 "Repeat" = "반복";
 
-"Sat" = "토";
-
 "Save" = "저장";
 
 "Settings..." = "설정...";
@@ -232,11 +242,11 @@
 
 "Single character weekday" = "요일 한 글자";
 
+"Small" = "작음";
+
 "Social Accounts" = "소셜 계정";
 
 "Suggestions" = "제안";
-
-"Sun" = "일";
 
 /* System */
 "System" = "시스템";
@@ -244,8 +254,6 @@
 "Terms of Service" = "서비스 약관";
 
 "This Month’s Events" = "이번 달 이벤트";
-
-"Thu" = "목";
 
 "Time zone abbreviation" = "시간대 약어";
 
@@ -258,8 +266,6 @@
 "Tomorrow" = "내일";
 
 "Tomorrow, %@" = "내일, %@";
-
-"Tue" = "화";
 
 "Two-digit day" = "2자리 일";
 
@@ -290,8 +296,6 @@
 "Version %@ (%@)" = "버전 %1$@ (%2$@)";
 
 "Version History" = "버전 기록";
-
-"Wed" = "수";
 
 "Week" = "주";
 

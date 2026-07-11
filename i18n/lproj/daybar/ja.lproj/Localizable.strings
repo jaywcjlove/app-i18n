@@ -16,6 +16,8 @@
 
 "%@ Light Mode" = "%@ ライトモード";
 
+"%@ ago" = "%@前";
+
 "AM/PM marker" = "午前/午後マーカー";
 
 "Abbreviated month name" = "月名（略）";
@@ -107,8 +109,6 @@
 
 "Four-digit year" = "4桁の年";
 
-"Fri" = "金";
-
 "Full month name" = "月名（完全）";
 
 "Full time zone name" = "タイムゾーン名（完全）";
@@ -129,9 +129,13 @@
 
 "Hide settings on launch" = "起動時に設定を表示しない";
 
+"High" = "高";
+
 "Hourly" = "毎時";
 
 "Language" = "言語";
+
+"Large" = "大";
 
 "Launch At Startup" = "ログイン時に起動";
 
@@ -140,17 +144,19 @@
 
 "List" = "リスト";
 
+"Low" = "低";
+
 "Main Window" = "メインウィンドウ";
 
 "Mark as Completed" = "完了にする";
 
 "Mark as Not Completed" = "未完了にする";
 
+"Medium" = "中";
+
 "Menu Bar" = "メニューバー";
 
 "Menu bar settings" = "メニューバー設定";
-
-"Mon" = "月";
 
 "Month" = "月";
 
@@ -165,6 +171,10 @@
 "New update available!" = "新しいアップデートがあります！";
 
 "Next Week" = "来週";
+
+"No events" = "イベントなし";
+
+"None" = "なし";
 
 "Notes" = "メモ";
 
@@ -192,6 +202,8 @@
 
 "Open in Reminders" = "リマインダーで開く";
 
+"Others" = "その他";
+
 "Pick a Date & Time" = "日時を選択";
 
 "Priority" = "優先度";
@@ -214,8 +226,6 @@
 
 "Repeat" = "繰り返し";
 
-"Sat" = "土";
-
 "Save" = "保存";
 
 "Settings..." = "設定...";
@@ -232,11 +242,11 @@
 
 "Single character weekday" = "曜日（1文字）";
 
+"Small" = "小";
+
 "Social Accounts" = "SNS アカウント";
 
 "Suggestions" = "提案";
-
-"Sun" = "日";
 
 /* System */
 "System" = "システム";
@@ -244,8 +254,6 @@
 "Terms of Service" = "利用規約";
 
 "This Month’s Events" = "今月のイベント";
-
-"Thu" = "木";
 
 "Time zone abbreviation" = "タイムゾーン略称";
 
@@ -258,8 +266,6 @@
 "Tomorrow" = "明日";
 
 "Tomorrow, %@" = "明日, %@";
-
-"Tue" = "火";
 
 "Two-digit day" = "2桁の日";
 
@@ -290,8 +296,6 @@
 "Version %@ (%@)" = "バージョン %1$@ (%2$@)";
 
 "Version History" = "バージョン履歴";
-
-"Wed" = "水";
 
 "Week" = "週";
 

@@ -16,6 +16,8 @@
 
 "%@ Light Mode" = "%@ Light Mode";
 
+"%@ ago" = "%@ ago";
+
 "AM/PM marker" = "AM/PM marker";
 
 "Abbreviated month name" = "Abbreviated month name";
@@ -107,8 +109,6 @@
 
 "Four-digit year" = "Four-digit year";
 
-"Fri" = "Fri";
-
 "Full month name" = "Full month name";
 
 "Full time zone name" = "Full time zone name";
@@ -129,9 +129,13 @@
 
 "Hide settings on launch" = "Hide settings on launch";
 
+"High" = "High";
+
 "Hourly" = "Hourly";
 
 "Language" = "Language";
+
+"Large" = "Large";
 
 "Launch At Startup" = "Launch At Startup";
 
@@ -140,17 +144,19 @@
 
 "List" = "List";
 
+"Low" = "Low";
+
 "Main Window" = "Main Window";
 
 "Mark as Completed" = "Mark as Completed";
 
 "Mark as Not Completed" = "Mark as Not Completed";
 
+"Medium" = "Medium";
+
 "Menu Bar" = "Menu Bar";
 
 "Menu bar settings" = "Menu bar settings";
-
-"Mon" = "Mon";
 
 "Month" = "Month";
 
@@ -165,6 +171,10 @@
 "New update available!" = "New update available!";
 
 "Next Week" = "Next Week";
+
+"No events" = "No events";
+
+"None" = "None";
 
 "Notes" = "Notes";
 
@@ -192,6 +202,8 @@
 
 "Open in Reminders" = "Open in Reminders";
 
+"Others" = "Others";
+
 "Pick a Date & Time" = "Pick a Date & Time";
 
 "Priority" = "Priority";
@@ -214,8 +226,6 @@
 
 "Repeat" = "Repeat";
 
-"Sat" = "Sat";
-
 "Save" = "Save";
 
 "Settings..." = "Settings...";
@@ -232,11 +242,11 @@
 
 "Single character weekday" = "Single character weekday";
 
+"Small" = "Small";
+
 "Social Accounts" = "Social Accounts";
 
 "Suggestions" = "Suggestions";
-
-"Sun" = "Sun";
 
 /* System */
 "System" = "System";
@@ -244,8 +254,6 @@
 "Terms of Service" = "Terms of Service";
 
 "This Month’s Events" = "This Month’s Events";
-
-"Thu" = "Thu";
 
 "Time zone abbreviation" = "Time zone abbreviation";
 
@@ -258,8 +266,6 @@
 "Tomorrow" = "Tomorrow";
 
 "Tomorrow, %@" = "Tomorrow, %@";
-
-"Tue" = "Tue";
 
 "Two-digit day" = "Two-digit day";
 
@@ -290,8 +296,6 @@
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
 
 "Version History" = "Version History";
-
-"Wed" = "Wed";
 
 "Week" = "Week";
 

@@ -16,6 +16,8 @@
 
 "%@ Light Mode" = "%@ Hellmodus";
 
+"%@ ago" = "vor %@";
+
 "AM/PM marker" = "AM/PM-Markierung";
 
 "Abbreviated month name" = "Abgekürzter Monatsname";
@@ -107,8 +109,6 @@
 
 "Four-digit year" = "Vierstelliges Jahr";
 
-"Fri" = "Fr";
-
 "Full month name" = "Vollständiger Monatsname";
 
 "Full time zone name" = "Vollständiger Zeitzonenname";
@@ -129,9 +129,13 @@
 
 "Hide settings on launch" = "Einstellungen beim Start ausblenden";
 
+"High" = "Hoch";
+
 "Hourly" = "Stündlich";
 
 "Language" = "Sprache";
+
+"Large" = "Groß";
 
 "Launch At Startup" = "Beim Start ausführen";
 
@@ -140,17 +144,19 @@
 
 "List" = "Liste";
 
+"Low" = "Niedrig";
+
 "Main Window" = "Hauptfenster";
 
 "Mark as Completed" = "Als abgeschlossen markieren";
 
 "Mark as Not Completed" = "Als nicht abgeschlossen markieren";
 
+"Medium" = "Mittel";
+
 "Menu Bar" = "Menüleiste";
 
 "Menu bar settings" = "Menüleisteneinstellungen";
-
-"Mon" = "Mo";
 
 "Month" = "Monat";
 
@@ -165,6 +171,10 @@
 "New update available!" = "Neues Update verfügbar!";
 
 "Next Week" = "Nächste Woche";
+
+"No events" = "Keine Ereignisse";
+
+"None" = "Keine";
 
 "Notes" = "Notizen";
 
@@ -192,6 +202,8 @@
 
 "Open in Reminders" = "In Erinnerungen öffnen";
 
+"Others" = "Sonstiges";
+
 "Pick a Date & Time" = "Datum und Uhrzeit auswählen";
 
 "Priority" = "Priorität";
@@ -214,8 +226,6 @@
 
 "Repeat" = "Wiederholen";
 
-"Sat" = "Sa";
-
 "Save" = "Speichern";
 
 "Settings..." = "Einstellungen...";
@@ -232,11 +242,11 @@
 
 "Single character weekday" = "Wochentag als einzelnes Zeichen";
 
+"Small" = "Klein";
+
 "Social Accounts" = "Soziale Konten";
 
 "Suggestions" = "Vorschläge";
-
-"Sun" = "So";
 
 /* System */
 "System" = "System";
@@ -244,8 +254,6 @@
 "Terms of Service" = "Nutzungsbedingungen";
 
 "This Month’s Events" = "Ereignisse dieses Monats";
-
-"Thu" = "Do";
 
 "Time zone abbreviation" = "Zeitzonenabkürzung";
 
@@ -258,8 +266,6 @@
 "Tomorrow" = "Morgen";
 
 "Tomorrow, %@" = "Morgen, %@";
-
-"Tue" = "Di";
 
 "Two-digit day" = "Zweistelliger Tag";
 
@@ -290,8 +296,6 @@
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
 
 "Version History" = "Versionsverlauf";
-
-"Wed" = "Mi";
 
 "Week" = "Woche";
 
