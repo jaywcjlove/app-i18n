@@ -287,15 +287,8 @@
         }
       }
     },
-    "Font Family" : {
-      "localizations" : {
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "字体名称"
-          }
-        }
-      }
+    "Font preview" : {
+
     },
     "From Clipboard" : {
       "localizations" : {
@@ -437,21 +430,11 @@
         }
       }
     },
-    "Loading fonts... (%lld/%lld)" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Loading fonts... (%1$lld/%2$lld)"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正在加载字体… (%1$lld/%2$lld)"
-          }
-        }
-      }
+    "Loading fonts..." : {
+
+    },
+    "Loading weights..." : {
+
     },
     "Maps" : {
       "localizations" : {
@@ -593,6 +576,9 @@
           }
         }
       }
+    },
+    "Search fonts" : {
+
     },
     "Search..." : {
       "localizations" : {
@@ -766,16 +752,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "天气"
-          }
-        }
-      }
-    },
-    "Weight" : {
-      "localizations" : {
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "字重"
           }
         }
       }
