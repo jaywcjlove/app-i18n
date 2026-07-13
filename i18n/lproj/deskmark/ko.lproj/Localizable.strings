@@ -4,9 +4,34 @@
 
 "About %@" = "%@ 정보";
 
+/* Watermark window level */
+"Above Windows" = "창 위";
+
+/* Watermark window level detail */
+"Above the desktop, below app windows" = "바탕화면 위, 앱 창 아래";
+
+/* Watermark window level */
+"Always on Top" = "항상 위";
+
+/* Watermark layout */
+"Bottom Left" = "왼쪽 아래";
+
+/* Watermark layout */
+"Bottom Right" = "오른쪽 아래";
+
+/* Watermark layout */
+"Center" = "가운데";
+
 "Choose Icon" = "아이콘 선택";
 
 "Contact" = "연랙처";
+
+"Date" = "날짜";
+
+"Date & Time" = "날짜 및 시간";
+
+/* Watermark window level */
+"Desktop" = "데스크탑";
 
 "Drag or select an icon" = "아이콘을 드래그하거나 선택하세요";
 
@@ -18,6 +43,9 @@
 
 "Feedback" = "피드백";
 
+/* Watermark window level detail */
+"Float above most app windows" = "대부분의 앱 창 위에 표시";
+
 "Font Family" = "폰트 패밀리";
 
 "Font Size" = "폰트 크기";
@@ -26,17 +54,39 @@
 
 "General" = "일반";
 
+"Horizontal Spacing" = "가로 간격";
+
+"Host" = "호스트";
+
+"Icon Size" = "아이콘 크기";
+
+"Insert" = "삽입";
+
+"Insert Token" = "토큰 삽입";
+
 "Launch at login" = "로그인 시 시작";
+
+"Layout" = "레이아웃";
 
 "Main Window" = "메인 창";
 
+"Margin" = "여백";
+
 "My Apps" = "내 앱";
+
+"No Results" = "검색 결과 없음";
+
+"Offset X" = "오프셋 X";
+
+"Offset Y" = "오프셋 Y";
 
 "Opacity" = "불투명도";
 
 "Pro" = "프로";
 
 "Rotation" = "회전";
+
+"Search" = "검색";
 
 "Select Icon" = "아이콘 선택";
 
@@ -48,6 +98,10 @@
 
 "Set Watermark Text" = "워터마크 텍스트 설정";
 
+"Shadow Opacity" = "그림자 불투명도";
+
+"Shadow Radius" = "그림자 반경";
+
 "Show Icon" = "아이콘 표시";
 
 "Show Text" = "텍스트 표시";
@@ -56,13 +110,41 @@
 
 "Spacing" = "간격";
 
+"Stagger" = "교차 정렬";
+
+/* Watermark window level detail */
+"Stay on top whenever possible" = "가능한 한 맨 위에 유지";
+
+"Stroke Color" = "외곽선 색";
+
+"Stroke Width" = "외곽선 두께";
+
+"Supports {date}, {time}, {datetime}, {user}, {host}" = "{date}, {time}, {datetime}, {user}, {host} 지원";
+
 "Text Color" = "텍스트 색상";
+
+/* Watermark layout */
+"Tiled" = "바둑판";
+
+"Time" = "시간";
+
+/* Watermark layout */
+"Top Left" = "왼쪽 위";
+
+/* Watermark layout */
+"Top Right" = "오른쪽 위";
 
 "Unlock all Features" = "모든 기능 잠금 해제";
 
+"User" = "사용자";
+
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
 
+"Vertical Spacing" = "세로 간격";
+
 "Watermark Text" = "워터마크 텍스트";
+
+"Window Level" = "창 레벨";
 
 "X(Twitter)" = "X(Twitter)";
 

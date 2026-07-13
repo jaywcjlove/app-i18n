@@ -4,9 +4,34 @@
 
 "About %@" = "%@について";
 
+/* Watermark window level */
+"Above Windows" = "ウィンドウの上";
+
+/* Watermark window level detail */
+"Above the desktop, below app windows" = "デスクトップの上、アプリウィンドウの下";
+
+/* Watermark window level */
+"Always on Top" = "常に最前面";
+
+/* Watermark layout */
+"Bottom Left" = "左下";
+
+/* Watermark layout */
+"Bottom Right" = "右下";
+
+/* Watermark layout */
+"Center" = "中央";
+
 "Choose Icon" = "アイコンを選択";
 
 "Contact" = "お問い合わせ";
+
+"Date" = "日付";
+
+"Date & Time" = "日付と時刻";
+
+/* Watermark window level */
+"Desktop" = "デスクトップ";
 
 "Drag or select an icon" = "アイコンをドラッグまたは選択";
 
@@ -18,6 +43,9 @@
 
 "Feedback" = "フィードバック";
 
+/* Watermark window level detail */
+"Float above most app windows" = "ほとんどのアプリウィンドウの上に表示";
+
 "Font Family" = "フォントファミリー";
 
 "Font Size" = "フォントサイズ";
@@ -26,17 +54,39 @@
 
 "General" = "一般";
 
+"Horizontal Spacing" = "水平間隔";
+
+"Host" = "ホスト";
+
+"Icon Size" = "アイコンサイズ";
+
+"Insert" = "挿入";
+
+"Insert Token" = "トークンを挿入";
+
 "Launch at login" = "ログイン時に起動";
+
+"Layout" = "レイアウト";
 
 "Main Window" = "メインウィンドウ";
 
+"Margin" = "余白";
+
 "My Apps" = "マイアプリ";
+
+"No Results" = "結果がありません";
+
+"Offset X" = "オフセット X";
+
+"Offset Y" = "オフセット Y";
 
 "Opacity" = "不透明度";
 
 "Pro" = "プロ";
 
 "Rotation" = "回転";
+
+"Search" = "検索";
 
 "Select Icon" = "アイコンを選択";
 
@@ -48,6 +98,10 @@
 
 "Set Watermark Text" = "ウォーターマークテキストを設定";
 
+"Shadow Opacity" = "影の不透明度";
+
+"Shadow Radius" = "影のぼかし";
+
 "Show Icon" = "アイコンを表示";
 
 "Show Text" = "テキストを表示";
@@ -56,13 +110,41 @@
 
 "Spacing" = "間隔";
 
+"Stagger" = "互い違い";
+
+/* Watermark window level detail */
+"Stay on top whenever possible" = "可能な限り最前面を維持";
+
+"Stroke Color" = "縁取り色";
+
+"Stroke Width" = "縁取り幅";
+
+"Supports {date}, {time}, {datetime}, {user}, {host}" = "{date}、{time}、{datetime}、{user}、{host} に対応";
+
 "Text Color" = "文字色";
+
+/* Watermark layout */
+"Tiled" = "タイル";
+
+"Time" = "時刻";
+
+/* Watermark layout */
+"Top Left" = "左上";
+
+/* Watermark layout */
+"Top Right" = "右上";
 
 "Unlock all Features" = "すべての機能をアンロック";
 
+"User" = "ユーザー";
+
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
 
+"Vertical Spacing" = "垂直間隔";
+
 "Watermark Text" = "ウォーターマークテキスト";
+
+"Window Level" = "ウィンドウレベル";
 
 "X(Twitter)" = "X(Twitter)";
 

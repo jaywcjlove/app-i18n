@@ -4,9 +4,34 @@
 
 "About %@" = "Über %@";
 
+/* Watermark window level */
+"Above Windows" = "Über Fenstern";
+
+/* Watermark window level detail */
+"Above the desktop, below app windows" = "Über dem Schreibtisch, unter App-Fenstern";
+
+/* Watermark window level */
+"Always on Top" = "Immer im Vordergrund";
+
+/* Watermark layout */
+"Bottom Left" = "Unten links";
+
+/* Watermark layout */
+"Bottom Right" = "Unten rechts";
+
+/* Watermark layout */
+"Center" = "Mitte";
+
 "Choose Icon" = "Symbol auswählen";
 
 "Contact" = "Kontakt";
+
+"Date" = "Datum";
+
+"Date & Time" = "Datum & Uhrzeit";
+
+/* Watermark window level */
+"Desktop" = "Schreibtisch";
 
 "Drag or select an icon" = "Symbol ziehen oder auswählen";
 
@@ -18,6 +43,9 @@
 
 "Feedback" = "Rückmeldung";
 
+/* Watermark window level detail */
+"Float above most app windows" = "Über den meisten App-Fenstern schweben";
+
 "Font Family" = "Schriftfamilie";
 
 "Font Size" = "Schriftgröße";
@@ -26,17 +54,39 @@
 
 "General" = "Allgemein";
 
+"Horizontal Spacing" = "Horizontaler Abstand";
+
+"Host" = "Host";
+
+"Icon Size" = "Symbolgröße";
+
+"Insert" = "Einfügen";
+
+"Insert Token" = "Token einfügen";
+
 "Launch at login" = "Beim Anmelden starten";
+
+"Layout" = "Layout";
 
 "Main Window" = "Hauptfenster";
 
+"Margin" = "Rand";
+
 "My Apps" = "Meine Apps";
+
+"No Results" = "Keine Ergebnisse";
+
+"Offset X" = "Versatz X";
+
+"Offset Y" = "Versatz Y";
 
 "Opacity" = "Deckkraft";
 
 "Pro" = "Pro";
 
 "Rotation" = "Drehung";
+
+"Search" = "Suchen";
 
 "Select Icon" = "Symbol auswählen";
 
@@ -48,6 +98,10 @@
 
 "Set Watermark Text" = "Wasserzeichen-Text festlegen";
 
+"Shadow Opacity" = "Schattenopazität";
+
+"Shadow Radius" = "Schattenradius";
+
 "Show Icon" = "Symbol anzeigen";
 
 "Show Text" = "Text anzeigen";
@@ -56,13 +110,41 @@
 
 "Spacing" = "Abstand";
 
+"Stagger" = "Versatzreihen";
+
+/* Watermark window level detail */
+"Stay on top whenever possible" = "Wann immer möglich im Vordergrund bleiben";
+
+"Stroke Color" = "Konturfarbe";
+
+"Stroke Width" = "Konturstärke";
+
+"Supports {date}, {time}, {datetime}, {user}, {host}" = "Unterstützt {date}, {time}, {datetime}, {user}, {host}";
+
 "Text Color" = "Textfarbe";
+
+/* Watermark layout */
+"Tiled" = "Gekachelt";
+
+"Time" = "Uhrzeit";
+
+/* Watermark layout */
+"Top Left" = "Oben links";
+
+/* Watermark layout */
+"Top Right" = "Oben rechts";
 
 "Unlock all Features" = "Alle Funktionen freischalten";
 
+"User" = "Benutzer";
+
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
 
+"Vertical Spacing" = "Vertikaler Abstand";
+
 "Watermark Text" = "Wasserzeichen-Text";
+
+"Window Level" = "Fensterebene";
 
 "X(Twitter)" = "X(Twitter)";
 
