@@ -1,5 +1,3 @@
-"%@" = "%@";
-
 "About" = "À propos";
 
 "About %@" = "À propos de %@";
@@ -19,16 +17,36 @@
 /* Watermark layout */
 "Bottom Right" = "En bas à droite";
 
+"Cancel" = "Annuler";
+
 /* Watermark layout */
 "Center" = "Centre";
 
 "Choose Icon" = "Choisir une icône";
 
+/* Watermark preset name */
+"Confidential" = "Confidentiel";
+
 "Contact" = "Contact";
 
-"Date" = "Date";
+/* Watermark preset name */
+"Corner Badge" = "Badge d'angle";
 
-"Date & Time" = "Date et heure";
+/* Watermark preset status */
+"Could not save preset" = "Impossible d'enregistrer le prereglage";
+
+"Custom" = "Personnalise";
+
+/* Watermark preset name */
+"Default" = "Par defaut";
+
+"Delete" = "Supprimer";
+
+/* Watermark preset alert title */
+"Delete Preset" = "Supprimer le prereglage";
+
+/* Watermark preset delete message */
+"Delete this custom preset? This cannot be undone." = "Supprimer ce prereglage personnalise ? Cette action est irreversible.";
 
 /* Watermark window level */
 "Desktop" = "Bureau";
@@ -56,8 +74,6 @@
 
 "Horizontal Spacing" = "Espacement horizontal";
 
-"Host" = "Hôte";
-
 "Icon Size" = "Taille de l’icône";
 
 "Insert" = "Insérer";
@@ -74,6 +90,9 @@
 
 "My Apps" = "Mes apps";
 
+/* Default name for new watermark preset */
+"My Preset" = "Mon prereglage";
+
 "No Results" = "Aucun résultat";
 
 "Offset X" = "Décalage X";
@@ -82,9 +101,51 @@
 
 "Opacity" = "Opacité";
 
+/* Watermark preset help */
+"Overwrite the selected preset with current settings" = "Ecraser le prereglage selectionne avec les parametres actuels";
+
+"Preset" = "Prereglage";
+
+/* Watermark preset name field */
+"Preset Name" = "Nom du prereglage";
+
+/* Watermark preset status */
+"Preset deleted" = "Prereglage supprime";
+
+/* Watermark preset status */
+"Preset renamed" = "Prereglage renomme";
+
+/* Watermark preset status */
+"Preset saved" = "Prereglage enregistre";
+
+/* Watermark preset status */
+"Preset updated" = "Prereglage mis a jour";
+
 "Pro" = "Pro";
 
+/* Watermark preset rename button */
+"Rename" = "Renommer";
+
+/* Watermark preset alert title */
+"Rename Preset" = "Renommer le prereglage";
+
+"Rename…" = "Renommer…";
+
 "Rotation" = "Rotation";
+
+/* Watermark preset save button */
+"Save" = "Enregistrer";
+
+"Save As…" = "Enregistrer sous…";
+
+/* Watermark preset alert title */
+"Save Preset" = "Enregistrer le prereglage";
+
+/* Watermark preset help */
+"Save current settings as a new preset" = "Enregistrer les parametres actuels comme nouveau prereglage";
+
+/* Watermark preset alert message */
+"Save the current watermark parameters as a named preset." = "Enregistrez les parametres actuels du filigrane en tant que prereglage nomme.";
 
 "Search" = "Rechercher";
 
@@ -108,8 +169,6 @@
 
 "Social Accounts" = "Comptes sociaux";
 
-"Spacing" = "Espacement";
-
 "Stagger" = "Décalage en quinconce";
 
 /* Watermark window level detail */
@@ -119,14 +178,20 @@
 
 "Stroke Width" = "Épaisseur du contour";
 
+/* Watermark preset name */
+"Subtle Desktop" = "Bureau subtil";
+
 "Supports {date}, {time}, {datetime}, {user}, {host}" = "Prend en charge {date}, {time}, {datetime}, {user}, {host}";
+
+"Switch presets to apply saved watermark settings. Built-in presets cannot be deleted." = "Basculez entre les prereglages pour appliquer les parametres de filigrane enregistres. Les prereglages integres ne peuvent pas etre supprimes.";
 
 "Text Color" = "Couleur du texte";
 
 /* Watermark layout */
 "Tiled" = "En mosaïque";
 
-"Time" = "Heure";
+/* Watermark preset name */
+"Timestamp" = "Horodatage";
 
 /* Watermark layout */
 "Top Left" = "En haut à gauche";
@@ -136,7 +201,7 @@
 
 "Unlock all Features" = "Déverrouiller toutes les fonctionnalités";
 
-"User" = "Utilisateur";
+"Update" = "Mettre a jour";
 
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
 

@@ -1,5 +1,3 @@
-"%@" = "%@";
-
 "About" = "关于";
 
 "About %@" = "关于 %@";
@@ -19,16 +17,36 @@
 /* Watermark layout */
 "Bottom Right" = "右下";
 
+"Cancel" = "取消";
+
 /* Watermark layout */
 "Center" = "居中";
 
 "Choose Icon" = "选择图标";
 
+/* Watermark preset name */
+"Confidential" = "机密";
+
 "Contact" = "联系我们";
 
-"Date" = "日期";
+/* Watermark preset name */
+"Corner Badge" = "角标";
 
-"Date & Time" = "日期和时间";
+/* Watermark preset status */
+"Could not save preset" = "无法保存预设";
+
+"Custom" = "自定义";
+
+/* Watermark preset name */
+"Default" = "默认";
+
+"Delete" = "删除";
+
+/* Watermark preset alert title */
+"Delete Preset" = "删除预设";
+
+/* Watermark preset delete message */
+"Delete this custom preset? This cannot be undone." = "删除此自定义预设？此操作无法撤销。";
 
 /* Watermark window level */
 "Desktop" = "桌面";
@@ -56,8 +74,6 @@
 
 "Horizontal Spacing" = "水平间距";
 
-"Host" = "主机名";
-
 "Icon Size" = "图标大小";
 
 "Insert" = "插入";
@@ -74,6 +90,9 @@
 
 "My Apps" = "我的应用";
 
+/* Default name for new watermark preset */
+"My Preset" = "我的预设";
+
 "No Results" = "无结果";
 
 "Offset X" = "水平偏移";
@@ -82,9 +101,51 @@
 
 "Opacity" = "透明度";
 
+/* Watermark preset help */
+"Overwrite the selected preset with current settings" = "用当前设置覆盖所选预设";
+
+"Preset" = "预设";
+
+/* Watermark preset name field */
+"Preset Name" = "预设名称";
+
+/* Watermark preset status */
+"Preset deleted" = "预设已删除";
+
+/* Watermark preset status */
+"Preset renamed" = "预设已重命名";
+
+/* Watermark preset status */
+"Preset saved" = "预设已保存";
+
+/* Watermark preset status */
+"Preset updated" = "预设已更新";
+
 "Pro" = "专业版";
 
+/* Watermark preset rename button */
+"Rename" = "重命名";
+
+/* Watermark preset alert title */
+"Rename Preset" = "重命名预设";
+
+"Rename…" = "重命名…";
+
 "Rotation" = "旋转";
+
+/* Watermark preset save button */
+"Save" = "保存";
+
+"Save As…" = "另存为…";
+
+/* Watermark preset alert title */
+"Save Preset" = "保存预设";
+
+/* Watermark preset help */
+"Save current settings as a new preset" = "将当前设置保存为新预设";
+
+/* Watermark preset alert message */
+"Save the current watermark parameters as a named preset." = "将当前水印参数保存为命名预设。";
 
 "Search" = "搜索";
 
@@ -108,8 +169,6 @@
 
 "Social Accounts" = "社交账号";
 
-"Spacing" = "间距";
-
 "Stagger" = "棋盘交错";
 
 /* Watermark window level detail */
@@ -119,14 +178,20 @@
 
 "Stroke Width" = "描边宽度";
 
+/* Watermark preset name */
+"Subtle Desktop" = "柔和桌面";
+
 "Supports {date}, {time}, {datetime}, {user}, {host}" = "支持 {date}、{time}、{datetime}、{user}、{host}";
+
+"Switch presets to apply saved watermark settings. Built-in presets cannot be deleted." = "切换预设以应用已保存的水印设置。内置预设无法删除。";
 
 "Text Color" = "文本颜色";
 
 /* Watermark layout */
 "Tiled" = "平铺";
 
-"Time" = "时间";
+/* Watermark preset name */
+"Timestamp" = "时间戳";
 
 /* Watermark layout */
 "Top Left" = "左上";
@@ -136,7 +201,7 @@
 
 "Unlock all Features" = "解锁全部功能";
 
-"User" = "用户";
+"Update" = "更新";
 
 "Version %@ (%@)" = "版本 %1$@ (%2$@)";
 

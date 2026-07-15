@@ -1,5 +1,3 @@
-"%@" = "%@";
-
 "About" = "About";
 
 "About %@" = "About %@";
@@ -19,16 +17,36 @@
 /* Watermark layout */
 "Bottom Right" = "Bottom Right";
 
+"Cancel" = "Cancel";
+
 /* Watermark layout */
 "Center" = "Center";
 
 "Choose Icon" = "Choose Icon";
 
+/* Watermark preset name */
+"Confidential" = "Confidential";
+
 "Contact" = "Contact";
 
-"Date" = "Date";
+/* Watermark preset name */
+"Corner Badge" = "Corner Badge";
 
-"Date & Time" = "Date & Time";
+/* Watermark preset status */
+"Could not save preset" = "Could not save preset";
+
+"Custom" = "Custom";
+
+/* Watermark preset name */
+"Default" = "Default";
+
+"Delete" = "Delete";
+
+/* Watermark preset alert title */
+"Delete Preset" = "Delete Preset";
+
+/* Watermark preset delete message */
+"Delete this custom preset? This cannot be undone." = "Delete this custom preset? This cannot be undone.";
 
 /* Watermark window level */
 "Desktop" = "Desktop";
@@ -56,8 +74,6 @@
 
 "Horizontal Spacing" = "Horizontal Spacing";
 
-"Host" = "Host";
-
 "Icon Size" = "Icon Size";
 
 "Insert" = "Insert";
@@ -74,6 +90,9 @@
 
 "My Apps" = "My Apps";
 
+/* Default name for new watermark preset */
+"My Preset" = "My Preset";
+
 "No Results" = "No Results";
 
 "Offset X" = "Offset X";
@@ -82,9 +101,51 @@
 
 "Opacity" = "Opacity";
 
+/* Watermark preset help */
+"Overwrite the selected preset with current settings" = "Overwrite the selected preset with current settings";
+
+"Preset" = "Preset";
+
+/* Watermark preset name field */
+"Preset Name" = "Preset Name";
+
+/* Watermark preset status */
+"Preset deleted" = "Preset deleted";
+
+/* Watermark preset status */
+"Preset renamed" = "Preset renamed";
+
+/* Watermark preset status */
+"Preset saved" = "Preset saved";
+
+/* Watermark preset status */
+"Preset updated" = "Preset updated";
+
 "Pro" = "Pro";
 
+/* Watermark preset rename button */
+"Rename" = "Rename";
+
+/* Watermark preset alert title */
+"Rename Preset" = "Rename Preset";
+
+"Rename…" = "Rename…";
+
 "Rotation" = "Rotation";
+
+/* Watermark preset save button */
+"Save" = "Save";
+
+"Save As…" = "Save As…";
+
+/* Watermark preset alert title */
+"Save Preset" = "Save Preset";
+
+/* Watermark preset help */
+"Save current settings as a new preset" = "Save current settings as a new preset";
+
+/* Watermark preset alert message */
+"Save the current watermark parameters as a named preset." = "Save the current watermark parameters as a named preset.";
 
 "Search" = "Search";
 
@@ -108,8 +169,6 @@
 
 "Social Accounts" = "Social Accounts";
 
-"Spacing" = "Spacing";
-
 "Stagger" = "Stagger";
 
 /* Watermark window level detail */
@@ -119,14 +178,20 @@
 
 "Stroke Width" = "Stroke Width";
 
+/* Watermark preset name */
+"Subtle Desktop" = "Subtle Desktop";
+
 "Supports {date}, {time}, {datetime}, {user}, {host}" = "Supports {date}, {time}, {datetime}, {user}, {host}";
+
+"Switch presets to apply saved watermark settings. Built-in presets cannot be deleted." = "Switch presets to apply saved watermark settings. Built-in presets cannot be deleted.";
 
 "Text Color" = "Text Color";
 
 /* Watermark layout */
 "Tiled" = "Tiled";
 
-"Time" = "Time";
+/* Watermark preset name */
+"Timestamp" = "Timestamp";
 
 /* Watermark layout */
 "Top Left" = "Top Left";
@@ -136,7 +201,7 @@
 
 "Unlock all Features" = "Unlock all Features";
 
-"User" = "User";
+"Update" = "Update";
 
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
 

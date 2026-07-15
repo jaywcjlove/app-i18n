@@ -1,5 +1,3 @@
-"%@" = "%@";
-
 "About" = "О программе";
 
 "About %@" = "О программе %@";
@@ -19,16 +17,36 @@
 /* Watermark layout */
 "Bottom Right" = "Справа внизу";
 
+"Cancel" = "Отмена";
+
 /* Watermark layout */
 "Center" = "По центру";
 
 "Choose Icon" = "Выбрать значок";
 
+/* Watermark preset name */
+"Confidential" = "Конфиденциально";
+
 "Contact" = "Контакты";
 
-"Date" = "Дата";
+/* Watermark preset name */
+"Corner Badge" = "Угловой бейдж";
 
-"Date & Time" = "Дата и время";
+/* Watermark preset status */
+"Could not save preset" = "Не удалось сохранить пресет";
+
+"Custom" = "Пользовательский";
+
+/* Watermark preset name */
+"Default" = "По умолчанию";
+
+"Delete" = "Удалить";
+
+/* Watermark preset alert title */
+"Delete Preset" = "Удалить пресет";
+
+/* Watermark preset delete message */
+"Delete this custom preset? This cannot be undone." = "Удалить этот пользовательский пресет? Это действие нельзя отменить.";
 
 /* Watermark window level */
 "Desktop" = "Рабочий стол";
@@ -56,8 +74,6 @@
 
 "Horizontal Spacing" = "Горизонтальный интервал";
 
-"Host" = "Хост";
-
 "Icon Size" = "Размер значка";
 
 "Insert" = "Вставить";
@@ -74,6 +90,9 @@
 
 "My Apps" = "Мои приложения";
 
+/* Default name for new watermark preset */
+"My Preset" = "Мой пресет";
+
 "No Results" = "Нет результатов";
 
 "Offset X" = "Смещение X";
@@ -82,9 +101,51 @@
 
 "Opacity" = "Непрозрачность";
 
+/* Watermark preset help */
+"Overwrite the selected preset with current settings" = "Перезаписать выбранный пресет текущими настройками";
+
+"Preset" = "Пресет";
+
+/* Watermark preset name field */
+"Preset Name" = "Название пресета";
+
+/* Watermark preset status */
+"Preset deleted" = "Пресет удален";
+
+/* Watermark preset status */
+"Preset renamed" = "Пресет переименован";
+
+/* Watermark preset status */
+"Preset saved" = "Пресет сохранен";
+
+/* Watermark preset status */
+"Preset updated" = "Пресет обновлен";
+
 "Pro" = "Pro";
 
+/* Watermark preset rename button */
+"Rename" = "Переименовать";
+
+/* Watermark preset alert title */
+"Rename Preset" = "Переименовать пресет";
+
+"Rename…" = "Переименовать…";
+
 "Rotation" = "Поворот";
+
+/* Watermark preset save button */
+"Save" = "Сохранить";
+
+"Save As…" = "Сохранить как…";
+
+/* Watermark preset alert title */
+"Save Preset" = "Сохранить пресет";
+
+/* Watermark preset help */
+"Save current settings as a new preset" = "Сохранить текущие настройки как новый пресет";
+
+/* Watermark preset alert message */
+"Save the current watermark parameters as a named preset." = "Сохранить текущие параметры водяного знака как именованный пресет.";
 
 "Search" = "Поиск";
 
@@ -108,8 +169,6 @@
 
 "Social Accounts" = "Социальные аккаунты";
 
-"Spacing" = "Интервал";
-
 "Stagger" = "Со смещением";
 
 /* Watermark window level detail */
@@ -119,14 +178,20 @@
 
 "Stroke Width" = "Толщина обводки";
 
+/* Watermark preset name */
+"Subtle Desktop" = "Сдержанный рабочий стол";
+
 "Supports {date}, {time}, {datetime}, {user}, {host}" = "Поддерживает {date}, {time}, {datetime}, {user}, {host}";
+
+"Switch presets to apply saved watermark settings. Built-in presets cannot be deleted." = "Переключайте пресеты, чтобы применять сохраненные настройки водяного знака. Встроенные пресеты нельзя удалить.";
 
 "Text Color" = "Цвет текста";
 
 /* Watermark layout */
 "Tiled" = "Плитка";
 
-"Time" = "Время";
+/* Watermark preset name */
+"Timestamp" = "Метка времени";
 
 /* Watermark layout */
 "Top Left" = "Слева вверху";
@@ -136,7 +201,7 @@
 
 "Unlock all Features" = "Разблокировать все функции";
 
-"User" = "Пользователь";
+"Update" = "Обновить";
 
 "Version %@ (%@)" = "Версия %1$@ (%2$@)";
 

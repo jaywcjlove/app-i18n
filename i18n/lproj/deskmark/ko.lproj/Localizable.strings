@@ -1,5 +1,3 @@
-"%@" = "%@";
-
 "About" = "정보";
 
 "About %@" = "%@ 정보";
@@ -19,16 +17,36 @@
 /* Watermark layout */
 "Bottom Right" = "오른쪽 아래";
 
+"Cancel" = "취소";
+
 /* Watermark layout */
 "Center" = "가운데";
 
 "Choose Icon" = "아이콘 선택";
 
+/* Watermark preset name */
+"Confidential" = "기밀";
+
 "Contact" = "연랙처";
 
-"Date" = "날짜";
+/* Watermark preset name */
+"Corner Badge" = "코너 배지";
 
-"Date & Time" = "날짜 및 시간";
+/* Watermark preset status */
+"Could not save preset" = "프리셋을 저장할 수 없습니다";
+
+"Custom" = "사용자 지정";
+
+/* Watermark preset name */
+"Default" = "기본값";
+
+"Delete" = "삭제";
+
+/* Watermark preset alert title */
+"Delete Preset" = "프리셋 삭제";
+
+/* Watermark preset delete message */
+"Delete this custom preset? This cannot be undone." = "이 사용자 지정 프리셋을 삭제할까요? 이 작업은 되돌릴 수 없습니다.";
 
 /* Watermark window level */
 "Desktop" = "데스크탑";
@@ -56,8 +74,6 @@
 
 "Horizontal Spacing" = "가로 간격";
 
-"Host" = "호스트";
-
 "Icon Size" = "아이콘 크기";
 
 "Insert" = "삽입";
@@ -74,6 +90,9 @@
 
 "My Apps" = "내 앱";
 
+/* Default name for new watermark preset */
+"My Preset" = "내 프리셋";
+
 "No Results" = "검색 결과 없음";
 
 "Offset X" = "오프셋 X";
@@ -82,9 +101,51 @@
 
 "Opacity" = "불투명도";
 
+/* Watermark preset help */
+"Overwrite the selected preset with current settings" = "선택한 프리셋을 현재 설정으로 덮어쓰기";
+
+"Preset" = "프리셋";
+
+/* Watermark preset name field */
+"Preset Name" = "프리셋 이름";
+
+/* Watermark preset status */
+"Preset deleted" = "프리셋이 삭제되었습니다";
+
+/* Watermark preset status */
+"Preset renamed" = "프리셋 이름이 변경되었습니다";
+
+/* Watermark preset status */
+"Preset saved" = "프리셋이 저장되었습니다";
+
+/* Watermark preset status */
+"Preset updated" = "프리셋이 업데이트되었습니다";
+
 "Pro" = "프로";
 
+/* Watermark preset rename button */
+"Rename" = "이름 변경";
+
+/* Watermark preset alert title */
+"Rename Preset" = "프리셋 이름 변경";
+
+"Rename…" = "이름 변경…";
+
 "Rotation" = "회전";
+
+/* Watermark preset save button */
+"Save" = "저장";
+
+"Save As…" = "다른 이름으로 저장…";
+
+/* Watermark preset alert title */
+"Save Preset" = "프리셋 저장";
+
+/* Watermark preset help */
+"Save current settings as a new preset" = "현재 설정을 새 프리셋으로 저장";
+
+/* Watermark preset alert message */
+"Save the current watermark parameters as a named preset." = "현재 워터마크 매개변수를 이름 있는 프리셋으로 저장합니다.";
 
 "Search" = "검색";
 
@@ -108,8 +169,6 @@
 
 "Social Accounts" = "소셜 계정";
 
-"Spacing" = "간격";
-
 "Stagger" = "교차 정렬";
 
 /* Watermark window level detail */
@@ -119,14 +178,20 @@
 
 "Stroke Width" = "외곽선 두께";
 
+/* Watermark preset name */
+"Subtle Desktop" = "은은한 데스크톱";
+
 "Supports {date}, {time}, {datetime}, {user}, {host}" = "{date}, {time}, {datetime}, {user}, {host} 지원";
+
+"Switch presets to apply saved watermark settings. Built-in presets cannot be deleted." = "프리셋을 전환해 저장된 워터마크 설정을 적용하세요. 기본 제공 프리셋은 삭제할 수 없습니다.";
 
 "Text Color" = "텍스트 색상";
 
 /* Watermark layout */
 "Tiled" = "바둑판";
 
-"Time" = "시간";
+/* Watermark preset name */
+"Timestamp" = "타임스탬프";
 
 /* Watermark layout */
 "Top Left" = "왼쪽 위";
@@ -136,7 +201,7 @@
 
 "Unlock all Features" = "모든 기능 잠금 해제";
 
-"User" = "사용자";
+"Update" = "업데이트";
 
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
 
