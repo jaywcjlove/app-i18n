@@ -12,8 +12,6 @@
 
 "%lld." = "%lld.";
 
-"%lldpx" = "%lldpx";
-
 "++Addition" = "++连加";
 
 "--Subtraction" = "--连减";
@@ -84,6 +82,8 @@
 
 "9" = "9";
 
+"Add Icon" = "添加图标";
+
 "Add/Sub Operations Copybook" = "加减法运算字帖";
 
 "Addition" = "加";
@@ -122,6 +122,8 @@
 
 "Count" = "数量";
 
+"Custom Watermark" = "自定义水印";
+
 "Dark Mode" = "暗模式";
 
 "Decomposition" = "分解";
@@ -142,6 +144,8 @@
 
 "English Paragraph Copybook" = "英文段落字贴";
 
+"English Word Copybook" = "英文单词字帖";
+
 "Equation" = "等式";
 
 "Every 10 Minutes" = "每10分钟";
@@ -155,8 +159,6 @@
 "Export Copybook" = "导出字帖";
 
 "Export PDF" = "导出 PDF";
-
-"Export PNG" = "导出 PNG";
 
 "Fill-in" = "填空";
 
@@ -177,6 +179,10 @@
 "Height" = "高";
 
 "Horizontal Margin" = "水平边距";
+
+"Horizontal Spacing" = "水平间距";
+
+"Icon" = "图标";
 
 "Learn Clocks Copybook" = "学习时钟字帖";
 
@@ -218,11 +224,15 @@
 
 "Only on the Hour" = "仅整点";
 
+"Opacity" = "不透明度";
+
 "Operand" = "运算数";
 
 "Operating Range" = "运算范围";
 
 "Operation" = "运算";
+
+"Page %lld / %lld" = "Page %1$lld / %2$lld";
 
 "Pen Control Practice Copybook" = "控笔练习字帖";
 
@@ -252,7 +262,11 @@
 
 "Reference" = "参考";
 
+"Remove Icon" = "移除图标";
+
 "Roman Numerals" = "罗马数字";
+
+"Rotation" = "旋转";
 
 "Save" = "保存";
 
@@ -295,6 +309,8 @@
 "Vertical Margin" = "垂直边距";
 
 "Vertical Method" = "竖式";
+
+"Vertical Spacing" = "垂直间距";
 
 "Visible" = "可见性";
 

@@ -12,8 +12,6 @@
 
 "%lld." = "%lld.";
 
-"%lldpx" = "%lldpx";
-
 "++Addition" = "++Addition";
 
 "--Subtraction" = "--Soustraction";
@@ -84,6 +82,8 @@
 
 "9" = "9";
 
+"Add Icon" = "Ajouter une icône";
+
 "Add/Sub Operations Copybook" = "Cahier d'exercices d'addition/soustraction";
 
 "Addition" = "Addition";
@@ -122,6 +122,8 @@
 
 "Count" = "Quantite";
 
+"Custom Watermark" = "Filigrane personnalisé";
+
 "Dark Mode" = "Mode sombre";
 
 "Decomposition" = "Decomposition";
@@ -142,6 +144,8 @@
 
 "English Paragraph Copybook" = "Cahier de paragraphes anglais";
 
+"English Word Copybook" = "Cahier de mots anglais";
+
 "Equation" = "Equation";
 
 "Every 10 Minutes" = "Toutes les 10 minutes";
@@ -155,8 +159,6 @@
 "Export Copybook" = "Exporter le cahier";
 
 "Export PDF" = "Exporter en PDF";
-
-"Export PNG" = "Exporter en PNG";
 
 "Fill-in" = "Texte a trous";
 
@@ -177,6 +179,10 @@
 "Height" = "Hauteur";
 
 "Horizontal Margin" = "Marge horizontale";
+
+"Horizontal Spacing" = "Espacement horizontal";
+
+"Icon" = "Icône";
 
 "Learn Clocks Copybook" = "Cahier d'apprentissage de l'heure";
 
@@ -218,11 +224,15 @@
 
 "Only on the Hour" = "Uniquement a l'heure pile";
 
+"Opacity" = "Opacité";
+
 "Operand" = "Operande";
 
 "Operating Range" = "Plage d'operation";
 
 "Operation" = "Operation";
+
+"Page %lld / %lld" = "Page %1$lld / %2$lld";
 
 "Pen Control Practice Copybook" = "Cahier d'entrainement du controle du stylo";
 
@@ -252,7 +262,11 @@
 
 "Reference" = "Reference";
 
+"Remove Icon" = "Supprimer l'icône";
+
 "Roman Numerals" = "Chiffres romains";
+
+"Rotation" = "Rotation";
 
 "Save" = "Enregistrer";
 
@@ -295,6 +309,8 @@
 "Vertical Margin" = "Marge verticale";
 
 "Vertical Method" = "Methode en colonne";
+
+"Vertical Spacing" = "Espacement vertical";
 
 "Visible" = "Visible";
 

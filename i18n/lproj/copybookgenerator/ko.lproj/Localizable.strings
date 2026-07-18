@@ -12,8 +12,6 @@
 
 "%lld." = "%lld.";
 
-"%lldpx" = "%lldpx";
-
 "++Addition" = "++덧셈";
 
 "--Subtraction" = "--뺄셈";
@@ -84,6 +82,8 @@
 
 "9" = "9";
 
+"Add Icon" = "아이콘 추가";
+
 "Add/Sub Operations Copybook" = "덧셈/뺄셈 연산 공책";
 
 "Addition" = "덧셈";
@@ -122,6 +122,8 @@
 
 "Count" = "개수";
 
+"Custom Watermark" = "사용자 지정 워터마크";
+
 "Dark Mode" = "다크 모드";
 
 "Decomposition" = "분해";
@@ -142,6 +144,8 @@
 
 "English Paragraph Copybook" = "영어 문단 공책";
 
+"English Word Copybook" = "영어 단어 공책";
+
 "Equation" = "식";
 
 "Every 10 Minutes" = "10분마다";
@@ -155,8 +159,6 @@
 "Export Copybook" = "공책 내보내기";
 
 "Export PDF" = "PDF 내보내기";
-
-"Export PNG" = "PNG 내보내기";
 
 "Fill-in" = "빈칸 채우기";
 
@@ -177,6 +179,10 @@
 "Height" = "높이";
 
 "Horizontal Margin" = "가로 여백";
+
+"Horizontal Spacing" = "가로 간격";
+
+"Icon" = "아이콘";
 
 "Learn Clocks Copybook" = "시계 학습 공책";
 
@@ -218,11 +224,15 @@
 
 "Only on the Hour" = "정각만";
 
+"Opacity" = "불투명도";
+
 "Operand" = "피연산자";
 
 "Operating Range" = "연산 범위";
 
 "Operation" = "연산";
+
+"Page %lld / %lld" = "Page %1$lld / %2$lld";
 
 "Pen Control Practice Copybook" = "필선 조절 연습 공책";
 
@@ -252,7 +262,11 @@
 
 "Reference" = "참고";
 
+"Remove Icon" = "아이콘 제거";
+
 "Roman Numerals" = "로마 숫자";
+
+"Rotation" = "회전";
 
 "Save" = "저장";
 
@@ -295,6 +309,8 @@
 "Vertical Margin" = "세로 여백";
 
 "Vertical Method" = "세로셈";
+
+"Vertical Spacing" = "세로 간격";
 
 "Visible" = "표시";
 

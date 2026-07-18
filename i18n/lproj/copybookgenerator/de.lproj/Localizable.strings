@@ -12,8 +12,6 @@
 
 "%lld." = "%lld.";
 
-"%lldpx" = "%lldpx";
-
 "++Addition" = "++Addition";
 
 "--Subtraction" = "--Subtraktion";
@@ -84,6 +82,8 @@
 
 "9" = "9";
 
+"Add Icon" = "Symbol hinzufügen";
+
 "Add/Sub Operations Copybook" = "Additions-/Subtraktions-Arbeitsheft";
 
 "Addition" = "Addition";
@@ -122,6 +122,8 @@
 
 "Count" = "Anzahl";
 
+"Custom Watermark" = "Benutzerdefiniertes Wasserzeichen";
+
 "Dark Mode" = "Dunkelmodus";
 
 "Decomposition" = "Zerlegung";
@@ -142,6 +144,8 @@
 
 "English Paragraph Copybook" = "Englische Absätze Übungsheft";
 
+"English Word Copybook" = "Englische Wörter Übungsheft";
+
 "Equation" = "Gleichung";
 
 "Every 10 Minutes" = "Alle 10 Minuten";
@@ -155,8 +159,6 @@
 "Export Copybook" = "Übungsheft exportieren";
 
 "Export PDF" = "PDF exportieren";
-
-"Export PNG" = "PNG exportieren";
 
 "Fill-in" = "Lückentext";
 
@@ -177,6 +179,10 @@
 "Height" = "Höhe";
 
 "Horizontal Margin" = "Horizontaler Rand";
+
+"Horizontal Spacing" = "Horizontaler Abstand";
+
+"Icon" = "Symbol";
 
 "Learn Clocks Copybook" = "Uhrzeit lernen Übungsheft";
 
@@ -218,11 +224,15 @@
 
 "Only on the Hour" = "Nur volle Stunden";
 
+"Opacity" = "Deckkraft";
+
 "Operand" = "Operand";
 
 "Operating Range" = "Rechenbereich";
 
 "Operation" = "Rechenart";
+
+"Page %lld / %lld" = "Page %1$lld / %2$lld";
 
 "Pen Control Practice Copybook" = "Stiftkontroll-Übungsheft";
 
@@ -252,7 +262,11 @@
 
 "Reference" = "Referenz";
 
+"Remove Icon" = "Symbol entfernen";
+
 "Roman Numerals" = "Römische Ziffern";
+
+"Rotation" = "Drehung";
 
 "Save" = "Speichern";
 
@@ -295,6 +309,8 @@
 "Vertical Margin" = "Vertikaler Rand";
 
 "Vertical Method" = "Schriftliche Methode";
+
+"Vertical Spacing" = "Vertikaler Abstand";
 
 "Visible" = "Sichtbar";
 

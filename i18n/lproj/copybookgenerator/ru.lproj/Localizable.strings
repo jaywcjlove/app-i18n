@@ -12,8 +12,6 @@
 
 "%lld." = "%lld.";
 
-"%lldpx" = "%lldpx";
-
 "++Addition" = "++Сложение";
 
 "--Subtraction" = "--Вычитание";
@@ -84,6 +82,8 @@
 
 "9" = "9";
 
+"Add Icon" = "Добавить иконку";
+
 "Add/Sub Operations Copybook" = "Тетрадь по сложению/вычитанию";
 
 "Addition" = "Сложение";
@@ -122,6 +122,8 @@
 
 "Count" = "Количество";
 
+"Custom Watermark" = "Пользовательский водяной знак";
+
 "Dark Mode" = "Темный режим";
 
 "Decomposition" = "Разложение";
@@ -142,6 +144,8 @@
 
 "English Paragraph Copybook" = "Тетрадь с английскими абзацами";
 
+"English Word Copybook" = "Тетрадь с английскими словами";
+
 "Equation" = "Уравнение";
 
 "Every 10 Minutes" = "Каждые 10 минут";
@@ -155,8 +159,6 @@
 "Export Copybook" = "Экспорт тетради";
 
 "Export PDF" = "Экспорт PDF";
-
-"Export PNG" = "Экспорт PNG";
 
 "Fill-in" = "Заполнение";
 
@@ -177,6 +179,10 @@
 "Height" = "Высота";
 
 "Horizontal Margin" = "Горизонтальный отступ";
+
+"Horizontal Spacing" = "Горизонтальный отступ";
+
+"Icon" = "Иконка";
 
 "Learn Clocks Copybook" = "Тетрадь для изучения часов";
 
@@ -218,11 +224,15 @@
 
 "Only on the Hour" = "Только ровно в час";
 
+"Opacity" = "Непрозрачность";
+
 "Operand" = "Операнд";
 
 "Operating Range" = "Диапазон операций";
 
 "Operation" = "Операция";
+
+"Page %lld / %lld" = "Page %1$lld / %2$lld";
 
 "Pen Control Practice Copybook" = "Тетрадь для тренировки контроля пера";
 
@@ -252,7 +262,11 @@
 
 "Reference" = "Справка";
 
+"Remove Icon" = "Удалить иконку";
+
 "Roman Numerals" = "Римские цифры";
+
+"Rotation" = "Поворот";
 
 "Save" = "Сохранить";
 
@@ -295,6 +309,8 @@
 "Vertical Margin" = "Вертикальный отступ";
 
 "Vertical Method" = "Вертикальный метод";
+
+"Vertical Spacing" = "Вертикальный отступ";
 
 "Visible" = "Видимый";
 

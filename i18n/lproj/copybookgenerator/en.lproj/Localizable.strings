@@ -12,8 +12,6 @@
 
 "%lld." = "%lld.";
 
-"%lldpx" = "%lldpx";
-
 "++Addition" = "++Addition";
 
 "--Subtraction" = "--Subtraction";
@@ -84,6 +82,8 @@
 
 "9" = "9";
 
+"Add Icon" = "Add Icon";
+
 "Add/Sub Operations Copybook" = "Add/Sub Operations Copybook";
 
 "Addition" = "Addition";
@@ -122,6 +122,8 @@
 
 "Count" = "Count";
 
+"Custom Watermark" = "Custom Watermark";
+
 "Dark Mode" = "Dark Mode";
 
 "Decomposition" = "Decomposition";
@@ -142,6 +144,8 @@
 
 "English Paragraph Copybook" = "English Paragraph Copybook";
 
+"English Word Copybook" = "English Word Copybook";
+
 "Equation" = "Equation";
 
 "Every 10 Minutes" = "Every 10 Minutes";
@@ -155,8 +159,6 @@
 "Export Copybook" = "Export Copybook";
 
 "Export PDF" = "Export PDF";
-
-"Export PNG" = "Export PNG";
 
 "Fill-in" = "Fill-in";
 
@@ -177,6 +179,10 @@
 "Height" = "Height";
 
 "Horizontal Margin" = "Horizontal Margin";
+
+"Horizontal Spacing" = "Horizontal Spacing";
+
+"Icon" = "Icon";
 
 "Learn Clocks Copybook" = "Learn Clocks Copybook";
 
@@ -218,11 +224,15 @@
 
 "Only on the Hour" = "Only on the Hour";
 
+"Opacity" = "Opacity";
+
 "Operand" = "Operand";
 
 "Operating Range" = "Operating Range";
 
 "Operation" = "Operation";
+
+"Page %lld / %lld" = "Page %1$lld / %2$lld";
 
 "Pen Control Practice Copybook" = "Pen Control Practice Copybook";
 
@@ -252,7 +262,11 @@
 
 "Reference" = "Reference";
 
+"Remove Icon" = "Remove Icon";
+
 "Roman Numerals" = "Roman Numerals";
+
+"Rotation" = "Rotation";
 
 "Save" = "Save";
 
@@ -295,6 +309,8 @@
 "Vertical Margin" = "Vertical Margin";
 
 "Vertical Method" = "Vertical Method";
+
+"Vertical Spacing" = "Vertical Spacing";
 
 "Visible" = "Visible";
 
