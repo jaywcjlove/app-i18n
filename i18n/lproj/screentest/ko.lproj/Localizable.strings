@@ -1,0 +1,227 @@
+"%@" = "%@";
+
+"%lld" = "%lld";
+
+"%lld px" = "%lld px";
+
+"%lldpt" = "%lldpt";
+
+"%lldx%lld" = "%1$lldx%2$lld";
+
+"(%lld/%lld)" = "(%1$lld/%2$lld)";
+
+"1px checker" = "1px 체커";
+
+"1px guides · dense bars · micro grid" = "1px 가이드 · 촘촘한 바 · 마이크로 그리드";
+
+"20+ test cases included" = "20개 이상의 테스트 케이스 포함";
+
+"Are you sure you want to delete the \"%@\" icon?" = "\"%@\" 아이콘을 삭제하시겠습니까?";
+
+"Background Color" = "배경색";
+
+"Bar Size" = "바 크기";
+
+"Black on white" = "흰 바탕에 검정";
+
+"Black to White" = "검정에서 흰색으로";
+
+"Black-and-white checkerboard for contrast, blur, and ghosting checks; adjust cell size to match viewing distance." = "흑백 체커보드로 대비, 흐림, 잔상을 확인합니다. 시청 거리에 맞게 셀 크기를 조절하세요.";
+
+"Blinking Blocks" = "깜빡이는 블록";
+
+"Blue Gradient" = "파란색 그라디언트";
+
+"Cancel" = "취소";
+
+"Cell Size" = "셀 크기";
+
+"Check grayscale transitions for banding or missing levels; steps should look even from black to white." = "그레이스케일 전환에서 밴딩이나 누락된 단계가 있는지 확인하세요. 검정부터 흰색까지 고르게 보여야 합니다.";
+
+"Check image uniformity with grayscale; brightness should be even and free of color areas." = "그레이스케일로 화면 균일도를 확인하세요. 밝기는 고르게 보여야 하며 색 얼룩이 없어야 합니다.";
+
+"Check sharpness, scaling, and subpixel rendering at multiple sizes." = "여러 크기에서 선명도, 스케일링, 서브픽셀 렌더링을 확인하세요.";
+
+"Checkerboard" = "체커보드";
+
+"Checks if the monitor displays text clearly and without shadows." = "모니터가 텍스트를 선명하고 그림자 없이 표시하는지 확인합니다.";
+
+"Clear Marks" = "마크 지우기";
+
+"Color" = "색상";
+
+"Colored Grid" = "컬러 그리드";
+
+"Column Spacing" = "열 간격";
+
+"Custom Color" = "사용자 지정 색상";
+
+"Customizable test case settings" = "사용자 지정 가능한 테스트 케이스 설정";
+
+"Cycles black, white, red, green, and blue full-screen to spot dead or stuck pixels. Enable mark mode and click to pin locations." = "검정, 흰색, 빨강, 초록, 파랑을 전체 화면으로 순환 표시하여 불량 화소나 고정 화소를 찾습니다. 마크 모드를 켜고 클릭하면 위치를 고정할 수 있습니다.";
+
+"Dead Pixel" = "불량 화소";
+
+"Delete Image" = "이미지 삭제";
+
+"Diagonal Line 1px" = "대각선 1px";
+
+"Diagonal Line 2px" = "대각선 2px";
+
+"Direction" = "방향";
+
+"Display Menu" = "디스플레이 메뉴";
+
+"Dot Matrix 1px" = "도트 매트릭스 1px";
+
+"Dot Matrix 2px" = "도트 매트릭스 2px";
+
+"Double Bar" = "이중 바";
+
+"Drag and drop an image into the window to add a test background image." = "이미지를 창으로 드래그 앤 드롭하여 테스트 배경 이미지를 추가하세요.";
+
+"Fill the screen with any solid color to check dead pixels, tint, or backlight issues." = "화면을 단색으로 채워 불량 화소, 색 번짐, 백라이트 문제를 확인하세요.";
+
+"Font Family" = "글꼴 패밀리";
+
+"Font Size" = "글꼴 크기";
+
+"Free" = "무료";
+
+"Full app functionality unlocked" = "앱의 모든 기능이 잠금 해제됩니다";
+
+"Go to First Page" = "첫 페이지로 이동";
+
+"Go to Last Page" = "마지막 페이지로 이동";
+
+"Gray Steps" = "회색 단계";
+
+"Gray Tone" = "그레이 톤";
+
+"Green Gradient" = "초록색 그라디언트";
+
+"H %lldpx" = "H %lldpx";
+
+"Hide" = "숨기기";
+
+"Hide Toolbar" = "도구 막대 숨기기";
+
+"Horizontal" = "Horizontal";
+
+"Horizontal Line 1px" = "가로선 1px";
+
+"Horizontal Line 2px" = "가로선 2px";
+
+"Image Background" = "배경 이미지";
+
+"Invert Colors" = "색상 반전";
+
+"Main Window" = "메인 창";
+
+"Mark Mode" = "마크 모드";
+
+"Micro Pattern" = "마이크로 패턴";
+
+"Motion Blur" = "모션 블러";
+
+"Moving high-contrast shapes reveal motion blur and ghosting; faster panels keep edges sharper." = "고대비의 움직이는 도형으로 모션 블러와 잔상을 확인할 수 있습니다. 더 빠른 패널일수록 가장자리가 더 선명하게 보입니다.";
+
+"Multi-size text and 1px guides for sharpness, scaling, and subpixel checks — pairs with the Sharpness watermark test." = "여러 크기의 텍스트와 1px 가이드로 선명도, 스케일링, 서브픽셀을 확인합니다. 선명도 워터마크 테스트와 함께 사용할 수 있습니다.";
+
+"Next Page" = "다음 페이지";
+
+"No Image Icon" = "이미지 아이콘 없음";
+
+"OK" = "OK";
+
+"Orientation" = "방향";
+
+"Pause" = "일시 정지";
+
+"Previous Page" = "이전 페이지";
+
+"Pro" = "Pro";
+
+"Pure Black" = "순검정";
+
+"Pure Blue" = "순파랑";
+
+"Pure Cyan" = "순시안";
+
+"Pure Green" = "순초록";
+
+"Pure Purple" = "순보라";
+
+"Pure Red" = "순빨강";
+
+"Pure White" = "순백";
+
+"Pure Yellow" = "순노랑";
+
+"Recommended Apps" = "추천 앱";
+
+"Red Gradient" = "빨간색 그라디언트";
+
+"Reset Settings" = "설정 초기화";
+
+"Rotation" = "회전";
+
+"Row Spacing" = "행 간격";
+
+"Saturation" = "채도";
+
+"Sharpness" = "선명도";
+
+"Show Chinese Sample" = "중국어 샘플 표시";
+
+"Show Color Label" = "색상 이름 표시";
+
+"Show Pixel Guides" = "픽셀 가이드 표시";
+
+"Show Toolbar" = "도구 막대 표시";
+
+"Single Bar" = "단일 바";
+
+"Speed" = "속도";
+
+"Square" = "사각형";
+
+"Square Grid" = "사각 그리드";
+
+"Steps" = "단계";
+
+"Style" = "스타일";
+
+"Text" = "텍스트";
+
+"Text / Resolution Chart" = "텍스트 / 해상도 차트";
+
+"Text Resolution" = "텍스트 해상도";
+
+"This is an app I developed and published on the App Store. After unlocking, you can hide [Recommended Apps](appStoreURL) in Settings." = "이 앱은 제가 개발해 App Store에 출시한 앱입니다. 잠금 해제 후 설정에서 [추천 앱](appStoreURL)을 숨길 수 있습니다.";
+
+"Time interval" = "시간 간격";
+
+"Typically used to test the breathing effect of CRT displays, devices that display stable edge lines perform better." = "일반적으로 CRT 디스플레이의 호흡 효과를 테스트하는 데 사용됩니다. 가장자리 선이 안정적으로 표시되는 장치일수록 더 좋은 결과를 보입니다.";
+
+"Uniformity" = "균일도";
+
+"Unlock" = "잠금 해제";
+
+"Unlock all Features" = "모든 기능 잠금 해제";
+
+"Use the arrow keys (%@ %@) to select the next test item" = "화살표 키(%1$@ %2$@)를 사용해 다음 테스트 항목을 선택하세요";
+
+"V %lldpx" = "V %lldpx";
+
+"Vertical" = "세로";
+
+"Vertical Line 1px" = "세로선 1px";
+
+"Vertical Line 2px" = "세로선 2px";
+
+"White Gradient" = "흰색 그라디언트";
+
+"White on black" = "검은 바탕에 흰색";
+
+"White to Black" = "흰색에서 검정으로";

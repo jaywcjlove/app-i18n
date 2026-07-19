@@ -2,11 +2,17 @@
 
 "%lld" = "%lld";
 
-"%lld %%" = "%lld %%";
+"%lld px" = "%lld px";
+
+"%lldpt" = "%lldpt";
 
 "%lldx%lld" = "%1$lldx%2$lld";
 
 "(%lld/%lld)" = "(%1$lld/%2$lld)";
+
+"1px checker" = "1px 棋盘";
+
+"1px guides · dense bars · micro grid" = "1px 参考线 · 密线 · 微网格";
 
 "20+ test cases included" = "提供 20+ 测试用例";
 
@@ -14,7 +20,13 @@
 
 "Background Color" = "背景颜色";
 
+"Bar Size" = "条带大小";
+
 "Black on white" = "黑底白字";
+
+"Black to White" = "黑到白";
+
+"Black-and-white checkerboard for contrast, blur, and ghosting checks; adjust cell size to match viewing distance." = "黑白棋盘用于检查对比度、模糊与拖影；可按观看距离调整格子大小。";
 
 "Blinking Blocks" = "闪烁方块";
 
@@ -22,9 +34,19 @@
 
 "Cancel" = "取消";
 
+"Cell Size" = "格子大小";
+
+"Check grayscale transitions for banding or missing levels; steps should look even from black to white." = "检查灰阶过渡是否有断层或缺失，从黑到白的阶梯应均匀平滑。";
+
 "Check image uniformity with grayscale; brightness should be even and free of color areas." = "使用灰阶检查图像均匀性，亮度应均匀且无彩色区域。";
 
+"Check sharpness, scaling, and subpixel rendering at multiple sizes." = "以多字号检查清晰度、缩放与子像素渲染。";
+
+"Checkerboard" = "棋盘对比度";
+
 "Checks if the monitor displays text clearly and without shadows." = "用于检查显示器文字是否清晰、无阴影。";
+
+"Clear Marks" = "清除标记";
 
 "Color" = "颜色";
 
@@ -32,7 +54,13 @@
 
 "Column Spacing" = "列间距";
 
+"Custom Color" = "自定义纯色";
+
 "Customizable test case settings" = "自定义测试用例设置选项";
+
+"Cycles black, white, red, green, and blue full-screen to spot dead or stuck pixels. Enable mark mode and click to pin locations." = "全屏循环黑、白、红、绿、蓝，用于查找坏点或亮点。开启标记模式后点击可固定位置。";
+
+"Dead Pixel" = "坏点检测";
 
 "Delete Image" = "删除图片";
 
@@ -40,13 +68,19 @@
 
 "Diagonal Line 2px" = "对角线 2像素";
 
+"Direction" = "方向";
+
 "Display Menu" = "显示菜单";
 
 "Dot Matrix 1px" = "点阵 1像素";
 
 "Dot Matrix 2px" = "点阵 2像素";
 
+"Double Bar" = "双条";
+
 "Drag and drop an image into the window to add a test background image." = "将图片拖拽到窗口添加测试背景图片。";
+
+"Fill the screen with any solid color to check dead pixels, tint, or backlight issues." = "全屏显示任意纯色，用于检查坏点、色偏或背光问题。";
 
 "Font Family" = "字体系列";
 
@@ -60,13 +94,19 @@
 
 "Go to Last Page" = "到尾页";
 
+"Gray Steps" = "灰阶阶梯";
+
 "Gray Tone" = "灰阶";
 
 "Green Gradient" = "绿色渐变";
 
+"H %lldpx" = "H %lldpx";
+
 "Hide" = "隐藏";
 
 "Hide Toolbar" = "隐藏工具栏";
+
+"Horizontal" = "水平";
 
 "Horizontal Line 1px" = "水平线1像素";
 
@@ -74,17 +114,29 @@
 
 "Image Background" = "图片背景";
 
+"Invert Colors" = "反色";
+
 "Main Window" = "主窗口";
+
+"Mark Mode" = "标记模式";
 
 "Micro Pattern" = "微小图案";
 
-"Monitor Screen Testing Tool" = "显示器屏幕检测工具";
+"Motion Blur" = "运动拖影";
+
+"Moving high-contrast shapes reveal motion blur and ghosting; faster panels keep edges sharper." = "高对比移动图形用于观察运动模糊与拖影；响应更快的屏幕边缘更清晰。";
+
+"Multi-size text and 1px guides for sharpness, scaling, and subpixel checks — pairs with the Sharpness watermark test." = "多字号文字与 1px 参考线，用于清晰度、缩放与子像素检查，可与清晰度水印测试配合使用。";
 
 "Next Page" = "下一页";
 
 "No Image Icon" = "没有图片图标";
 
 "OK" = "确认";
+
+"Orientation" = "排列";
+
+"Pause" = "暂停";
 
 "Previous Page" = "上一页";
 
@@ -120,11 +172,31 @@
 
 "Sharpness" = "清晰度";
 
+"Show Chinese Sample" = "显示中文样本";
+
+"Show Color Label" = "显示颜色名称";
+
+"Show Pixel Guides" = "显示像素参考线";
+
 "Show Toolbar" = "显示工具栏";
+
+"Single Bar" = "单条";
+
+"Speed" = "速度";
+
+"Square" = "方块";
 
 "Square Grid" = "方形网格";
 
+"Steps" = "阶数";
+
+"Style" = "样式";
+
 "Text" = "文本";
+
+"Text / Resolution Chart" = "文字 / 分辨率测试图";
+
+"Text Resolution" = "文字分辨率";
 
 "This is an app I developed and published on the App Store. After unlocking, you can hide [Recommended Apps](appStoreURL) in Settings." = "这是我开发并发布在应用商店的应用，解锁后可在设置中隐藏[推荐应用](appStoreURL)。";
 
@@ -140,6 +212,10 @@
 
 "Use the arrow keys (%@ %@) to select the next test item" = "使用方向键（%1$@ %2$@）来选择下一个测试项目";
 
+"V %lldpx" = "V %lldpx";
+
+"Vertical" = "垂直";
+
 "Vertical Line 1px" = "垂直线1像素";
 
 "Vertical Line 2px" = "垂直线2像素";
@@ -147,3 +223,5 @@
 "White Gradient" = "白色渐变";
 
 "White on black" = "白底黑字";
+
+"White to Black" = "白到黑";

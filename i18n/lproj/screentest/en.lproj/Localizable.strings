@@ -2,11 +2,17 @@
 
 "%lld" = "%lld";
 
-"%lld %%" = "%lld %%";
+"%lld px" = "%lld px";
+
+"%lldpt" = "%lldpt";
 
 "%lldx%lld" = "%1$lldx%2$lld";
 
 "(%lld/%lld)" = "(%1$lld/%2$lld)";
+
+"1px checker" = "1px checker";
+
+"1px guides · dense bars · micro grid" = "1px guides · dense bars · micro grid";
 
 "20+ test cases included" = "20+ test cases included";
 
@@ -14,7 +20,13 @@
 
 "Background Color" = "Background Color";
 
+"Bar Size" = "Bar Size";
+
 "Black on white" = "Black on white";
+
+"Black to White" = "Black to White";
+
+"Black-and-white checkerboard for contrast, blur, and ghosting checks; adjust cell size to match viewing distance." = "Black-and-white checkerboard for contrast, blur, and ghosting checks; adjust cell size to match viewing distance.";
 
 "Blinking Blocks" = "Blinking Blocks";
 
@@ -22,9 +34,19 @@
 
 "Cancel" = "Cancel";
 
+"Cell Size" = "Cell Size";
+
+"Check grayscale transitions for banding or missing levels; steps should look even from black to white." = "Check grayscale transitions for banding or missing levels; steps should look even from black to white.";
+
 "Check image uniformity with grayscale; brightness should be even and free of color areas." = "Check image uniformity with grayscale; brightness should be even and free of color areas.";
 
+"Check sharpness, scaling, and subpixel rendering at multiple sizes." = "Check sharpness, scaling, and subpixel rendering at multiple sizes.";
+
+"Checkerboard" = "Checkerboard";
+
 "Checks if the monitor displays text clearly and without shadows." = "Checks if the monitor displays text clearly and without shadows.";
+
+"Clear Marks" = "Clear Marks";
 
 "Color" = "Color";
 
@@ -32,7 +54,13 @@
 
 "Column Spacing" = "Column Spacing";
 
+"Custom Color" = "Custom Color";
+
 "Customizable test case settings" = "Customizable test case settings";
+
+"Cycles black, white, red, green, and blue full-screen to spot dead or stuck pixels. Enable mark mode and click to pin locations." = "Cycles black, white, red, green, and blue full-screen to spot dead or stuck pixels. Enable mark mode and click to pin locations.";
+
+"Dead Pixel" = "Dead Pixel";
 
 "Delete Image" = "Delete Image";
 
@@ -40,13 +68,19 @@
 
 "Diagonal Line 2px" = "Diagonal Line 2px";
 
+"Direction" = "Direction";
+
 "Display Menu" = "Display Menu";
 
 "Dot Matrix 1px" = "Dot Matrix 1px";
 
 "Dot Matrix 2px" = "Dot Matrix 2px";
 
+"Double Bar" = "Double Bar";
+
 "Drag and drop an image into the window to add a test background image." = "Drag and drop an image into the window to add a test background image.";
+
+"Fill the screen with any solid color to check dead pixels, tint, or backlight issues." = "Fill the screen with any solid color to check dead pixels, tint, or backlight issues.";
 
 "Font Family" = "Font Family";
 
@@ -60,13 +94,19 @@
 
 "Go to Last Page" = "Go to Last Page";
 
+"Gray Steps" = "Gray Steps";
+
 "Gray Tone" = "Gray Tone";
 
 "Green Gradient" = "Green Gradient";
 
+"H %lldpx" = "H %lldpx";
+
 "Hide" = "Hide";
 
 "Hide Toolbar" = "Hide Toolbar";
+
+"Horizontal" = "Horizontal";
 
 "Horizontal Line 1px" = "Horizontal Line 1px";
 
@@ -74,17 +114,29 @@
 
 "Image Background" = "Image Background";
 
+"Invert Colors" = "Invert Colors";
+
 "Main Window" = "Main Window";
+
+"Mark Mode" = "Mark Mode";
 
 "Micro Pattern" = "Micro Pattern";
 
-"Monitor Screen Testing Tool" = "Monitor Screen Testing Tool";
+"Motion Blur" = "Motion Blur";
+
+"Moving high-contrast shapes reveal motion blur and ghosting; faster panels keep edges sharper." = "Moving high-contrast shapes reveal motion blur and ghosting; faster panels keep edges sharper.";
+
+"Multi-size text and 1px guides for sharpness, scaling, and subpixel checks — pairs with the Sharpness watermark test." = "Multi-size text and 1px guides for sharpness, scaling, and subpixel checks — pairs with the Sharpness watermark test.";
 
 "Next Page" = "Next Page";
 
 "No Image Icon" = "No Image Icon";
 
 "OK" = "OK";
+
+"Orientation" = "Orientation";
+
+"Pause" = "Pause";
 
 "Previous Page" = "Previous Page";
 
@@ -120,11 +172,31 @@
 
 "Sharpness" = "Sharpness";
 
+"Show Chinese Sample" = "Show Chinese Sample";
+
+"Show Color Label" = "Show Color Label";
+
+"Show Pixel Guides" = "Show Pixel Guides";
+
 "Show Toolbar" = "Show Toolbar";
+
+"Single Bar" = "Single Bar";
+
+"Speed" = "Speed";
+
+"Square" = "Square";
 
 "Square Grid" = "Square Grid";
 
+"Steps" = "Steps";
+
+"Style" = "Style";
+
 "Text" = "Text";
+
+"Text / Resolution Chart" = "Text / Resolution Chart";
+
+"Text Resolution" = "Text Resolution";
 
 "This is an app I developed and published on the App Store. After unlocking, you can hide [Recommended Apps](appStoreURL) in Settings." = "This is an app I developed and published on the App Store. After unlocking, you can hide [Recommended Apps](appStoreURL) in Settings.";
 
@@ -140,6 +212,10 @@
 
 "Use the arrow keys (%@ %@) to select the next test item" = "Use the arrow keys (%1$@ %2$@) to select the next test item";
 
+"V %lldpx" = "V %lldpx";
+
+"Vertical" = "Vertical";
+
 "Vertical Line 1px" = "Vertical Line 1px";
 
 "Vertical Line 2px" = "Vertical Line 2px";
@@ -147,3 +223,5 @@
 "White Gradient" = "White Gradient";
 
 "White on black" = "White on black";
+
+"White to Black" = "White to Black";
