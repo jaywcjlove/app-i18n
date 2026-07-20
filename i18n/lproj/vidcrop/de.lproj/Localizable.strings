@@ -6,8 +6,6 @@
 
 "%lld × %lld" = "%1$lld × %2$lld";
 
-"%lld%%" = "%lld%%";
-
 "%lld/%lld" = "%1$lld/%2$lld";
 
 "1 person selected. Tap again to deselect, or select more." = "1 Person ausgewählt. Erneut tippen zum Abwählen oder weitere auswählen.";
@@ -176,7 +174,7 @@
 
 "Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "Clip scannen, dann auf Personen tippen zum Auswählen (erneut tippen zum Abwählen). Mehrfachauswahl möglich.";
 
-"Scanning faces… %lld%%" = "Gesichter werden gescannt… %lld%%";
+"Scanning faces… %@" = "Gesichter werden gescannt… %@";
 
 "Scanning video for faces…" = "Video wird nach Gesichtern durchsucht…";
 
@@ -194,7 +192,7 @@
 
 "Set Crop Area" = "Zuschneidebereich festlegen";
 
-"Tap “Scan Video Faces” to detect people." = "Tippe auf „Gesichter scannen", um Personen zu erkennen.";
+"Tap “Scan Video Faces” to detect people." = "Tippe auf „Gesichter scannen“, um Personen zu erkennen.";
 
 "Text Size" = "Textgröße";
 

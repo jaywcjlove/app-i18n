@@ -341,52 +341,6 @@
         }
       }
     },
-    "%lld%%" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld%%"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld%%"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld%%"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld%%"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld%%"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld%%"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld%%"
-          }
-        }
-      }
-    },
     "1 person selected. Tap again to deselect, or select more." : {
       "localizations" : {
         "de" : {
@@ -4257,48 +4211,48 @@
         }
       }
     },
-    "Scanning faces… %lld%%" : {
+    "Scanning faces… %@" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gesichter werden gescannt… %lld%%"
+            "value" : "Gesichter werden gescannt… %@"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scan des visages… %lld%%"
+            "value" : "Scan des visages… %@"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "顔をスキャン中… %lld%%"
+            "value" : "顔をスキャン中… %@"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "얼굴 스캔 중… %lld%%"
+            "value" : "얼굴 스캔 중… %@"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сканирование лиц… %lld%%"
+            "value" : "Сканирование лиц… %@"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在扫描面部… %lld%%"
+            "value" : "正在扫描面部… %@"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在掃描面部… %lld%%"
+            "value" : "正在掃描面部… %@"
           }
         }
       }
@@ -4682,7 +4636,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tippe auf „Gesichter scannen"
+            "value" : "Tippe auf „Gesichter scannen“, um Personen zu erkennen."
           }
         },
         "fr" : {

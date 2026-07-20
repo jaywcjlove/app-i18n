@@ -6,8 +6,6 @@
 
 "%lld × %lld" = "%1$lld × %2$lld";
 
-"%lld%%" = "%lld%%";
-
 "%lld/%lld" = "%1$lld/%2$lld";
 
 "1 person selected. Tap again to deselect, or select more." = "1 personne sélectionnée. Appuyez à nouveau pour désélectionner, ou sélectionnez-en plus.";
@@ -176,7 +174,7 @@
 
 "Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "Scannez le clip, puis appuyez sur les personnes pour les sélectionner (appuyez à nouveau pour désélectionner). Sélection multiple possible.";
 
-"Scanning faces… %lld%%" = "Scan des visages… %lld%%";
+"Scanning faces… %@" = "Scan des visages… %@";
 
 "Scanning video for faces…" = "Recherche de visages dans la vidéo…";
 

@@ -6,8 +6,6 @@
 
 "%lld × %lld" = "%1$lld × %2$lld";
 
-"%lld%%" = "%lld%%";
-
 "%lld/%lld" = "%1$lld/%2$lld";
 
 "1 person selected. Tap again to deselect, or select more." = "已选择 1 人。再次点击取消选择，或继续选择更多人。";
@@ -176,7 +174,7 @@
 
 "Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "扫描片段，然后点击人物以选择（再次点击取消选择）。支持多选。";
 
-"Scanning faces… %lld%%" = "正在扫描面部… %lld%%";
+"Scanning faces… %@" = "正在扫描面部… %@";
 
 "Scanning video for faces…" = "正在扫描视频中的面部…";
 
