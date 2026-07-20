@@ -18,9 +18,13 @@
 
 "Are you sure you want to delete the \"%@\" icon?" = "确定要删除「%@」图标吗？";
 
+"Auto Cycle" = "自动循环";
+
 "Background Color" = "背景颜色";
 
 "Bar Size" = "条带大小";
+
+"Black" = "黑色";
 
 "Black on white" = "黑底白字";
 
@@ -29,6 +33,8 @@
 "Black-and-white checkerboard for contrast, blur, and ghosting checks; adjust cell size to match viewing distance." = "黑白棋盘用于检查对比度、模糊与拖影；可按观看距离调整格子大小。";
 
 "Blinking Blocks" = "闪烁方块";
+
+"Blue" = "蓝色";
 
 "Blue Gradient" = "蓝色渐变";
 
@@ -86,6 +92,10 @@
 
 "Font Size" = "字体大小";
 
+"Frame Strobe" = "帧闪烁";
+
+"Frame strobe — each frame flips color" = "帧闪烁 — 每帧切换颜色";
+
 "Free" = "免费";
 
 "Full app functionality unlocked" = "完整解锁应用功能";
@@ -97,6 +107,8 @@
 "Gray Steps" = "灰阶阶梯";
 
 "Gray Tone" = "灰阶";
+
+"Green" = "绿色";
 
 "Green Gradient" = "绿色渐变";
 
@@ -120,6 +132,8 @@
 
 "Mark Mode" = "标记模式";
 
+"Measures app frame delivery vs. the system-reported rate. Useful to check 60/120/144 Hz class behavior; not a hardware lab meter. Press Space to pause." = "测量应用帧提交频率，并与系统报告刷新率对比。可区分约 60/120/144 Hz 档位，并非实验室级硬件仪表。按空格暂停。";
+
 "Micro Pattern" = "微小图案";
 
 "Motion Blur" = "运动拖影";
@@ -136,7 +150,11 @@
 
 "Orientation" = "排列";
 
+"Overview" = "概览";
+
 "Pause" = "暂停";
+
+"Paused — press Space to resume" = "已暂停 — 按空格继续";
 
 "Previous Page" = "上一页";
 
@@ -160,7 +178,11 @@
 
 "Recommended Apps" = "推荐应用";
 
+"Red" = "红色";
+
 "Red Gradient" = "红色渐变";
+
+"Refresh Rate" = "刷新率";
 
 "Reset Settings" = "重置设置";
 
@@ -170,7 +192,11 @@
 
 "Saturation" = "饱和度";
 
+"Scanline" = "扫描线";
+
 "Sharpness" = "清晰度";
+
+"Shortcut: Space" = "快捷键：空格";
 
 "Show Chinese Sample" = "显示中文样本";
 
@@ -181,6 +207,8 @@
 "Show Toolbar" = "显示工具栏";
 
 "Single Bar" = "单条";
+
+"Space to pause · Higher Hz → smoother bar · software estimate, not a lab meter" = "空格暂停 · 刷新率越高扫描条越平滑 · 软件估算，非仪器测量";
 
 "Speed" = "速度";
 
@@ -219,6 +247,8 @@
 "Vertical Line 1px" = "垂直线1像素";
 
 "Vertical Line 2px" = "垂直线2像素";
+
+"White" = "白色";
 
 "White Gradient" = "白色渐变";
 

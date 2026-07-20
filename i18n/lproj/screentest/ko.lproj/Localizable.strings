@@ -18,9 +18,13 @@
 
 "Are you sure you want to delete the \"%@\" icon?" = "\"%@\" 아이콘을 삭제하시겠습니까?";
 
+"Auto Cycle" = "자동 순환";
+
 "Background Color" = "배경색";
 
 "Bar Size" = "바 크기";
+
+"Black" = "검정";
 
 "Black on white" = "흰 바탕에 검정";
 
@@ -29,6 +33,8 @@
 "Black-and-white checkerboard for contrast, blur, and ghosting checks; adjust cell size to match viewing distance." = "흑백 체커보드로 대비, 흐림, 잔상을 확인합니다. 시청 거리에 맞게 셀 크기를 조절하세요.";
 
 "Blinking Blocks" = "깜빡이는 블록";
+
+"Blue" = "파랑";
 
 "Blue Gradient" = "파란색 그라디언트";
 
@@ -86,6 +92,10 @@
 
 "Font Size" = "글꼴 크기";
 
+"Frame Strobe" = "프레임 스트로브";
+
+"Frame strobe — each frame flips color" = "프레임 스트로브 — 프레임마다 색이 전환됩니다";
+
 "Free" = "무료";
 
 "Full app functionality unlocked" = "앱의 모든 기능이 잠금 해제됩니다";
@@ -97,6 +107,8 @@
 "Gray Steps" = "회색 단계";
 
 "Gray Tone" = "그레이 톤";
+
+"Green" = "초록";
 
 "Green Gradient" = "초록색 그라디언트";
 
@@ -120,6 +132,8 @@
 
 "Mark Mode" = "마크 모드";
 
+"Measures app frame delivery vs. the system-reported rate. Useful to check 60/120/144 Hz class behavior; not a hardware lab meter. Press Space to pause." = "앱의 프레임 출력과 시스템 보고 주사율을 비교해 측정합니다. 60/120/144 Hz급 동작 확인에 유용하지만, 하드웨어 실험실 계측기는 아닙니다. Space를 눌러 일시 정지하세요.";
+
 "Micro Pattern" = "마이크로 패턴";
 
 "Motion Blur" = "모션 블러";
@@ -136,7 +150,11 @@
 
 "Orientation" = "방향";
 
+"Overview" = "개요";
+
 "Pause" = "일시 정지";
+
+"Paused — press Space to resume" = "일시 정지됨 — Space를 눌러 다시 시작";
 
 "Previous Page" = "이전 페이지";
 
@@ -160,7 +178,11 @@
 
 "Recommended Apps" = "추천 앱";
 
+"Red" = "빨강";
+
 "Red Gradient" = "빨간색 그라디언트";
+
+"Refresh Rate" = "주사율";
 
 "Reset Settings" = "설정 초기화";
 
@@ -170,7 +192,11 @@
 
 "Saturation" = "채도";
 
+"Scanline" = "스캔라인";
+
 "Sharpness" = "선명도";
+
+"Shortcut: Space" = "단축키: Space";
 
 "Show Chinese Sample" = "중국어 샘플 표시";
 
@@ -181,6 +207,8 @@
 "Show Toolbar" = "도구 막대 표시";
 
 "Single Bar" = "단일 바";
+
+"Space to pause · Higher Hz → smoother bar · software estimate, not a lab meter" = "Space로 일시 정지 · Hz가 높을수록 → 바가 더 부드러움 · 실험실 계측기가 아닌 소프트웨어 추정치";
 
 "Speed" = "속도";
 
@@ -219,6 +247,8 @@
 "Vertical Line 1px" = "세로선 1px";
 
 "Vertical Line 2px" = "세로선 2px";
+
+"White" = "흰색";
 
 "White Gradient" = "흰색 그라디언트";
 
