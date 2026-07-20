@@ -1,4 +1,16 @@
+"%lld" = "%lld";
+
+"%lld people selected. Tap a face again to deselect." = "%lld people selected. Tap a face again to deselect.";
+
+"%lld · %@" = "%1$lld · %2$@";
+
 "%lld × %lld" = "%1$lld × %2$lld";
+
+"%lld%%" = "%lld%%";
+
+"%lld/%lld" = "%1$lld/%2$lld";
+
+"1 person selected. Tap again to deselect, or select more." = "1 person selected. Tap again to deselect, or select more.";
 
 "16:9" = "16:9";
 
@@ -22,6 +34,8 @@
 
 "Avatar Size" = "Avatar Size";
 
+"Balanced" = "Balanced";
+
 "Base" = "Base";
 
 "Bottom Center" = "Bottom Center";
@@ -38,11 +52,25 @@
 
 "Choose" = "Choose";
 
+"Choose export format" = "Choose export format";
+
+"Clear Selection" = "Clear Selection";
+
+"Close" = "Close";
+
 "Crop Area Settings" = "Crop Area Settings";
+
+"Dense" = "Dense";
+
+"Detecting faces…" = "Detecting faces…";
 
 "Dimensions" = "Dimensions";
 
+"Done" = "Done";
+
 "Drop a Video!" = "Drop a Video!";
+
+"Enable mosaic" = "Enable mosaic";
 
 "Export .gif Image" = "Export .gif Image";
 
@@ -51,6 +79,8 @@
 "Export .mov Video" = "Export .mov Video";
 
 "Export .mp4 Video" = "Export .mp4 Video";
+
+"Export .wav Audio" = "Export .wav Audio";
 
 "Export Cancelled" = "Export Cancelled";
 
@@ -64,6 +94,14 @@
 
 "Exporting video..." = "Exporting video...";
 
+"Face Mosaic" = "Face Mosaic";
+
+"Fast" = "Fast";
+
+"Fast · Balanced · Dense" = "Fast · Balanced · Dense";
+
+"Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
+
 "Free" = "Free";
 
 "Height" = "Height";
@@ -76,7 +114,17 @@
 
 "Middle Right" = "Middle Right";
 
+"Mosaic" = "Mosaic";
+
+"No faces found in this clip" = "No faces found in this clip";
+
 "No permission to parse the video file" = "No permission to parse the video file";
+
+"No person selected." = "No person selected.";
+
+"No scan yet" = "No scan yet";
+
+"No video loaded" = "No video loaded";
 
 "OK" = "OK";
 
@@ -88,17 +136,31 @@
 
 "Original" = "Original";
 
+"People" = "People";
+
+"Person %lld" = "Person %lld";
+
 "Playback Speed" = "Playback Speed";
 
 "Please choose a location and filename to save" = "Please choose a location and filename to save";
 
 "Position" = "Position";
 
+"Preparing face previews…" = "Preparing face previews…";
+
 "Pro" = "Pro";
 
 "Processing..." = "Processing...";
 
+"Random" = "Random";
+
 "Remove" = "Remove";
+
+"Rescan Video Faces" = "Rescan Video Faces";
+
+"Restored last scan. %lld person(s). Tap a face to select." = "Restored last scan. %lld person(s). Tap a face to select.";
+
+"Restored last scan. %lld person(s); one selected." = "Restored last scan. %lld person(s); one selected.";
 
 "Save" = "Save";
 
@@ -106,9 +168,33 @@
 
 "Scale" = "Scale";
 
+"Scan" = "Scan";
+
+"Scan Video Faces" = "Scan Video Faces";
+
+"Scan density" = "Scan density";
+
+"Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "Scan the clip, then tap people to select (tap again to deselect). Multi-select supported.";
+
+"Scanning faces… %lld%%" = "Scanning faces… %lld%%";
+
+"Scanning video for faces…" = "Scanning video for faces…";
+
+"Scanning… %@ (~%lld max @ %@fps)" = "Scanning… %1$@ (~%2$lld max @ %3$@fps)";
+
+"Scanning… you can leave this window open." = "Scanning… you can leave this window open.";
+
 "Select Video file" = "Select Video file";
 
+"Selected" = "Selected";
+
+"Selected %lld person(s)" = "Selected %lld person(s)";
+
+"Selection cleared." = "Selection cleared.";
+
 "Set Crop Area" = "Set Crop Area";
+
+"Tap “Scan Video Faces” to detect people." = "Tap “Scan Video Faces” to detect people.";
 
 "Text Size" = "Text Size";
 
@@ -135,3 +221,5 @@
 "Width" = "Width";
 
 "or" = "or";
+
+"· tap to toggle" = "· tap to toggle";

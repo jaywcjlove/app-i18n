@@ -1,4 +1,16 @@
+"%lld" = "%lld";
+
+"%lld people selected. Tap a face again to deselect." = "Выбрано %lld чел. Нажмите на лицо еще раз, чтобы отменить выбор.";
+
+"%lld · %@" = "%1$lld · %2$@";
+
 "%lld × %lld" = "%1$lld × %2$lld";
+
+"%lld%%" = "%lld%%";
+
+"%lld/%lld" = "%1$lld/%2$lld";
+
+"1 person selected. Tap again to deselect, or select more." = "Выбран 1 человек. Нажмите еще раз, чтобы отменить выбор, или выберите еще.";
 
 "16:9" = "16:9";
 
@@ -22,6 +34,8 @@
 
 "Avatar Size" = "Размер аватара";
 
+"Balanced" = "Сбалансированный";
+
 "Base" = "Основа";
 
 "Bottom Center" = "Снизу по центру";
@@ -38,11 +52,25 @@
 
 "Choose" = "Выбрать";
 
+"Choose export format" = "Выберите формат экспорта";
+
+"Clear Selection" = "Снять выбор";
+
+"Close" = "Закрыть";
+
 "Crop Area Settings" = "Настройки области обрезки";
+
+"Dense" = "Плотный";
+
+"Detecting faces…" = "Обнаружение лиц…";
 
 "Dimensions" = "Размеры";
 
+"Done" = "Готово";
+
 "Drop a Video!" = "Перетащите видео!";
+
+"Enable mosaic" = "Включить мозаику";
 
 "Export .gif Image" = "Экспорт изображения .gif";
 
@@ -51,6 +79,8 @@
 "Export .mov Video" = "Экспорт видео .mov";
 
 "Export .mp4 Video" = "Экспорт видео .mp4";
+
+"Export .wav Audio" = "Экспорт аудио .wav";
 
 "Export Cancelled" = "Экспорт отменен";
 
@@ -64,6 +94,14 @@
 
 "Exporting video..." = "Идет экспорт видео...";
 
+"Face Mosaic" = "Мозаика лиц";
+
+"Fast" = "Быстрый";
+
+"Fast · Balanced · Dense" = "Быстрый · Сбалансированный · Плотный";
+
+"Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
+
 "Free" = "Бесплатно";
 
 "Height" = "Высота";
@@ -76,7 +114,17 @@
 
 "Middle Right" = "По центру справа";
 
+"Mosaic" = "Мозаика";
+
+"No faces found in this clip" = "Лица в этом клипе не найдены";
+
 "No permission to parse the video file" = "Нет прав для обработки видеофайла";
+
+"No person selected." = "Никто не выбран.";
+
+"No scan yet" = "Сканирование еще не выполнено";
+
+"No video loaded" = "Видео не загружено";
 
 "OK" = "OK";
 
@@ -88,17 +136,31 @@
 
 "Original" = "Оригинал";
 
+"People" = "Люди";
+
+"Person %lld" = "Человек %lld";
+
 "Playback Speed" = "Скорость воспроизведения";
 
 "Please choose a location and filename to save" = "Выберите место и имя файла для сохранения";
 
 "Position" = "Положение";
 
+"Preparing face previews…" = "Подготовка превью лиц…";
+
 "Pro" = "Pro";
 
 "Processing..." = "Обработка...";
 
+"Random" = "Случайный";
+
 "Remove" = "Удалить";
+
+"Rescan Video Faces" = "Повторное сканирование лиц";
+
+"Restored last scan. %lld person(s). Tap a face to select." = "Восстановлено последнее сканирование. %lld чел. Нажмите на лицо, чтобы выбрать.";
+
+"Restored last scan. %lld person(s); one selected." = "Восстановлено последнее сканирование. %lld чел.; один выбран.";
 
 "Save" = "Сохранить";
 
@@ -106,9 +168,33 @@
 
 "Scale" = "Масштаб";
 
+"Scan" = "Сканировать";
+
+"Scan Video Faces" = "Сканировать лица";
+
+"Scan density" = "Плотность сканирования";
+
+"Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "Сканируйте клип, затем нажимайте на людей для выбора (повторное нажатие отменяет выбор). Поддерживается множественный выбор.";
+
+"Scanning faces… %lld%%" = "Сканирование лиц… %lld%%";
+
+"Scanning video for faces…" = "Поиск лиц в видео…";
+
+"Scanning… %@ (~%lld max @ %@fps)" = "Scanning… %1$@ (~%2$lld max @ %3$@fps)";
+
+"Scanning… you can leave this window open." = "Сканирование… вы можете оставить это окно открытым.";
+
 "Select Video file" = "Выбрать видеофайл";
 
+"Selected" = "Выбрано";
+
+"Selected %lld person(s)" = "Выбрано %lld чел.";
+
+"Selection cleared." = "Выбор снят.";
+
 "Set Crop Area" = "Задать область обрезки";
+
+"Tap “Scan Video Faces” to detect people." = "Нажмите «Сканировать лица», чтобы обнаружить людей.";
 
 "Text Size" = "Размер текста";
 
@@ -135,3 +221,5 @@
 "Width" = "Ширина";
 
 "or" = "или";
+
+"· tap to toggle" = "· нажмите для переключения";

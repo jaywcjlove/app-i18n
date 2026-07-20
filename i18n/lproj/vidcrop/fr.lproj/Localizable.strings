@@ -1,4 +1,16 @@
+"%lld" = "%lld";
+
+"%lld people selected. Tap a face again to deselect." = "%lld personnes sélectionnées. Appuyez à nouveau sur un visage pour désélectionner.";
+
+"%lld · %@" = "%1$lld · %2$@";
+
 "%lld × %lld" = "%1$lld × %2$lld";
+
+"%lld%%" = "%lld%%";
+
+"%lld/%lld" = "%1$lld/%2$lld";
+
+"1 person selected. Tap again to deselect, or select more." = "1 personne sélectionnée. Appuyez à nouveau pour désélectionner, ou sélectionnez-en plus.";
 
 "16:9" = "16:9";
 
@@ -22,6 +34,8 @@
 
 "Avatar Size" = "Taille de l'avatar";
 
+"Balanced" = "Équilibré";
+
 "Base" = "Base";
 
 "Bottom Center" = "Bas Centre";
@@ -38,11 +52,25 @@
 
 "Choose" = "Choisir";
 
+"Choose export format" = "Choisir le format d'exportation";
+
+"Clear Selection" = "Effacer la sélection";
+
+"Close" = "Fermer";
+
 "Crop Area Settings" = "Paramètres de la zone de recadrage";
+
+"Dense" = "Dense";
+
+"Detecting faces…" = "Détection des visages…";
 
 "Dimensions" = "Dimensions";
 
+"Done" = "Terminé";
+
 "Drop a Video!" = "Déposez une vidéo !";
+
+"Enable mosaic" = "Activer la mosaïque";
 
 "Export .gif Image" = "Exporter l'image .gif";
 
@@ -51,6 +79,8 @@
 "Export .mov Video" = "Exporter la vidéo en .mov";
 
 "Export .mp4 Video" = "Exporter la vidéo en .mp4";
+
+"Export .wav Audio" = "Exporter l'audio .wav";
 
 "Export Cancelled" = "Exportation annulée";
 
@@ -64,6 +94,14 @@
 
 "Exporting video..." = "Exportation de la vidéo...";
 
+"Face Mosaic" = "Mosaïque de visage";
+
+"Fast" = "Rapide";
+
+"Fast · Balanced · Dense" = "Rapide · Équilibré · Dense";
+
+"Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
+
 "Free" = "Gratuit";
 
 "Height" = "Hauteur";
@@ -76,7 +114,17 @@
 
 "Middle Right" = "Milieu Droite";
 
+"Mosaic" = "Mosaïque";
+
+"No faces found in this clip" = "Aucun visage trouvé dans ce clip";
+
 "No permission to parse the video file" = "Aucune autorisation pour analyser le fichier vidéo";
+
+"No person selected." = "Aucune personne sélectionnée.";
+
+"No scan yet" = "Pas encore de scan";
+
+"No video loaded" = "Aucune vidéo chargée";
 
 "OK" = "OK";
 
@@ -88,17 +136,31 @@
 
 "Original" = "Original";
 
+"People" = "Personnes";
+
+"Person %lld" = "Personne %lld";
+
 "Playback Speed" = "Vitesse de lecture";
 
 "Please choose a location and filename to save" = "Veuillez choisir un emplacement et un nom de fichier pour enregistrer";
 
 "Position" = "Emplacement";
 
+"Preparing face previews…" = "Préparation des aperçus de visages…";
+
 "Pro" = "Pro";
 
 "Processing..." = "Traitement en cours...";
 
+"Random" = "Aléatoire";
+
 "Remove" = "Supprimer";
+
+"Rescan Video Faces" = "Réanalyser les visages";
+
+"Restored last scan. %lld person(s). Tap a face to select." = "Dernier scan restauré. %lld personne(s). Appuyez sur un visage pour sélectionner.";
+
+"Restored last scan. %lld person(s); one selected." = "Dernier scan restauré. %lld personne(s) ; une sélectionnée.";
 
 "Save" = "Enregistrer";
 
@@ -106,9 +168,33 @@
 
 "Scale" = "Échelle";
 
+"Scan" = "Scanner";
+
+"Scan Video Faces" = "Scanner les visages";
+
+"Scan density" = "Densité du scan";
+
+"Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "Scannez le clip, puis appuyez sur les personnes pour les sélectionner (appuyez à nouveau pour désélectionner). Sélection multiple possible.";
+
+"Scanning faces… %lld%%" = "Scan des visages… %lld%%";
+
+"Scanning video for faces…" = "Recherche de visages dans la vidéo…";
+
+"Scanning… %@ (~%lld max @ %@fps)" = "Scanning… %1$@ (~%2$lld max @ %3$@fps)";
+
+"Scanning… you can leave this window open." = "Scan en cours… vous pouvez laisser cette fenêtre ouverte.";
+
 "Select Video file" = "Sélectionner un fichier vidéo";
 
+"Selected" = "Sélectionné";
+
+"Selected %lld person(s)" = "%lld personne(s) sélectionnée(s)";
+
+"Selection cleared." = "Sélection effacée.";
+
 "Set Crop Area" = "Définir la zone de recadrage";
+
+"Tap “Scan Video Faces” to detect people." = "Appuyez sur « Scanner les visages » pour détecter les personnes.";
 
 "Text Size" = "Taille du texte";
 
@@ -135,3 +221,5 @@
 "Width" = "Largeur";
 
 "or" = "ou";
+
+"· tap to toggle" = "· appuyez pour basculer";

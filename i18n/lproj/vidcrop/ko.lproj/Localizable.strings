@@ -1,4 +1,16 @@
+"%lld" = "%lld";
+
+"%lld people selected. Tap a face again to deselect." = "%lld명 선택됨. 얼굴을 다시 탭하여 선택 해제.";
+
+"%lld · %@" = "%1$lld · %2$@";
+
 "%lld × %lld" = "%1$lld × %2$lld";
+
+"%lld%%" = "%lld%%";
+
+"%lld/%lld" = "%1$lld/%2$lld";
+
+"1 person selected. Tap again to deselect, or select more." = "1명 선택됨. 다시 탭하여 선택 해제하거나 더 선택하세요.";
 
 "16:9" = "16:9";
 
@@ -22,6 +34,8 @@
 
 "Avatar Size" = "아바타 크기";
 
+"Balanced" = "균형";
+
 "Base" = "기준";
 
 "Bottom Center" = "하단 중앙";
@@ -38,11 +52,25 @@
 
 "Choose" = "선택";
 
+"Choose export format" = "내보내기 형식 선택";
+
+"Clear Selection" = "선택 해제";
+
+"Close" = "닫기";
+
 "Crop Area Settings" = "자르기 영역 설정";
+
+"Dense" = "고밀도";
+
+"Detecting faces…" = "얼굴 감지 중…";
 
 "Dimensions" = "크기";
 
+"Done" = "완료";
+
 "Drop a Video!" = "비디오를 드롭하세요!";
+
+"Enable mosaic" = "모자이크 활성화";
 
 "Export .gif Image" = ".gif 이미지 내보내기";
 
@@ -51,6 +79,8 @@
 "Export .mov Video" = ".mov 비디오 내보내기";
 
 "Export .mp4 Video" = ".mp4 비디오 내보내기";
+
+"Export .wav Audio" = ".wav 오디오 내보내기";
 
 "Export Cancelled" = "내보내기가 취소되었습니다";
 
@@ -64,6 +94,14 @@
 
 "Exporting video..." = "비디오를 내보내는 중...";
 
+"Face Mosaic" = "얼굴 모자이크";
+
+"Fast" = "빠르게";
+
+"Fast · Balanced · Dense" = "빠르게 · 균형 · 고밀도";
+
+"Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
+
 "Free" = "무료";
 
 "Height" = "높이";
@@ -76,7 +114,17 @@
 
 "Middle Right" = "중간 오른쪽";
 
+"Mosaic" = "모자이크";
+
+"No faces found in this clip" = "이 클립에서 얼굴을 찾을 수 없습니다";
+
 "No permission to parse the video file" = "비디오 파일을 분석할 권한이 없습니다";
+
+"No person selected." = "선택된 사람이 없습니다.";
+
+"No scan yet" = "아직 스캔 안 됨";
+
+"No video loaded" = "불러온 비디오 없음";
 
 "OK" = "확인";
 
@@ -88,17 +136,31 @@
 
 "Original" = "원본";
 
+"People" = "사람";
+
+"Person %lld" = "사람 %lld";
+
 "Playback Speed" = "재생 속도";
 
 "Please choose a location and filename to save" = "저장할 위치와 파일 이름을 선택하세요";
 
 "Position" = "위치";
 
+"Preparing face previews…" = "얼굴 미리보기 준비 중…";
+
 "Pro" = "프로";
 
 "Processing..." = "처리 중...";
 
+"Random" = "무작위";
+
 "Remove" = "제거";
+
+"Rescan Video Faces" = "얼굴 다시 스캔";
+
+"Restored last scan. %lld person(s). Tap a face to select." = "마지막 스캔 복원됨. %lld명. 얼굴을 탭하여 선택.";
+
+"Restored last scan. %lld person(s); one selected." = "마지막 스캔 복원됨. %lld명; 1명 선택됨.";
 
 "Save" = "저장";
 
@@ -106,9 +168,33 @@
 
 "Scale" = "배율";
 
+"Scan" = "스캔";
+
+"Scan Video Faces" = "얼굴 스캔";
+
+"Scan density" = "스캔 밀도";
+
+"Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "클립을 스캔한 후 사람을 탭하여 선택하세요(다시 탭하면 선택 해제). 다중 선택 지원.";
+
+"Scanning faces… %lld%%" = "얼굴 스캔 중… %lld%%";
+
+"Scanning video for faces…" = "비디오에서 얼굴 스캔 중…";
+
+"Scanning… %@ (~%lld max @ %@fps)" = "Scanning… %1$@ (~%2$lld max @ %3$@fps)";
+
+"Scanning… you can leave this window open." = "스캔 중… 이 창을 열어두셔도 됩니다.";
+
 "Select Video file" = "비디오 파일 선택";
 
+"Selected" = "선택됨";
+
+"Selected %lld person(s)" = "%lld명 선택됨";
+
+"Selection cleared." = "선택이 해제되었습니다.";
+
 "Set Crop Area" = "자르기 영역 설정";
+
+"Tap “Scan Video Faces” to detect people." = "사람을 감지하려면 '얼굴 스캔'을 탭하세요.";
 
 "Text Size" = "텍스트 크기";
 
@@ -135,3 +221,5 @@
 "Width" = "너비";
 
 "or" = "또는";
+
+"· tap to toggle" = "· 탭하여 전환";

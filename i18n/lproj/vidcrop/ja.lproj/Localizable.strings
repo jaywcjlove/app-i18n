@@ -1,4 +1,16 @@
+"%lld" = "%lld";
+
+"%lld people selected. Tap a face again to deselect." = "%lld人選択中。顔をもう一度タップして選択解除。";
+
+"%lld · %@" = "%1$lld · %2$@";
+
 "%lld × %lld" = "%1$lld × %2$lld";
+
+"%lld%%" = "%lld%%";
+
+"%lld/%lld" = "%1$lld/%2$lld";
+
+"1 person selected. Tap again to deselect, or select more." = "1人選択中。もう一度タップで選択解除、またはさらに選択。";
 
 "16:9" = "16:9";
 
@@ -22,6 +34,8 @@
 
 "Avatar Size" = "アバターサイズ";
 
+"Balanced" = "バランス";
+
 "Base" = "基準";
 
 "Bottom Center" = "下部中央";
@@ -38,11 +52,25 @@
 
 "Choose" = "選択";
 
+"Choose export format" = "書き出し形式を選択";
+
+"Clear Selection" = "選択をクリア";
+
+"Close" = "閉じる";
+
 "Crop Area Settings" = "トリミングエリア設定";
+
+"Dense" = "高密度";
+
+"Detecting faces…" = "顔を検出中…";
 
 "Dimensions" = "サイズ";
 
+"Done" = "完了";
+
 "Drop a Video!" = "ビデオをドロップしてください！";
+
+"Enable mosaic" = "モザイクを有効にする";
 
 "Export .gif Image" = ".gif 画像を書き出し";
 
@@ -51,6 +79,8 @@
 "Export .mov Video" = ".mov ビデオを書き出し";
 
 "Export .mp4 Video" = ".mp4 ビデオを書き出し";
+
+"Export .wav Audio" = ".wav音声を書き出し";
 
 "Export Cancelled" = "書き出しがキャンセルされました";
 
@@ -64,6 +94,14 @@
 
 "Exporting video..." = "ビデオを書き出し中...";
 
+"Face Mosaic" = "顔モザイク";
+
+"Fast" = "高速";
+
+"Fast · Balanced · Dense" = "高速 · バランス · 高密度";
+
+"Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
+
 "Free" = "無料";
 
 "Height" = "高さ";
@@ -76,7 +114,17 @@
 
 "Middle Right" = "中央右";
 
+"Mosaic" = "モザイク";
+
+"No faces found in this clip" = "このクリップに顔が見つかりません";
+
 "No permission to parse the video file" = "ビデオファイルを解析する権限がありません";
+
+"No person selected." = "選択されていません。";
+
+"No scan yet" = "まだスキャンされていません";
+
+"No video loaded" = "ビデオが読み込まれていません";
 
 "OK" = "OK";
 
@@ -88,17 +136,31 @@
 
 "Original" = "オリジナル";
 
+"People" = "人物";
+
+"Person %lld" = "人物 %lld";
+
 "Playback Speed" = "再生速度";
 
 "Please choose a location and filename to save" = "保存する場所とファイル名を選択してください";
 
 "Position" = "位置";
 
+"Preparing face previews…" = "顔のプレビューを準備中…";
+
 "Pro" = "プロ";
 
 "Processing..." = "処理中...";
 
+"Random" = "ランダム";
+
 "Remove" = "削除";
+
+"Rescan Video Faces" = "顔を再スキャン";
+
+"Restored last scan. %lld person(s). Tap a face to select." = "前回のスキャンを復元しました。%lld人。顔をタップして選択。";
+
+"Restored last scan. %lld person(s); one selected." = "前回のスキャンを復元しました。%lld人；1人選択中。";
 
 "Save" = "保存";
 
@@ -106,9 +168,33 @@
 
 "Scale" = "拡大率";
 
+"Scan" = "スキャン";
+
+"Scan Video Faces" = "顔をスキャン";
+
+"Scan density" = "スキャン密度";
+
+"Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "クリップをスキャンし、人物をタップして選択（もう一度タップで選択解除）。複数選択可能。";
+
+"Scanning faces… %lld%%" = "顔をスキャン中… %lld%%";
+
+"Scanning video for faces…" = "ビデオの顔をスキャン中…";
+
+"Scanning… %@ (~%lld max @ %@fps)" = "Scanning… %1$@ (~%2$lld max @ %3$@fps)";
+
+"Scanning… you can leave this window open." = "スキャン中…このウィンドウを開いたままにできます。";
+
 "Select Video file" = "ビデオファイルを選択";
 
+"Selected" = "選択中";
+
+"Selected %lld person(s)" = "%lld人選択中";
+
+"Selection cleared." = "選択がクリアされました。";
+
 "Set Crop Area" = "トリミングエリアを設定";
+
+"Tap “Scan Video Faces” to detect people." = "「顔をスキャン」をタップして人物を検出。";
 
 "Text Size" = "文字サイズ";
 
@@ -135,3 +221,5 @@
 "Width" = "幅";
 
 "or" = "または";
+
+"· tap to toggle" = "· タップで切り替え";
