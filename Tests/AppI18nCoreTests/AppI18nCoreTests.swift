@@ -27,7 +27,7 @@ final class AppI18nCoreTests: XCTestCase {
     }
 
     #if canImport(AppKit)
-    private func makePNGData(size: CGFloat, color: NSColor = .systemBlue) throws -> Data {
+    private func makeBitmapRep(size: CGFloat, color: NSColor) throws -> NSBitmapImageRep {
         let pixelSize = Int(size)
         guard let bitmap = NSBitmapImageRep(
             bitmapDataPlanes: nil,
@@ -49,9 +49,21 @@ final class AppI18nCoreTests: XCTestCase {
         color.setFill()
         NSBezierPath(rect: NSRect(x: 0, y: 0, width: size, height: size)).fill()
         NSGraphicsContext.restoreGraphicsState()
+        return bitmap
+    }
 
+    private func makePNGData(size: CGFloat, color: NSColor = .systemBlue) throws -> Data {
+        let bitmap = try makeBitmapRep(size: size, color: color)
         guard let data = bitmap.representation(using: .png, properties: [:]) else {
             throw XCTSkip("Unable to encode test PNG")
+        }
+        return data
+    }
+
+    private func makeJPEGData(size: CGFloat, color: NSColor = .systemBlue) throws -> Data {
+        let bitmap = try makeBitmapRep(size: size, color: color)
+        guard let data = bitmap.representation(using: .jpeg, properties: [.compressionFactor: 0.9]) else {
+            throw XCTSkip("Unable to encode test JPEG")
         }
         return data
     }
@@ -309,6 +321,82 @@ final class AppI18nCoreTests: XCTestCase {
             try extract(projectPath: projectRoot.path)
 
             let logo = dir.appendingPathComponent("i18n/source/vidwallhub/logo.png")
+            XCTAssertTrue(FileManager.default.fileExists(atPath: logo.path))
+            XCTAssertEqual(pngPixelSize(at: logo), NSSize(width: 128, height: 128))
+        }
+    }
+
+    /// Mirrors DockLift-style assets: modern `AppIcon.icon/icon.json` references
+    /// a nested JPEG (`Assets/logo.jpg`) while a placeholder `AppIcon.appiconset`
+    /// has no filenames.
+    func testExtractFindsAppIconJPEGFromIconJSON() throws {
+        try withTempDir { dir in
+            let projectRoot = dir.appendingPathComponent("DockLift")
+            let appIconAssets = projectRoot.appendingPathComponent("AppIcon.icon/Assets")
+            let appiconset = projectRoot.appendingPathComponent("Assets.xcassets/AppIcon.appiconset")
+            try FileManager.default.createDirectory(at: appIconAssets, withIntermediateDirectories: true)
+            try FileManager.default.createDirectory(at: appiconset, withIntermediateDirectories: true)
+
+            let xcFile = projectRoot.appendingPathComponent("Localizable.xcstrings")
+            let xcJSON: [String: Any] = [
+                "sourceLanguage": "en",
+                "strings": [:],
+                "version": "1.0"
+            ]
+            try JSONSerialization.data(withJSONObject: xcJSON, options: [.prettyPrinted, .sortedKeys]).write(to: xcFile)
+
+            let iconJSON: [String: Any] = [
+                "fill": [
+                    "solid": "extended-srgb:0.11765,0.40000,0.90196,1.00000"
+                ],
+                "groups": [
+                    [
+                        "layers": [
+                            [
+                                "image-name": "logo.jpg",
+                                "name": "logo"
+                            ]
+                        ],
+                        "shadow": [
+                            "kind": "neutral",
+                            "opacity": 0.25
+                        ],
+                        "specular": false,
+                        "translucency": [
+                            "enabled": false,
+                            "value": 0.5
+                        ]
+                    ]
+                ],
+                "supported-platforms": [
+                    "circles": ["watchOS"],
+                    "squares": "shared"
+                ]
+            ]
+            try JSONSerialization.data(withJSONObject: iconJSON, options: [.prettyPrinted, .sortedKeys]).write(
+                to: projectRoot.appendingPathComponent("AppIcon.icon/icon.json")
+            )
+            try makeJPEGData(size: 512, color: .systemTeal).write(
+                to: appIconAssets.appendingPathComponent("logo.jpg")
+            )
+
+            // Empty placeholder appiconset should not block `.icon` resolution.
+            let appiconsetJSON: [String: Any] = [
+                "images": [
+                    ["idiom": "mac", "scale": "1x", "size": "128x128"]
+                ],
+                "info": [
+                    "author": "xcode",
+                    "version": 1
+                ]
+            ]
+            try JSONSerialization.data(withJSONObject: appiconsetJSON, options: [.prettyPrinted, .sortedKeys]).write(
+                to: appiconset.appendingPathComponent("Contents.json")
+            )
+
+            try extract(projectPath: projectRoot.path)
+
+            let logo = dir.appendingPathComponent("i18n/source/docklift/logo.png")
             XCTAssertTrue(FileManager.default.fileExists(atPath: logo.path))
             XCTAssertEqual(pngPixelSize(at: logo), NSSize(width: 128, height: 128))
         }

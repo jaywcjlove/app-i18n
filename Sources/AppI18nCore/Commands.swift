@@ -184,6 +184,13 @@ private struct AppLogoCandidate {
     let score: Int
 }
 
+/// Image formats accepted for App Icon assets (classic appiconset + modern `.icon`).
+private let appIconImageExtensions: Set<String> = ["png", "jpg", "jpeg"]
+
+private func isAppIconImageFilename(_ filename: String) -> Bool {
+    appIconImageExtensions.contains(URL(fileURLWithPath: filename).pathExtension.lowercased())
+}
+
 private func parseIconPointSize(_ rawValue: String) -> Double? {
     let parts = rawValue.split(separator: "x")
     guard parts.count == 2,
@@ -219,9 +226,12 @@ private func resolveAppIconImage(named filename: String, relativeTo contentsFile
     }
 
     let basename = URL(fileURLWithPath: filename).lastPathComponent
-    let nestedMatches = listFiles(withExtension: "png", under: containerURL)
-        .filter { $0.lastPathComponent == basename }
-        .sorted { $0.path < $1.path }
+    var nestedMatches: [URL] = []
+    for ext in appIconImageExtensions {
+        nestedMatches.append(contentsOf: listFiles(withExtension: ext, under: containerURL)
+            .filter { $0.lastPathComponent.caseInsensitiveCompare(basename) == .orderedSame })
+    }
+    nestedMatches.sort { $0.path < $1.path }
     return nestedMatches.first
 }
 
@@ -324,7 +334,9 @@ private func collectImageNames(from jsonObject: Any) -> [String] {
 
     if let dictionary = jsonObject as? [String: Any] {
         for (key, value) in dictionary {
-            if key == "image-name", let imageName = value as? String, imageName.lowercased().hasSuffix(".png") {
+            if key == "image-name",
+               let imageName = value as? String,
+               isAppIconImageFilename(imageName) {
                 names.append(imageName)
             } else {
                 names.append(contentsOf: collectImageNames(from: value))
@@ -363,7 +375,7 @@ private func findAppLogoPNG(in projectURL: URL) -> URL? {
                 guard let size = image["size"] as? String,
                       let pointSize = parseIconPointSize(size),
                       let filename = image["filename"] as? String,
-                      filename.lowercased().hasSuffix(".png") else {
+                      isAppIconImageFilename(filename) else {
                     continue
                 }
                 guard let logoFile = resolveAppIconImage(named: filename, relativeTo: contentsFile) else { continue }
