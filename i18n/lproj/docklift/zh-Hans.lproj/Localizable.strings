@@ -1,0 +1,177 @@
+" (%@)" = "（%@）";
+
+"%@ has no windows to lift" = "%@ 没有可提升的窗口";
+
+"%@ is already ignored." = "%@ 已在忽略列表中。";
+
+"About" = "关于";
+
+"Accessibility" = "辅助功能";
+
+"Accessibility Required" = "需要辅助功能权限";
+
+"Accessibility permission is required." = "需要辅助功能权限。";
+
+"Activation of %@ (not Dock)" = "激活了 %@（非 Dock）";
+
+"Add" = "添加";
+
+"Added %@" = "已添加 %@";
+
+"Advanced" = "高级";
+
+"App" = "应用";
+
+"Appearance & Startup" = "外观与启动";
+
+"Available" = "可用";
+
+"Behavior" = "行为";
+
+"Bottom" = "底部";
+
+"Brought Settings to Dock screen" = "已将设置移到 Dock 所在屏幕";
+
+"Bundle identifier" = "Bundle 标识符";
+
+"Capabilities" = "能力";
+
+"Check for Updates…" = "检查更新…";
+
+"Choose Application" = "选择应用";
+
+"Choose App…" = "选择应用…";
+
+"Click a Dock icon and DockLift brings that app’s most recently used window to the current Space, then activates it." = "点击 Dock 图标时，DockLift 会将该应用最近使用的窗口带到当前空间并激活。";
+
+"Could not read a bundle identifier from that item." = "无法从该项目读取 Bundle 标识符。";
+
+"Diagnostics" = "诊断";
+
+"Dock orientation" = "Dock 方向";
+
+"DockLift" = "DockLift";
+
+"DockLift Bootstrap" = "DockLift 引导";
+
+"DockLift needs Accessibility access to read window lists and raise windows belonging to other apps." = "DockLift 需要辅助功能权限，以读取窗口列表并提升其他应用的窗口。";
+
+"DockLift needs Accessibility before you can open Settings or lift windows." = "在打开设置或提升窗口之前，DockLift 需要辅助功能权限。";
+
+"DockLift will not lift windows for these apps. Drag an .app here, choose one from disk, pick a running app, or type a bundle identifier. Finder and DockLift are ignored by default." = "DockLift 不会为这些应用提升窗口。可将 .app 拖到此处、从磁盘选择、从正在运行的应用中选取，或手动输入 Bundle 标识符。默认忽略“访达”和 DockLift 自身。";
+
+"Drop an app here" = "将应用拖到此处";
+
+"Enable DockLift" = "启用 DockLift";
+
+"Enter DockLift" = "进入 DockLift";
+
+"Failed for %@: %@" = "处理 %@ 失败：%@";
+
+"Failed to perform %@ (AX error %lld)." = "执行 %@ 失败（AX 错误 %lld）。";
+
+"Failed to read %@ (AX error %lld)." = "读取 %@ 失败（AX 错误 %lld）。";
+
+"General" = "通用";
+
+"Grant Accessibility, then drag DockLift into the list if prompted. After authorization, Settings will open automatically." = "请授予辅助功能权限；如有提示，请将 DockLift 拖入列表。授权后将自动打开设置。";
+
+"If the window is on another display, it is repositioned onto the screen where you clicked the Dock." = "若窗口在其他显示器上，会将其重新放置到你点击 Dock 的屏幕。";
+
+"Ignored %@" = "已忽略 %@";
+
+"Ignored Applications" = "忽略的应用";
+
+"Include minimized windows" = "包含最小化窗口";
+
+"Later" = "稍后";
+
+"Launch at login" = "登录时启动";
+
+"Left" = "左侧";
+
+"Lifted %lld windows of %@ to Dock screen" = "已将 %2$@ 的 %1$lld 个窗口移到当前屏幕";
+
+"Lifted “%@”%@" = "已提升“%@”%@";
+
+"Monitor" = "监视器";
+
+"Monitoring Dock activations" = "正在监视 Dock 激活";
+
+"Monitoring paused" = "监视已暂停";
+
+"Move windows to the Dock’s screen" = "将窗口移到 Dock 所在屏幕";
+
+"Move windows to the current Space" = "将窗口移到当前空间";
+
+"Moving a window onto the active Mission Control Space has no public API. DockLift optionally loads undocumented SkyLight symbols at runtime and falls back to Accessibility-only behaviour when they are missing." = "将窗口移到当前调度中心空间没有公开 API。DockLift 会在运行时可选加载未文档化的 SkyLight 符号；若不可用则回退为仅使用辅助功能。";
+
+"No ignored applications." = "没有忽略的应用。";
+
+"No private Space APIs available; a public minimize → deminimize sequence may pull windows onto this Space." = "没有可用的私有 Space API；可能会用公开的最小化→还原流程把窗口拉到当前空间。";
+
+"No suitable windows were found for the application." = "未找到该应用的合适窗口。";
+
+"Only react to Dock clicks" = "仅响应 Dock 点击";
+
+"Permissions" = "权限";
+
+"Pick a currently running application" = "从当前正在运行的应用中选择";
+
+"Private Space APIs were found. Minimize fallback is used only when needed." = "已检测到私有 Space API。仅在需要时使用最小化回退。";
+
+"Quit DockLift" = "退出 DockLift";
+
+"Remove" = "移除";
+
+"Requires macOS 14 or later" = "需要 macOS 14 或更高版本";
+
+"Right" = "右侧";
+
+"Running" = "运行中";
+
+"Running Apps" = "正在运行的应用";
+
+"Select one or more apps to ignore." = "选择要忽略的一个或多个应用。";
+
+"Settings…" = "设置…";
+
+"Show title next to menu bar icon" = "在菜单栏图标旁显示标题";
+
+"Skipped: Accessibility not granted" = "已跳过：未授予辅助功能权限";
+
+"Space private API" = "空间私有 API";
+
+"Space switching is left to macOS." = "空间切换交由 macOS 处理。";
+
+"Spaces & Displays" = "空间与显示器";
+
+"Status: Monitoring" = "状态：监视中";
+
+"Status: Paused" = "状态：已暂停";
+
+"Stopped" = "已停止";
+
+"System Permissions" = "系统权限";
+
+"That application has no bundle identifier." = "该应用没有 Bundle 标识符。";
+
+"The target application is not running." = "目标应用未在运行。";
+
+"Unavailable" = "不可用";
+
+"Use minimize fallback when needed" = "必要时使用最小化回退";
+
+"Version %@" = "版本 %@";
+
+"Waiting for Dock activity…" = "等待 Dock 操作…";
+
+"Windows are lifted on every application activation (including ⌘Tab). Hold ⇧ while clicking the Dock icon to bring all windows of that app to the current screen." = "每次应用激活时都会提升窗口（包括 ⌘Tab）。按住 ⇧ 再点击 Dock 图标，可将该应用的所有窗口移到当前屏幕。";
+
+"Windows are lifted when an app is activated via the Dock. Hold ⇧ while clicking the Dock icon to bring all windows of that app to the current screen." = "通过 Dock 激活应用时会提升窗口。按住 ⇧ 再点击 Dock 图标，可将该应用的所有窗口移到当前屏幕。";
+
+"from other Space" = "来自其他空间";
+
+"moved to Dock screen" = "已移到 Dock 屏幕";
+
+"or choose one with the buttons below" = "或使用下方按钮选择";
