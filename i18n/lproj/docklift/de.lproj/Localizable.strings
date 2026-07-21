@@ -1,0 +1,177 @@
+" (%@)" = " (%@)";
+
+"%@ has no windows to lift" = "%@ hat keine anzuhebenden Fenster";
+
+"%@ is already ignored." = "%@ wird bereits ignoriert.";
+
+"About" = "Über";
+
+"Accessibility" = "Bedienungshilfen";
+
+"Accessibility Required" = "Bedienungshilfen erforderlich";
+
+"Accessibility permission is required." = "Die Bedienungshilfen-Berechtigung ist erforderlich.";
+
+"Activation of %@ (not Dock)" = "Aktivierung von %@ (nicht Dock)";
+
+"Add" = "Hinzufügen";
+
+"Added %@" = "%@ hinzugefügt";
+
+"Advanced" = "Erweitert";
+
+"App" = "App";
+
+"Appearance & Startup" = "Darstellung & Start";
+
+"Available" = "Verfügbar";
+
+"Behavior" = "Verhalten";
+
+"Bottom" = "Unten";
+
+"Brought Settings to Dock screen" = "Einstellungen auf den Dock-Bildschirm verschoben";
+
+"Bundle identifier" = "Bundle-Kennung";
+
+"Capabilities" = "Funktionen";
+
+"Check for Updates…" = "Nach Updates suchen…";
+
+"Choose Application" = "Anwendung auswählen";
+
+"Choose App…" = "App auswählen…";
+
+"Click a Dock icon and DockLift brings that app’s most recently used window to the current Space, then activates it." = "Klicken Sie auf ein Dock-Symbol, und DockLift bringt das zuletzt verwendete Fenster dieser App in den aktuellen Bereich und aktiviert es.";
+
+"Could not read a bundle identifier from that item." = "Aus diesem Element konnte keine Bundle-Kennung gelesen werden.";
+
+"Diagnostics" = "Diagnose";
+
+"Dock orientation" = "Dock-Ausrichtung";
+
+"DockLift" = "DockLift";
+
+"DockLift Bootstrap" = "DockLift-Bootstrap";
+
+"DockLift needs Accessibility access to read window lists and raise windows belonging to other apps." = "DockLift benötigt Bedienungshilfen-Zugriff, um Fensterlisten zu lesen und Fenster anderer Apps anzuheben.";
+
+"DockLift needs Accessibility before you can open Settings or lift windows." = "DockLift benötigt Bedienungshilfen, bevor Sie Einstellungen öffnen oder Fenster anheben können.";
+
+"DockLift will not lift windows for these apps. Drag an .app here, choose one from disk, pick a running app, or type a bundle identifier. Finder and DockLift are ignored by default." = "DockLift hebt für diese Apps keine Fenster an. Ziehen Sie eine .app hierher, wählen Sie eine von der Festplatte, wählen Sie eine laufende App aus oder geben Sie eine Bundle-Kennung ein. Finder und DockLift werden standardmäßig ignoriert.";
+
+"Drop an app here" = "App hier ablegen";
+
+"Enable DockLift" = "DockLift aktivieren";
+
+"Enter DockLift" = "DockLift starten";
+
+"Failed for %@: %@" = "Fehler bei %@: %@";
+
+"Failed to perform %@ (AX error %lld)." = "%@ konnte nicht ausgeführt werden (AX-Fehler %lld).";
+
+"Failed to read %@ (AX error %lld)." = "%@ konnte nicht gelesen werden (AX-Fehler %lld).";
+
+"General" = "Allgemein";
+
+"Grant Accessibility, then drag DockLift into the list if prompted. After authorization, Settings will open automatically." = "Gewähren Sie Bedienungshilfen, ziehen Sie DockLift in die Liste, falls Sie dazu aufgefordert werden. Nach der Autorisierung öffnet sich Einstellungen automatisch.";
+
+"If the window is on another display, it is repositioned onto the screen where you clicked the Dock." = "Wenn sich das Fenster auf einem anderen Display befindet, wird es auf den Bildschirm verschoben, auf dem Sie auf das Dock geklickt haben.";
+
+"Ignored %@" = "%@ ignoriert";
+
+"Ignored Applications" = "Ignorierte Apps";
+
+"Include minimized windows" = "Minimierte Fenster einbeziehen";
+
+"Later" = "Später";
+
+"Launch at login" = "Beim Anmelden starten";
+
+"Left" = "Links";
+
+"Lifted %lld windows of %@ to Dock screen" = "%lld Fenster von %@ auf den Dock-Bildschirm verschoben";
+
+"Lifted “%@”%@" = "„%@“%@ verschoben";
+
+"Monitor" = "Überwachen";
+
+"Monitoring Dock activations" = "Dock-Aktivierungen überwachen";
+
+"Monitoring paused" = "Überwachung pausiert";
+
+"Move windows to the Dock’s screen" = "Fenster auf den Dock-Bildschirm verschieben";
+
+"Move windows to the current Space" = "Fenster in den aktuellen Bereich verschieben";
+
+"Moving a window onto the active Mission Control Space has no public API. DockLift optionally loads undocumented SkyLight symbols at runtime and falls back to Accessibility-only behaviour when they are missing." = "Das Verschieben eines Fensters in den aktiven Mission-Control-Bereich hat keine öffentliche API. DockLift lädt zur Laufzeit optional undokumentierte SkyLight-Symbole und fällt zurück auf ein Verhalten nur mit Bedienungshilfen, wenn sie fehlen.";
+
+"No ignored applications." = "Keine ignorierten Apps.";
+
+"No private Space APIs available; a public minimize → deminimize sequence may pull windows onto this Space." = "Keine privaten Bereichs-APIs verfügbar; eine öffentliche Minimieren→Wiederherstellen-Sequenz kann Fenster auf diesen Bereich ziehen.";
+
+"No suitable windows were found for the application." = "Für die App wurden keine geeigneten Fenster gefunden.";
+
+"Only react to Dock clicks" = "Nur auf Dock-Klicks reagieren";
+
+"Permissions" = "Berechtigungen";
+
+"Pick a currently running application" = "Eine aktuell laufende Anwendung auswählen";
+
+"Private Space APIs were found. Minimize fallback is used only when needed." = "Private Bereichs-APIs wurden gefunden. Der Minimieren-Fallback wird nur bei Bedarf verwendet.";
+
+"Quit DockLift" = "DockLift beenden";
+
+"Remove" = "Entfernen";
+
+"Requires macOS 14 or later" = "Erfordert macOS 14 oder neuer";
+
+"Right" = "Rechts";
+
+"Running" = "Läuft";
+
+"Running Apps" = "Laufende Apps";
+
+"Select one or more apps to ignore." = "Wählen Sie eine oder mehrere Apps aus, die ignoriert werden sollen.";
+
+"Settings…" = "Einstellungen…";
+
+"Show title next to menu bar icon" = "Titel neben Menüsymbol anzeigen";
+
+"Skipped: Accessibility not granted" = "Übersprungen: Bedienungshilfen nicht gewährt";
+
+"Space private API" = "Private Bereichs-API";
+
+"Space switching is left to macOS." = "Der Bereichswechsel bleibt macOS überlassen.";
+
+"Spaces & Displays" = "Bereiche & Displays";
+
+"Status: Monitoring" = "Status: Überwachung";
+
+"Status: Paused" = "Status: Pausiert";
+
+"Stopped" = "Angehalten";
+
+"System Permissions" = "Systemberechtigungen";
+
+"That application has no bundle identifier." = "Diese Anwendung hat keine Bundle-Kennung.";
+
+"The target application is not running." = "Die Zielanwendung läuft nicht.";
+
+"Unavailable" = "Nicht verfügbar";
+
+"Use minimize fallback when needed" = "Minimieren-Fallback bei Bedarf verwenden";
+
+"Version %@" = "Version %@";
+
+"Waiting for Dock activity…" = "Warte auf Dock-Aktivität…";
+
+"Windows are lifted on every application activation (including ⌘Tab). Hold ⇧ while clicking the Dock icon to bring all windows of that app to the current screen." = "Fenster werden bei jeder Anwendungsaktivierung angehoben (einschließlich ⌘Tab). Halten Sie ⇧ gedrückt, während Sie auf das Dock-Symbol klicken, um alle Fenster dieser App auf den aktuellen Bildschirm zu bringen.";
+
+"Windows are lifted when an app is activated via the Dock. Hold ⇧ while clicking the Dock icon to bring all windows of that app to the current screen." = "Fenster werden angehoben, wenn eine App über das Dock aktiviert wird. Halten Sie ⇧ gedrückt, während Sie auf das Dock-Symbol klicken, um alle Fenster dieser App auf den aktuellen Bildschirm zu bringen.";
+
+"from other Space" = "aus einem anderen Bereich";
+
+"moved to Dock screen" = "auf den Dock-Bildschirm verschoben";
+
+"or choose one with the buttons below" = "oder wählen Sie unten mit den Schaltflächen eine aus";

@@ -1,0 +1,177 @@
+" (%@)" = " (%@)";
+
+"%@ has no windows to lift" = "%@ には持ち上げるウィンドウがありません";
+
+"%@ is already ignored." = "%@ はすでに無視されています。";
+
+"About" = "概要";
+
+"Accessibility" = "アクセシビリティ";
+
+"Accessibility Required" = "アクセシビリティが必要です";
+
+"Accessibility permission is required." = "アクセシビリティの許可が必要です。";
+
+"Activation of %@ (not Dock)" = "%@ のアクティベーション（Dock 以外）";
+
+"Add" = "追加";
+
+"Added %@" = "%@ を追加しました";
+
+"Advanced" = "詳細";
+
+"App" = "App";
+
+"Appearance & Startup" = "外観と起動";
+
+"Available" = "利用可能";
+
+"Behavior" = "動作";
+
+"Bottom" = "下";
+
+"Brought Settings to Dock screen" = "設定を Dock の画面に移動しました";
+
+"Bundle identifier" = "バンドル識別子";
+
+"Capabilities" = "機能";
+
+"Check for Updates…" = "アップデートを確認…";
+
+"Choose Application" = "アプリケーションを選択";
+
+"Choose App…" = "App を選択…";
+
+"Click a Dock icon and DockLift brings that app’s most recently used window to the current Space, then activates it." = "Dock アイコンをクリックすると、DockLift はその App の最近使ったウィンドウを現在の Space に移動し、アクティブにします。";
+
+"Could not read a bundle identifier from that item." = "その項目からバンドル識別子を読み取れませんでした。";
+
+"Diagnostics" = "診断";
+
+"Dock orientation" = "Dock の向き";
+
+"DockLift" = "DockLift";
+
+"DockLift Bootstrap" = "DockLift ブートストラップ";
+
+"DockLift needs Accessibility access to read window lists and raise windows belonging to other apps." = "DockLift がウィンドウ一覧を読み取り、他の App のウィンドウを持ち上げるにはアクセシビリティのアクセスが必要です。";
+
+"DockLift needs Accessibility before you can open Settings or lift windows." = "設定を開いたりウィンドウを持ち上げたりするには、DockLift にアクセシビリティが必要です。";
+
+"DockLift will not lift windows for these apps. Drag an .app here, choose one from disk, pick a running app, or type a bundle identifier. Finder and DockLift are ignored by default." = "DockLift はこれらの App のウィンドウを持ち上げません。.app をここにドラッグするか、ディスクから選択するか、起動中の App を選ぶか、バンドル識別子を入力してください。Finder と DockLift 自体は既定で無視されます。";
+
+"Drop an app here" = "App をここにドロップ";
+
+"Enable DockLift" = "DockLift を有効にする";
+
+"Enter DockLift" = "DockLift を起動";
+
+"Failed for %@: %@" = "%@ で失敗しました: %@";
+
+"Failed to perform %@ (AX error %lld)." = "%@ の実行に失敗しました（AX エラー %lld）。";
+
+"Failed to read %@ (AX error %lld)." = "%@ の読み取りに失敗しました（AX エラー %lld）。";
+
+"General" = "一般";
+
+"Grant Accessibility, then drag DockLift into the list if prompted. After authorization, Settings will open automatically." = "アクセシビリティを許可し、求められたら DockLift を一覧にドラッグしてください。認可後、設定が自動的に開きます。";
+
+"If the window is on another display, it is repositioned onto the screen where you clicked the Dock." = "ウィンドウが別のディスプレイにある場合は、Dock をクリックした画面に再配置されます。";
+
+"Ignored %@" = "%@ を無視しました";
+
+"Ignored Applications" = "無視するアプリケーション";
+
+"Include minimized windows" = "最小化されたウィンドウを含める";
+
+"Later" = "後で";
+
+"Launch at login" = "ログイン時に起動";
+
+"Left" = "左";
+
+"Lifted %lld windows of %@ to Dock screen" = "%2$@ のウィンドウ %1$lld 個を Dock の画面に移動しました";
+
+"Lifted “%@”%@" = "「%@」%@ を持ち上げました";
+
+"Monitor" = "モニター";
+
+"Monitoring Dock activations" = "Dock のアクティベーションを監視中";
+
+"Monitoring paused" = "監視を一時停止中";
+
+"Move windows to the Dock’s screen" = "ウィンドウを Dock の画面に移動";
+
+"Move windows to the current Space" = "ウィンドウを現在の Space に移動";
+
+"Moving a window onto the active Mission Control Space has no public API. DockLift optionally loads undocumented SkyLight symbols at runtime and falls back to Accessibility-only behaviour when they are missing." = "ウィンドウをアクティブな Mission Control Space に移動する公開 API はありません。DockLift は実行時に未公開の SkyLight シンボルを任意で読み込み、見つからない場合はアクセシビリティのみの動作にフォールバックします。";
+
+"No ignored applications." = "無視するアプリケーションはありません。";
+
+"No private Space APIs available; a public minimize → deminimize sequence may pull windows onto this Space." = "利用可能な private Space API はありません。公開の最小化→復元シーケンスでこの Space にウィンドウが移動する場合があります。";
+
+"No suitable windows were found for the application." = "このアプリケーションに適したウィンドウは見つかりませんでした。";
+
+"Only react to Dock clicks" = "Dock のクリックにのみ反応";
+
+"Permissions" = "権限";
+
+"Pick a currently running application" = "現在起動中のアプリケーションを選択";
+
+"Private Space APIs were found. Minimize fallback is used only when needed." = "private Space API が見つかりました。最小化フォールバックは必要な場合にのみ使用されます。";
+
+"Quit DockLift" = "DockLift を終了";
+
+"Remove" = "削除";
+
+"Requires macOS 14 or later" = "macOS 14 以降が必要です";
+
+"Right" = "右";
+
+"Running" = "実行中";
+
+"Running Apps" = "実行中の App";
+
+"Select one or more apps to ignore." = "無視する App を 1 つ以上選択してください。";
+
+"Settings…" = "設定…";
+
+"Show title next to menu bar icon" = "メニューバーアイコンの横にタイトルを表示";
+
+"Skipped: Accessibility not granted" = "スキップしました: アクセシビリティが許可されていません";
+
+"Space private API" = "Space の private API";
+
+"Space switching is left to macOS." = "Space の切り替えは macOS に任せます。";
+
+"Spaces & Displays" = "Spaces とディスプレイ";
+
+"Status: Monitoring" = "状態: 監視中";
+
+"Status: Paused" = "状態: 一時停止";
+
+"Stopped" = "停止";
+
+"System Permissions" = "システム権限";
+
+"That application has no bundle identifier." = "そのアプリケーションにはバンドル識別子がありません。";
+
+"The target application is not running." = "対象のアプリケーションは起動していません。";
+
+"Unavailable" = "利用不可";
+
+"Use minimize fallback when needed" = "必要に応じて最小化フォールバックを使用";
+
+"Version %@" = "バージョン %@";
+
+"Waiting for Dock activity…" = "Dock のアクティビティを待機中…";
+
+"Windows are lifted on every application activation (including ⌘Tab). Hold ⇧ while clicking the Dock icon to bring all windows of that app to the current screen." = "すべてのアプリケーションのアクティブ化（⌘Tab を含む）でウィンドウを持ち上げます。⇧ を押しながら Dock アイコンをクリックすると、その App のすべてのウィンドウを現在の画面に移動できます。";
+
+"Windows are lifted when an app is activated via the Dock. Hold ⇧ while clicking the Dock icon to bring all windows of that app to the current screen." = "App が Dock 経由でアクティブになるとウィンドウを持ち上げます。⇧ を押しながら Dock アイコンをクリックすると、その App のすべてのウィンドウを現在の画面に移動できます。";
+
+"from other Space" = "別の Space から";
+
+"moved to Dock screen" = "Dock の画面に移動済み";
+
+"or choose one with the buttons below" = "または下のボタンで選択してください";

@@ -1,0 +1,177 @@
+" (%@)" = " (%@)";
+
+"%@ has no windows to lift" = "У %@ нет окон для поднятия";
+
+"%@ is already ignored." = "%@ уже в списке игнорируемых.";
+
+"About" = "О программе";
+
+"Accessibility" = "Универсальный доступ";
+
+"Accessibility Required" = "Требуется доступность";
+
+"Accessibility permission is required." = "Требуется разрешение на доступность.";
+
+"Activation of %@ (not Dock)" = "Активация %@ (не Dock)";
+
+"Add" = "Добавить";
+
+"Added %@" = "%@ добавлено";
+
+"Advanced" = "Дополнительно";
+
+"App" = "App";
+
+"Appearance & Startup" = "Внешний вид и запуск";
+
+"Available" = "Доступно";
+
+"Behavior" = "Поведение";
+
+"Bottom" = "Снизу";
+
+"Brought Settings to Dock screen" = "Настройки перенесены на экран Dock";
+
+"Bundle identifier" = "Идентификатор bundle";
+
+"Capabilities" = "Возможности";
+
+"Check for Updates…" = "Проверить обновления…";
+
+"Choose Application" = "Выбрать приложение";
+
+"Choose App…" = "Выбрать App…";
+
+"Click a Dock icon and DockLift brings that app’s most recently used window to the current Space, then activates it." = "Нажмите значок Dock, и DockLift перенесёт последнее использованное окно этого приложения в текущий Space, а затем активирует его.";
+
+"Could not read a bundle identifier from that item." = "Не удалось прочитать идентификатор bundle из этого элемента.";
+
+"Diagnostics" = "Диагностика";
+
+"Dock orientation" = "Ориентация Dock";
+
+"DockLift" = "DockLift";
+
+"DockLift Bootstrap" = "Bootstrap DockLift";
+
+"DockLift needs Accessibility access to read window lists and raise windows belonging to other apps." = "DockLift требуется доступ к универсальному доступу, чтобы читать списки окон и поднимать окна других приложений.";
+
+"DockLift needs Accessibility before you can open Settings or lift windows." = "DockLift требуется доступность, прежде чем можно будет открыть настройки или поднять окна.";
+
+"DockLift will not lift windows for these apps. Drag an .app here, choose one from disk, pick a running app, or type a bundle identifier. Finder and DockLift are ignored by default." = "DockLift не будет поднимать окна для этих приложений. Перетащите сюда .app, выберите приложение с диска, выберите запущенное приложение или введите идентификатор bundle. Finder и сам DockLift игнорируются по умолчанию.";
+
+"Drop an app here" = "Перетащите приложение сюда";
+
+"Enable DockLift" = "Включить DockLift";
+
+"Enter DockLift" = "Открыть DockLift";
+
+"Failed for %@: %@" = "Ошибка для %@: %@";
+
+"Failed to perform %@ (AX error %lld)." = "Не удалось выполнить %@ (ошибка AX %lld).";
+
+"Failed to read %@ (AX error %lld)." = "Не удалось прочитать %@ (ошибка AX %lld).";
+
+"General" = "Основное";
+
+"Grant Accessibility, then drag DockLift into the list if prompted. After authorization, Settings will open automatically." = "Предоставьте доступность, затем перетащите DockLift в список, если появится запрос. После авторизации настройки откроются автоматически.";
+
+"If the window is on another display, it is repositioned onto the screen where you clicked the Dock." = "Если окно находится на другом дисплее, оно перемещается на экран, где вы нажали Dock.";
+
+"Ignored %@" = "%@ игнорируется";
+
+"Ignored Applications" = "Игнорируемые приложения";
+
+"Include minimized windows" = "Включать свернутые окна";
+
+"Later" = "Позже";
+
+"Launch at login" = "Запускать при входе";
+
+"Left" = "Слева";
+
+"Lifted %lld windows of %@ to Dock screen" = "%1$lld окон приложения %@ перенесено на экран Dock";
+
+"Lifted “%@”%@" = "«%@»%@ поднято";
+
+"Monitor" = "Монитор";
+
+"Monitoring Dock activations" = "Мониторинг активаций Dock";
+
+"Monitoring paused" = "Мониторинг приостановлен";
+
+"Move windows to the Dock’s screen" = "Перемещать окна на экран Dock";
+
+"Move windows to the current Space" = "Перемещать окна в текущий Space";
+
+"Moving a window onto the active Mission Control Space has no public API. DockLift optionally loads undocumented SkyLight symbols at runtime and falls back to Accessibility-only behaviour when they are missing." = "У перемещения окна в активный Space Mission Control нет публичного API. DockLift может дополнительно загружать недокументированные символы SkyLight во время выполнения и при их отсутствии переходит к поведению только через доступность.";
+
+"No ignored applications." = "Нет игнорируемых приложений.";
+
+"No private Space APIs available; a public minimize → deminimize sequence may pull windows onto this Space." = "Нет доступных приватных API Space; публичная последовательность свернуть → восстановить может переместить окна в этот Space.";
+
+"No suitable windows were found for the application." = "Для приложения не найдено подходящих окон.";
+
+"Only react to Dock clicks" = "Реагировать только на клики Dock";
+
+"Permissions" = "Разрешения";
+
+"Pick a currently running application" = "Выберите запущенное приложение";
+
+"Private Space APIs were found. Minimize fallback is used only when needed." = "Обнаружены приватные API Space. Запасной вариант через сворачивание используется только при необходимости.";
+
+"Quit DockLift" = "Выйти из DockLift";
+
+"Remove" = "Удалить";
+
+"Requires macOS 14 or later" = "Требуется macOS 14 или новее";
+
+"Right" = "Справа";
+
+"Running" = "Запущено";
+
+"Running Apps" = "Запущенные приложения";
+
+"Select one or more apps to ignore." = "Выберите одно или несколько приложений для игнорирования.";
+
+"Settings…" = "Настройки…";
+
+"Show title next to menu bar icon" = "Показывать заголовок рядом со значком в строке меню";
+
+"Skipped: Accessibility not granted" = "Пропущено: доступность не предоставлена";
+
+"Space private API" = "Приватный API Space";
+
+"Space switching is left to macOS." = "Переключение Space остаётся за macOS.";
+
+"Spaces & Displays" = "Spaces и дисплеи";
+
+"Status: Monitoring" = "Статус: мониторинг";
+
+"Status: Paused" = "Статус: приостановлено";
+
+"Stopped" = "Остановлено";
+
+"System Permissions" = "Системные разрешения";
+
+"That application has no bundle identifier." = "У этого приложения нет идентификатора bundle.";
+
+"The target application is not running." = "Целевое приложение не запущено.";
+
+"Unavailable" = "Недоступно";
+
+"Use minimize fallback when needed" = "Использовать запасной вариант через сворачивание при необходимости";
+
+"Version %@" = "Версия %@";
+
+"Waiting for Dock activity…" = "Ожидание активности Dock…";
+
+"Windows are lifted on every application activation (including ⌘Tab). Hold ⇧ while clicking the Dock icon to bring all windows of that app to the current screen." = "Окна поднимаются при каждой активации приложения (включая ⌘Tab). Удерживайте ⇧ при нажатии на значок Dock, чтобы перенести все окна этого приложения на текущий экран.";
+
+"Windows are lifted when an app is activated via the Dock. Hold ⇧ while clicking the Dock icon to bring all windows of that app to the current screen." = "Окна поднимаются, когда приложение активируется через Dock. Удерживайте ⇧ при нажатии на значок Dock, чтобы перенести все окна этого приложения на текущий экран.";
+
+"from other Space" = "из другого Space";
+
+"moved to Dock screen" = "перемещено на экран Dock";
+
+"or choose one with the buttons below" = "или выберите одну из кнопок ниже";

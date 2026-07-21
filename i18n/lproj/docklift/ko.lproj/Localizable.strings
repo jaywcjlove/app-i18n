@@ -1,0 +1,177 @@
+" (%@)" = " (%@)";
+
+"%@ has no windows to lift" = "%@에는 올릴 창이 없습니다";
+
+"%@ is already ignored." = "%@은 이미 무시 목록에 있습니다.";
+
+"About" = "정보";
+
+"Accessibility" = "손쉬운 사용";
+
+"Accessibility Required" = "손쉬운 사용 필요";
+
+"Accessibility permission is required." = "손쉬운 사용 권한이 필요합니다.";
+
+"Activation of %@ (not Dock)" = "%@ 활성화(Dock 아님)";
+
+"Add" = "추가";
+
+"Added %@" = "%@ 추가됨";
+
+"Advanced" = "고급";
+
+"App" = "App";
+
+"Appearance & Startup" = "모양 및 시작";
+
+"Available" = "사용 가능";
+
+"Behavior" = "동작";
+
+"Bottom" = "하단";
+
+"Brought Settings to Dock screen" = "설정을 Dock 화면으로 이동함";
+
+"Bundle identifier" = "번들 식별자";
+
+"Capabilities" = "기능";
+
+"Check for Updates…" = "업데이트 확인…";
+
+"Choose Application" = "앱 선택";
+
+"Choose App…" = "App 선택…";
+
+"Click a Dock icon and DockLift brings that app’s most recently used window to the current Space, then activates it." = "Dock 아이콘을 클릭하면 DockLift가 해당 앱의 가장 최근에 사용한 창을 현재 Space로 가져온 다음 활성화합니다.";
+
+"Could not read a bundle identifier from that item." = "해당 항목에서 번들 식별자를 읽을 수 없습니다.";
+
+"Diagnostics" = "진단";
+
+"Dock orientation" = "Dock 방향";
+
+"DockLift" = "DockLift";
+
+"DockLift Bootstrap" = "DockLift 부트스트랩";
+
+"DockLift needs Accessibility access to read window lists and raise windows belonging to other apps." = "DockLift가 창 목록을 읽고 다른 앱의 창을 올리려면 손쉬운 사용 접근 권한이 필요합니다.";
+
+"DockLift needs Accessibility before you can open Settings or lift windows." = "설정을 열거나 창을 올리려면 DockLift에 손쉬운 사용 권한이 필요합니다.";
+
+"DockLift will not lift windows for these apps. Drag an .app here, choose one from disk, pick a running app, or type a bundle identifier. Finder and DockLift are ignored by default." = "DockLift는 이 앱들의 창을 올리지 않습니다. 여기에 .app을 끌어다 놓거나, 디스크에서 선택하거나, 실행 중인 앱을 고르거나, 번들 식별자를 입력하세요. Finder와 DockLift 자체는 기본적으로 무시됩니다.";
+
+"Drop an app here" = "앱을 여기에 놓기";
+
+"Enable DockLift" = "DockLift 활성화";
+
+"Enter DockLift" = "DockLift 열기";
+
+"Failed for %@: %@" = "%@ 실패: %@";
+
+"Failed to perform %@ (AX error %lld)." = "%@을(를) 수행하지 못했습니다(AX 오류 %lld).";
+
+"Failed to read %@ (AX error %lld)." = "%@을(를) 읽지 못했습니다(AX 오류 %lld).";
+
+"General" = "일반";
+
+"Grant Accessibility, then drag DockLift into the list if prompted. After authorization, Settings will open automatically." = "손쉬운 사용 권한을 부여한 뒤, 안내가 표시되면 DockLift를 목록에 끌어다 놓으세요. 승인 후 설정이 자동으로 열립니다.";
+
+"If the window is on another display, it is repositioned onto the screen where you clicked the Dock." = "창이 다른 디스플레이에 있으면 Dock을 클릭한 화면으로 다시 배치됩니다.";
+
+"Ignored %@" = "%@ 무시됨";
+
+"Ignored Applications" = "무시된 앱";
+
+"Include minimized windows" = "최소화된 창 포함";
+
+"Later" = "나중에";
+
+"Launch at login" = "로그인 시 실행";
+
+"Left" = "왼쪽";
+
+"Lifted %lld windows of %@ to Dock screen" = "%2$@의 창 %1$lld개를 Dock 화면으로 이동함";
+
+"Lifted “%@”%@" = "“%@”%@을(를) 올림";
+
+"Monitor" = "모니터";
+
+"Monitoring Dock activations" = "Dock 활성화 감시 중";
+
+"Monitoring paused" = "감시 일시 중지";
+
+"Move windows to the Dock’s screen" = "창을 Dock 화면으로 이동";
+
+"Move windows to the current Space" = "창을 현재 Space로 이동";
+
+"Moving a window onto the active Mission Control Space has no public API. DockLift optionally loads undocumented SkyLight symbols at runtime and falls back to Accessibility-only behaviour when they are missing." = "창을 활성화된 Mission Control Space로 이동하는 공개 API는 없습니다. DockLift는 런타임에 문서화되지 않은 SkyLight 심볼을 선택적으로 불러오며, 없으면 손쉬운 사용만 사용하는 동작으로 돌아갑니다.";
+
+"No ignored applications." = "무시된 앱이 없습니다.";
+
+"No private Space APIs available; a public minimize → deminimize sequence may pull windows onto this Space." = "사용 가능한 private Space API가 없습니다. 공개 최소화→복원 시퀀스로 이 Space로 창이 이동될 수 있습니다.";
+
+"No suitable windows were found for the application." = "이 앱에 적합한 창을 찾지 못했습니다.";
+
+"Only react to Dock clicks" = "Dock 클릭에만 반응";
+
+"Permissions" = "권한";
+
+"Pick a currently running application" = "현재 실행 중인 앱 선택";
+
+"Private Space APIs were found. Minimize fallback is used only when needed." = "private Space API를 찾았습니다. 최소화 대체 동작은 필요할 때만 사용됩니다.";
+
+"Quit DockLift" = "DockLift 종료";
+
+"Remove" = "제거";
+
+"Requires macOS 14 or later" = "macOS 14 이상 필요";
+
+"Right" = "오른쪽";
+
+"Running" = "실행 중";
+
+"Running Apps" = "실행 중인 앱";
+
+"Select one or more apps to ignore." = "무시할 앱을 하나 이상 선택하세요.";
+
+"Settings…" = "설정…";
+
+"Show title next to menu bar icon" = "메뉴 막대 아이콘 옆에 제목 표시";
+
+"Skipped: Accessibility not granted" = "건너뜀: 손쉬운 사용이 허용되지 않음";
+
+"Space private API" = "Space private API";
+
+"Space switching is left to macOS." = "Space 전환은 macOS에 맡깁니다.";
+
+"Spaces & Displays" = "Space 및 디스플레이";
+
+"Status: Monitoring" = "상태: 감시 중";
+
+"Status: Paused" = "상태: 일시 중지";
+
+"Stopped" = "중지됨";
+
+"System Permissions" = "시스템 권한";
+
+"That application has no bundle identifier." = "해당 앱에는 번들 식별자가 없습니다.";
+
+"The target application is not running." = "대상 앱이 실행 중이 아닙니다.";
+
+"Unavailable" = "사용할 수 없음";
+
+"Use minimize fallback when needed" = "필요할 때 최소화 대체 동작 사용";
+
+"Version %@" = "버전 %@";
+
+"Waiting for Dock activity…" = "Dock 활동을 기다리는 중…";
+
+"Windows are lifted on every application activation (including ⌘Tab). Hold ⇧ while clicking the Dock icon to bring all windows of that app to the current screen." = "모든 앱 활성화(⌘Tab 포함) 때 창을 올립니다. ⇧를 누른 채 Dock 아이콘을 클릭하면 해당 앱의 모든 창을 현재 화면으로 가져옵니다.";
+
+"Windows are lifted when an app is activated via the Dock. Hold ⇧ while clicking the Dock icon to bring all windows of that app to the current screen." = "앱이 Dock을 통해 활성화되면 창을 올립니다. ⇧를 누른 채 Dock 아이콘을 클릭하면 해당 앱의 모든 창을 현재 화면으로 가져옵니다.";
+
+"from other Space" = "다른 Space에서";
+
+"moved to Dock screen" = "Dock 화면으로 이동됨";
+
+"or choose one with the buttons below" = "또는 아래 버튼으로 선택하세요";
