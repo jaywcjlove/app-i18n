@@ -15,6 +15,12 @@
             "value" : ""
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22,6 +28,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : ""
@@ -55,6 +67,12 @@
             "value" : " (Accordé)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (Concedi)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -65,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : " (권한 허용)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (Предоставить)"
           }
         },
         "zh-Hans" : {
@@ -95,6 +119,12 @@
             "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=Scap) • [Github](https://github.com/jaywcjlove/scap)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=Scap) • [Github](https://github.com/jaywcjlove/scap)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -102,6 +132,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=Scap) • [Github](https://github.com/jaywcjlove/scap)"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=Scap) • [Github](https://github.com/jaywcjlove/scap)"
@@ -135,6 +171,12 @@
             "value" : "%@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -142,6 +184,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@"
@@ -175,6 +223,12 @@
             "value" : "%@ Mode sombre"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Modalita scura"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -185,6 +239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ 다크 모드"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Тёмный режим"
           }
         },
         "zh-Hans" : {
@@ -215,6 +275,12 @@
             "value" : "%@ Suivre le système"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Segui sistema"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -225,6 +291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ 시스템 설정 따르기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Как в системе"
           }
         },
         "zh-Hans" : {
@@ -255,6 +327,12 @@
             "value" : "%@ Mode clair"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Modalita chiara"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -265,6 +343,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ 라이트 모드"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Светлый режим"
           }
         },
         "zh-Hans" : {
@@ -301,6 +385,12 @@
             "value" : "%1$@%2$@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@%2$@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -308,6 +398,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@%2$@"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@%2$@"
@@ -327,6 +423,58 @@
         }
       }
     },
+    "%lld" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        }
+      }
+    },
     "%lldpx" : {
       "localizations" : {
         "de" : {
@@ -341,6 +489,12 @@
             "value" : "%lldpx"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lldpx"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -348,6 +502,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lldpx"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lldpx"
@@ -381,6 +541,12 @@
             "value" : "À propos"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informazioni"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -391,6 +557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "정보"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "О приложении"
           }
         },
         "zh-Hans" : {
@@ -421,6 +593,12 @@
             "value" : "À propos de %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informazioni su %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -431,6 +609,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ 정보"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "О %@"
           }
         },
         "zh-Hans" : {
@@ -461,6 +645,12 @@
             "value" : "Remerciements"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ringraziamenti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -471,6 +661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "감사의 말"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Благодарности"
           }
         },
         "zh-Hans" : {
@@ -501,6 +697,12 @@
             "value" : "Ajouter une image"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi immagine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -511,6 +713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이미지 추가"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добавить изображение"
           }
         },
         "zh-Hans" : {
@@ -541,6 +749,12 @@
             "value" : "Ajouter une icône d'image"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi icona immagine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -551,6 +765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이미지 아이콘 추가"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добавить значок изображения"
           }
         },
         "zh-Hans" : {
@@ -581,6 +801,12 @@
             "value" : "Apparence"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aspetto"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -591,6 +817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "외관"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Внешний вид"
           }
         },
         "zh-Hans" : {
@@ -621,6 +853,12 @@
             "value" : "Arrière-plan"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sfondo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -631,6 +869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "배경"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фон"
           }
         },
         "zh-Hans" : {
@@ -661,6 +905,12 @@
             "value" : "Flou"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sfocatura"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -673,6 +923,12 @@
             "value" : "흐림"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Размытие"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -683,6 +939,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "模糊"
+          }
+        }
+      }
+    },
+    "Cancel (Esc)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen (Esc)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuler (Echap)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annulla (Esc)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル (Esc)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취소 (Esc)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отмена (Esc)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消 (Esc)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消 (Esc)"
           }
         }
       }
@@ -701,6 +1009,12 @@
             "value" : "Capturer l'écran"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cattura schermo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -711,6 +1025,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "화면 캐프처"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Снимок экрана"
           }
         },
         "zh-Hans" : {
@@ -741,6 +1061,12 @@
             "value" : "Capturer la fenêtre"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cattura finestra"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -751,6 +1077,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "윈도우 캐프처"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Снимок окна"
           }
         },
         "zh-Hans" : {
@@ -781,6 +1113,12 @@
             "value" : "Journal des modifications"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registro modifiche"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -791,6 +1129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "변경 내역"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Список изменений"
           }
         },
         "zh-Hans" : {
@@ -821,6 +1165,12 @@
             "value" : "Choisir"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scegli"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -831,6 +1181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "선택"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбрать"
           }
         },
         "zh-Hans" : {
@@ -861,6 +1217,12 @@
             "value" : "Effacer le canvas"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svuota tela"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -871,6 +1233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "캔버스 지우기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Очистить холст"
           }
         },
         "zh-Hans" : {
@@ -901,6 +1269,12 @@
             "value" : "Effacer le tableau de dessin"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svuota lavagna"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -911,6 +1285,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "그림판 지우기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Очистить доску"
           }
         },
         "zh-Hans" : {
@@ -941,6 +1321,12 @@
             "value" : "Contribuer à la traduction"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contribuisci alla traduzione"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -951,6 +1337,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "번역에 기여"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Помочь с переводом"
           }
         },
         "zh-Hans" : {
@@ -981,6 +1373,12 @@
             "value" : "Copier (Esc/⌘+C)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copia (Esc/⌘+C)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -991,6 +1389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "복사 (Esc/⌘+C)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Копировать (Esc/⌘+C)"
           }
         },
         "zh-Hans" : {
@@ -1021,6 +1425,12 @@
             "value" : "Copier l'image"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copia immagine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1031,6 +1441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이미지 복사"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Копировать изображение"
           }
         },
         "zh-Hans" : {
@@ -1061,6 +1477,12 @@
             "value" : "Son de copie"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copia suono"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1073,6 +1495,12 @@
             "value" : "복사 사운드"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Копировать звук"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1083,6 +1511,110 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "複製音效"
+          }
+        }
+      }
+    },
+    "Copy to Clipboard" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In die Zwischenablage kopieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copier dans le presse-papiers"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copia negli appunti"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クリップボードにコピー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "클립보드에 복사"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скопировать в буфер обмена"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制到粘贴板"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "複製到剪貼簿"
+          }
+        }
+      }
+    },
+    "Crop (Return)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zuschneiden (Eingabetaste)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rogner (Entree)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ritaglia (Invio)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切り抜き (Return)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자르기 (Return)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обрезать (Return)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "裁剪 (回车)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "裁切 (回車)"
           }
         }
       }
@@ -1101,6 +1633,12 @@
             "value" : "Badge réseaux sociaux personnalisé"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Badge social personalizzato"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1111,6 +1649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "커스텀 소셜 미디어 배지"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пользовательский бейдж соцсетей"
           }
         },
         "zh-Hans" : {
@@ -1141,6 +1685,12 @@
             "value" : "Personnaliser le filigrane et le texte du code QR"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personalizza filigrana e testo del codice QR"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1151,6 +1701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "워터마크 및 QR 코드 텍스트 사용자 지정"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настроить водяной знак и текст QR-кода"
           }
         },
         "zh-Hans" : {
@@ -1181,6 +1737,12 @@
             "value" : "Dessiner"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disegna"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1191,6 +1753,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "그리기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рисовать"
           }
         },
         "zh-Hans" : {
@@ -1221,6 +1789,12 @@
             "value" : "Tableau de dessin"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lavagna"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1231,6 +1805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "그림판"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доска"
           }
         },
         "zh-Hans" : {
@@ -1261,6 +1841,12 @@
             "value" : "Quitter (%@)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esci (%@)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1271,6 +1857,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "종료 (%@)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выйти (%@)"
           }
         },
         "zh-Hans" : {
@@ -1301,6 +1893,12 @@
             "value" : "Quitter le tableau de dessin"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esci dalla lavagna"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1311,6 +1909,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "그림판 나가기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выйти из доски"
           }
         },
         "zh-Hans" : {
@@ -1341,6 +1945,12 @@
             "value" : "Général"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generale"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1351,6 +1961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "일반"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Основные"
           }
         },
         "zh-Hans" : {
@@ -1381,6 +1997,12 @@
             "value" : "Accordé"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Concesso"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1391,6 +2013,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "허용됨"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Предоставлено"
           }
         },
         "zh-Hans" : {
@@ -1421,6 +2049,12 @@
             "value" : "Masquer le menu de la barre d'état"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nascondi menu barra di stato"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1431,6 +2065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "상태 표시줄 메뉴 숨기기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скрыть меню в строке состояния"
           }
         },
         "zh-Hans" : {
@@ -1461,6 +2101,12 @@
             "value" : "Masquer l'icône du Dock"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nascondi icona nel Dock"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1471,6 +2117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dock 아이콘 숨기기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скрыть значок в Dock"
           }
         },
         "zh-Hans" : {
@@ -1501,6 +2153,12 @@
             "value" : "Si vous préférez ne pas vous abonner, vous pouvez déverrouiller les fonctionnalités de manière permanente avec un paiement unique et profiter de toutes les mises à jour futures gratuitement—aucun frais supplémentaire jamais."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se preferisci non abbonarti, puoi sbloccare le funzionalita in modo permanente con un pagamento una tantum e ottenere gratuitamente tutti gli aggiornamenti futuri, senza costi aggiuntivi."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1511,6 +2169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구독을 원하지 않는다면, 일회성 결제로 기능을 영구적으로 언락하고 앞으로의 모든 업그레이드를 무료로 이용해보세요.—추가 비용은 없습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если вы не хотите оформлять подписку, можно навсегда разблокировать функции единоразовой покупкой и бесплатно получать все будущие обновления без доплат."
           }
         },
         "zh-Hans" : {
@@ -1541,6 +2205,12 @@
             "value" : "Dossier de sauvegarde d'images"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cartella di salvataggio immagini"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1551,6 +2221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이미지 저장 폴더"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Папка сохранения изображений"
           }
         },
         "zh-Hans" : {
@@ -1581,6 +2257,12 @@
             "value" : "Raccourcis clavier"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scorciatoie da tastiera"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1591,6 +2273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "키보드 단축키"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сочетания клавиш"
           }
         },
         "zh-Hans" : {
@@ -1621,6 +2309,12 @@
             "value" : "Langue"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lingua"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1631,6 +2325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "언어"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Язык"
           }
         },
         "zh-Hans" : {
@@ -1661,6 +2361,12 @@
             "value" : "Lancer au démarrage"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avvia all'accesso"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1671,6 +2377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "로그인 시 실행"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Запускать при входе"
           }
         },
         "zh-Hans" : {
@@ -1701,6 +2413,12 @@
             "value" : "Charger depuis le presse-papiers"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carica dagli appunti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1711,6 +2429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "클립보드에서 불러오기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Загрузить из буфера обмена"
           }
         },
         "zh-Hans" : {
@@ -1741,6 +2465,12 @@
             "value" : "Fenêtre principale"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finestra principale"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1751,6 +2481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "메인 창"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Главное окно"
           }
         },
         "zh-Hans" : {
@@ -1781,6 +2517,12 @@
             "value" : "Marge"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Margine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1791,6 +2533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "여백"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отступ"
           }
         },
         "zh-Hans" : {
@@ -1821,6 +2569,12 @@
             "value" : "Mes applications"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le mie app"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1831,6 +2585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "내 앱"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мои приложения"
           }
         },
         "zh-Hans" : {
@@ -1861,6 +2621,12 @@
             "value" : "Nom"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nome"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1871,6 +2637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이름"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Имя"
           }
         },
         "zh-Hans" : {
@@ -1901,6 +2673,12 @@
             "value" : "Aucun code QR reconnu dans la capture d'écran sélectionnée."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessun codice QR rilevato nello screenshot selezionato."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1911,6 +2689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "선택한 스크린샷에서 QR 코드를 인식하지 못했습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "На выбранном снимке экрана QR-код не распознан."
           }
         },
         "zh-Hans" : {
@@ -1941,6 +2725,12 @@
             "value" : "Aucun texte reconnu dans la capture d'écran sélectionnée."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessun testo rilevato nello screenshot selezionato."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1951,6 +2741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "선택한 스크린샷에서 텍스트를 인식하지 못했습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "На выбранном снимке экрана текст не распознан."
           }
         },
         "zh-Hans" : {
@@ -1981,6 +2777,12 @@
             "value" : "Opacité"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opacita"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1991,6 +2793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "불투명도"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Непрозрачность"
           }
         },
         "zh-Hans" : {
@@ -2021,6 +2829,12 @@
             "value" : "Ouvrir l'image"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri immagine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2031,6 +2845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이미지 열기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть изображение"
           }
         },
         "zh-Hans" : {
@@ -2061,6 +2881,12 @@
             "value" : "Ouvrir le fichier image"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri file immagine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2071,6 +2897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이미지 파일 열기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть файл изображения"
           }
         },
         "zh-Hans" : {
@@ -2101,6 +2933,12 @@
             "value" : "Ouvrir les paramètres"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri impostazioni"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2111,6 +2949,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "설정 열기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть настройки"
           }
         },
         "zh-Hans" : {
@@ -2141,6 +2985,12 @@
             "value" : "Espacement"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spaziatura interna"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2153,6 +3003,12 @@
             "value" : "여백"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Внутренний отступ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2163,6 +3019,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "內邊距"
+          }
+        }
+      }
+    },
+    "Padding & Radius" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abstand & Radius"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marge et rayon"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spaziatura interna e raggio"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "余白と角丸"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "여백 및 모서리 반경"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отступ и радиус"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "边距和圆角"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "邊距與圓角"
           }
         }
       }
@@ -2181,6 +3089,12 @@
             "value" : "Coller la superposition d'image"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Incolla sovrapposizione immagine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2191,6 +3105,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이미지 오버레이 붙여넣기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вставить наложение изображения"
           }
         },
         "zh-Hans" : {
@@ -2221,6 +3141,12 @@
             "value" : "Veuillez activer « Enregistrement d'écran et audio système », sinon l'application ne peut pas capturer l'image complète du bureau. Allez dans : **Réglages système** → **Confidentialité et sécurité** → **Enregistrement d'écran et audio système**"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abilita “Registrazione schermo e audio di sistema”, altrimenti l'app non puo acquisire l'intera immagine del desktop. Vai su: **Impostazioni di sistema** → **Privacy e sicurezza** → **Registrazione schermo e audio di sistema**"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2231,6 +3157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "“화면 및 시스템 오디오 녹화”를 활성화해 주세요. 그렇지 않으면 앱이 전체 데스크톱 이미지를 캐프처할 수 없습니다. **시스템 설정** → **개인정보 보호 및 보안** → **화면 및 시스템 오디오 녹화**로 이동하세요"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пожалуйста, включите “Запись экрана и системного аудио”, иначе приложение не сможет захватить полный снимок рабочего стола. Перейдите: **Системные настройки** → **Конфиденциальность и безопасность** → **Запись экрана и системного аудио**"
           }
         },
         "zh-Hans" : {
@@ -2261,6 +3193,12 @@
             "value" : "Emplacement"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Posizione"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2271,6 +3209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "위치"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Позиция"
           }
         },
         "zh-Hans" : {
@@ -2301,6 +3245,12 @@
             "value" : "Politique de confidentialité"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informativa sulla privacy"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2313,6 +3263,12 @@
             "value" : "개인정보 처리방침"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Политика конфиденциальности"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2323,6 +3279,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "隱私政策"
+          }
+        }
+      }
+    },
+    "px" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "px"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "px"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "px"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "px"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "px"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "px"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "px"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "px"
           }
         }
       }
@@ -2341,6 +3349,12 @@
             "value" : "Échec de la reconnaissance du code QR."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riconoscimento del codice QR non riuscito."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2351,6 +3365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "QR 코드 인식에 실패했습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не удалось распознать QR-код."
           }
         },
         "zh-Hans" : {
@@ -2381,6 +3401,12 @@
             "value" : "Quitter %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esci da %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2391,6 +3417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ 종료"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выйти из %@"
           }
         },
         "zh-Hans" : {
@@ -2421,6 +3453,12 @@
             "value" : "Rayon"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raggio"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2431,6 +3469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "반지름"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Радиус"
           }
         },
         "zh-Hans" : {
@@ -2461,6 +3505,12 @@
             "value" : "Reconnaissance du code QR..."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riconoscimento codice QR..."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2471,6 +3521,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "QR 코드 인식 중..."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Распознавание QR-кода..."
           }
         },
         "zh-Hans" : {
@@ -2501,6 +3557,12 @@
             "value" : "Reconnaissance du texte..."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riconoscimento testo..."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2511,6 +3573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "텍스트 인식 중..."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Распознавание текста..."
           }
         },
         "zh-Hans" : {
@@ -2541,6 +3609,12 @@
             "value" : "Rétablir (⇧⌘+Z)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ripeti (⇧⌘+Z)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2551,6 +3625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "다시 실행 (⇧⌘+Z)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повторить (⇧⌘+Z)"
           }
         },
         "zh-Hans" : {
@@ -2581,6 +3661,12 @@
             "value" : "Supprimer"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rimuovi"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2591,6 +3677,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "제거"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить"
           }
         },
         "zh-Hans" : {
@@ -2621,6 +3713,12 @@
             "value" : "Réinitialiser"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reimposta"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2631,6 +3729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "재설정"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сбросить"
           }
         },
         "zh-Hans" : {
@@ -2661,6 +3765,12 @@
             "value" : "Enregistrer (⌘+S)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salva (⌘+S)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2671,6 +3781,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저장 (⌘+S)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сохранить (⌘+S)"
           }
         },
         "zh-Hans" : {
@@ -2701,6 +3817,12 @@
             "value" : "Enregistrer l'image"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salva immagine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2711,6 +3833,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이미지 저장"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сохранить изображение"
           }
         },
         "zh-Hans" : {
@@ -2741,6 +3869,12 @@
             "value" : "Enregistrer l'image sous"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salva immagine come"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2751,6 +3885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이미지 다른 이름으로 저장"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сохранить изображение как"
           }
         },
         "zh-Hans" : {
@@ -2781,6 +3921,12 @@
             "value" : "Autorisation d'enregistrement d'écran et audio système"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permesso di registrazione schermo e audio di sistema"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2791,6 +3937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "화면 및 시스템 오디오 녹화 권한"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разрешение на запись экрана и системного аудио"
           }
         },
         "zh-Hans" : {
@@ -2821,6 +3973,12 @@
             "value" : "Enregistrement d'écran requis"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registrazione schermo richiesta"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2831,6 +3989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "화면 녹화 권한 필요"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Требуется запись экрана"
           }
         },
         "zh-Hans" : {
@@ -2861,6 +4025,12 @@
             "value" : "Capture d'écran"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schermata"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2871,6 +4041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "스크린샷"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Снимок экрана"
           }
         },
         "zh-Hans" : {
@@ -2901,6 +4077,12 @@
             "value" : "Capture d'écran (Rapide)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schermata (rapida)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2911,6 +4093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "스크린샷 (빠른 모드)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Снимок экрана (быстрый)"
           }
         },
         "zh-Hans" : {
@@ -2941,6 +4129,12 @@
             "value" : "OCR de capture d'écran"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OCR schermata"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2951,6 +4145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "스크린샷 문자 인식"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OCR снимка экрана"
           }
         },
         "zh-Hans" : {
@@ -2981,6 +4181,12 @@
             "value" : "Code QR de capture d'écran"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Codice QR da schermata"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2991,6 +4197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "스크린샷 QR 코드"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QR-код со снимка экрана"
           }
         },
         "zh-Hans" : {
@@ -3021,6 +4233,12 @@
             "value" : "Son de capture d'écran"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suono schermata"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3031,6 +4249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "스크린샷 사운드"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Звук снимка экрана"
           }
         },
         "zh-Hans" : {
@@ -3061,6 +4285,12 @@
             "value" : "Sélectionner le dossier de sauvegarde"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona cartella di salvataggio"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3071,6 +4301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "저장 폴더 선택"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбрать папку для сохранения"
           }
         },
         "zh-Hans" : {
@@ -3101,6 +4337,12 @@
             "value" : "Sélectionner l'emplacement de sauvegarde pour l'image"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona percorso di salvataggio per l'immagine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3111,6 +4353,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이미지 저장 위치 선택"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите место сохранения изображения"
           }
         },
         "zh-Hans" : {
@@ -3141,6 +4389,12 @@
             "value" : "Paramètres..."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impostazioni..."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3151,6 +4405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "설정..."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки..."
           }
         },
         "zh-Hans" : {
@@ -3181,6 +4441,12 @@
             "value" : "Ombre"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ombra"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3191,6 +4457,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "그림자"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тень"
           }
         },
         "zh-Hans" : {
@@ -3221,6 +4493,12 @@
             "value" : "Touche de raccourci"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasto di scelta rapida"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3231,6 +4509,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "단축키"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Горячая клавиша"
           }
         },
         "zh-Hans" : {
@@ -3261,6 +4545,12 @@
             "value" : "Taille"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dimensione"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3271,6 +4561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "크기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Размер"
           }
         },
         "zh-Hans" : {
@@ -3301,6 +4597,12 @@
             "value" : "Badge social"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Badge social"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3311,6 +4613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "소셜 배지"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Социальный бейдж"
           }
         },
         "zh-Hans" : {
@@ -3341,6 +4649,12 @@
             "value" : "Uni"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tinta unita"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3351,6 +4665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "단색"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сплошной"
           }
         },
         "zh-Hans" : {
@@ -3381,6 +4701,12 @@
             "value" : "Couleur début/fin"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Colore iniziale/finale"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3391,6 +4717,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시작/끝 색상"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Начальный/конечный цвет"
           }
         },
         "zh-Hans" : {
@@ -3421,6 +4753,12 @@
             "value" : "Conditions d'utilisation"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termini di servizio"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3431,6 +4769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "서비스 약관"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Условия использования"
           }
         },
         "zh-Hans" : {
@@ -3461,6 +4805,12 @@
             "value" : "Échec de la reconnaissance de texte."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riconoscimento testo non riuscito."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3471,6 +4821,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "텍스트 인식에 실패했습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не удалось распознать текст."
           }
         },
         "zh-Hans" : {
@@ -3501,6 +4857,12 @@
             "value" : "Annuler (⌘+Z)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annulla (⌘+Z)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3511,6 +4873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "실행 취소 (⌘+Z)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отменить (⌘+Z)"
           }
         },
         "zh-Hans" : {
@@ -3541,6 +4909,12 @@
             "value" : "Déverrouiller"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sblocca"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3551,6 +4925,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "언락"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разблокировать"
           }
         },
         "zh-Hans" : {
@@ -3581,6 +4961,12 @@
             "value" : "Déverrouiller les fonctionnalités"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sblocca funzionalita"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3591,6 +4977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "기능 언락"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разблокировать функции"
           }
         },
         "zh-Hans" : {
@@ -3621,6 +5013,12 @@
             "value" : "Nom d'utilisateur"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nome utente"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3631,6 +5029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "사용자 이름"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Имя пользователя"
           }
         },
         "zh-Hans" : {
@@ -3667,6 +5071,12 @@
             "value" : "Version %1$@ (%2$@)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versione %1$@ (%2$@)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3677,6 +5087,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "버전 %1$@ (%2$@)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Версия %1$@ (%2$@)"
           }
         },
         "zh-Hans" : {
@@ -3707,6 +5123,12 @@
             "value" : "Filigrane"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filigrana"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3719,6 +5141,12 @@
             "value" : "워터마크"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Водяной знак"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3729,6 +5157,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "水印"
+          }
+        }
+      }
+    },
+    "x" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "x"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "x"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "x"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "x"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "x"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "x"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "x"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "x"
           }
         }
       }
@@ -3747,6 +5227,12 @@
             "value" : "X"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3754,6 +5240,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "X"
@@ -3787,6 +5279,12 @@
             "value" : "Y"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Y"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3794,6 +5292,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Y"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Y"
@@ -3827,6 +5331,12 @@
             "value" : "Zoom"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingrandimento"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3837,6 +5347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "확대/축소"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Масштаб"
           }
         },
         "zh-Hans" : {
