@@ -8,6 +8,14 @@
 
 ".%@" = ".%@";
 
+"0 or 1" = "0 or 1";
+
+"1 or 1/12" = "1 or 1/12";
+
+"1 or 1/2" = "1 or 1/2";
+
+"2024 or 2024-01-01" = "2024 or 2024-01-01";
+
 "AAC (Advanced Audio Codec)" = "AAC (Advanced Audio Codec)";
 
 "AC3 (Dolby Digital)" = "AC3 (Dolby Digital)";
@@ -32,6 +40,10 @@
 
 "Album" = "Album";
 
+"Album Artist" = "Album Artist";
+
+"Apply" = "Apply";
+
 "Apply artwork to %d selected audios." = "Apply artwork to %d selected audios.";
 
 "Apply artwork to all %d audios." = "Apply artwork to all %d audios.";
@@ -48,11 +60,17 @@
 
 "Audio Interchange File Format Compressed" = "Audio Interchange File Format Compressed";
 
+"Audio Not Found" = "Audio Not Found";
+
 "Audio Stream Information" = "Audio Stream Information";
 
 "Audioer" = "Audioer";
 
 "Automatic" = "Automatic";
+
+"BPM" = "BPM";
+
+"Basic" = "Basic";
 
 "Batch conversion" = "Batch conversion";
 
@@ -70,7 +88,15 @@
 
 "Channel Layout" = "Channel Layout";
 
+"Clear All Tags" = "Clear All Tags";
+
 "Codec" = "Codec";
+
+"Comment" = "Comment";
+
+"Compilation" = "Compilation";
+
+"Composer" = "Composer";
 
 "Convert To" = "Convert To";
 
@@ -78,15 +104,31 @@
 
 "Convert all" = "Convert all";
 
+"Copyright" = "Copyright";
+
 "Core Audio Format" = "Core Audio Format";
 
+"Cover Artwork" = "Cover Artwork";
+
+"Cover is written into the original audio file when you click Apply." = "Cover is written into the original audio file when you click Apply.";
+
 "Creative Voice" = "Creative Voice";
+
+"Credits & Rights" = "Credits & Rights";
 
 "DTS (Digital Theater Systems)" = "DTS (Digital Theater Systems)";
 
 "DTS Coherent Acoustics" = "DTS Coherent Acoustics";
 
+"Date / Year" = "Date / Year";
+
+"Description" = "Description";
+
+"Details" = "Details";
+
 "Dialogic ADPCM" = "Dialogic ADPCM";
+
+"Disc" = "Disc";
 
 "Dolby Digital (ATSC A/52)" = "Dolby Digital (ATSC A/52)";
 
@@ -95,6 +137,12 @@
 "Duration" = "Duration";
 
 "EAC3 (Dolby Digital Plus)" = "EAC3 (Dolby Digital Plus)";
+
+"Edit Metadata" = "Edit Metadata";
+
+"Edit More…" = "Edit More…";
+
+"Encoded By" = "Encoded By";
 
 "Encoder" = "Encoder";
 
@@ -106,6 +154,8 @@
 
 "Failed to play" = "Failed to play";
 
+"Failed to write metadata to the audio file." = "Failed to write metadata to the audio file.";
+
 "File does not exist" = "File does not exist";
 
 "Format" = "Format";
@@ -113,6 +163,18 @@
 "Free" = "Free";
 
 "Free Lossless Audio Codec" = "Free Lossless Audio Codec";
+
+"Genre" = "Genre";
+
+"Grouping" = "Grouping";
+
+"ISRC" = "ISRC";
+
+"Invalid audio file path." = "Invalid audio file path.";
+
+"Language" = "Language";
+
+"Lyrics" = "Lyrics";
 
 "MP2 (MPEG Audio Layer 2)" = "MP2 (MPEG Audio Layer 2)";
 
@@ -128,11 +190,19 @@
 
 "Matroska Audio" = "Matroska Audio";
 
+"Media Type" = "Media Type";
+
 "Metadata" = "Metadata";
 
 "Mono" = "Mono";
 
+"Mood" = "Mood";
+
 "Multiple Values" = "Multiple Values";
+
+"Network" = "Network";
+
+"No audio selected" = "No audio selected";
 
 "No available audio streams, unable to extract audio." = "No available audio streams, unable to extract audio.";
 
@@ -141,6 +211,8 @@
 "Ogg Vorbis" = "Ogg Vorbis";
 
 "Open" = "Open";
+
+"Open a window to edit all metadata tags for this audio" = "Open a window to edit all metadata tags for this audio";
 
 "Open in Finder" = "Open in Finder";
 
@@ -172,7 +244,11 @@
 
 "Profile" = "Profile";
 
+"Publisher" = "Publisher";
+
 "Quick Time" = "Quick Time";
+
+"Rating" = "Rating";
 
 "Real Audio 1.0" = "Real Audio 1.0";
 
@@ -181,6 +257,10 @@
 "RealMedia" = "RealMedia";
 
 "RealMedia Audio" = "RealMedia Audio";
+
+"Release" = "Release";
+
+"Remove" = "Remove";
 
 "Replace Cover" = "Replace Cover";
 
@@ -192,9 +272,19 @@
 
 "Select Folder" = "Select Folder";
 
+"Show / Podcast" = "Show / Podcast";
+
 "Size" = "Size";
 
 "Sony Wave64" = "Sony Wave64";
+
+"Sort Album" = "Sort Album";
+
+"Sort Artist" = "Sort Artist";
+
+"Sort Title" = "Sort Title";
+
+"Sorting" = "Sorting";
 
 "Sound Designer II" = "Sound Designer II";
 
@@ -206,17 +296,25 @@
 
 "Stream Count" = "Stream Count";
 
+"Subtitle" = "Subtitle";
+
 "Sun Microsystems AU" = "Sun Microsystems AU";
 
 "TTA (True Audio)" = "TTA (True Audio)";
 
+"The audio file is no longer in the list." = "The audio file is no longer in the list.";
+
 "Title" = "Title";
+
+"Track" = "Track";
 
 "True Audio" = "True Audio";
 
 "TrueHD (Dolby TrueHD)" = "TrueHD (Dolby TrueHD)";
 
 "Unable to add cover artwork" = "Unable to add cover artwork";
+
+"Unable to write metadata" = "Unable to write metadata";
 
 "Unknown Codec" = "Unknown Codec";
 
@@ -240,7 +338,11 @@
 
 "WebM Audio" = "WebM Audio";
 
+"Website" = "Website";
+
 "Windows Media Audio" = "Windows Media Audio";
+
+"Writing to file…" = "Writing to file…";
 
 "iTunes Ringtone File" = "iTunes Ringtone File";
 

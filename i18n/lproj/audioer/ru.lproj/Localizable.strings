@@ -8,6 +8,14 @@
 
 ".%@" = ".%@";
 
+"0 or 1" = "0 или 1";
+
+"1 or 1/12" = "1 или 1/12";
+
+"1 or 1/2" = "1 или 1/2";
+
+"2024 or 2024-01-01" = "2024 или 2024-01-01";
+
 "AAC (Advanced Audio Codec)" = "AAC (Advanced Audio Codec)";
 
 "AC3 (Dolby Digital)" = "AC3 (Dolby Digital)";
@@ -32,6 +40,10 @@
 
 "Album" = "Альбом";
 
+"Album Artist" = "Исполнитель альбома";
+
+"Apply" = "Применить";
+
 "Apply artwork to %d selected audios." = "Применить обложку к %d выбранным аудио.";
 
 "Apply artwork to all %d audios." = "Применить обложку ко всем %d аудио.";
@@ -48,11 +60,17 @@
 
 "Audio Interchange File Format Compressed" = "Audio Interchange File Format Compressed";
 
+"Audio Not Found" = "Аудио не найдено";
+
 "Audio Stream Information" = "Информация об аудиопотоке";
 
 "Audioer" = "Audioer";
 
 "Automatic" = "Автоматически";
+
+"BPM" = "BPM";
+
+"Basic" = "Основное";
 
 "Batch conversion" = "Пакетная конвертация";
 
@@ -70,7 +88,15 @@
 
 "Channel Layout" = "Схема каналов";
 
+"Clear All Tags" = "Очистить все теги";
+
 "Codec" = "Кодек";
+
+"Comment" = "Комментарий";
+
+"Compilation" = "Сборник";
+
+"Composer" = "Композитор";
 
 "Convert To" = "Конвертировать в";
 
@@ -78,15 +104,31 @@
 
 "Convert all" = "Конвертировать всё";
 
+"Copyright" = "Авторские права";
+
 "Core Audio Format" = "Core Audio Format";
 
+"Cover Artwork" = "Обложка";
+
+"Cover is written into the original audio file when you click Apply." = "Обложка записывается в исходный аудиофайл при нажатии «Применить».";
+
 "Creative Voice" = "Creative Voice";
+
+"Credits & Rights" = "Благодарности и права";
 
 "DTS (Digital Theater Systems)" = "DTS (Digital Theater Systems)";
 
 "DTS Coherent Acoustics" = "DTS Coherent Acoustics";
 
+"Date / Year" = "Дата / Год";
+
+"Description" = "Описание";
+
+"Details" = "Подробности";
+
 "Dialogic ADPCM" = "Dialogic ADPCM";
+
+"Disc" = "Диск";
 
 "Dolby Digital (ATSC A/52)" = "Dolby Digital (ATSC A/52)";
 
@@ -95,6 +137,12 @@
 "Duration" = "Длительность";
 
 "EAC3 (Dolby Digital Plus)" = "EAC3 (Dolby Digital Plus)";
+
+"Edit Metadata" = "Редактировать метаданные";
+
+"Edit More…" = "Редактировать ещё…";
+
+"Encoded By" = "Кодировщик";
 
 "Encoder" = "Кодировщик";
 
@@ -106,6 +154,8 @@
 
 "Failed to play" = "Не удалось воспроизвести";
 
+"Failed to write metadata to the audio file." = "Не удалось записать метаданные в аудиофайл.";
+
 "File does not exist" = "Файл не существует";
 
 "Format" = "Формат";
@@ -113,6 +163,18 @@
 "Free" = "Бесплатно";
 
 "Free Lossless Audio Codec" = "Free Lossless Audio Codec";
+
+"Genre" = "Жанр";
+
+"Grouping" = "Группировка";
+
+"ISRC" = "ISRC";
+
+"Invalid audio file path." = "Недопустимый путь к аудиофайлу.";
+
+"Language" = "Язык";
+
+"Lyrics" = "Текст песни";
 
 "MP2 (MPEG Audio Layer 2)" = "MP2 (MPEG Audio Layer 2)";
 
@@ -128,11 +190,19 @@
 
 "Matroska Audio" = "Matroska Audio";
 
+"Media Type" = "Тип медиа";
+
 "Metadata" = "Метаданные";
 
 "Mono" = "Моно";
 
+"Mood" = "Настроение";
+
 "Multiple Values" = "Несколько значений";
+
+"Network" = "Сеть";
+
+"No audio selected" = "Аудио не выбрано";
 
 "No available audio streams, unable to extract audio." = "Нет доступных аудиопотоков, невозможно извлечь аудио.";
 
@@ -141,6 +211,8 @@
 "Ogg Vorbis" = "Ogg Vorbis";
 
 "Open" = "Открыть";
+
+"Open a window to edit all metadata tags for this audio" = "Открыть окно для редактирования всех тегов метаданных этого аудио";
 
 "Open in Finder" = "Открыть в Finder";
 
@@ -172,7 +244,11 @@
 
 "Profile" = "Профиль";
 
-"Quick Time" = "Quick Time";
+"Publisher" = "Издатель";
+
+"Quick Time" = "QuickTime";
+
+"Rating" = "Рейтинг";
 
 "Real Audio 1.0" = "Real Audio 1.0";
 
@@ -181,6 +257,10 @@
 "RealMedia" = "RealMedia";
 
 "RealMedia Audio" = "RealMedia Audio";
+
+"Release" = "Релиз";
+
+"Remove" = "Удалить";
 
 "Replace Cover" = "Заменить обложку";
 
@@ -192,9 +272,19 @@
 
 "Select Folder" = "Выбрать папку";
 
+"Show / Podcast" = "Шоу / Подкаст";
+
 "Size" = "Размер";
 
 "Sony Wave64" = "Sony Wave64";
+
+"Sort Album" = "Сортировать альбом";
+
+"Sort Artist" = "Сортировать исполнителя";
+
+"Sort Title" = "Сортировать название";
+
+"Sorting" = "Сортировка";
 
 "Sound Designer II" = "Sound Designer II";
 
@@ -206,17 +296,25 @@
 
 "Stream Count" = "Количество потоков";
 
+"Subtitle" = "Субтитры";
+
 "Sun Microsystems AU" = "Sun Microsystems AU";
 
 "TTA (True Audio)" = "TTA (True Audio)";
 
+"The audio file is no longer in the list." = "Аудиофайл больше не в списке.";
+
 "Title" = "Название";
+
+"Track" = "Трек";
 
 "True Audio" = "True Audio";
 
 "TrueHD (Dolby TrueHD)" = "TrueHD (Dolby TrueHD)";
 
 "Unable to add cover artwork" = "Не удалось добавить обложку";
+
+"Unable to write metadata" = "Не удаётся записать метаданные";
 
 "Unknown Codec" = "Неизвестный кодек";
 
@@ -228,7 +326,7 @@
 
 "Use original" = "Использовать оригинал";
 
-"VOX Dialogic Voice Audio File" = "VOX Dialogic Voice Audio File";
+"VOX Dialogic Voice Audio File" = "Аудиофайл голоса VOX Dialogic";
 
 "Video Object" = "Video Object";
 
@@ -240,7 +338,11 @@
 
 "WebM Audio" = "WebM Audio";
 
+"Website" = "Веб-сайт";
+
 "Windows Media Audio" = "Windows Media Audio";
+
+"Writing to file…" = "Запись в файл…";
 
 "iTunes Ringtone File" = "Файл рингтона iTunes";
 

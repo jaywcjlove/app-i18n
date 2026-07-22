@@ -8,6 +8,14 @@
 
 ".%@" = ".%@";
 
+"0 or 1" = "0 または 1";
+
+"1 or 1/12" = "1 または 1/12";
+
+"1 or 1/2" = "1 または 1/2";
+
+"2024 or 2024-01-01" = "2024 または 2024-01-01";
+
 "AAC (Advanced Audio Codec)" = "AAC（高度な音声コーデック）";
 
 "AC3 (Dolby Digital)" = "AC3（ドルビーデジタル）";
@@ -32,6 +40,10 @@
 
 "Album" = "アルバム";
 
+"Album Artist" = "アルバムアーティスト";
+
+"Apply" = "適用";
+
 "Apply artwork to %d selected audios." = "選択した%d個の音声にアートワークを適用します。";
 
 "Apply artwork to all %d audios." = "全%d個の音声にアートワークを適用します。";
@@ -48,11 +60,17 @@
 
 "Audio Interchange File Format Compressed" = "音声交換ファイル形式（圧縮）";
 
+"Audio Not Found" = "オーディオが見つかりません";
+
 "Audio Stream Information" = "音声ストリーム情報";
 
 "Audioer" = "Audioer";
 
 "Automatic" = "自動";
+
+"BPM" = "BPM";
+
+"Basic" = "基本";
 
 "Batch conversion" = "バッチ変換";
 
@@ -70,7 +88,15 @@
 
 "Channel Layout" = "チャンネルレイアウト";
 
+"Clear All Tags" = "すべてのタグをクリア";
+
 "Codec" = "コーデック";
+
+"Comment" = "コメント";
+
+"Compilation" = "コンピレーション";
+
+"Composer" = "作曲者";
 
 "Convert To" = "変換先";
 
@@ -78,15 +104,31 @@
 
 "Convert all" = "すべて変換";
 
+"Copyright" = "著作権";
+
 "Core Audio Format" = "Core Audio Format";
 
+"Cover Artwork" = "カバーアートワーク";
+
+"Cover is written into the original audio file when you click Apply." = "「適用」をクリックすると、カバー画像が元のオーディオファイルに書き込まれます。";
+
 "Creative Voice" = "Creative Voice";
+
+"Credits & Rights" = "クレジットと権利";
 
 "DTS (Digital Theater Systems)" = "DTS（デジタルシアターシステムズ）";
 
 "DTS Coherent Acoustics" = "DTSコヒーレント音響";
 
+"Date / Year" = "日付 / 年";
+
+"Description" = "説明";
+
+"Details" = "詳細";
+
 "Dialogic ADPCM" = "Dialogic ADPCM";
+
+"Disc" = "ディスク";
 
 "Dolby Digital (ATSC A/52)" = "ドルビーデジタル（ATSC A/52）";
 
@@ -95,6 +137,12 @@
 "Duration" = "長さ";
 
 "EAC3 (Dolby Digital Plus)" = "EAC3（ドルビーデジタルプラス）";
+
+"Edit Metadata" = "メタデータを編集";
+
+"Edit More…" = "さらに編集…";
+
+"Encoded By" = "エンコードした人";
 
 "Encoder" = "エンコーダー";
 
@@ -106,6 +154,8 @@
 
 "Failed to play" = "再生に失敗しました";
 
+"Failed to write metadata to the audio file." = "オーディオファイルへのメタデータ書き込みに失敗しました。";
+
 "File does not exist" = "ファイルが存在しません";
 
 "Format" = "フォーマット";
@@ -113,6 +163,18 @@
 "Free" = "無料";
 
 "Free Lossless Audio Codec" = "フリー可逆音声コーデック";
+
+"Genre" = "ジャンル";
+
+"Grouping" = "グループ";
+
+"ISRC" = "ISRC";
+
+"Invalid audio file path." = "無効なオーディオファイルパスです。";
+
+"Language" = "言語";
+
+"Lyrics" = "歌詞";
 
 "MP2 (MPEG Audio Layer 2)" = "MP2（MPEG音声レイヤー2）";
 
@@ -128,11 +190,19 @@
 
 "Matroska Audio" = "Matroska音声";
 
+"Media Type" = "メディアタイプ";
+
 "Metadata" = "メタデータ";
 
 "Mono" = "モノラル";
 
+"Mood" = "ムード";
+
 "Multiple Values" = "複数の値";
+
+"Network" = "ネットワーク";
+
+"No audio selected" = "オーディオが選択されていません";
 
 "No available audio streams, unable to extract audio." = "利用可能な音声ストリームがありません。音声を抽出できません。";
 
@@ -141,6 +211,8 @@
 "Ogg Vorbis" = "Ogg Vorbis";
 
 "Open" = "開く";
+
+"Open a window to edit all metadata tags for this audio" = "このオーディオのすべてのメタデータタグを編集するウィンドウを開く";
 
 "Open in Finder" = "Finderで開く";
 
@@ -172,7 +244,11 @@
 
 "Profile" = "プロファイル";
 
-"Quick Time" = "Quick Time";
+"Publisher" = "出版社";
+
+"Quick Time" = "QuickTime";
+
+"Rating" = "評価";
 
 "Real Audio 1.0" = "Real Audio 1.0";
 
@@ -181,6 +257,10 @@
 "RealMedia" = "RealMedia";
 
 "RealMedia Audio" = "RealMedia Audio";
+
+"Release" = "リリース";
+
+"Remove" = "削除";
 
 "Replace Cover" = "カバーを置換";
 
@@ -192,9 +272,19 @@
 
 "Select Folder" = "フォルダを選択";
 
+"Show / Podcast" = "番組 / ポッドキャスト";
+
 "Size" = "サイズ";
 
 "Sony Wave64" = "Sony Wave64";
+
+"Sort Album" = "アルバムを並べ替え";
+
+"Sort Artist" = "アーティストを並べ替え";
+
+"Sort Title" = "タイトルを並べ替え";
+
+"Sorting" = "並べ替え";
 
 "Sound Designer II" = "Sound Designer II";
 
@@ -206,17 +296,25 @@
 
 "Stream Count" = "ストリーム数";
 
+"Subtitle" = "字幕";
+
 "Sun Microsystems AU" = "Sun Microsystems AU";
 
 "TTA (True Audio)" = "TTA（True Audio）";
 
+"The audio file is no longer in the list." = "このオーディオファイルはリストにありません。";
+
 "Title" = "タイトル";
+
+"Track" = "トラック";
 
 "True Audio" = "True Audio";
 
 "TrueHD (Dolby TrueHD)" = "TrueHD（ドルビーTrueHD）";
 
 "Unable to add cover artwork" = "カバーアートワークを追加できません";
+
+"Unable to write metadata" = "メタデータを書き込めません";
 
 "Unknown Codec" = "不明なコーデック";
 
@@ -228,7 +326,7 @@
 
 "Use original" = "オリジナルを使用";
 
-"VOX Dialogic Voice Audio File" = "VOX Dialogic Voice Audio File";
+"VOX Dialogic Voice Audio File" = "VOX Dialogic 音声オーディオファイル";
 
 "Video Object" = "Video Object";
 
@@ -240,7 +338,11 @@
 
 "WebM Audio" = "WebM Audio";
 
+"Website" = "ウェブサイト";
+
 "Windows Media Audio" = "Windows Media Audio";
+
+"Writing to file…" = "ファイルに書き込み中…";
 
 "iTunes Ringtone File" = "iTunes着信音ファイル";
 

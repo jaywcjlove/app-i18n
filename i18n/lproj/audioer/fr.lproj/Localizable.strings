@@ -8,6 +8,14 @@
 
 ".%@" = ".%@";
 
+"0 or 1" = "0 ou 1";
+
+"1 or 1/12" = "1 ou 1/12";
+
+"1 or 1/2" = "1 ou 1/2";
+
+"2024 or 2024-01-01" = "2024 ou 2024-01-01";
+
 "AAC (Advanced Audio Codec)" = "AAC (Advanced Audio Codec)";
 
 "AC3 (Dolby Digital)" = "AC3 (Dolby Digital)";
@@ -32,6 +40,10 @@
 
 "Album" = "Album";
 
+"Album Artist" = "Artiste de l'album";
+
+"Apply" = "Appliquer";
+
 "Apply artwork to %d selected audios." = "Appliquer la pochette aux %d audios sélectionnés.";
 
 "Apply artwork to all %d audios." = "Appliquer la pochette aux %d audios.";
@@ -48,11 +60,17 @@
 
 "Audio Interchange File Format Compressed" = "Audio Interchange File Format Compressed";
 
+"Audio Not Found" = "Audio introuvable";
+
 "Audio Stream Information" = "Informations du flux audio";
 
 "Audioer" = "Audioer";
 
 "Automatic" = "Automatique";
+
+"BPM" = "BPM";
+
+"Basic" = "Basique";
 
 "Batch conversion" = "Conversion par lot";
 
@@ -70,7 +88,15 @@
 
 "Channel Layout" = "Disposition des canaux";
 
+"Clear All Tags" = "Effacer toutes les balises";
+
 "Codec" = "Codec";
+
+"Comment" = "Commentaire";
+
+"Compilation" = "Compilation";
+
+"Composer" = "Compositeur";
 
 "Convert To" = "Convertir en";
 
@@ -78,15 +104,31 @@
 
 "Convert all" = "Tout convertir";
 
+"Copyright" = "Droits d'auteur";
+
 "Core Audio Format" = "Core Audio Format";
 
+"Cover Artwork" = "Pochette";
+
+"Cover is written into the original audio file when you click Apply." = "La pochette est ecrite dans le fichier audio d'origine lorsque vous cliquez sur Appliquer.";
+
 "Creative Voice" = "Creative Voice";
+
+"Credits & Rights" = "Credits et droits";
 
 "DTS (Digital Theater Systems)" = "DTS (Digital Theater Systems)";
 
 "DTS Coherent Acoustics" = "DTS Coherent Acoustics";
 
+"Date / Year" = "Date / Annee";
+
+"Description" = "Description";
+
+"Details" = "Details";
+
 "Dialogic ADPCM" = "Dialogic ADPCM";
+
+"Disc" = "Disque";
 
 "Dolby Digital (ATSC A/52)" = "Dolby Digital (ATSC A/52)";
 
@@ -95,6 +137,12 @@
 "Duration" = "Durée";
 
 "EAC3 (Dolby Digital Plus)" = "EAC3 (Dolby Digital Plus)";
+
+"Edit Metadata" = "Modifier les metadonnees";
+
+"Edit More…" = "Modifier plus…";
+
+"Encoded By" = "Encode par";
 
 "Encoder" = "Encodeur";
 
@@ -106,6 +154,8 @@
 
 "Failed to play" = "Échec de la lecture";
 
+"Failed to write metadata to the audio file." = "Echec de l'ecriture des metadonnees dans le fichier audio.";
+
 "File does not exist" = "Le fichier n'existe pas";
 
 "Format" = "Format";
@@ -113,6 +163,18 @@
 "Free" = "Gratuit";
 
 "Free Lossless Audio Codec" = "Free Lossless Audio Codec";
+
+"Genre" = "Genre";
+
+"Grouping" = "Regroupement";
+
+"ISRC" = "ISRC";
+
+"Invalid audio file path." = "Chemin du fichier audio invalide.";
+
+"Language" = "Langue";
+
+"Lyrics" = "Paroles";
 
 "MP2 (MPEG Audio Layer 2)" = "MP2 (MPEG Audio Layer 2)";
 
@@ -128,11 +190,19 @@
 
 "Matroska Audio" = "Matroska Audio";
 
+"Media Type" = "Type de media";
+
 "Metadata" = "Métadonnées";
 
 "Mono" = "Mono";
 
+"Mood" = "Humeur";
+
 "Multiple Values" = "Valeurs multiples";
+
+"Network" = "Reseau";
+
+"No audio selected" = "Aucun audio selectionne";
 
 "No available audio streams, unable to extract audio." = "Aucun flux audio disponible, impossible d'extraire l'audio.";
 
@@ -141,6 +211,8 @@
 "Ogg Vorbis" = "Ogg Vorbis";
 
 "Open" = "Ouvrir";
+
+"Open a window to edit all metadata tags for this audio" = "Ouvrir une fenetre pour modifier toutes les balises de metadonnees de cet audio";
 
 "Open in Finder" = "Ouvrir dans le Finder";
 
@@ -172,7 +244,11 @@
 
 "Profile" = "Profil";
 
-"Quick Time" = "Quick Time";
+"Publisher" = "Editeur";
+
+"Quick Time" = "QuickTime";
+
+"Rating" = "Evaluation";
 
 "Real Audio 1.0" = "Real Audio 1.0";
 
@@ -181,6 +257,10 @@
 "RealMedia" = "RealMedia";
 
 "RealMedia Audio" = "RealMedia Audio";
+
+"Release" = "Sortie";
+
+"Remove" = "Supprimer";
 
 "Replace Cover" = "Remplacer la pochette";
 
@@ -192,9 +272,19 @@
 
 "Select Folder" = "Sélectionner un dossier";
 
+"Show / Podcast" = "Emission / Podcast";
+
 "Size" = "Taille";
 
 "Sony Wave64" = "Sony Wave64";
+
+"Sort Album" = "Trier l'album";
+
+"Sort Artist" = "Trier l'artiste";
+
+"Sort Title" = "Trier le titre";
+
+"Sorting" = "Tri";
 
 "Sound Designer II" = "Sound Designer II";
 
@@ -206,17 +296,25 @@
 
 "Stream Count" = "Nombre de flux";
 
+"Subtitle" = "Sous-titre";
+
 "Sun Microsystems AU" = "Sun Microsystems AU";
 
 "TTA (True Audio)" = "TTA (True Audio)";
 
+"The audio file is no longer in the list." = "Le fichier audio n'est plus dans la liste.";
+
 "Title" = "Titre";
+
+"Track" = "Piste";
 
 "True Audio" = "True Audio";
 
 "TrueHD (Dolby TrueHD)" = "TrueHD (Dolby TrueHD)";
 
 "Unable to add cover artwork" = "Impossible d'ajouter la pochette";
+
+"Unable to write metadata" = "Impossible d'ecrire les metadonnees";
 
 "Unknown Codec" = "Codec inconnu";
 
@@ -228,7 +326,7 @@
 
 "Use original" = "Utiliser l'original";
 
-"VOX Dialogic Voice Audio File" = "VOX Dialogic Voice Audio File";
+"VOX Dialogic Voice Audio File" = "Fichier audio voix VOX Dialogic";
 
 "Video Object" = "Video Object";
 
@@ -240,7 +338,11 @@
 
 "WebM Audio" = "WebM Audio";
 
+"Website" = "Site web";
+
 "Windows Media Audio" = "Windows Media Audio";
+
+"Writing to file…" = "Ecriture dans le fichier…";
 
 "iTunes Ringtone File" = "iTunes Ringtone File";
 

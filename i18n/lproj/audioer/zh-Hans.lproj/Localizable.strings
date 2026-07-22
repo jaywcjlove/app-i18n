@@ -8,6 +8,14 @@
 
 ".%@" = ".%@";
 
+"0 or 1" = "0 或 1";
+
+"1 or 1/12" = "1 或 1/12";
+
+"1 or 1/2" = "1 或 1/2";
+
+"2024 or 2024-01-01" = "2024 或 2024-01-01";
+
 "AAC (Advanced Audio Codec)" = "AAC（高级音频编码）";
 
 "AC3 (Dolby Digital)" = "AC3（杜比数字音频）";
@@ -32,6 +40,10 @@
 
 "Album" = "专辑";
 
+"Album Artist" = "专辑艺术家";
+
+"Apply" = "应用";
+
 "Apply artwork to %d selected audios." = "将封面应用到选中的 %d 个音频。";
 
 "Apply artwork to all %d audios." = "将封面应用到全部 %d 个音频。";
@@ -48,11 +60,17 @@
 
 "Audio Interchange File Format Compressed" = "压缩音频交换文件格式";
 
+"Audio Not Found" = "未找到音频";
+
 "Audio Stream Information" = "音频流信息";
 
 "Audioer" = "Audioer";
 
 "Automatic" = "自动";
+
+"BPM" = "BPM";
+
+"Basic" = "基础";
 
 "Batch conversion" = "批量转换";
 
@@ -70,7 +88,15 @@
 
 "Channel Layout" = "声道布局";
 
+"Clear All Tags" = "清除所有标签";
+
 "Codec" = "编码器";
+
+"Comment" = "注释";
+
+"Compilation" = "合辑";
+
+"Composer" = "作曲者";
 
 "Convert To" = "转换为";
 
@@ -78,15 +104,31 @@
 
 "Convert all" = "转换所有";
 
+"Copyright" = "版权";
+
 "Core Audio Format" = "核心音频格式";
 
+"Cover Artwork" = "封面图片";
+
+"Cover is written into the original audio file when you click Apply." = "点击“应用”后，封面将写入原始音频文件。";
+
 "Creative Voice" = "创意语音";
+
+"Credits & Rights" = "鸣谢与权利";
 
 "DTS (Digital Theater Systems)" = "DTS（数字剧院系统）";
 
 "DTS Coherent Acoustics" = "DTS一致性声学";
 
+"Date / Year" = "日期 / 年份";
+
+"Description" = "描述";
+
+"Details" = "详情";
+
 "Dialogic ADPCM" = "Dialogic ADPCM";
+
+"Disc" = "碟片";
 
 "Dolby Digital (ATSC A/52)" = "杜比数字（ATSC A/52）";
 
@@ -95,6 +137,12 @@
 "Duration" = "时长";
 
 "EAC3 (Dolby Digital Plus)" = "EAC3（杜比数字增强版）";
+
+"Edit Metadata" = "编辑元数据";
+
+"Edit More…" = "编辑更多…";
+
+"Encoded By" = "编码者";
 
 "Encoder" = "编码器";
 
@@ -106,6 +154,8 @@
 
 "Failed to play" = "播放失败";
 
+"Failed to write metadata to the audio file." = "将元数据写入音频文件失败。";
+
 "File does not exist" = "文件不存在";
 
 "Format" = "格式";
@@ -113,6 +163,18 @@
 "Free" = "免费";
 
 "Free Lossless Audio Codec" = "自由无损音频编码";
+
+"Genre" = "流派";
+
+"Grouping" = "分组";
+
+"ISRC" = "ISRC";
+
+"Invalid audio file path." = "无效的音频文件路径。";
+
+"Language" = "语言";
+
+"Lyrics" = "歌词";
 
 "MP2 (MPEG Audio Layer 2)" = "MP3（MPEG音频层2）";
 
@@ -128,11 +190,19 @@
 
 "Matroska Audio" = "Matroska音频";
 
+"Media Type" = "媒体类型";
+
 "Metadata" = "元数据";
 
 "Mono" = "单声道";
 
+"Mood" = "情绪";
+
 "Multiple Values" = "多个值";
+
+"Network" = "网络";
+
+"No audio selected" = "未选择音频";
 
 "No available audio streams, unable to extract audio." = "没有可用的音频流，无法提取音频。";
 
@@ -141,6 +211,8 @@
 "Ogg Vorbis" = "Ogg Vorbis";
 
 "Open" = "打开";
+
+"Open a window to edit all metadata tags for this audio" = "打开窗口以编辑此音频的所有元数据标签";
 
 "Open in Finder" = "访达中打开";
 
@@ -172,7 +244,11 @@
 
 "Profile" = "配置文件";
 
-"Quick Time" = "Quick Time";
+"Publisher" = "发行商";
+
+"Quick Time" = "QuickTime";
+
+"Rating" = "评分";
 
 "Real Audio 1.0" = "Real音频1.0";
 
@@ -181,6 +257,10 @@
 "RealMedia" = "RealMedia";
 
 "RealMedia Audio" = "RealMedia音频";
+
+"Release" = "发行";
+
+"Remove" = "移除";
 
 "Replace Cover" = "替换封面";
 
@@ -192,9 +272,19 @@
 
 "Select Folder" = "选择文件夹";
 
+"Show / Podcast" = "节目 / 播客";
+
 "Size" = "大小";
 
 "Sony Wave64" = "索尼 Wave64";
+
+"Sort Album" = "专辑排序";
+
+"Sort Artist" = "艺术家排序";
+
+"Sort Title" = "标题排序";
+
+"Sorting" = "排序";
 
 "Sound Designer II" = "Sound Designer II";
 
@@ -206,17 +296,25 @@
 
 "Stream Count" = "流数量";
 
+"Subtitle" = "字幕";
+
 "Sun Microsystems AU" = "Sun Microsystems AU";
 
 "TTA (True Audio)" = "TTA（真音频）";
 
+"The audio file is no longer in the list." = "该音频文件已不在列表中。";
+
 "Title" = "标题";
+
+"Track" = "音轨";
 
 "True Audio" = "真音频";
 
 "TrueHD (Dolby TrueHD)" = "TrueHD（杜比TrueHD）";
 
 "Unable to add cover artwork" = "无法添加封面";
+
+"Unable to write metadata" = "无法写入元数据";
 
 "Unknown Codec" = "未知编解码器";
 
@@ -228,7 +326,7 @@
 
 "Use original" = "使用原始";
 
-"VOX Dialogic Voice Audio File" = "VOX Dialogic Voice Audio File";
+"VOX Dialogic Voice Audio File" = "VOX Dialogic 语音音频文件";
 
 "Video Object" = "视频对象";
 
@@ -240,7 +338,11 @@
 
 "WebM Audio" = "WebM 音频";
 
+"Website" = "网站";
+
 "Windows Media Audio" = "Windows 媒体音频";
+
+"Writing to file…" = "正在写入文件…";
 
 "iTunes Ringtone File" = "iTunes 铃声文件";
 

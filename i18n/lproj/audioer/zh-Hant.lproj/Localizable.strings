@@ -8,6 +8,14 @@
 
 ".%@" = ".%@";
 
+"0 or 1" = "0 或 1";
+
+"1 or 1/12" = "1 或 1/12";
+
+"1 or 1/2" = "1 或 1/2";
+
+"2024 or 2024-01-01" = "2024 或 2024-01-01";
+
 "AAC (Advanced Audio Codec)" = "AAC（進階音訊編碼）";
 
 "AC3 (Dolby Digital)" = "AC3（杜比數位音訊）";
@@ -32,6 +40,10 @@
 
 "Album" = "專輯";
 
+"Album Artist" = "專輯演出者";
+
+"Apply" = "套用";
+
 "Apply artwork to %d selected audios." = "將封面套用到選取的 %d 個音訊。";
 
 "Apply artwork to all %d audios." = "將封面套用到全部 %d 個音訊。";
@@ -48,11 +60,17 @@
 
 "Audio Interchange File Format Compressed" = "壓縮音訊交換檔案格式";
 
+"Audio Not Found" = "找不到音訊";
+
 "Audio Stream Information" = "音訊串流資訊";
 
 "Audioer" = "Audioer";
 
 "Automatic" = "自動";
+
+"BPM" = "BPM";
+
+"Basic" = "基本";
 
 "Batch conversion" = "批次轉換";
 
@@ -70,7 +88,15 @@
 
 "Channel Layout" = "聲道布局";
 
+"Clear All Tags" = "清除所有標籤";
+
 "Codec" = "編碼器";
+
+"Comment" = "註解";
+
+"Compilation" = "合輯";
+
+"Composer" = "作曲者";
 
 "Convert To" = "轉換為";
 
@@ -78,15 +104,31 @@
 
 "Convert all" = "轉換全部";
 
+"Copyright" = "版權";
+
 "Core Audio Format" = "核心音訊格式";
 
+"Cover Artwork" = "封面圖片";
+
+"Cover is written into the original audio file when you click Apply." = "按一下「套用」後，封面會寫入原始音訊檔。";
+
 "Creative Voice" = "創意語音";
+
+"Credits & Rights" = "鳴謝與權利";
 
 "DTS (Digital Theater Systems)" = "DTS（數位劇院系統）";
 
 "DTS Coherent Acoustics" = "DTS 一致性聲學";
 
+"Date / Year" = "日期 / 年份";
+
+"Description" = "描述";
+
+"Details" = "詳細資訊";
+
 "Dialogic ADPCM" = "Dialogic ADPCM";
+
+"Disc" = "碟片";
 
 "Dolby Digital (ATSC A/52)" = "杜比數位（ATSC A/52）";
 
@@ -95,6 +137,12 @@
 "Duration" = "時長";
 
 "EAC3 (Dolby Digital Plus)" = "EAC3（杜比數位增強版）";
+
+"Edit Metadata" = "編輯中繼資料";
+
+"Edit More…" = "編輯更多…";
+
+"Encoded By" = "編碼者";
 
 "Encoder" = "編碼器";
 
@@ -106,6 +154,8 @@
 
 "Failed to play" = "播放失敗";
 
+"Failed to write metadata to the audio file." = "將中繼資料寫入音訊檔失敗。";
+
 "File does not exist" = "檔案不存在";
 
 "Format" = "格式";
@@ -113,6 +163,18 @@
 "Free" = "免費";
 
 "Free Lossless Audio Codec" = "自由無損音訊編碼";
+
+"Genre" = "曲風";
+
+"Grouping" = "分組";
+
+"ISRC" = "ISRC";
+
+"Invalid audio file path." = "無效的音訊檔案路徑。";
+
+"Language" = "語言";
+
+"Lyrics" = "歌詞";
 
 "MP2 (MPEG Audio Layer 2)" = "MP2（MPEG 音訊層 2）";
 
@@ -128,11 +190,19 @@
 
 "Matroska Audio" = "Matroska 音訊";
 
+"Media Type" = "媒體類型";
+
 "Metadata" = "中繼資料";
 
 "Mono" = "單聲道";
 
+"Mood" = "心情";
+
 "Multiple Values" = "多個值";
+
+"Network" = "網路";
+
+"No audio selected" = "未選取音訊";
 
 "No available audio streams, unable to extract audio." = "沒有可用的音訊串流，無法擷取音訊。";
 
@@ -141,6 +211,8 @@
 "Ogg Vorbis" = "Ogg Vorbis";
 
 "Open" = "打開";
+
+"Open a window to edit all metadata tags for this audio" = "開啟視窗以編輯此音訊的所有中繼資料標籤";
 
 "Open in Finder" = "在 Finder 中打開";
 
@@ -172,7 +244,11 @@
 
 "Profile" = "設定檔";
 
-"Quick Time" = "Quick Time";
+"Publisher" = "發行商";
+
+"Quick Time" = "QuickTime";
+
+"Rating" = "評分";
 
 "Real Audio 1.0" = "Real 音訊 1.0";
 
@@ -181,6 +257,10 @@
 "RealMedia" = "RealMedia";
 
 "RealMedia Audio" = "RealMedia 音訊";
+
+"Release" = "發行";
+
+"Remove" = "移除";
 
 "Replace Cover" = "取代封面";
 
@@ -192,9 +272,19 @@
 
 "Select Folder" = "選取檔案夾";
 
+"Show / Podcast" = "節目 / Podcast";
+
 "Size" = "大小";
 
 "Sony Wave64" = "Sony Wave64";
+
+"Sort Album" = "專輯排序";
+
+"Sort Artist" = "演出者排序";
+
+"Sort Title" = "標題排序";
+
+"Sorting" = "排序";
 
 "Sound Designer II" = "Sound Designer II";
 
@@ -206,17 +296,25 @@
 
 "Stream Count" = "串流數量";
 
+"Subtitle" = "字幕";
+
 "Sun Microsystems AU" = "Sun Microsystems AU";
 
 "TTA (True Audio)" = "TTA（True Audio）";
 
+"The audio file is no longer in the list." = "該音訊檔已不在清單中。";
+
 "Title" = "標題";
+
+"Track" = "音軌";
 
 "True Audio" = "True Audio";
 
 "TrueHD (Dolby TrueHD)" = "TrueHD（Dolby TrueHD）";
 
 "Unable to add cover artwork" = "無法加入封面圖片";
+
+"Unable to write metadata" = "無法寫入中繼資料";
 
 "Unknown Codec" = "未知編解碼器";
 
@@ -228,7 +326,7 @@
 
 "Use original" = "使用原始";
 
-"VOX Dialogic Voice Audio File" = "VOX Dialogic Voice Audio File";
+"VOX Dialogic Voice Audio File" = "VOX Dialogic 語音音訊檔";
 
 "Video Object" = "視訊物件";
 
@@ -240,7 +338,11 @@
 
 "WebM Audio" = "WebM 音訊";
 
+"Website" = "網站";
+
 "Windows Media Audio" = "Windows 媒體音訊";
+
+"Writing to file…" = "正在寫入檔案…";
 
 "iTunes Ringtone File" = "iTunes 鈴聲檔案";
 
