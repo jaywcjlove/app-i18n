@@ -55,6 +55,28 @@
         }
       }
     },
+    "%@%@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@%2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@%2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@%2$@"
+          }
+        }
+      }
+    },
     "%lld" : {
       "localizations" : {
         "de" : {
@@ -71,34 +93,56 @@
         }
       }
     },
-    "%lld pt" : {
+    "%lld/s · life %@s" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%lld pt"
+            "value" : "%1$lld/s · Leben %2$@s"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld/s · life %2$@s"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%lld pt"
+            "value" : "%1$lld/s · 寿命 %2$@s"
           }
         }
       }
     },
-    "%llds" : {
+    "+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%llds"
+            "value" : "+X ist rechts von der Cursorspitze, +Y ist oben. Ebenenversatz wird im benutzerdefinierten Modus obenauf gestapelt."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%lld秒"
+            "value" : "+X 在光标尖端的右侧，+Y 在上方。自定义模式下图层偏移叠加在上面。"
+          }
+        }
+      }
+    },
+    "+Y is up in Core Animation. Use negative Y for gravity." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+Y ist oben in Core Animation. Verwende negatives Y für Schwerkraft."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "+Y 在 Core Animation 中为上方。使用负 Y 值模拟重力。"
           }
         }
       }
@@ -135,34 +179,242 @@
         }
       }
     },
-    "Black" : {
+    "Acceleration" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schwarz"
+            "value" : "Beschleunigung"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "黑色"
+            "value" : "加速度"
           }
         }
       }
     },
-    "Blue" : {
+    "Add" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Blau"
+            "value" : "Hinzufügen"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "蓝色"
+            "value" : "添加"
+          }
+        }
+      }
+    },
+    "Additive" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Additiv"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "叠加"
+          }
+        }
+      }
+    },
+    "Additive Blend" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Additive Überblendung"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "叠加混合"
+          }
+        }
+      }
+    },
+    "Alpha Range" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alpha-Bereich"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alpha 范围"
+          }
+        }
+      }
+    },
+    "Alpha Speed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alpha-Geschwindigkeit"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alpha 速度"
+          }
+        }
+      }
+    },
+    "Angle" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Winkel"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "角度"
+          }
+        }
+      }
+    },
+    "Angle Range" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Winkelbereich"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "角度范围"
+          }
+        }
+      }
+    },
+    "Auto Fade (α ≈ -1/lifetime)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto Fade (α ≈ -1/Lebensdauer)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动淡出 (α ≈ -1/寿命)"
+          }
+        }
+      }
+    },
+    "Below tip" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unterhalb der Spitze"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尖端下方"
+          }
+        }
+      }
+    },
+    "Birth & Lifetime" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erzeugung & Lebensdauer"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生成与生命周期"
+          }
+        }
+      }
+    },
+    "Birth Rate" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erzeugungsrate"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生成速率"
+          }
+        }
+      }
+    },
+    "Birth Rate ×" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erzeugungsrate ×"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生成速率 ×"
+          }
+        }
+      }
+    },
+    "Blue Range" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blau-Bereich"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蓝色范围"
+          }
+        }
+      }
+    },
+    "Blue Speed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blau-Geschwindigkeit"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蓝色速度"
           }
         }
       }
@@ -183,18 +435,67 @@
         }
       }
     },
-    "Brown" : {
+    "Bubble Trail" : {
+      "comment" : "Follow particle effect",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Braun"
+            "value" : "Blasenspur"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "棕色"
+            "value" : "气泡轨迹"
+          }
+        }
+      }
+    },
+    "Bubbles Effect" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blaseneffekt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "气泡效果"
+          }
+        }
+      }
+    },
+    "Burst Effect" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explosionseffekt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "爆裂效果"
+          }
+        }
+      }
+    },
+    "CAEmitterLayer particles. Move the mouse to preview." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CAEmitterLayer-Partikel. Maus bewegen für Vorschau."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CAEmitterLayer 粒子。移动鼠标预览。"
           }
         }
       }
@@ -215,18 +516,50 @@
         }
       }
     },
-    "Circle" : {
+    "Center (relative to cursor)" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kreis"
+            "value" : "Zentrum (relativ zum Cursor)"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "圆"
+            "value" : "中心（相对于光标）"
+          }
+        }
+      }
+    },
+    "Center X" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zentrum X"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中心 X"
+          }
+        }
+      }
+    },
+    "Center Y" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zentrum Y"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中心 Y"
           }
         }
       }
@@ -247,18 +580,18 @@
         }
       }
     },
-    "Clear Lines" : {
+    "Clear Drawing Board" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Linien löschen"
+            "value" : "Zeichenbrett löschen"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "清除线条"
+            "value" : "清空绘图板"
           }
         }
       }
@@ -279,6 +612,71 @@
         }
       }
     },
+    "Color Range" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Farbbereich"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "颜色范围"
+          }
+        }
+      }
+    },
+    "Color Speed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Farbgeschwindigkeit"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "颜色速度"
+          }
+        }
+      }
+    },
+    "Comet Trail" : {
+      "comment" : "Follow particle effect",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kometenspur"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "彗星轨迹"
+          }
+        }
+      }
+    },
+    "Confetti Effect" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konfetti-Effekt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "彩纸效果"
+          }
+        }
+      }
+    },
     "Contact" : {
       "localizations" : {
         "de" : {
@@ -291,6 +689,38 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "联系我们"
+          }
+        }
+      }
+    },
+    "Copies the current preset into editable CAEmitterCell layers." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kopiert die Voreinstellung in bearbeitbare CAEmitterCell-Ebenen."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将当前预设复制为可编辑的 CAEmitterCell 图层。"
+          }
+        }
+      }
+    },
+    "Copy (⌘C)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kopieren (⌘C)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制 (⌘C)"
           }
         }
       }
@@ -311,50 +741,35 @@
         }
       }
     },
-    "Cyan" : {
+    "Custom Particles" : {
+      "comment" : "Follow particle effect",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zyan"
+            "value" : "Benutzerdefinierte Partikel"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "青色"
+            "value" : "自定义粒子"
           }
         }
       }
     },
-    "Dash" : {
+    "Delete" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gestrichelt"
+            "value" : "Löschen"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "虚线"
-          }
-        }
-      }
-    },
-    "Dashed Segment" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gestrichelter Abschnitt"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "虚线线段"
+            "value" : "删除"
           }
         }
       }
@@ -407,82 +822,34 @@
         }
       }
     },
-    "Drawing Color" : {
+    "Drawing tools, colors, and stroke width are configured in the on-screen Drawing Board toolbar powered by ScapDrawingKit." : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeichenfarbe"
+            "value" : "Zeichenwerkzeuge, Farben und Strichstärke werden in der Zeichenbrett-Symbolleiste konfiguriert, die von ScapDrawingKit bereitgestellt wird."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "绘制颜色"
+            "value" : "绘图工具、颜色和描边宽度可在屏幕上由 ScapDrawingKit 驱动的绘图板工具栏中配置。"
           }
         }
       }
     },
-    "Drawing Line Color" : {
+    "Duplicate" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeichenlinienfarbe"
+            "value" : "Duplizieren"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "绘图线条颜色"
-          }
-        }
-      }
-    },
-    "Drawing Line Width" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zeichenlinienbreite"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "绘制线条宽度"
-          }
-        }
-      }
-    },
-    "Drawing Mode" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zeichenmodus"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "绘制模式"
-          }
-        }
-      }
-    },
-    "Drawing Width" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zeichenbreite"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "绘制宽度"
+            "value" : "复制"
           }
         }
       }
@@ -503,6 +870,22 @@
         }
       }
     },
+    "Edit as Custom Layers…" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als benutzerdefinierte Ebenen bearbeiten…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编辑为自定义图层…"
+          }
+        }
+      }
+    },
     "Effect" : {
       "localizations" : {
         "de" : {
@@ -515,6 +898,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "效果"
+          }
+        }
+      }
+    },
+    "Electric Trail" : {
+      "comment" : "Follow particle effect",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elektrische Spur"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "电流轨迹"
           }
         }
       }
@@ -551,6 +951,22 @@
         }
       }
     },
+    "Enabled" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktiviert"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已启用"
+          }
+        }
+      }
+    },
     "Enlarge Size" : {
       "localizations" : {
         "de" : {
@@ -563,6 +979,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "放大尺寸"
+          }
+        }
+      }
+    },
+    "Exit (Esc)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beenden (Esc)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出 (Esc)"
           }
         }
       }
@@ -595,6 +1027,55 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "意见反馈"
+          }
+        }
+      }
+    },
+    "Final position = cursor + Center + Layer Offset." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endposition = Cursor + Zentrum + Ebenenversatz."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最终位置 = 光标 + 中心 + 图层偏移。"
+          }
+        }
+      }
+    },
+    "Fire Trail" : {
+      "comment" : "Follow particle effect",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feuerspur"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "火焰轨迹"
+          }
+        }
+      }
+    },
+    "Fireworks Effect" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feuerwerk-Effekt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "烟花效果"
           }
         }
       }
@@ -679,34 +1160,117 @@
         }
       }
     },
-    "Gray" : {
+    "Gravity ×" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grau"
+            "value" : "Schwerkraft ×"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "灰色"
+            "value" : "重力 ×"
           }
         }
       }
     },
-    "Green" : {
+    "Green Range" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grün"
+            "value" : "Grün-Bereich"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "绿色"
+            "value" : "绿色范围"
+          }
+        }
+      }
+    },
+    "Green Speed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grün-Geschwindigkeit"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "绿色速度"
+          }
+        }
+      }
+    },
+    "Hard Circle" : {
+      "comment" : "Particle image",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harter Kreis"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "硬圆"
+          }
+        }
+      }
+    },
+    "Heart" : {
+      "comment" : "Particle image",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herz"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心形"
+          }
+        }
+      }
+    },
+    "Heart Trail" : {
+      "comment" : "Follow particle effect",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herzspur"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心形轨迹"
+          }
+        }
+      }
+    },
+    "Hearts Effect" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herzen-Effekt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心形效果"
           }
         }
       }
@@ -759,22 +1323,6 @@
         }
       }
     },
-    "Highlighted Edge" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hervorgehobene Kante"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "高亮边缘"
-          }
-        }
-      }
-    },
     "Highlighted Edge Width" : {
       "localizations" : {
         "de" : {
@@ -787,6 +1335,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "高亮边框宽度"
+          }
+        }
+      }
+    },
+    "Image" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bild"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "图像"
           }
         }
       }
@@ -807,6 +1371,38 @@
         }
       }
     },
+    "Latitude" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breitengrad"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "纬度"
+          }
+        }
+      }
+    },
+    "Latitude Range" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breitengradbereich"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "纬度范围"
+          }
+        }
+      }
+    },
     "Launch at login" : {
       "localizations" : {
         "de" : {
@@ -823,34 +1419,98 @@
         }
       }
     },
-    "Line" : {
+    "Layer Offset (x / y, stacked on Center)" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Linie"
+            "value" : "Ebenenversatz (x / y, auf Zentrum gestapelt)"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "线"
+            "value" : "图层偏移（x / y，叠加在中心上）"
           }
         }
       }
     },
-    "Line Disappear Duration" : {
+    "Layer Offset X" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Linien-Verschwinden-Dauer"
+            "value" : "Ebenenversatz X"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "线条消失时长"
+            "value" : "图层偏移 X"
+          }
+        }
+      }
+    },
+    "Layer Offset Y" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ebenenversatz Y"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "图层偏移 Y"
+          }
+        }
+      }
+    },
+    "Lifetime" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lebensdauer"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生命周期"
+          }
+        }
+      }
+    },
+    "Lifetime ×" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lebensdauer ×"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生命周期 ×"
+          }
+        }
+      }
+    },
+    "Lifetime Range" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lebensdauerbereich"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生命周期范围"
           }
         }
       }
@@ -871,18 +1531,19 @@
         }
       }
     },
-    "Magenta" : {
+    "Magic Trail" : {
+      "comment" : "Follow particle effect",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Magenta"
+            "value" : "Magische Spur"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "洋红"
+            "value" : "魔法轨迹"
           }
         }
       }
@@ -899,22 +1560,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "主窗口"
-          }
-        }
-      }
-    },
-    "More effects coming soon…" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Weitere Effekte kommen bald…"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "更多效果敬请期待..."
           }
         }
       }
@@ -1031,34 +1676,67 @@
         }
       }
     },
-    "Never" : {
+    "Name" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nie"
+            "value" : "Name"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "不消失"
+            "value" : "名称"
           }
         }
       }
     },
-    "None" : {
+    "Name (unique)" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keine"
+            "value" : "Name (eindeutig)"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "不显示"
+            "value" : "名称（唯一）"
+          }
+        }
+      }
+    },
+    "Neon Effect" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neon-Effekt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "霓虹效果"
+          }
+        }
+      }
+    },
+    "Neon Trail" : {
+      "comment" : "Follow particle effect",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neonspur"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "霓虹轨迹"
           }
         }
       }
@@ -1159,82 +1837,82 @@
         }
       }
     },
-    "Orange" : {
+    "Particle Effect" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Orange"
+            "value" : "Partikeleffekt"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "橙色"
+            "value" : "粒子效果"
           }
         }
       }
     },
-    "Oval" : {
+    "Particle Layers" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oval"
+            "value" : "Partikelebenen"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "椭圆"
+            "value" : "粒子图层"
           }
         }
       }
     },
-    "Pen" : {
+    "Petals Effect" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stift"
+            "value" : "Blütenblätter-Effekt"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "画笔"
+            "value" : "花瓣效果"
           }
         }
       }
     },
-    "Pink" : {
+    "Preset Intensity" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rosa"
+            "value" : "Voreingestellte Intensität"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "粉色"
+            "value" : "预设强度"
           }
         }
       }
     },
-    "Purple" : {
+    "Pulse Effect" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lila"
+            "value" : "Pulseffekt"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "紫色"
+            "value" : "脉冲效果"
           }
         }
       }
@@ -1255,34 +1933,83 @@
         }
       }
     },
-    "Rectangle" : {
+    "Rainbow Effect" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rechteck"
+            "value" : "Regenbogen-Effekt"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "矩形"
+            "value" : "彩虹效果"
           }
         }
       }
     },
-    "Red" : {
+    "Rainbow Trail" : {
+      "comment" : "Follow particle effect",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rot"
+            "value" : "Regenbogenspur"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "红色"
+            "value" : "彩虹轨迹"
+          }
+        }
+      }
+    },
+    "Red Range" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rot-Bereich"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "红色范围"
+          }
+        }
+      }
+    },
+    "Red Speed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rot-Geschwindigkeit"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "红色速度"
+          }
+        }
+      }
+    },
+    "Redo (⇧⌘Z)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederholen (⇧⌘Z)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重做 (⇧⌘Z)"
           }
         }
       }
@@ -1303,6 +2030,22 @@
         }
       }
     },
+    "Reset Center" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zentrum zurücksetzen"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置中心"
+          }
+        }
+      }
+    },
     "right-click" : {
       "localizations" : {
         "de" : {
@@ -1319,6 +2062,135 @@
         }
       }
     },
+    "Ring" : {
+      "comment" : "Particle image",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ring"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "环形"
+          }
+        }
+      }
+    },
+    "Ring Effect" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ring-Effekt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "环形效果"
+          }
+        }
+      }
+    },
+    "Ripple Effect" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welleneffekt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "波纹效果"
+          }
+        }
+      }
+    },
+    "Sample Image" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beispielbild"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "示例图像"
+          }
+        }
+      }
+    },
+    "Save (⌘S)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speichern (⌘S)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存 (⌘S)"
+          }
+        }
+      }
+    },
+    "Scale" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skalierung"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "缩放"
+          }
+        }
+      }
+    },
+    "Scale Range" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skalierungsbereich"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "缩放范围"
+          }
+        }
+      }
+    },
+    "Scale Speed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skalierungsgeschwindigkeit"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "缩放速度"
+          }
+        }
+      }
+    },
     "Security and Privacy" : {
       "localizations" : {
         "de" : {
@@ -1331,6 +2203,38 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "安全性与隐私"
+          }
+        }
+      }
+    },
+    "Select a layer above to edit parameters." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wähle oben eine Ebene zum Bearbeiten der Parameter."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择上方图层以编辑参数。"
+          }
+        }
+      }
+    },
+    "Separate RGB Channels" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RGB-Kanäle trennen"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分离 RGB 通道"
           }
         }
       }
@@ -1383,6 +2287,57 @@
         }
       }
     },
+    "Smoke" : {
+      "comment" : "Particle image",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rauch"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "烟雾"
+          }
+        }
+      }
+    },
+    "Smoke Trail" : {
+      "comment" : "Follow particle effect",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rauchspur"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "烟雾轨迹"
+          }
+        }
+      }
+    },
+    "Snow Trail" : {
+      "comment" : "Follow particle effect",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schneespur"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雪花轨迹"
+          }
+        }
+      }
+    },
     "Social Accounts" : {
       "localizations" : {
         "de" : {
@@ -1399,6 +2354,105 @@
         }
       }
     },
+    "Soft Circle" : {
+      "comment" : "Particle image",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weicher Kreis"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "软圆"
+          }
+        }
+      }
+    },
+    "Spark" : {
+      "comment" : "Particle image",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funke"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "火花"
+          }
+        }
+      }
+    },
+    "Sparkle Effect" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funkel-Effekt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "闪光效果"
+          }
+        }
+      }
+    },
+    "Sparkle Trail" : {
+      "comment" : "Follow particle effect",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Funkelspur"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "闪光轨迹"
+          }
+        }
+      }
+    },
+    "Spin" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drehung"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "旋转"
+          }
+        }
+      }
+    },
+    "Spin Range" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drehungsbereich"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "旋转范围"
+          }
+        }
+      }
+    },
     "Splash Effect" : {
       "localizations" : {
         "de" : {
@@ -1411,6 +2465,56 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "溅射效果"
+          }
+        }
+      }
+    },
+    "Star" : {
+      "comment" : "Particle image",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stern"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "星形"
+          }
+        }
+      }
+    },
+    "Star Trail" : {
+      "comment" : "Follow particle effect",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sternspur"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "星形轨迹"
+          }
+        }
+      }
+    },
+    "Stroke" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strich"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "描边"
           }
         }
       }
@@ -1447,6 +2551,22 @@
         }
       }
     },
+    "Tip (0, 0)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spitze (0, 0)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尖端 (0, 0)"
+          }
+        }
+      }
+    },
     "To enable mouse position tracking and display, please grant the app mouse input monitoring permission." : {
       "localizations" : {
         "de" : {
@@ -1463,6 +2583,22 @@
         }
       }
     },
+    "Undo (⌘Z)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rückgängig (⌘Z)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "撤销 (⌘Z)"
+          }
+        }
+      }
+    },
     "Unlock all Features" : {
       "localizations" : {
         "de" : {
@@ -1475,6 +2611,54 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "解锁所有功能"
+          }
+        }
+      }
+    },
+    "Velocity" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geschwindigkeit"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "速度"
+          }
+        }
+      }
+    },
+    "Velocity ×" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geschwindigkeit ×"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "速度 ×"
+          }
+        }
+      }
+    },
+    "Velocity Range" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geschwindigkeitsbereich"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "速度范围"
           }
         }
       }
@@ -1517,18 +2701,18 @@
         }
       }
     },
-    "White" : {
+    "X Acceleration" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Weiß"
+            "value" : "X-Beschleunigung"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "白色"
+            "value" : "X 加速度"
           }
         }
       }
@@ -1549,40 +2733,40 @@
         }
       }
     },
-    "Yellow" : {
+    "Y Acceleration" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gelb"
+            "value" : "Y-Beschleunigung"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "黄色"
+            "value" : "Y 加速度"
           }
         }
       }
     },
-    "You can press the %@ key to exit drawing board mode, or %@ to open the context menu and configure various properties." : {
+    "You can press the %@ key to exit drawing board mode, or %@ to open the context menu." : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Du kannst die %1$@ Taste drücken, um den Zeichenbrett-Modus zu verlassen, oder %2$@, um das Kontextmenü zu öffnen und verschiedene Eigenschaften zu konfigurieren."
+            "value" : "Drücke die Taste %1$@, um den Zeichenbrett-Modus zu verlassen, oder %2$@, um das Kontextmenü zu öffnen."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "You can press the %1$@ key to exit drawing board mode, or %2$@ to open the context menu and configure various properties."
+            "value" : "You can press the %1$@ key to exit drawing board mode, or %2$@ to open the context menu."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你可以按下 %1$@ 键退出绘图板模式，或者%2$@打开上下文菜单并配置各种属性。"
+            "value" : "你可以按 %1$@ 键退出绘图板模式，或按 %2$@ 打开上下文菜单。"
           }
         }
       }

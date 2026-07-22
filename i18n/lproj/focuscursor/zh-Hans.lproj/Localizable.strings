@@ -1,42 +1,95 @@
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> 添加 **%4$@** 并勾选";
 
+"%@%@" = "%1$@%2$@";
+
 "%lld" = "%lld";
 
-"%lld pt" = "%lld pt";
+"%lld/s · life %@s" = "%1$lld/s · 寿命 %2$@s";
 
-"%llds" = "%lld秒";
+"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+X 在光标尖端的右侧，+Y 在上方。自定义模式下图层偏移叠加在上面。";
+
+"+Y is up in Core Animation. Use negative Y for gravity." = "+Y 在 Core Animation 中为上方。使用负 Y 值模拟重力。";
 
 "About" = "关于";
 
 "About %@" = "关于 %@";
 
-"Black" = "黑色";
+"Acceleration" = "加速度";
 
-"Blue" = "蓝色";
+"Add" = "添加";
+
+"Additive" = "叠加";
+
+"Additive Blend" = "叠加混合";
+
+"Alpha Range" = "Alpha 范围";
+
+"Alpha Speed" = "Alpha 速度";
+
+"Angle" = "角度";
+
+"Angle Range" = "角度范围";
+
+"Auto Fade (α ≈ -1/lifetime)" = "自动淡出 (α ≈ -1/寿命)";
+
+"Below tip" = "尖端下方";
+
+"Birth & Lifetime" = "生成与生命周期";
+
+"Birth Rate" = "生成速率";
+
+"Birth Rate ×" = "生成速率 ×";
+
+"Blue Range" = "蓝色范围";
+
+"Blue Speed" = "蓝色速度";
 
 "Blur Radius" = "模糊半径";
 
-"Brown" = "棕色";
+/* Follow particle effect */
+"Bubble Trail" = "气泡轨迹";
+
+"Bubbles Effect" = "气泡效果";
+
+"Burst Effect" = "爆裂效果";
+
+"CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayer 粒子。移动鼠标预览。";
 
 "Cancel" = "取消";
 
-"Circle" = "圆";
+"Center (relative to cursor)" = "中心（相对于光标）";
+
+"Center X" = "中心 X";
+
+"Center Y" = "中心 Y";
 
 "Circle Effect" = "圆形效果";
 
-"Clear Lines" = "清除线条";
+"Clear Drawing Board" = "清空绘图板";
 
 "Color" = "颜色";
 
+"Color Range" = "颜色范围";
+
+"Color Speed" = "颜色速度";
+
+/* Follow particle effect */
+"Comet Trail" = "彗星轨迹";
+
+"Confetti Effect" = "彩纸效果";
+
 "Contact" = "联系我们";
+
+"Copies the current preset into editable CAEmitterCell layers." = "将当前预设复制为可编辑的 CAEmitterCell 图层。";
+
+"Copy (⌘C)" = "复制 (⌘C)";
 
 "Corner Radius" = "圆角半径";
 
-"Cyan" = "青色";
+/* Follow particle effect */
+"Custom Particles" = "自定义粒子";
 
-"Dash" = "虚线";
-
-"Dashed Segment" = "虚线线段";
+"Delete" = "删除";
 
 "Detailed Parameter Settings" = "详细参数设置";
 
@@ -44,29 +97,39 @@
 
 "Drawing Board" = "绘图板";
 
-"Drawing Color" = "绘制颜色";
+"Drawing tools, colors, and stroke width are configured in the on-screen Drawing Board toolbar powered by ScapDrawingKit." = "绘图工具、颜色和描边宽度可在屏幕上由 ScapDrawingKit 驱动的绘图板工具栏中配置。";
 
-"Drawing Line Color" = "绘图线条颜色";
-
-"Drawing Line Width" = "绘制线条宽度";
-
-"Drawing Mode" = "绘制模式";
-
-"Drawing Width" = "绘制宽度";
+"Duplicate" = "复制";
 
 "E-mail" = "电子邮件";
 
+"Edit as Custom Layers…" = "编辑为自定义图层…";
+
 "Effect" = "效果";
+
+/* Follow particle effect */
+"Electric Trail" = "电流轨迹";
 
 "Enable" = "启用";
 
 "Enable Drawing Board" = "启用绘图板";
 
+"Enabled" = "已启用";
+
 "Enlarge Size" = "放大尺寸";
+
+"Exit (Esc)" = "退出 (Esc)";
 
 "Exit Drawing Board" = "退出绘画板";
 
 "Feedback" = "意见反馈";
+
+"Final position = cursor + Center + Layer Offset." = "最终位置 = 光标 + 中心 + 图层偏移。";
+
+/* Follow particle effect */
+"Fire Trail" = "火焰轨迹";
+
+"Fireworks Effect" = "烟花效果";
 
 "Flashlight Mode" = "手电筒模式";
 
@@ -78,35 +141,59 @@
 
 "Granted" = "已授权";
 
-"Gray" = "灰色";
+"Gravity ×" = "重力 ×";
 
-"Green" = "绿色";
+"Green Range" = "绿色范围";
+
+"Green Speed" = "绿色速度";
+
+/* Particle image */
+"Hard Circle" = "硬圆";
+
+/* Particle image */
+"Heart" = "心形";
+
+/* Follow particle effect */
+"Heart Trail" = "心形轨迹";
+
+"Hearts Effect" = "心形效果";
 
 "Hide Dock Icon" = "隐藏扩展坞图标";
 
 "Hide Drawing Board Tool" = "隐藏绘图板工具";
 
-"Highlighted Edge" = "高亮边缘";
-
 "Highlighted Edge Width" = "高亮边框宽度";
 
 "Highlighted edge" = "高亮边缘";
 
+"Image" = "图像";
+
 "Input Monitoring" = "输入监控";
+
+"Latitude" = "纬度";
+
+"Latitude Range" = "纬度范围";
 
 "Launch at login" = "开机启动";
 
-"Line" = "线";
+"Layer Offset (x / y, stacked on Center)" = "图层偏移（x / y，叠加在中心上）";
 
-"Line Disappear Duration" = "线条消失时长";
+"Layer Offset X" = "图层偏移 X";
+
+"Layer Offset Y" = "图层偏移 Y";
+
+"Lifetime" = "生命周期";
+
+"Lifetime Range" = "生命周期范围";
+
+"Lifetime ×" = "生命周期 ×";
 
 "Line Width" = "线宽";
 
-"Magenta" = "洋红";
+/* Follow particle effect */
+"Magic Trail" = "魔法轨迹";
 
 "Main Window" = "主窗口";
-
-"More effects coming soon…" = "更多效果敬请期待...";
 
 "Mouse Click Effect" = "鼠标点击特效";
 
@@ -122,9 +209,14 @@
 
 "My Apps" = "我的应用";
 
-"Never" = "不消失";
+"Name" = "名称";
 
-"None" = "不显示";
+"Name (unique)" = "名称（唯一）";
+
+"Neon Effect" = "霓虹效果";
+
+/* Follow particle effect */
+"Neon Trail" = "霓虹轨迹";
 
 "OK" = "确定";
 
@@ -138,25 +230,55 @@
 
 "Open Settings" = "打开设置";
 
-"Orange" = "橙色";
+"Particle Effect" = "粒子效果";
 
-"Oval" = "椭圆";
+"Particle Layers" = "粒子图层";
 
-"Pen" = "画笔";
+"Petals Effect" = "花瓣效果";
 
-"Pink" = "粉色";
+"Preset Intensity" = "预设强度";
 
-"Purple" = "紫色";
+"Pulse Effect" = "脉冲效果";
 
 "Quit %@" = "退出 %@";
 
-"Rectangle" = "矩形";
+"Rainbow Effect" = "彩虹效果";
 
-"Red" = "红色";
+/* Follow particle effect */
+"Rainbow Trail" = "彩虹轨迹";
+
+"Red Range" = "红色范围";
+
+"Red Speed" = "红色速度";
+
+"Redo (⇧⌘Z)" = "重做 (⇧⌘Z)";
 
 "Reset" = "重置";
 
+"Reset Center" = "重置中心";
+
+/* Particle image */
+"Ring" = "环形";
+
+"Ring Effect" = "环形效果";
+
+"Ripple Effect" = "波纹效果";
+
+"Sample Image" = "示例图像";
+
+"Save (⌘S)" = "保存 (⌘S)";
+
+"Scale" = "缩放";
+
+"Scale Range" = "缩放范围";
+
+"Scale Speed" = "缩放速度";
+
 "Security and Privacy" = "安全性与隐私";
+
+"Select a layer above to edit parameters." = "选择上方图层以编辑参数。";
+
+"Separate RGB Channels" = "分离 RGB 通道";
 
 "Settings..." = "设置…";
 
@@ -164,29 +286,71 @@
 
 "Size" = "大小";
 
+/* Particle image */
+"Smoke" = "烟雾";
+
+/* Follow particle effect */
+"Smoke Trail" = "烟雾轨迹";
+
+/* Follow particle effect */
+"Snow Trail" = "雪花轨迹";
+
 "Social Accounts" = "社交账号";
 
+/* Particle image */
+"Soft Circle" = "软圆";
+
+/* Particle image */
+"Spark" = "火花";
+
+"Sparkle Effect" = "闪光效果";
+
+/* Follow particle effect */
+"Sparkle Trail" = "闪光轨迹";
+
+"Spin" = "旋转";
+
+"Spin Range" = "旋转范围";
+
 "Splash Effect" = "溅射效果";
+
+/* Particle image */
+"Star" = "星形";
+
+/* Follow particle effect */
+"Star Trail" = "星形轨迹";
+
+"Stroke" = "描边";
 
 "System Preferences" = "系统偏好设置";
 
 "This app needs to monitor your mouse movement input to track the cursor position even during system menu popups, selection dialogs, or app switching." = "此应用需要监控你的鼠标移动输入，以便在弹出系统菜单、选择框或应用切换等场景中仍能获取鼠标位置。";
 
+"Tip (0, 0)" = "尖端 (0, 0)";
+
 "To enable mouse position tracking and display, please grant the app mouse input monitoring permission." = "为启用鼠标位置跟踪和显示，需要授予应用鼠标输入监控权限。";
+
+"Undo (⌘Z)" = "撤销 (⌘Z)";
 
 "Unlock all Features" = "解锁所有功能";
 
 "VIP" = "VIP";
 
+"Velocity" = "速度";
+
+"Velocity Range" = "速度范围";
+
+"Velocity ×" = "速度 ×";
+
 "Version %@ (%@)" = "版本 %1$@ (%2$@)";
 
-"White" = "白色";
+"X Acceleration" = "X 加速度";
 
 "X(Twitter)" = "X(Twitter)";
 
-"Yellow" = "黄色";
+"Y Acceleration" = "Y 加速度";
 
-"You can press the %@ key to exit drawing board mode, or %@ to open the context menu and configure various properties." = "你可以按下 %1$@ 键退出绘图板模式，或者%2$@打开上下文菜单并配置各种属性。";
+"You can press the %@ key to exit drawing board mode, or %@ to open the context menu." = "你可以按 %1$@ 键退出绘图板模式，或按 %2$@ 打开上下文菜单。";
 
 "You need to enable input monitoring permissions." = "你需要启用输入监控权限。";
 

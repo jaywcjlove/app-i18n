@@ -1,42 +1,95 @@
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Add **%4$@** and check";
 
+"%@%@" = "%1$@%2$@";
+
 "%lld" = "%lld";
 
-"%lld pt" = "%lld pt";
+"%lld/s · life %@s" = "%1$lld/s · life %2$@s";
 
-"%llds" = "%llds";
+"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode.";
+
+"+Y is up in Core Animation. Use negative Y for gravity." = "+Y is up in Core Animation. Use negative Y for gravity.";
 
 "About" = "About";
 
 "About %@" = "About %@";
 
-"Black" = "Black";
+"Acceleration" = "Acceleration";
 
-"Blue" = "Blue";
+"Add" = "Add";
+
+"Additive" = "Additive";
+
+"Additive Blend" = "Additive Blend";
+
+"Alpha Range" = "Alpha Range";
+
+"Alpha Speed" = "Alpha Speed";
+
+"Angle" = "Angle";
+
+"Angle Range" = "Angle Range";
+
+"Auto Fade (α ≈ -1/lifetime)" = "Auto Fade (α ≈ -1/lifetime)";
+
+"Below tip" = "Below tip";
+
+"Birth & Lifetime" = "Birth & Lifetime";
+
+"Birth Rate" = "Birth Rate";
+
+"Birth Rate ×" = "Birth Rate ×";
+
+"Blue Range" = "Blue Range";
+
+"Blue Speed" = "Blue Speed";
 
 "Blur Radius" = "Blur Radius";
 
-"Brown" = "Brown";
+/* Follow particle effect */
+"Bubble Trail" = "Bubble Trail";
+
+"Bubbles Effect" = "Bubbles Effect";
+
+"Burst Effect" = "Burst Effect";
+
+"CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayer particles. Move the mouse to preview.";
 
 "Cancel" = "Cancel";
 
-"Circle" = "Circle";
+"Center (relative to cursor)" = "Center (relative to cursor)";
+
+"Center X" = "Center X";
+
+"Center Y" = "Center Y";
 
 "Circle Effect" = "Circle Effect";
 
-"Clear Lines" = "Clear Lines";
+"Clear Drawing Board" = "Clear Drawing Board";
 
 "Color" = "Color";
 
+"Color Range" = "Color Range";
+
+"Color Speed" = "Color Speed";
+
+/* Follow particle effect */
+"Comet Trail" = "Comet Trail";
+
+"Confetti Effect" = "Confetti Effect";
+
 "Contact" = "Contact";
+
+"Copies the current preset into editable CAEmitterCell layers." = "Copies the current preset into editable CAEmitterCell layers.";
+
+"Copy (⌘C)" = "Copy (⌘C)";
 
 "Corner Radius" = "Corner Radius";
 
-"Cyan" = "Cyan";
+/* Follow particle effect */
+"Custom Particles" = "Custom Particles";
 
-"Dash" = "Dash";
-
-"Dashed Segment" = "Dashed Segment";
+"Delete" = "Delete";
 
 "Detailed Parameter Settings" = "Detailed Parameter Settings";
 
@@ -44,29 +97,39 @@
 
 "Drawing Board" = "Drawing Board";
 
-"Drawing Color" = "Drawing Color";
+"Drawing tools, colors, and stroke width are configured in the on-screen Drawing Board toolbar powered by ScapDrawingKit." = "Drawing tools, colors, and stroke width are configured in the on-screen Drawing Board toolbar powered by ScapDrawingKit.";
 
-"Drawing Line Color" = "Drawing Line Color";
-
-"Drawing Line Width" = "Drawing Line Width";
-
-"Drawing Mode" = "Drawing Mode";
-
-"Drawing Width" = "Drawing Width";
+"Duplicate" = "Duplicate";
 
 "E-mail" = "E-mail";
 
+"Edit as Custom Layers…" = "Edit as Custom Layers…";
+
 "Effect" = "Effect";
+
+/* Follow particle effect */
+"Electric Trail" = "Electric Trail";
 
 "Enable" = "Enable";
 
 "Enable Drawing Board" = "Enable Drawing Board";
 
+"Enabled" = "Enabled";
+
 "Enlarge Size" = "Enlarge Size";
+
+"Exit (Esc)" = "Exit (Esc)";
 
 "Exit Drawing Board" = "Exit Drawing Board";
 
 "Feedback" = "Feedback";
+
+"Final position = cursor + Center + Layer Offset." = "Final position = cursor + Center + Layer Offset.";
+
+/* Follow particle effect */
+"Fire Trail" = "Fire Trail";
+
+"Fireworks Effect" = "Fireworks Effect";
 
 "Flashlight Mode" = "Flashlight Mode";
 
@@ -78,35 +141,59 @@
 
 "Granted" = "Granted";
 
-"Gray" = "Gray";
+"Gravity ×" = "Gravity ×";
 
-"Green" = "Green";
+"Green Range" = "Green Range";
+
+"Green Speed" = "Green Speed";
+
+/* Particle image */
+"Hard Circle" = "Hard Circle";
+
+/* Particle image */
+"Heart" = "Heart";
+
+/* Follow particle effect */
+"Heart Trail" = "Heart Trail";
+
+"Hearts Effect" = "Hearts Effect";
 
 "Hide Dock Icon" = "Hide Dock Icon";
 
 "Hide Drawing Board Tool" = "Hide Drawing Board Tool";
 
-"Highlighted Edge" = "Highlighted Edge";
-
 "Highlighted Edge Width" = "Highlighted Edge Width";
 
 "Highlighted edge" = "Highlighted edge";
 
+"Image" = "Image";
+
 "Input Monitoring" = "Input Monitoring";
+
+"Latitude" = "Latitude";
+
+"Latitude Range" = "Latitude Range";
 
 "Launch at login" = "Launch at login";
 
-"Line" = "Line";
+"Layer Offset (x / y, stacked on Center)" = "Layer Offset (x / y, stacked on Center)";
 
-"Line Disappear Duration" = "Line Disappear Duration";
+"Layer Offset X" = "Layer Offset X";
+
+"Layer Offset Y" = "Layer Offset Y";
+
+"Lifetime" = "Lifetime";
+
+"Lifetime Range" = "Lifetime Range";
+
+"Lifetime ×" = "Lifetime ×";
 
 "Line Width" = "Line Width";
 
-"Magenta" = "Magenta";
+/* Follow particle effect */
+"Magic Trail" = "Magic Trail";
 
 "Main Window" = "Main Window";
-
-"More effects coming soon…" = "More effects coming soon…";
 
 "Mouse Click Effect" = "Mouse Click Effect";
 
@@ -122,9 +209,14 @@
 
 "My Apps" = "My Apps";
 
-"Never" = "Never";
+"Name" = "Name";
 
-"None" = "None";
+"Name (unique)" = "Name (unique)";
+
+"Neon Effect" = "Neon Effect";
+
+/* Follow particle effect */
+"Neon Trail" = "Neon Trail";
 
 "OK" = "OK";
 
@@ -138,25 +230,55 @@
 
 "Open Settings" = "Open Settings";
 
-"Orange" = "Orange";
+"Particle Effect" = "Particle Effect";
 
-"Oval" = "Oval";
+"Particle Layers" = "Particle Layers";
 
-"Pen" = "Pen";
+"Petals Effect" = "Petals Effect";
 
-"Pink" = "Pink";
+"Preset Intensity" = "Preset Intensity";
 
-"Purple" = "Purple";
+"Pulse Effect" = "Pulse Effect";
 
 "Quit %@" = "Quit %@";
 
-"Rectangle" = "Rectangle";
+"Rainbow Effect" = "Rainbow Effect";
 
-"Red" = "Red";
+/* Follow particle effect */
+"Rainbow Trail" = "Rainbow Trail";
+
+"Red Range" = "Red Range";
+
+"Red Speed" = "Red Speed";
+
+"Redo (⇧⌘Z)" = "Redo (⇧⌘Z)";
 
 "Reset" = "Reset";
 
+"Reset Center" = "Reset Center";
+
+/* Particle image */
+"Ring" = "Ring";
+
+"Ring Effect" = "Ring Effect";
+
+"Ripple Effect" = "Ripple Effect";
+
+"Sample Image" = "Sample Image";
+
+"Save (⌘S)" = "Save (⌘S)";
+
+"Scale" = "Scale";
+
+"Scale Range" = "Scale Range";
+
+"Scale Speed" = "Scale Speed";
+
 "Security and Privacy" = "Security and Privacy";
+
+"Select a layer above to edit parameters." = "Select a layer above to edit parameters.";
+
+"Separate RGB Channels" = "Separate RGB Channels";
 
 "Settings..." = "Settings...";
 
@@ -164,29 +286,71 @@
 
 "Size" = "Size";
 
+/* Particle image */
+"Smoke" = "Smoke";
+
+/* Follow particle effect */
+"Smoke Trail" = "Smoke Trail";
+
+/* Follow particle effect */
+"Snow Trail" = "Snow Trail";
+
 "Social Accounts" = "Social Accounts";
 
+/* Particle image */
+"Soft Circle" = "Soft Circle";
+
+/* Particle image */
+"Spark" = "Spark";
+
+"Sparkle Effect" = "Sparkle Effect";
+
+/* Follow particle effect */
+"Sparkle Trail" = "Sparkle Trail";
+
+"Spin" = "Spin";
+
+"Spin Range" = "Spin Range";
+
 "Splash Effect" = "Splash Effect";
+
+/* Particle image */
+"Star" = "Star";
+
+/* Follow particle effect */
+"Star Trail" = "Star Trail";
+
+"Stroke" = "Stroke";
 
 "System Preferences" = "System Preferences";
 
 "This app needs to monitor your mouse movement input to track the cursor position even during system menu popups, selection dialogs, or app switching." = "This app needs to monitor your mouse movement input to track the cursor position even during system menu popups, selection dialogs, or app switching.";
 
+"Tip (0, 0)" = "Tip (0, 0)";
+
 "To enable mouse position tracking and display, please grant the app mouse input monitoring permission." = "To enable mouse position tracking and display, please grant the app mouse input monitoring permission.";
+
+"Undo (⌘Z)" = "Undo (⌘Z)";
 
 "Unlock all Features" = "Unlock all Features";
 
 "VIP" = "VIP";
 
+"Velocity" = "Velocity";
+
+"Velocity Range" = "Velocity Range";
+
+"Velocity ×" = "Velocity ×";
+
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
 
-"White" = "White";
+"X Acceleration" = "X Acceleration";
 
 "X(Twitter)" = "X(Twitter)";
 
-"Yellow" = "Yellow";
+"Y Acceleration" = "Y Acceleration";
 
-"You can press the %@ key to exit drawing board mode, or %@ to open the context menu and configure various properties." = "You can press the %1$@ key to exit drawing board mode, or %2$@ to open the context menu and configure various properties.";
+"You can press the %@ key to exit drawing board mode, or %@ to open the context menu." = "You can press the %1$@ key to exit drawing board mode, or %2$@ to open the context menu.";
 
 "You need to enable input monitoring permissions." = "You need to enable input monitoring permissions.";
 

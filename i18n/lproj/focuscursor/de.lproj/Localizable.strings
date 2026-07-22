@@ -1,42 +1,95 @@
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@** hinzufügen und aktivieren";
 
+"%@%@" = "%1$@%2$@";
+
 "%lld" = "%lld";
 
-"%lld pt" = "%lld pt";
+"%lld/s · life %@s" = "%1$lld/s · Leben %2$@s";
 
-"%llds" = "%llds";
+"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+X ist rechts von der Cursorspitze, +Y ist oben. Ebenenversatz wird im benutzerdefinierten Modus obenauf gestapelt.";
+
+"+Y is up in Core Animation. Use negative Y for gravity." = "+Y ist oben in Core Animation. Verwende negatives Y für Schwerkraft.";
 
 "About" = "Über";
 
 "About %@" = "Über %@";
 
-"Black" = "Schwarz";
+"Acceleration" = "Beschleunigung";
 
-"Blue" = "Blau";
+"Add" = "Hinzufügen";
+
+"Additive" = "Additiv";
+
+"Additive Blend" = "Additive Überblendung";
+
+"Alpha Range" = "Alpha-Bereich";
+
+"Alpha Speed" = "Alpha-Geschwindigkeit";
+
+"Angle" = "Winkel";
+
+"Angle Range" = "Winkelbereich";
+
+"Auto Fade (α ≈ -1/lifetime)" = "Auto Fade (α ≈ -1/Lebensdauer)";
+
+"Below tip" = "Unterhalb der Spitze";
+
+"Birth & Lifetime" = "Erzeugung & Lebensdauer";
+
+"Birth Rate" = "Erzeugungsrate";
+
+"Birth Rate ×" = "Erzeugungsrate ×";
+
+"Blue Range" = "Blau-Bereich";
+
+"Blue Speed" = "Blau-Geschwindigkeit";
 
 "Blur Radius" = "Unschärfe-Radius";
 
-"Brown" = "Braun";
+/* Follow particle effect */
+"Bubble Trail" = "Blasenspur";
+
+"Bubbles Effect" = "Blaseneffekt";
+
+"Burst Effect" = "Explosionseffekt";
+
+"CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayer-Partikel. Maus bewegen für Vorschau.";
 
 "Cancel" = "Abbrechen";
 
-"Circle" = "Kreis";
+"Center (relative to cursor)" = "Zentrum (relativ zum Cursor)";
+
+"Center X" = "Zentrum X";
+
+"Center Y" = "Zentrum Y";
 
 "Circle Effect" = "Kreiseffekt";
 
-"Clear Lines" = "Linien löschen";
+"Clear Drawing Board" = "Zeichenbrett löschen";
 
 "Color" = "Farbe";
 
+"Color Range" = "Farbbereich";
+
+"Color Speed" = "Farbgeschwindigkeit";
+
+/* Follow particle effect */
+"Comet Trail" = "Kometenspur";
+
+"Confetti Effect" = "Konfetti-Effekt";
+
 "Contact" = "Kontakt";
+
+"Copies the current preset into editable CAEmitterCell layers." = "Kopiert die Voreinstellung in bearbeitbare CAEmitterCell-Ebenen.";
+
+"Copy (⌘C)" = "Kopieren (⌘C)";
 
 "Corner Radius" = "Eckenradius";
 
-"Cyan" = "Zyan";
+/* Follow particle effect */
+"Custom Particles" = "Benutzerdefinierte Partikel";
 
-"Dash" = "Gestrichelt";
-
-"Dashed Segment" = "Gestrichelter Abschnitt";
+"Delete" = "Löschen";
 
 "Detailed Parameter Settings" = "Detaillierte Parametereinstellungen";
 
@@ -44,29 +97,39 @@
 
 "Drawing Board" = "Zeichenbrett";
 
-"Drawing Color" = "Zeichenfarbe";
+"Drawing tools, colors, and stroke width are configured in the on-screen Drawing Board toolbar powered by ScapDrawingKit." = "Zeichenwerkzeuge, Farben und Strichstärke werden in der Zeichenbrett-Symbolleiste konfiguriert, die von ScapDrawingKit bereitgestellt wird.";
 
-"Drawing Line Color" = "Zeichenlinienfarbe";
-
-"Drawing Line Width" = "Zeichenlinienbreite";
-
-"Drawing Mode" = "Zeichenmodus";
-
-"Drawing Width" = "Zeichenbreite";
+"Duplicate" = "Duplizieren";
 
 "E-mail" = "E-Mail";
 
+"Edit as Custom Layers…" = "Als benutzerdefinierte Ebenen bearbeiten…";
+
 "Effect" = "Effekt";
+
+/* Follow particle effect */
+"Electric Trail" = "Elektrische Spur";
 
 "Enable" = "Aktivieren";
 
 "Enable Drawing Board" = "Zeichenbrett aktivieren";
 
+"Enabled" = "Aktiviert";
+
 "Enlarge Size" = "Größe vergrößern";
+
+"Exit (Esc)" = "Beenden (Esc)";
 
 "Exit Drawing Board" = "Zeichenbrett beenden";
 
 "Feedback" = "Feedback";
+
+"Final position = cursor + Center + Layer Offset." = "Endposition = Cursor + Zentrum + Ebenenversatz.";
+
+/* Follow particle effect */
+"Fire Trail" = "Feuerspur";
+
+"Fireworks Effect" = "Feuerwerk-Effekt";
 
 "Flashlight Mode" = "Taschenlampen-Modus";
 
@@ -78,35 +141,59 @@
 
 "Granted" = "Gewährt";
 
-"Gray" = "Grau";
+"Gravity ×" = "Schwerkraft ×";
 
-"Green" = "Grün";
+"Green Range" = "Grün-Bereich";
+
+"Green Speed" = "Grün-Geschwindigkeit";
+
+/* Particle image */
+"Hard Circle" = "Harter Kreis";
+
+/* Particle image */
+"Heart" = "Herz";
+
+/* Follow particle effect */
+"Heart Trail" = "Herzspur";
+
+"Hearts Effect" = "Herzen-Effekt";
 
 "Hide Dock Icon" = "Dock-Symbol ausblenden";
 
 "Hide Drawing Board Tool" = "Zeichenbrett-Werkzeug ausblenden";
 
-"Highlighted Edge" = "Hervorgehobene Kante";
-
 "Highlighted Edge Width" = "Hervorgehobene Kantenbreite";
 
 "Highlighted edge" = "Hervorgehobene Kante";
 
+"Image" = "Bild";
+
 "Input Monitoring" = "Eingabeüberwachung";
+
+"Latitude" = "Breitengrad";
+
+"Latitude Range" = "Breitengradbereich";
 
 "Launch at login" = "Beim Anmelden starten";
 
-"Line" = "Linie";
+"Layer Offset (x / y, stacked on Center)" = "Ebenenversatz (x / y, auf Zentrum gestapelt)";
 
-"Line Disappear Duration" = "Linien-Verschwinden-Dauer";
+"Layer Offset X" = "Ebenenversatz X";
+
+"Layer Offset Y" = "Ebenenversatz Y";
+
+"Lifetime" = "Lebensdauer";
+
+"Lifetime Range" = "Lebensdauerbereich";
+
+"Lifetime ×" = "Lebensdauer ×";
 
 "Line Width" = "Linienbreite";
 
-"Magenta" = "Magenta";
+/* Follow particle effect */
+"Magic Trail" = "Magische Spur";
 
 "Main Window" = "Hauptfenster";
-
-"More effects coming soon…" = "Weitere Effekte kommen bald…";
 
 "Mouse Click Effect" = "Mausklick-Effekt";
 
@@ -122,9 +209,14 @@
 
 "My Apps" = "Meine Apps";
 
-"Never" = "Nie";
+"Name" = "Name";
 
-"None" = "Keine";
+"Name (unique)" = "Name (eindeutig)";
+
+"Neon Effect" = "Neon-Effekt";
+
+/* Follow particle effect */
+"Neon Trail" = "Neonspur";
 
 "OK" = "OK";
 
@@ -138,25 +230,55 @@
 
 "Open Settings" = "Einstellungen öffnen";
 
-"Orange" = "Orange";
+"Particle Effect" = "Partikeleffekt";
 
-"Oval" = "Oval";
+"Particle Layers" = "Partikelebenen";
 
-"Pen" = "Stift";
+"Petals Effect" = "Blütenblätter-Effekt";
 
-"Pink" = "Rosa";
+"Preset Intensity" = "Voreingestellte Intensität";
 
-"Purple" = "Lila";
+"Pulse Effect" = "Pulseffekt";
 
 "Quit %@" = "%@ beenden";
 
-"Rectangle" = "Rechteck";
+"Rainbow Effect" = "Regenbogen-Effekt";
 
-"Red" = "Rot";
+/* Follow particle effect */
+"Rainbow Trail" = "Regenbogenspur";
+
+"Red Range" = "Rot-Bereich";
+
+"Red Speed" = "Rot-Geschwindigkeit";
+
+"Redo (⇧⌘Z)" = "Wiederholen (⇧⌘Z)";
 
 "Reset" = "Zurücksetzen";
 
+"Reset Center" = "Zentrum zurücksetzen";
+
+/* Particle image */
+"Ring" = "Ring";
+
+"Ring Effect" = "Ring-Effekt";
+
+"Ripple Effect" = "Welleneffekt";
+
+"Sample Image" = "Beispielbild";
+
+"Save (⌘S)" = "Speichern (⌘S)";
+
+"Scale" = "Skalierung";
+
+"Scale Range" = "Skalierungsbereich";
+
+"Scale Speed" = "Skalierungsgeschwindigkeit";
+
 "Security and Privacy" = "Sicherheit und Datenschutz";
+
+"Select a layer above to edit parameters." = "Wähle oben eine Ebene zum Bearbeiten der Parameter.";
+
+"Separate RGB Channels" = "RGB-Kanäle trennen";
 
 "Settings..." = "Einstellungen…";
 
@@ -164,29 +286,71 @@
 
 "Size" = "Größe";
 
+/* Particle image */
+"Smoke" = "Rauch";
+
+/* Follow particle effect */
+"Smoke Trail" = "Rauchspur";
+
+/* Follow particle effect */
+"Snow Trail" = "Schneespur";
+
 "Social Accounts" = "Soziale Konten";
 
+/* Particle image */
+"Soft Circle" = "Weicher Kreis";
+
+/* Particle image */
+"Spark" = "Funke";
+
+"Sparkle Effect" = "Funkel-Effekt";
+
+/* Follow particle effect */
+"Sparkle Trail" = "Funkelspur";
+
+"Spin" = "Drehung";
+
+"Spin Range" = "Drehungsbereich";
+
 "Splash Effect" = "Spritzeffekt";
+
+/* Particle image */
+"Star" = "Stern";
+
+/* Follow particle effect */
+"Star Trail" = "Sternspur";
+
+"Stroke" = "Strich";
 
 "System Preferences" = "Systemeinstellungen";
 
 "This app needs to monitor your mouse movement input to track the cursor position even during system menu popups, selection dialogs, or app switching." = "Diese App muss deine Mausbewegungen überwachen, um die Cursorposition auch während Systemmenü-Popups, Auswahldialogen oder App-Wechseln zu verfolgen.";
 
+"Tip (0, 0)" = "Spitze (0, 0)";
+
 "To enable mouse position tracking and display, please grant the app mouse input monitoring permission." = "Um die Mauspositionsverfolgung und -anzeige zu aktivieren, gewähre bitte der App die Erlaubnis zur Mauseingabe-Überwachung.";
+
+"Undo (⌘Z)" = "Rückgängig (⌘Z)";
 
 "Unlock all Features" = "Alle Funktionen freischalten";
 
 "VIP" = "VIP";
 
+"Velocity" = "Geschwindigkeit";
+
+"Velocity Range" = "Geschwindigkeitsbereich";
+
+"Velocity ×" = "Geschwindigkeit ×";
+
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
 
-"White" = "Weiß";
+"X Acceleration" = "X-Beschleunigung";
 
 "X(Twitter)" = "X(Twitter)";
 
-"Yellow" = "Gelb";
+"Y Acceleration" = "Y-Beschleunigung";
 
-"You can press the %@ key to exit drawing board mode, or %@ to open the context menu and configure various properties." = "Du kannst die %1$@ Taste drücken, um den Zeichenbrett-Modus zu verlassen, oder %2$@, um das Kontextmenü zu öffnen und verschiedene Eigenschaften zu konfigurieren.";
+"You can press the %@ key to exit drawing board mode, or %@ to open the context menu." = "Drücke die Taste %1$@, um den Zeichenbrett-Modus zu verlassen, oder %2$@, um das Kontextmenü zu öffnen.";
 
 "You need to enable input monitoring permissions." = "Du musst die Eingabeüberwachungsberechtigungen aktivieren.";
 
