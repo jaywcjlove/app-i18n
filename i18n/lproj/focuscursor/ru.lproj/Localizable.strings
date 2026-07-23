@@ -1,0 +1,359 @@
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Добавить **%4$@** и проверить";
+
+"%@%@" = "%1$@%2$@";
+
+"%lld" = "%lld";
+
+"%lld/s · life %@s" = "%1$lld/с · время жизни %2$@с";
+
+"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+X справа от кончика курсора, +Y сверху. Смещение слоя накладывается поверх в пользовательском режиме.";
+
+"+Y is up in Core Animation. Use negative Y for gravity." = "+Y направлен вверх в Core Animation. Используйте отрицательный Y для гравитации.";
+
+"About" = "О программе";
+
+"About %@" = "О программе %@";
+
+"Acceleration" = "Ускорение";
+
+"Add" = "Добавить";
+
+"Additive" = "Аддитивный";
+
+"Additive Blend" = "Аддитивное смешивание";
+
+"Alpha Range" = "Диапазон альфа";
+
+"Alpha Speed" = "Скорость альфа";
+
+"Angle" = "Угол";
+
+"Angle Range" = "Диапазон угла";
+
+"Auto Fade (α ≈ -1/lifetime)" = "Авто затухание (α ≈ -1/время жизни)";
+
+"Below tip" = "Под кончиком";
+
+"Birth & Lifetime" = "Рождение и время жизни";
+
+"Birth Rate" = "Частота рождения";
+
+"Birth Rate ×" = "Частота рождения ×";
+
+"Blue Range" = "Диапазон синего";
+
+"Blue Speed" = "Скорость синего";
+
+"Blur Radius" = "Радиус размытия";
+
+/* Follow particle effect */
+"Bubble Trail" = "Пузырьковый след";
+
+"Bubbles Effect" = "Эффект пузырей";
+
+"Burst Effect" = "Эффект вспышки";
+
+"CAEmitterLayer particles. Move the mouse to preview." = "Частицы CAEmitterLayer. Переместите мышь для предпросмотра.";
+
+"Cancel" = "Отмена";
+
+"Center (relative to cursor)" = "Центр (относительно курсора)";
+
+"Center X" = "Центр X";
+
+"Center Y" = "Центр Y";
+
+"Circle Effect" = "Эффект круга";
+
+"Clear Drawing Board" = "Очистить доску";
+
+"Color" = "Цвет";
+
+"Color Range" = "Диапазон цвета";
+
+"Color Speed" = "Скорость цвета";
+
+/* Follow particle effect */
+"Comet Trail" = "Кометный след";
+
+"Confetti Effect" = "Эффект конфетти";
+
+"Contact" = "Контакты";
+
+"Copies the current preset into editable CAEmitterCell layers." = "Копирует текущий пресет в редактируемые слои CAEmitterCell.";
+
+"Copy (⌘C)" = "Копировать (⌘C)";
+
+"Corner Radius" = "Радиус угла";
+
+/* Follow particle effect */
+"Custom Particles" = "Пользовательские частицы";
+
+"Delete" = "Удалить";
+
+"Detailed Parameter Settings" = "Детальные настройки параметров";
+
+"Disable" = "Отключить";
+
+"Drawing Board" = "Доска для рисования";
+
+"Drawing tools, colors, and stroke width are configured in the on-screen Drawing Board toolbar powered by ScapDrawingKit." = "Инструменты рисования, цвета и ширина обводки настраиваются на панели инструментов доски на основе ScapDrawingKit.";
+
+"Duplicate" = "Дублировать";
+
+"E-mail" = "Эл. почта";
+
+"Edit as Custom Layers…" = "Редактировать как пользовательские слои…";
+
+"Effect" = "Эффект";
+
+/* Follow particle effect */
+"Electric Trail" = "Электрический след";
+
+"Enable" = "Включить";
+
+"Enable Drawing Board" = "Включить доску для рисования";
+
+"Enabled" = "Включено";
+
+"Enlarge Size" = "Увеличить размер";
+
+"Exit (Esc)" = "Выход (Esc)";
+
+"Exit Drawing Board" = "Выйти из доски";
+
+"Feedback" = "Обратная связь";
+
+"Final position = cursor + Center + Layer Offset." = "Финальная позиция = курсор + Центр + Смещение слоя.";
+
+/* Follow particle effect */
+"Fire Trail" = "Огненный след";
+
+"Fireworks Effect" = "Эффект фейерверка";
+
+"Flashlight Mode" = "Режим фонарика";
+
+"Free" = "Бесплатно";
+
+"General" = "Общие";
+
+"Grant" = "Предоставить";
+
+"Granted" = "Предоставлено";
+
+"Gravity ×" = "Гравитация ×";
+
+"Green Range" = "Диапазон зелёного";
+
+"Green Speed" = "Скорость зелёного";
+
+/* Particle image */
+"Hard Circle" = "Жёсткий круг";
+
+/* Particle image */
+"Heart" = "Сердце";
+
+/* Follow particle effect */
+"Heart Trail" = "Сердечный след";
+
+"Hearts Effect" = "Эффект сердец";
+
+"Hide Dock Icon" = "Скрыть значок Dock";
+
+"Hide Drawing Board Tool" = "Скрыть инструмент доски";
+
+"Highlighted Edge Width" = "Ширина выделенного края";
+
+"Highlighted edge" = "Выделенный край";
+
+"Image" = "Изображение";
+
+"Input Monitoring" = "Мониторинг ввода";
+
+"Latitude" = "Широта";
+
+"Latitude Range" = "Диапазон широты";
+
+"Launch at login" = "Запускать при входе";
+
+"Layer Offset (x / y, stacked on Center)" = "Смещение слоя (x / y, накладывается на Центр)";
+
+"Layer Offset X" = "Смещение слоя X";
+
+"Layer Offset Y" = "Смещение слоя Y";
+
+"Lifetime" = "Время жизни";
+
+"Lifetime Range" = "Диапазон времени жизни";
+
+"Lifetime ×" = "Время жизни ×";
+
+"Line Width" = "Ширина линии";
+
+/* Follow particle effect */
+"Magic Trail" = "Магический след";
+
+"Main Window" = "Главное окно";
+
+"Mouse Click Effect" = "Эффект клика мыши";
+
+"Mouse Down" = "Нажатие мыши";
+
+"Mouse Follow" = "Следование за мышью";
+
+"Mouse Follow Effect" = "Эффект следования за мышью";
+
+"Mouse Mask" = "Маска мыши";
+
+"Mouse Mask Effect" = "Эффект маски мыши";
+
+"My Apps" = "Мои приложения";
+
+"Name" = "Имя";
+
+"Name (unique)" = "Имя (уникальное)";
+
+"Neon Effect" = "Неоновый эффект";
+
+/* Follow particle effect */
+"Neon Trail" = "Неоновый след";
+
+"OK" = "ОК";
+
+"Off" = "Выкл";
+
+"On" = "Вкл";
+
+"Opacity" = "Непрозрачность";
+
+"Open " = "Открыть ";
+
+"Open Settings" = "Открыть настройки";
+
+"Particle Effect" = "Эффект частиц";
+
+"Particle Layers" = "Слои частиц";
+
+"Petals Effect" = "Эффект лепестков";
+
+"Preset Intensity" = "Интенсивность пресета";
+
+"Pulse Effect" = "Пульсирующий эффект";
+
+"Quit %@" = "Выйти из %@";
+
+"Rainbow Effect" = "Радужный эффект";
+
+/* Follow particle effect */
+"Rainbow Trail" = "Радужный след";
+
+"Red Range" = "Диапазон красного";
+
+"Red Speed" = "Скорость красного";
+
+"Redo (⇧⌘Z)" = "Повторить (⇧⌘Z)";
+
+"Reset" = "Сброс";
+
+"Reset Center" = "Сбросить центр";
+
+/* Particle image */
+"Ring" = "Кольцо";
+
+"Ring Effect" = "Эффект кольца";
+
+"Ripple Effect" = "Эффект ряби";
+
+"Sample Image" = "Пример изображения";
+
+"Save (⌘S)" = "Сохранить (⌘S)";
+
+"Scale" = "Масштаб";
+
+"Scale Range" = "Диапазон масштаба";
+
+"Scale Speed" = "Скорость масштаба";
+
+"Security and Privacy" = "Безопасность и конфиденциальность";
+
+"Select a layer above to edit parameters." = "Выберите слой выше для редактирования параметров.";
+
+"Separate RGB Channels" = "Раздельные каналы RGB";
+
+"Settings..." = "Настройки...";
+
+"Show Drawing Board Tool" = "Показать инструмент доски";
+
+"Size" = "Размер";
+
+/* Particle image */
+"Smoke" = "Дым";
+
+/* Follow particle effect */
+"Smoke Trail" = "Дымный след";
+
+/* Follow particle effect */
+"Snow Trail" = "Снежный след";
+
+"Social Accounts" = "Социальные сети";
+
+/* Particle image */
+"Soft Circle" = "Мягкий круг";
+
+/* Particle image */
+"Spark" = "Искра";
+
+"Sparkle Effect" = "Эффект искр";
+
+/* Follow particle effect */
+"Sparkle Trail" = "Искрящийся след";
+
+"Spin" = "Вращение";
+
+"Spin Range" = "Диапазон вращения";
+
+"Splash Effect" = "Эффект брызг";
+
+/* Particle image */
+"Star" = "Звезда";
+
+/* Follow particle effect */
+"Star Trail" = "Звёздный след";
+
+"Stroke" = "Обводка";
+
+"System Preferences" = "Системные настройки";
+
+"This app needs to monitor your mouse movement input to track the cursor position even during system menu popups, selection dialogs, or app switching." = "Этому приложению необходимо отслеживать движения мыши для определения позиции курсора даже во время системных всплывающих меню, диалогов выбора или переключения приложений.";
+
+"Tip (0, 0)" = "Кончик (0, 0)";
+
+"To enable mouse position tracking and display, please grant the app mouse input monitoring permission." = "Чтобы включить отслеживание и отображение позиции мыши, предоставьте приложению разрешение на мониторинг ввода мыши.";
+
+"Undo (⌘Z)" = "Отменить (⌘Z)";
+
+"Unlock all Features" = "Разблокировать все функции";
+
+"VIP" = "VIP";
+
+"Velocity" = "Скорость";
+
+"Velocity Range" = "Диапазон скорости";
+
+"Velocity ×" = "Скорость ×";
+
+"Version %@ (%@)" = "Версия %1$@ (%2$@)";
+
+"X Acceleration" = "Ускорение X";
+
+"X(Twitter)" = "X(Twitter)";
+
+"Y Acceleration" = "Ускорение Y";
+
+"You can press the %@ key to exit drawing board mode, or %@ to open the context menu." = "Вы можете нажать клавишу %1$@ для выхода из режима доски или %2$@ для открытия контекстного меню.";
+
+"You need to enable input monitoring permissions." = "Вам необходимо включить разрешения мониторинга ввода.";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"right-click" = "правый клик";

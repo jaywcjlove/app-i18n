@@ -1,0 +1,359 @@
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@** 추가 및 확인";
+
+"%@%@" = "%1$@%2$@";
+
+"%lld" = "%lld";
+
+"%lld/s · life %@s" = "%1$lld/s · 수명 %2$@s";
+
+"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+X는 커서 끝의 오른쪽, +Y는 위쪽입니다. 사용자 정의 모드에서는 레이어 오프셋이 위에 쌓입니다.";
+
+"+Y is up in Core Animation. Use negative Y for gravity." = "+Y는 Core Animation에서 위쪽입니다. 중력에는 음수 Y를 사용하세요.";
+
+"About" = "정보";
+
+"About %@" = "%@ 정보";
+
+"Acceleration" = "가속도";
+
+"Add" = "추가";
+
+"Additive" = "가산";
+
+"Additive Blend" = "가산 블렌드";
+
+"Alpha Range" = "알파 범위";
+
+"Alpha Speed" = "알파 속도";
+
+"Angle" = "각도";
+
+"Angle Range" = "각도 범위";
+
+"Auto Fade (α ≈ -1/lifetime)" = "자동 페이드 (α ≈ -1/수명)";
+
+"Below tip" = "끝 아래";
+
+"Birth & Lifetime" = "생성 및 수명";
+
+"Birth Rate" = "생성 속도";
+
+"Birth Rate ×" = "생성 속도 ×";
+
+"Blue Range" = "파랑 범위";
+
+"Blue Speed" = "파랑 속도";
+
+"Blur Radius" = "블러 반경";
+
+/* Follow particle effect */
+"Bubble Trail" = "거품 궤적";
+
+"Bubbles Effect" = "거품 효과";
+
+"Burst Effect" = "폭발 효과";
+
+"CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayer 파티클. 마우스를 움직여 미리 보세요.";
+
+"Cancel" = "취소";
+
+"Center (relative to cursor)" = "중심 (커서 기준)";
+
+"Center X" = "중심 X";
+
+"Center Y" = "중심 Y";
+
+"Circle Effect" = "원형 효과";
+
+"Clear Drawing Board" = "그리기 보드 지우기";
+
+"Color" = "색상";
+
+"Color Range" = "색상 범위";
+
+"Color Speed" = "색상 속도";
+
+/* Follow particle effect */
+"Comet Trail" = "혜성 궤적";
+
+"Confetti Effect" = "색종이 효과";
+
+"Contact" = "문의";
+
+"Copies the current preset into editable CAEmitterCell layers." = "현재 프리셋을 편집 가능한 CAEmitterCell 레이어로 복사합니다.";
+
+"Copy (⌘C)" = "복사 (⌘C)";
+
+"Corner Radius" = "모서리 반경";
+
+/* Follow particle effect */
+"Custom Particles" = "사용자 정의 파티클";
+
+"Delete" = "삭제";
+
+"Detailed Parameter Settings" = "세부 파라미터 설정";
+
+"Disable" = "비활성화";
+
+"Drawing Board" = "그리기 보드";
+
+"Drawing tools, colors, and stroke width are configured in the on-screen Drawing Board toolbar powered by ScapDrawingKit." = "그리기 도구, 색상, 선 두께는 ScapDrawingKit 기반의 화면 그리기 보드 도구 모음에서 설정합니다.";
+
+"Duplicate" = "복제";
+
+"E-mail" = "이메일";
+
+"Edit as Custom Layers…" = "사용자 정의 레이어로 편집…";
+
+"Effect" = "효과";
+
+/* Follow particle effect */
+"Electric Trail" = "전기 궤적";
+
+"Enable" = "활성화";
+
+"Enable Drawing Board" = "그리기 보드 활성화";
+
+"Enabled" = "활성화됨";
+
+"Enlarge Size" = "크기 확대";
+
+"Exit (Esc)" = "종료 (Esc)";
+
+"Exit Drawing Board" = "그리기 보드 종료";
+
+"Feedback" = "피드백";
+
+"Final position = cursor + Center + Layer Offset." = "최종 위치 = 커서 + 중심 + 레이어 오프셋.";
+
+/* Follow particle effect */
+"Fire Trail" = "불꽃 궤적";
+
+"Fireworks Effect" = "불꽃놀이 효과";
+
+"Flashlight Mode" = "플래시라이트 모드";
+
+"Free" = "무료";
+
+"General" = "일반";
+
+"Grant" = "허용";
+
+"Granted" = "허용됨";
+
+"Gravity ×" = "중력 ×";
+
+"Green Range" = "초록 범위";
+
+"Green Speed" = "초록 속도";
+
+/* Particle image */
+"Hard Circle" = "하드 원";
+
+/* Particle image */
+"Heart" = "하트";
+
+/* Follow particle effect */
+"Heart Trail" = "하트 궤적";
+
+"Hearts Effect" = "하트 효과";
+
+"Hide Dock Icon" = "독 아이콘 숨기기";
+
+"Hide Drawing Board Tool" = "그리기 보드 도구 숨기기";
+
+"Highlighted Edge Width" = "강조 엣지 두께";
+
+"Highlighted edge" = "강조 엣지";
+
+"Image" = "이미지";
+
+"Input Monitoring" = "입력 모니터링";
+
+"Latitude" = "위도";
+
+"Latitude Range" = "위도 범위";
+
+"Launch at login" = "로그인 시 실행";
+
+"Layer Offset (x / y, stacked on Center)" = "레이어 오프셋 (x / y, 중심에 쌓기)";
+
+"Layer Offset X" = "레이어 오프셋 X";
+
+"Layer Offset Y" = "레이어 오프셋 Y";
+
+"Lifetime" = "수명";
+
+"Lifetime Range" = "수명 범위";
+
+"Lifetime ×" = "수명 ×";
+
+"Line Width" = "선 두께";
+
+/* Follow particle effect */
+"Magic Trail" = "마법 궤적";
+
+"Main Window" = "메인 윈도우";
+
+"Mouse Click Effect" = "마우스 클릭 효과";
+
+"Mouse Down" = "마우스 다운";
+
+"Mouse Follow" = "마우스 따라가기";
+
+"Mouse Follow Effect" = "마우스 따라가기 효과";
+
+"Mouse Mask" = "마우스 마스크";
+
+"Mouse Mask Effect" = "마우스 마스크 효과";
+
+"My Apps" = "내 앱";
+
+"Name" = "이름";
+
+"Name (unique)" = "이름 (고유)";
+
+"Neon Effect" = "네온 효과";
+
+/* Follow particle effect */
+"Neon Trail" = "네온 궤적";
+
+"OK" = "확인";
+
+"Off" = "끄기";
+
+"On" = "켜기";
+
+"Opacity" = "불투명도";
+
+"Open " = "열기 ";
+
+"Open Settings" = "설정 열기";
+
+"Particle Effect" = "파티클 효과";
+
+"Particle Layers" = "파티클 레이어";
+
+"Petals Effect" = "꽃잎 효과";
+
+"Preset Intensity" = "프리셋 강도";
+
+"Pulse Effect" = "펄스 효과";
+
+"Quit %@" = "%@ 종료";
+
+"Rainbow Effect" = "무지개 효과";
+
+/* Follow particle effect */
+"Rainbow Trail" = "무지개 궤적";
+
+"Red Range" = "빨강 범위";
+
+"Red Speed" = "빨강 속도";
+
+"Redo (⇧⌘Z)" = "다시 실행 (⇧⌘Z)";
+
+"Reset" = "초기화";
+
+"Reset Center" = "중심 초기화";
+
+/* Particle image */
+"Ring" = "링";
+
+"Ring Effect" = "링 효과";
+
+"Ripple Effect" = "파문 효과";
+
+"Sample Image" = "샘플 이미지";
+
+"Save (⌘S)" = "저장 (⌘S)";
+
+"Scale" = "스케일";
+
+"Scale Range" = "스케일 범위";
+
+"Scale Speed" = "스케일 속도";
+
+"Security and Privacy" = "보안 및 개인정보";
+
+"Select a layer above to edit parameters." = "위의 레이어를 선택하여 파라미터를 편집하세요.";
+
+"Separate RGB Channels" = "RGB 채널 분리";
+
+"Settings..." = "설정...";
+
+"Show Drawing Board Tool" = "그리기 보드 도구 표시";
+
+"Size" = "크기";
+
+/* Particle image */
+"Smoke" = "연기";
+
+/* Follow particle effect */
+"Smoke Trail" = "연기 궤적";
+
+/* Follow particle effect */
+"Snow Trail" = "눈 궤적";
+
+"Social Accounts" = "소셜 계정";
+
+/* Particle image */
+"Soft Circle" = "소프트 원";
+
+/* Particle image */
+"Spark" = "불꽃";
+
+"Sparkle Effect" = "반짝임 효과";
+
+/* Follow particle effect */
+"Sparkle Trail" = "반짝임 궤적";
+
+"Spin" = "회전";
+
+"Spin Range" = "회전 범위";
+
+"Splash Effect" = "물보라 효과";
+
+/* Particle image */
+"Star" = "별";
+
+/* Follow particle effect */
+"Star Trail" = "별 궤적";
+
+"Stroke" = "획";
+
+"System Preferences" = "시스템 환경설정";
+
+"This app needs to monitor your mouse movement input to track the cursor position even during system menu popups, selection dialogs, or app switching." = "이 앱은 시스템 메뉴 팝업, 선택 대화상자, 앱 전환 중에도 커서 위치를 추적하기 위해 마우스 움직임 입력을 모니터링해야 합니다.";
+
+"Tip (0, 0)" = "끝 (0, 0)";
+
+"To enable mouse position tracking and display, please grant the app mouse input monitoring permission." = "마우스 위치 추적 및 표시를 활성화하려면 앱에 마우스 입력 모니터링 권한을 허용해 주세요.";
+
+"Undo (⌘Z)" = "실행 취소 (⌘Z)";
+
+"Unlock all Features" = "모든 기능 잠금 해제";
+
+"VIP" = "VIP";
+
+"Velocity" = "속도";
+
+"Velocity Range" = "속도 범위";
+
+"Velocity ×" = "속도 ×";
+
+"Version %@ (%@)" = "버전 %1$@ (%2$@)";
+
+"X Acceleration" = "X 가속도";
+
+"X(Twitter)" = "X(Twitter)";
+
+"Y Acceleration" = "Y 가속도";
+
+"You can press the %@ key to exit drawing board mode, or %@ to open the context menu." = "%1$@ 키를 눌러 그리기 보드 모드를 종료하거나, %2$@ 키로 컨텍스트 메뉴를 열 수 있습니다.";
+
+"You need to enable input monitoring permissions." = "입력 모니터링 권한을 활성화해야 합니다.";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [이메일](emailurl) • [Github](githuburl)";
+
+"right-click" = "마우스 오른쪽 클릭";

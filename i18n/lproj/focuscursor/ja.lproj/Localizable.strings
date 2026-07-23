@@ -1,0 +1,359 @@
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@** を追加して確認";
+
+"%@%@" = "%1$@%2$@";
+
+"%lld" = "%lld";
+
+"%lld/s · life %@s" = "%1$lld/s · 寿命 %2$@s";
+
+"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+Xはカーソル先端の右側、+Yは上方向です。カスタムモードではレイヤーオフセットが上に重なります。";
+
+"+Y is up in Core Animation. Use negative Y for gravity." = "+YはCore Animationで上方向です。重力には負のYを使用します。";
+
+"About" = "について";
+
+"About %@" = "%@ について";
+
+"Acceleration" = "加速度";
+
+"Add" = "追加";
+
+"Additive" = "加算";
+
+"Additive Blend" = "加算ブレンド";
+
+"Alpha Range" = "アルファ範囲";
+
+"Alpha Speed" = "アルファ速度";
+
+"Angle" = "角度";
+
+"Angle Range" = "角度範囲";
+
+"Auto Fade (α ≈ -1/lifetime)" = "自動フェード (α ≈ -1/寿命)";
+
+"Below tip" = "先端の下";
+
+"Birth & Lifetime" = "生成と寿命";
+
+"Birth Rate" = "生成レート";
+
+"Birth Rate ×" = "生成レート ×";
+
+"Blue Range" = "青範囲";
+
+"Blue Speed" = "青速度";
+
+"Blur Radius" = "ぼかし半径";
+
+/* Follow particle effect */
+"Bubble Trail" = "泡の軌跡";
+
+"Bubbles Effect" = "泡エフェクト";
+
+"Burst Effect" = "破裂エフェクト";
+
+"CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayerパーティクル。マウスを動かしてプレビュー。";
+
+"Cancel" = "キャンセル";
+
+"Center (relative to cursor)" = "中心（カーソルからの相対位置）";
+
+"Center X" = "中心 X";
+
+"Center Y" = "中心 Y";
+
+"Circle Effect" = "円エフェクト";
+
+"Clear Drawing Board" = "描画ボードをクリア";
+
+"Color" = "色";
+
+"Color Range" = "色範囲";
+
+"Color Speed" = "色速度";
+
+/* Follow particle effect */
+"Comet Trail" = "彗星の軌跡";
+
+"Confetti Effect" = "紙吹雪エフェクト";
+
+"Contact" = "お問い合わせ";
+
+"Copies the current preset into editable CAEmitterCell layers." = "現在のプリセットを編集可能なCAEmitterCellレイヤーにコピーします。";
+
+"Copy (⌘C)" = "コピー (⌘C)";
+
+"Corner Radius" = "角の半径";
+
+/* Follow particle effect */
+"Custom Particles" = "カスタムパーティクル";
+
+"Delete" = "削除";
+
+"Detailed Parameter Settings" = "詳細パラメータ設定";
+
+"Disable" = "無効";
+
+"Drawing Board" = "描画ボード";
+
+"Drawing tools, colors, and stroke width are configured in the on-screen Drawing Board toolbar powered by ScapDrawingKit." = "描画ツール、色、線の太さは、ScapDrawingKit搭載の画面上の描画ボードツールバーで設定します。";
+
+"Duplicate" = "複製";
+
+"E-mail" = "メール";
+
+"Edit as Custom Layers…" = "カスタムレイヤーとして編集…";
+
+"Effect" = "エフェクト";
+
+/* Follow particle effect */
+"Electric Trail" = "電気の軌跡";
+
+"Enable" = "有効";
+
+"Enable Drawing Board" = "描画ボードを有効にする";
+
+"Enabled" = "有効";
+
+"Enlarge Size" = "サイズを拡大";
+
+"Exit (Esc)" = "終了 (Esc)";
+
+"Exit Drawing Board" = "描画ボードを終了";
+
+"Feedback" = "フィードバック";
+
+"Final position = cursor + Center + Layer Offset." = "最終位置 = カーソル + 中心 + レイヤーオフセット。";
+
+/* Follow particle effect */
+"Fire Trail" = "炎の軌跡";
+
+"Fireworks Effect" = "花火エフェクト";
+
+"Flashlight Mode" = "フラッシュライトモード";
+
+"Free" = "無料";
+
+"General" = "一般";
+
+"Grant" = "許可";
+
+"Granted" = "許可済み";
+
+"Gravity ×" = "重力 ×";
+
+"Green Range" = "緑範囲";
+
+"Green Speed" = "緑速度";
+
+/* Particle image */
+"Hard Circle" = "ハードサークル";
+
+/* Particle image */
+"Heart" = "ハート";
+
+/* Follow particle effect */
+"Heart Trail" = "ハートの軌跡";
+
+"Hearts Effect" = "ハートエフェクト";
+
+"Hide Dock Icon" = "Dockアイコンを隠す";
+
+"Hide Drawing Board Tool" = "描画ボードツールを隠す";
+
+"Highlighted Edge Width" = "ハイライトエッジ幅";
+
+"Highlighted edge" = "ハイライトエッジ";
+
+"Image" = "画像";
+
+"Input Monitoring" = "入力監視";
+
+"Latitude" = "緯度";
+
+"Latitude Range" = "緯度範囲";
+
+"Launch at login" = "ログイン時に起動";
+
+"Layer Offset (x / y, stacked on Center)" = "レイヤーオフセット（x / y、中心に重ねる）";
+
+"Layer Offset X" = "レイヤーオフセット X";
+
+"Layer Offset Y" = "レイヤーオフセット Y";
+
+"Lifetime" = "寿命";
+
+"Lifetime Range" = "寿命範囲";
+
+"Lifetime ×" = "寿命 ×";
+
+"Line Width" = "線の太さ";
+
+/* Follow particle effect */
+"Magic Trail" = "魔法の軌跡";
+
+"Main Window" = "メインウィンドウ";
+
+"Mouse Click Effect" = "マウスクリックエフェクト";
+
+"Mouse Down" = "マウスダウン";
+
+"Mouse Follow" = "マウス追従";
+
+"Mouse Follow Effect" = "マウス追従エフェクト";
+
+"Mouse Mask" = "マウスマスク";
+
+"Mouse Mask Effect" = "マウスマスクエフェクト";
+
+"My Apps" = "マイアプリ";
+
+"Name" = "名前";
+
+"Name (unique)" = "名前（一意）";
+
+"Neon Effect" = "ネオンエフェクト";
+
+/* Follow particle effect */
+"Neon Trail" = "ネオンの軌跡";
+
+"OK" = "OK";
+
+"Off" = "オフ";
+
+"On" = "オン";
+
+"Opacity" = "不透明度";
+
+"Open " = "開く ";
+
+"Open Settings" = "設定を開く";
+
+"Particle Effect" = "パーティクルエフェクト";
+
+"Particle Layers" = "パーティクルレイヤー";
+
+"Petals Effect" = "花びらエフェクト";
+
+"Preset Intensity" = "プリセット強度";
+
+"Pulse Effect" = "パルスエフェクト";
+
+"Quit %@" = "%@ を終了";
+
+"Rainbow Effect" = "虹エフェクト";
+
+/* Follow particle effect */
+"Rainbow Trail" = "虹の軌跡";
+
+"Red Range" = "赤範囲";
+
+"Red Speed" = "赤速度";
+
+"Redo (⇧⌘Z)" = "やり直し (⇧⌘Z)";
+
+"Reset" = "リセット";
+
+"Reset Center" = "中心をリセット";
+
+/* Particle image */
+"Ring" = "リング";
+
+"Ring Effect" = "リングエフェクト";
+
+"Ripple Effect" = "波紋エフェクト";
+
+"Sample Image" = "サンプル画像";
+
+"Save (⌘S)" = "保存 (⌘S)";
+
+"Scale" = "スケール";
+
+"Scale Range" = "スケール範囲";
+
+"Scale Speed" = "スケール速度";
+
+"Security and Privacy" = "セキュリティとプライバシー";
+
+"Select a layer above to edit parameters." = "上のレイヤーを選択してパラメータを編集してください。";
+
+"Separate RGB Channels" = "RGBチャンネルを分離";
+
+"Settings..." = "設定...";
+
+"Show Drawing Board Tool" = "描画ボードツールを表示";
+
+"Size" = "サイズ";
+
+/* Particle image */
+"Smoke" = "煙";
+
+/* Follow particle effect */
+"Smoke Trail" = "煙の軌跡";
+
+/* Follow particle effect */
+"Snow Trail" = "雪の軌跡";
+
+"Social Accounts" = "ソーシャルアカウント";
+
+/* Particle image */
+"Soft Circle" = "ソフトサークル";
+
+/* Particle image */
+"Spark" = "火花";
+
+"Sparkle Effect" = "きらめきエフェクト";
+
+/* Follow particle effect */
+"Sparkle Trail" = "きらめきの軌跡";
+
+"Spin" = "回転";
+
+"Spin Range" = "回転範囲";
+
+"Splash Effect" = "水しぶきエフェクト";
+
+/* Particle image */
+"Star" = "星";
+
+/* Follow particle effect */
+"Star Trail" = "星の軌跡";
+
+"Stroke" = "ストローク";
+
+"System Preferences" = "システム環境設定";
+
+"This app needs to monitor your mouse movement input to track the cursor position even during system menu popups, selection dialogs, or app switching." = "このアプリは、システムメニューのポップアップ、選択ダイアログ、アプリ切り替え中でもカーソル位置を追跡するためにマウスの動きの入力を監視する必要があります。";
+
+"Tip (0, 0)" = "先端 (0, 0)";
+
+"To enable mouse position tracking and display, please grant the app mouse input monitoring permission." = "マウス位置の追跡と表示を有効にするには、アプリにマウス入力監視の許可を与えてください。";
+
+"Undo (⌘Z)" = "元に戻す (⌘Z)";
+
+"Unlock all Features" = "すべての機能を解放";
+
+"VIP" = "VIP";
+
+"Velocity" = "速度";
+
+"Velocity Range" = "速度範囲";
+
+"Velocity ×" = "速度 ×";
+
+"Version %@ (%@)" = "バージョン %1$@ (%2$@)";
+
+"X Acceleration" = "X加速度";
+
+"X(Twitter)" = "X(Twitter)";
+
+"Y Acceleration" = "Y加速度";
+
+"You can press the %@ key to exit drawing board mode, or %@ to open the context menu." = "%1$@キーを押すと描画ボードモードを終了し、%2$@でコンテキストメニューを開きます。";
+
+"You need to enable input monitoring permissions." = "入力監視の許可を有効にする必要があります。";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [メール](emailurl) • [Github](githuburl)";
+
+"right-click" = "右クリック";

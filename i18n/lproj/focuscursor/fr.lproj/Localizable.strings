@@ -1,0 +1,359 @@
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Ajouter **%4$@** et vérifier";
+
+"%@%@" = "%1$@%2$@";
+
+"%lld" = "%lld";
+
+"%lld/s · life %@s" = "%1$lld/s · durée %2$@s";
+
+"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+X est à droite du curseur, +Y est au-dessus. Le décalage de calque s'empile par-dessus en mode personnalisé.";
+
+"+Y is up in Core Animation. Use negative Y for gravity." = "+Y est en haut dans Core Animation. Utilisez Y négatif pour la gravité.";
+
+"About" = "À propos";
+
+"About %@" = "À propos de %@";
+
+"Acceleration" = "Accélération";
+
+"Add" = "Ajouter";
+
+"Additive" = "Additif";
+
+"Additive Blend" = "Mélange additif";
+
+"Alpha Range" = "Plage alpha";
+
+"Alpha Speed" = "Vitesse alpha";
+
+"Angle" = "Angle";
+
+"Angle Range" = "Plage d'angle";
+
+"Auto Fade (α ≈ -1/lifetime)" = "Fondu auto (α ≈ -1/durée de vie)";
+
+"Below tip" = "Sous la pointe";
+
+"Birth & Lifetime" = "Génération et durée de vie";
+
+"Birth Rate" = "Taux de génération";
+
+"Birth Rate ×" = "Taux de génération ×";
+
+"Blue Range" = "Plage bleue";
+
+"Blue Speed" = "Vitesse bleue";
+
+"Blur Radius" = "Rayon de flou";
+
+/* Follow particle effect */
+"Bubble Trail" = "Traînée de bulles";
+
+"Bubbles Effect" = "Effet bulles";
+
+"Burst Effect" = "Effet d'éclatement";
+
+"CAEmitterLayer particles. Move the mouse to preview." = "Particules CAEmitterLayer. Déplacez la souris pour prévisualiser.";
+
+"Cancel" = "Annuler";
+
+"Center (relative to cursor)" = "Centre (par rapport au curseur)";
+
+"Center X" = "Centre X";
+
+"Center Y" = "Centre Y";
+
+"Circle Effect" = "Effet cercle";
+
+"Clear Drawing Board" = "Effacer le tableau de dessin";
+
+"Color" = "Couleur";
+
+"Color Range" = "Plage de couleur";
+
+"Color Speed" = "Vitesse de couleur";
+
+/* Follow particle effect */
+"Comet Trail" = "Traînée de comète";
+
+"Confetti Effect" = "Effet confettis";
+
+"Contact" = "Contact";
+
+"Copies the current preset into editable CAEmitterCell layers." = "Copie le préréglage actuel en calques CAEmitterCell modifiables.";
+
+"Copy (⌘C)" = "Copier (⌘C)";
+
+"Corner Radius" = "Rayon d'angle";
+
+/* Follow particle effect */
+"Custom Particles" = "Particules personnalisées";
+
+"Delete" = "Supprimer";
+
+"Detailed Parameter Settings" = "Paramètres détaillés";
+
+"Disable" = "Désactiver";
+
+"Drawing Board" = "Tableau de dessin";
+
+"Drawing tools, colors, and stroke width are configured in the on-screen Drawing Board toolbar powered by ScapDrawingKit." = "Les outils de dessin, les couleurs et la largeur du trait sont configurés dans la barre d'outils du tableau de dessin à l'écran, propulsée par ScapDrawingKit.";
+
+"Duplicate" = "Dupliquer";
+
+"E-mail" = "E-mail";
+
+"Edit as Custom Layers…" = "Modifier comme calques personnalisés…";
+
+"Effect" = "Effet";
+
+/* Follow particle effect */
+"Electric Trail" = "Traînée électrique";
+
+"Enable" = "Activer";
+
+"Enable Drawing Board" = "Activer le tableau de dessin";
+
+"Enabled" = "Activé";
+
+"Enlarge Size" = "Agrandir la taille";
+
+"Exit (Esc)" = "Quitter (Esc)";
+
+"Exit Drawing Board" = "Quitter le tableau de dessin";
+
+"Feedback" = "Commentaires";
+
+"Final position = cursor + Center + Layer Offset." = "Position finale = curseur + Centre + Décalage de calque.";
+
+/* Follow particle effect */
+"Fire Trail" = "Traînée de feu";
+
+"Fireworks Effect" = "Effet feux d'artifice";
+
+"Flashlight Mode" = "Mode lampe torche";
+
+"Free" = "Gratuit";
+
+"General" = "Général";
+
+"Grant" = "Autoriser";
+
+"Granted" = "Autorisé";
+
+"Gravity ×" = "Gravité ×";
+
+"Green Range" = "Plage verte";
+
+"Green Speed" = "Vitesse verte";
+
+/* Particle image */
+"Hard Circle" = "Cercle dur";
+
+/* Particle image */
+"Heart" = "Cœur";
+
+/* Follow particle effect */
+"Heart Trail" = "Traînée de cœurs";
+
+"Hearts Effect" = "Effet cœurs";
+
+"Hide Dock Icon" = "Masquer l'icône du Dock";
+
+"Hide Drawing Board Tool" = "Masquer l'outil de tableau de dessin";
+
+"Highlighted Edge Width" = "Largeur du bord surligné";
+
+"Highlighted edge" = "Bord surligné";
+
+"Image" = "Image";
+
+"Input Monitoring" = "Surveillance des entrées";
+
+"Latitude" = "Latitude";
+
+"Latitude Range" = "Plage de latitude";
+
+"Launch at login" = "Lancer à l'ouverture de session";
+
+"Layer Offset (x / y, stacked on Center)" = "Décalage de calque (x / y, empilé sur le Centre)";
+
+"Layer Offset X" = "Décalage de calque X";
+
+"Layer Offset Y" = "Décalage de calque Y";
+
+"Lifetime" = "Durée de vie";
+
+"Lifetime Range" = "Plage de durée de vie";
+
+"Lifetime ×" = "Durée de vie ×";
+
+"Line Width" = "Largeur de ligne";
+
+/* Follow particle effect */
+"Magic Trail" = "Traînée magique";
+
+"Main Window" = "Fenêtre principale";
+
+"Mouse Click Effect" = "Effet de clic de souris";
+
+"Mouse Down" = "Clic souris";
+
+"Mouse Follow" = "Suivi de souris";
+
+"Mouse Follow Effect" = "Effet de suivi de souris";
+
+"Mouse Mask" = "Masque de souris";
+
+"Mouse Mask Effect" = "Effet de masque de souris";
+
+"My Apps" = "Mes applications";
+
+"Name" = "Nom";
+
+"Name (unique)" = "Nom (unique)";
+
+"Neon Effect" = "Effet néon";
+
+/* Follow particle effect */
+"Neon Trail" = "Traînée néon";
+
+"OK" = "OK";
+
+"Off" = "Désactivé";
+
+"On" = "Activé";
+
+"Opacity" = "Opacité";
+
+"Open " = "Ouvrir ";
+
+"Open Settings" = "Ouvrir les paramètres";
+
+"Particle Effect" = "Effet de particules";
+
+"Particle Layers" = "Calques de particules";
+
+"Petals Effect" = "Effet pétales";
+
+"Preset Intensity" = "Intensité du préréglage";
+
+"Pulse Effect" = "Effet pulsation";
+
+"Quit %@" = "Quitter %@";
+
+"Rainbow Effect" = "Effet arc-en-ciel";
+
+/* Follow particle effect */
+"Rainbow Trail" = "Traînée arc-en-ciel";
+
+"Red Range" = "Plage rouge";
+
+"Red Speed" = "Vitesse rouge";
+
+"Redo (⇧⌘Z)" = "Rétablir (⇧⌘Z)";
+
+"Reset" = "Réinitialiser";
+
+"Reset Center" = "Réinitialiser le centre";
+
+/* Particle image */
+"Ring" = "Anneau";
+
+"Ring Effect" = "Effet anneau";
+
+"Ripple Effect" = "Effet ondulation";
+
+"Sample Image" = "Image d'exemple";
+
+"Save (⌘S)" = "Enregistrer (⌘S)";
+
+"Scale" = "Échelle";
+
+"Scale Range" = "Plage d'échelle";
+
+"Scale Speed" = "Vitesse d'échelle";
+
+"Security and Privacy" = "Sécurité et confidentialité";
+
+"Select a layer above to edit parameters." = "Sélectionnez un calque ci-dessus pour modifier les paramètres.";
+
+"Separate RGB Channels" = "Séparer les canaux RVB";
+
+"Settings..." = "Paramètres...";
+
+"Show Drawing Board Tool" = "Afficher l'outil de tableau de dessin";
+
+"Size" = "Taille";
+
+/* Particle image */
+"Smoke" = "Fumée";
+
+/* Follow particle effect */
+"Smoke Trail" = "Traînée de fumée";
+
+/* Follow particle effect */
+"Snow Trail" = "Traînée de neige";
+
+"Social Accounts" = "Réseaux sociaux";
+
+/* Particle image */
+"Soft Circle" = "Cercle doux";
+
+/* Particle image */
+"Spark" = "Étincelle";
+
+"Sparkle Effect" = "Effet scintillement";
+
+/* Follow particle effect */
+"Sparkle Trail" = "Traînée scintillante";
+
+"Spin" = "Rotation";
+
+"Spin Range" = "Plage de rotation";
+
+"Splash Effect" = "Effet éclaboussure";
+
+/* Particle image */
+"Star" = "Étoile";
+
+/* Follow particle effect */
+"Star Trail" = "Traînée d'étoiles";
+
+"Stroke" = "Trait";
+
+"System Preferences" = "Préférences système";
+
+"This app needs to monitor your mouse movement input to track the cursor position even during system menu popups, selection dialogs, or app switching." = "Cette application doit surveiller les mouvements de votre souris pour suivre la position du curseur, même lors des menus contextuels, dialogues de sélection ou changements d'application.";
+
+"Tip (0, 0)" = "Pointe (0, 0)";
+
+"To enable mouse position tracking and display, please grant the app mouse input monitoring permission." = "Pour activer le suivi et l'affichage de la position de la souris, veuillez autoriser l'autorisation de surveillance des entrées souris.";
+
+"Undo (⌘Z)" = "Annuler (⌘Z)";
+
+"Unlock all Features" = "Débloquer toutes les fonctionnalités";
+
+"VIP" = "VIP";
+
+"Velocity" = "Vélocité";
+
+"Velocity Range" = "Plage de vélocité";
+
+"Velocity ×" = "Vélocité ×";
+
+"Version %@ (%@)" = "Version %1$@ (%2$@)";
+
+"X Acceleration" = "Accélération X";
+
+"X(Twitter)" = "X(Twitter)";
+
+"Y Acceleration" = "Accélération Y";
+
+"You can press the %@ key to exit drawing board mode, or %@ to open the context menu." = "Vous pouvez appuyer sur la touche %1$@ pour quitter le mode tableau de dessin, ou %2$@ pour ouvrir le menu contextuel.";
+
+"You need to enable input monitoring permissions." = "Vous devez activer les autorisations de surveillance des entrées.";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"right-click" = "clic droit";

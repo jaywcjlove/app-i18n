@@ -1,0 +1,359 @@
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> 新增 **%4$@** 並檢查";
+
+"%@%@" = "%1$@%2$@";
+
+"%lld" = "%lld";
+
+"%lld/s · life %@s" = "%1$lld/s · 生命週期 %2$@s";
+
+"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+X 在游標尖端的右側，+Y 在上方。自訂模式下圖層偏移疊加在上面。";
+
+"+Y is up in Core Animation. Use negative Y for gravity." = "+Y 在 Core Animation 中是上方。重力請使用負 Y 值。";
+
+"About" = "關於";
+
+"About %@" = "關於 %@";
+
+"Acceleration" = "加速度";
+
+"Add" = "新增";
+
+"Additive" = "加算";
+
+"Additive Blend" = "加算混合";
+
+"Alpha Range" = "Alpha 範圍";
+
+"Alpha Speed" = "Alpha 速度";
+
+"Angle" = "角度";
+
+"Angle Range" = "角度範圍";
+
+"Auto Fade (α ≈ -1/lifetime)" = "自動淡出 (α ≈ -1/生命週期)";
+
+"Below tip" = "尖端下方";
+
+"Birth & Lifetime" = "生成與生命週期";
+
+"Birth Rate" = "生成速率";
+
+"Birth Rate ×" = "生成速率 ×";
+
+"Blue Range" = "藍色範圍";
+
+"Blue Speed" = "藍色速度";
+
+"Blur Radius" = "模糊半徑";
+
+/* Follow particle effect */
+"Bubble Trail" = "氣泡軌跡";
+
+"Bubbles Effect" = "氣泡效果";
+
+"Burst Effect" = "爆發效果";
+
+"CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayer 粒子。移動滑鼠以預覽。";
+
+"Cancel" = "取消";
+
+"Center (relative to cursor)" = "中心（相對於游標）";
+
+"Center X" = "中心 X";
+
+"Center Y" = "中心 Y";
+
+"Circle Effect" = "圓形效果";
+
+"Clear Drawing Board" = "清除繪圖板";
+
+"Color" = "顏色";
+
+"Color Range" = "顏色範圍";
+
+"Color Speed" = "顏色速度";
+
+/* Follow particle effect */
+"Comet Trail" = "彗星軌跡";
+
+"Confetti Effect" = "彩紙效果";
+
+"Contact" = "聯絡我們";
+
+"Copies the current preset into editable CAEmitterCell layers." = "將目前預設複製為可編輯的 CAEmitterCell 圖層。";
+
+"Copy (⌘C)" = "複製 (⌘C)";
+
+"Corner Radius" = "圓角半徑";
+
+/* Follow particle effect */
+"Custom Particles" = "自訂粒子";
+
+"Delete" = "刪除";
+
+"Detailed Parameter Settings" = "詳細參數設定";
+
+"Disable" = "停用";
+
+"Drawing Board" = "繪圖板";
+
+"Drawing tools, colors, and stroke width are configured in the on-screen Drawing Board toolbar powered by ScapDrawingKit." = "繪圖工具、顏色和筆觸寬度在 ScapDrawingKit 驅動的螢幕繪圖板工具列中設定。";
+
+"Duplicate" = "複製";
+
+"E-mail" = "電子郵件";
+
+"Edit as Custom Layers…" = "編輯為自訂圖層…";
+
+"Effect" = "效果";
+
+/* Follow particle effect */
+"Electric Trail" = "電流軌跡";
+
+"Enable" = "啟用";
+
+"Enable Drawing Board" = "啟用繪圖板";
+
+"Enabled" = "已啟用";
+
+"Enlarge Size" = "放大尺寸";
+
+"Exit (Esc)" = "退出 (Esc)";
+
+"Exit Drawing Board" = "退出繪圖板";
+
+"Feedback" = "意見回饋";
+
+"Final position = cursor + Center + Layer Offset." = "最終位置 = 游標 + 中心 + 圖層偏移。";
+
+/* Follow particle effect */
+"Fire Trail" = "火焰軌跡";
+
+"Fireworks Effect" = "煙火效果";
+
+"Flashlight Mode" = "手電筒模式";
+
+"Free" = "免費";
+
+"General" = "一般";
+
+"Grant" = "允許";
+
+"Granted" = "已允許";
+
+"Gravity ×" = "重力 ×";
+
+"Green Range" = "綠色範圍";
+
+"Green Speed" = "綠色速度";
+
+/* Particle image */
+"Hard Circle" = "硬邊圓形";
+
+/* Particle image */
+"Heart" = "愛心";
+
+/* Follow particle effect */
+"Heart Trail" = "愛心軌跡";
+
+"Hearts Effect" = "愛心效果";
+
+"Hide Dock Icon" = "隱藏 Dock 圖示";
+
+"Hide Drawing Board Tool" = "隱藏繪圖板工具";
+
+"Highlighted Edge Width" = "高亮邊緣寬度";
+
+"Highlighted edge" = "高亮邊緣";
+
+"Image" = "圖片";
+
+"Input Monitoring" = "輸入監控";
+
+"Latitude" = "緯度";
+
+"Latitude Range" = "緯度範圍";
+
+"Launch at login" = "登入時啟動";
+
+"Layer Offset (x / y, stacked on Center)" = "圖層偏移（x / y，疊加在中心上）";
+
+"Layer Offset X" = "圖層偏移 X";
+
+"Layer Offset Y" = "圖層偏移 Y";
+
+"Lifetime" = "生命週期";
+
+"Lifetime Range" = "生命週期範圍";
+
+"Lifetime ×" = "生命週期 ×";
+
+"Line Width" = "線條寬度";
+
+/* Follow particle effect */
+"Magic Trail" = "魔法軌跡";
+
+"Main Window" = "主視窗";
+
+"Mouse Click Effect" = "滑鼠點擊效果";
+
+"Mouse Down" = "滑鼠按下";
+
+"Mouse Follow" = "滑鼠跟隨";
+
+"Mouse Follow Effect" = "滑鼠跟隨效果";
+
+"Mouse Mask" = "滑鼠遮罩";
+
+"Mouse Mask Effect" = "滑鼠遮罩效果";
+
+"My Apps" = "我的應用程式";
+
+"Name" = "名稱";
+
+"Name (unique)" = "名稱（唯一）";
+
+"Neon Effect" = "霓虹效果";
+
+/* Follow particle effect */
+"Neon Trail" = "霓虹軌跡";
+
+"OK" = "確定";
+
+"Off" = "關閉";
+
+"On" = "開啟";
+
+"Opacity" = "不透明度";
+
+"Open " = "開啟 ";
+
+"Open Settings" = "開啟設定";
+
+"Particle Effect" = "粒子效果";
+
+"Particle Layers" = "粒子圖層";
+
+"Petals Effect" = "花瓣效果";
+
+"Preset Intensity" = "預設強度";
+
+"Pulse Effect" = "脈衝效果";
+
+"Quit %@" = "結束 %@";
+
+"Rainbow Effect" = "彩虹效果";
+
+/* Follow particle effect */
+"Rainbow Trail" = "彩虹軌跡";
+
+"Red Range" = "紅色範圍";
+
+"Red Speed" = "紅色速度";
+
+"Redo (⇧⌘Z)" = "重做 (⇧⌘Z)";
+
+"Reset" = "重設";
+
+"Reset Center" = "重設中心";
+
+/* Particle image */
+"Ring" = "圓環";
+
+"Ring Effect" = "圓環效果";
+
+"Ripple Effect" = "漣漪效果";
+
+"Sample Image" = "範例圖片";
+
+"Save (⌘S)" = "儲存 (⌘S)";
+
+"Scale" = "縮放";
+
+"Scale Range" = "縮放範圍";
+
+"Scale Speed" = "縮放速度";
+
+"Security and Privacy" = "安全性與隱私權";
+
+"Select a layer above to edit parameters." = "選擇上方圖層以編輯參數。";
+
+"Separate RGB Channels" = "分離 RGB 通道";
+
+"Settings..." = "設定...";
+
+"Show Drawing Board Tool" = "顯示繪圖板工具";
+
+"Size" = "尺寸";
+
+/* Particle image */
+"Smoke" = "煙霧";
+
+/* Follow particle effect */
+"Smoke Trail" = "煙霧軌跡";
+
+/* Follow particle effect */
+"Snow Trail" = "雪花軌跡";
+
+"Social Accounts" = "社群帳號";
+
+/* Particle image */
+"Soft Circle" = "柔邊圓形";
+
+/* Particle image */
+"Spark" = "火花";
+
+"Sparkle Effect" = "閃爍效果";
+
+/* Follow particle effect */
+"Sparkle Trail" = "閃爍軌跡";
+
+"Spin" = "旋轉";
+
+"Spin Range" = "旋轉範圍";
+
+"Splash Effect" = "水花效果";
+
+/* Particle image */
+"Star" = "星形";
+
+/* Follow particle effect */
+"Star Trail" = "星星軌跡";
+
+"Stroke" = "筆觸";
+
+"System Preferences" = "系統偏好設定";
+
+"This app needs to monitor your mouse movement input to track the cursor position even during system menu popups, selection dialogs, or app switching." = "此應用程式需要監控您的滑鼠移動輸入，以在系統選單彈出、選擇對話框或應用程式切換期間追蹤游標位置。";
+
+"Tip (0, 0)" = "尖端 (0, 0)";
+
+"To enable mouse position tracking and display, please grant the app mouse input monitoring permission." = "若要啟用滑鼠位置追蹤與顯示，請授予應用程式滑鼠輸入監控權限。";
+
+"Undo (⌘Z)" = "還原 (⌘Z)";
+
+"Unlock all Features" = "解鎖所有功能";
+
+"VIP" = "VIP";
+
+"Velocity" = "速度";
+
+"Velocity Range" = "速度範圍";
+
+"Velocity ×" = "速度 ×";
+
+"Version %@ (%@)" = "版本 %1$@ (%2$@)";
+
+"X Acceleration" = "X 加速度";
+
+"X(Twitter)" = "X(Twitter)";
+
+"Y Acceleration" = "Y 加速度";
+
+"You can press the %@ key to exit drawing board mode, or %@ to open the context menu." = "您可以按下 %1$@ 鍵退出繪圖板模式，或按 %2$@ 開啟右鍵選單。";
+
+"You need to enable input monitoring permissions." = "您需要啟用輸入監控權限。";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [電子郵件](emailurl) • [Github](githuburl)";
+
+"right-click" = "滑鼠右鍵";
