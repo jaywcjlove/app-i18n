@@ -51,6 +51,9 @@
 
 "Bubbles Effect" = "泡エフェクト";
 
+/* Particle image source */
+"Built-in Sample" = "内蔵サンプル";
+
 "Burst Effect" = "破裂エフェクト";
 
 "CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayerパーティクル。マウスを動かしてプレビュー。";
@@ -118,6 +121,8 @@
 
 "Enlarge Size" = "サイズを拡大";
 
+"Enter any SF Symbol name (e.g. sparkles, heart.fill). Particle color tints the symbol." = "SFシンボル名を入力してください（例: sparkles、heart.fill）。パーティクルの色がシンボルに着色されます。";
+
 "Exit (Esc)" = "終了 (Esc)";
 
 "Exit Drawing Board" = "描画ボードを終了";
@@ -167,6 +172,8 @@
 "Highlighted edge" = "ハイライトエッジ";
 
 "Image" = "画像";
+
+"Image Source" = "画像ソース";
 
 "Input Monitoring" = "入力監視";
 
@@ -263,6 +270,11 @@
 "Ring Effect" = "リングエフェクト";
 
 "Ripple Effect" = "波紋エフェクト";
+
+/* Particle image source */
+"SF Symbol" = "SFシンボル";
+
+"SF Symbol name" = "SFシンボル名";
 
 "Sample Image" = "サンプル画像";
 

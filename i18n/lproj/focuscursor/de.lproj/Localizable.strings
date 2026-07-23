@@ -51,6 +51,9 @@
 
 "Bubbles Effect" = "Blaseneffekt";
 
+/* Particle image source */
+"Built-in Sample" = "Integrierte Beispiele";
+
 "Burst Effect" = "Explosionseffekt";
 
 "CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayer-Partikel. Maus bewegen für Vorschau.";
@@ -118,6 +121,8 @@
 
 "Enlarge Size" = "Größe vergrößern";
 
+"Enter any SF Symbol name (e.g. sparkles, heart.fill). Particle color tints the symbol." = "Gib einen SF Symbol-Namen ein (z.B. sparkles, heart.fill). Die Partikelfarbe färbt das Symbol.";
+
 "Exit (Esc)" = "Beenden (Esc)";
 
 "Exit Drawing Board" = "Zeichenbrett beenden";
@@ -167,6 +172,8 @@
 "Highlighted edge" = "Hervorgehobene Kante";
 
 "Image" = "Bild";
+
+"Image Source" = "Bildquelle";
 
 "Input Monitoring" = "Eingabeüberwachung";
 
@@ -263,6 +270,11 @@
 "Ring Effect" = "Ring-Effekt";
 
 "Ripple Effect" = "Welleneffekt";
+
+/* Particle image source */
+"SF Symbol" = "SF Symbol";
+
+"SF Symbol name" = "SF Symbol-Name";
 
 "Sample Image" = "Beispielbild";
 

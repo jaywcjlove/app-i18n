@@ -51,6 +51,9 @@
 
 "Bubbles Effect" = "气泡效果";
 
+/* Particle image source */
+"Built-in Sample" = "内置示例";
+
 "Burst Effect" = "爆裂效果";
 
 "CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayer 粒子。移动鼠标预览。";
@@ -118,6 +121,8 @@
 
 "Enlarge Size" = "放大尺寸";
 
+"Enter any SF Symbol name (e.g. sparkles, heart.fill). Particle color tints the symbol." = "输入任意 SF Symbol 名称（如 sparkles、heart.fill）。粒子颜色会对符号进行着色。";
+
 "Exit (Esc)" = "退出 (Esc)";
 
 "Exit Drawing Board" = "退出绘画板";
@@ -167,6 +172,8 @@
 "Highlighted edge" = "高亮边缘";
 
 "Image" = "图像";
+
+"Image Source" = "图像来源";
 
 "Input Monitoring" = "输入监控";
 
@@ -263,6 +270,11 @@
 "Ring Effect" = "环形效果";
 
 "Ripple Effect" = "波纹效果";
+
+/* Particle image source */
+"SF Symbol" = "SF Symbol";
+
+"SF Symbol name" = "SF Symbol 名称";
 
 "Sample Image" = "示例图像";
 

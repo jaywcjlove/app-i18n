@@ -51,6 +51,9 @@
 
 "Bubbles Effect" = "거품 효과";
 
+/* Particle image source */
+"Built-in Sample" = "내장 샘플";
+
 "Burst Effect" = "폭발 효과";
 
 "CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayer 파티클. 마우스를 움직여 미리 보세요.";
@@ -118,6 +121,8 @@
 
 "Enlarge Size" = "크기 확대";
 
+"Enter any SF Symbol name (e.g. sparkles, heart.fill). Particle color tints the symbol." = "SF 심볼 이름을 입력하세요 (예: sparkles, heart.fill). 파티클 색상이 심볼을 채색합니다.";
+
 "Exit (Esc)" = "종료 (Esc)";
 
 "Exit Drawing Board" = "그리기 보드 종료";
@@ -167,6 +172,8 @@
 "Highlighted edge" = "강조 엣지";
 
 "Image" = "이미지";
+
+"Image Source" = "이미지 소스";
 
 "Input Monitoring" = "입력 모니터링";
 
@@ -263,6 +270,11 @@
 "Ring Effect" = "링 효과";
 
 "Ripple Effect" = "파문 효과";
+
+/* Particle image source */
+"SF Symbol" = "SF 심볼";
+
+"SF Symbol name" = "SF 심볼 이름";
 
 "Sample Image" = "샘플 이미지";
 

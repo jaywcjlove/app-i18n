@@ -434,6 +434,9 @@ swift run appi18n ghpage
 swift run appi18n ghpage -b pages -s i18n/preview-site
 # 清理空/过时 `.lproj` 文件：
 swift run appi18n clean
+
+swift run appi18n to-xcstrings && \
+swift run appi18n preview
 ```
 
 ### 发布命令

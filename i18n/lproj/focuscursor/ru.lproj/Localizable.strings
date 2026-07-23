@@ -51,6 +51,9 @@
 
 "Bubbles Effect" = "Эффект пузырей";
 
+/* Particle image source */
+"Built-in Sample" = "Встроенный образец";
+
 "Burst Effect" = "Эффект вспышки";
 
 "CAEmitterLayer particles. Move the mouse to preview." = "Частицы CAEmitterLayer. Переместите мышь для предпросмотра.";
@@ -118,6 +121,8 @@
 
 "Enlarge Size" = "Увеличить размер";
 
+"Enter any SF Symbol name (e.g. sparkles, heart.fill). Particle color tints the symbol." = "Введите имя SF Symbol (например, sparkles, heart.fill). Цвет частиц окрашивает символ.";
+
 "Exit (Esc)" = "Выход (Esc)";
 
 "Exit Drawing Board" = "Выйти из доски";
@@ -167,6 +172,8 @@
 "Highlighted edge" = "Выделенный край";
 
 "Image" = "Изображение";
+
+"Image Source" = "Источник изображения";
 
 "Input Monitoring" = "Мониторинг ввода";
 
@@ -263,6 +270,11 @@
 "Ring Effect" = "Эффект кольца";
 
 "Ripple Effect" = "Эффект ряби";
+
+/* Particle image source */
+"SF Symbol" = "SF Symbol";
+
+"SF Symbol name" = "Имя SF Symbol";
 
 "Sample Image" = "Пример изображения";
 
