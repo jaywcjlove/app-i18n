@@ -6,9 +6,11 @@
 
 "%lld/s · life %@s" = "%1$lld/с · время жизни %2$@с";
 
-"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+X справа от кончика курсора, +Y сверху. Смещение слоя накладывается поверх в пользовательском режиме.";
+"+X is right of the cursor tip, +Y is above. Stored per follow effect." = "+X справа от кончика курсора, +Y сверху. Сохраняется для каждого эффекта слежения.";
 
 "+Y is up in Core Animation. Use negative Y for gravity." = "+Y направлен вверх в Core Animation. Используйте отрицательный Y для гравитации.";
+
+"0 = square, 0.5 = full circle. Settings apply only to Circle Shape." = "0 = квадрат, 0,5 = полный круг. Настройки применяются только к форме круга.";
 
 "About" = "О программе";
 
@@ -56,7 +58,7 @@
 
 "Burst Effect" = "Эффект вспышки";
 
-"CAEmitterLayer particles. Move the mouse to preview." = "Частицы CAEmitterLayer. Переместите мышь для предпросмотра.";
+"CAEmitterLayer particles. Each effect keeps its own size, color, and intensity." = "Частицы CAEmitterLayer. Каждый эффект сохраняет свой размер, цвет и интенсивность.";
 
 "Cancel" = "Отмена";
 
@@ -67,6 +69,11 @@
 "Center Y" = "Центр Y";
 
 "Circle Effect" = "Эффект круга";
+
+/* v2.0 style cursor follow */
+"Circle Shape" = "Форма круга";
+
+"Classic shape follow (FocusCursor 2.0). Each effect keeps its own settings." = "Классическое следование формы (FocusCursor 2.0). Каждый эффект сохраняет свои настройки.";
 
 "Clear Drawing Board" = "Очистить доску";
 
@@ -83,7 +90,7 @@
 
 "Contact" = "Контакты";
 
-"Copies the current preset into editable CAEmitterCell layers." = "Копирует текущий пресет в редактируемые слои CAEmitterCell.";
+"Copies this preset into Custom (independent of the original preset)." = "Копирует этот пресет в Пользовательский (независимо от исходного пресета).";
 
 "Copy (⌘C)" = "Копировать (⌘C)";
 
@@ -91,6 +98,10 @@
 
 /* Follow particle effect */
 "Custom Particles" = "Пользовательские частицы";
+
+"Dash" = "Штрих";
+
+"Dashed Segment" = "Штриховой сегмент";
 
 "Delete" = "Удалить";
 
@@ -137,6 +148,8 @@
 "Fireworks Effect" = "Эффект фейерверка";
 
 "Flashlight Mode" = "Режим фонарика";
+
+"Follow Effect" = "Эффект слежения";
 
 "Free" = "Бесплатно";
 
@@ -237,8 +250,6 @@
 
 "Open Settings" = "Открыть настройки";
 
-"Particle Effect" = "Эффект частиц";
-
 "Particle Layers" = "Слои частиц";
 
 "Petals Effect" = "Эффект лепестков";
@@ -293,6 +304,8 @@
 "Separate RGB Channels" = "Раздельные каналы RGB";
 
 "Settings..." = "Настройки...";
+
+"Shape" = "Форма";
 
 "Show Drawing Board Tool" = "Показать инструмент доски";
 

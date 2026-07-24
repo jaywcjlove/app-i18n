@@ -6,9 +6,11 @@
 
 "%lld/s · life %@s" = "%1$lld/s · durée %2$@s";
 
-"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+X est à droite du curseur, +Y est au-dessus. Le décalage de calque s'empile par-dessus en mode personnalisé.";
+"+X is right of the cursor tip, +Y is above. Stored per follow effect." = "+X est à droite du curseur, +Y est au-dessus. Stocké par effet de suivi.";
 
 "+Y is up in Core Animation. Use negative Y for gravity." = "+Y est en haut dans Core Animation. Utilisez Y négatif pour la gravité.";
+
+"0 = square, 0.5 = full circle. Settings apply only to Circle Shape." = "0 = carré, 0,5 = cercle complet. Paramètres applicables uniquement à la forme cercle.";
 
 "About" = "À propos";
 
@@ -56,7 +58,7 @@
 
 "Burst Effect" = "Effet d'éclatement";
 
-"CAEmitterLayer particles. Move the mouse to preview." = "Particules CAEmitterLayer. Déplacez la souris pour prévisualiser.";
+"CAEmitterLayer particles. Each effect keeps its own size, color, and intensity." = "Particules CAEmitterLayer. Chaque effet conserve sa propre taille, couleur et intensité.";
 
 "Cancel" = "Annuler";
 
@@ -67,6 +69,11 @@
 "Center Y" = "Centre Y";
 
 "Circle Effect" = "Effet cercle";
+
+/* v2.0 style cursor follow */
+"Circle Shape" = "Forme cercle";
+
+"Classic shape follow (FocusCursor 2.0). Each effect keeps its own settings." = "Suivi de forme classique (FocusCursor 2.0). Chaque effet conserve ses propres paramètres.";
 
 "Clear Drawing Board" = "Effacer le tableau de dessin";
 
@@ -83,7 +90,7 @@
 
 "Contact" = "Contact";
 
-"Copies the current preset into editable CAEmitterCell layers." = "Copie le préréglage actuel en calques CAEmitterCell modifiables.";
+"Copies this preset into Custom (independent of the original preset)." = "Copie ce préréglage dans Personnalisé (indépendant du préréglage d'origine).";
 
 "Copy (⌘C)" = "Copier (⌘C)";
 
@@ -91,6 +98,10 @@
 
 /* Follow particle effect */
 "Custom Particles" = "Particules personnalisées";
+
+"Dash" = "Tiret";
+
+"Dashed Segment" = "Segment en tirets";
 
 "Delete" = "Supprimer";
 
@@ -137,6 +148,8 @@
 "Fireworks Effect" = "Effet feux d'artifice";
 
 "Flashlight Mode" = "Mode lampe torche";
+
+"Follow Effect" = "Effet de suivi";
 
 "Free" = "Gratuit";
 
@@ -237,8 +250,6 @@
 
 "Open Settings" = "Ouvrir les paramètres";
 
-"Particle Effect" = "Effet de particules";
-
 "Particle Layers" = "Calques de particules";
 
 "Petals Effect" = "Effet pétales";
@@ -293,6 +304,8 @@
 "Separate RGB Channels" = "Séparer les canaux RVB";
 
 "Settings..." = "Paramètres...";
+
+"Shape" = "Forme";
 
 "Show Drawing Board Tool" = "Afficher l'outil de tableau de dessin";
 

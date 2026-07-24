@@ -6,9 +6,11 @@
 
 "%lld/s · life %@s" = "%1$lld/s · Leben %2$@s";
 
-"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+X ist rechts von der Cursorspitze, +Y ist oben. Ebenenversatz wird im benutzerdefinierten Modus obenauf gestapelt.";
+"+X is right of the cursor tip, +Y is above. Stored per follow effect." = "+X ist rechts von der Cursorspitze, +Y ist oberhalb. Wird pro Folgeeffekt gespeichert.";
 
 "+Y is up in Core Animation. Use negative Y for gravity." = "+Y ist oben in Core Animation. Verwende negatives Y für Schwerkraft.";
+
+"0 = square, 0.5 = full circle. Settings apply only to Circle Shape." = "0 = Quadrat, 0,5 = voller Kreis. Einstellungen gelten nur für Kreisform.";
 
 "About" = "Über";
 
@@ -56,7 +58,7 @@
 
 "Burst Effect" = "Explosionseffekt";
 
-"CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayer-Partikel. Maus bewegen für Vorschau.";
+"CAEmitterLayer particles. Each effect keeps its own size, color, and intensity." = "CAEmitterLayer-Partikel. Jeder Effekt behält eigene Größe, Farbe und Intensität.";
 
 "Cancel" = "Abbrechen";
 
@@ -67,6 +69,11 @@
 "Center Y" = "Zentrum Y";
 
 "Circle Effect" = "Kreiseffekt";
+
+/* v2.0 style cursor follow */
+"Circle Shape" = "Kreisform";
+
+"Classic shape follow (FocusCursor 2.0). Each effect keeps its own settings." = "Klassische Formverfolgung (FocusCursor 2.0). Jeder Effekt behält eigene Einstellungen.";
 
 "Clear Drawing Board" = "Zeichenbrett löschen";
 
@@ -83,7 +90,7 @@
 
 "Contact" = "Kontakt";
 
-"Copies the current preset into editable CAEmitterCell layers." = "Kopiert die Voreinstellung in bearbeitbare CAEmitterCell-Ebenen.";
+"Copies this preset into Custom (independent of the original preset)." = "Kopiert dieses Preset in Benutzerdefiniert (unabhängig vom Original-Preset).";
 
 "Copy (⌘C)" = "Kopieren (⌘C)";
 
@@ -91,6 +98,10 @@
 
 /* Follow particle effect */
 "Custom Particles" = "Benutzerdefinierte Partikel";
+
+"Dash" = "Strich";
+
+"Dashed Segment" = "Gestricheltes Segment";
 
 "Delete" = "Löschen";
 
@@ -137,6 +148,8 @@
 "Fireworks Effect" = "Feuerwerk-Effekt";
 
 "Flashlight Mode" = "Taschenlampen-Modus";
+
+"Follow Effect" = "Folgeeffekt";
 
 "Free" = "Kostenlos";
 
@@ -237,8 +250,6 @@
 
 "Open Settings" = "Einstellungen öffnen";
 
-"Particle Effect" = "Partikeleffekt";
-
 "Particle Layers" = "Partikelebenen";
 
 "Petals Effect" = "Blütenblätter-Effekt";
@@ -293,6 +304,8 @@
 "Separate RGB Channels" = "RGB-Kanäle trennen";
 
 "Settings..." = "Einstellungen…";
+
+"Shape" = "Form";
 
 "Show Drawing Board Tool" = "Zeichenbrett-Werkzeug anzeigen";
 

@@ -331,54 +331,54 @@
         }
       }
     },
-    "+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." : {
+    "+X is right of the cursor tip, +Y is above. Stored per follow effect." : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "+X ist rechts von der Cursorspitze, +Y ist oben. Ebenenversatz wird im benutzerdefinierten Modus obenauf gestapelt."
+            "value" : "+X ist rechts von der Cursorspitze, +Y ist oberhalb. Wird pro Folgeeffekt gespeichert."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "+X est à droite du curseur, +Y est au-dessus. Le décalage de calque s'empile par-dessus en mode personnalisé."
+            "value" : "+X est à droite du curseur, +Y est au-dessus. Stocké par effet de suivi."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "+X è a destra del cursore, +Y è in alto. Lo scostamento del livello si sovrappone in modalità personalizzata."
+            "value" : "+X è a destra della punta del cursore, +Y è sopra. Salvato per effetto di inseguimento."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "+Xはカーソル先端の右側、+Yは上方向です。カスタムモードではレイヤーオフセットが上に重なります。"
+            "value" : "+Xはカーソル先端の右、+Yは上です。フォロー効果ごとに保存されます。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "+X는 커서 끝의 오른쪽, +Y는 위쪽입니다. 사용자 정의 모드에서는 레이어 오프셋이 위에 쌓입니다."
+            "value" : "+X는 커서 끝의 오른쪽, +Y는 위쪽입니다. 팔로우 효과별로 저장됩니다."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "+X справа от кончика курсора, +Y сверху. Смещение слоя накладывается поверх в пользовательском режиме."
+            "value" : "+X справа от кончика курсора, +Y сверху. Сохраняется для каждого эффекта слежения."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "+X 在光标尖端的右侧，+Y 在上方。自定义模式下图层偏移叠加在上面。"
+            "value" : "+X 在光标尖端右侧，+Y 在上方。按跟随效果独立存储。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "+X 在游標尖端的右側，+Y 在上方。自訂模式下圖層偏移疊加在上面。"
+            "value" : "+X 在游標尖端右側，+Y 在上方。按跟隨效果獨立儲存。"
           }
         }
       }
@@ -431,6 +431,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "+Y 在 Core Animation 中是上方。重力請使用負 Y 值。"
+          }
+        }
+      }
+    },
+    "0 = square, 0.5 = full circle. Settings apply only to Circle Shape." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0 = Quadrat, 0,5 = voller Kreis. Einstellungen gelten nur für Kreisform."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0 = carré, 0,5 = cercle complet. Paramètres applicables uniquement à la forme cercle."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0 = quadrato, 0,5 = cerchio completo. Impostazioni valide solo per Forma Cerchio."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0 = 正方形、0.5 = 正円。設定は円形のみに適用されます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0 = 사각형, 0.5 = 완전한 원. 설정은 원형에만 적용됩니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0 = квадрат, 0,5 = полный круг. Настройки применяются только к форме круга."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0 = 方形，0.5 = 正圆。设置仅适用于圆形。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0 = 方形，0.5 = 正圓。設定僅適用於圓形。"
           }
         }
       }
@@ -1581,54 +1633,54 @@
         }
       }
     },
-    "CAEmitterLayer particles. Move the mouse to preview." : {
+    "CAEmitterLayer particles. Each effect keeps its own size, color, and intensity." : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "CAEmitterLayer-Partikel. Maus bewegen für Vorschau."
+            "value" : "CAEmitterLayer-Partikel. Jeder Effekt behält eigene Größe, Farbe und Intensität."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Particules CAEmitterLayer. Déplacez la souris pour prévisualiser."
+            "value" : "Particules CAEmitterLayer. Chaque effet conserve sa propre taille, couleur et intensité."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Particelle CAEmitterLayer. Muovi il mouse per l'anteprima."
+            "value" : "Particelle CAEmitterLayer. Ogni effetto mantiene proprie dimensioni, colore e intensità."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "CAEmitterLayerパーティクル。マウスを動かしてプレビュー。"
+            "value" : "CAEmitterLayerパーティクル。各効果は独自のサイズ、色、強度を保持します。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "CAEmitterLayer 파티클. 마우스를 움직여 미리 보세요."
+            "value" : "CAEmitterLayer 파티클. 각 효과는 고유한 크기, 색상 및 강도를 유지합니다."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Частицы CAEmitterLayer. Переместите мышь для предпросмотра."
+            "value" : "Частицы CAEmitterLayer. Каждый эффект сохраняет свой размер, цвет и интенсивность."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "CAEmitterLayer 粒子。移动鼠标预览。"
+            "value" : "CAEmitterLayer 粒子。每个效果保留各自的大小、颜色和强度。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "CAEmitterLayer 粒子。移動滑鼠以預覽。"
+            "value" : "CAEmitterLayer 粒子。每個效果保留各自的大小、顏色和強度。"
           }
         }
       }
@@ -1889,6 +1941,111 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "圓形效果"
+          }
+        }
+      }
+    },
+    "Circle Shape" : {
+      "comment" : "v2.0 style cursor follow",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kreisform"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forme cercle"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forma cerchio"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "円形"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "원형"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Форма круга"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圆形"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圓形"
+          }
+        }
+      }
+    },
+    "Classic shape follow (FocusCursor 2.0). Each effect keeps its own settings." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klassische Formverfolgung (FocusCursor 2.0). Jeder Effekt behält eigene Einstellungen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suivi de forme classique (FocusCursor 2.0). Chaque effet conserve ses propres paramètres."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inseguimento forma classica (FocusCursor 2.0). Ogni effetto mantiene le proprie impostazioni."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クラシック形状追従（FocusCursor 2.0）。各効果は独自の設定を保持します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "클래식 모양 따라가기 (FocusCursor 2.0). 각 효과는 고유한 설정을 유지합니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Классическое следование формы (FocusCursor 2.0). Каждый эффект сохраняет свои настройки."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "经典形状跟随（FocusCursor 2.0）。每个效果保留各自的设置。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "經典形狀跟隨（FocusCursor 2.0）。每個效果保留各自的設定。"
           }
         }
       }
@@ -2258,54 +2415,54 @@
         }
       }
     },
-    "Copies the current preset into editable CAEmitterCell layers." : {
+    "Copies this preset into Custom (independent of the original preset)." : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kopiert die Voreinstellung in bearbeitbare CAEmitterCell-Ebenen."
+            "value" : "Kopiert dieses Preset in Benutzerdefiniert (unabhängig vom Original-Preset)."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copie le préréglage actuel en calques CAEmitterCell modifiables."
+            "value" : "Copie ce préréglage dans Personnalisé (indépendant du préréglage d'origine)."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copia il preset corrente in livelli CAEmitterCell modificabili."
+            "value" : "Copia questo preset in Personalizzato (indipendente dal preset originale)."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "現在のプリセットを編集可能なCAEmitterCellレイヤーにコピーします。"
+            "value" : "このプリセットをカスタムにコピーします（元のプリセットから独立）。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "현재 프리셋을 편집 가능한 CAEmitterCell 레이어로 복사합니다."
+            "value" : "이 프리셋을 사용자 정의로 복사합니다 (원본 프리셋과 독립적)."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Копирует текущий пресет в редактируемые слои CAEmitterCell."
+            "value" : "Копирует этот пресет в Пользовательский (независимо от исходного пресета)."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将当前预设复制为可编辑的 CAEmitterCell 图层。"
+            "value" : "将此预设复制到自定义中（独立于原始预设）。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "將目前預設複製為可編輯的 CAEmitterCell 圖層。"
+            "value" : "將此預設複製到自訂中（獨立於原始預設）。"
           }
         }
       }
@@ -2463,6 +2620,110 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自訂粒子"
+          }
+        }
+      }
+    },
+    "Dash" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strich"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiret"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trattino"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "破線"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대시"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Штрих"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "虚线"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "虛線"
+          }
+        }
+      }
+    },
+    "Dashed Segment" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestricheltes Segment"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segment en tirets"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segmento tratteggiato"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "破線セグメント"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "점선 세그먼트"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Штриховой сегмент"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "虚线线段"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "虛線區段"
           }
         }
       }
@@ -3609,6 +3870,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "手電筒模式"
+          }
+        }
+      }
+    },
+    "Follow Effect" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folgeeffekt"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Effet de suivi"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Effetto inseguimento"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォロー効果"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "팔로우 효과"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Эффект слежения"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跟随效果"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跟隨效果"
           }
         }
       }
@@ -6062,58 +6375,6 @@
         }
       }
     },
-    "Particle Effect" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Partikeleffekt"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Effet de particules"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Effetto particelle"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "パーティクルエフェクト"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "파티클 효과"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Эффект частиц"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "粒子效果"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "粒子效果"
-          }
-        }
-      }
-    },
     "Particle Layers" : {
       "localizations" : {
         "de" : {
@@ -7517,6 +7778,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "SF Symbol 名稱"
+          }
+        }
+      }
+    },
+    "Shape" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Form"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forme"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forma"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "形状"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모양"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Форма"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "形状"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "形狀"
           }
         }
       }

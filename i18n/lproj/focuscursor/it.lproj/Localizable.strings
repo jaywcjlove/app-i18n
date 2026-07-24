@@ -6,9 +6,11 @@
 
 "%lld/s · life %@s" = "%1$lld/s · durata %2$@s";
 
-"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+X è a destra del cursore, +Y è in alto. Lo scostamento del livello si sovrappone in modalità personalizzata.";
+"+X is right of the cursor tip, +Y is above. Stored per follow effect." = "+X è a destra della punta del cursore, +Y è sopra. Salvato per effetto di inseguimento.";
 
 "+Y is up in Core Animation. Use negative Y for gravity." = "+Y è in alto in Core Animation. Usa Y negativo per la gravità.";
+
+"0 = square, 0.5 = full circle. Settings apply only to Circle Shape." = "0 = quadrato, 0,5 = cerchio completo. Impostazioni valide solo per Forma Cerchio.";
 
 "About" = "Informazioni";
 
@@ -56,7 +58,7 @@
 
 "Burst Effect" = "Effetto esplosione";
 
-"CAEmitterLayer particles. Move the mouse to preview." = "Particelle CAEmitterLayer. Muovi il mouse per l'anteprima.";
+"CAEmitterLayer particles. Each effect keeps its own size, color, and intensity." = "Particelle CAEmitterLayer. Ogni effetto mantiene proprie dimensioni, colore e intensità.";
 
 "Cancel" = "Annulla";
 
@@ -67,6 +69,11 @@
 "Center Y" = "Centro Y";
 
 "Circle Effect" = "Effetto cerchio";
+
+/* v2.0 style cursor follow */
+"Circle Shape" = "Forma cerchio";
+
+"Classic shape follow (FocusCursor 2.0). Each effect keeps its own settings." = "Inseguimento forma classica (FocusCursor 2.0). Ogni effetto mantiene le proprie impostazioni.";
 
 "Clear Drawing Board" = "Cancella tavolo da disegno";
 
@@ -83,7 +90,7 @@
 
 "Contact" = "Contatto";
 
-"Copies the current preset into editable CAEmitterCell layers." = "Copia il preset corrente in livelli CAEmitterCell modificabili.";
+"Copies this preset into Custom (independent of the original preset)." = "Copia questo preset in Personalizzato (indipendente dal preset originale).";
 
 "Copy (⌘C)" = "Copia (⌘C)";
 
@@ -91,6 +98,10 @@
 
 /* Follow particle effect */
 "Custom Particles" = "Particelle personalizzate";
+
+"Dash" = "Trattino";
+
+"Dashed Segment" = "Segmento tratteggiato";
 
 "Delete" = "Elimina";
 
@@ -137,6 +148,8 @@
 "Fireworks Effect" = "Effetto fuochi d'artificio";
 
 "Flashlight Mode" = "Modalità torcia";
+
+"Follow Effect" = "Effetto inseguimento";
 
 "Free" = "Gratuito";
 
@@ -237,8 +250,6 @@
 
 "Open Settings" = "Apri impostazioni";
 
-"Particle Effect" = "Effetto particelle";
-
 "Particle Layers" = "Livelli particelle";
 
 "Petals Effect" = "Effetto petali";
@@ -293,6 +304,8 @@
 "Separate RGB Channels" = "Separa canali RGB";
 
 "Settings..." = "Impostazioni...";
+
+"Shape" = "Forma";
 
 "Show Drawing Board Tool" = "Mostra strumento tavolo da disegno";
 

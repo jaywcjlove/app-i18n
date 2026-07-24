@@ -6,9 +6,11 @@
 
 "%lld/s · life %@s" = "%1$lld/s · 寿命 %2$@s";
 
-"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+Xはカーソル先端の右側、+Yは上方向です。カスタムモードではレイヤーオフセットが上に重なります。";
+"+X is right of the cursor tip, +Y is above. Stored per follow effect." = "+Xはカーソル先端の右、+Yは上です。フォロー効果ごとに保存されます。";
 
 "+Y is up in Core Animation. Use negative Y for gravity." = "+YはCore Animationで上方向です。重力には負のYを使用します。";
+
+"0 = square, 0.5 = full circle. Settings apply only to Circle Shape." = "0 = 正方形、0.5 = 正円。設定は円形のみに適用されます。";
 
 "About" = "について";
 
@@ -56,7 +58,7 @@
 
 "Burst Effect" = "破裂エフェクト";
 
-"CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayerパーティクル。マウスを動かしてプレビュー。";
+"CAEmitterLayer particles. Each effect keeps its own size, color, and intensity." = "CAEmitterLayerパーティクル。各効果は独自のサイズ、色、強度を保持します。";
 
 "Cancel" = "キャンセル";
 
@@ -67,6 +69,11 @@
 "Center Y" = "中心 Y";
 
 "Circle Effect" = "円エフェクト";
+
+/* v2.0 style cursor follow */
+"Circle Shape" = "円形";
+
+"Classic shape follow (FocusCursor 2.0). Each effect keeps its own settings." = "クラシック形状追従（FocusCursor 2.0）。各効果は独自の設定を保持します。";
 
 "Clear Drawing Board" = "描画ボードをクリア";
 
@@ -83,7 +90,7 @@
 
 "Contact" = "お問い合わせ";
 
-"Copies the current preset into editable CAEmitterCell layers." = "現在のプリセットを編集可能なCAEmitterCellレイヤーにコピーします。";
+"Copies this preset into Custom (independent of the original preset)." = "このプリセットをカスタムにコピーします（元のプリセットから独立）。";
 
 "Copy (⌘C)" = "コピー (⌘C)";
 
@@ -91,6 +98,10 @@
 
 /* Follow particle effect */
 "Custom Particles" = "カスタムパーティクル";
+
+"Dash" = "破線";
+
+"Dashed Segment" = "破線セグメント";
 
 "Delete" = "削除";
 
@@ -137,6 +148,8 @@
 "Fireworks Effect" = "花火エフェクト";
 
 "Flashlight Mode" = "フラッシュライトモード";
+
+"Follow Effect" = "フォロー効果";
 
 "Free" = "無料";
 
@@ -237,8 +250,6 @@
 
 "Open Settings" = "設定を開く";
 
-"Particle Effect" = "パーティクルエフェクト";
-
 "Particle Layers" = "パーティクルレイヤー";
 
 "Petals Effect" = "花びらエフェクト";
@@ -293,6 +304,8 @@
 "Separate RGB Channels" = "RGBチャンネルを分離";
 
 "Settings..." = "設定...";
+
+"Shape" = "形状";
 
 "Show Drawing Board Tool" = "描画ボードツールを表示";
 

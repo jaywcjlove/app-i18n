@@ -6,9 +6,11 @@
 
 "%lld/s · life %@s" = "%1$lld/s · 寿命 %2$@s";
 
-"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+X 在光标尖端的右侧，+Y 在上方。自定义模式下图层偏移叠加在上面。";
+"+X is right of the cursor tip, +Y is above. Stored per follow effect." = "+X 在光标尖端右侧，+Y 在上方。按跟随效果独立存储。";
 
 "+Y is up in Core Animation. Use negative Y for gravity." = "+Y 在 Core Animation 中为上方。使用负 Y 值模拟重力。";
+
+"0 = square, 0.5 = full circle. Settings apply only to Circle Shape." = "0 = 方形，0.5 = 正圆。设置仅适用于圆形。";
 
 "About" = "关于";
 
@@ -56,7 +58,7 @@
 
 "Burst Effect" = "爆裂效果";
 
-"CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayer 粒子。移动鼠标预览。";
+"CAEmitterLayer particles. Each effect keeps its own size, color, and intensity." = "CAEmitterLayer 粒子。每个效果保留各自的大小、颜色和强度。";
 
 "Cancel" = "取消";
 
@@ -67,6 +69,11 @@
 "Center Y" = "中心 Y";
 
 "Circle Effect" = "圆形效果";
+
+/* v2.0 style cursor follow */
+"Circle Shape" = "圆形";
+
+"Classic shape follow (FocusCursor 2.0). Each effect keeps its own settings." = "经典形状跟随（FocusCursor 2.0）。每个效果保留各自的设置。";
 
 "Clear Drawing Board" = "清空绘图板";
 
@@ -83,7 +90,7 @@
 
 "Contact" = "联系我们";
 
-"Copies the current preset into editable CAEmitterCell layers." = "将当前预设复制为可编辑的 CAEmitterCell 图层。";
+"Copies this preset into Custom (independent of the original preset)." = "将此预设复制到自定义中（独立于原始预设）。";
 
 "Copy (⌘C)" = "复制 (⌘C)";
 
@@ -91,6 +98,10 @@
 
 /* Follow particle effect */
 "Custom Particles" = "自定义粒子";
+
+"Dash" = "虚线";
+
+"Dashed Segment" = "虚线线段";
 
 "Delete" = "删除";
 
@@ -137,6 +148,8 @@
 "Fireworks Effect" = "烟花效果";
 
 "Flashlight Mode" = "手电筒模式";
+
+"Follow Effect" = "跟随效果";
 
 "Free" = "免费";
 
@@ -237,8 +250,6 @@
 
 "Open Settings" = "打开设置";
 
-"Particle Effect" = "粒子效果";
-
 "Particle Layers" = "粒子图层";
 
 "Petals Effect" = "花瓣效果";
@@ -293,6 +304,8 @@
 "Separate RGB Channels" = "分离 RGB 通道";
 
 "Settings..." = "设置…";
+
+"Shape" = "形状";
 
 "Show Drawing Board Tool" = "显示绘图板工具";
 

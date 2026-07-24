@@ -6,9 +6,11 @@
 
 "%lld/s · life %@s" = "%1$lld/s · 수명 %2$@s";
 
-"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+X는 커서 끝의 오른쪽, +Y는 위쪽입니다. 사용자 정의 모드에서는 레이어 오프셋이 위에 쌓입니다.";
+"+X is right of the cursor tip, +Y is above. Stored per follow effect." = "+X는 커서 끝의 오른쪽, +Y는 위쪽입니다. 팔로우 효과별로 저장됩니다.";
 
 "+Y is up in Core Animation. Use negative Y for gravity." = "+Y는 Core Animation에서 위쪽입니다. 중력에는 음수 Y를 사용하세요.";
+
+"0 = square, 0.5 = full circle. Settings apply only to Circle Shape." = "0 = 사각형, 0.5 = 완전한 원. 설정은 원형에만 적용됩니다.";
 
 "About" = "정보";
 
@@ -56,7 +58,7 @@
 
 "Burst Effect" = "폭발 효과";
 
-"CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayer 파티클. 마우스를 움직여 미리 보세요.";
+"CAEmitterLayer particles. Each effect keeps its own size, color, and intensity." = "CAEmitterLayer 파티클. 각 효과는 고유한 크기, 색상 및 강도를 유지합니다.";
 
 "Cancel" = "취소";
 
@@ -67,6 +69,11 @@
 "Center Y" = "중심 Y";
 
 "Circle Effect" = "원형 효과";
+
+/* v2.0 style cursor follow */
+"Circle Shape" = "원형";
+
+"Classic shape follow (FocusCursor 2.0). Each effect keeps its own settings." = "클래식 모양 따라가기 (FocusCursor 2.0). 각 효과는 고유한 설정을 유지합니다.";
 
 "Clear Drawing Board" = "그리기 보드 지우기";
 
@@ -83,7 +90,7 @@
 
 "Contact" = "문의";
 
-"Copies the current preset into editable CAEmitterCell layers." = "현재 프리셋을 편집 가능한 CAEmitterCell 레이어로 복사합니다.";
+"Copies this preset into Custom (independent of the original preset)." = "이 프리셋을 사용자 정의로 복사합니다 (원본 프리셋과 독립적).";
 
 "Copy (⌘C)" = "복사 (⌘C)";
 
@@ -91,6 +98,10 @@
 
 /* Follow particle effect */
 "Custom Particles" = "사용자 정의 파티클";
+
+"Dash" = "대시";
+
+"Dashed Segment" = "점선 세그먼트";
 
 "Delete" = "삭제";
 
@@ -137,6 +148,8 @@
 "Fireworks Effect" = "불꽃놀이 효과";
 
 "Flashlight Mode" = "플래시라이트 모드";
+
+"Follow Effect" = "팔로우 효과";
 
 "Free" = "무료";
 
@@ -237,8 +250,6 @@
 
 "Open Settings" = "설정 열기";
 
-"Particle Effect" = "파티클 효과";
-
 "Particle Layers" = "파티클 레이어";
 
 "Petals Effect" = "꽃잎 효과";
@@ -293,6 +304,8 @@
 "Separate RGB Channels" = "RGB 채널 분리";
 
 "Settings..." = "설정...";
+
+"Shape" = "모양";
 
 "Show Drawing Board Tool" = "그리기 보드 도구 표시";
 

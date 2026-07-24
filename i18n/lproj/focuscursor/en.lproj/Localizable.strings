@@ -6,9 +6,11 @@
 
 "%lld/s · life %@s" = "%1$lld/s · life %2$@s";
 
-"+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode." = "+X is right of the cursor tip, +Y is above. Layer Offset stacks on top in Custom mode.";
+"+X is right of the cursor tip, +Y is above. Stored per follow effect." = "+X is right of the cursor tip, +Y is above. Stored per follow effect.";
 
 "+Y is up in Core Animation. Use negative Y for gravity." = "+Y is up in Core Animation. Use negative Y for gravity.";
+
+"0 = square, 0.5 = full circle. Settings apply only to Circle Shape." = "0 = square, 0.5 = full circle. Settings apply only to Circle Shape.";
 
 "About" = "About";
 
@@ -56,7 +58,7 @@
 
 "Burst Effect" = "Burst Effect";
 
-"CAEmitterLayer particles. Move the mouse to preview." = "CAEmitterLayer particles. Move the mouse to preview.";
+"CAEmitterLayer particles. Each effect keeps its own size, color, and intensity." = "CAEmitterLayer particles. Each effect keeps its own size, color, and intensity.";
 
 "Cancel" = "Cancel";
 
@@ -67,6 +69,11 @@
 "Center Y" = "Center Y";
 
 "Circle Effect" = "Circle Effect";
+
+/* v2.0 style cursor follow */
+"Circle Shape" = "Circle Shape";
+
+"Classic shape follow (FocusCursor 2.0). Each effect keeps its own settings." = "Classic shape follow (FocusCursor 2.0). Each effect keeps its own settings.";
 
 "Clear Drawing Board" = "Clear Drawing Board";
 
@@ -83,7 +90,7 @@
 
 "Contact" = "Contact";
 
-"Copies the current preset into editable CAEmitterCell layers." = "Copies the current preset into editable CAEmitterCell layers.";
+"Copies this preset into Custom (independent of the original preset)." = "Copies this preset into Custom (independent of the original preset).";
 
 "Copy (⌘C)" = "Copy (⌘C)";
 
@@ -91,6 +98,10 @@
 
 /* Follow particle effect */
 "Custom Particles" = "Custom Particles";
+
+"Dash" = "Dash";
+
+"Dashed Segment" = "Dashed Segment";
 
 "Delete" = "Delete";
 
@@ -137,6 +148,8 @@
 "Fireworks Effect" = "Fireworks Effect";
 
 "Flashlight Mode" = "Flashlight Mode";
+
+"Follow Effect" = "Follow Effect";
 
 "Free" = "Free";
 
@@ -237,8 +250,6 @@
 
 "Open Settings" = "Open Settings";
 
-"Particle Effect" = "Particle Effect";
-
 "Particle Layers" = "Particle Layers";
 
 "Petals Effect" = "Petals Effect";
@@ -293,6 +304,8 @@
 "Separate RGB Channels" = "Separate RGB Channels";
 
 "Settings..." = "Settings...";
+
+"Shape" = "Shape";
 
 "Show Drawing Board Tool" = "Show Drawing Board Tool";
 
