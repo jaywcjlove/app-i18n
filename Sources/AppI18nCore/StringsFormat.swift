@@ -24,17 +24,35 @@ func parseStringsFile(at url: URL) -> StringsFile {
     guard let content = try? String(contentsOf: url, encoding: .utf8) else {
         return StringsFile(entries: [:])
     }
-    let pattern = "^\\s*\"((?:\\\\.|[^\"\\\\])*)\"\\s*=\\s*\"((?:\\\\.|[^\"\\\\])*)\"\\s*;"
-    let regex = try? NSRegularExpression(pattern: pattern, options: [])
+    // Strict pattern: requires properly escaped quotes per `.strings` format spec.
+    let strictPattern = "^\\s*\"((?:\\\\.|[^\"\\\\])*)\"\\s*=\\s*\"((?:\\\\.|[^\"\\\\])*)\"\\s*;"
+    // Lenient fallback: uses greedy match so values containing unescaped ASCII
+    // double-quotes (e.g. German typographic „...\" ) can still be recovered.
+    let fallbackPattern = "^\\s*\"((?:\\\\.|[^\"\\\\])*)\"\\s*=\\s*\"(.+)\"\\s*;"
+    let strictRegex = try? NSRegularExpression(pattern: strictPattern, options: [])
+    let fallbackRegex = try? NSRegularExpression(pattern: fallbackPattern, options: [])
     var entries: [String: String] = [:]
     content.enumerateLines { line, _ in
-        guard let regex = regex else { return }
+        guard let strictRegex, let fallbackRegex else { return }
         let range = NSRange(line.startIndex..<line.endIndex, in: line)
-        if let match = regex.firstMatch(in: line, options: [], range: range),
-           let keyRange = Range(match.range(at: 1), in: line),
-           let valueRange = Range(match.range(at: 2), in: line) {
-            let key = unescapeStringsValue(String(line[keyRange]))
-            let value = unescapeStringsValue(String(line[valueRange]))
+        var keyRange: Range<String.Index>? = nil
+        var valueRange: Range<String.Index>? = nil
+        if let match = strictRegex.firstMatch(in: line, options: [], range: range),
+           let kr = Range(match.range(at: 1), in: line),
+           let vr = Range(match.range(at: 2), in: line) {
+            keyRange = kr
+            valueRange = vr
+        } else if let match = fallbackRegex.firstMatch(in: line, options: [], range: range),
+                  let kr = Range(match.range(at: 1), in: line),
+                  let vr = Range(match.range(at: 2), in: line) {
+            let key = unescapeStringsValue(String(line[kr]))
+            Logger.warn("Lenient parse for key \"\(key)\" in \(url.lastPathComponent) – value may contain unescaped double-quotes.")
+            keyRange = kr
+            valueRange = vr
+        }
+        if let kr = keyRange, let vr = valueRange {
+            let key = unescapeStringsValue(String(line[kr]))
+            let value = unescapeStringsValue(String(line[vr]))
             entries[key] = value
         }
     }
@@ -50,16 +68,25 @@ func parseStringsFileLineNumbers(at url: URL) -> [String: Int] {
     guard let content = try? String(contentsOf: url, encoding: .utf8) else {
         return [:]
     }
-    let pattern = "^\\s*\"((?:\\\\.|[^\"\\\\])*)\"\\s*=\\s*\"((?:\\\\.|[^\"\\\\])*)\"\\s*;"
-    let regex = try? NSRegularExpression(pattern: pattern, options: [])
+    let strictPattern = "^\\s*\"((?:\\\\.|[^\"\\\\])*)\"\\s*=\\s*\"((?:\\\\.|[^\"\\\\])*)\"\\s*;"
+    let fallbackPattern = "^\\s*\"((?:\\\\.|[^\"\\\\])*)\"\\s*=\\s*\"(.+)\"\\s*;"
+    let strictRegex = try? NSRegularExpression(pattern: strictPattern, options: [])
+    let fallbackRegex = try? NSRegularExpression(pattern: fallbackPattern, options: [])
     var lineNumbers: [String: Int] = [:]
     let lines = content.components(separatedBy: .newlines)
     for (index, line) in lines.enumerated() {
-        guard let regex else { continue }
+        guard let strictRegex, let fallbackRegex else { continue }
         let range = NSRange(line.startIndex..<line.endIndex, in: line)
-        if let match = regex.firstMatch(in: line, options: [], range: range),
-           let keyRange = Range(match.range(at: 1), in: line) {
-            let key = unescapeStringsValue(String(line[keyRange]))
+        var keyRange: Range<String.Index>? = nil
+        if let match = strictRegex.firstMatch(in: line, options: [], range: range),
+           let kr = Range(match.range(at: 1), in: line) {
+            keyRange = kr
+        } else if let match = fallbackRegex.firstMatch(in: line, options: [], range: range),
+                  let kr = Range(match.range(at: 1), in: line) {
+            keyRange = kr
+        }
+        if let kr = keyRange {
+            let key = unescapeStringsValue(String(line[kr]))
             if lineNumbers[key] == nil {
                 lineNumbers[key] = index + 1
             }

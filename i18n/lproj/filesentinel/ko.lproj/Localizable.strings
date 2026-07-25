@@ -1,0 +1,182 @@
+" - " = " - ";
+
+"%" = "%";
+
+"%@" = "%@";
+
+"%@ v%@" = "%@ v%@";
+
+"About" = "정보";
+
+"About %@" = "%@ 정보";
+
+"Authorized" = "승인됨";
+
+"Authorized Folder" = "승인된 폴더";
+
+"Cancel" = "취소";
+
+"Clear" = "지우기";
+
+"Comment" = "주석";
+
+"Constant" = "상수";
+
+"Contact" = "연락처";
+
+"Copy" = "복사";
+
+"Copy & Open Terminal" = "복사 및 터미널에서 열기";
+
+"Copy & Open iTerm" = "복사 및 iTerm에서 열기";
+
+"Copy Command" = "명령어 복사";
+
+"Delete" = "삭제";
+
+"Delete Authorized Folder" = "승인된 폴더 삭제";
+
+"Display Time" = "표시 시간";
+
+"Drag and drop a text file here." = "텍스트 파일을 여기에 드래그 앤 드롭하세요.";
+
+"E-mail" = "이메일";
+
+"Embedded" = "내장형";
+
+"Enable syntax highlighting" = "구문 강조 활성화";
+
+"Enabling this feature will deduplicate data in history and insert new items" = "이 기능을 활성화하면 기록에서 중복 데이터가 제거되고 새 항목이 삽입됩니다.";
+
+"Enabling this feature will remove duplicate data from the history and insert a new entry." = "이 기능을 활성화하면 기록에서 중복 데이터가 제거되고 새 항목이 삽입됩니다.";
+
+"Favorite" = "즐겨찾기";
+
+"Favorites" = "즐겨찾기";
+
+"Feedback" = "피드백";
+
+"File already exists" = "파일이 이미 존재합니다";
+
+"Files being frequently read / write or deleted then recreated may lose permissions and authorizing the parent folder can help avoid repeated authorization issues." = "자주 읽기/쓰기 또는 삭제 후 재생성되는 파일은 권한이 손실될 수 있습니다. 상위 폴더를 승인하면 반복적인 권한 문제를 피할 수 있습니다.";
+
+"Files being frequently read/written or deleted and recreated may cause permission loss. Authorizing their parent folder can avoid repeated authorization issues." = "자주 읽기/쓰기 또는 삭제 후 재생성되는 파일은 권한이 손실될 수 있습니다. 상위 폴더를 승인하면 반복적인 권한 문제를 피할 수 있습니다.";
+
+"Folder not authorized" = "폴더가 승인되지 않음";
+
+"Function" = "함수";
+
+"General" = "일반";
+
+"Hide Dock Icon" = "Dock 아이콘 숨기기";
+
+"Ignore Duplicate Data" = "중복 데이터 무시";
+
+"Ignore the last (%@) duplicates" = "마지막 (%@)개 중복 무시";
+
+"Importing initial data..." = "초기 데이터 가져오는 중...";
+
+"Keyword" = "키워드";
+
+"Launch at login" = "로그인 시 시작";
+
+"Load More" = "더 불러오기";
+
+"Loading..." = "불러오는 중...";
+
+"Main Window" = "메인 윈도우";
+
+"Max records per file" = "파일당 최대 레코드 수";
+
+"Monitor Files" = "파일 모니터링";
+
+"My Apps" = "내 앱";
+
+"No content" = "내용 없음";
+
+"No more data" = "더 이상 데이터 없음";
+
+"No results found" = "검색 결과 없음";
+
+"Number" = "숫자";
+
+"Number of log entries displayed initially and each time you tap 'Load More'." = "초기 표시 및 '더 불러오기'를 탭할 때마다 표시되는 로그 항목 수입니다.";
+
+"Number of log entries shown initially and each time you tap Load More." = "초기 표시 및 '더 불러오기'를 탭할 때마다 표시되는 로그 항목 수입니다.";
+
+/* Default OK button */
+"OK" = "확인";
+
+"Only the folder record and access authorization will be removed, and the original files will not be deleted." = "폴더 기록과 접근 권한만 제거되며, 원본 파일은 삭제되지 않습니다.";
+
+"Only the folder record and its access permission will be removed, the original files will not be deleted." = "폴더 기록과 접근 권한만 제거되며, 원본 파일은 삭제되지 않습니다.";
+
+"Open %@" = "%@ 열기";
+
+"Operator" = "연산자";
+
+"Please select the folder to re-authorize" = "재승인할 폴더를 선택하세요";
+
+"Property" = "속성";
+
+"Quit %@" = "%@ 종료";
+
+"Re-monitor" = "재모니터링";
+
+"Reauthorize" = "재승인";
+
+"Records per page (%@)" = "페이지당 레코드 수 (%@)";
+
+"Reload" = "새로고침";
+
+"Reset syntax highlighting colors" = "구문 강조 색상 초기화";
+
+"Restart Monitoring Completed" = "모니터링 재시작 완료";
+
+"Search..." = "검색...";
+
+"Select File" = "파일 선택";
+
+"Select Folder" = "폴더 선택";
+
+"Set a maximum of (%@) data records to be saved for each monitored file." = "모니터링되는 각 파일에 대해 최대 (%@)개의 데이터 레코드가 저장되도록 설정합니다.";
+
+"Set a maximum of (%@) data records to be stored for each monitored file." = "모니터링되는 각 파일에 대해 최대 (%@)개의 데이터 레코드가 저장되도록 설정합니다.";
+
+"Settings" = "설정";
+
+"Settings..." = "설정...";
+
+"Show in Finder" = "Finder에서 보기";
+
+"Social Accounts" = "소셜 계정";
+
+"Status bar menu" = "상태 표시줄 메뉴";
+
+"StatusBar Count (%@)" = "상태 표시줄 카운트 (%@)";
+
+"String" = "문자열";
+
+"Syntax Highlighting" = "구문 강조";
+
+"Thank you for your support. The basic features are not restricted, and only a few settings are limited. Sponsorship support will unlock these limitations." = "지원해 주셔서 감사합니다. 기본 기능은 제한되지 않으며, 일부 설정만 제한되어 있습니다. 후원을 통해 이러한 제한을 해제할 수 있습니다.";
+
+"Thank you for your support. The fundamental features remain unrestricted, with only certain settings limited. By sponsoring, you can unlock these limitations." = "지원해 주셔서 감사합니다. 기본 기능은 제한되지 않으며, 일부 설정만 제한되어 있습니다. 후원을 통해 이러한 제한을 해제할 수 있습니다.";
+
+"The file monitor has been successfully restarted and continues to watch for file changes." = "파일 모니터가 성공적으로 재시작되었으며 계속해서 파일 변경 사항을 감시합니다.";
+
+"The file monitor has been successfully restarted and will continue to watch for file changes." = "파일 모니터가 성공적으로 재시작되었으며 계속해서 파일 변경 사항을 감시합니다.";
+
+"This is NOT a text file" = "이것은 텍스트 파일이 아닙니다";
+
+"Unfavorite" = "즐겨찾기 해제";
+
+"Unlock all Features" = "모든 기능 잠금 해제";
+
+"Version %@ (%@)" = "버전 %@ (%@)";
+
+"X(Twitter)" = "X(Twitter)";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [이메일](emailurl) • [Github](githuburl)";
+
+"⚠️" = "⚠️";

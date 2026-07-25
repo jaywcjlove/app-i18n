@@ -1,0 +1,182 @@
+" - " = " - ";
+
+"%" = "%";
+
+"%@" = "%@";
+
+"%@ v%@" = "%1$@ v%2$@";
+
+"About" = "关于";
+
+"About %@" = "关于 %@";
+
+"Authorized" = "已授权";
+
+"Authorized Folder" = "授权文件夹";
+
+"Cancel" = "取消";
+
+"Clear" = "清空";
+
+"Comment" = "注释";
+
+"Constant" = "常量";
+
+"Contact" = "联系方式";
+
+"Copy" = "拷贝";
+
+"Copy & Open Terminal" = "复制并打开终端";
+
+"Copy & Open iTerm" = "复制并打开 iTerm";
+
+"Copy Command" = "拷贝命令";
+
+"Delete" = "删除";
+
+"Delete Authorized Folder" = "删除授权文件夹";
+
+"Display Time" = "显示时间";
+
+"Drag and drop a text file here." = "拖拽文本文件到这里";
+
+"E-mail" = "电子邮件";
+
+"Embedded" = "嵌入式";
+
+"Enable syntax highlighting" = "启用语法高亮";
+
+"Enabling this feature will deduplicate data in history and insert new items" = "启用此功能将对历史记录中的数据进行去重并插入新条目。";
+
+"Enabling this feature will remove duplicate data from the history and insert a new entry." = "启用此功能将删除历史记录中的重复数据，并插入一条新的数据。";
+
+"Favorite" = "搜藏";
+
+"Favorites" = "收藏";
+
+"Feedback" = "反馈";
+
+"File already exists" = "文件已存在";
+
+"Files being frequently read / write or deleted then recreated may lose permissions and authorizing the parent folder can help avoid repeated authorization issues." = "频繁读取/写入或删除后重建的文件可能会丢失权限，授权上级文件夹可以帮助避免重复授权问题。";
+
+"Files being frequently read/written or deleted and recreated may cause permission loss. Authorizing their parent folder can avoid repeated authorization issues." = "频繁读取、写入或删除重建的文件可能导致权限丢失。授权它们的上级文件夹可以避免反复授权的问题。";
+
+"Folder not authorized" = "没有授权文件夹";
+
+"Function" = "函数";
+
+"General" = "常规";
+
+"Hide Dock Icon" = "隐藏扩展坞图标";
+
+"Ignore Duplicate Data" = "忽略重复数据";
+
+"Ignore the last (%@) duplicates" = "忽略最近 (%@) 次重复";
+
+"Importing initial data..." = "正在导入初始数据…";
+
+"Keyword" = "关键字";
+
+"Launch at login" = "开机启动";
+
+"Load More" = "加载中...";
+
+"Loading..." = "加载更多";
+
+"Main Window" = "主菜单";
+
+"Max records per file" = "每个文件的最大记录数";
+
+"Monitor Files" = "监控文件";
+
+"My Apps" = "我的应用";
+
+"No content" = "没有内容";
+
+"No more data" = "没有更多数据了";
+
+"No results found" = "没有找到结果";
+
+"Number" = "数字";
+
+"Number of log entries displayed initially and each time you tap 'Load More'." = "初始显示以及每次点击「加载更多」时显示的日志条目数。";
+
+"Number of log entries shown initially and each time you tap Load More." = "初始显示以及每次点击「加载更多」时显示的日志条目数量。";
+
+/* Default OK button */
+"OK" = "确认";
+
+"Only the folder record and access authorization will be removed, and the original files will not be deleted." = "仅删除文件夹记录和访问授权，原始文件不会被删除。";
+
+"Only the folder record and its access permission will be removed, the original files will not be deleted." = "只有文件夹记录及其访问权限会被移除，原始文件不会被删除。";
+
+"Open %@" = "打开 %@";
+
+"Operator" = "运算符";
+
+"Please select the folder to re-authorize" = "请选择需要重新授权的文件夹。";
+
+"Property" = "属性";
+
+"Quit %@" = "退出 %@";
+
+"Re-monitor" = "重新监听";
+
+"Reauthorize" = "重新授权";
+
+"Records per page (%@)" = "每页记录数 (%@)";
+
+"Reload" = "重新加载";
+
+"Reset syntax highlighting colors" = "重置代码高亮颜色 ";
+
+"Restart Monitoring Completed" = "已完成重新监听";
+
+"Search..." = "搜索...";
+
+"Select File" = "选择文件";
+
+"Select Folder" = "选择文件夹";
+
+"Set a maximum of (%@) data records to be saved for each monitored file." = "为每个监控的文件设置最大保存 (%@) 条数据记录。";
+
+"Set a maximum of (%@) data records to be stored for each monitored file." = "为每个被监控的文件设置最多存储 (%@) 条数据记录。";
+
+"Settings" = "设置";
+
+"Settings..." = "设置…";
+
+"Show in Finder" = "在访达中显示";
+
+"Social Accounts" = "社交账号";
+
+"Status bar menu" = "状态栏菜单";
+
+"StatusBar Count (%@)" = "状态栏数量 (%@)";
+
+"String" = "字符串";
+
+"Syntax Highlighting" = "语法高亮";
+
+"Thank you for your support. The basic features are not restricted, and only a few settings are limited. Sponsorship support will unlock these limitations." = "感谢您的支持，基础功能没有限制，只有少量设置受到限制。通过赞助支持，您将解锁这些限制。";
+
+"Thank you for your support. The fundamental features remain unrestricted, with only certain settings limited. By sponsoring, you can unlock these limitations." = "感谢您的支持。基础功能不受限制，仅部分设置存在限制。通过赞助，您可以解锁这些限制。";
+
+"The file monitor has been successfully restarted and continues to watch for file changes." = "文件监视器已成功重启，并继续监视文件变更。";
+
+"The file monitor has been successfully restarted and will continue to watch for file changes." = "文件监视器已成功重启，现在会继续监听文件的变更。";
+
+"This is NOT a text file" = "这不是一个文本文件";
+
+"Unfavorite" = "取消收藏";
+
+"Unlock all Features" = "解锁所有功能";
+
+"Version %@ (%@)" = "版本 %1$@（%2$@） ";
+
+"X(Twitter)" = "X(Twitter)";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"⚠️" = "⚠️";

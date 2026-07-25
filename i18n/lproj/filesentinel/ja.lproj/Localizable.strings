@@ -1,0 +1,182 @@
+" - " = " - ";
+
+"%" = "%";
+
+"%@" = "%@";
+
+"%@ v%@" = "%1$@ v%2$@";
+
+"About" = "概要";
+
+"About %@" = "%@について";
+
+"Authorized" = "認可済み";
+
+"Authorized Folder" = "認証済みフォルダ";
+
+"Cancel" = "キャンセル";
+
+"Clear" = "クリア";
+
+"Comment" = "コメント";
+
+"Constant" = "定数";
+
+"Contact" = "連絡先";
+
+"Copy" = "コピー";
+
+"Copy & Open Terminal" = "コピーしてターミナルで開く";
+
+"Copy & Open iTerm" = "コピーしてiTermで開く";
+
+"Copy Command" = "コマンドをコピー";
+
+"Delete" = "削除";
+
+"Delete Authorized Folder" = "認証済みフォルダを削除";
+
+"Display Time" = "表示時間";
+
+"Drag and drop a text file here." = "テキストファイルをここにドラッグ&ドロップしてください。";
+
+"E-mail" = "メール";
+
+"Embedded" = "埋め込み";
+
+"Enable syntax highlighting" = "シンタックスハイライトを有効にする";
+
+"Enabling this feature will deduplicate data in history and insert new items" = "この機能を有効にすると、履歴内のデータが重複排除され、新しいアイテムが挿入されます。";
+
+"Enabling this feature will remove duplicate data from the history and insert a new entry." = "この機能を有効にすると、履歴から重複データが削除され、新しいエントリが挿入されます。";
+
+"Favorite" = "お気に入り";
+
+"Favorites" = "お気に入り";
+
+"Feedback" = "フィードバック";
+
+"File already exists" = "ファイルが既に存在します";
+
+"Files being frequently read / write or deleted then recreated may lose permissions and authorizing the parent folder can help avoid repeated authorization issues." = "頻繁に読み書きされたり、削除後に再作成されたりするファイルは権限を失う可能性があります。親フォルダを認証することで、繰り返しの認証問題を回避できます。";
+
+"Files being frequently read/written or deleted and recreated may cause permission loss. Authorizing their parent folder can avoid repeated authorization issues." = "頻繁に読み書きされたり、削除・再作成されるファイルは権限を失う可能性があります。親フォルダを認証することで、繰り返しの認証問題を回避できます。";
+
+"Folder not authorized" = "フォルダが認証されていません";
+
+"Function" = "関数";
+
+"General" = "一般";
+
+"Hide Dock Icon" = "Dockアイコンを非表示";
+
+"Ignore Duplicate Data" = "重複データを無視";
+
+"Ignore the last (%@) duplicates" = "最新の(%@)件の重複を無視";
+
+"Importing initial data..." = "初期データをインポート中...";
+
+"Keyword" = "キーワード";
+
+"Launch at login" = "ログイン時に起動";
+
+"Load More" = "もっと読み込む";
+
+"Loading..." = "読み込み中...";
+
+"Main Window" = "メインウィンドウ";
+
+"Max records per file" = "ファイルあたりの最大記録数";
+
+"Monitor Files" = "ファイル監視";
+
+"My Apps" = "マイアプリ";
+
+"No content" = "内容なし";
+
+"No more data" = "これ以上のデータはありません";
+
+"No results found" = "結果が見つかりません";
+
+"Number" = "数値";
+
+"Number of log entries displayed initially and each time you tap 'Load More'." = "初期表示時および「もっと読み込む」をタップするたびに表示されるログエントリ数。";
+
+"Number of log entries shown initially and each time you tap Load More." = "初期表示時および「もっと読み込む」をタップするたびに表示されるログエントリ数。";
+
+/* Default OK button */
+"OK" = "OK";
+
+"Only the folder record and access authorization will be removed, and the original files will not be deleted." = "フォルダ記録とアクセス認証のみが削除され、元のファイルは削除されません。";
+
+"Only the folder record and its access permission will be removed, the original files will not be deleted." = "フォルダ記録とそのアクセス権限のみが削除され、元のファイルは削除されません。";
+
+"Open %@" = "%@を開く";
+
+"Operator" = "演算子";
+
+"Please select the folder to re-authorize" = "再認証するフォルダを選択してください。";
+
+"Property" = "プロパティ";
+
+"Quit %@" = "%@を終了";
+
+"Re-monitor" = "再監視";
+
+"Reauthorize" = "再認証";
+
+"Records per page (%@)" = "1ページあたりのレコード数 (%@)";
+
+"Reload" = "再読み込み";
+
+"Reset syntax highlighting colors" = "シンタックスハイライトの色をリセット";
+
+"Restart Monitoring Completed" = "再監視が完了しました";
+
+"Search..." = "検索...";
+
+"Select File" = "ファイルを選択";
+
+"Select Folder" = "フォルダを選択";
+
+"Set a maximum of (%@) data records to be saved for each monitored file." = "監視対象の各ファイルに保存するデータ記録の最大数を(%@)に設定します。";
+
+"Set a maximum of (%@) data records to be stored for each monitored file." = "監視対象の各ファイルに保存するデータレコードの最大数を(%@)に設定します。";
+
+"Settings" = "設定";
+
+"Settings..." = "設定...";
+
+"Show in Finder" = "Finderで表示";
+
+"Social Accounts" = "ソーシャルアカウント";
+
+"Status bar menu" = "ステータスバーメニュー";
+
+"StatusBar Count (%@)" = "ステータスバーカウント (%@)";
+
+"String" = "文字列";
+
+"Syntax Highlighting" = "シンタックスハイライト";
+
+"Thank you for your support. The basic features are not restricted, and only a few settings are limited. Sponsorship support will unlock these limitations." = "ご支援ありがとうございます。基本機能に制限はなく、一部の設定のみ制限されています。スポンサーサポートによりこれらの制限が解除されます。";
+
+"Thank you for your support. The fundamental features remain unrestricted, with only certain settings limited. By sponsoring, you can unlock these limitations." = "ご支援ありがとうございます。基本機能に制限はなく、一部の設定のみ制限されています。スポンサーになることで、これらの制限を解除できます。";
+
+"The file monitor has been successfully restarted and continues to watch for file changes." = "ファイルモニターは正常に再起動され、引き続きファイルの変更を監視します。";
+
+"The file monitor has been successfully restarted and will continue to watch for file changes." = "ファイルモニターは正常に再起動され、引き続きファイルの変更を監視します。";
+
+"This is NOT a text file" = "これはテキストファイルではありません";
+
+"Unfavorite" = "お気に入りから削除";
+
+"Unlock all Features" = "すべての機能をロック解除";
+
+"Version %@ (%@)" = "バージョン %1$@（%2$@）";
+
+"X(Twitter)" = "X(Twitter)";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"⚠️" = "⚠️";

@@ -1,0 +1,182 @@
+" - " = " - ";
+
+"%" = "%";
+
+"%@" = "%@";
+
+"%@ v%@" = "%1$@ v%2$@";
+
+"About" = "Informazioni";
+
+"About %@" = "Informazioni su %@";
+
+"Authorized" = "Autorizzato";
+
+"Authorized Folder" = "Cartella autorizzata";
+
+"Cancel" = "Annulla";
+
+"Clear" = "Cancella";
+
+"Comment" = "Commento";
+
+"Constant" = "Costante";
+
+"Contact" = "Contatto";
+
+"Copy" = "Copia";
+
+"Copy & Open Terminal" = "Copia e apri Terminale";
+
+"Copy & Open iTerm" = "Copia e apri iTerm";
+
+"Copy Command" = "Copia comando";
+
+"Delete" = "Elimina";
+
+"Delete Authorized Folder" = "Elimina cartella autorizzata";
+
+"Display Time" = "Mostra ora";
+
+"Drag and drop a text file here." = "Trascina qui un file di testo.";
+
+"E-mail" = "E-mail";
+
+"Embedded" = "Incorporato";
+
+"Enable syntax highlighting" = "Abilita evidenziazione sintassi";
+
+"Enabling this feature will deduplicate data in history and insert new items" = "Abilitando questa funzione, i dati nella cronologia verranno deduplicati e verranno inseriti nuovi elementi.";
+
+"Enabling this feature will remove duplicate data from the history and insert a new entry." = "Abilitando questa funzione, i dati duplicati verranno rimossi dalla cronologia e verra inserita una nuova voce.";
+
+"Favorite" = "Preferito";
+
+"Favorites" = "Preferiti";
+
+"Feedback" = "Feedback";
+
+"File already exists" = "Il file esiste gia";
+
+"Files being frequently read / write or deleted then recreated may lose permissions and authorizing the parent folder can help avoid repeated authorization issues." = "I file letti/scritti frequentemente o eliminati e poi ricreati possono perdere i permessi; autorizzare la cartella padre può aiutare a evitare problemi di autorizzazione ripetuti.";
+
+"Files being frequently read/written or deleted and recreated may cause permission loss. Authorizing their parent folder can avoid repeated authorization issues." = "I file letti/scritti frequentemente o eliminati e ricreati possono perdere i permessi. Autorizzare la cartella padre puo evitare problemi di autorizzazione ripetuti.";
+
+"Folder not authorized" = "Cartella non autorizzata";
+
+"Function" = "Funzione";
+
+"General" = "Generale";
+
+"Hide Dock Icon" = "Nascondi icona Dock";
+
+"Ignore Duplicate Data" = "Ignora dati duplicati";
+
+"Ignore the last (%@) duplicates" = "Ignora gli ultimi (%@) duplicati";
+
+"Importing initial data..." = "Importazione dati iniziali...";
+
+"Keyword" = "Parola chiave";
+
+"Launch at login" = "Avvia all'accesso";
+
+"Load More" = "Carica altro";
+
+"Loading..." = "Caricamento...";
+
+"Main Window" = "Finestra principale";
+
+"Max records per file" = "Record massimi per file";
+
+"Monitor Files" = "Monitora file";
+
+"My Apps" = "Le mie app";
+
+"No content" = "Nessun contenuto";
+
+"No more data" = "Non ci sono altri dati";
+
+"No results found" = "Nessun risultato trovato";
+
+"Number" = "Numero";
+
+"Number of log entries displayed initially and each time you tap 'Load More'." = "Numero di voci di log visualizzate inizialmente e ogni volta che tocchi «Carica altro».";
+
+"Number of log entries shown initially and each time you tap Load More." = "Numero di voci di log mostrate inizialmente e a ogni tocco su Carica altro.";
+
+/* Default OK button */
+"OK" = "OK";
+
+"Only the folder record and access authorization will be removed, and the original files will not be deleted." = "Verranno rimossi solo il record della cartella e l'autorizzazione di accesso; i file originali non verranno eliminati.";
+
+"Only the folder record and its access permission will be removed, the original files will not be deleted." = "Verranno rimossi solo il record della cartella e il relativo permesso di accesso; i file originali non verranno eliminati.";
+
+"Open %@" = "Apri %@";
+
+"Operator" = "Operatore";
+
+"Please select the folder to re-authorize" = "Seleziona la cartella da autorizzare di nuovo";
+
+"Property" = "Proprieta";
+
+"Quit %@" = "Esci da %@";
+
+"Re-monitor" = "Riavvia monitoraggio";
+
+"Reauthorize" = "Autorizza di nuovo";
+
+"Records per page (%@)" = "Record per pagina (%@)";
+
+"Reload" = "Ricarica";
+
+"Reset syntax highlighting colors" = "Reimposta colori evidenziazione sintassi";
+
+"Restart Monitoring Completed" = "Riavvio del monitoraggio completato";
+
+"Search..." = "Cerca...";
+
+"Select File" = "Seleziona file";
+
+"Select Folder" = "Seleziona cartella";
+
+"Set a maximum of (%@) data records to be saved for each monitored file." = "Imposta un massimo di (%@) record di dati da salvare per ogni file monitorato.";
+
+"Set a maximum of (%@) data records to be stored for each monitored file." = "Imposta un massimo di (%@) record di dati da memorizzare per ogni file monitorato.";
+
+"Settings" = "Impostazioni";
+
+"Settings..." = "Impostazioni...";
+
+"Show in Finder" = "Mostra nel Finder";
+
+"Social Accounts" = "Account social";
+
+"Status bar menu" = "Menu barra di stato";
+
+"StatusBar Count (%@)" = "Conteggio barra di stato (%@)";
+
+"String" = "Stringa";
+
+"Syntax Highlighting" = "Evidenziazione sintassi";
+
+"Thank you for your support. The basic features are not restricted, and only a few settings are limited. Sponsorship support will unlock these limitations." = "Grazie per il tuo supporto. Le funzioni di base non sono limitate e solo alcune impostazioni hanno restrizioni. Il supporto tramite sponsorizzazione sblocchera queste limitazioni.";
+
+"Thank you for your support. The fundamental features remain unrestricted, with only certain settings limited. By sponsoring, you can unlock these limitations." = "Grazie per il tuo supporto. Le funzionalità fondamentali rimangono illimitate, solo alcune impostazioni sono limitate. Sponsorizzando, puoi sbloccare queste limitazioni.";
+
+"The file monitor has been successfully restarted and continues to watch for file changes." = "Il monitor file è stato riavviato correttamente e continua a monitorare le modifiche ai file.";
+
+"The file monitor has been successfully restarted and will continue to watch for file changes." = "Il monitor file e stato riavviato correttamente e continuera a rilevare le modifiche ai file.";
+
+"This is NOT a text file" = "Questo NON e un file di testo";
+
+"Unfavorite" = "Rimuovi dai preferiti";
+
+"Unlock all Features" = "Sblocca tutte le funzionalita";
+
+"Version %@ (%@)" = "Versione %1$@ (%2$@)";
+
+"X(Twitter)" = "X(Twitter)";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"⚠️" = "⚠️";

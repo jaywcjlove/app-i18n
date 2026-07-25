@@ -1,0 +1,182 @@
+" - " = " - ";
+
+"%" = "%";
+
+"%@" = "%@";
+
+"%@ v%@" = "%1$@ v%2$@";
+
+"About" = "О программе";
+
+"About %@" = "О программе %@";
+
+"Authorized" = "Авторизовано";
+
+"Authorized Folder" = "Авторизованная папка";
+
+"Cancel" = "Отмена";
+
+"Clear" = "Очистить";
+
+"Comment" = "Комментарий";
+
+"Constant" = "Константа";
+
+"Contact" = "Контакты";
+
+"Copy" = "Копировать";
+
+"Copy & Open Terminal" = "Копировать и открыть Terminal";
+
+"Copy & Open iTerm" = "Копировать и открыть iTerm";
+
+"Copy Command" = "Копировать команду";
+
+"Delete" = "Удалить";
+
+"Delete Authorized Folder" = "Удалить авторизованную папку";
+
+"Display Time" = "Время отображения";
+
+"Drag and drop a text file here." = "Перетащите текстовый файл сюда.";
+
+"E-mail" = "Эл. почта";
+
+"Embedded" = "Встроенный";
+
+"Enable syntax highlighting" = "Включить подсветку синтаксиса";
+
+"Enabling this feature will deduplicate data in history and insert new items" = "Включение этой функции удалит дублирующиеся данные в истории и вставит новые элементы.";
+
+"Enabling this feature will remove duplicate data from the history and insert a new entry." = "Включение этой функции удалит повторяющиеся данные из истории и вставит новую запись.";
+
+"Favorite" = "Избранное";
+
+"Favorites" = "Избранное";
+
+"Feedback" = "Обратная связь";
+
+"File already exists" = "Файл уже существует";
+
+"Files being frequently read / write or deleted then recreated may lose permissions and authorizing the parent folder can help avoid repeated authorization issues." = "Файлы, которые часто читаются/записываются или удаляются и затем пересоздаются, могут терять разрешения; авторизация родительской папки поможет избежать повторных проблем с разрешениями.";
+
+"Files being frequently read/written or deleted and recreated may cause permission loss. Authorizing their parent folder can avoid repeated authorization issues." = "Файлы, которые часто читаются/записываются или удаляются и создаются заново, могут потерять разрешения. Авторизация родительской папки поможет избежать повторных проблем с разрешениями.";
+
+"Folder not authorized" = "Папка не авторизована";
+
+"Function" = "Функция";
+
+"General" = "Общие";
+
+"Hide Dock Icon" = "Скрыть значок в Dock";
+
+"Ignore Duplicate Data" = "Игнорировать дубликаты";
+
+"Ignore the last (%@) duplicates" = "Игнорировать последние (%@) дубликатов";
+
+"Importing initial data..." = "Импорт начальных данных…";
+
+"Keyword" = "Ключевое слово";
+
+"Launch at login" = "Запускать при входе";
+
+"Load More" = "Загрузить ещё";
+
+"Loading..." = "Загрузка…";
+
+"Main Window" = "Главное окно";
+
+"Max records per file" = "Макс. записей на файл";
+
+"Monitor Files" = "Мониторинг файлов";
+
+"My Apps" = "Мои приложения";
+
+"No content" = "Нет содержимого";
+
+"No more data" = "Больше нет данных";
+
+"No results found" = "Результатов не найдено";
+
+"Number" = "Число";
+
+"Number of log entries displayed initially and each time you tap 'Load More'." = "Количество записей журнала, отображаемых изначально и при каждом нажатии «Загрузить ещё».";
+
+"Number of log entries shown initially and each time you tap Load More." = "Количество записей журнала, отображаемых изначально и при каждом нажатии «Загрузить ещё».";
+
+/* Default OK button */
+"OK" = "OK";
+
+"Only the folder record and access authorization will be removed, and the original files will not be deleted." = "Будет удалена только запись о папке и авторизация доступа, исходные файлы не будут удалены.";
+
+"Only the folder record and its access permission will be removed, the original files will not be deleted." = "Будет удалена только запись о папке и её разрешения доступа, исходные файлы не будут удалены.";
+
+"Open %@" = "Открыть %@";
+
+"Operator" = "Оператор";
+
+"Please select the folder to re-authorize" = "Пожалуйста, выберите папку для повторной авторизации";
+
+"Property" = "Свойство";
+
+"Quit %@" = "Завершить %@";
+
+"Re-monitor" = "Перезапустить мониторинг";
+
+"Reauthorize" = "Переавторизовать";
+
+"Records per page (%@)" = "Записей на странице (%@)";
+
+"Reload" = "Перезагрузить";
+
+"Reset syntax highlighting colors" = "Сбросить цвета подсветки синтаксиса";
+
+"Restart Monitoring Completed" = "Перезапуск мониторинга завершён";
+
+"Search..." = "Поиск…";
+
+"Select File" = "Выбрать файл";
+
+"Select Folder" = "Выбрать папку";
+
+"Set a maximum of (%@) data records to be saved for each monitored file." = "Установить максимум (%@) записей данных для сохранения для каждого отслеживаемого файла.";
+
+"Set a maximum of (%@) data records to be stored for each monitored file." = "Установить максимум (%@) записей данных для хранения для каждого отслеживаемого файла.";
+
+"Settings" = "Настройки";
+
+"Settings..." = "Настройки…";
+
+"Show in Finder" = "Показать в Finder";
+
+"Social Accounts" = "Социальные сети";
+
+"Status bar menu" = "Меню строки состояния";
+
+"StatusBar Count (%@)" = "Счётчик строки состояния (%@)";
+
+"String" = "Строка";
+
+"Syntax Highlighting" = "Подсветка синтаксиса";
+
+"Thank you for your support. The basic features are not restricted, and only a few settings are limited. Sponsorship support will unlock these limitations." = "Спасибо за вашу поддержку. Основные функции не ограничены, и только некоторые настройки имеют ограничения. Спонсорская поддержка снимет эти ограничения.";
+
+"Thank you for your support. The fundamental features remain unrestricted, with only certain settings limited. By sponsoring, you can unlock these limitations." = "Спасибо за вашу поддержку. Основные функции остаются без ограничений, только некоторые настройки ограничены. Оформив спонсорство, вы сможете снять эти ограничения.";
+
+"The file monitor has been successfully restarted and continues to watch for file changes." = "Монитор файлов был успешно перезапущен и продолжает отслеживать изменения файлов.";
+
+"The file monitor has been successfully restarted and will continue to watch for file changes." = "Монитор файлов был успешно перезапущен и продолжит отслеживать изменения файлов.";
+
+"This is NOT a text file" = "Это НЕ текстовый файл";
+
+"Unfavorite" = "Убрать из избранного";
+
+"Unlock all Features" = "Разблокировать все функции";
+
+"Version %@ (%@)" = "Версия %1$@ (%2$@)";
+
+"X(Twitter)" = "X(Twitter)";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"⚠️" = "⚠️";
