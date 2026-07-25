@@ -156,6 +156,12 @@
             "state" : "translated",
             "value" : "\"%@\" 已在列表中。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%@\" 已在列表中。"
+          }
         }
       }
     },
@@ -558,6 +564,12 @@
             "state" : "translated",
             "value" : "添加"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新增"
+          }
         }
       }
     },
@@ -603,6 +615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已添加"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已新增"
           }
         }
       }
@@ -1117,6 +1135,18 @@
             "state" : "translated",
             "value" : "Копировать и открыть %@"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制并打开 %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "複製並開啟 %@"
+          }
         }
       }
     },
@@ -1339,6 +1369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法读取应用程序的包标识符。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法讀取應用程式的套件識別碼。"
           }
         }
       }
@@ -3267,6 +3303,12 @@
             "state" : "translated",
             "value" : "未配置终端应用。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未設定終端機應用。"
+          }
         }
       }
     },
@@ -3312,6 +3354,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "未安装"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未安裝"
           }
         }
       }
@@ -4127,6 +4175,12 @@
             "state" : "translated",
             "value" : "移除"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除"
+          }
         }
       }
     },
@@ -4349,6 +4403,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择应用程序"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇應用程式"
           }
         }
       }

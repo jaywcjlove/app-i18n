@@ -1,6 +1,6 @@
 " - " = " - ";
 
-"\"%@\" is already in the list." = "\"%@\" is already in the list.";
+"\"%@\" is already in the list." = "\"%@\" 已在列表中。";
 
 "%@" = "%@";
 
@@ -10,9 +10,9 @@
 
 "About %@" = "關於 %@";
 
-"Add" = "Add";
+"Add" = "新增";
 
-"Already Added" = "Already Added";
+"Already Added" = "已新增";
 
 "Authorized" = "已授權";
 
@@ -31,7 +31,7 @@
 "Copy" = "複製";
 
 /* Copy command and open terminal app */
-"Copy & Open %@" = "Copy & Open %@";
+"Copy & Open %@" = "複製並開啟 %@";
 
 "Copy & Open Terminal" = "複製並開啟終端機";
 
@@ -39,7 +39,7 @@
 
 "Copy Command" = "複製指令";
 
-"Could not read the application bundle identifier." = "Could not read the application bundle identifier.";
+"Could not read the application bundle identifier." = "無法讀取應用程式的套件識別碼。";
 
 "Delete" = "刪除";
 
@@ -105,9 +105,9 @@
 
 "No results found" = "未找到結果";
 
-"No terminal apps configured." = "No terminal apps configured.";
+"No terminal apps configured." = "未設定終端機應用。";
 
-"Not installed" = "Not installed";
+"Not installed" = "未安裝";
 
 "Number" = "數字";
 
@@ -136,7 +136,7 @@
 
 "Reload" = "重新載入";
 
-"Remove" = "Remove";
+"Remove" = "移除";
 
 "Reset syntax highlighting colors" = "重設語法高亮顏色";
 
@@ -144,7 +144,7 @@
 
 "Search..." = "搜尋...";
 
-"Select Application" = "Select Application";
+"Select Application" = "選擇應用程式";
 
 "Select File" = "選擇檔案";
 
