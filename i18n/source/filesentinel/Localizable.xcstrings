@@ -5234,7 +5234,56 @@
       }
     },
     "These apps appear in context menus as “Copy & Open …”. Terminal and iTerm are added by default. You can add other command-line apps such as Warp or Alacritty." : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diese Apps erscheinen in Kontextmenüs als „Kopieren & Öffnen …\". Terminal und iTerm werden standardmäßig hinzugefügt. Sie können andere Befehlszeilen-Apps wie Warp oder Alacritty hinzufügen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ces applications apparaissent dans les menus contextuels sous la forme « Copier et ouvrir… ». Terminal et iTerm sont ajoutés par défaut. Vous pouvez ajouter d'autres applications en ligne de commande telles que Warp ou Alacritty."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Queste app appaiono nei menu contestuali come «Copia e apri…». Terminal e iTerm sono aggiunti per impostazione predefinita. Puoi aggiungere altre app a riga di comando come Warp o Alacritty."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "これらのアプリはコンテキストメニューに「コピーして開く…」として表示されます。TerminalとiTermはデフォルトで追加されています。WarpやAlacrittyなどの他のコマンドラインアプリを追加できます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 앱은 컨텍스트 메뉴에 '복사 후 열기…'로 표시됩니다. Terminal과 iTerm은 기본적으로 추가됩니다. Warp 또는 Alacritty와 같은 다른 명령줄 앱을 추가할 수 있습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Эти приложения отображаются в контекстных меню как «Копировать и открыть…». Terminal и iTerm добавлены по умолчанию. Вы можете добавить другие приложения командной строки, такие как Warp или Alacritty."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这些应用会在上下文菜单中显示为\"复制并打开…\"。Terminal 和 iTerm 为默认添加。您可以添加其他命令行应用，如 Warp 或 Alacritty。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "這些應用會在右鍵選單中顯示為「複製並開啟…」。Terminal 和 iTerm 為預設新增。您可以新增其他命令列應用，如 Warp 或 Alacritty。"
+          }
+        }
+      }
     },
     "This is NOT a text file" : {
       "extractionState" : "manual",
