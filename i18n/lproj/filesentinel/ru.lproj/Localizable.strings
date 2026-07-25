@@ -1,6 +1,6 @@
 " - " = " - ";
 
-"%" = "%";
+"\"%@\" is already in the list." = "\"%@\" уже в списке.";
 
 "%@" = "%@";
 
@@ -9,6 +9,10 @@
 "About" = "О программе";
 
 "About %@" = "О программе %@";
+
+"Add" = "Добавить";
+
+"Already Added" = "Уже добавлено";
 
 "Authorized" = "Авторизовано";
 
@@ -26,11 +30,16 @@
 
 "Copy" = "Копировать";
 
+/* Copy command and open terminal app */
+"Copy & Open %@" = "Копировать и открыть %@";
+
 "Copy & Open Terminal" = "Копировать и открыть Terminal";
 
 "Copy & Open iTerm" = "Копировать и открыть iTerm";
 
 "Copy Command" = "Копировать команду";
+
+"Could not read the application bundle identifier." = "Не удалось прочитать идентификатор пакета приложения.";
 
 "Delete" = "Удалить";
 
@@ -46,8 +55,6 @@
 
 "Enable syntax highlighting" = "Включить подсветку синтаксиса";
 
-"Enabling this feature will deduplicate data in history and insert new items" = "Включение этой функции удалит дублирующиеся данные в истории и вставит новые элементы.";
-
 "Enabling this feature will remove duplicate data from the history and insert a new entry." = "Включение этой функции удалит повторяющиеся данные из истории и вставит новую запись.";
 
 "Favorite" = "Избранное";
@@ -57,8 +64,6 @@
 "Feedback" = "Обратная связь";
 
 "File already exists" = "Файл уже существует";
-
-"Files being frequently read / write or deleted then recreated may lose permissions and authorizing the parent folder can help avoid repeated authorization issues." = "Файлы, которые часто читаются/записываются или удаляются и затем пересоздаются, могут терять разрешения; авторизация родительской папки поможет избежать повторных проблем с разрешениями.";
 
 "Files being frequently read/written or deleted and recreated may cause permission loss. Authorizing their parent folder can avoid repeated authorization issues." = "Файлы, которые часто читаются/записываются или удаляются и создаются заново, могут потерять разрешения. Авторизация родительской папки поможет избежать повторных проблем с разрешениями.";
 
@@ -75,6 +80,8 @@
 "Ignore the last (%@) duplicates" = "Игнорировать последние (%@) дубликатов";
 
 "Importing initial data..." = "Импорт начальных данных…";
+
+"Invalid Application" = "Недействительное приложение";
 
 "Keyword" = "Ключевое слово";
 
@@ -98,16 +105,16 @@
 
 "No results found" = "Результатов не найдено";
 
-"Number" = "Число";
+"No terminal apps configured." = "Терминальные приложения не настроены.";
 
-"Number of log entries displayed initially and each time you tap 'Load More'." = "Количество записей журнала, отображаемых изначально и при каждом нажатии «Загрузить ещё».";
+"Not installed" = "Not installed";
+
+"Number" = "Число";
 
 "Number of log entries shown initially and each time you tap Load More." = "Количество записей журнала, отображаемых изначально и при каждом нажатии «Загрузить ещё».";
 
 /* Default OK button */
 "OK" = "OK";
-
-"Only the folder record and access authorization will be removed, and the original files will not be deleted." = "Будет удалена только запись о папке и авторизация доступа, исходные файлы не будут удалены.";
 
 "Only the folder record and its access permission will be removed, the original files will not be deleted." = "Будет удалена только запись о папке и её разрешения доступа, исходные файлы не будут удалены.";
 
@@ -129,19 +136,21 @@
 
 "Reload" = "Перезагрузить";
 
+"Remove" = "Удалить";
+
 "Reset syntax highlighting colors" = "Сбросить цвета подсветки синтаксиса";
 
 "Restart Monitoring Completed" = "Перезапуск мониторинга завершён";
 
 "Search..." = "Поиск…";
 
+"Select Application" = "Выбрать приложение";
+
 "Select File" = "Выбрать файл";
 
 "Select Folder" = "Выбрать папку";
 
 "Set a maximum of (%@) data records to be saved for each monitored file." = "Установить максимум (%@) записей данных для сохранения для каждого отслеживаемого файла.";
-
-"Set a maximum of (%@) data records to be stored for each monitored file." = "Установить максимум (%@) записей данных для хранения для каждого отслеживаемого файла.";
 
 "Settings" = "Настройки";
 
@@ -159,13 +168,13 @@
 
 "Syntax Highlighting" = "Подсветка синтаксиса";
 
+"Terminal Apps" = "Терминальные приложения";
+
 "Thank you for your support. The basic features are not restricted, and only a few settings are limited. Sponsorship support will unlock these limitations." = "Спасибо за вашу поддержку. Основные функции не ограничены, и только некоторые настройки имеют ограничения. Спонсорская поддержка снимет эти ограничения.";
 
-"Thank you for your support. The fundamental features remain unrestricted, with only certain settings limited. By sponsoring, you can unlock these limitations." = "Спасибо за вашу поддержку. Основные функции остаются без ограничений, только некоторые настройки ограничены. Оформив спонсорство, вы сможете снять эти ограничения.";
-
-"The file monitor has been successfully restarted and continues to watch for file changes." = "Монитор файлов был успешно перезапущен и продолжает отслеживать изменения файлов.";
-
 "The file monitor has been successfully restarted and will continue to watch for file changes." = "Монитор файлов был успешно перезапущен и продолжит отслеживать изменения файлов.";
+
+"These apps appear in context menus as "Copy & Open …". Terminal and iTerm are added by default. You can add other command-line apps such as Warp or Alacritty." = "Эти приложения отображаются в контекстных меню как «Копировать и открыть…». Terminal и iTerm добавлены по умолчанию. Вы можете добавить другие приложения командной строки, такие как Warp или Alacritty.";
 
 "This is NOT a text file" = "Это НЕ текстовый файл";
 

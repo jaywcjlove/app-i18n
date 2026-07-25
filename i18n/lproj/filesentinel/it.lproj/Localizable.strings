@@ -1,6 +1,6 @@
 " - " = " - ";
 
-"%" = "%";
+"\"%@\" is already in the list." = "\"%@\" è già nella lista.";
 
 "%@" = "%@";
 
@@ -9,6 +9,10 @@
 "About" = "Informazioni";
 
 "About %@" = "Informazioni su %@";
+
+"Add" = "Aggiungi";
+
+"Already Added" = "Già aggiunto";
 
 "Authorized" = "Autorizzato";
 
@@ -26,11 +30,16 @@
 
 "Copy" = "Copia";
 
+/* Copy command and open terminal app */
+"Copy & Open %@" = "Copia e apri %@";
+
 "Copy & Open Terminal" = "Copia e apri Terminale";
 
 "Copy & Open iTerm" = "Copia e apri iTerm";
 
 "Copy Command" = "Copia comando";
+
+"Could not read the application bundle identifier." = "Impossibile leggere l'identificatore del bundle dell'applicazione.";
 
 "Delete" = "Elimina";
 
@@ -46,8 +55,6 @@
 
 "Enable syntax highlighting" = "Abilita evidenziazione sintassi";
 
-"Enabling this feature will deduplicate data in history and insert new items" = "Abilitando questa funzione, i dati nella cronologia verranno deduplicati e verranno inseriti nuovi elementi.";
-
 "Enabling this feature will remove duplicate data from the history and insert a new entry." = "Abilitando questa funzione, i dati duplicati verranno rimossi dalla cronologia e verra inserita una nuova voce.";
 
 "Favorite" = "Preferito";
@@ -57,8 +64,6 @@
 "Feedback" = "Feedback";
 
 "File already exists" = "Il file esiste gia";
-
-"Files being frequently read / write or deleted then recreated may lose permissions and authorizing the parent folder can help avoid repeated authorization issues." = "I file letti/scritti frequentemente o eliminati e poi ricreati possono perdere i permessi; autorizzare la cartella padre può aiutare a evitare problemi di autorizzazione ripetuti.";
 
 "Files being frequently read/written or deleted and recreated may cause permission loss. Authorizing their parent folder can avoid repeated authorization issues." = "I file letti/scritti frequentemente o eliminati e ricreati possono perdere i permessi. Autorizzare la cartella padre puo evitare problemi di autorizzazione ripetuti.";
 
@@ -75,6 +80,8 @@
 "Ignore the last (%@) duplicates" = "Ignora gli ultimi (%@) duplicati";
 
 "Importing initial data..." = "Importazione dati iniziali...";
+
+"Invalid Application" = "Applicazione non valida";
 
 "Keyword" = "Parola chiave";
 
@@ -98,16 +105,16 @@
 
 "No results found" = "Nessun risultato trovato";
 
-"Number" = "Numero";
+"No terminal apps configured." = "Nessuna app di terminale configurata.";
 
-"Number of log entries displayed initially and each time you tap 'Load More'." = "Numero di voci di log visualizzate inizialmente e ogni volta che tocchi «Carica altro».";
+"Not installed" = "Not installed";
+
+"Number" = "Numero";
 
 "Number of log entries shown initially and each time you tap Load More." = "Numero di voci di log mostrate inizialmente e a ogni tocco su Carica altro.";
 
 /* Default OK button */
 "OK" = "OK";
-
-"Only the folder record and access authorization will be removed, and the original files will not be deleted." = "Verranno rimossi solo il record della cartella e l'autorizzazione di accesso; i file originali non verranno eliminati.";
 
 "Only the folder record and its access permission will be removed, the original files will not be deleted." = "Verranno rimossi solo il record della cartella e il relativo permesso di accesso; i file originali non verranno eliminati.";
 
@@ -129,19 +136,21 @@
 
 "Reload" = "Ricarica";
 
+"Remove" = "Rimuovi";
+
 "Reset syntax highlighting colors" = "Reimposta colori evidenziazione sintassi";
 
 "Restart Monitoring Completed" = "Riavvio del monitoraggio completato";
 
 "Search..." = "Cerca...";
 
+"Select Application" = "Seleziona applicazione";
+
 "Select File" = "Seleziona file";
 
 "Select Folder" = "Seleziona cartella";
 
 "Set a maximum of (%@) data records to be saved for each monitored file." = "Imposta un massimo di (%@) record di dati da salvare per ogni file monitorato.";
-
-"Set a maximum of (%@) data records to be stored for each monitored file." = "Imposta un massimo di (%@) record di dati da memorizzare per ogni file monitorato.";
 
 "Settings" = "Impostazioni";
 
@@ -159,13 +168,13 @@
 
 "Syntax Highlighting" = "Evidenziazione sintassi";
 
+"Terminal Apps" = "App terminale";
+
 "Thank you for your support. The basic features are not restricted, and only a few settings are limited. Sponsorship support will unlock these limitations." = "Grazie per il tuo supporto. Le funzioni di base non sono limitate e solo alcune impostazioni hanno restrizioni. Il supporto tramite sponsorizzazione sblocchera queste limitazioni.";
 
-"Thank you for your support. The fundamental features remain unrestricted, with only certain settings limited. By sponsoring, you can unlock these limitations." = "Grazie per il tuo supporto. Le funzionalità fondamentali rimangono illimitate, solo alcune impostazioni sono limitate. Sponsorizzando, puoi sbloccare queste limitazioni.";
-
-"The file monitor has been successfully restarted and continues to watch for file changes." = "Il monitor file è stato riavviato correttamente e continua a monitorare le modifiche ai file.";
-
 "The file monitor has been successfully restarted and will continue to watch for file changes." = "Il monitor file e stato riavviato correttamente e continuera a rilevare le modifiche ai file.";
+
+"These apps appear in context menus as "Copy & Open …". Terminal and iTerm are added by default. You can add other command-line apps such as Warp or Alacritty." = "Queste app appaiono nei menu contestuali come «Copia e apri…». Terminal e iTerm sono aggiunti per impostazione predefinita. Puoi aggiungere altre app a riga di comando come Warp o Alacritty.";
 
 "This is NOT a text file" = "Questo NON e un file di testo";
 

@@ -1,6 +1,6 @@
 " - " = " - ";
 
-"%" = "%";
+"\"%@\" is already in the list." = "\"%@\" は既にリストにあります。";
 
 "%@" = "%@";
 
@@ -9,6 +9,10 @@
 "About" = "概要";
 
 "About %@" = "%@について";
+
+"Add" = "追加";
+
+"Already Added" = "追加済み";
 
 "Authorized" = "認可済み";
 
@@ -26,11 +30,16 @@
 
 "Copy" = "コピー";
 
+/* Copy command and open terminal app */
+"Copy & Open %@" = "コピーして %@ で開く";
+
 "Copy & Open Terminal" = "コピーしてターミナルで開く";
 
 "Copy & Open iTerm" = "コピーしてiTermで開く";
 
 "Copy Command" = "コマンドをコピー";
+
+"Could not read the application bundle identifier." = "アプリケーションのバンドルIDを読み取れませんでした。";
 
 "Delete" = "削除";
 
@@ -46,8 +55,6 @@
 
 "Enable syntax highlighting" = "シンタックスハイライトを有効にする";
 
-"Enabling this feature will deduplicate data in history and insert new items" = "この機能を有効にすると、履歴内のデータが重複排除され、新しいアイテムが挿入されます。";
-
 "Enabling this feature will remove duplicate data from the history and insert a new entry." = "この機能を有効にすると、履歴から重複データが削除され、新しいエントリが挿入されます。";
 
 "Favorite" = "お気に入り";
@@ -57,8 +64,6 @@
 "Feedback" = "フィードバック";
 
 "File already exists" = "ファイルが既に存在します";
-
-"Files being frequently read / write or deleted then recreated may lose permissions and authorizing the parent folder can help avoid repeated authorization issues." = "頻繁に読み書きされたり、削除後に再作成されたりするファイルは権限を失う可能性があります。親フォルダを認証することで、繰り返しの認証問題を回避できます。";
 
 "Files being frequently read/written or deleted and recreated may cause permission loss. Authorizing their parent folder can avoid repeated authorization issues." = "頻繁に読み書きされたり、削除・再作成されるファイルは権限を失う可能性があります。親フォルダを認証することで、繰り返しの認証問題を回避できます。";
 
@@ -75,6 +80,8 @@
 "Ignore the last (%@) duplicates" = "最新の(%@)件の重複を無視";
 
 "Importing initial data..." = "初期データをインポート中...";
+
+"Invalid Application" = "無効なアプリケーション";
 
 "Keyword" = "キーワード";
 
@@ -98,16 +105,16 @@
 
 "No results found" = "結果が見つかりません";
 
-"Number" = "数値";
+"No terminal apps configured." = "ターミナルアプリが設定されていません。";
 
-"Number of log entries displayed initially and each time you tap 'Load More'." = "初期表示時および「もっと読み込む」をタップするたびに表示されるログエントリ数。";
+"Not installed" = "Not installed";
+
+"Number" = "数値";
 
 "Number of log entries shown initially and each time you tap Load More." = "初期表示時および「もっと読み込む」をタップするたびに表示されるログエントリ数。";
 
 /* Default OK button */
 "OK" = "OK";
-
-"Only the folder record and access authorization will be removed, and the original files will not be deleted." = "フォルダ記録とアクセス認証のみが削除され、元のファイルは削除されません。";
 
 "Only the folder record and its access permission will be removed, the original files will not be deleted." = "フォルダ記録とそのアクセス権限のみが削除され、元のファイルは削除されません。";
 
@@ -129,19 +136,21 @@
 
 "Reload" = "再読み込み";
 
+"Remove" = "削除";
+
 "Reset syntax highlighting colors" = "シンタックスハイライトの色をリセット";
 
 "Restart Monitoring Completed" = "再監視が完了しました";
 
 "Search..." = "検索...";
 
+"Select Application" = "アプリケーションを選択";
+
 "Select File" = "ファイルを選択";
 
 "Select Folder" = "フォルダを選択";
 
 "Set a maximum of (%@) data records to be saved for each monitored file." = "監視対象の各ファイルに保存するデータ記録の最大数を(%@)に設定します。";
-
-"Set a maximum of (%@) data records to be stored for each monitored file." = "監視対象の各ファイルに保存するデータレコードの最大数を(%@)に設定します。";
 
 "Settings" = "設定";
 
@@ -159,13 +168,13 @@
 
 "Syntax Highlighting" = "シンタックスハイライト";
 
+"Terminal Apps" = "ターミナルアプリ";
+
 "Thank you for your support. The basic features are not restricted, and only a few settings are limited. Sponsorship support will unlock these limitations." = "ご支援ありがとうございます。基本機能に制限はなく、一部の設定のみ制限されています。スポンサーサポートによりこれらの制限が解除されます。";
 
-"Thank you for your support. The fundamental features remain unrestricted, with only certain settings limited. By sponsoring, you can unlock these limitations." = "ご支援ありがとうございます。基本機能に制限はなく、一部の設定のみ制限されています。スポンサーになることで、これらの制限を解除できます。";
-
-"The file monitor has been successfully restarted and continues to watch for file changes." = "ファイルモニターは正常に再起動され、引き続きファイルの変更を監視します。";
-
 "The file monitor has been successfully restarted and will continue to watch for file changes." = "ファイルモニターは正常に再起動され、引き続きファイルの変更を監視します。";
+
+"These apps appear in context menus as "Copy & Open …". Terminal and iTerm are added by default. You can add other command-line apps such as Warp or Alacritty." = "これらのアプリはコンテキストメニューに「コピーして開く…」として表示されます。TerminalとiTermはデフォルトで追加されています。WarpやAlacrittyなどの他のコマンドラインアプリを追加できます。";
 
 "This is NOT a text file" = "これはテキストファイルではありません";
 

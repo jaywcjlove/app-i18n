@@ -1,6 +1,58 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        }
+      }
+    },
     " - " : {
       "extractionState" : "manual",
       "generatesSymbol" : false,
@@ -61,6 +113,52 @@
         }
       }
     },
+    "\"%@\" is already in the list." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%@\" ist bereits in der Liste."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%@\" est déjà dans la liste."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%@\" è già nella lista."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%@\" は既にリストにあります。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%@\"이(가) 이미 목록에 있습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%@\" уже в списке."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%@\" 已在列表中。"
+          }
+        }
+      }
+    },
     "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -116,58 +214,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Twitter](https://x.com/jaywcjlove) • [電子郵件](emailurl) • [Github](githuburl)"
-          }
-        }
-      }
-    },
-    "%" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@"
           }
         }
       }
@@ -465,6 +511,98 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "關於 %@"
+          }
+        }
+      }
+    },
+    "Add" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinzufügen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追加"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "추가"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добавить"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加"
+          }
+        }
+      }
+    },
+    "Already Added" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bereits hinzugefügt"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Déjà ajouté"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Già aggiunto"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追加済み"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미 추가됨"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Уже добавлено"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已添加"
           }
         }
       }
@@ -941,6 +1079,47 @@
         }
       }
     },
+    "Copy & Open %@" : {
+      "comment" : "Copy command and open terminal app",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kopieren & %@ öffnen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copier et ouvrir %@"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copia e apri %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コピーして %@ で開く"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "복사 후 %@(으)로 열기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Копировать и открыть %@"
+          }
+        }
+      }
+    },
     "Copy & Open iTerm" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1114,6 +1293,52 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "複製指令"
+          }
+        }
+      }
+    },
+    "Could not read the application bundle identifier." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Bundle-ID der Anwendung konnte nicht gelesen werden."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible de lire l'identifiant du bundle de l'application."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossibile leggere l'identificatore del bundle dell'applicazione."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリケーションのバンドルIDを読み取れませんでした。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "애플리케이션 번들 식별자를 읽을 수 없습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не удалось прочитать идентификатор пакета приложения."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法读取应用程序的包标识符。"
           }
         }
       }
@@ -1531,58 +1756,6 @@
         }
       }
     },
-    "Enabling this feature will deduplicate data in history and insert new items" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Durch Aktivieren dieser Funktion werden doppelte Daten im Verlauf dedupliziert und neue Einträge eingefügt."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "L'activation de cette fonction dédupliquera les données de l'historique et insérera de nouveaux éléments."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abilitando questa funzione, i dati nella cronologia verranno deduplicati e verranno inseriti nuovi elementi."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "この機能を有効にすると、履歴内のデータが重複排除され、新しいアイテムが挿入されます。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "이 기능을 활성화하면 기록에서 중복 데이터가 제거되고 새 항목이 삽입됩니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Включение этой функции удалит дублирующиеся данные в истории и вставит новые элементы."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "启用此功能将对历史记录中的数据进行去重并插入新条目。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "啟用此功能將對歷史記錄中的資料進行去重並插入新條目。"
-          }
-        }
-      }
-    },
     "Enabling this feature will remove duplicate data from the history and insert a new entry." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1874,58 +2047,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "檔案已存在"
-          }
-        }
-      }
-    },
-    "Files being frequently read / write or deleted then recreated may lose permissions and authorizing the parent folder can help avoid repeated authorization issues." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Häufig gelesene/geschriebene oder gelöschte und danach neu erstellte Dateien können Berechtigungen verlieren. Die Autorisierung des übergeordneten Ordners kann helfen, wiederholte Autorisierungsprobleme zu vermeiden."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Les fichiers fréquemment lus/écrits ou supprimés puis recréés peuvent perdre leurs autorisations ; l'autorisation du dossier parent peut aider à éviter des problèmes d'autorisation répétés."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "I file letti/scritti frequentemente o eliminati e poi ricreati possono perdere i permessi; autorizzare la cartella padre può aiutare a evitare problemi di autorizzazione ripetuti."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "頻繁に読み書きされたり、削除後に再作成されたりするファイルは権限を失う可能性があります。親フォルダを認証することで、繰り返しの認証問題を回避できます。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "자주 읽기/쓰기 또는 삭제 후 재생성되는 파일은 권한이 손실될 수 있습니다. 상위 폴더를 승인하면 반복적인 권한 문제를 피할 수 있습니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Файлы, которые часто читаются/записываются или удаляются и затем пересоздаются, могут терять разрешения; авторизация родительской папки поможет избежать повторных проблем с разрешениями."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "频繁读取/写入或删除后重建的文件可能会丢失权限，授权上级文件夹可以帮助避免重复授权问题。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "頻繁讀取/寫入或刪除後重建的檔案可能會遺失權限，授權上層檔案夾可以幫助避免重複授權問題。"
           }
         }
       }
@@ -2398,6 +2519,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正在匯入初始資料..."
+          }
+        }
+      }
+    },
+    "Invalid Application" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ungültige Anwendung"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Application non valide"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Applicazione non valida"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無効なアプリケーション"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "유효하지 않은 애플리케이션"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Недействительное приложение"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无效的应用程序"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無效的應用程式"
           }
         }
       }
@@ -3051,6 +3224,55 @@
         }
       }
     },
+    "No terminal apps configured." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Terminal-Apps konfiguriert."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune application de terminal configurée."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessuna app di terminale configurata."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ターミナルアプリが設定されていません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구성된 터미널 앱이 없습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Терминальные приложения не настроены."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未配置终端应用。"
+          }
+        }
+      }
+    },
+    "Not installed" : {
+
+    },
     "Number" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -3110,65 +3332,13 @@
         }
       }
     },
-    "Number of log entries displayed initially and each time you tap 'Load More'." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Anzahl der Protokolleinträge, die anfänglich und bei jedem Tippen auf „Mehr laden“ angezeigt werden."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nombre d'entrées de journal affichées initialement et chaque fois que vous appuyez sur « Charger plus »."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Numero di voci di log visualizzate inizialmente e ogni volta che tocchi «Carica altro»."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "初期表示時および「もっと読み込む」をタップするたびに表示されるログエントリ数。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "초기 표시 및 '더 불러오기'를 탭할 때마다 표시되는 로그 항목 수입니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Количество записей журнала, отображаемых изначально и при каждом нажатии «Загрузить ещё»."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "初始显示以及每次点击「加载更多」时显示的日志条目数。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "初始顯示以及每次點擊「載入更多」時顯示的日誌條目數。"
-          }
-        }
-      }
-    },
     "Number of log entries shown initially and each time you tap Load More." : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anzahl der Protokolleinträge, die anfänglich und bei jedem Tippen auf „Mehr laden“ angezeigt werden."
+            "value" : "Anzahl der Protokolleinträge, die anfänglich und bei jedem Tippen auf „Mehr laden\" angezeigt werden."
           }
         },
         "en" : {
@@ -3277,58 +3447,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "確定"
-          }
-        }
-      }
-    },
-    "Only the folder record and access authorization will be removed, and the original files will not be deleted." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Es werden nur der Ordnerdatensatz und die Zugriffsberechtigung entfernt; die Originaldateien werden nicht gelöscht."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Seuls l'enregistrement du dossier et l'autorisation d'accès seront supprimés, les fichiers d'origine ne seront pas supprimés."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verranno rimossi solo il record della cartella e l'autorizzazione di accesso; i file originali non verranno eliminati."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "フォルダ記録とアクセス認証のみが削除され、元のファイルは削除されません。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "폴더 기록과 접근 권한만 제거되며, 원본 파일은 삭제되지 않습니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Будет удалена только запись о папке и авторизация доступа, исходные файлы не будут удалены."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "仅删除文件夹记录和访问授权，原始文件不会被删除。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "僅刪除檔案夾記錄和存取授權，原始檔案不會被刪除。"
           }
         }
       }
@@ -3923,6 +4041,52 @@
         }
       }
     },
+    "Remove" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entfernen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rimuovi"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "削除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "제거"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除"
+          }
+        }
+      }
+    },
     "Reset syntax highlighting colors" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -4100,6 +4264,52 @@
         }
       }
     },
+    "Select Application" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anwendung auswählen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner une application"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona applicazione"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリケーションを選択"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "애플리케이션 선택"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбрать приложение"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择应用程序"
+          }
+        }
+      }
+    },
     "Select File" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -4273,58 +4483,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "設定每個被監控檔案最多儲存 (%@) 條資料記錄。"
-          }
-        }
-      }
-    },
-    "Set a maximum of (%@) data records to be stored for each monitored file." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maximale Anzahl von (%@) Datensätzen festlegen, die für jede überwachte Datei gespeichert werden."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Définir un maximum de (%@) enregistrements de données à stocker pour chaque fichier surveillé."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Imposta un massimo di (%@) record di dati da memorizzare per ogni file monitorato."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "監視対象の各ファイルに保存するデータレコードの最大数を(%@)に設定します。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "모니터링되는 각 파일에 대해 최대 (%@)개의 데이터 레코드가 저장되도록 설정합니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Установить максимум (%@) записей данных для хранения для каждого отслеживаемого файла."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "为每个被监控的文件设置最多存储 (%@) 条数据记录。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "為每個被監控的檔案設定最多儲存 (%@) 條資料記錄。"
           }
         }
       }
@@ -4802,6 +4960,58 @@
         }
       }
     },
+    "Terminal Apps" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terminal-Apps"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Applications de terminal"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App terminale"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ターミナルアプリ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "터미널 앱"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Терминальные приложения"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "终端应用"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "終端機應用"
+          }
+        }
+      }
+    },
     "Thank you for your support. The basic features are not restricted, and only a few settings are limited. Sponsorship support will unlock these limitations." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -4857,110 +5067,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "感謝您的支援。基本功能不受限制，只有少數設定被限制。贊助支援將解鎖這些限制。"
-          }
-        }
-      }
-    },
-    "Thank you for your support. The fundamental features remain unrestricted, with only certain settings limited. By sponsoring, you can unlock these limitations." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vielen Dank für Ihre Unterstützung. Die grundlegenden Funktionen sind uneingeschränkt, nur bestimmte Einstellungen sind begrenzt. Durch Sponsoring können Sie diese Einschränkungen aufheben."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Merci de votre soutien. Les fonctionnalités fondamentales restent illimitées, seuls certains réglages sont restreints. En sponsorisant, vous pouvez débloquer ces limitations."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grazie per il tuo supporto. Le funzionalità fondamentali rimangono illimitate, solo alcune impostazioni sono limitate. Sponsorizzando, puoi sbloccare queste limitazioni."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ご支援ありがとうございます。基本機能に制限はなく、一部の設定のみ制限されています。スポンサーになることで、これらの制限を解除できます。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "지원해 주셔서 감사합니다. 기본 기능은 제한되지 않으며, 일부 설정만 제한되어 있습니다. 후원을 통해 이러한 제한을 해제할 수 있습니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Спасибо за вашу поддержку. Основные функции остаются без ограничений, только некоторые настройки ограничены. Оформив спонсорство, вы сможете снять эти ограничения."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "感谢您的支持。基础功能不受限制，仅部分设置存在限制。通过赞助，您可以解锁这些限制。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "感謝您的支援。基本功能不受限制，僅部分設定存在限制。透過贊助，您可以解鎖這些限制。"
-          }
-        }
-      }
-    },
-    "The file monitor has been successfully restarted and continues to watch for file changes." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Die Dateiüberwachung wurde erfolgreich neu gestartet und überwacht weiterhin Dateiänderungen."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Le moniteur de fichiers a été redémarré avec succès et continue de surveiller les modifications de fichiers."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Il monitor file è stato riavviato correttamente e continua a monitorare le modifiche ai file."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ファイルモニターは正常に再起動され、引き続きファイルの変更を監視します。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "파일 모니터가 성공적으로 재시작되었으며 계속해서 파일 변경 사항을 감시합니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Монитор файлов был успешно перезапущен и продолжает отслеживать изменения файлов."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "文件监视器已成功重启，并继续监视文件变更。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "檔案監控器已成功重新啟動，並持續監視檔案變更。"
           }
         }
       }
@@ -5023,6 +5129,9 @@
           }
         }
       }
+    },
+    "These apps appear in context menus as “Copy & Open …”. Terminal and iTerm are added by default. You can add other command-line apps such as Warp or Alacritty." : {
+
     },
     "This is NOT a text file" : {
       "extractionState" : "manual",

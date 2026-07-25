@@ -1,6 +1,6 @@
 " - " = " - ";
 
-"%" = "%";
+"\"%@\" is already in the list." = "\"%@\" 已在列表中。";
 
 "%@" = "%@";
 
@@ -9,6 +9,10 @@
 "About" = "关于";
 
 "About %@" = "关于 %@";
+
+"Add" = "添加";
+
+"Already Added" = "已添加";
 
 "Authorized" = "已授权";
 
@@ -26,11 +30,16 @@
 
 "Copy" = "拷贝";
 
+/* Copy command and open terminal app */
+"Copy & Open %@" = "Copy & Open %@";
+
 "Copy & Open Terminal" = "复制并打开终端";
 
 "Copy & Open iTerm" = "复制并打开 iTerm";
 
 "Copy Command" = "拷贝命令";
+
+"Could not read the application bundle identifier." = "无法读取应用程序的包标识符。";
 
 "Delete" = "删除";
 
@@ -46,8 +55,6 @@
 
 "Enable syntax highlighting" = "启用语法高亮";
 
-"Enabling this feature will deduplicate data in history and insert new items" = "启用此功能将对历史记录中的数据进行去重并插入新条目。";
-
 "Enabling this feature will remove duplicate data from the history and insert a new entry." = "启用此功能将删除历史记录中的重复数据，并插入一条新的数据。";
 
 "Favorite" = "搜藏";
@@ -57,8 +64,6 @@
 "Feedback" = "反馈";
 
 "File already exists" = "文件已存在";
-
-"Files being frequently read / write or deleted then recreated may lose permissions and authorizing the parent folder can help avoid repeated authorization issues." = "频繁读取/写入或删除后重建的文件可能会丢失权限，授权上级文件夹可以帮助避免重复授权问题。";
 
 "Files being frequently read/written or deleted and recreated may cause permission loss. Authorizing their parent folder can avoid repeated authorization issues." = "频繁读取、写入或删除重建的文件可能导致权限丢失。授权它们的上级文件夹可以避免反复授权的问题。";
 
@@ -75,6 +80,8 @@
 "Ignore the last (%@) duplicates" = "忽略最近 (%@) 次重复";
 
 "Importing initial data..." = "正在导入初始数据…";
+
+"Invalid Application" = "无效的应用程序";
 
 "Keyword" = "关键字";
 
@@ -98,16 +105,16 @@
 
 "No results found" = "没有找到结果";
 
-"Number" = "数字";
+"No terminal apps configured." = "未配置终端应用。";
 
-"Number of log entries displayed initially and each time you tap 'Load More'." = "初始显示以及每次点击「加载更多」时显示的日志条目数。";
+"Not installed" = "Not installed";
+
+"Number" = "数字";
 
 "Number of log entries shown initially and each time you tap Load More." = "初始显示以及每次点击「加载更多」时显示的日志条目数量。";
 
 /* Default OK button */
 "OK" = "确认";
-
-"Only the folder record and access authorization will be removed, and the original files will not be deleted." = "仅删除文件夹记录和访问授权，原始文件不会被删除。";
 
 "Only the folder record and its access permission will be removed, the original files will not be deleted." = "只有文件夹记录及其访问权限会被移除，原始文件不会被删除。";
 
@@ -129,19 +136,21 @@
 
 "Reload" = "重新加载";
 
+"Remove" = "移除";
+
 "Reset syntax highlighting colors" = "重置代码高亮颜色 ";
 
 "Restart Monitoring Completed" = "已完成重新监听";
 
 "Search..." = "搜索...";
 
+"Select Application" = "选择应用程序";
+
 "Select File" = "选择文件";
 
 "Select Folder" = "选择文件夹";
 
 "Set a maximum of (%@) data records to be saved for each monitored file." = "为每个监控的文件设置最大保存 (%@) 条数据记录。";
-
-"Set a maximum of (%@) data records to be stored for each monitored file." = "为每个被监控的文件设置最多存储 (%@) 条数据记录。";
 
 "Settings" = "设置";
 
@@ -159,13 +168,13 @@
 
 "Syntax Highlighting" = "语法高亮";
 
+"Terminal Apps" = "终端应用";
+
 "Thank you for your support. The basic features are not restricted, and only a few settings are limited. Sponsorship support will unlock these limitations." = "感谢您的支持，基础功能没有限制，只有少量设置受到限制。通过赞助支持，您将解锁这些限制。";
 
-"Thank you for your support. The fundamental features remain unrestricted, with only certain settings limited. By sponsoring, you can unlock these limitations." = "感谢您的支持。基础功能不受限制，仅部分设置存在限制。通过赞助，您可以解锁这些限制。";
-
-"The file monitor has been successfully restarted and continues to watch for file changes." = "文件监视器已成功重启，并继续监视文件变更。";
-
 "The file monitor has been successfully restarted and will continue to watch for file changes." = "文件监视器已成功重启，现在会继续监听文件的变更。";
+
+"These apps appear in context menus as "Copy & Open …". Terminal and iTerm are added by default. You can add other command-line apps such as Warp or Alacritty." = "这些应用会在上下文菜单中显示为"复制并打开…"。Terminal 和 iTerm 为默认添加。您可以添加其他命令行应用，如 Warp 或 Alacritty。";
 
 "This is NOT a text file" = "这不是一个文本文件";
 

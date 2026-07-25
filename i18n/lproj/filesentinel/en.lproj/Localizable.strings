@@ -1,6 +1,6 @@
 " - " = " - ";
 
-"%" = "%";
+"\"%@\" is already in the list." = "\"%@\" is already in the list.";
 
 "%@" = "%@";
 
@@ -9,6 +9,10 @@
 "About" = "About";
 
 "About %@" = "About %@";
+
+"Add" = "Add";
+
+"Already Added" = "Already Added";
 
 "Authorized" = "Authorized";
 
@@ -26,11 +30,16 @@
 
 "Copy" = "Copy";
 
+/* Copy command and open terminal app */
+"Copy & Open %@" = "Copy & Open %@";
+
 "Copy & Open Terminal" = "Copy & Open Terminal";
 
 "Copy & Open iTerm" = "Copy & Open iTerm";
 
 "Copy Command" = "Copy Command";
+
+"Could not read the application bundle identifier." = "Could not read the application bundle identifier.";
 
 "Delete" = "Delete";
 
@@ -46,8 +55,6 @@
 
 "Enable syntax highlighting" = "Enable syntax highlighting";
 
-"Enabling this feature will deduplicate data in history and insert new items" = "Enabling this feature will deduplicate data in history and insert new items";
-
 "Enabling this feature will remove duplicate data from the history and insert a new entry." = "Enabling this feature will remove duplicate data from the history and insert a new entry.";
 
 "Favorite" = "Favorite";
@@ -57,8 +64,6 @@
 "Feedback" = "Feedback";
 
 "File already exists" = "File already exists";
-
-"Files being frequently read / write or deleted then recreated may lose permissions and authorizing the parent folder can help avoid repeated authorization issues." = "Files being frequently read / write or deleted then recreated may lose permissions and authorizing the parent folder can help avoid repeated authorization issues.";
 
 "Files being frequently read/written or deleted and recreated may cause permission loss. Authorizing their parent folder can avoid repeated authorization issues." = "Files being frequently read/written or deleted and recreated may cause permission loss. Authorizing their parent folder can avoid repeated authorization issues.";
 
@@ -75,6 +80,8 @@
 "Ignore the last (%@) duplicates" = "Ignore the last (%@) duplicates";
 
 "Importing initial data..." = "Importing initial data...";
+
+"Invalid Application" = "Invalid Application";
 
 "Keyword" = "Keyword";
 
@@ -98,16 +105,16 @@
 
 "No results found" = "No results found";
 
-"Number" = "Number";
+"No terminal apps configured." = "No terminal apps configured.";
 
-"Number of log entries displayed initially and each time you tap 'Load More'." = "Number of log entries displayed initially and each time you tap 'Load More'.";
+"Not installed" = "Not installed";
+
+"Number" = "Number";
 
 "Number of log entries shown initially and each time you tap Load More." = "Number of log entries shown initially and each time you tap Load More.";
 
 /* Default OK button */
 "OK" = "OK";
-
-"Only the folder record and access authorization will be removed, and the original files will not be deleted." = "Only the folder record and access authorization will be removed, and the original files will not be deleted.";
 
 "Only the folder record and its access permission will be removed, the original files will not be deleted." = "Only the folder record and its access permission will be removed, the original files will not be deleted.";
 
@@ -129,19 +136,21 @@
 
 "Reload" = "Reload";
 
+"Remove" = "Remove";
+
 "Reset syntax highlighting colors" = "Reset syntax highlighting colors";
 
 "Restart Monitoring Completed" = "Restart Monitoring Completed";
 
 "Search..." = "Search...";
 
+"Select Application" = "Select Application";
+
 "Select File" = "Select File";
 
 "Select Folder" = "Select Folder";
 
 "Set a maximum of (%@) data records to be saved for each monitored file." = "Set a maximum of (%@) data records to be saved for each monitored file.";
-
-"Set a maximum of (%@) data records to be stored for each monitored file." = "Set a maximum of (%@) data records to be stored for each monitored file.";
 
 "Settings" = "Settings";
 
@@ -159,13 +168,13 @@
 
 "Syntax Highlighting" = "Syntax Highlighting";
 
+"Terminal Apps" = "Terminal Apps";
+
 "Thank you for your support. The basic features are not restricted, and only a few settings are limited. Sponsorship support will unlock these limitations." = "Thank you for your support. The basic features are not restricted, and only a few settings are limited. Sponsorship support will unlock these limitations.";
 
-"Thank you for your support. The fundamental features remain unrestricted, with only certain settings limited. By sponsoring, you can unlock these limitations." = "Thank you for your support. The fundamental features remain unrestricted, with only certain settings limited. By sponsoring, you can unlock these limitations.";
-
-"The file monitor has been successfully restarted and continues to watch for file changes." = "The file monitor has been successfully restarted and continues to watch for file changes.";
-
 "The file monitor has been successfully restarted and will continue to watch for file changes." = "The file monitor has been successfully restarted and will continue to watch for file changes.";
+
+"These apps appear in context menus as “Copy & Open …”. Terminal and iTerm are added by default. You can add other command-line apps such as Warp or Alacritty." = "These apps appear in context menus as “Copy & Open …”. Terminal and iTerm are added by default. You can add other command-line apps such as Warp or Alacritty.";
 
 "This is NOT a text file" = "This is NOT a text file";
 
