@@ -38,6 +38,8 @@
 
 "Calculate and display the size of the selected file or folder." = "選択したファイルまたはフォルダーのサイズを計算して表示します。";
 
+"Calculate file hashes and copy them to the clipboard." = "ファイルハッシュを計算し、クリップボードにコピーします。";
+
 "Cancel" = "キャンセル";
 
 "Change folder icon color" = "フォルダーアイコンの色を変更する";
@@ -169,6 +171,8 @@
 
 "File" = "ファイル";
 
+"File Hash Calculator" = "ファイルハッシュ計算ツール";
+
 "File does not exist" = "ファイルが存在しません";
 
 "Finder Context Menu" = "ファインダーのコンテキスト メニュー";
@@ -216,6 +220,8 @@
 "History Count" = "履歴カウント";
 
 "Icon" = "アイコン";
+
+"Icon Composer Preview" = "Icon Composer プレビュー";
 
 "If the issue persists, please restart the application and recheck for any permission issues." = "問題が解決しない場合は、アプリケーションを再起動し、権限の問題がないか再確認してください。";
 
@@ -299,6 +305,8 @@
 "Port" = "ポート";
 
 "Preview .app bundles in Finder with bundle ID, version, architectures, sandbox status, and more. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist App Preview**]." = "Finderで.appバンドルをバンドルID、バージョン、アーキテクチャ、サンドボックスステータスなどとともにプレビューします。[**システム設定**] -> [**一般**] -> [**ログイン項目と機能拡張**] -> [**クイックルック**] -> [**Menuist App Preview**]で有効/無効を切り替えます。";
+
+"Preview Icon Composer `.icon` packages (icon.json + Assets) in Finder: composed preview, layers, and asset thumbnails. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Icon Preview**]." = "Finder で Icon Composer の `.icon` パッケージ（icon.json + Assets）をプレビュー：合成プレビュー、レイヤー、アセットのサムネイル。[**システム設定**] -> [**一般**] -> [**ログイン項目と機能拡張**] -> [**クイックルック**] -> [**Menuist Icon Preview**] で有効/無効にできます。";
 
 "Preview source code files in Finder with syntax highlighting. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Code Highlighting**]." = "Finderでソースコードファイルをシンタックスハイライト付きでプレビューします。[**システム設定**] -> [**一般**] -> [**ログイン項目と機能拡張**] -> [**クイックルック**] -> [**Menuist Code Highlighting**]で有効/無効を切り替えます。";
 

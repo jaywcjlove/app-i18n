@@ -38,6 +38,8 @@
 
 "Calculate and display the size of the selected file or folder." = "선택한 파일이나 폴더의 크기를 계산하고 표시합니다.";
 
+"Calculate file hashes and copy them to the clipboard." = "파일 해시를 계산해 클립보드에 복사합니다.";
+
 "Cancel" = "취소";
 
 "Change folder icon color" = "폴더 아이콘 색상 변경";
@@ -169,6 +171,8 @@
 
 "File" = "파일";
 
+"File Hash Calculator" = "파일 해시 계산기";
+
 "File does not exist" = "파일이 존재하지 않습니다";
 
 "Finder Context Menu" = "Finder 컨텍스트 메뉴";
@@ -216,6 +220,8 @@
 "History Count" = "기록 개수";
 
 "Icon" = "상";
+
+"Icon Composer Preview" = "Icon Composer 미리보기";
 
 "If the issue persists, please restart the application and recheck for any permission issues." = "문제가 지속되면 애플리케이션을 다시 시작하고 권한 문제가 있는지 다시 확인하세요.";
 
@@ -299,6 +305,8 @@
 "Port" = "포트";
 
 "Preview .app bundles in Finder with bundle ID, version, architectures, sandbox status, and more. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist App Preview**]." = "Finder에서 .app 번들을 번들 ID, 버전, 아키텍처, 샌드박스 상태 등과 함께 미리 봅니다. [**시스템 설정**] -> [**일반**] -> [**로그인 항목 및 확장 프로그램**] -> [**훑어보기**] -> [**Menuist App Preview**]에서 활성화 또는 비활성화할 수 있습니다.";
+
+"Preview Icon Composer `.icon` packages (icon.json + Assets) in Finder: composed preview, layers, and asset thumbnails. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Icon Preview**]." = "Finder에서 Icon Composer `.icon` 패키지(icon.json + Assets)를 미리 봅니다: 합성 미리보기, 레이어, 에셋 썸네일. [**시스템 설정**] -> [**일반**] -> [**로그인 항목 및 확장 프로그램**] -> [**훑어보기**] -> [**Menuist Icon Preview**]에서 켜거나 끌 수 있습니다.";
 
 "Preview source code files in Finder with syntax highlighting. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Code Highlighting**]." = "Finder에서 소스 코드 파일을 구문 강조 표시와 함께 미리 봅니다. [**시스템 설정**] -> [**일반**] -> [**로그인 항목 및 확장 프로그램**] -> [**훑어보기**] -> [**Menuist Code Highlighting**]에서 활성화 또는 비활성화할 수 있습니다.";
 

@@ -1,3 +1,7 @@
+"%@ copied" = "%@ をコピーしました";
+
+"%lld file(s) failed." = "%lld 件失敗しました。";
+
 "Add Application" = "アプリケーションの追加";
 
 "Add Color" = "色を追加する";
@@ -5,6 +9,8 @@
 "Add template" = "テンプレートの追加";
 
 "Add to Common Folders" = "共通フォルダに追加";
+
+"All Hashes" = "すべてのハッシュ";
 
 "Cancel" = "キャンセル";
 
@@ -63,6 +69,10 @@
 
 "Failed to save image" = "画像の保存に失敗しました";
 
+"File Hash Calculator" = "ファイルハッシュ計算ツール";
+
+"File hash copied" = "ファイルハッシュをコピーしました";
+
 "Folder Color" = "フォルダーの色";
 
 "Folder History" = "フォルダ履歴";
@@ -76,6 +86,12 @@
 "Grant Folder Permission" = "フォルダー権限の付与";
 
 "Grant Permissions" = "権限の付与";
+
+"Hash calculation failed" = "ハッシュ計算に失敗しました";
+
+"Hash of “%@” has been copied to the clipboard." = "“%@” のハッシュをクリップボードにコピーしました。";
+
+"Hashes of %lld files have been copied to the clipboard." = "%lld 件のファイルのハッシュをクリップボードにコピーしました。";
 
 "Image convert error: %@" = "画像変換エラー: %@";
 
@@ -91,6 +107,8 @@
 "New File" = "新しいファイル";
 
 "New File in Main" = "メインの新しいファイル";
+
+"No files selected" = "ファイルが選択されていません";
 
 "No items selected" = "項目が選択されていません";
 

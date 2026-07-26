@@ -1,3 +1,7 @@
+"%@ copied" = "%@ 已复制";
+
+"%lld file(s) failed." = "%lld 个文件失败。";
+
 "Add Application" = "添加应用";
 
 "Add Color" = "添加颜色";
@@ -5,6 +9,8 @@
 "Add template" = "添加模板";
 
 "Add to Common Folders" = "添加到常用文件夹";
+
+"All Hashes" = "全部哈希";
 
 "Cancel" = "取消";
 
@@ -63,6 +69,10 @@
 
 "Failed to save image" = "保存图像失败";
 
+"File Hash Calculator" = "文件哈希计算工具";
+
+"File hash copied" = "文件哈希已复制";
+
 "Folder Color" = "文件夹颜色";
 
 "Folder History" = "文件夹历史";
@@ -76,6 +86,12 @@
 "Grant Folder Permission" = "授予文件夹权限";
 
 "Grant Permissions" = "授予权限";
+
+"Hash calculation failed" = "哈希计算失败";
+
+"Hash of “%@” has been copied to the clipboard." = "“%@” 的哈希已复制到剪贴板。";
+
+"Hashes of %lld files have been copied to the clipboard." = "已将 %lld 个文件的哈希复制到剪贴板。";
 
 "Image convert error: %@" = "图片转换错误：%@";
 
@@ -91,6 +107,8 @@
 "New File" = "新建文件";
 
 "New File in Main" = "主菜单新文件";
+
+"No files selected" = "未选择文件";
 
 "No items selected" = "未选择任何项目";
 

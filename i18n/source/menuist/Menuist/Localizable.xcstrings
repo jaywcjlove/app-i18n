@@ -1463,6 +1463,58 @@
         }
       }
     },
+    "Calculate file hashes and copy them to the clipboard." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dateihashes berechnen und in die Zwischenablage kopieren."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calcule les hachages de fichier et les copie dans le presse-papiers."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calcola gli hash del file e li copia negli appunti."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルハッシュを計算し、クリップボードにコピーします。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "파일 해시를 계산해 클립보드에 복사합니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вычисляет хеши файлов и копирует в буфер обмена."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "计算文件哈希并复制到剪贴板。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "計算檔案雜湊並複製到剪貼簿。"
+          }
+        }
+      }
+    },
     "Cancel" : {
       "localizations" : {
         "de" : {
@@ -4896,6 +4948,58 @@
         }
       }
     },
+    "File Hash Calculator" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datei-Hash-Rechner"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calculateur de hachage de fichier"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calcolatore hash file"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルハッシュ計算ツール"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "파일 해시 계산기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Калькулятор хеша файла"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件哈希计算工具"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "檔案雜湊計算工具"
+          }
+        }
+      }
+    },
     "Finder Context Menu" : {
       "localizations" : {
         "de" : {
@@ -6088,6 +6192,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "圖示"
+          }
+        }
+      }
+    },
+    "Icon Composer Preview" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icon Composer-Vorschau"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aperçu Icon Composer"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anteprima Icon Composer"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icon Composer プレビュー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icon Composer 미리보기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Превью Icon Composer"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icon Composer 预览"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icon Composer 預覽"
           }
         }
       }
@@ -8227,6 +8383,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在訪達中預覽 .app 套件，顯示套件 ID、版本、架構、沙盒狀態等資訊。在 [**系統偏好設定**] -> [**通用**] -> [**登入項和擴充套件**] -> [**快速檢視**] -> [**Menuist App Preview**] 中啟用或禁用。"
+          }
+        }
+      }
+    },
+    "Preview Icon Composer `.icon` packages (icon.json + Assets) in Finder: composed preview, layers, and asset thumbnails. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Icon Preview**]." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorschau von Icon-Composer-`.icon`-Paketen (icon.json + Assets) im Finder: zusammengesetzte Vorschau, Ebenen und Asset-Miniaturen. Aktivieren/deaktivieren unter [**Systemeinstellungen**] -> [**Allgemein**] -> [**Anmeldeobjekte & Erweiterungen**] -> [**Übersicht**] -> [**Menuist Icon Preview**]."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prévisualisez les packages `.icon` d'Icon Composer (icon.json + Assets) dans le Finder : aperçu composé, calques et miniatures. Activez ou désactivez dans [**Réglages Système**] -> [**Général**] -> [**Éléments de connexion et extensions**] -> [**Aperçu rapide**] -> [**Menuist Icon Preview**]."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anteprima dei pacchetti `.icon` di Icon Composer (icon.json + Assets) in Finder: anteprima composta, livelli e miniature. Abilita o disabilita in [**Impostazioni di Sistema**] -> [**Generali**] -> [**Elementi di login ed estensioni**] -> [**Quick Look**] -> [**Menuist Icon Preview**]."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finder で Icon Composer の `.icon` パッケージ（icon.json + Assets）をプレビュー：合成プレビュー、レイヤー、アセットのサムネイル。[**システム設定**] -> [**一般**] -> [**ログイン項目と機能拡張**] -> [**クイックルック**] -> [**Menuist Icon Preview**] で有効/無効にできます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finder에서 Icon Composer `.icon` 패키지(icon.json + Assets)를 미리 봅니다: 합성 미리보기, 레이어, 에셋 썸네일. [**시스템 설정**] -> [**일반**] -> [**로그인 항목 및 확장 프로그램**] -> [**훑어보기**] -> [**Menuist Icon Preview**]에서 켜거나 끌 수 있습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Предпросмотр пакетов Icon Composer `.icon` (icon.json + Assets) в Finder: составной превью, слои и миниатюры ресурсов. Включение/отключение: [**Системные настройки**] -> [**Основные**] -> [**Объекты входа и расширения**] -> [**Быстрый просмотр**] -> [**Menuist Icon Preview**]."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Finder 中预览 Icon Composer 的 `.icon` 包（icon.json + Assets）：合成预览、图层与资源缩略图。可在 [**系统设置**] -> [**通用**] -> [**登录项与扩展**] -> [**快速查看**] -> [**Menuist Icon Preview**] 中启用或禁用。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Finder 中預覽 Icon Composer 的 `.icon` 套件（icon.json + Assets）：合成預覽、圖層與資源縮圖。可在 [**系統設定**] -> [**一般**] -> [**登入項目與延伸功能**] -> [**快速查看**] -> [**Menuist Icon Preview**] 中啟用或停用。"
           }
         }
       }

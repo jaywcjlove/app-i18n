@@ -1,3 +1,7 @@
+"%@ copied" = "%@ 已複製";
+
+"%lld file(s) failed." = "%lld 個檔案失敗。";
+
 "Add Application" = "新增應用";
 
 "Add Color" = "新增顏色";
@@ -5,6 +9,8 @@
 "Add template" = "新增模板";
 
 "Add to Common Folders" = "新增到常用資料夾";
+
+"All Hashes" = "全部雜湊";
 
 "Cancel" = "取消";
 
@@ -63,6 +69,10 @@
 
 "Failed to save image" = "儲存影象失敗";
 
+"File Hash Calculator" = "檔案雜湊計算工具";
+
+"File hash copied" = "檔案雜湊已複製";
+
 "Folder Color" = "資料夾顏色";
 
 "Folder History" = "資料夾歷史";
@@ -76,6 +86,12 @@
 "Grant Folder Permission" = "授予資料夾許可權";
 
 "Grant Permissions" = "授予許可權";
+
+"Hash calculation failed" = "雜湊計算失敗";
+
+"Hash of “%@” has been copied to the clipboard." = "「%@」的雜湊已複製到剪貼簿。";
+
+"Hashes of %lld files have been copied to the clipboard." = "已將 %lld 個檔案的雜湊複製到剪貼簿。";
 
 "Image convert error: %@" = "圖片轉換錯誤：%@";
 
@@ -91,6 +107,8 @@
 "New File" = "新建檔案";
 
 "New File in Main" = "主選單新檔案";
+
+"No files selected" = "未選擇檔案";
 
 "No items selected" = "未選擇任何專案";
 

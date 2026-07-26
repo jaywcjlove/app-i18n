@@ -1,3 +1,7 @@
+"%@ copied" = "%@ copié";
+
+"%lld file(s) failed." = "%lld fichier(s) en échec.";
+
 "Add Application" = "Ajouter une application";
 
 "Add Color" = "Ajouter de la couleur";
@@ -5,6 +9,8 @@
 "Add template" = "Ajouter un modèle";
 
 "Add to Common Folders" = "Ajouter aux dossiers communs";
+
+"All Hashes" = "Tous les hachages";
 
 "Cancel" = "Annuler";
 
@@ -63,6 +69,10 @@
 
 "Failed to save image" = "Échec de l'enregistrement de l'image";
 
+"File Hash Calculator" = "Calculateur de hachage de fichier";
+
+"File hash copied" = "Hachage du fichier copié";
+
 "Folder Color" = "Couleur du dossier";
 
 "Folder History" = "Historique des dossiers";
@@ -76,6 +86,12 @@
 "Grant Folder Permission" = "Accorder l'autorisation au dossier";
 
 "Grant Permissions" = "Accorder des autorisations";
+
+"Hash calculation failed" = "Échec du calcul de hachage";
+
+"Hash of “%@” has been copied to the clipboard." = "Le hachage de « %@ » a été copié dans le presse-papiers.";
+
+"Hashes of %lld files have been copied to the clipboard." = "Les hachages de %lld fichiers ont été copiés dans le presse-papiers.";
 
 "Image convert error: %@" = "Erreur de conversion d'image : %@";
 
@@ -91,6 +107,8 @@
 "New File" = "Nouveau fichier";
 
 "New File in Main" = "Nouveau fichier dans principal";
+
+"No files selected" = "Aucun fichier sélectionné";
 
 "No items selected" = "Aucun élément sélectionné";
 

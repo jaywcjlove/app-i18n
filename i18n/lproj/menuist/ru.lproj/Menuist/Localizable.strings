@@ -38,6 +38,8 @@
 
 "Calculate and display the size of the selected file or folder." = "Рассчитайте и отобразите размер выбранного файла или папки.";
 
+"Calculate file hashes and copy them to the clipboard." = "Вычисляет хеши файлов и копирует в буфер обмена.";
+
 "Cancel" = "Отмена";
 
 "Change folder icon color" = "Изменить цвет значка папки";
@@ -169,6 +171,8 @@
 
 "File" = "Файл";
 
+"File Hash Calculator" = "Калькулятор хеша файла";
+
 "File does not exist" = "Файл не существует";
 
 "Finder Context Menu" = "Контекстное меню Finder";
@@ -216,6 +220,8 @@
 "History Count" = "История подсчета";
 
 "Icon" = "Икона";
+
+"Icon Composer Preview" = "Превью Icon Composer";
 
 "If the issue persists, please restart the application and recheck for any permission issues." = "Если проблема не устранена, перезапустите приложение и еще раз проверьте наличие проблем с разрешениями.";
 
@@ -299,6 +305,8 @@
 "Port" = "Порт";
 
 "Preview .app bundles in Finder with bundle ID, version, architectures, sandbox status, and more. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist App Preview**]." = "Предпросмотр пакетов .app в Finder с ID пакета, версией, архитектурами, статусом песочницы и другим. Включить или отключить в [**Системные настройки**] -> [**Общие**] -> [**Элементы входа и расширения**] -> [**Быстрый просмотр**] -> [**Menuist App Preview**].";
+
+"Preview Icon Composer `.icon` packages (icon.json + Assets) in Finder: composed preview, layers, and asset thumbnails. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Icon Preview**]." = "Предпросмотр пакетов Icon Composer `.icon` (icon.json + Assets) в Finder: составной превью, слои и миниатюры ресурсов. Включение/отключение: [**Системные настройки**] -> [**Основные**] -> [**Объекты входа и расширения**] -> [**Быстрый просмотр**] -> [**Menuist Icon Preview**].";
 
 "Preview source code files in Finder with syntax highlighting. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Code Highlighting**]." = "Предпросмотр файлов исходного кода в Finder с подсветкой синтаксиса. Включить или отключить в [**Системные настройки**] -> [**Общие**] -> [**Элементы входа и расширения**] -> [**Быстрый просмотр**] -> [**Menuist Code Highlighting**].";
 

@@ -1,3 +1,7 @@
+"%@ copied" = "%@ kopiert";
+
+"%lld file(s) failed." = "%lld Datei(en) fehlgeschlagen.";
+
 "Add Application" = "Anwendung hinzufügen";
 
 "Add Color" = "Farbe hinzufügen";
@@ -5,6 +9,8 @@
 "Add template" = "Vorlage hinzufügen";
 
 "Add to Common Folders" = "Zu gemeinsamen Ordnern hinzufügen";
+
+"All Hashes" = "Alle Hashes";
 
 "Cancel" = "Stornieren";
 
@@ -63,6 +69,10 @@
 
 "Failed to save image" = "Bild konnte nicht gespeichert werden";
 
+"File Hash Calculator" = "Datei-Hash-Rechner";
+
+"File hash copied" = "Datei-Hash kopiert";
+
 "Folder Color" = "Ordnerfarbe";
 
 "Folder History" = "Ordnerverlauf";
@@ -76,6 +86,12 @@
 "Grant Folder Permission" = "Ordnerberechtigung erteilen";
 
 "Grant Permissions" = "Berechtigungen erteilen";
+
+"Hash calculation failed" = "Hash-Berechnung fehlgeschlagen";
+
+"Hash of “%@” has been copied to the clipboard." = "Hash von „%@“ wurde in die Zwischenablage kopiert.";
+
+"Hashes of %lld files have been copied to the clipboard." = "Hashes von %lld Dateien wurden in die Zwischenablage kopiert.";
 
 "Image convert error: %@" = "Fehler bei der Bildkonvertierung: %@";
 
@@ -91,6 +107,8 @@
 "New File" = "Neue Datei";
 
 "New File in Main" = "Neue Datei im Hauptmenü";
+
+"No files selected" = "Keine Dateien ausgewählt";
 
 "No items selected" = "Keine Elemente ausgewählt";
 

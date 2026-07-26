@@ -38,6 +38,8 @@
 
 "Calculate and display the size of the selected file or folder." = "Calculate and display the size of the selected file or folder.";
 
+"Calculate file hashes and copy them to the clipboard." = "Calculate file hashes and copy them to the clipboard.";
+
 "Cancel" = "Cancel";
 
 "Change folder icon color" = "Change folder icon color";
@@ -169,6 +171,8 @@
 
 "File" = "File";
 
+"File Hash Calculator" = "File Hash Calculator";
+
 "File does not exist" = "File does not exist";
 
 "Finder Context Menu" = "Finder Context Menu";
@@ -216,6 +220,8 @@
 "History Count" = "History Count";
 
 "Icon" = "Icon";
+
+"Icon Composer Preview" = "Icon Composer Preview";
 
 "If the issue persists, please restart the application and recheck for any permission issues." = "If the issue persists, please restart the application and recheck for any permission issues.";
 
@@ -299,6 +305,8 @@
 "Port" = "Port";
 
 "Preview .app bundles in Finder with bundle ID, version, architectures, sandbox status, and more. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist App Preview**]." = "Preview .app bundles in Finder with bundle ID, version, architectures, sandbox status, and more. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist App Preview**].";
+
+"Preview Icon Composer `.icon` packages (icon.json + Assets) in Finder: composed preview, layers, and asset thumbnails. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Icon Preview**]." = "Preview Icon Composer `.icon` packages (icon.json + Assets) in Finder: composed preview, layers, and asset thumbnails. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Icon Preview**].";
 
 "Preview source code files in Finder with syntax highlighting. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Code Highlighting**]." = "Preview source code files in Finder with syntax highlighting. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Code Highlighting**].";
 

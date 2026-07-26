@@ -1,3 +1,7 @@
+"%@ copied" = "%@ скопировано";
+
+"%lld file(s) failed." = "%lld файл(ов) с ошибкой.";
+
 "Add Application" = "Добавить приложение";
 
 "Add Color" = "Добавить цвет";
@@ -5,6 +9,8 @@
 "Add template" = "Добавить шаблон";
 
 "Add to Common Folders" = "Добавить в общие папки";
+
+"All Hashes" = "Все хеши";
 
 "Cancel" = "Отмена";
 
@@ -63,6 +69,10 @@
 
 "Failed to save image" = "Не удалось сохранить изображение";
 
+"File Hash Calculator" = "Калькулятор хеша файла";
+
+"File hash copied" = "Хеш файла скопирован";
+
 "Folder Color" = "Цвет папки";
 
 "Folder History" = "История папок";
@@ -76,6 +86,12 @@
 "Grant Folder Permission" = "Предоставить разрешение на папку";
 
 "Grant Permissions" = "Предоставить разрешения";
+
+"Hash calculation failed" = "Не удалось вычислить хеш";
+
+"Hash of “%@” has been copied to the clipboard." = "Хеш «%@» скопирован в буфер обмена.";
+
+"Hashes of %lld files have been copied to the clipboard." = "Хеши %lld файлов скопированы в буфер обмена.";
 
 "Image convert error: %@" = "Ошибка преобразования изображения: %@";
 
@@ -91,6 +107,8 @@
 "New File" = "Новый файл";
 
 "New File in Main" = "Новый файл в главном";
+
+"No files selected" = "Файлы не выбраны";
 
 "No items selected" = "Элементы не выбраны";
 

@@ -38,6 +38,8 @@
 
 "Calculate and display the size of the selected file or folder." = "统计并显示所选文件或文件夹的大小";
 
+"Calculate file hashes and copy them to the clipboard." = "计算文件哈希并复制到剪贴板。";
+
 "Cancel" = "取消";
 
 "Change folder icon color" = "更改文件夹图标颜色";
@@ -169,6 +171,8 @@
 
 "File" = "文件";
 
+"File Hash Calculator" = "文件哈希计算工具";
+
 "File does not exist" = "文件不存在";
 
 "Finder Context Menu" = "访达右键菜单";
@@ -216,6 +220,8 @@
 "History Count" = "历史数量";
 
 "Icon" = "图标";
+
+"Icon Composer Preview" = "Icon Composer 预览";
 
 "If the issue persists, please restart the application and recheck for any permission issues." = "如果问题仍然存在，请重启应用并重新检查权限是否正常。";
 
@@ -299,6 +305,8 @@
 "Port" = "端口号";
 
 "Preview .app bundles in Finder with bundle ID, version, architectures, sandbox status, and more. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist App Preview**]." = "在访达中预览 .app 包，显示包 ID、版本、架构、沙盒状态等信息。在 [**系统偏好设置**] -> [**通用**] -> [**登录项和扩展**] -> [**快速查看**] -> [**Menuist App Preview**] 中启用或禁用。";
+
+"Preview Icon Composer `.icon` packages (icon.json + Assets) in Finder: composed preview, layers, and asset thumbnails. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Icon Preview**]." = "在 Finder 中预览 Icon Composer 的 `.icon` 包（icon.json + Assets）：合成预览、图层与资源缩略图。可在 [**系统设置**] -> [**通用**] -> [**登录项与扩展**] -> [**快速查看**] -> [**Menuist Icon Preview**] 中启用或禁用。";
 
 "Preview source code files in Finder with syntax highlighting. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Code Highlighting**]." = "在访达中以语法高亮预览源代码文件。在 [**系统偏好设置**] -> [**通用**] -> [**登录项和扩展**] -> [**快速查看**] -> [**Menuist Code Highlighting**] 中启用或禁用。";
 

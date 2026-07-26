@@ -38,6 +38,8 @@
 
 "Calculate and display the size of the selected file or folder." = "Berechnen Sie die Größe der ausgewählten Datei oder des ausgewählten Ordners und zeigen Sie sie an.";
 
+"Calculate file hashes and copy them to the clipboard." = "Dateihashes berechnen und in die Zwischenablage kopieren.";
+
 "Cancel" = "Stornieren";
 
 "Change folder icon color" = "Ändern Sie die Farbe des Ordnersymbols";
@@ -169,6 +171,8 @@
 
 "File" = "Datei";
 
+"File Hash Calculator" = "Datei-Hash-Rechner";
+
 "File does not exist" = "Datei existiert nicht";
 
 "Finder Context Menu" = "Finder-Kontextmenü";
@@ -216,6 +220,8 @@
 "History Count" = "Anzahl Verlaufseinträge";
 
 "Icon" = "Symbol";
+
+"Icon Composer Preview" = "Icon Composer-Vorschau";
 
 "If the issue persists, please restart the application and recheck for any permission issues." = "Wenn das Problem weiterhin besteht, starten Sie die Anwendung bitte neu und prüfen Sie erneut, ob Berechtigungsprobleme vorliegen.";
 
@@ -299,6 +305,8 @@
 "Port" = "Hafen";
 
 "Preview .app bundles in Finder with bundle ID, version, architectures, sandbox status, and more. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist App Preview**]." = "Vorschau von .app-Bundles im Finder mit Bundle-ID, Version, Architekturen, Sandbox-Status und mehr. Aktivieren oder deaktivieren Sie sie in [**Systemeinstellungen**] -> [**Allgemein**] -> [**Anmeldeelemente & Erweiterungen**] -> [**Kurzübersicht**] -> [**Menuist App Preview**].";
+
+"Preview Icon Composer `.icon` packages (icon.json + Assets) in Finder: composed preview, layers, and asset thumbnails. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Icon Preview**]." = "Vorschau von Icon-Composer-`.icon`-Paketen (icon.json + Assets) im Finder: zusammengesetzte Vorschau, Ebenen und Asset-Miniaturen. Aktivieren/deaktivieren unter [**Systemeinstellungen**] -> [**Allgemein**] -> [**Anmeldeobjekte & Erweiterungen**] -> [**Übersicht**] -> [**Menuist Icon Preview**].";
 
 "Preview source code files in Finder with syntax highlighting. Enable or disable it in [**System Preferences**] -> [**General**] -> [**Login Items & Extensions**] -> [**Quick Look**] -> [**Menuist Code Highlighting**]." = "Vorschau von Quellcodedateien im Finder mit Syntaxhervorhebung. Aktivieren oder deaktivieren Sie sie in [**Systemeinstellungen**] -> [**Allgemein**] -> [**Anmeldeelemente & Erweiterungen**] -> [**Kurzübersicht**] -> [**Menuist Code Highlighting**].";
 
