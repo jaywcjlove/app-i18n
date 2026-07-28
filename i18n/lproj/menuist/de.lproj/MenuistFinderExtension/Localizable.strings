@@ -10,6 +10,8 @@
 
 "Add to Common Folders" = "Zu gemeinsamen Ordnern hinzufügen";
 
+"Alias" = "Alias";
+
 "All Hashes" = "Alle Hashes";
 
 "Cancel" = "Stornieren";
@@ -40,9 +42,17 @@
 
 "Create 3 random folders" = "Erstellen Sie 3 zufällige Ordner";
 
+"Create Alias" = "Alias erstellen";
+
+"Create Hard Link" = "Hardlink erstellen";
+
+"Create Link" = "Link erstellen";
+
 "Create New File Error" = "Fehler beim Erstellen einer neuen Datei";
 
 "Create icns Icon" = "ICNS-Symbol erstellen";
+
+"Created %lld of %lld.\n%@" = "%1$lld von %2$lld erstellt.\n%3$@";
 
 "Cut" = "Ausschneiden";
 
@@ -58,6 +68,10 @@
 "Error Opening Runner" = "Fehler beim Öffnen des Läufers";
 
 "Error creating shortcut: %@" = "Fehler beim Erstellen der Verknüpfung: %@";
+
+"Failed to Create %@" = "Erstellen von %@ fehlgeschlagen";
+
+"Failed to Remove EXIF" = "EXIF entfernen fehlgeschlagen";
 
 "Failed to create PDF page from image: %@" = "PDF-Seite konnte nicht aus Bild erstellt werden: %@";
 
@@ -86,6 +100,12 @@
 "Grant Folder Permission" = "Ordnerberechtigung erteilen";
 
 "Grant Permissions" = "Berechtigungen erteilen";
+
+"Hard Link" = "Hardlink";
+
+"Hard Link Not Supported" = "Hardlink nicht unterstützt";
+
+"Hard links can only be created for files, not folders." = "Hardlinks können nur für Dateien, nicht für Ordner erstellt werden.";
 
 "Hash calculation failed" = "Hash-Berechnung fehlgeschlagen";
 
@@ -122,6 +142,8 @@
 
 "Overwrite" = "Überschreiben";
 
+"Partially Completed" = "Teilweise abgeschlossen";
+
 "Paste (%lld Items)" = "Einfügen (%lld Elemente)";
 
 "Paste Image from clip" = "Bild aus Clip einfügen";
@@ -132,7 +154,11 @@
 
 "Please check if the folder exists: \n\"%@\"" = "Bitte prüfen Sie, ob der Ordner existiert: \n\"%@\"";
 
+"Processed %lld of %lld.\n%@" = "%1$lld von %2$lld verarbeitet.\n%3$@";
+
 "Reauthorization required" = "Neuautorisierung erforderlich";
+
+"Remove Image EXIF" = "Bild-EXIF entfernen";
 
 "Reset Folder Icon" = "Ordnersymbol zurücksetzen";
 
@@ -156,6 +182,12 @@
 "The folder does not exist." = "Der Ordner existiert nicht.";
 
 "Total Size: %@" = "Gesamtgröße: %@";
+
+"Unknown error." = "Unbekannter Fehler.";
+
+"✅ Created %lld %@ successfully." = "✅ %1$lld %2$@ erfolgreich erstellt.";
+
+"✅ Removed EXIF from %lld image(s)." = "✅ EXIF aus %lld Bild(ern) entfernt.";
 
 "✅ Shortcut created successfully: %@" = "✅ Verknüpfung erfolgreich erstellt: %@";
 

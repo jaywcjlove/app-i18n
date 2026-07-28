@@ -28,6 +28,8 @@
 
 "Add template file" = "Ajouter un fichier modèle";
 
+"Alias" = "Alias";
+
 "App Preview" = "Aperçu de l'app";
 
 "Appearance" = "Apparence";
@@ -94,9 +96,17 @@
 
 "Create 3 random folders" = "Créez 3 dossiers aléatoires";
 
+"Create Alias" = "Créer un alias";
+
+"Create Hard Link" = "Créer un lien physique";
+
+"Create Link" = "Créer un lien";
+
 "Create folder icon" = "Créer une icône de dossier";
 
 "Create icns Icon" = "Créer une icône icns";
+
+"Created %lld of %lld.\n%@" = "%1$lld sur %2$lld créé(s).\n%3$@";
 
 "Custom Color" = "Couleur personnalisée";
 
@@ -163,6 +173,8 @@
 
 "Extension" = "Extension";
 
+"Failed to Create %@" = "Échec de la création de %@";
+
 "Failed to create bookmark" = "Échec de la création du favori";
 
 "Failed to start service: %@" = "Échec du démarrage du service : %@";
@@ -200,6 +212,12 @@
 "Go Settings" = "Aller aux paramètres";
 
 "Grant Folder Permission" = "Accorder l'autorisation au dossier";
+
+"Hard Link" = "Lien physique";
+
+"Hard Link Not Supported" = "Lien physique non pris en charge";
+
+"Hard links can only be created for files, not folders." = "Les liens physiques ne peuvent être créés que pour des fichiers, pas des dossiers.";
 
 "Help" = "Aide";
 
@@ -287,6 +305,8 @@
 "Overwrite" = "Écraser";
 
 "Parent Folder" = "Dossier parent";
+
+"Partially Completed" = "Partiellement terminé";
 
 "Paste Image from clip" = "Coller l'image à partir du clip";
 
@@ -433,6 +453,8 @@
 
 "To Settings" = "Vers les paramètres";
 
+"Unknown error." = "Erreur inconnue.";
+
 "Unlock all Features" = "Débloquez toutes les fonctionnalités";
 
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
@@ -476,6 +498,8 @@
 "⚠️ Add Folder Authorization" = "⚠️ Ajouter une autorisation de dossier";
 
 "⚠️ Reauthorize Folder" = "⚠️ Réautoriser le dossier";
+
+"✅ Created %lld %@ successfully." = "✅ %1$lld %2$@ créé(s) avec succès.";
 
 "🚨 Error resolving bookmark or opening file: %@" = "🚨 Erreur lors de la résolution du favori ou de l'ouverture du fichier : %@";
 

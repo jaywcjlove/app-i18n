@@ -10,6 +10,8 @@
 
 "Add to Common Folders" = "共通フォルダに追加";
 
+"Alias" = "エイリアス";
+
 "All Hashes" = "すべてのハッシュ";
 
 "Cancel" = "キャンセル";
@@ -40,9 +42,17 @@
 
 "Create 3 random folders" = "ランダムなフォルダを3つ作成する";
 
+"Create Alias" = "エイリアスを作成";
+
+"Create Hard Link" = "ハードリンクを作成";
+
+"Create Link" = "リンクを作成";
+
 "Create New File Error" = "新しいファイルの作成エラー";
 
 "Create icns Icon" = "icns アイコンを作成";
+
+"Created %lld of %lld.\n%@" = "%2$lld個中%1$lld個を作成しました。\n%3$@";
 
 "Cut" = "カット";
 
@@ -58,6 +68,10 @@
 "Error Opening Runner" = "ランナーを開く際のエラー";
 
 "Error creating shortcut: %@" = "ショートカット作成エラー: %@";
+
+"Failed to Create %@" = "%@の作成に失敗しました";
+
+"Failed to Remove EXIF" = "EXIF の削除に失敗";
 
 "Failed to create PDF page from image: %@" = "画像から PDF ページを作成できませんでした: %@";
 
@@ -86,6 +100,12 @@
 "Grant Folder Permission" = "フォルダー権限の付与";
 
 "Grant Permissions" = "権限の付与";
+
+"Hard Link" = "ハードリンク";
+
+"Hard Link Not Supported" = "ハードリンク非対応";
+
+"Hard links can only be created for files, not folders." = "ハードリンクはファイルのみ作成でき、フォルダには使用できません。";
 
 "Hash calculation failed" = "ハッシュ計算に失敗しました";
 
@@ -122,6 +142,8 @@
 
 "Overwrite" = "上書き";
 
+"Partially Completed" = "一部完了";
+
 "Paste (%lld Items)" = "貼り付け (%lld アイテム)";
 
 "Paste Image from clip" = "クリップから画像を貼り付け";
@@ -132,7 +154,11 @@
 
 "Please check if the folder exists: \n\"%@\"" = "フォルダーが存在するかどうかを確認してください: \n\"%@\"";
 
+"Processed %lld of %lld.\n%@" = "%2$lld個中%1$lld個を処理しました。\n%3$@";
+
 "Reauthorization required" = "再認証が必要です";
+
+"Remove Image EXIF" = "画像の EXIF を削除";
 
 "Reset Folder Icon" = "フォルダーアイコンをリセット";
 
@@ -156,6 +182,12 @@
 "The folder does not exist." = "フォルダが存在しません。";
 
 "Total Size: %@" = "合計サイズ: %@";
+
+"Unknown error." = "不明なエラー。";
+
+"✅ Created %lld %@ successfully." = "✅ %1$lld%2$@を作成しました。";
+
+"✅ Removed EXIF from %lld image(s)." = "✅ %lld枚の画像からEXIFを削除しました。";
 
 "✅ Shortcut created successfully: %@" = "✅ ショートカットが正常に作成されました: %@";
 

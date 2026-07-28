@@ -28,6 +28,8 @@
 
 "Add template file" = "Vorlagendatei hinzufügen";
 
+"Alias" = "Alias";
+
 "App Preview" = "App-Vorschau";
 
 "Appearance" = "Aussehen";
@@ -94,9 +96,17 @@
 
 "Create 3 random folders" = "Erstellen Sie 3 zufällige Ordner";
 
+"Create Alias" = "Alias erstellen";
+
+"Create Hard Link" = "Hardlink erstellen";
+
+"Create Link" = "Link erstellen";
+
 "Create folder icon" = "Ordnersymbol erstellen";
 
 "Create icns Icon" = "ICNS-Symbol erstellen";
+
+"Created %lld of %lld.\n%@" = "%1$lld von %2$lld erstellt.\n%3$@";
 
 "Custom Color" = "Benutzerdefinierte Farbe";
 
@@ -163,6 +173,8 @@
 
 "Extension" = "Erweiterung";
 
+"Failed to Create %@" = "Erstellen von %@ fehlgeschlagen";
+
 "Failed to create bookmark" = "Lesezeichen konnte nicht erstellt werden";
 
 "Failed to start service: %@" = "Dienst konnte nicht gestartet werden: %@";
@@ -200,6 +212,12 @@
 "Go Settings" = "Zu den Einstellungen";
 
 "Grant Folder Permission" = "Ordnerberechtigung erteilen";
+
+"Hard Link" = "Hardlink";
+
+"Hard Link Not Supported" = "Hardlink nicht unterstützt";
+
+"Hard links can only be created for files, not folders." = "Hardlinks können nur für Dateien, nicht für Ordner erstellt werden.";
 
 "Help" = "Hilfe";
 
@@ -287,6 +305,8 @@
 "Overwrite" = "Überschreiben";
 
 "Parent Folder" = "Übergeordneter Ordner";
+
+"Partially Completed" = "Teilweise abgeschlossen";
 
 "Paste Image from clip" = "Bild aus Clip einfügen";
 
@@ -433,6 +453,8 @@
 
 "To Settings" = "Zu den Einstellungen";
 
+"Unknown error." = "Unbekannter Fehler.";
+
 "Unlock all Features" = "Schalten Sie alle Funktionen frei";
 
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
@@ -476,6 +498,8 @@
 "⚠️ Add Folder Authorization" = "⚠️ Ordnerautorisierung hinzufügen";
 
 "⚠️ Reauthorize Folder" = "⚠️ Ordner erneut autorisieren";
+
+"✅ Created %lld %@ successfully." = "✅ %1$lld %2$@ erfolgreich erstellt.";
 
 "🚨 Error resolving bookmark or opening file: %@" = "🚨 Fehler beim Auflösen des Lesezeichens oder beim Öffnen der Datei: %@";
 

@@ -10,6 +10,8 @@
 
 "Add to Common Folders" = "Add to Common Folders";
 
+"Alias" = "Alias";
+
 "All Hashes" = "All Hashes";
 
 "Cancel" = "Cancel";
@@ -40,9 +42,17 @@
 
 "Create 3 random folders" = "Create 3 random folders";
 
+"Create Alias" = "Create Alias";
+
+"Create Hard Link" = "Create Hard Link";
+
+"Create Link" = "Create Link";
+
 "Create New File Error" = "Create New File Error";
 
 "Create icns Icon" = "Create icns Icon";
+
+"Created %lld of %lld.\n%@" = "Created %1$lld of %2$lld.\n%3$@";
 
 "Cut" = "Cut";
 
@@ -58,6 +68,10 @@
 "Error Opening Runner" = "Error Opening Runner";
 
 "Error creating shortcut: %@" = "Error creating shortcut: %@";
+
+"Failed to Create %@" = "Failed to Create %@";
+
+"Failed to Remove EXIF" = "Failed to Remove EXIF";
 
 "Failed to create PDF page from image: %@" = "Failed to create PDF page from image: %@";
 
@@ -86,6 +100,12 @@
 "Grant Folder Permission" = "Grant Folder Permission";
 
 "Grant Permissions" = "Grant Permissions";
+
+"Hard Link" = "Hard Link";
+
+"Hard Link Not Supported" = "Hard Link Not Supported";
+
+"Hard links can only be created for files, not folders." = "Hard links can only be created for files, not folders.";
 
 "Hash calculation failed" = "Hash calculation failed";
 
@@ -122,6 +142,8 @@
 
 "Overwrite" = "Overwrite";
 
+"Partially Completed" = "Partially Completed";
+
 "Paste (%lld Items)" = "Paste (%lld Items)";
 
 "Paste Image from clip" = "Paste Image from clip";
@@ -132,7 +154,11 @@
 
 "Please check if the folder exists: \n\"%@\"" = "Please check if the folder exists: \n\"%@\"";
 
+"Processed %lld of %lld.\n%@" = "Processed %1$lld of %2$lld.\n%3$@";
+
 "Reauthorization required" = "Reauthorization required";
+
+"Remove Image EXIF" = "Remove Image EXIF";
 
 "Reset Folder Icon" = "Reset Folder Icon";
 
@@ -156,6 +182,12 @@
 "The folder does not exist." = "The folder does not exist.";
 
 "Total Size: %@" = "Total Size: %@";
+
+"Unknown error." = "Unknown error.";
+
+"✅ Created %lld %@ successfully." = "✅ Created %1$lld %2$@ successfully.";
+
+"✅ Removed EXIF from %lld image(s)." = "✅ Removed EXIF from %lld image(s).";
 
 "✅ Shortcut created successfully: %@" = "✅ Shortcut created successfully: %@";
 

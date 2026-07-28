@@ -10,6 +10,8 @@
 
 "Add to Common Folders" = "Добавить в общие папки";
 
+"Alias" = "Псевдоним";
+
 "All Hashes" = "Все хеши";
 
 "Cancel" = "Отмена";
@@ -40,9 +42,17 @@
 
 "Create 3 random folders" = "Создать 3 случайные папки";
 
+"Create Alias" = "Создать псевдоним";
+
+"Create Hard Link" = "Создать жёсткую ссылку";
+
+"Create Link" = "Создать ссылку";
+
 "Create New File Error" = "Ошибка создания нового файла";
 
 "Create icns Icon" = "Создать значок icns";
+
+"Created %lld of %lld.\n%@" = "Создано %1$lld из %2$lld.\n%3$@";
 
 "Cut" = "Резать";
 
@@ -58,6 +68,10 @@
 "Error Opening Runner" = "Ошибка открытия бегунка";
 
 "Error creating shortcut: %@" = "Ошибка при создании ярлыка: %@.";
+
+"Failed to Create %@" = "Не удалось создать %@";
+
+"Failed to Remove EXIF" = "Не удалось удалить EXIF";
 
 "Failed to create PDF page from image: %@" = "Не удалось создать страницу PDF из изображения: %@.";
 
@@ -86,6 +100,12 @@
 "Grant Folder Permission" = "Предоставить разрешение на папку";
 
 "Grant Permissions" = "Предоставить разрешения";
+
+"Hard Link" = "Жёсткая ссылка";
+
+"Hard Link Not Supported" = "Жёсткая ссылка не поддерживается";
+
+"Hard links can only be created for files, not folders." = "Жёсткие ссылки можно создавать только для файлов, не для папок.";
 
 "Hash calculation failed" = "Не удалось вычислить хеш";
 
@@ -122,6 +142,8 @@
 
 "Overwrite" = "Перезаписать";
 
+"Partially Completed" = "Частично выполнено";
+
 "Paste (%lld Items)" = "Вставить (%lld элементы)";
 
 "Paste Image from clip" = "Вставить изображение из клипа";
@@ -132,7 +154,11 @@
 
 "Please check if the folder exists: \n\"%@\"" = "Пожалуйста, проверьте, существует ли папка: \n\"%@\"";
 
+"Processed %lld of %lld.\n%@" = "Обработано %1$lld из %2$lld.\n%3$@";
+
 "Reauthorization required" = "Требуется повторная авторизация";
+
+"Remove Image EXIF" = "Удалить EXIF изображения";
 
 "Reset Folder Icon" = "Сбросить значок папки";
 
@@ -156,6 +182,12 @@
 "The folder does not exist." = "Папка не существует.";
 
 "Total Size: %@" = "Общий размер: %@";
+
+"Unknown error." = "Неизвестная ошибка.";
+
+"✅ Created %lld %@ successfully." = "✅ Успешно создано: %1$lld %2$@.";
+
+"✅ Removed EXIF from %lld image(s)." = "✅ EXIF удалён из %lld изобр.";
 
 "✅ Shortcut created successfully: %@" = "✅ Ярлык успешно создан: %@";
 

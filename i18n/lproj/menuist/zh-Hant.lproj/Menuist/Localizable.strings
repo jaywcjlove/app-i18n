@@ -28,6 +28,8 @@
 
 "Add template file" = "新增模板檔案";
 
+"Alias" = "替身";
+
 "App Preview" = "應用預覽";
 
 "Appearance" = "外觀";
@@ -94,9 +96,17 @@
 
 "Create 3 random folders" = "建立 3 個隨機資料夾";
 
+"Create Alias" = "建立 Alias";
+
+"Create Hard Link" = "建立硬連結";
+
+"Create Link" = "建立連結";
+
 "Create folder icon" = "建立資料夾圖示";
 
 "Create icns Icon" = "建立 icns 圖示";
+
+"Created %lld of %lld.\n%@" = "已建立 %1$lld/%2$lld。\n%3$@";
 
 "Custom Color" = "自定義顏色";
 
@@ -163,6 +173,8 @@
 
 "Extension" = "擴充套件";
 
+"Failed to Create %@" = "建立 %@ 失敗";
+
 "Failed to create bookmark" = "建立書籤失敗";
 
 "Failed to start service: %@" = "啟動服務失敗：%@ ";
@@ -200,6 +212,12 @@
 "Go Settings" = "去設定";
 
 "Grant Folder Permission" = "授予資料夾許可權";
+
+"Hard Link" = "硬連結";
+
+"Hard Link Not Supported" = "不支援硬連結";
+
+"Hard links can only be created for files, not folders." = "硬連結只能為檔案建立，不能用於資料夾。";
 
 "Help" = "幫助";
 
@@ -287,6 +305,8 @@
 "Overwrite" = "覆蓋";
 
 "Parent Folder" = "父資料夾";
+
+"Partially Completed" = "部分完成";
 
 "Paste Image from clip" = "從剪貼簿貼上圖片";
 
@@ -433,6 +453,8 @@
 
 "To Settings" = "去設定";
 
+"Unknown error." = "未知錯誤。";
+
 "Unlock all Features" = "解鎖所有功能";
 
 "Version %@ (%@)" = "版本 %1$@ (%2$@)";
@@ -476,6 +498,8 @@
 "⚠️ Add Folder Authorization" = "⚠️ 新增資料夾授權";
 
 "⚠️ Reauthorize Folder" = "⚠️ 資料夾重新授權";
+
+"✅ Created %lld %@ successfully." = "✅ 已成功建立 %1$lld 個%2$@。";
 
 "🚨 Error resolving bookmark or opening file: %@" = "🚨 解析書籤或開啟檔案時出錯：%@";
 

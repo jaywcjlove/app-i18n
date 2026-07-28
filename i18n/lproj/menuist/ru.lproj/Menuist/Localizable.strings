@@ -28,6 +28,8 @@
 
 "Add template file" = "Добавить файл шаблона";
 
+"Alias" = "Псевдоним";
+
 "App Preview" = "Предпросмотр приложений";
 
 "Appearance" = "Внешний вид";
@@ -94,9 +96,17 @@
 
 "Create 3 random folders" = "Создайте 3 случайные папки";
 
+"Create Alias" = "Создать псевдоним";
+
+"Create Hard Link" = "Создать жёсткую ссылку";
+
+"Create Link" = "Создать ссылку";
+
 "Create folder icon" = "Создать значок папки";
 
 "Create icns Icon" = "Иконка Создать icns";
+
+"Created %lld of %lld.\n%@" = "Создано %1$lld из %2$lld.\n%3$@";
 
 "Custom Color" = "Пользовательский цвет";
 
@@ -163,6 +173,8 @@
 
 "Extension" = "Расширение";
 
+"Failed to Create %@" = "Не удалось создать %@";
+
 "Failed to create bookmark" = "Не удалось создать закладку";
 
 "Failed to start service: %@" = "Не удалось запустить службу: %@.";
@@ -200,6 +212,12 @@
 "Go Settings" = "Перейти к настройкам";
 
 "Grant Folder Permission" = "Предоставить разрешение на папку";
+
+"Hard Link" = "Жёсткая ссылка";
+
+"Hard Link Not Supported" = "Жёсткая ссылка не поддерживается";
+
+"Hard links can only be created for files, not folders." = "Жёсткие ссылки можно создавать только для файлов, не для папок.";
 
 "Help" = "Помощь";
 
@@ -287,6 +305,8 @@
 "Overwrite" = "Перезаписать";
 
 "Parent Folder" = "Родительская папка";
+
+"Partially Completed" = "Частично выполнено";
 
 "Paste Image from clip" = "Вставить изображение из клипа";
 
@@ -433,6 +453,8 @@
 
 "To Settings" = "К настройкам";
 
+"Unknown error." = "Неизвестная ошибка.";
+
 "Unlock all Features" = "Разблокировать все функции";
 
 "Version %@ (%@)" = "Версия %1$@ (%2$@)";
@@ -476,6 +498,8 @@
 "⚠️ Add Folder Authorization" = "⚠️ Добавить авторизацию папки";
 
 "⚠️ Reauthorize Folder" = "⚠️ Повторно авторизовать папку";
+
+"✅ Created %lld %@ successfully." = "✅ Успешно создано: %1$lld %2$@.";
 
 "🚨 Error resolving bookmark or opening file: %@" = "🚨 Ошибка разрешения закладки или открытия файла: %@.";
 

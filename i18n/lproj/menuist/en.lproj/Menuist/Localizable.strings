@@ -28,6 +28,8 @@
 
 "Add template file" = "Add template file";
 
+"Alias" = "Alias";
+
 "App Preview" = "App Preview";
 
 "Appearance" = "Appearance";
@@ -94,9 +96,17 @@
 
 "Create 3 random folders" = "Create 3 random folders";
 
+"Create Alias" = "Create Alias";
+
+"Create Hard Link" = "Create Hard Link";
+
+"Create Link" = "Create Link";
+
 "Create folder icon" = "Create folder icon";
 
 "Create icns Icon" = "Create icns Icon";
+
+"Created %lld of %lld.\n%@" = "Created %1$lld of %2$lld.\n%3$@";
 
 "Custom Color" = "Custom Color";
 
@@ -163,6 +173,8 @@
 
 "Extension" = "Extension";
 
+"Failed to Create %@" = "Failed to Create %@";
+
 "Failed to create bookmark" = "Failed to create bookmark";
 
 "Failed to start service: %@" = "Failed to start service: %@";
@@ -200,6 +212,12 @@
 "Go Settings" = "Go Settings";
 
 "Grant Folder Permission" = "Grant Folder Permission";
+
+"Hard Link" = "Hard Link";
+
+"Hard Link Not Supported" = "Hard Link Not Supported";
+
+"Hard links can only be created for files, not folders." = "Hard links can only be created for files, not folders.";
 
 "Help" = "Help";
 
@@ -287,6 +305,8 @@
 "Overwrite" = "Overwrite";
 
 "Parent Folder" = "Parent Folder";
+
+"Partially Completed" = "Partially Completed";
 
 "Paste Image from clip" = "Paste Image from clip";
 
@@ -433,6 +453,8 @@
 
 "To Settings" = "To Settings";
 
+"Unknown error." = "Unknown error.";
+
 "Unlock all Features" = "Unlock all Features";
 
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
@@ -476,6 +498,8 @@
 "⚠️ Add Folder Authorization" = "⚠️ Add Folder Authorization";
 
 "⚠️ Reauthorize Folder" = "⚠️ Reauthorize Folder";
+
+"✅ Created %lld %@ successfully." = "✅ Created %1$lld %2$@ successfully.";
 
 "🚨 Error resolving bookmark or opening file: %@" = "🚨 Error resolving bookmark or opening file: %@";
 

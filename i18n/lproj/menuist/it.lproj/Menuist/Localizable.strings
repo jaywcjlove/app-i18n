@@ -28,6 +28,8 @@
 
 "Add template file" = "Aggiungi file modello";
 
+"Alias" = "Alias";
+
 "App Preview" = "Anteprima app";
 
 "Appearance" = "Aspetto";
@@ -94,9 +96,17 @@
 
 "Create 3 random folders" = "Crea 3 cartelle casuali";
 
+"Create Alias" = "Crea alias";
+
+"Create Hard Link" = "Crea hard link";
+
+"Create Link" = "Crea collegamento";
+
 "Create folder icon" = "Crea icona cartella";
 
 "Create icns Icon" = "Crea icona icns";
+
+"Created %lld of %lld.\n%@" = "Creati %1$lld di %2$lld.\n%3$@";
 
 "Custom Color" = "Colore personalizzato";
 
@@ -163,6 +173,8 @@
 
 "Extension" = "Estensione";
 
+"Failed to Create %@" = "Creazione di %@ non riuscita";
+
 "Failed to create bookmark" = "Impossibile creare il segnalibro";
 
 "Failed to start service: %@" = "Impossibile avviare il servizio: %@";
@@ -200,6 +212,12 @@
 "Go Settings" = "Vai alle impostazioni";
 
 "Grant Folder Permission" = "Concedi autorizzazione alla cartella";
+
+"Hard Link" = "Hard link";
+
+"Hard Link Not Supported" = "Hard link non supportato";
+
+"Hard links can only be created for files, not folders." = "Gli hard link possono essere creati solo per file, non per cartelle.";
 
 "Help" = "Aiuto";
 
@@ -287,6 +305,8 @@
 "Overwrite" = "Sovrascrivi";
 
 "Parent Folder" = "Cartella superiore";
+
+"Partially Completed" = "Completato parzialmente";
 
 "Paste Image from clip" = "Incolla immagine dagli appunti";
 
@@ -433,6 +453,8 @@
 
 "To Settings" = "Vai alle impostazioni";
 
+"Unknown error." = "Errore sconosciuto.";
+
 "Unlock all Features" = "Sblocca tutte le funzionalità";
 
 "Version %@ (%@)" = "Versione %1$@ (%2$@)";
@@ -476,6 +498,8 @@
 "⚠️ Add Folder Authorization" = "⚠️ Aggiungi autorizzazione cartella";
 
 "⚠️ Reauthorize Folder" = "⚠️ Riautorizza cartella";
+
+"✅ Created %lld %@ successfully." = "✅ %1$lld %2$@ creati con successo.";
 
 "🚨 Error resolving bookmark or opening file: %@" = "🚨 Errore nella risoluzione del segnalibro o nell'apertura del file: %@";
 

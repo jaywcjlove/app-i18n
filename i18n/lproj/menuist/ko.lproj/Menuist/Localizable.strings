@@ -28,6 +28,8 @@
 
 "Add template file" = "템플릿 파일 추가";
 
+"Alias" = "별칭";
+
 "App Preview" = "앱 미리보기";
 
 "Appearance" = "외관";
@@ -94,9 +96,17 @@
 
 "Create 3 random folders" = "무작위 폴더 3개 생성";
 
+"Create Alias" = "별칭 만들기";
+
+"Create Hard Link" = "하드 링크 만들기";
+
+"Create Link" = "링크 만들기";
+
 "Create folder icon" = "폴더 아이콘 만들기";
 
 "Create icns Icon" = "아이콘 생성";
+
+"Created %lld of %lld.\n%@" = "%2$lld개 중 %1$lld개 생성됨.\n%3$@";
 
 "Custom Color" = "사용자 정의 색상";
 
@@ -163,6 +173,8 @@
 
 "Extension" = "확대";
 
+"Failed to Create %@" = "%@ 생성 실패";
+
 "Failed to create bookmark" = "북마크를 생성하지 못했습니다.";
 
 "Failed to start service: %@" = "서비스 시작 실패: %@";
@@ -200,6 +212,12 @@
 "Go Settings" = "설정으로 이동";
 
 "Grant Folder Permission" = "폴더 권한 부여";
+
+"Hard Link" = "하드 링크";
+
+"Hard Link Not Supported" = "하드 링크 미지원";
+
+"Hard links can only be created for files, not folders." = "하드 링크는 파일에만 만들 수 있으며 폴더에는 사용할 수 없습니다.";
 
 "Help" = "돕다";
 
@@ -287,6 +305,8 @@
 "Overwrite" = "덮어쓰기";
 
 "Parent Folder" = "상위 폴더";
+
+"Partially Completed" = "일부 완료";
 
 "Paste Image from clip" = "클립의 이미지 붙여넣기";
 
@@ -433,6 +453,8 @@
 
 "To Settings" = "설정으로";
 
+"Unknown error." = "알 수 없는 오류.";
+
 "Unlock all Features" = "모든 기능 잠금 해제";
 
 "Version %@ (%@)" = "버전 %1$@(%2$@)";
@@ -476,6 +498,8 @@
 "⚠️ Add Folder Authorization" = "⚠️ 폴더 인증 추가";
 
 "⚠️ Reauthorize Folder" = "⚠️ 폴더 재인증";
+
+"✅ Created %lld %@ successfully." = "✅ %1$lld개 %2$@ 생성 완료.";
 
 "🚨 Error resolving bookmark or opening file: %@" = "🚨 북마크 확인 또는 파일 열기 오류: %@";
 

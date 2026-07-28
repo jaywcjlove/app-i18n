@@ -10,6 +10,8 @@
 
 "Add to Common Folders" = "Aggiungi alle cartelle frequenti";
 
+"Alias" = "Alias";
+
 "All Hashes" = "Tutti gli hash";
 
 "Cancel" = "Annulla";
@@ -40,9 +42,17 @@
 
 "Create 3 random folders" = "Crea 3 cartelle casuali";
 
+"Create Alias" = "Crea alias";
+
+"Create Hard Link" = "Crea hard link";
+
+"Create Link" = "Crea collegamento";
+
 "Create New File Error" = "Errore nella creazione del nuovo file";
 
 "Create icns Icon" = "Crea icona icns";
+
+"Created %lld of %lld.\n%@" = "Creati %1$lld di %2$lld.\n%3$@";
 
 "Cut" = "Taglia";
 
@@ -58,6 +68,10 @@
 "Error Opening Runner" = "Errore nell'apertura del runner";
 
 "Error creating shortcut: %@" = "Errore nella creazione del collegamento: %@";
+
+"Failed to Create %@" = "Creazione di %@ non riuscita";
+
+"Failed to Remove EXIF" = "Rimozione EXIF non riuscita";
 
 "Failed to create PDF page from image: %@" = "Impossibile creare la pagina PDF dall'immagine: %@";
 
@@ -86,6 +100,12 @@
 "Grant Folder Permission" = "Concedi autorizzazione alla cartella";
 
 "Grant Permissions" = "Concedi autorizzazioni";
+
+"Hard Link" = "Hard link";
+
+"Hard Link Not Supported" = "Hard link non supportato";
+
+"Hard links can only be created for files, not folders." = "Gli hard link possono essere creati solo per file, non per cartelle.";
 
 "Hash calculation failed" = "Calcolo hash non riuscito";
 
@@ -122,6 +142,8 @@
 
 "Overwrite" = "Sovrascrivi";
 
+"Partially Completed" = "Completato parzialmente";
+
 "Paste (%lld Items)" = "Incolla (%lld elementi)";
 
 "Paste Image from clip" = "Incolla immagine dagli appunti";
@@ -132,7 +154,11 @@
 
 "Please check if the folder exists: \n\"%@\"" = "Verifica che la cartella esista: \n\"%@\"";
 
+"Processed %lld of %lld.\n%@" = "Elaborati %1$lld di %2$lld.\n%3$@";
+
 "Reauthorization required" = "È necessaria una nuova autorizzazione";
+
+"Remove Image EXIF" = "Rimuovi EXIF immagine";
 
 "Reset Folder Icon" = "Ripristina icona cartella";
 
@@ -156,6 +182,12 @@
 "The folder does not exist." = "La cartella non esiste.";
 
 "Total Size: %@" = "Dimensione totale: %@";
+
+"Unknown error." = "Errore sconosciuto.";
+
+"✅ Created %lld %@ successfully." = "✅ %1$lld %2$@ creati con successo.";
+
+"✅ Removed EXIF from %lld image(s)." = "✅ EXIF rimosso da %lld immagine/i.";
 
 "✅ Shortcut created successfully: %@" = "✅ Collegamento creato correttamente: %@";
 

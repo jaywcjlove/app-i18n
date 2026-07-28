@@ -10,6 +10,8 @@
 
 "Add to Common Folders" = "Ajouter aux dossiers communs";
 
+"Alias" = "Alias";
+
 "All Hashes" = "Tous les hachages";
 
 "Cancel" = "Annuler";
@@ -40,9 +42,17 @@
 
 "Create 3 random folders" = "Créez 3 dossiers aléatoires";
 
+"Create Alias" = "Créer un alias";
+
+"Create Hard Link" = "Créer un lien physique";
+
+"Create Link" = "Créer un lien";
+
 "Create New File Error" = "Erreur de création d'un nouveau fichier";
 
 "Create icns Icon" = "Créer une icône icns";
+
+"Created %lld of %lld.\n%@" = "%1$lld sur %2$lld créé(s).\n%3$@";
 
 "Cut" = "Couper";
 
@@ -58,6 +68,10 @@
 "Error Opening Runner" = "Erreur lors de l'ouverture du coureur";
 
 "Error creating shortcut: %@" = "Erreur lors de la création du raccourci : %@";
+
+"Failed to Create %@" = "Échec de la création de %@";
+
+"Failed to Remove EXIF" = "Échec de la suppression des EXIF";
 
 "Failed to create PDF page from image: %@" = "Échec de la création d'une page PDF à partir de l'image : %@";
 
@@ -86,6 +100,12 @@
 "Grant Folder Permission" = "Accorder l'autorisation au dossier";
 
 "Grant Permissions" = "Accorder des autorisations";
+
+"Hard Link" = "Lien physique";
+
+"Hard Link Not Supported" = "Lien physique non pris en charge";
+
+"Hard links can only be created for files, not folders." = "Les liens physiques ne peuvent être créés que pour des fichiers, pas des dossiers.";
 
 "Hash calculation failed" = "Échec du calcul de hachage";
 
@@ -122,6 +142,8 @@
 
 "Overwrite" = "Écraser";
 
+"Partially Completed" = "Partiellement terminé";
+
 "Paste (%lld Items)" = "Coller (%lld éléments)";
 
 "Paste Image from clip" = "Coller l'image à partir du clip";
@@ -132,7 +154,11 @@
 
 "Please check if the folder exists: \n\"%@\"" = "Veuillez vérifier si le dossier existe : \n\"%@\"";
 
+"Processed %lld of %lld.\n%@" = "%1$lld sur %2$lld traité(s).\n%3$@";
+
 "Reauthorization required" = "Réautorisation requise";
+
+"Remove Image EXIF" = "Supprimer les EXIF de l'image";
 
 "Reset Folder Icon" = "Icône de réinitialisation du dossier";
 
@@ -156,6 +182,12 @@
 "The folder does not exist." = "Le dossier n'existe pas.";
 
 "Total Size: %@" = "Taille totale : %@";
+
+"Unknown error." = "Erreur inconnue.";
+
+"✅ Created %lld %@ successfully." = "✅ %1$lld %2$@ créé(s) avec succès.";
+
+"✅ Removed EXIF from %lld image(s)." = "✅ EXIF supprimé(s) de %lld image(s).";
 
 "✅ Shortcut created successfully: %@" = "✅ Raccourci créé avec succès : %@";
 

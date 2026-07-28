@@ -28,6 +28,8 @@
 
 "Add template file" = "テンプレートファイルを追加";
 
+"Alias" = "エイリアス";
+
 "App Preview" = "アプリプレビュー";
 
 "Appearance" = "外観";
@@ -94,9 +96,17 @@
 
 "Create 3 random folders" = "ランダムなフォルダを3つ作成";
 
+"Create Alias" = "エイリアスを作成";
+
+"Create Hard Link" = "ハードリンクを作成";
+
+"Create Link" = "リンクを作成";
+
 "Create folder icon" = "フォルダーアイコンを作成";
 
 "Create icns Icon" = "icns アイコンを作成";
+
+"Created %lld of %lld.\n%@" = "%2$lld個中%1$lld個を作成しました。\n%3$@";
 
 "Custom Color" = "カスタムカラー";
 
@@ -163,6 +173,8 @@
 
 "Extension" = "拡張機能";
 
+"Failed to Create %@" = "%@の作成に失敗しました";
+
 "Failed to create bookmark" = "ブックマークの作成に失敗しました";
 
 "Failed to start service: %@" = "サービスの開始に失敗しました: %@";
@@ -200,6 +212,12 @@
 "Go Settings" = "設定に進む";
 
 "Grant Folder Permission" = "フォルダー権限の付与";
+
+"Hard Link" = "ハードリンク";
+
+"Hard Link Not Supported" = "ハードリンク非対応";
+
+"Hard links can only be created for files, not folders." = "ハードリンクはファイルのみ作成でき、フォルダには使用できません。";
 
 "Help" = "ヘルプ";
 
@@ -287,6 +305,8 @@
 "Overwrite" = "上書き";
 
 "Parent Folder" = "親フォルダー";
+
+"Partially Completed" = "一部完了";
 
 "Paste Image from clip" = "クリップから画像を貼り付け";
 
@@ -433,6 +453,8 @@
 
 "To Settings" = "設定へ";
 
+"Unknown error." = "不明なエラー。";
+
 "Unlock all Features" = "すべての機能のロックを解除する";
 
 "Version %@ (%@)" = "バージョン %1$@ (%2$@)";
@@ -476,6 +498,8 @@
 "⚠️ Add Folder Authorization" = "⚠️ フォルダー認証を追加";
 
 "⚠️ Reauthorize Folder" = "⚠️ フォルダーの再認証";
+
+"✅ Created %lld %@ successfully." = "✅ %1$lld%2$@を作成しました。";
 
 "🚨 Error resolving bookmark or opening file: %@" = "🚨 ブックマークの解決またはファイルを開くときにエラーが発生しました: %@";
 

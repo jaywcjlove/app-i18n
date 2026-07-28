@@ -10,6 +10,8 @@
 
 "Add to Common Folders" = "添加到常用文件夹";
 
+"Alias" = "替身";
+
 "All Hashes" = "全部哈希";
 
 "Cancel" = "取消";
@@ -40,9 +42,17 @@
 
 "Create 3 random folders" = "创建 3 个随机文件夹";
 
+"Create Alias" = "创建 Alias";
+
+"Create Hard Link" = "创建硬链接";
+
+"Create Link" = "创建链接";
+
 "Create New File Error" = "创建新文件错误";
 
 "Create icns Icon" = "创建 icns 图标";
+
+"Created %lld of %lld.\n%@" = "已创建 %1$lld/%2$lld。\n%3$@";
 
 "Cut" = "剪切";
 
@@ -58,6 +68,10 @@
 "Error Opening Runner" = "运行器打开错误";
 
 "Error creating shortcut: %@" = "创建快捷方式时出错：%@";
+
+"Failed to Create %@" = "创建 %@ 失败";
+
+"Failed to Remove EXIF" = "去除 EXIF 失败";
 
 "Failed to create PDF page from image: %@" = "从图片创建 PDF 页面失败：%@";
 
@@ -86,6 +100,12 @@
 "Grant Folder Permission" = "授予文件夹权限";
 
 "Grant Permissions" = "授予权限";
+
+"Hard Link" = "硬链接";
+
+"Hard Link Not Supported" = "不支持硬链接";
+
+"Hard links can only be created for files, not folders." = "硬链接只能为文件创建，不能用于文件夹。";
 
 "Hash calculation failed" = "哈希计算失败";
 
@@ -122,6 +142,8 @@
 
 "Overwrite" = "覆盖";
 
+"Partially Completed" = "部分完成";
+
 "Paste (%lld Items)" = "粘贴（%lld 项）";
 
 "Paste Image from clip" = "从剪贴板粘贴图片";
@@ -132,7 +154,11 @@
 
 "Please check if the folder exists: \n\"%@\"" = "请检查文件夹是否存在：“%@”";
 
+"Processed %lld of %lld.\n%@" = "已处理 %1$lld/%2$lld。\n%3$@";
+
 "Reauthorization required" = "需要重新授权权限";
+
+"Remove Image EXIF" = "去除图片 EXIF";
 
 "Reset Folder Icon" = "重置文件夹图标";
 
@@ -156,6 +182,12 @@
 "The folder does not exist." = "文件夹不存在";
 
 "Total Size: %@" = "总大小：%@";
+
+"Unknown error." = "未知错误。";
+
+"✅ Created %lld %@ successfully." = "✅ 已成功创建 %1$lld 个%2$@。";
+
+"✅ Removed EXIF from %lld image(s)." = "✅ 已从 %lld 张图片中移除 EXIF。";
 
 "✅ Shortcut created successfully: %@" = "✅ 快捷方式创建成功：%@";
 
