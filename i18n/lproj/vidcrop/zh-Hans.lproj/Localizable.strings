@@ -54,7 +54,7 @@
 
 "Clear Selection" = "清除选择";
 
-"Close" = "关闭";
+"Could not read the dropped file path." = "无法读取拖放文件的路径。";
 
 "Crop Area Settings" = "裁剪区域设置";
 
@@ -94,6 +94,8 @@
 
 "Face Mosaic" = "人脸马赛克";
 
+"Failed to load avatar" = "加载头像失败";
+
 "Fast" = "快速";
 
 "Fast · Balanced · Dense" = "快速 · 均衡 · 密集";
@@ -115,6 +117,8 @@
 "Mosaic" = "马赛克";
 
 "No faces found in this clip" = "此片段中未检测到面部";
+
+"No file was provided." = "未提供文件。";
 
 "No permission to parse the video file" = "没有权限解析视频文件";
 
@@ -205,6 +209,8 @@
 "Unknown Status" = "未知状态";
 
 "Unlock all Features" = "解锁全部功能";
+
+"Unsupported file type." = "不支持的文件类型。";
 
 "Video exported successfully" = "视频导出成功";
 

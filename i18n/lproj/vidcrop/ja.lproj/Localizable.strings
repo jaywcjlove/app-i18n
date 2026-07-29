@@ -54,7 +54,7 @@
 
 "Clear Selection" = "選択をクリア";
 
-"Close" = "閉じる";
+"Could not read the dropped file path." = "ドロップされたファイルのパスを読み取れませんでした。";
 
 "Crop Area Settings" = "トリミングエリア設定";
 
@@ -94,6 +94,8 @@
 
 "Face Mosaic" = "顔モザイク";
 
+"Failed to load avatar" = "アバターの読み込みに失敗しました";
+
 "Fast" = "高速";
 
 "Fast · Balanced · Dense" = "高速 · バランス · 高密度";
@@ -115,6 +117,8 @@
 "Mosaic" = "モザイク";
 
 "No faces found in this clip" = "このクリップに顔が見つかりません";
+
+"No file was provided." = "ファイルが提供されていません。";
 
 "No permission to parse the video file" = "ビデオファイルを解析する権限がありません";
 
@@ -205,6 +209,8 @@
 "Unknown Status" = "不明なステータス";
 
 "Unlock all Features" = "すべての機能をアンロック";
+
+"Unsupported file type." = "サポートされていないファイル形式です。";
 
 "Video exported successfully" = "ビデオの書き出しが成功しました";
 
