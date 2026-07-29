@@ -54,6 +54,10 @@
 
 "Clear Selection" = "선택 해제";
 
+"Conversion cancelled." = "변환이 취소되었습니다.";
+
+"Could not open the image file." = "이미지 파일을 열 수 없습니다.";
+
 "Could not read the dropped file path." = "드롭된 파일 경로를 읽을 수 없습니다.";
 
 "Crop Area Settings" = "자르기 영역 설정";
@@ -96,6 +100,8 @@
 
 "Failed to load avatar" = "아바타를 불러오지 못했습니다";
 
+"Failed to start MP4 encoding: %@" = "MP4 인코딩을 시작하지 못했습니다: %@";
+
 "Fast" = "빠르게";
 
 "Fast · Balanced · Dense" = "빠르게 · 균형 · 고밀도";
@@ -106,7 +112,11 @@
 
 "Height" = "높이";
 
+"Invalid image dimensions." = "잘못된 이미지 크기입니다.";
+
 "Loading video…" = "비디오를 불러오는 중…";
+
+"MP4 conversion failed: %@" = "MP4 변환에 실패했습니다: %@";
 
 "Max: %lld" = "최대값: %lld";
 
@@ -199,6 +209,8 @@
 "Tap “Scan Video Faces” to detect people." = "사람을 감지하려면 '얼굴 스캔'을 탭하세요.";
 
 "Text Size" = "텍스트 크기";
+
+"The image has no readable frames." = "이미지에 읽을 수 있는 프레임이 없습니다.";
 
 "Top Center" = "상단 중앙";
 

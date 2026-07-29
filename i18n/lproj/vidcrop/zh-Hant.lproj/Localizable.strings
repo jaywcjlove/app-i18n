@@ -54,6 +54,10 @@
 
 "Clear Selection" = "清除選擇";
 
+"Conversion cancelled." = "轉換已取消。";
+
+"Could not open the image file." = "無法開啟影像檔案。";
+
 "Could not read the dropped file path." = "無法讀取拖放檔案的路徑。";
 
 "Crop Area Settings" = "裁剪區域設定";
@@ -96,6 +100,8 @@
 
 "Failed to load avatar" = "載入頭像失敗";
 
+"Failed to start MP4 encoding: %@" = "啟動 MP4 編碼失敗：%@";
+
 "Fast" = "快速";
 
 "Fast · Balanced · Dense" = "快速 · 均衡 · 密集";
@@ -106,7 +112,11 @@
 
 "Height" = "高";
 
+"Invalid image dimensions." = "無效的影像尺寸。";
+
 "Loading video…" = "正在載入影片…";
+
+"MP4 conversion failed: %@" = "MP4 轉換失敗：%@";
 
 "Max: %lld" = "最大值: %lld";
 
@@ -199,6 +209,8 @@
 "Tap “Scan Video Faces” to detect people." = "點擊「掃描面部」以檢測人物。";
 
 "Text Size" = "文字大小";
+
+"The image has no readable frames." = "影像沒有可讀幀。";
 
 "Top Center" = "頂部置中";
 

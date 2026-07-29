@@ -54,6 +54,10 @@
 
 "Clear Selection" = "Clear Selection";
 
+"Conversion cancelled." = "Conversion cancelled.";
+
+"Could not open the image file." = "Could not open the image file.";
+
 "Could not read the dropped file path." = "Could not read the dropped file path.";
 
 "Crop Area Settings" = "Crop Area Settings";
@@ -96,6 +100,8 @@
 
 "Failed to load avatar" = "Failed to load avatar";
 
+"Failed to start MP4 encoding: %@" = "Failed to start MP4 encoding: %@";
+
 "Fast" = "Fast";
 
 "Fast · Balanced · Dense" = "Fast · Balanced · Dense";
@@ -106,7 +112,11 @@
 
 "Height" = "Height";
 
+"Invalid image dimensions." = "Invalid image dimensions.";
+
 "Loading video…" = "Loading video…";
+
+"MP4 conversion failed: %@" = "MP4 conversion failed: %@";
 
 "Max: %lld" = "Max: %lld";
 
@@ -199,6 +209,8 @@
 "Tap “Scan Video Faces” to detect people." = "Tap “Scan Video Faces” to detect people.";
 
 "Text Size" = "Text Size";
+
+"The image has no readable frames." = "The image has no readable frames.";
 
 "Top Center" = "Top Center";
 

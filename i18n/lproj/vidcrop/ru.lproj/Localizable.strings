@@ -54,6 +54,10 @@
 
 "Clear Selection" = "Снять выбор";
 
+"Conversion cancelled." = "Преобразование отменено.";
+
+"Could not open the image file." = "Не удалось открыть файл изображения.";
+
 "Could not read the dropped file path." = "Не удалось прочитать путь к перетащенному файлу.";
 
 "Crop Area Settings" = "Настройки области обрезки";
@@ -96,6 +100,8 @@
 
 "Failed to load avatar" = "Не удалось загрузить аватар";
 
+"Failed to start MP4 encoding: %@" = "Не удалось начать кодирование MP4: %@";
+
 "Fast" = "Быстрый";
 
 "Fast · Balanced · Dense" = "Быстрый · Сбалансированный · Плотный";
@@ -106,7 +112,11 @@
 
 "Height" = "Высота";
 
+"Invalid image dimensions." = "Недопустимые размеры изображения.";
+
 "Loading video…" = "Загрузка видео…";
+
+"MP4 conversion failed: %@" = "Ошибка преобразования MP4: %@";
 
 "Max: %lld" = "Макс.: %lld";
 
@@ -199,6 +209,8 @@
 "Tap “Scan Video Faces” to detect people." = "Нажмите «Сканировать лица», чтобы обнаружить людей.";
 
 "Text Size" = "Размер текста";
+
+"The image has no readable frames." = "Изображение не содержит читаемых кадров.";
 
 "Top Center" = "Сверху по центру";
 

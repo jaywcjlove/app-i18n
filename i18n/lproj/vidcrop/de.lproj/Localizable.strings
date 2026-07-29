@@ -54,6 +54,10 @@
 
 "Clear Selection" = "Auswahl aufheben";
 
+"Conversion cancelled." = "Konvertierung abgebrochen.";
+
+"Could not open the image file." = "Bilddatei konnte nicht geöffnet werden.";
+
 "Could not read the dropped file path." = "Der Pfad der abgelegten Datei konnte nicht gelesen werden.";
 
 "Crop Area Settings" = "Einstellungen für den Zuschneidebereich";
@@ -96,6 +100,8 @@
 
 "Failed to load avatar" = "Avatar konnte nicht geladen werden";
 
+"Failed to start MP4 encoding: %@" = "Starten der MP4-Kodierung fehlgeschlagen: %@";
+
 "Fast" = "Schnell";
 
 "Fast · Balanced · Dense" = "Schnell · Ausgewogen · Dicht";
@@ -106,7 +112,11 @@
 
 "Height" = "Höhe";
 
+"Invalid image dimensions." = "Ungültige Bildabmessungen.";
+
 "Loading video…" = "Video wird geladen…";
+
+"MP4 conversion failed: %@" = "MP4-Konvertierung fehlgeschlagen: %@";
 
 "Max: %lld" = "Max.: %lld";
 
@@ -199,6 +209,8 @@
 "Tap “Scan Video Faces” to detect people." = "Tippe auf „Gesichter scannen“, um Personen zu erkennen.";
 
 "Text Size" = "Textgröße";
+
+"The image has no readable frames." = "Das Bild hat keine lesbaren Frames.";
 
 "Top Center" = "Oben Mitte";
 
