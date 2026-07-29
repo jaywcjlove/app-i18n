@@ -1819,6 +1819,46 @@
         }
       }
     },
+    "Failed to decode WebP frames." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WebP-Frames konnten nicht dekodiert werden."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec du décodage des images WebP."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WebPフレームのデコードに失敗しました。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WebP 프레임을 디코딩하지 못했습니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WebP 帧解码失败。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WebP 幀解碼失敗。"
+          }
+        }
+      }
+    },
     "File does not exist" : {
       "localizations" : {
         "de" : {
