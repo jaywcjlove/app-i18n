@@ -2,6 +2,8 @@
 
 "%lld file(s) failed." = "%lld file non riusciti.";
 
+"%lld item(s) failed." = "%lld elemento/i fallito/i.";
+
 "Add Application" = "Aggiungi applicazione";
 
 "Add Color" = "Aggiungi colore";
@@ -13,6 +15,8 @@
 "Alias" = "Alias";
 
 "All Hashes" = "Tutti gli hash";
+
+"Both" = "Entrambi";
 
 "Cancel" = "Annulla";
 
@@ -34,9 +38,13 @@
 
 "Copy Name" = "Copia nome";
 
+"Copy POSIX Permissions" = "Copia autorizzazioni POSIX";
+
 "Copy Path" = "Copia percorso";
 
 "Copy To" = "Copia in";
+
+"Copy failed" = "Copia fallita";
 
 "Create %@ File" = "Crea file %@";
 
@@ -134,6 +142,8 @@
 
 "OK" = "OK";
 
+"Octal (e.g. 644)" = "Ottale (es. 644)";
+
 "Open Git Remote" = "Apri repository Git remoto";
 
 "Open in Xcode" = "Apri in Xcode";
@@ -141,6 +151,8 @@
 "Open in browser (%@" = "Apri nel browser (%@";
 
 "Overwrite" = "Sovrascrivi";
+
+"POSIX permissions copied" = "Permessi POSIX copiati";
 
 "Partially Completed" = "Completato parzialmente";
 
@@ -173,6 +185,8 @@
 "Show Total Size" = "Mostra dimensione totale";
 
 "Show in Finder" = "Mostra nel Finder";
+
+"Symbolic (e.g. -rw-r--r--)" = "Simbolico (es. -rw-r--r--)";
 
 /* System */
 "System" = "Sistema";

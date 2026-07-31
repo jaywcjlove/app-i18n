@@ -2,6 +2,8 @@
 
 "%lld file(s) failed." = "%lld файл(ов) с ошибкой.";
 
+"%lld item(s) failed." = "Не удалось обработать %lld элемент(ов).";
+
 "Add Application" = "Добавить приложение";
 
 "Add Color" = "Добавить цвет";
@@ -13,6 +15,8 @@
 "Alias" = "Псевдоним";
 
 "All Hashes" = "Все хеши";
+
+"Both" = "Оба";
 
 "Cancel" = "Отмена";
 
@@ -34,9 +38,13 @@
 
 "Copy Name" = "Скопировать имя";
 
+"Copy POSIX Permissions" = "Копировать разрешения POSIX";
+
 "Copy Path" = "Скопировать путь";
 
 "Copy To" = "Скопировать в";
+
+"Copy failed" = "Копирование не удалось";
 
 "Create %@ File" = "Создать файл %@";
 
@@ -134,6 +142,8 @@
 
 "OK" = "ХОРОШО";
 
+"Octal (e.g. 644)" = "Восьмеричный (напр. 644)";
+
 "Open Git Remote" = "Открыть удаленный Git";
 
 "Open in Xcode" = "Открыть в Xcode";
@@ -141,6 +151,8 @@
 "Open in browser (%@" = "Открыть в браузере (%@";
 
 "Overwrite" = "Перезаписать";
+
+"POSIX permissions copied" = "Права POSIX скопированы";
 
 "Partially Completed" = "Частично выполнено";
 
@@ -173,6 +185,8 @@
 "Show Total Size" = "Показать общий размер";
 
 "Show in Finder" = "Показать в Finder";
+
+"Symbolic (e.g. -rw-r--r--)" = "Символьный (напр. -rw-r--r--)";
 
 /* System */
 "System" = "Система";

@@ -2,6 +2,8 @@
 
 "%lld file(s) failed." = "%lld개 파일 실패.";
 
+"%lld item(s) failed." = "%lld개 항목 실패.";
+
 "Add Application" = "애플리케이션 추가";
 
 "Add Color" = "색상 추가";
@@ -13,6 +15,8 @@
 "Alias" = "별칭";
 
 "All Hashes" = "모든 해시";
+
+"Both" = "모두";
 
 "Cancel" = "취소";
 
@@ -34,9 +38,13 @@
 
 "Copy Name" = "이름 복사";
 
+"Copy POSIX Permissions" = "POSIX 권한 복사";
+
 "Copy Path" = "경로 복사";
 
 "Copy To" = "복사 위치";
+
+"Copy failed" = "복사 실패";
 
 "Create %@ File" = "%@ 파일 만들기";
 
@@ -134,6 +142,8 @@
 
 "OK" = "좋아요";
 
+"Octal (e.g. 644)" = "8진수 (예: 644)";
+
 "Open Git Remote" = "Git 원격 열기";
 
 "Open in Xcode" = "Xcode에서 열기";
@@ -141,6 +151,8 @@
 "Open in browser (%@" = "브라우저에서 열기(%@";
 
 "Overwrite" = "덮어쓰기";
+
+"POSIX permissions copied" = "POSIX 권한 복사됨";
 
 "Partially Completed" = "일부 완료";
 
@@ -173,6 +185,8 @@
 "Show Total Size" = "전체 크기 표시";
 
 "Show in Finder" = "Finder에 표시";
+
+"Symbolic (e.g. -rw-r--r--)" = "기호 (예: -rw-r--r--)";
 
 /* System */
 "System" = "체계";
