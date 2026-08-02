@@ -1,3 +1,5 @@
+"%@ – %@" = "%1$@ – %2$@";
+
 "%lld" = "%lld";
 
 "%lld people selected. Tap a face again to deselect." = "%lld personnes sélectionnées. Appuyez à nouveau sur un visage pour désélectionner.";
@@ -24,6 +26,10 @@
 
 "9:21" = "9:21";
 
+"Add" = "Ajouter";
+
+"Add a cue at the playhead, then edit text and timing." = "Ajoutez un sous-titre à la tête de lecture, puis modifiez le texte et le minutage.";
+
 "Apply" = "Appliquer";
 
 "Aspect Ratio" = "Format d'image";
@@ -36,6 +42,8 @@
 
 "Base" = "Base";
 
+"Bottom" = "Bas";
+
 "Bottom Center" = "Bas Centre";
 
 "Bottom Left" = "Bas Gauche";
@@ -43,6 +51,10 @@
 "Bottom Right" = "Bas Droite";
 
 "Cancel" = "Annuler";
+
+"Cancel Scan" = "Annuler l'analyse";
+
+"Cancel face scan" = "Annuler l'analyse faciale";
 
 "Cannot overwrite the original video" = "Impossible d'écraser la vidéo d'origine";
 
@@ -62,6 +74,10 @@
 
 "Crop Area Settings" = "Paramètres de la zone de recadrage";
 
+"Cues" = "Sous-titres";
+
+"Delete" = "Supprimer";
+
 "Dense" = "Dense";
 
 "Detecting faces…" = "Détection des visages…";
@@ -72,7 +88,17 @@
 
 "Drop a Video!" = "Déposez une vidéo !";
 
+"Edit" = "Modifier";
+
+"Empty" = "Vide";
+
 "Enable mosaic" = "Activer la mosaïque";
+
+"Enable subtitles" = "Activer les sous-titres";
+
+"End" = "Fin";
+
+"Export" = "Exporter";
 
 "Export .gif Image" = "Exporter l'image .gif";
 
@@ -92,8 +118,6 @@
 
 "Export Failed" = "Échec de l'exportation";
 
-"Export Video" = "Exporter la vidéo";
-
 "Exporting video..." = "Exportation de la vidéo...";
 
 "Face Mosaic" = "Mosaïque de visage";
@@ -106,6 +130,8 @@
 
 "Fast · Balanced · Dense" = "Rapide · Équilibré · Dense";
 
+"Font Size" = "Taille de police";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
 
 "Free" = "Gratuit";
@@ -113,6 +139,8 @@
 "Height" = "Hauteur";
 
 "Invalid image dimensions." = "Dimensions d'image non valides.";
+
+"Jump playhead to cue start" = "Aller au début du sous-titre";
 
 "Loading video…" = "Chargement de la vidéo…";
 
@@ -136,6 +164,8 @@
 
 "No scan yet" = "Pas encore de scan";
 
+"No subtitles yet" = "Aucun sous-titre pour l'instant";
+
 "No video loaded" = "Aucune vidéo chargée";
 
 "OK" = "OK";
@@ -147,6 +177,8 @@
 "Open file location" = "Ouvrir l'emplacement du fichier";
 
 "Original" = "Original";
+
+"Padding" = "Marge";
 
 "People" = "Personnes";
 
@@ -184,6 +216,8 @@
 
 "Scan Video Faces" = "Scanner les visages";
 
+"Scan cancelled" = "Analyse annulée";
+
 "Scan density" = "Densité du scan";
 
 "Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "Scannez le clip, puis appuyez sur les personnes pour les sélectionner (appuyez à nouveau pour désélectionner). Sélection multiple possible.";
@@ -196,6 +230,10 @@
 
 "Scanning… you can leave this window open." = "Scan en cours… vous pouvez laisser cette fenêtre ouverte.";
 
+"Seek" = "Rechercher";
+
+"Select All" = "Tout sélectionner";
+
 "Select Video file" = "Sélectionner un fichier vidéo";
 
 "Selected" = "Sélectionné";
@@ -206,11 +244,27 @@
 
 "Set Crop Area" = "Définir la zone de recadrage";
 
+"Set End" = "Définir la fin";
+
+"Set Start" = "Définir le début";
+
+"Start" = "Début";
+
+"Style" = "Style";
+
+"Subtitle" = "Sous-titre";
+
+"Subtitle text" = "Texte du sous-titre";
+
+"Tap Add to create one at the current time." = "Appuyez sur Ajouter pour en créer un au temps actuel.";
+
 "Tap “Scan Video Faces” to detect people." = "Appuyez sur « Scanner les visages » pour détecter les personnes.";
 
 "Text Size" = "Taille du texte";
 
 "The image has no readable frames." = "L'image n'a pas d'images lisibles.";
+
+"Top" = "Haut";
 
 "Top Center" = "Haut Centre";
 

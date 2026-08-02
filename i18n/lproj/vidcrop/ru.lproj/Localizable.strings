@@ -1,3 +1,5 @@
+"%@ – %@" = "%1$@ – %2$@";
+
 "%lld" = "%lld";
 
 "%lld people selected. Tap a face again to deselect." = "Выбрано %lld чел. Нажмите на лицо еще раз, чтобы отменить выбор.";
@@ -24,6 +26,10 @@
 
 "9:21" = "9:21";
 
+"Add" = "Добавить";
+
+"Add a cue at the playhead, then edit text and timing." = "Добавьте субтитр в позиции воспроизведения, затем отредактируйте текст и время.";
+
 "Apply" = "Применить";
 
 "Aspect Ratio" = "Соотношение сторон";
@@ -36,6 +42,8 @@
 
 "Base" = "Основа";
 
+"Bottom" = "Снизу";
+
 "Bottom Center" = "Снизу по центру";
 
 "Bottom Left" = "Снизу слева";
@@ -43,6 +51,10 @@
 "Bottom Right" = "Снизу справа";
 
 "Cancel" = "Отмена";
+
+"Cancel Scan" = "Отменить сканирование";
+
+"Cancel face scan" = "Отменить сканирование лиц";
 
 "Cannot overwrite the original video" = "Невозможно перезаписать исходное видео";
 
@@ -62,6 +74,10 @@
 
 "Crop Area Settings" = "Настройки области обрезки";
 
+"Cues" = "Субтитры";
+
+"Delete" = "Удалить";
+
 "Dense" = "Плотный";
 
 "Detecting faces…" = "Обнаружение лиц…";
@@ -72,7 +88,17 @@
 
 "Drop a Video!" = "Перетащите видео!";
 
+"Edit" = "Изменить";
+
+"Empty" = "Пусто";
+
 "Enable mosaic" = "Включить мозаику";
+
+"Enable subtitles" = "Включить субтитры";
+
+"End" = "Конец";
+
+"Export" = "Экспорт";
 
 "Export .gif Image" = "Экспорт изображения .gif";
 
@@ -92,8 +118,6 @@
 
 "Export Failed" = "Ошибка экспорта";
 
-"Export Video" = "Экспорт видео";
-
 "Exporting video..." = "Идет экспорт видео...";
 
 "Face Mosaic" = "Мозаика лиц";
@@ -106,6 +130,8 @@
 
 "Fast · Balanced · Dense" = "Быстрый · Сбалансированный · Плотный";
 
+"Font Size" = "Размер шрифта";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
 
 "Free" = "Бесплатно";
@@ -113,6 +139,8 @@
 "Height" = "Высота";
 
 "Invalid image dimensions." = "Недопустимые размеры изображения.";
+
+"Jump playhead to cue start" = "Перейти к началу субтитра";
 
 "Loading video…" = "Загрузка видео…";
 
@@ -136,6 +164,8 @@
 
 "No scan yet" = "Сканирование еще не выполнено";
 
+"No subtitles yet" = "Субтитров пока нет";
+
 "No video loaded" = "Видео не загружено";
 
 "OK" = "OK";
@@ -147,6 +177,8 @@
 "Open file location" = "Открыть расположение файла";
 
 "Original" = "Оригинал";
+
+"Padding" = "Отступ";
 
 "People" = "Люди";
 
@@ -184,6 +216,8 @@
 
 "Scan Video Faces" = "Сканировать лица";
 
+"Scan cancelled" = "Сканирование отменено";
+
 "Scan density" = "Плотность сканирования";
 
 "Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "Сканируйте клип, затем нажимайте на людей для выбора (повторное нажатие отменяет выбор). Поддерживается множественный выбор.";
@@ -196,6 +230,10 @@
 
 "Scanning… you can leave this window open." = "Сканирование… вы можете оставить это окно открытым.";
 
+"Seek" = "Поиск";
+
+"Select All" = "Выбрать всё";
+
 "Select Video file" = "Выбрать видеофайл";
 
 "Selected" = "Выбрано";
@@ -206,11 +244,27 @@
 
 "Set Crop Area" = "Задать область обрезки";
 
+"Set End" = "Установить конец";
+
+"Set Start" = "Установить начало";
+
+"Start" = "Начало";
+
+"Style" = "Стиль";
+
+"Subtitle" = "Субтитр";
+
+"Subtitle text" = "Текст субтитра";
+
+"Tap Add to create one at the current time." = "Нажмите Добавить, чтобы создать в текущем времени.";
+
 "Tap “Scan Video Faces” to detect people." = "Нажмите «Сканировать лица», чтобы обнаружить людей.";
 
 "Text Size" = "Размер текста";
 
 "The image has no readable frames." = "Изображение не содержит читаемых кадров.";
+
+"Top" = "Сверху";
 
 "Top Center" = "Сверху по центру";
 

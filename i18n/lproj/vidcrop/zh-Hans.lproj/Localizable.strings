@@ -1,3 +1,5 @@
+"%@ – %@" = "%1$@ – %2$@";
+
 "%lld" = "%lld";
 
 "%lld people selected. Tap a face again to deselect." = "已选择 %lld 人。再次点击面部以取消选择。";
@@ -24,6 +26,10 @@
 
 "9:21" = "9:21";
 
+"Add" = "添加";
+
+"Add a cue at the playhead, then edit text and timing." = "在播放头位置添加字幕，然后编辑文本和时间。";
+
 "Apply" = "应用";
 
 "Aspect Ratio" = "宽高比";
@@ -36,6 +42,8 @@
 
 "Base" = "基准";
 
+"Bottom" = "底部";
+
 "Bottom Center" = "底部居中";
 
 "Bottom Left" = "底部居左";
@@ -43,6 +51,10 @@
 "Bottom Right" = "底部居右";
 
 "Cancel" = "取消";
+
+"Cancel Scan" = "取消扫描";
+
+"Cancel face scan" = "取消人脸扫描";
 
 "Cannot overwrite the original video" = "不能覆盖原视频";
 
@@ -62,6 +74,10 @@
 
 "Crop Area Settings" = "裁剪区域设置";
 
+"Cues" = "字幕";
+
+"Delete" = "删除";
+
 "Dense" = "密集";
 
 "Detecting faces…" = "正在检测面部…";
@@ -72,7 +88,17 @@
 
 "Drop a Video!" = "拖放一个视频！";
 
+"Edit" = "编辑";
+
+"Empty" = "空";
+
 "Enable mosaic" = "启用人脸马赛克";
+
+"Enable subtitles" = "启用字幕";
+
+"End" = "结束";
+
+"Export" = "导出";
 
 "Export .gif Image" = "导出 .gif 图像";
 
@@ -92,8 +118,6 @@
 
 "Export Failed" = "导出失败";
 
-"Export Video" = "导出视频";
-
 "Exporting video..." = "正在导出视频...";
 
 "Face Mosaic" = "人脸马赛克";
@@ -106,6 +130,8 @@
 
 "Fast · Balanced · Dense" = "快速 · 均衡 · 密集";
 
+"Font Size" = "字体大小";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
 
 "Free" = "免费";
@@ -113,6 +139,8 @@
 "Height" = "高";
 
 "Invalid image dimensions." = "无效的图像尺寸。";
+
+"Jump playhead to cue start" = "跳转到字幕起始位置";
 
 "Loading video…" = "正在加载视频…";
 
@@ -136,6 +164,8 @@
 
 "No scan yet" = "尚未扫描";
 
+"No subtitles yet" = "暂无字幕";
+
 "No video loaded" = "未加载视频";
 
 "OK" = "确定";
@@ -147,6 +177,8 @@
 "Open file location" = "打开文件位置";
 
 "Original" = "原始";
+
+"Padding" = "边距";
 
 "People" = "人物";
 
@@ -184,6 +216,8 @@
 
 "Scan Video Faces" = "扫描面部";
 
+"Scan cancelled" = "扫描已取消";
+
 "Scan density" = "扫描密度";
 
 "Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "扫描片段，然后点击人物以选择（再次点击取消选择）。支持多选。";
@@ -196,6 +230,10 @@
 
 "Scanning… you can leave this window open." = "扫描中… 您可以保持此窗口打开。";
 
+"Seek" = "定位";
+
+"Select All" = "全选";
+
 "Select Video file" = "选择视频文件";
 
 "Selected" = "已选择";
@@ -206,11 +244,27 @@
 
 "Set Crop Area" = "设置裁剪区域";
 
+"Set End" = "设置结束";
+
+"Set Start" = "设置开始";
+
+"Start" = "开始";
+
+"Style" = "样式";
+
+"Subtitle" = "字幕";
+
+"Subtitle text" = "字幕文本";
+
+"Tap Add to create one at the current time." = "点击添加以在当前时间创建一个。";
+
 "Tap “Scan Video Faces” to detect people." = "点击「扫描面部」以检测人物。";
 
 "Text Size" = "文字大小";
 
 "The image has no readable frames." = "图像没有可读帧。";
+
+"Top" = "顶部";
 
 "Top Center" = "顶部居中";
 

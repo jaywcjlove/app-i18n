@@ -1,3 +1,5 @@
+"%@ – %@" = "%1$@ – %2$@";
+
 "%lld" = "%lld";
 
 "%lld people selected. Tap a face again to deselect." = "%lld人選択中。顔をもう一度タップして選択解除。";
@@ -24,6 +26,10 @@
 
 "9:21" = "9:21";
 
+"Add" = "追加";
+
+"Add a cue at the playhead, then edit text and timing." = "再生位置に字幕を追加し、テキストとタイミングを編集します。";
+
 "Apply" = "適用";
 
 "Aspect Ratio" = "アスペクト比";
@@ -36,6 +42,8 @@
 
 "Base" = "基準";
 
+"Bottom" = "下";
+
 "Bottom Center" = "下部中央";
 
 "Bottom Left" = "下部左";
@@ -43,6 +51,10 @@
 "Bottom Right" = "下部右";
 
 "Cancel" = "キャンセル";
+
+"Cancel Scan" = "スキャンをキャンセル";
+
+"Cancel face scan" = "顔スキャンをキャンセル";
 
 "Cannot overwrite the original video" = "元のビデオを上書きできません";
 
@@ -62,6 +74,10 @@
 
 "Crop Area Settings" = "トリミングエリア設定";
 
+"Cues" = "字幕";
+
+"Delete" = "削除";
+
 "Dense" = "高密度";
 
 "Detecting faces…" = "顔を検出中…";
@@ -72,7 +88,17 @@
 
 "Drop a Video!" = "ビデオをドロップしてください！";
 
+"Edit" = "編集";
+
+"Empty" = "空";
+
 "Enable mosaic" = "モザイクを有効にする";
+
+"Enable subtitles" = "字幕を有効にする";
+
+"End" = "終了";
+
+"Export" = "書き出し";
 
 "Export .gif Image" = ".gif 画像を書き出し";
 
@@ -92,8 +118,6 @@
 
 "Export Failed" = "書き出しに失敗しました";
 
-"Export Video" = "ビデオを書き出し";
-
 "Exporting video..." = "ビデオを書き出し中...";
 
 "Face Mosaic" = "顔モザイク";
@@ -106,6 +130,8 @@
 
 "Fast · Balanced · Dense" = "高速 · バランス · 高密度";
 
+"Font Size" = "フォントサイズ";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
 
 "Free" = "無料";
@@ -113,6 +139,8 @@
 "Height" = "高さ";
 
 "Invalid image dimensions." = "無効な画像サイズです。";
+
+"Jump playhead to cue start" = "字幕の開始位置にジャンプ";
 
 "Loading video…" = "ビデオを読み込み中…";
 
@@ -136,6 +164,8 @@
 
 "No scan yet" = "まだスキャンされていません";
 
+"No subtitles yet" = "字幕はまだありません";
+
 "No video loaded" = "ビデオが読み込まれていません";
 
 "OK" = "OK";
@@ -147,6 +177,8 @@
 "Open file location" = "ファイルの場所を開く";
 
 "Original" = "オリジナル";
+
+"Padding" = "余白";
 
 "People" = "人物";
 
@@ -184,6 +216,8 @@
 
 "Scan Video Faces" = "顔をスキャン";
 
+"Scan cancelled" = "スキャンがキャンセルされました";
+
 "Scan density" = "スキャン密度";
 
 "Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "クリップをスキャンし、人物をタップして選択（もう一度タップで選択解除）。複数選択可能。";
@@ -196,6 +230,10 @@
 
 "Scanning… you can leave this window open." = "スキャン中…このウィンドウを開いたままにできます。";
 
+"Seek" = "シーク";
+
+"Select All" = "すべて選択";
+
 "Select Video file" = "ビデオファイルを選択";
 
 "Selected" = "選択中";
@@ -206,11 +244,27 @@
 
 "Set Crop Area" = "トリミングエリアを設定";
 
+"Set End" = "終了を設定";
+
+"Set Start" = "開始を設定";
+
+"Start" = "開始";
+
+"Style" = "スタイル";
+
+"Subtitle" = "字幕";
+
+"Subtitle text" = "字幕テキスト";
+
+"Tap Add to create one at the current time." = "追加をタップして現在の時間に作成します。";
+
 "Tap “Scan Video Faces” to detect people." = "「顔をスキャン」をタップして人物を検出。";
 
 "Text Size" = "文字サイズ";
 
 "The image has no readable frames." = "画像に読み取り可能なフレームがありません。";
+
+"Top" = "上";
 
 "Top Center" = "上部中央";
 

@@ -1,3 +1,5 @@
+"%@ – %@" = "%1$@ – %2$@";
+
 "%lld" = "%lld";
 
 "%lld people selected. Tap a face again to deselect." = "%lld명 선택됨. 얼굴을 다시 탭하여 선택 해제.";
@@ -24,6 +26,10 @@
 
 "9:21" = "9:21";
 
+"Add" = "추가";
+
+"Add a cue at the playhead, then edit text and timing." = "재생 위치에 자막을 추가한 다음 텍스트와 타이밍을 편집하세요.";
+
 "Apply" = "적용";
 
 "Aspect Ratio" = "화면 비율";
@@ -36,6 +42,8 @@
 
 "Base" = "기준";
 
+"Bottom" = "하단";
+
 "Bottom Center" = "하단 중앙";
 
 "Bottom Left" = "하단 왼쪽";
@@ -43,6 +51,10 @@
 "Bottom Right" = "하단 오른쪽";
 
 "Cancel" = "취소";
+
+"Cancel Scan" = "스캔 취소";
+
+"Cancel face scan" = "얼굴 스캔 취소";
 
 "Cannot overwrite the original video" = "원본 비디오를 덮어쓸 수 없습니다";
 
@@ -62,6 +74,10 @@
 
 "Crop Area Settings" = "자르기 영역 설정";
 
+"Cues" = "자막";
+
+"Delete" = "삭제";
+
 "Dense" = "고밀도";
 
 "Detecting faces…" = "얼굴 감지 중…";
@@ -72,7 +88,17 @@
 
 "Drop a Video!" = "비디오를 드롭하세요!";
 
+"Edit" = "편집";
+
+"Empty" = "비어 있음";
+
 "Enable mosaic" = "모자이크 활성화";
+
+"Enable subtitles" = "자막 활성화";
+
+"End" = "종료";
+
+"Export" = "내보내기";
 
 "Export .gif Image" = ".gif 이미지 내보내기";
 
@@ -92,8 +118,6 @@
 
 "Export Failed" = "내보내기에 실패했습니다";
 
-"Export Video" = "비디오 내보내기";
-
 "Exporting video..." = "비디오를 내보내는 중...";
 
 "Face Mosaic" = "얼굴 모자이크";
@@ -106,6 +130,8 @@
 
 "Fast · Balanced · Dense" = "빠르게 · 균형 · 고밀도";
 
+"Font Size" = "글꼴 크기";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
 
 "Free" = "무료";
@@ -113,6 +139,8 @@
 "Height" = "높이";
 
 "Invalid image dimensions." = "잘못된 이미지 크기입니다.";
+
+"Jump playhead to cue start" = "자막 시작 위치로 이동";
 
 "Loading video…" = "비디오를 불러오는 중…";
 
@@ -136,6 +164,8 @@
 
 "No scan yet" = "아직 스캔 안 됨";
 
+"No subtitles yet" = "아직 자막이 없습니다";
+
 "No video loaded" = "불러온 비디오 없음";
 
 "OK" = "확인";
@@ -147,6 +177,8 @@
 "Open file location" = "파일 위치 열기";
 
 "Original" = "원본";
+
+"Padding" = "여백";
 
 "People" = "사람";
 
@@ -184,6 +216,8 @@
 
 "Scan Video Faces" = "얼굴 스캔";
 
+"Scan cancelled" = "스캔이 취소되었습니다";
+
 "Scan density" = "스캔 밀도";
 
 "Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "클립을 스캔한 후 사람을 탭하여 선택하세요(다시 탭하면 선택 해제). 다중 선택 지원.";
@@ -196,6 +230,10 @@
 
 "Scanning… you can leave this window open." = "스캔 중… 이 창을 열어두셔도 됩니다.";
 
+"Seek" = "탐색";
+
+"Select All" = "모두 선택";
+
 "Select Video file" = "비디오 파일 선택";
 
 "Selected" = "선택됨";
@@ -206,11 +244,27 @@
 
 "Set Crop Area" = "자르기 영역 설정";
 
+"Set End" = "종료 설정";
+
+"Set Start" = "시작 설정";
+
+"Start" = "시작";
+
+"Style" = "스타일";
+
+"Subtitle" = "자막";
+
+"Subtitle text" = "자막 텍스트";
+
+"Tap Add to create one at the current time." = "추가를 탭하여 현재 시간에 자막을 만드세요.";
+
 "Tap “Scan Video Faces” to detect people." = "사람을 감지하려면 '얼굴 스캔'을 탭하세요.";
 
 "Text Size" = "텍스트 크기";
 
 "The image has no readable frames." = "이미지에 읽을 수 있는 프레임이 없습니다.";
+
+"Top" = "상단";
 
 "Top Center" = "상단 중앙";
 

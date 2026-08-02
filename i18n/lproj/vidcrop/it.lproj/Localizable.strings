@@ -1,0 +1,295 @@
+"%@ – %@" = "%1$@ – %2$@";
+
+"%lld" = "%lld";
+
+"%lld people selected. Tap a face again to deselect." = "%lld persone selezionate. Tocca di nuovo un volto per deselezionare.";
+
+"%lld · %@" = "%1$lld · %2$@";
+
+"%lld × %lld" = "%1$lld × %2$lld";
+
+"%lld/%lld" = "%1$lld/%2$lld";
+
+"1 person selected. Tap again to deselect, or select more." = "1 persona selezionata. Tocca di nuovo per deselezionare o selezionarne altre.";
+
+"16:9" = "16:9";
+
+"1:1" = "1:1";
+
+"21:9" = "21:9";
+
+"3:2" = "3:2";
+
+"4:3" = "4:3";
+
+"9:16" = "9:16";
+
+"9:21" = "9:21";
+
+"Add" = "Aggiungi";
+
+"Add a cue at the playhead, then edit text and timing." = "Aggiungi un sottotitolo nella posizione di riproduzione, poi modifica testo e durata.";
+
+"Apply" = "Applica";
+
+"Aspect Ratio" = "Proporzioni";
+
+"Avatar" = "Avatar";
+
+"Avatar Size" = "Dimensione avatar";
+
+"Balanced" = "Bilanciato";
+
+"Base" = "Base";
+
+"Bottom" = "In basso";
+
+"Bottom Center" = "In basso al centro";
+
+"Bottom Left" = "In basso a sinistra";
+
+"Bottom Right" = "In basso a destra";
+
+"Cancel" = "Annulla";
+
+"Cancel Scan" = "Annulla scansione";
+
+"Cancel face scan" = "Annulla scansione dei volti";
+
+"Cannot overwrite the original video" = "Impossibile sovrascrivere il video originale";
+
+"Center" = "Centro";
+
+"Choose" = "Scegli";
+
+"Choose export format" = "Scegli il formato di esportazione";
+
+"Clear Selection" = "Cancella selezione";
+
+"Conversion cancelled." = "Conversione annullata.";
+
+"Could not open the image file." = "Impossibile aprire il file immagine.";
+
+"Could not read the dropped file path." = "Impossibile leggere il percorso del file trascinato.";
+
+"Crop Area Settings" = "Impostazioni area di ritaglio";
+
+"Cues" = "Sottotitoli";
+
+"Delete" = "Elimina";
+
+"Dense" = "Denso";
+
+"Detecting faces…" = "Rilevamento volti…";
+
+"Dimensions" = "Dimensioni";
+
+"Done" = "Fatto";
+
+"Drop a Video!" = "Trascina un video!";
+
+"Edit" = "Modifica";
+
+"Empty" = "Vuoto";
+
+"Enable mosaic" = "Abilita mosaico";
+
+"Enable subtitles" = "Abilita sottotitoli";
+
+"End" = "Fine";
+
+"Export" = "Esporta";
+
+"Export .gif Image" = "Esporta immagine .gif";
+
+"Export .m4v Video" = "Esporta video .m4v";
+
+"Export .mov Video" = "Esporta video .mov";
+
+"Export .mp4 Video" = "Esporta video .mp4";
+
+"Export .wav Audio" = "Esporta audio .wav";
+
+"Export Cancelled" = "Esportazione annullata";
+
+"Export Completed" = "Esportazione completata";
+
+"Export Cropped Video" = "Esporta video ritagliato";
+
+"Export Failed" = "Esportazione fallita";
+
+"Exporting video..." = "Esportazione video in corso…";
+
+"Face Mosaic" = "Mosaico volti";
+
+"Failed to load avatar" = "Caricamento avatar fallito";
+
+"Failed to start MP4 encoding: %@" = "Impossibile avviare la codifica MP4: %@";
+
+"Fast" = "Veloce";
+
+"Fast · Balanced · Dense" = "Veloce · Bilanciato · Denso";
+
+"Font Size" = "Dimensione carattere";
+
+"Found %lld person(s) (%lld with preview). Tap a face to select." = "Trovate %1$lld persone (%2$lld con anteprima). Tocca un volto per selezionare.";
+
+"Free" = "Libero";
+
+"Height" = "Altezza";
+
+"Invalid image dimensions." = "Dimensioni immagine non valide.";
+
+"Jump playhead to cue start" = "Vai all'inizio del sottotitolo";
+
+"Loading video…" = "Caricamento video…";
+
+"MP4 conversion failed: %@" = "Conversione MP4 fallita: %@";
+
+"Max: %lld" = "Max: %lld";
+
+"Middle Left" = "Centro sinistra";
+
+"Middle Right" = "Centro destra";
+
+"Mosaic" = "Mosaico";
+
+"No faces found in this clip" = "Nessun volto trovato in questa clip";
+
+"No file was provided." = "Nessun file fornito.";
+
+"No permission to parse the video file" = "Nessun permesso per analizzare il file video";
+
+"No person selected." = "Nessuna persona selezionata.";
+
+"No scan yet" = "Nessuna scansione ancora";
+
+"No subtitles yet" = "Ancora nessun sottotitolo";
+
+"No video loaded" = "Nessun video caricato";
+
+"OK" = "OK";
+
+"Opacity" = "Opacità";
+
+"Open" = "Apri";
+
+"Open file location" = "Apri percorso file";
+
+"Original" = "Originale";
+
+"Padding" = "Margine";
+
+"People" = "Persone";
+
+"Person %lld" = "Persona %lld";
+
+"Playback Speed" = "Velocità di riproduzione";
+
+"Please choose a location and filename to save" = "Scegli una posizione e un nome file per salvare";
+
+"Position" = "Posizione";
+
+"Preparing face previews…" = "Preparazione anteprime volti…";
+
+"Pro" = "Pro";
+
+"Processing..." = "Elaborazione in corso…";
+
+"Random" = "Casuale";
+
+"Remove" = "Rimuovi";
+
+"Rescan Video Faces" = "Riscansiona volti nel video";
+
+"Restored last scan. %lld person(s). Tap a face to select." = "Ultima scansione ripristinata. %lld persone. Tocca un volto per selezionare.";
+
+"Restored last scan. %lld person(s); one selected." = "Ultima scansione ripristinata. %lld persone; una selezionata.";
+
+"Save" = "Salva";
+
+"Save File" = "Salva file";
+
+"Scale" = "Scala";
+
+"Scan" = "Scansiona";
+
+"Scan Video Faces" = "Scansiona volti nel video";
+
+"Scan cancelled" = "Scansione annullata";
+
+"Scan density" = "Densità scansione";
+
+"Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "Scansiona la clip, poi tocca le persone per selezionarle (tocca di nuovo per deselezionare). Supporta selezione multipla.";
+
+"Scanning faces… %@" = "Scansione volti… %@";
+
+"Scanning video for faces…" = "Scansione video per volti…";
+
+"Scanning… %@ (~%lld max @ %@fps)" = "Scansione… %1$@ (~%2$lld max @ %3$@fps)";
+
+"Scanning… you can leave this window open." = "Scansione in corso… puoi lasciare questa finestra aperta.";
+
+"Seek" = "Cerca";
+
+"Select All" = "Seleziona tutto";
+
+"Select Video file" = "Seleziona file video";
+
+"Selected" = "Selezionato";
+
+"Selected %lld person(s)" = "%lld persone selezionate";
+
+"Selection cleared." = "Selezione cancellata.";
+
+"Set Crop Area" = "Imposta area di ritaglio";
+
+"Set End" = "Imposta fine";
+
+"Set Start" = "Imposta inizio";
+
+"Start" = "Inizio";
+
+"Style" = "Stile";
+
+"Subtitle" = "Sottotitolo";
+
+"Subtitle text" = "Testo del sottotitolo";
+
+"Tap Add to create one at the current time." = "Tocca Aggiungi per crearne uno al tempo corrente.";
+
+"Tap “Scan Video Faces” to detect people." = "Tocca \"Scansiona volti nel video\" per rilevare le persone.";
+
+"Text Size" = "Dimensione testo";
+
+"The image has no readable frames." = "L'immagine non ha fotogrammi leggibili.";
+
+"Top" = "In alto";
+
+"Top Center" = "In alto al centro";
+
+"Top Left" = "In alto a sinistra";
+
+"Top Right" = "In alto a destra";
+
+"Unknown Status" = "Stato sconosciuto";
+
+"Unlock all Features" = "Sblocca tutte le funzionalità";
+
+"Unsupported file type." = "Tipo di file non supportato.";
+
+"Video exported successfully" = "Video esportato con successo";
+
+"Video failed to load" = "Caricamento video fallito";
+
+"Video saved to: %@" = "Video salvato in: %@";
+
+"Watermark" = "Filigrana";
+
+"Watermark text" = "Testo filigrana";
+
+"Width" = "Larghezza";
+
+"or" = "o";
+
+"· tap to toggle" = "· tocca per attivare/disattivare";

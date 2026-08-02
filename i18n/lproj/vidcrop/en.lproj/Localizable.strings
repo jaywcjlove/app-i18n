@@ -1,3 +1,5 @@
+"%@ – %@" = "%1$@ – %2$@";
+
 "%lld" = "%lld";
 
 "%lld people selected. Tap a face again to deselect." = "%lld people selected. Tap a face again to deselect.";
@@ -24,6 +26,10 @@
 
 "9:21" = "9:21";
 
+"Add" = "Add";
+
+"Add a cue at the playhead, then edit text and timing." = "Add a cue at the playhead, then edit text and timing.";
+
 "Apply" = "Apply";
 
 "Aspect Ratio" = "Aspect Ratio";
@@ -36,6 +42,8 @@
 
 "Base" = "Base";
 
+"Bottom" = "Bottom";
+
 "Bottom Center" = "Bottom Center";
 
 "Bottom Left" = "Bottom Left";
@@ -43,6 +51,10 @@
 "Bottom Right" = "Bottom Right";
 
 "Cancel" = "Cancel";
+
+"Cancel Scan" = "Cancel Scan";
+
+"Cancel face scan" = "Cancel face scan";
 
 "Cannot overwrite the original video" = "Cannot overwrite the original video";
 
@@ -62,6 +74,10 @@
 
 "Crop Area Settings" = "Crop Area Settings";
 
+"Cues" = "Cues";
+
+"Delete" = "Delete";
+
 "Dense" = "Dense";
 
 "Detecting faces…" = "Detecting faces…";
@@ -72,7 +88,17 @@
 
 "Drop a Video!" = "Drop a Video!";
 
+"Edit" = "Edit";
+
+"Empty" = "Empty";
+
 "Enable mosaic" = "Enable mosaic";
+
+"Enable subtitles" = "Enable subtitles";
+
+"End" = "End";
+
+"Export" = "Export";
 
 "Export .gif Image" = "Export .gif Image";
 
@@ -92,8 +118,6 @@
 
 "Export Failed" = "Export Failed";
 
-"Export Video" = "Export Video";
-
 "Exporting video..." = "Exporting video...";
 
 "Face Mosaic" = "Face Mosaic";
@@ -106,6 +130,8 @@
 
 "Fast · Balanced · Dense" = "Fast · Balanced · Dense";
 
+"Font Size" = "Font Size";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
 
 "Free" = "Free";
@@ -113,6 +139,8 @@
 "Height" = "Height";
 
 "Invalid image dimensions." = "Invalid image dimensions.";
+
+"Jump playhead to cue start" = "Jump playhead to cue start";
 
 "Loading video…" = "Loading video…";
 
@@ -136,6 +164,8 @@
 
 "No scan yet" = "No scan yet";
 
+"No subtitles yet" = "No subtitles yet";
+
 "No video loaded" = "No video loaded";
 
 "OK" = "OK";
@@ -147,6 +177,8 @@
 "Open file location" = "Open file location";
 
 "Original" = "Original";
+
+"Padding" = "Padding";
 
 "People" = "People";
 
@@ -184,6 +216,8 @@
 
 "Scan Video Faces" = "Scan Video Faces";
 
+"Scan cancelled" = "Scan cancelled";
+
 "Scan density" = "Scan density";
 
 "Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "Scan the clip, then tap people to select (tap again to deselect). Multi-select supported.";
@@ -196,6 +230,10 @@
 
 "Scanning… you can leave this window open." = "Scanning… you can leave this window open.";
 
+"Seek" = "Seek";
+
+"Select All" = "Select All";
+
 "Select Video file" = "Select Video file";
 
 "Selected" = "Selected";
@@ -206,11 +244,27 @@
 
 "Set Crop Area" = "Set Crop Area";
 
+"Set End" = "Set End";
+
+"Set Start" = "Set Start";
+
+"Start" = "Start";
+
+"Style" = "Style";
+
+"Subtitle" = "Subtitle";
+
+"Subtitle text" = "Subtitle text";
+
+"Tap Add to create one at the current time." = "Tap Add to create one at the current time.";
+
 "Tap “Scan Video Faces” to detect people." = "Tap “Scan Video Faces” to detect people.";
 
 "Text Size" = "Text Size";
 
 "The image has no readable frames." = "The image has no readable frames.";
+
+"Top" = "Top";
 
 "Top Center" = "Top Center";
 

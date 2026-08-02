@@ -1,3 +1,5 @@
+"%@ – %@" = "%1$@ – %2$@";
+
 "%lld" = "%lld";
 
 "%lld people selected. Tap a face again to deselect." = "已選擇 %lld 人。再次點擊面部以取消選擇。";
@@ -24,6 +26,10 @@
 
 "9:21" = "9:21";
 
+"Add" = "新增";
+
+"Add a cue at the playhead, then edit text and timing." = "在播放頭位置新增字幕，然後編輯文字與時間。";
+
 "Apply" = "套用";
 
 "Aspect Ratio" = "長寬比";
@@ -36,6 +42,8 @@
 
 "Base" = "基準";
 
+"Bottom" = "底部";
+
 "Bottom Center" = "底部置中";
 
 "Bottom Left" = "底部靠左";
@@ -43,6 +51,10 @@
 "Bottom Right" = "底部靠右";
 
 "Cancel" = "取消";
+
+"Cancel Scan" = "取消掃描";
+
+"Cancel face scan" = "取消人臉掃描";
 
 "Cannot overwrite the original video" = "不能覆蓋原始影片";
 
@@ -62,6 +74,10 @@
 
 "Crop Area Settings" = "裁剪區域設定";
 
+"Cues" = "字幕";
+
+"Delete" = "刪除";
+
 "Dense" = "密集";
 
 "Detecting faces…" = "正在檢測面部…";
@@ -72,7 +88,17 @@
 
 "Drop a Video!" = "拖放一個影片！";
 
+"Edit" = "編輯";
+
+"Empty" = "空";
+
 "Enable mosaic" = "啟用人臉馬賽克";
+
+"Enable subtitles" = "啟用字幕";
+
+"End" = "結束";
+
+"Export" = "匯出";
 
 "Export .gif Image" = "匯出 .gif 圖像";
 
@@ -92,8 +118,6 @@
 
 "Export Failed" = "匯出失敗";
 
-"Export Video" = "匯出影片";
-
 "Exporting video..." = "正在匯出影片...";
 
 "Face Mosaic" = "人臉馬賽克";
@@ -106,6 +130,8 @@
 
 "Fast · Balanced · Dense" = "快速 · 均衡 · 密集";
 
+"Font Size" = "字型大小";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
 
 "Free" = "免費";
@@ -113,6 +139,8 @@
 "Height" = "高";
 
 "Invalid image dimensions." = "無效的影像尺寸。";
+
+"Jump playhead to cue start" = "跳至字幕起始位置";
 
 "Loading video…" = "正在載入影片…";
 
@@ -136,6 +164,8 @@
 
 "No scan yet" = "尚未掃描";
 
+"No subtitles yet" = "尚無字幕";
+
 "No video loaded" = "未載入影片";
 
 "OK" = "確定";
@@ -147,6 +177,8 @@
 "Open file location" = "打開檔案位置";
 
 "Original" = "原始";
+
+"Padding" = "邊距";
 
 "People" = "人物";
 
@@ -184,6 +216,8 @@
 
 "Scan Video Faces" = "掃描面部";
 
+"Scan cancelled" = "掃描已取消";
+
 "Scan density" = "掃描密度";
 
 "Scan the clip, then tap people to select (tap again to deselect). Multi-select supported." = "掃描片段，然後點擊人物以選擇（再次點擊取消選擇）。支援多選。";
@@ -196,6 +230,10 @@
 
 "Scanning… you can leave this window open." = "掃描中… 您可以保持此視窗開啟。";
 
+"Seek" = "定位";
+
+"Select All" = "全選";
+
 "Select Video file" = "選擇影片檔案";
 
 "Selected" = "已選擇";
@@ -206,11 +244,27 @@
 
 "Set Crop Area" = "設定裁剪區域";
 
+"Set End" = "設定結束";
+
+"Set Start" = "設定開始";
+
+"Start" = "開始";
+
+"Style" = "樣式";
+
+"Subtitle" = "字幕";
+
+"Subtitle text" = "字幕文字";
+
+"Tap Add to create one at the current time." = "點擊新增以在當前時間建立一個。";
+
 "Tap “Scan Video Faces” to detect people." = "點擊「掃描面部」以檢測人物。";
 
 "Text Size" = "文字大小";
 
 "The image has no readable frames." = "影像沒有可讀幀。";
+
+"Top" = "頂部";
 
 "Top Center" = "頂部置中";
 
