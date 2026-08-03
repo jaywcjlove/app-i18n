@@ -28,7 +28,7 @@
 
 "Add" = "추가";
 
-"Add a cue at the playhead, then edit text and timing." = "재생 위치에 자막을 추가한 다음 텍스트와 타이밍을 편집하세요.";
+"Append" = "추가";
 
 "Apply" = "적용";
 
@@ -50,7 +50,11 @@
 
 "Bottom Right" = "하단 오른쪽";
 
+"Burn into video" = "비디오에 구워 넣기";
+
 "Cancel" = "취소";
+
+"Cancel Export" = "내보내기 취소";
 
 "Cancel Scan" = "스캔 취소";
 
@@ -69,6 +73,8 @@
 "Conversion cancelled." = "변환이 취소되었습니다.";
 
 "Could not open the image file." = "이미지 파일을 열 수 없습니다.";
+
+"Could not read subtitles from this file. Use SRT, VTT, ASS, or SSA." = "이 파일에서 자막을 읽을 수 없습니다. SRT, VTT, ASS 또는 SSA를 사용하세요.";
 
 "Could not read the dropped file path." = "드롭된 파일 경로를 읽을 수 없습니다.";
 
@@ -89,6 +95,8 @@
 "Drop a Video!" = "비디오를 드롭하세요!";
 
 "Edit" = "편집";
+
+"Embed subtitle track" = "자막 트랙 포함";
 
 "Empty" = "비어 있음";
 
@@ -118,6 +126,8 @@
 
 "Export Failed" = "내보내기에 실패했습니다";
 
+"Export mode" = "내보내기 모드";
+
 "Exporting video..." = "비디오를 내보내는 중...";
 
 "Face Mosaic" = "얼굴 모자이크";
@@ -132,11 +142,29 @@
 
 "Font Size" = "글꼴 크기";
 
+"Found %lld cues. Replace existing subtitles or append?" = "%lld개의 자막을 찾았습니다. 기존 자막을 교체하시겠습니까, 아니면 추가하시겠습니까?";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
 
 "Free" = "무료";
 
+"GIF export always burns subtitles into frames." = "GIF 내보내기는 항상 자막을 프레임에 구워 넣습니다.";
+
 "Height" = "높이";
+
+"Import" = "가져오기";
+
+"Import Failed" = "가져오기 실패";
+
+"Import SRT, VTT, ASS, or SSA subtitle file" = "SRT, VTT, ASS 또는 SSA 자막 파일 가져오기";
+
+"Import Subtitles" = "자막 가져오기";
+
+"Import a file or tap Add to create one." = "파일을 가져오거나 추가를 탭하여 새로 만드세요.";
+
+"Import a subtitle file, or add a cue at the playhead." = "자막 파일을 가져오거나 재생 위치에 자막을 추가하세요.";
+
+"Importing subtitles…" = "자막 가져오는 중…";
 
 "Invalid image dimensions." = "잘못된 이미지 크기입니다.";
 
@@ -166,6 +194,8 @@
 
 "No subtitles yet" = "아직 자막이 없습니다";
 
+"No valid subtitle cues found in this file." = "이 파일에서 유효한 자막을 찾을 수 없습니다.";
+
 "No video loaded" = "불러온 비디오 없음";
 
 "OK" = "확인";
@@ -182,7 +212,11 @@
 
 "People" = "사람";
 
+"Permanently drawn on frames. Style matches preview; cannot re-import as text." = "프레임에 영구적으로 그려집니다. 스타일은 미리보기와 일치하며, 텍스트로 다시 가져올 수 없습니다.";
+
 "Person %lld" = "사람 %lld";
+
+"Play this cue from start to end" = "이 자막을 처음부터 끝까지 재생";
 
 "Playback Speed" = "재생 속도";
 
@@ -192,6 +226,8 @@
 
 "Preparing face previews…" = "얼굴 미리보기 준비 중…";
 
+"Preview style" = "미리보기 스타일";
+
 "Pro" = "프로";
 
 "Processing..." = "처리 중...";
@@ -199,6 +235,8 @@
 "Random" = "무작위";
 
 "Remove" = "제거";
+
+"Replace" = "교체";
 
 "Rescan Video Faces" = "얼굴 다시 스캔";
 
@@ -209,6 +247,8 @@
 "Save" = "저장";
 
 "Save File" = "파일 저장";
+
+"Saved as a text track. Can be re-imported and edited; style is player-dependent." = "텍스트 트랙으로 저장되었습니다. 다시 가져와서 편집할 수 있으며, 스타일은 플레이어에 따라 다릅니다.";
 
 "Scale" = "배율";
 
@@ -252,11 +292,11 @@
 
 "Style" = "스타일";
 
+"Style applies to in-app preview only when embedding a track." = "스타일은 트랙 포함 시 앱 내 미리보기에만 적용됩니다.";
+
 "Subtitle" = "자막";
 
 "Subtitle text" = "자막 텍스트";
-
-"Tap Add to create one at the current time." = "추가를 탭하여 현재 시간에 자막을 만드세요.";
 
 "Tap “Scan Video Faces” to detect people." = "사람을 감지하려면 '얼굴 스캔'을 탭하세요.";
 

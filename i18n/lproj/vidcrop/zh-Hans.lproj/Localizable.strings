@@ -28,7 +28,7 @@
 
 "Add" = "添加";
 
-"Add a cue at the playhead, then edit text and timing." = "在播放头位置添加字幕，然后编辑文本和时间。";
+"Append" = "追加";
 
 "Apply" = "应用";
 
@@ -50,7 +50,11 @@
 
 "Bottom Right" = "底部居右";
 
+"Burn into video" = "烧录到视频";
+
 "Cancel" = "取消";
+
+"Cancel Export" = "取消导出";
 
 "Cancel Scan" = "取消扫描";
 
@@ -69,6 +73,8 @@
 "Conversion cancelled." = "转换已取消。";
 
 "Could not open the image file." = "无法打开图像文件。";
+
+"Could not read subtitles from this file. Use SRT, VTT, ASS, or SSA." = "无法读取此文件中的字幕。请使用 SRT、VTT、ASS 或 SSA 格式。";
 
 "Could not read the dropped file path." = "无法读取拖放文件的路径。";
 
@@ -89,6 +95,8 @@
 "Drop a Video!" = "拖放一个视频！";
 
 "Edit" = "编辑";
+
+"Embed subtitle track" = "嵌入字幕轨道";
 
 "Empty" = "空";
 
@@ -118,6 +126,8 @@
 
 "Export Failed" = "导出失败";
 
+"Export mode" = "导出模式";
+
 "Exporting video..." = "正在导出视频...";
 
 "Face Mosaic" = "人脸马赛克";
@@ -132,11 +142,29 @@
 
 "Font Size" = "字体大小";
 
+"Found %lld cues. Replace existing subtitles or append?" = "找到 %lld 条字幕。替换现有字幕还是追加？";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
 
 "Free" = "免费";
 
+"GIF export always burns subtitles into frames." = "GIF 导出始终将字幕烧录到帧中。";
+
 "Height" = "高";
+
+"Import" = "导入";
+
+"Import Failed" = "导入失败";
+
+"Import SRT, VTT, ASS, or SSA subtitle file" = "导入 SRT、VTT、ASS 或 SSA 字幕文件";
+
+"Import Subtitles" = "导入字幕";
+
+"Import a file or tap Add to create one." = "导入文件或点击添加来创建一个。";
+
+"Import a subtitle file, or add a cue at the playhead." = "导入字幕文件，或在播放头位置添加字幕。";
+
+"Importing subtitles…" = "正在导入字幕…";
 
 "Invalid image dimensions." = "无效的图像尺寸。";
 
@@ -166,6 +194,8 @@
 
 "No subtitles yet" = "暂无字幕";
 
+"No valid subtitle cues found in this file." = "此文件中未找到有效的字幕条目。";
+
 "No video loaded" = "未加载视频";
 
 "OK" = "确定";
@@ -182,7 +212,11 @@
 
 "People" = "人物";
 
+"Permanently drawn on frames. Style matches preview; cannot re-import as text." = "永久绘制在帧上。样式与预览一致；无法作为文本重新导入。";
+
 "Person %lld" = "人物 %lld";
+
+"Play this cue from start to end" = "从头到尾播放此字幕";
 
 "Playback Speed" = "播放速度";
 
@@ -192,6 +226,8 @@
 
 "Preparing face previews…" = "正在准备面部预览…";
 
+"Preview style" = "预览样式";
+
 "Pro" = "专业版";
 
 "Processing..." = "处理中…";
@@ -199,6 +235,8 @@
 "Random" = "随机";
 
 "Remove" = "移除";
+
+"Replace" = "替换";
 
 "Rescan Video Faces" = "重新扫描面部";
 
@@ -209,6 +247,8 @@
 "Save" = "保存";
 
 "Save File" = "保存文件";
+
+"Saved as a text track. Can be re-imported and edited; style is player-dependent." = "保存为文本轨道。可重新导入和编辑；样式取决于播放器。";
 
 "Scale" = "缩放";
 
@@ -252,11 +292,11 @@
 
 "Style" = "样式";
 
+"Style applies to in-app preview only when embedding a track." = "样式仅在嵌入轨道时应用于应用内预览。";
+
 "Subtitle" = "字幕";
 
 "Subtitle text" = "字幕文本";
-
-"Tap Add to create one at the current time." = "点击添加以在当前时间创建一个。";
 
 "Tap “Scan Video Faces” to detect people." = "点击「扫描面部」以检测人物。";
 

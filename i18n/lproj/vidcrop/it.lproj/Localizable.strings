@@ -28,7 +28,7 @@
 
 "Add" = "Aggiungi";
 
-"Add a cue at the playhead, then edit text and timing." = "Aggiungi un sottotitolo nella posizione di riproduzione, poi modifica testo e durata.";
+"Append" = "Aggiungi";
 
 "Apply" = "Applica";
 
@@ -50,7 +50,11 @@
 
 "Bottom Right" = "In basso a destra";
 
+"Burn into video" = "Masterizza nel video";
+
 "Cancel" = "Annulla";
+
+"Cancel Export" = "Annulla esportazione";
 
 "Cancel Scan" = "Annulla scansione";
 
@@ -69,6 +73,8 @@
 "Conversion cancelled." = "Conversione annullata.";
 
 "Could not open the image file." = "Impossibile aprire il file immagine.";
+
+"Could not read subtitles from this file. Use SRT, VTT, ASS, or SSA." = "Impossibile leggere i sottotitoli da questo file. Usa SRT, VTT, ASS o SSA.";
 
 "Could not read the dropped file path." = "Impossibile leggere il percorso del file trascinato.";
 
@@ -89,6 +95,8 @@
 "Drop a Video!" = "Trascina un video!";
 
 "Edit" = "Modifica";
+
+"Embed subtitle track" = "Incorpora traccia sottotitoli";
 
 "Empty" = "Vuoto";
 
@@ -118,6 +126,8 @@
 
 "Export Failed" = "Esportazione fallita";
 
+"Export mode" = "Modalità esportazione";
+
 "Exporting video..." = "Esportazione video in corso…";
 
 "Face Mosaic" = "Mosaico volti";
@@ -132,11 +142,29 @@
 
 "Font Size" = "Dimensione carattere";
 
+"Found %lld cues. Replace existing subtitles or append?" = "Trovati %lld sottotitoli. Sostituire quelli esistenti o aggiungere?";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Trovate %1$lld persone (%2$lld con anteprima). Tocca un volto per selezionare.";
 
 "Free" = "Libero";
 
+"GIF export always burns subtitles into frames." = "L'esportazione GIF masterizza sempre i sottotitoli nei fotogrammi.";
+
 "Height" = "Altezza";
+
+"Import" = "Importa";
+
+"Import Failed" = "Importazione fallita";
+
+"Import SRT, VTT, ASS, or SSA subtitle file" = "Importa file sottotitoli SRT, VTT, ASS o SSA";
+
+"Import Subtitles" = "Importa sottotitoli";
+
+"Import a file or tap Add to create one." = "Importa un file o tocca Aggiungi per crearne uno.";
+
+"Import a subtitle file, or add a cue at the playhead." = "Importa un file di sottotitoli o aggiungi un sottotitolo alla posizione di riproduzione.";
+
+"Importing subtitles…" = "Importazione sottotitoli…";
 
 "Invalid image dimensions." = "Dimensioni immagine non valide.";
 
@@ -166,6 +194,8 @@
 
 "No subtitles yet" = "Ancora nessun sottotitolo";
 
+"No valid subtitle cues found in this file." = "Nessun sottotitolo valido trovato in questo file.";
+
 "No video loaded" = "Nessun video caricato";
 
 "OK" = "OK";
@@ -182,7 +212,11 @@
 
 "People" = "Persone";
 
+"Permanently drawn on frames. Style matches preview; cannot re-import as text." = "Disegnato permanentemente sui fotogrammi. Lo stile corrisponde all'anteprima; non può essere reimportato come testo.";
+
 "Person %lld" = "Persona %lld";
+
+"Play this cue from start to end" = "Riproduci questo sottotitolo dall'inizio alla fine";
 
 "Playback Speed" = "Velocità di riproduzione";
 
@@ -192,6 +226,8 @@
 
 "Preparing face previews…" = "Preparazione anteprime volti…";
 
+"Preview style" = "Stile anteprima";
+
 "Pro" = "Pro";
 
 "Processing..." = "Elaborazione in corso…";
@@ -199,6 +235,8 @@
 "Random" = "Casuale";
 
 "Remove" = "Rimuovi";
+
+"Replace" = "Sostituisci";
 
 "Rescan Video Faces" = "Riscansiona volti nel video";
 
@@ -209,6 +247,8 @@
 "Save" = "Salva";
 
 "Save File" = "Salva file";
+
+"Saved as a text track. Can be re-imported and edited; style is player-dependent." = "Salvato come traccia di testo. Può essere reimportato e modificato; lo stile dipende dal lettore.";
 
 "Scale" = "Scala";
 
@@ -252,11 +292,11 @@
 
 "Style" = "Stile";
 
+"Style applies to in-app preview only when embedding a track." = "Lo stile si applica solo all'anteprima in-app quando si incorpora una traccia.";
+
 "Subtitle" = "Sottotitolo";
 
 "Subtitle text" = "Testo del sottotitolo";
-
-"Tap Add to create one at the current time." = "Tocca Aggiungi per crearne uno al tempo corrente.";
 
 "Tap “Scan Video Faces” to detect people." = "Tocca \"Scansiona volti nel video\" per rilevare le persone.";
 

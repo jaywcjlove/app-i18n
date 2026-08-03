@@ -28,7 +28,7 @@
 
 "Add" = "Add";
 
-"Add a cue at the playhead, then edit text and timing." = "Add a cue at the playhead, then edit text and timing.";
+"Append" = "Append";
 
 "Apply" = "Apply";
 
@@ -50,7 +50,11 @@
 
 "Bottom Right" = "Bottom Right";
 
+"Burn into video" = "Burn into video";
+
 "Cancel" = "Cancel";
+
+"Cancel Export" = "Cancel Export";
 
 "Cancel Scan" = "Cancel Scan";
 
@@ -69,6 +73,8 @@
 "Conversion cancelled." = "Conversion cancelled.";
 
 "Could not open the image file." = "Could not open the image file.";
+
+"Could not read subtitles from this file. Use SRT, VTT, ASS, or SSA." = "Could not read subtitles from this file. Use SRT, VTT, ASS, or SSA.";
 
 "Could not read the dropped file path." = "Could not read the dropped file path.";
 
@@ -89,6 +95,8 @@
 "Drop a Video!" = "Drop a Video!";
 
 "Edit" = "Edit";
+
+"Embed subtitle track" = "Embed subtitle track";
 
 "Empty" = "Empty";
 
@@ -118,6 +126,8 @@
 
 "Export Failed" = "Export Failed";
 
+"Export mode" = "Export mode";
+
 "Exporting video..." = "Exporting video...";
 
 "Face Mosaic" = "Face Mosaic";
@@ -132,11 +142,29 @@
 
 "Font Size" = "Font Size";
 
+"Found %lld cues. Replace existing subtitles or append?" = "Found %lld cues. Replace existing subtitles or append?";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
 
 "Free" = "Free";
 
+"GIF export always burns subtitles into frames." = "GIF export always burns subtitles into frames.";
+
 "Height" = "Height";
+
+"Import" = "Import";
+
+"Import Failed" = "Import Failed";
+
+"Import SRT, VTT, ASS, or SSA subtitle file" = "Import SRT, VTT, ASS, or SSA subtitle file";
+
+"Import Subtitles" = "Import Subtitles";
+
+"Import a file or tap Add to create one." = "Import a file or tap Add to create one.";
+
+"Import a subtitle file, or add a cue at the playhead." = "Import a subtitle file, or add a cue at the playhead.";
+
+"Importing subtitles…" = "Importing subtitles…";
 
 "Invalid image dimensions." = "Invalid image dimensions.";
 
@@ -166,6 +194,8 @@
 
 "No subtitles yet" = "No subtitles yet";
 
+"No valid subtitle cues found in this file." = "No valid subtitle cues found in this file.";
+
 "No video loaded" = "No video loaded";
 
 "OK" = "OK";
@@ -182,7 +212,11 @@
 
 "People" = "People";
 
+"Permanently drawn on frames. Style matches preview; cannot re-import as text." = "Permanently drawn on frames. Style matches preview; cannot re-import as text.";
+
 "Person %lld" = "Person %lld";
+
+"Play this cue from start to end" = "Play this cue from start to end";
 
 "Playback Speed" = "Playback Speed";
 
@@ -192,6 +226,8 @@
 
 "Preparing face previews…" = "Preparing face previews…";
 
+"Preview style" = "Preview style";
+
 "Pro" = "Pro";
 
 "Processing..." = "Processing...";
@@ -199,6 +235,8 @@
 "Random" = "Random";
 
 "Remove" = "Remove";
+
+"Replace" = "Replace";
 
 "Rescan Video Faces" = "Rescan Video Faces";
 
@@ -209,6 +247,8 @@
 "Save" = "Save";
 
 "Save File" = "Save File";
+
+"Saved as a text track. Can be re-imported and edited; style is player-dependent." = "Saved as a text track. Can be re-imported and edited; style is player-dependent.";
 
 "Scale" = "Scale";
 
@@ -252,11 +292,11 @@
 
 "Style" = "Style";
 
+"Style applies to in-app preview only when embedding a track." = "Style applies to in-app preview only when embedding a track.";
+
 "Subtitle" = "Subtitle";
 
 "Subtitle text" = "Subtitle text";
-
-"Tap Add to create one at the current time." = "Tap Add to create one at the current time.";
 
 "Tap “Scan Video Faces” to detect people." = "Tap “Scan Video Faces” to detect people.";
 

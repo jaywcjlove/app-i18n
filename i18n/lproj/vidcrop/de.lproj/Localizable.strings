@@ -28,7 +28,7 @@
 
 "Add" = "Hinzufügen";
 
-"Add a cue at the playhead, then edit text and timing." = "Untertitel an der Abspielposition hinzufügen, dann Text und Zeit bearbeiten.";
+"Append" = "Anhängen";
 
 "Apply" = "Anwenden";
 
@@ -50,7 +50,11 @@
 
 "Bottom Right" = "Unten Rechts";
 
+"Burn into video" = "In Video einbrennen";
+
 "Cancel" = "Abbrechen";
+
+"Cancel Export" = "Export abbrechen";
 
 "Cancel Scan" = "Scan abbrechen";
 
@@ -69,6 +73,8 @@
 "Conversion cancelled." = "Konvertierung abgebrochen.";
 
 "Could not open the image file." = "Bilddatei konnte nicht geöffnet werden.";
+
+"Could not read subtitles from this file. Use SRT, VTT, ASS, or SSA." = "Untertitel konnten aus dieser Datei nicht gelesen werden. Verwenden Sie SRT, VTT, ASS oder SSA.";
 
 "Could not read the dropped file path." = "Der Pfad der abgelegten Datei konnte nicht gelesen werden.";
 
@@ -89,6 +95,8 @@
 "Drop a Video!" = "Ziehen Sie ein Video hierher!";
 
 "Edit" = "Bearbeiten";
+
+"Embed subtitle track" = "Untertitelspur einbetten";
 
 "Empty" = "Leer";
 
@@ -118,6 +126,8 @@
 
 "Export Failed" = "Export fehlgeschlagen";
 
+"Export mode" = "Exportmodus";
+
 "Exporting video..." = "Video wird exportiert...";
 
 "Face Mosaic" = "Gesichtsmosaik";
@@ -132,11 +142,29 @@
 
 "Font Size" = "Schriftgröße";
 
+"Found %lld cues. Replace existing subtitles or append?" = "%lld Untertitel gefunden. Bestehende ersetzen oder anhängen?";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
 
 "Free" = "Kostenlos";
 
+"GIF export always burns subtitles into frames." = "GIF-Export brennt Untertitel immer in die Frames ein.";
+
 "Height" = "Höhe";
+
+"Import" = "Importieren";
+
+"Import Failed" = "Import fehlgeschlagen";
+
+"Import SRT, VTT, ASS, or SSA subtitle file" = "SRT-, VTT-, ASS- oder SSA-Untertiteldatei importieren";
+
+"Import Subtitles" = "Untertitel importieren";
+
+"Import a file or tap Add to create one." = "Datei importieren oder auf Hinzufügen tippen, um eine zu erstellen.";
+
+"Import a subtitle file, or add a cue at the playhead." = "Untertiteldatei importieren oder einen Untertitel an der Abspielposition hinzufügen.";
+
+"Importing subtitles…" = "Untertitel werden importiert…";
 
 "Invalid image dimensions." = "Ungültige Bildabmessungen.";
 
@@ -166,6 +194,8 @@
 
 "No subtitles yet" = "Noch keine Untertitel";
 
+"No valid subtitle cues found in this file." = "Keine gültigen Untertiteleinträge in dieser Datei gefunden.";
+
 "No video loaded" = "Kein Video geladen";
 
 "OK" = "OK";
@@ -182,7 +212,11 @@
 
 "People" = "Personen";
 
+"Permanently drawn on frames. Style matches preview; cannot re-import as text." = "Dauerhaft in die Frames gezeichnet. Stil entspricht der Vorschau; kann nicht als Text erneut importiert werden.";
+
 "Person %lld" = "Person %lld";
+
+"Play this cue from start to end" = "Diesen Untertitel von Anfang bis Ende abspielen";
 
 "Playback Speed" = "Wiedergabegeschwindigkeit";
 
@@ -192,6 +226,8 @@
 
 "Preparing face previews…" = "Gesichtsvorschauen werden vorbereitet…";
 
+"Preview style" = "Vorschaustil";
+
 "Pro" = "Pro";
 
 "Processing..." = "Wird verarbeitet...";
@@ -199,6 +235,8 @@
 "Random" = "Zufällig";
 
 "Remove" = "Entfernen";
+
+"Replace" = "Ersetzen";
 
 "Rescan Video Faces" = "Gesichter erneut scannen";
 
@@ -209,6 +247,8 @@
 "Save" = "Speichern";
 
 "Save File" = "Datei speichern";
+
+"Saved as a text track. Can be re-imported and edited; style is player-dependent." = "Als Textspur gespeichert. Kann erneut importiert und bearbeitet werden; Stil ist playerabhängig.";
 
 "Scale" = "Skalierung";
 
@@ -252,11 +292,11 @@
 
 "Style" = "Stil";
 
+"Style applies to in-app preview only when embedding a track." = "Stil gilt nur für die In-App-Vorschau beim Einbetten einer Spur.";
+
 "Subtitle" = "Untertitel";
 
 "Subtitle text" = "Untertiteltext";
-
-"Tap Add to create one at the current time." = "Auf Hinzufügen tippen, um einen an der aktuellen Zeit zu erstellen.";
 
 "Tap “Scan Video Faces” to detect people." = "Tippe auf „Gesichter scannen“, um Personen zu erkennen.";
 

@@ -28,7 +28,7 @@
 
 "Add" = "Добавить";
 
-"Add a cue at the playhead, then edit text and timing." = "Добавьте субтитр в позиции воспроизведения, затем отредактируйте текст и время.";
+"Append" = "Добавить";
 
 "Apply" = "Применить";
 
@@ -50,7 +50,11 @@
 
 "Bottom Right" = "Снизу справа";
 
+"Burn into video" = "Вшить в видео";
+
 "Cancel" = "Отмена";
+
+"Cancel Export" = "Отменить экспорт";
 
 "Cancel Scan" = "Отменить сканирование";
 
@@ -69,6 +73,8 @@
 "Conversion cancelled." = "Преобразование отменено.";
 
 "Could not open the image file." = "Не удалось открыть файл изображения.";
+
+"Could not read subtitles from this file. Use SRT, VTT, ASS, or SSA." = "Не удалось прочитать субтитры из этого файла. Используйте SRT, VTT, ASS или SSA.";
 
 "Could not read the dropped file path." = "Не удалось прочитать путь к перетащенному файлу.";
 
@@ -89,6 +95,8 @@
 "Drop a Video!" = "Перетащите видео!";
 
 "Edit" = "Изменить";
+
+"Embed subtitle track" = "Встроить дорожку субтитров";
 
 "Empty" = "Пусто";
 
@@ -118,6 +126,8 @@
 
 "Export Failed" = "Ошибка экспорта";
 
+"Export mode" = "Режим экспорта";
+
 "Exporting video..." = "Идет экспорт видео...";
 
 "Face Mosaic" = "Мозаика лиц";
@@ -132,11 +142,29 @@
 
 "Font Size" = "Размер шрифта";
 
+"Found %lld cues. Replace existing subtitles or append?" = "Найдено %lld субтитров. Заменить существующие или добавить?";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
 
 "Free" = "Бесплатно";
 
+"GIF export always burns subtitles into frames." = "При экспорте GIF субтитры всегда вшиваются в кадры.";
+
 "Height" = "Высота";
+
+"Import" = "Импорт";
+
+"Import Failed" = "Ошибка импорта";
+
+"Import SRT, VTT, ASS, or SSA subtitle file" = "Импортировать файл субтитров SRT, VTT, ASS или SSA";
+
+"Import Subtitles" = "Импортировать субтитры";
+
+"Import a file or tap Add to create one." = "Импортируйте файл или нажмите «Добавить», чтобы создать.";
+
+"Import a subtitle file, or add a cue at the playhead." = "Импортируйте файл субтитров или добавьте субтитр в текущей позиции.";
+
+"Importing subtitles…" = "Импорт субтитров…";
 
 "Invalid image dimensions." = "Недопустимые размеры изображения.";
 
@@ -166,6 +194,8 @@
 
 "No subtitles yet" = "Субтитров пока нет";
 
+"No valid subtitle cues found in this file." = "В этом файле не найдено действительных субтитров.";
+
 "No video loaded" = "Видео не загружено";
 
 "OK" = "OK";
@@ -182,7 +212,11 @@
 
 "People" = "Люди";
 
+"Permanently drawn on frames. Style matches preview; cannot re-import as text." = "Навсегда нарисовано на кадрах. Стиль соответствует предпросмотру; повторный импорт как текст невозможен.";
+
 "Person %lld" = "Человек %lld";
+
+"Play this cue from start to end" = "Воспроизвести этот субтитр от начала до конца";
 
 "Playback Speed" = "Скорость воспроизведения";
 
@@ -192,6 +226,8 @@
 
 "Preparing face previews…" = "Подготовка превью лиц…";
 
+"Preview style" = "Стиль предпросмотра";
+
 "Pro" = "Pro";
 
 "Processing..." = "Обработка...";
@@ -199,6 +235,8 @@
 "Random" = "Случайный";
 
 "Remove" = "Удалить";
+
+"Replace" = "Заменить";
 
 "Rescan Video Faces" = "Повторное сканирование лиц";
 
@@ -209,6 +247,8 @@
 "Save" = "Сохранить";
 
 "Save File" = "Сохранить файл";
+
+"Saved as a text track. Can be re-imported and edited; style is player-dependent." = "Сохранено как текстовая дорожка. Можно повторно импортировать и редактировать; стиль зависит от плеера.";
 
 "Scale" = "Масштаб";
 
@@ -252,11 +292,11 @@
 
 "Style" = "Стиль";
 
+"Style applies to in-app preview only when embedding a track." = "Стиль применяется только к предпросмотру в приложении при встраивании дорожки.";
+
 "Subtitle" = "Субтитр";
 
 "Subtitle text" = "Текст субтитра";
-
-"Tap Add to create one at the current time." = "Нажмите Добавить, чтобы создать в текущем времени.";
 
 "Tap “Scan Video Faces” to detect people." = "Нажмите «Сканировать лица», чтобы обнаружить людей.";
 

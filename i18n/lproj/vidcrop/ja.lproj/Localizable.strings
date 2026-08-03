@@ -28,7 +28,7 @@
 
 "Add" = "追加";
 
-"Add a cue at the playhead, then edit text and timing." = "再生位置に字幕を追加し、テキストとタイミングを編集します。";
+"Append" = "追加";
 
 "Apply" = "適用";
 
@@ -50,7 +50,11 @@
 
 "Bottom Right" = "下部右";
 
+"Burn into video" = "動画に焼き付け";
+
 "Cancel" = "キャンセル";
+
+"Cancel Export" = "書き出しをキャンセル";
 
 "Cancel Scan" = "スキャンをキャンセル";
 
@@ -69,6 +73,8 @@
 "Conversion cancelled." = "変換がキャンセルされました。";
 
 "Could not open the image file." = "画像ファイルを開けませんでした。";
+
+"Could not read subtitles from this file. Use SRT, VTT, ASS, or SSA." = "このファイルから字幕を読み取れませんでした。SRT、VTT、ASS、またはSSAを使用してください。";
 
 "Could not read the dropped file path." = "ドロップされたファイルのパスを読み取れませんでした。";
 
@@ -89,6 +95,8 @@
 "Drop a Video!" = "ビデオをドロップしてください！";
 
 "Edit" = "編集";
+
+"Embed subtitle track" = "字幕トラックを埋め込み";
 
 "Empty" = "空";
 
@@ -118,6 +126,8 @@
 
 "Export Failed" = "書き出しに失敗しました";
 
+"Export mode" = "書き出しモード";
+
 "Exporting video..." = "ビデオを書き出し中...";
 
 "Face Mosaic" = "顔モザイク";
@@ -132,11 +142,29 @@
 
 "Font Size" = "フォントサイズ";
 
+"Found %lld cues. Replace existing subtitles or append?" = "%lld件の字幕が見つかりました。既存の字幕を置き換えますか、追加しますか？";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
 
 "Free" = "無料";
 
+"GIF export always burns subtitles into frames." = "GIF書き出しでは字幕が常にフレームに焼き付けられます。";
+
 "Height" = "高さ";
+
+"Import" = "読み込み";
+
+"Import Failed" = "読み込みに失敗しました";
+
+"Import SRT, VTT, ASS, or SSA subtitle file" = "SRT、VTT、ASS、またはSSA字幕ファイルを読み込む";
+
+"Import Subtitles" = "字幕を読み込む";
+
+"Import a file or tap Add to create one." = "ファイルを読み込むか、追加をタップして作成します。";
+
+"Import a subtitle file, or add a cue at the playhead." = "字幕ファイルを読み込むか、再生位置に字幕を追加します。";
+
+"Importing subtitles…" = "字幕を読み込み中…";
 
 "Invalid image dimensions." = "無効な画像サイズです。";
 
@@ -166,6 +194,8 @@
 
 "No subtitles yet" = "字幕はまだありません";
 
+"No valid subtitle cues found in this file." = "このファイルに有効な字幕が見つかりませんでした。";
+
 "No video loaded" = "ビデオが読み込まれていません";
 
 "OK" = "OK";
@@ -182,7 +212,11 @@
 
 "People" = "人物";
 
+"Permanently drawn on frames. Style matches preview; cannot re-import as text." = "フレームに永続的に描画されます。スタイルはプレビューと一致します。テキストとして再インポートできません。";
+
 "Person %lld" = "人物 %lld";
+
+"Play this cue from start to end" = "この字幕を先頭から最後まで再生";
 
 "Playback Speed" = "再生速度";
 
@@ -192,6 +226,8 @@
 
 "Preparing face previews…" = "顔のプレビューを準備中…";
 
+"Preview style" = "プレビュースタイル";
+
 "Pro" = "プロ";
 
 "Processing..." = "処理中...";
@@ -199,6 +235,8 @@
 "Random" = "ランダム";
 
 "Remove" = "削除";
+
+"Replace" = "置き換え";
 
 "Rescan Video Faces" = "顔を再スキャン";
 
@@ -209,6 +247,8 @@
 "Save" = "保存";
 
 "Save File" = "ファイルを保存";
+
+"Saved as a text track. Can be re-imported and edited; style is player-dependent." = "テキストトラックとして保存されました。再インポートと編集が可能です。スタイルはプレーヤーに依存します。";
 
 "Scale" = "拡大率";
 
@@ -252,11 +292,11 @@
 
 "Style" = "スタイル";
 
+"Style applies to in-app preview only when embedding a track." = "スタイルはトラック埋め込み時のアプリ内プレビューにのみ適用されます。";
+
 "Subtitle" = "字幕";
 
 "Subtitle text" = "字幕テキスト";
-
-"Tap Add to create one at the current time." = "追加をタップして現在の時間に作成します。";
 
 "Tap “Scan Video Faces” to detect people." = "「顔をスキャン」をタップして人物を検出。";
 

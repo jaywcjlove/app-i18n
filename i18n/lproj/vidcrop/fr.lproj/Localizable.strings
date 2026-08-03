@@ -28,7 +28,7 @@
 
 "Add" = "Ajouter";
 
-"Add a cue at the playhead, then edit text and timing." = "Ajoutez un sous-titre à la tête de lecture, puis modifiez le texte et le minutage.";
+"Append" = "Ajouter";
 
 "Apply" = "Appliquer";
 
@@ -50,7 +50,11 @@
 
 "Bottom Right" = "Bas Droite";
 
+"Burn into video" = "Incruster dans la vidéo";
+
 "Cancel" = "Annuler";
+
+"Cancel Export" = "Annuler l'exportation";
 
 "Cancel Scan" = "Annuler l'analyse";
 
@@ -69,6 +73,8 @@
 "Conversion cancelled." = "Conversion annulée.";
 
 "Could not open the image file." = "Impossible d'ouvrir le fichier image.";
+
+"Could not read subtitles from this file. Use SRT, VTT, ASS, or SSA." = "Impossible de lire les sous-titres de ce fichier. Utilisez SRT, VTT, ASS ou SSA.";
 
 "Could not read the dropped file path." = "Impossible de lire le chemin du fichier déposé.";
 
@@ -89,6 +95,8 @@
 "Drop a Video!" = "Déposez une vidéo !";
 
 "Edit" = "Modifier";
+
+"Embed subtitle track" = "Intégrer la piste de sous-titres";
 
 "Empty" = "Vide";
 
@@ -118,6 +126,8 @@
 
 "Export Failed" = "Échec de l'exportation";
 
+"Export mode" = "Mode d'exportation";
+
 "Exporting video..." = "Exportation de la vidéo...";
 
 "Face Mosaic" = "Mosaïque de visage";
@@ -132,11 +142,29 @@
 
 "Font Size" = "Taille de police";
 
+"Found %lld cues. Replace existing subtitles or append?" = "%lld sous-titres trouvés. Remplacer les sous-titres existants ou ajouter ?";
+
 "Found %lld person(s) (%lld with preview). Tap a face to select." = "Found %1$lld person(s) (%2$lld with preview). Tap a face to select.";
 
 "Free" = "Gratuit";
 
+"GIF export always burns subtitles into frames." = "L'exportation GIF incruste toujours les sous-titres dans les images.";
+
 "Height" = "Hauteur";
+
+"Import" = "Importer";
+
+"Import Failed" = "Échec de l'importation";
+
+"Import SRT, VTT, ASS, or SSA subtitle file" = "Importer un fichier de sous-titres SRT, VTT, ASS ou SSA";
+
+"Import Subtitles" = "Importer des sous-titres";
+
+"Import a file or tap Add to create one." = "Importez un fichier ou appuyez sur Ajouter pour en créer un.";
+
+"Import a subtitle file, or add a cue at the playhead." = "Importez un fichier de sous-titres ou ajoutez un sous-titre à la position de lecture.";
+
+"Importing subtitles…" = "Importation des sous-titres…";
 
 "Invalid image dimensions." = "Dimensions d'image non valides.";
 
@@ -166,6 +194,8 @@
 
 "No subtitles yet" = "Aucun sous-titre pour l'instant";
 
+"No valid subtitle cues found in this file." = "Aucun sous-titre valide trouvé dans ce fichier.";
+
 "No video loaded" = "Aucune vidéo chargée";
 
 "OK" = "OK";
@@ -182,7 +212,11 @@
 
 "People" = "Personnes";
 
+"Permanently drawn on frames. Style matches preview; cannot re-import as text." = "Dessiné de façon permanente sur les images. Le style correspond à l'aperçu ; ne peut pas être réimporté en tant que texte.";
+
 "Person %lld" = "Personne %lld";
+
+"Play this cue from start to end" = "Lire ce sous-titre du début à la fin";
 
 "Playback Speed" = "Vitesse de lecture";
 
@@ -192,6 +226,8 @@
 
 "Preparing face previews…" = "Préparation des aperçus de visages…";
 
+"Preview style" = "Style d'aperçu";
+
 "Pro" = "Pro";
 
 "Processing..." = "Traitement en cours...";
@@ -199,6 +235,8 @@
 "Random" = "Aléatoire";
 
 "Remove" = "Supprimer";
+
+"Replace" = "Remplacer";
 
 "Rescan Video Faces" = "Réanalyser les visages";
 
@@ -209,6 +247,8 @@
 "Save" = "Enregistrer";
 
 "Save File" = "Enregistrer le fichier";
+
+"Saved as a text track. Can be re-imported and edited; style is player-dependent." = "Enregistré comme piste de texte. Peut être réimporté et modifié ; le style dépend du lecteur.";
 
 "Scale" = "Échelle";
 
@@ -252,11 +292,11 @@
 
 "Style" = "Style";
 
+"Style applies to in-app preview only when embedding a track." = "Le style s'applique uniquement à l'aperçu dans l'application lors de l'intégration d'une piste.";
+
 "Subtitle" = "Sous-titre";
 
 "Subtitle text" = "Texte du sous-titre";
-
-"Tap Add to create one at the current time." = "Appuyez sur Ajouter pour en créer un au temps actuel.";
 
 "Tap “Scan Video Faces” to detect people." = "Appuyez sur « Scanner les visages » pour détecter les personnes.";
 
