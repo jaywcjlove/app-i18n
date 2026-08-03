@@ -1,3242 +1,4202 @@
 {
-  "sourceLanguage": "en",
-  "strings": {
-    "": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ""
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ""
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ""
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ""
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ""
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ""
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
         }
       }
     },
-    " (Disabled)": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " (Deaktiviert)"
+    " (Disabled)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (Deaktiviert)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (Désactivé)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (Disattivato)"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " (Désactivé)"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (無効)"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " (無効)"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (비활성화됨)"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " (비활성화됨)"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (Отключено)"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " (已禁用)"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (已禁用)"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " (已停用)"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (已停用)"
           }
         }
       }
     },
-    " (Enabled)": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " (Aktiviert)"
+    " (Enabled)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (Aktiviert)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (Activé)"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " (Activé)"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (Attivato)"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " (有効)"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (有効)"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " (활성화됨)"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (활성화됨)"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " (已启用)"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (Включено)"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": " (已啟用)"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (已启用)"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (已啟用)"
+          }
         }
       }
     },
-    "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
+    "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)"
           }
         }
       }
     },
-    "%@ - Dynamic Wallpaper": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ - Dynamisches Hintergrundbild"
+    "%@ - Dynamic Wallpaper" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ - Dynamisches Hintergrundbild"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ - Fond d'écran dynamique"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ - Sfondo dinamico"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ - Fond d'écran dynamique"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ - 動的壁紙"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ - 動的壁紙"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ - 동적 배경화면"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ - 동적 배경화면"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ - Динамические обои"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ - 动态壁纸"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ - 动态壁纸"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ - 動態桌布"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ - 動態桌布"
           }
         }
       }
     },
-    "%@ Sound": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ Sound"
+    "%@ Sound" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Sound"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Son %@"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Son %@"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ サウンド"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audio %@"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ 사운드"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ サウンド"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ 声音"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 사운드"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ 聲音"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Звук %@"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 声音"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 聲音"
+          }
         }
       }
     },
-    "A collection of video wallpaper sites. Click to download. Feel free to [email](emailrecommendations) me your recommendations.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Eine Sammlung von Video-Hintergrundbild-Websites. Zum Herunterladen klicken. Sende mir gerne deine Empfehlungen per [E-Mail](emailrecommendations)."
+    "A collection of video wallpaper sites. Click to download. Feel free to [email](emailrecommendations) me your recommendations." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Sammlung von Video-Hintergrundbild-Websites. Zum Herunterladen klicken. Sende mir gerne deine Empfehlungen per [E-Mail](emailrecommendations)."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une collection de sites de fonds d'écran vidéo. Cliquez pour télécharger. N'hésitez pas à m'envoyer vos recommandations par [e-mail](emailrecommendations)."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una raccolta di siti di sfondi video. Clicca per scaricare. Sentiti libero di [scrivermi](emailrecommendations) i tuoi suggerimenti."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Une collection de sites de fonds d'écran vidéo. Cliquez pour télécharger. N'hésitez pas à m'envoyer vos recommandations par [e-mail](emailrecommendations)."
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動画壁紙サイトを集めました。クリックしてダウンロードできます。おすすめがあれば、ぜひ[email](emailrecommendations)で教えてください。"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "動画壁紙サイトを集めました。クリックしてダウンロードできます。おすすめがあれば、ぜひ[email](emailrecommendations)で教えてください。"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오 배경화면 사이트를 모아두었습니다. 클릭해서 다운로드하세요. 추천하고 싶은 사이트가 있다면 [email](emailrecommendations)로 알려주세요."
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "비디오 배경화면 사이트를 모아두었습니다. 클릭해서 다운로드하세요. 추천하고 싶은 사이트가 있다면 [email](emailrecommendations)로 알려주세요."
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подборка сайтов с видеообоями. Нажмите, чтобы скачать. Можете [написать](emailrecommendations) мне свои рекомендации."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "整理了一些视频壁纸网站，点击链接下载。如有推荐，欢迎[邮件](emailrecommendations)告知。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "整理了一些视频壁纸网站，点击链接下载。如有推荐，欢迎[邮件](emailrecommendations)告知。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "整理了一些影片桌布網站，點擊即可下載。若有推薦，歡迎透過 [email](emailrecommendations) 告訴我。"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "整理了一些影片桌布網站，點擊即可下載。若有推薦，歡迎透過 [email](emailrecommendations) 告訴我。"
           }
         }
       }
     },
-    "About": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Über"
+    "About" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Über"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À propos"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "À propos"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informazioni"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "このアプリについて"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアプリについて"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "정보"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "정보"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "关于"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "О приложении"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "關於"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關於"
+          }
         }
       }
     },
-    "About %@": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Über %@"
+    "About %@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Über %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À propos de %@"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informazioni su %@"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "À propos de %@"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアプリについて %@"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "このアプリについて %@"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "정보 %@"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "정보 %@"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "О %@"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "关于 %@"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于 %@"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "關於 %@"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關於 %@"
           }
         }
       }
     },
-    "Adaptive Fill Screen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bildschirm adaptiv ausfüllen"
+    "Adaptive Fill Screen" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bildschirm adaptiv ausfüllen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remplissage adaptatif de l'écran"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riempimento adattivo schermo"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Remplissage adaptatif de l'écran"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画面に合わせて拡大"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "画面に合わせて拡大"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "화면에 맞춰 채우기"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "화면에 맞춰 채우기"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Адаптивное заполнение экрана"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "自适应填充屏幕"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自适应填充屏幕"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "自適應填滿螢幕"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自適應填滿螢幕"
           }
         }
       }
     },
-    "Allow camera access to use the camera as desktop wallpaper.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kamerazugriff erlauben, um die Kamera als Desktop-Hintergrund zu verwenden."
+    "Allow camera access to use the camera as desktop wallpaper." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamerazugriff erlauben, um die Kamera als Desktop-Hintergrund zu verwenden."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Autorisez l'accès à la caméra pour l'utiliser comme fond d'écran."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autorisez l'accès à la caméra pour l'utiliser comme fond d'écran."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "カメラをデスクトップ壁紙として使用するには、カメラへのアクセスを許可してください。"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consenti l'accesso alla fotocamera per usarla come sfondo del desktop."
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "카메라를 바탕화면 배경으로 사용하려면 카메라 접근을 허용하세요."
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カメラをデスクトップ壁紙として使用するには、カメラへのアクセスを許可してください。"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "允许访问摄像头后，即可将摄像头画面用作桌面壁纸。"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카메라를 바탕화면 배경으로 사용하려면 카메라 접근을 허용하세요."
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "允許存取攝影機後，即可將攝影機畫面用作桌面桌布。"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разрешите доступ к камере, чтобы использовать ее как обои рабочего стола."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许访问摄像头后，即可将摄像头画面用作桌面壁纸。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允許存取攝影機後，即可將攝影機畫面用作桌面桌布。"
+          }
         }
       }
     },
-    "Are you sure you want to delete all records?": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Möchten Sie wirklich alle Einträge löschen?"
+    "Are you sure you want to delete all records?" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Möchten Sie wirklich alle Einträge löschen?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voulez-vous vraiment supprimer tous les enregistrements ?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei sicuro di voler eliminare tutti i record?"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Voulez-vous vraiment supprimer tous les enregistrements ?"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべての記録を削除してもよろしいですか？"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "すべての記録を削除してもよろしいですか？"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 기록을 삭제하시겠습니까?"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "모든 기록을 삭제하시겠습니까?"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы уверены, что хотите удалить все записи?"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "确认删除所有记录？"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确认删除所有记录？"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "確定要刪除所有紀錄嗎？"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確定要刪除所有紀錄嗎？"
           }
         }
       }
     },
-    "Are you sure you want to delete selected records?": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Möchten Sie die ausgewählten Einträge wirklich löschen?"
+    "Are you sure you want to delete selected records?" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Möchten Sie die ausgewählten Einträge wirklich löschen?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voulez-vous vraiment supprimer les éléments sélectionnés ?"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Voulez-vous vraiment supprimer les éléments sélectionnés ?"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei sicuro di voler eliminare i record selezionati?"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "選択した記録を削除してもよろしいですか？"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選択した記録を削除してもよろしいですか？"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "선택한 기록을 삭제하시겠습니까?"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택한 기록을 삭제하시겠습니까?"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "确定要删除所选记录吗？"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы уверены, что хотите удалить выбранные записи?"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "確定要刪除所選紀錄嗎？"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确定要删除所选记录吗？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確定要刪除所選紀錄嗎？"
+          }
         }
       }
     },
-    "Authorization": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Autorisierung"
+    "Authorization" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autorisierung"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autorisation"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autorizzazione"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Autorisation"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "認証"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "認証"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "권한"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "권한"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Авторизация"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "授权"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "授权"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "授權"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "授權"
           }
         }
       }
     },
-    "Authorize": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Autorisieren"
+    "Authorize" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autorisieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autoriser"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autorizza"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Autoriser"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "許可"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "許可"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "승인"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "승인"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разрешить"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "授权"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "授权"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "授權"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "授權"
           }
         }
       }
     },
-    "Camera": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kamera"
+    "Camera" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamera"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Caméra"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caméra"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "カメラ"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fotocamera"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "카메라"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カメラ"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "摄像头"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카메라"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "攝影機"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Камера"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "摄像头"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "攝影機"
+          }
         }
       }
     },
-    "Camera Access Required": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kamerazugriff erforderlich"
+    "Camera Access Required" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamerazugriff erforderlich"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accès à la caméra requis"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accesso alla fotocamera richiesto"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Accès à la caméra requis"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カメラへのアクセスが必要です"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "カメラへのアクセスが必要です"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카메라 접근 필요"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "카메라 접근 필요"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Требуется доступ к камере"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "需要摄像头权限"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要摄像头权限"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "需要攝影機權限"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要攝影機權限"
           }
         }
       }
     },
-    "Camera Wallpaper": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kamera-Hintergrundbild"
+    "Camera Wallpaper" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamera-Hintergrundbild"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Camera Wallpaper"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Camera Wallpaper"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fond d'écran caméra"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fond d'écran caméra"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sfondo con fotocamera"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "カメラ壁紙"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カメラ壁紙"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "카메라 배경화면"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카메라 배경화면"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "摄像头壁纸"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обои с камеры"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "攝影機桌布"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "摄像头壁纸"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "攝影機桌布"
+          }
         }
       }
     },
-    "Camera wallpaper needs camera access. Click Authorize to grant permission, or open System Settings from the General page.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Das Kamera-Hintergrundbild benötigt Kamerazugriff. Klicken Sie auf „Autorisieren“, um die Berechtigung zu erteilen, oder öffnen Sie die Systemeinstellungen über die Seite „Allgemein“."
+    "Camera wallpaper needs camera access. Click Authorize to grant permission, or open System Settings from the General page." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das Kamera-Hintergrundbild benötigt Kamerazugriff. Klicken Sie auf „Autorisieren“, um die Berechtigung zu erteilen, oder öffnen Sie die Systemeinstellungen über die Seite „Allgemein“."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le fond d'écran caméra nécessite l'accès à la caméra. Cliquez sur « Autoriser » pour accorder l'autorisation, ou ouvrez les Réglages Système depuis la page Général."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lo sfondo con fotocamera richiede l'accesso alla fotocamera. Clicca su Autorizza per concedere il permesso oppure apri Impostazioni di sistema dalla pagina Generale."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Le fond d'écran caméra nécessite l'accès à la caméra. Cliquez sur « Autoriser » pour accorder l'autorisation, ou ouvrez les Réglages Système depuis la page Général."
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カメラ壁紙にはカメラへのアクセスが必要です。「許可」を押して権限を付与するか、「一般」ページからシステム設定を開いてください。"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "カメラ壁紙にはカメラへのアクセスが必要です。「許可」を押して権限を付与するか、「一般」ページからシステム設定を開いてください。"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카메라 배경화면을 사용하려면 카메라 접근 권한이 필요합니다. “승인”을 눌러 권한을 허용하거나, 일반 페이지에서 시스템 설정을 여세요."
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "카메라 배경화면을 사용하려면 카메라 접근 권한이 필요합니다. “승인”을 눌러 권한을 허용하거나, 일반 페이지에서 시스템 설정을 여세요."
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Для обоев с камеры нужен доступ к камере. Нажмите «Разрешить», чтобы предоставить доступ, или откройте Системные настройки на странице «Основные»."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "使用摄像头作为桌面壁纸需要摄像头权限。点击「授权」以允许访问，也可在「常规」设置页中打开系统设置。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用摄像头作为桌面壁纸需要摄像头权限。点击「授权」以允许访问，也可在「常规」设置页中打开系统设置。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "使用攝影機作為桌面桌布需要攝影機權限。點擊「授權」以允許存取，也可在「一般」設定頁中開啟系統設定。"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用攝影機作為桌面桌布需要攝影機權限。點擊「授權」以允許存取，也可在「一般」設定頁中開啟系統設定。"
           }
         }
       }
     },
-    "Cancel": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Abbrechen"
+    "Cancel" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuler"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annulla"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Annuler"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "キャンセル"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취소"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "취소"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отмена"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "取消"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "取消"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
           }
         }
       }
     },
-    "Cancel Selection": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Auswahl aufheben"
+    "Cancel Selection" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auswahl aufheben"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Annuler la sélection"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuler la sélection"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "選択を解除"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annulla selezione"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "선택 취소"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選択を解除"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "取消选择"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택 취소"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "取消選擇"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отменить выбор"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消选择"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消選擇"
+          }
         }
       }
     },
-    "Click to import the video into the system wallpaper service. Then go to \"%@\" in System Settings and select it to set it as your lock screen animated wallpaper.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Klicken Sie, um das Video in den System-Hintergrunddienst zu importieren. Gehen Sie anschließend in den Systemeinstellungen zu \"%@\" und wählen Sie es aus, um es als animiertes Sperrbildschirm-Hintergrundbild festzulegen."
+    "Click to import the video into the system wallpaper service. Then go to \"%@\" in System Settings and select it to set it as your lock screen animated wallpaper." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klicken Sie, um das Video in den System-Hintergrunddienst zu importieren. Gehen Sie anschließend in den Systemeinstellungen zu \"%@\" und wählen Sie es aus, um es als animiertes Sperrbildschirm-Hintergrundbild festzulegen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cliquez pour importer la vidéo dans le service de fond d'écran système. Ensuite, allez dans \"%@\" dans Réglages Système et sélectionnez-la pour la définir comme fond d'écran animé de l'écran verrouillé."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clicca per importare il video nel servizio di sfondo di sistema. Poi vai su \"%@\" in Impostazioni di sistema e selezionalo per impostarlo come sfondo animato della schermata di blocco."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cliquez pour importer la vidéo dans le service de fond d'écran système. Ensuite, allez dans \"%@\" dans Réglages Système et sélectionnez-la pour la définir comme fond d'écran animé de l'écran verrouillé."
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クリックして動画をシステムの壁紙サービスに読み込みます。その後、システム設定の「%@」に移動して選択すると、ロック画面のアニメーション壁紙として設定できます。"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "クリックして動画をシステムの壁紙サービスに読み込みます。その後、システム設定の「%@」に移動して選択すると、ロック画面のアニメーション壁紙として設定できます。"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "클릭하여 비디오를 시스템 배경화면 서비스로 가져오세요. 그런 다음 시스템 설정의 \"%@\"로 이동해 선택하면 잠금 화면 애니메이션 배경화면으로 설정할 수 있습니다."
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "클릭하여 비디오를 시스템 배경화면 서비스로 가져오세요. 그런 다음 시스템 설정의 \"%@\"로 이동해 선택하면 잠금 화면 애니메이션 배경화면으로 설정할 수 있습니다."
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нажмите, чтобы импортировать видео в системную службу обоев. Затем откройте \"%@\" в Системных настройках и выберите его, чтобы установить как анимированные обои экрана блокировки."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "点击将视频导入系统壁纸服务。然后在系统设置中找到“%@”，选择它即可将其设置为锁屏动画壁纸。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "点击将视频导入系统壁纸服务。然后在系统设置中找到“%@”，选择它即可将其设置为锁屏动画壁纸。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "點擊即可將影片匯入系統桌布服務。接著前往系統設定中的「%@」，選取後即可設為鎖定畫面的動態桌布。"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "點擊即可將影片匯入系統桌布服務。接著前往系統設定中的「%@」，選取後即可設為鎖定畫面的動態桌布。"
           }
         }
       }
     },
-    "Confirm Import": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Import bestätigen"
+    "Confirm Import" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Import bestätigen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmer l'import"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Confirmer l'import"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conferma importazione"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "インポートを確認"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "インポートを確認"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "가져오기 확인"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가져오기 확인"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "确认导入"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подтвердить импорт"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "確認匯入"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确认导入"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認匯入"
+          }
         }
       }
     },
-    "Contact": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kontakt"
+    "Contact" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontakt"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contact"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contatti"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Contact"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お問い合わせ"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "お問い合わせ"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문의하기"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "문의하기"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Контакты"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "联系我们"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "联系我们"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "聯絡我們"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "聯絡我們"
           }
         }
       }
     },
-    "Delete All Records": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Alle Einträge löschen"
+    "Delete All Records" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Einträge löschen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer tous les enregistrements"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elimina tutti i record"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Supprimer tous les enregistrements"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべての記録を削除"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "すべての記録を削除"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 기록 삭제"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "모든 기록 삭제"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить все записи"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "删除所有记录"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除所有记录"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "刪除所有紀錄"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除所有紀錄"
           }
         }
       }
     },
-    "Delete Color Wallpaper": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Farb-Hintergrundbild löschen"
+    "Delete Color Wallpaper" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Farb-Hintergrundbild löschen"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Supprimer le fond d'écran couleur"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer le fond d'écran couleur"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "カラー壁紙を削除"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elimina sfondo a colore"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "컬러 배경화면 삭제"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カラー壁紙を削除"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "删除颜色壁纸"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "컬러 배경화면 삭제"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "刪除純色桌布"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить цветные обои"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除颜色壁纸"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除純色桌布"
+          }
         }
       }
     },
-    "Delete Dynamic Wallpaper": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dynamisches Hintergrundbild löschen"
+    "Delete Dynamic Wallpaper" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dynamisches Hintergrundbild löschen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer le fond d'écran dynamique"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elimina sfondo dinamico"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Supprimer le fond d'écran dynamique"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動的壁紙を削除"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "動的壁紙を削除"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "동적 배경화면 삭제"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "동적 배경화면 삭제"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить динамические обои"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "删除动态壁纸"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除动态壁纸"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "刪除動態桌布"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除動態桌布"
           }
         }
       }
     },
-    "Delete Image Wallpaper": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bild-Hintergrundbild löschen"
+    "Delete Image Wallpaper" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bild-Hintergrundbild löschen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer le fond d'écran image"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Supprimer le fond d'écran image"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elimina sfondo immagine"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "画像壁紙を削除"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画像壁紙を削除"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "이미지 배경화면 삭제"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지 배경화면 삭제"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "删除图片壁纸"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить обои-изображение"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "刪除圖片桌布"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除图片壁纸"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刪除圖片桌布"
+          }
         }
       }
     },
-    "Disable": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Deaktivieren"
+    "Disable" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deaktivieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Désactiver"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disattiva"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Désactiver"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無効にする"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "無効にする"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비활성화"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "비활성화"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отключить"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "禁用"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "禁用"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "停用"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停用"
           }
         }
       }
     },
-    "Disable Sound": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sound deaktivieren"
+    "Disable Camera Wallpaper" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamera-Hintergrundbild deaktivieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Désactiver le fond d'écran caméra"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disattiva sfondo con fotocamera"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Désactiver le son"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カメラ壁紙を無効にする"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "サウンドをオフ"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카메라 배경화면 끄기"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "사운드 끄기"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отключить обои с камеры"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "关闭声音"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭摄像头壁纸"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "關閉聲音"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關閉攝影機桌布"
           }
         }
       }
     },
-    "Download": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Herunterladen"
+    "Disable Sound" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sound deaktivieren"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Télécharger"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Désactiver le son"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ダウンロード"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disattiva audio"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "다운로드"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サウンドをオフ"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "下载"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사운드 끄기"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "下載"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отключить звук"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭声音"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關閉聲音"
+          }
         }
       }
     },
-    "Drag video files here. Supports %@ and %@ formats.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Videodateien hierher ziehen. Unterstützt %1$@- und %2$@-Formate."
+    "Download" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herunterladen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécharger"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "new",
-            "value": "Drag video files here. Supports %1$@ and %2$@ formats."
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scarica"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Faites glisser les fichiers vidéo ici. Prend en charge les formats %1$@ et %2$@."
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダウンロード"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ここに動画ファイルをドラッグしてください。%1$@ と %2$@ 形式に対応しています。"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다운로드"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "여기에 비디오 파일을 드래그하세요. %1$@ 및 %2$@ 형식을 지원합니다."
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скачать"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "将视频文件拖拽到此处，支持 %1$@、%2$@ 格式。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "將影片檔案拖曳到此處，支援 %1$@ 與 %2$@ 格式。"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下載"
           }
         }
       }
     },
-    "Dynamic Wallpaper": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dynamisches Hintergrundbild"
+    "Drag video files here. Supports %@ and %@ formats." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Videodateien hierher ziehen. Unterstützt %1$@- und %2$@-Formate."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Drag video files here. Supports %1$@ and %2$@ formats."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faites glisser les fichiers vidéo ici. Prend en charge les formats %1$@ et %2$@."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fond d'écran dynamique"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trascina qui i file video. Supporta i formati %1$@ e %2$@."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "動的壁紙"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ここに動画ファイルをドラッグしてください。%1$@ と %2$@ 形式に対応しています。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "동적 배경화면"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "여기에 비디오 파일을 드래그하세요. %1$@ 및 %2$@ 형식을 지원합니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "动态壁纸"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перетащите сюда видеофайлы. Поддерживаются форматы %1$@ и %2$@."
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "動態桌布"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将视频文件拖拽到此处，支持 %1$@、%2$@ 格式。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "將影片檔案拖曳到此處，支援 %1$@ 與 %2$@ 格式。"
+          }
         }
       }
     },
-    "E-mail": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "E-Mail"
+    "Dynamic Wallpaper" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dynamisches Hintergrundbild"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fond d'écran dynamique"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sfondo dinamico"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "E-mail"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動的壁紙"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "メール"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "동적 배경화면"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "이메일"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Динамические обои"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "电子邮件"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "动态壁纸"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "電子郵件"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動態桌布"
           }
         }
       }
     },
-    "Enable": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aktivieren"
+    "E-mail" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-Mail"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activer"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メール"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "有効にする"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이메일"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "활성화"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Эл. почта"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "启用"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "电子邮件"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "啟用"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電子郵件"
           }
         }
       }
     },
-    "Enable Auto Fade In/Out": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Automatisches Ein-/Ausblenden aktivieren"
+    "Enable" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivieren"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activer le fondu entrant/sortant automatique"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "自動フェードイン/アウトを有効にする"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attiva"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "자동 페이드 인/아웃 활성화"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "有効にする"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "启用自动淡进淡出"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "활성화"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "啟用自動淡入/淡出"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включить"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用"
+          }
         }
       }
     },
-    "Enable Video List Loop": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Video-Listenwiedergabe aktivieren"
+    "Enable Auto Fade In/Out" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatisches Ein-/Ausblenden aktivieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer le fondu entrant/sortant automatique"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attiva dissolvenza automatica in entrata/uscita"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activer la lecture en boucle de la liste vidéo"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自動フェードイン/アウトを有効にする"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "動画リストのループを有効にする"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자동 페이드 인/아웃 활성화"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "비디오 목록 반복 재생 활성화"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включить автопоявление/затухание"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "启用视频列表循环"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用自动淡进淡出"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "啟用影片清單循環"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用自動淡入/淡出"
           }
         }
       }
     },
-    "Enable/Disable Dynamic Wallpaper": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dynamisches Hintergrundbild aktivieren/deaktivieren"
+    "Enable Camera Wallpaper" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamera-Hintergrundbild aktivieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer le fond d'écran caméra"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activer/Désactiver le fond d'écran dynamique"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attiva sfondo con fotocamera"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "動的壁紙の有効/無効"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カメラ壁紙を有効にする"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "동적 배경화면 활성화/비활성화"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카메라 배경화면 켜기"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "启用/禁用动态壁纸"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включить обои с камеры"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "啟用/停用動態桌布"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开启摄像头壁纸"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟攝影機桌布"
+          }
         }
       }
     },
-    "Enable/Disable Wallpaper Sound": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hintergrundbild-Sound aktivieren/deaktivieren"
+    "Enable Video List Loop" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Video-Listenwiedergabe aktivieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer la lecture en boucle de la liste vidéo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attiva ciclo elenco video"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activer/Désactiver le son du fond d'écran"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動画リストのループを有効にする"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "壁紙サウンドの有効/無効"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오 목록 반복 재생 활성화"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "배경화면 사운드 활성화/비활성화"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включить повтор списка видео"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "启用/禁用壁纸声音"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用视频列表循环"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "啟用/停用桌布聲音"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用影片清單循環"
           }
         }
       }
     },
-    "Feedback": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Feedback"
+    "Enable/Disable Dynamic Wallpaper" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dynamisches Hintergrundbild aktivieren/deaktivieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer/Désactiver le fond d'écran dynamique"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attiva/Disattiva sfondo dinamico"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Commentaires"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動的壁紙の有効/無効"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "フィードバック"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "동적 배경화면 활성화/비활성화"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "피드백"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включить/Отключить динамические обои"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "意见反馈"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用/禁用动态壁纸"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "意見回饋"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用/停用動態桌布"
           }
         }
       }
     },
-    "Free": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kostenlos"
+    "Enable/Disable Wallpaper Sound" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hintergrundbild-Sound aktivieren/deaktivieren"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gratuit"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer/Désactiver le son du fond d'écran"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "無料"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attiva/Disattiva audio dello sfondo"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "무료"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "壁紙サウンドの有効/無効"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "免费"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "배경화면 사운드 활성화/비활성화"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "免費"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включить/Отключить звук обоев"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用/禁用壁纸声音"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用/停用桌布聲音"
+          }
         }
       }
     },
-    "General": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Allgemein"
+    "Feedback" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feedback"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commentaires"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feedback"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Général"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フィードバック"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "一般"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "피드백"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "일반"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обратная связь"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "常规"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "意见反馈"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "一般"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "意見回饋"
           }
         }
       }
     },
-    "Hide App Icon Label": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "App-Icon-Beschriftung ausblenden"
+    "Free" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kostenlos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gratuit"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Masquer le libellé de l'icône de l'app"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gratuito"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "アプリアイコンのラベルを隠す"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無料"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "앱 아이콘 레이블 숨기기"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "무료"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "隐藏应用图标标签"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бесплатно"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "隱藏 App 圖示標籤"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "免费"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "免費"
+          }
         }
       }
     },
-    "Hide Dock Icon": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dock-Symbol ausblenden"
+    "General" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allgemein"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Général"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generale"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Masquer l'icône du Dock"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一般"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dockアイコンを隠す"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일반"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dock 아이콘 숨기기"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Основные"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "隐藏拓展坞图标"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "常规"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "隱藏 Dock 圖示"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一般"
           }
         }
       }
     },
-    "Launch at login": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Beim Anmelden starten"
+    "Hide App Icon Label" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App-Icon-Beschriftung ausblenden"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masquer le libellé de l'icône de l'app"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nascondi etichetta icona app"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lancer à l'ouverture de session"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリアイコンのラベルを隠す"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ログイン時に起動"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "앱 아이콘 레이블 숨기기"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "로그인 시 실행"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скрыть подпись значка приложения"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "开机启动"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏应用图标标签"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "登入時啟動"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隱藏 App 圖示標籤"
           }
         }
       }
     },
-    "Limit on number of videos": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Begrenzung der Videoanzahl"
+    "Hide Dock Icon" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock-Symbol ausblenden"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Limite du nombre de vidéos"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masquer l'icône du Dock"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "動画数の上限"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nascondi icona nel Dock"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "비디오 수 제한"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dockアイコンを隠す"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "视频数量限制"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock 아이콘 숨기기"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "影片數量上限"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скрыть значок в Dock"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏拓展坞图标"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隱藏 Dock 圖示"
+          }
         }
       }
     },
-    "mailto:kennyiseeyou@gmail.com?subject=%@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%@ %@": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nEmpfohlene Download-URL\n\nTeilen Sie mir hier Ihre Vorschläge mit.\n\n%2$@ %3$@"
+    "Launch at login" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beim Anmelden starten"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lancer à l'ouverture de session"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "new",
-            "value": "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%2$@ %3$@"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avvia all'accesso"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nURL de téléchargement recommandée\n\nDites-moi ici quelles suggestions vous avez.\n\n%2$@ %3$@"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ログイン時に起動"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nおすすめのダウンロードURL\n\nご意見・ご提案があればこちらにご記入ください。\n\n%2$@ %3$@"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "로그인 시 실행"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\n추천 다운로드 URL\n\n여기에 의견이나 제안을 알려주세요.\n\n%2$@ %3$@"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Запускать при входе"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%2$@ %3$@"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开机启动"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\n推薦下載網址\n\n請在此告訴我你的建議。\n\n%2$@ %3$@"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登入時啟動"
           }
         }
       }
     },
-    "Main Window": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hauptfenster"
+    "Limit on number of videos" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begrenzung der Videoanzahl"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limite du nombre de vidéos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limite numero di video"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fenêtre principale"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動画数の上限"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "メインウインドウ"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오 수 제한"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "메인 창"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ограничение количества видео"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "主窗口"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "视频数量限制"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "主視窗"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "影片數量上限"
           }
         }
       }
     },
-    "MOV": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MOV"
+    "mailto:kennyiseeyou@gmail.com?subject=%@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%@ %@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nEmpfohlene Download-URL\n\nTeilen Sie mir hier Ihre Vorschläge mit.\n\n%2$@ %3$@"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MOV"
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%2$@ %3$@"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MOV"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nURL de téléchargement recommandée\n\nDites-moi ici quelles suggestions vous avez.\n\n%2$@ %3$@"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MOV"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nURL di download consigliato\n\nDimmi, quali suggerimenti hai?\n\n%2$@ %3$@"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MOV"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nおすすめのダウンロードURL\n\nご意見・ご提案があればこちらにご記入ください。\n\n%2$@ %3$@"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MOV"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\n추천 다운로드 URL\n\n여기에 의견이나 제안을 알려주세요.\n\n%2$@ %3$@"
           }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nРекомендуемый URL для скачивания\n\nНапишите здесь, какие у вас есть предложения.\n\n%2$@ %3$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%2$@ %3$@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\n推薦下載網址\n\n請在此告訴我你的建議。\n\n%2$@ %3$@"
+          }
         }
       }
     },
-    "MP4": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP4"
+    "Main Window" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hauptfenster"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fenêtre principale"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finestra principale"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP4"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メインウインドウ"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP4"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메인 창"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP4"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Главное окно"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP4"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主窗口"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "MP4"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主視窗"
           }
         }
       }
     },
-    "My Apps": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Meine Apps"
+    "MOV" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MOV"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mes apps"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MOV"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "マイアプリ"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MOV"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "내 앱"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MOV"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "我的应用"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MOV"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "我的 App"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MOV"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MOV"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MOV"
+          }
         }
       }
     },
-    "No content": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kein Inhalt"
+    "MP4" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP4"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP4"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP4"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aucun contenu"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP4"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "コンテンツがありません"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP4"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "내용 없음"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP4"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "没有内容"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP4"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "沒有內容"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP4"
           }
         }
       }
     },
-    "OK": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+    "My Apps" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meine Apps"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mes apps"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le mie app"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マイアプリ"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내 앱"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "확인"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мои приложения"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "好"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的应用"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "好"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的 App"
           }
         }
       }
     },
-    "Only the folder record and its access permission will be removed. The original files will not be deleted.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Nur der Ordnereintrag und seine Zugriffsberechtigung werden entfernt. Die Originaldateien werden nicht gelöscht."
+    "No Camera Found" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Kamera gefunden"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Seul l'enregistrement du dossier et son autorisation d'accès seront supprimés. Les fichiers d'origine ne seront pas supprimés."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune caméra trouvée"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "フォルダの記録とそのアクセス権限のみ削除されます。元のファイルは削除されません。"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessuna fotocamera trovata"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "폴더 기록과 해당 접근 권한만 제거됩니다. 원본 파일은 삭제되지 않습니다."
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カメラが見つかりません"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "仅会移除文件夹记录及其访问权限，原文件不会被删除。"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카메라를 찾을 수 없음"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "僅會移除資料夾紀錄及其存取權限，原始檔案不會被刪除。"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Камера не найдена"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未找到摄像头"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "找不到攝影機"
+          }
         }
       }
     },
-    "Only the folder record and permissions will be removed; files remain intact.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Nur der Ordnereintrag und die Berechtigungen werden entfernt; die Dateien bleiben unverändert."
+    "No content" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kein Inhalt"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucun contenu"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessun contenuto"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Seuls l'enregistrement du dossier et les autorisations seront supprimés ; les fichiers restent intacts."
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コンテンツがありません"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "フォルダの記録と権限のみ削除され、ファイルはそのまま残ります。"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내용 없음"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "폴더 기록과 권한만 제거되며, 파일은 그대로 유지됩니다."
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нет содержимого"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "仅删除文件夹记录和权限，文件不受影响。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有内容"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "僅會移除資料夾紀錄與權限，檔案將保持不變。"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有內容"
           }
         }
       }
     },
-    "Open ": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Öffnen "
+    "OK" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ouvrir "
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "開く "
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "열기 "
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "打开"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "확인"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "開啟 "
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ОК"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确认"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
         }
       }
     },
-    "Open File...": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Datei öffnen..."
+    "Only the folder record and its access permission will be removed. The original files will not be deleted." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nur der Ordnereintrag und seine Zugriffsberechtigung werden entfernt. Die Originaldateien werden nicht gelöscht."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seul l'enregistrement du dossier et son autorisation d'accès seront supprimés. Les fichiers d'origine ne seront pas supprimés."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verranno rimossi solo il record della cartella e il suo permesso di accesso. I file originali non verranno eliminati."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ouvrir un fichier..."
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダの記録とそのアクセス権限のみ削除されます。元のファイルは削除されません。"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ファイルを開く..."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "폴더 기록과 해당 접근 권한만 제거됩니다. 원본 파일은 삭제되지 않습니다."
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "파일 열기..."
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Будут удалены только запись папки и разрешение на доступ к ней. Исходные файлы удалены не будут."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "打开文件..."
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅会移除文件夹记录及其访问权限，原文件不会被删除。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "開啟檔案..."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "僅會移除資料夾紀錄及其存取權限，原始檔案不會被刪除。"
           }
         }
       }
     },
-    "Pro": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pro"
+    "Only the folder record and permissions will be removed; files remain intact." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nur der Ordnereintrag und die Berechtigungen werden entfernt; die Dateien bleiben unverändert."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seuls l'enregistrement du dossier et les autorisations seront supprimés ; les fichiers restent intacts."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pro"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verranno rimossi solo il record della cartella e i permessi; i file resteranno intatti."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pro"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダの記録と権限のみ削除され、ファイルはそのまま残ります。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pro"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "폴더 기록과 권한만 제거되며, 파일은 그대로 유지됩니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "专业版"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Будут удалены только запись папки и разрешения; файлы останутся нетронутыми."
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pro"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅删除文件夹记录和权限，文件不受影响。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "僅會移除資料夾紀錄與權限，檔案將保持不變。"
+          }
         }
       }
     },
-    "Quit %@": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ beenden"
+    "Open " : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffnen "
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir "
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri "
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Quitter %@"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開く "
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ を終了"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "열기 "
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ 종료"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть "
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "退出 %@"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "結束 %@"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟 "
           }
         }
       }
     },
-    "Refresh Video Wallpaper": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Video-Hintergrundbild aktualisieren"
+    "Open File..." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datei öffnen..."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir un fichier..."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri file..."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Rafraîchir le fond d'écran vidéo"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルを開く..."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "動画壁紙を更新"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "파일 열기..."
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "비디오 배경화면 새로 고침"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть файл..."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "刷新视频壁纸"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开文件..."
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "重新整理影片桌布"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟檔案..."
           }
         }
       }
     },
-    "Remove": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entfernen"
+    "Pro" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Supprimer"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "削除"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "제거"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "移除"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "移除"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "专业版"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pro"
+          }
         }
       }
     },
-    "Remove %lld items": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%lld Einträge entfernen"
+    "Quit %@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ beenden"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quitter %@"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esci da %@"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Supprimer %lld éléments"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ を終了"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%lld件を削除"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 종료"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%lld개 항목 제거"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выйти из %@"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "移除 %lld 项"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出 %@"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "移除 %lld 項"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "結束 %@"
           }
         }
       }
     },
-    "Select Video Files": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Videodateien auswählen"
+    "Refresh Video Wallpaper" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Video-Hintergrundbild aktualisieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rafraîchir le fond d'écran vidéo"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sélectionner des fichiers vidéo"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiorna sfondo video"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "動画ファイルを選択"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動画壁紙を更新"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "비디오 파일 선택"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오 배경화면 새로 고침"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "选择视频文件"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обновить видеообои"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "選擇影片檔案"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刷新视频壁纸"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新整理影片桌布"
+          }
         }
       }
     },
-    "Set Dynamic Wallpaper": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dynamisches Hintergrundbild festlegen"
+    "Remove" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entfernen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rimuovi"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Définir le fond d'écran dynamique"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "削除"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "動的壁紙に設定"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "제거"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "동적 배경화면 설정"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "设置动态壁纸"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "設定動態桌布"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除"
           }
         }
       }
     },
-    "Set Screensaver": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bildschirmschoner festlegen"
+    "Remove %lld items" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld Einträge entfernen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer %lld éléments"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rimuovi %lld elementi"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Définir l'économiseur d'écran"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld件を削除"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "スクリーンセーバーに設定"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld개 항목 제거"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "화면 보호기로 설정"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить %lld элементов"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "设为屏保"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除 %lld 项"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "設定螢幕保護程式"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除 %lld 項"
           }
         }
       }
     },
-    "Settings...": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Einstellungen..."
+    "Select a camera, then enable camera wallpaper." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wählen Sie eine Kamera und aktivieren Sie dann das Kamera-Hintergrundbild."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Réglages..."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionnez une caméra, puis activez le fond d'écran caméra."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "設定..."
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona una fotocamera, poi attiva lo sfondo con fotocamera."
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "설정..."
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カメラを選択してから、カメラ壁紙を有効にしてください。"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "设置…"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카메라를 선택한 다음 카메라 배경화면을 켜세요."
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "設定..."
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите камеру, затем включите обои с камеры."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请先选择摄像头，再开启摄像头壁纸。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請先選擇攝影機，再開啟攝影機桌布。"
+          }
         }
       }
     },
-    "Show in Finder": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Im Finder anzeigen"
+    "Select Video Files" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Videodateien auswählen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner des fichiers vidéo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona file video"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Afficher dans le Finder"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動画ファイルを選択"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Finderで表示"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오 파일 선택"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Finder에서 보기"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбрать видеофайлы"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "在访达中显示"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择视频文件"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "在 Finder 中顯示"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇影片檔案"
           }
         }
       }
     },
-    "Social Accounts": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Soziale Konten"
+    "Set Dynamic Wallpaper" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dynamisches Hintergrundbild festlegen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Définir le fond d'écran dynamique"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Comptes sociaux"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imposta sfondo dinamico"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "SNSアカウント"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動的壁紙に設定"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "소셜 계정"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "동적 배경화면 설정"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "社交账号"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Установить динамические обои"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "社群帳號"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置动态壁纸"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定動態桌布"
+          }
         }
       }
     },
-    "Unlock all Features": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Alle Funktionen freischalten"
+    "Set Screensaver" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bildschirmschoner festlegen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Définir l'économiseur d'écran"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imposta salvaschermo"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Déverrouiller toutes les fonctionnalités"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクリーンセーバーに設定"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "すべての機能をアンロック"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "화면 보호기로 설정"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "모든 기능 잠금 해제"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Установить заставку"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "解锁全部功能"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设为屏保"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "解鎖全部功能"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定螢幕保護程式"
           }
         }
       }
     },
-    "Version %@ (%@)": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Version %1$@ (%2$@)"
+    "Settings..." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen..."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages..."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "new",
-            "value": "Version %1$@ (%2$@)"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impostazioni..."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Version %1$@ (%2$@)"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定..."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "バージョン %1$@ (%2$@)"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설정..."
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "버전 %1$@ (%2$@)"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки..."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "版本 %1$@ (%2$@)"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置…"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Version %1$@ (%2$@)"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定..."
           }
         }
       }
     },
-    "Video List Loop": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Videoliste wiederholen"
+    "Show in Finder" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im Finder anzeigen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher dans le Finder"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Boucle de la liste vidéo"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra nel Finder"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "動画リストをループ"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finderで表示"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "비디오 목록 반복"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finder에서 보기"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "视频列表循环"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показать в Finder"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "影片清單循環"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在访达中显示"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Finder 中顯示"
+          }
         }
       }
     },
-    "Vidwall Hub lets you set videos as lock-screen animations.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mit Vidwall Hub können Sie Videos als Sperrbildschirm-Animationen festlegen."
+    "Social Accounts" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soziale Konten"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comptes sociaux"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account social"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vidwall Hub vous permet de définir des vidéos comme animations de l'écran verrouillé."
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SNSアカウント"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vidwall Hub では動画をロック画面アニメーションに設定できます。"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "소셜 계정"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vidwall Hub를 사용하면 비디오를 잠금 화면 애니메이션으로 설정할 수 있습니다."
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Соцсети"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vidwall Hub 可将视频设为锁屏动画。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "社交账号"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vidwall Hub 可讓您將影片設為鎖定畫面的動畫。"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "社群帳號"
           }
         }
       }
     },
-    "Wallpaper": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hintergrundbild"
+    "Unlock all Features" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Funktionen freischalten"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Déverrouiller toutes les fonctionnalités"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sblocca tutte le funzionalita'"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fond d'écran"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべての機能をアンロック"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "壁紙"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 기능 잠금 해제"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "배경화면"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разблокировать все функции"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "壁纸"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解锁全部功能"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "桌布"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解鎖全部功能"
           }
         }
       }
     },
-    "X(Twitter)": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "X(Twitter)"
+    "Use the live camera feed as your desktop wallpaper." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Live-Kamerabild als Desktop-Hintergrund verwenden."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "X(Twitter)"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utiliser le flux caméra en direct comme fond d'écran."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "X(Twitter)"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usa il feed live della fotocamera come sfondo del desktop."
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "X(Twitter)"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カメラのライブ映像をデスクトップ壁紙として使用します。"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "X(Twitter)"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "실시간 카메라 화면을 바탕화면 배경으로 사용합니다."
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "X(Twitter)"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Использовать прямую трансляцию с камеры как обои рабочего стола."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将摄像头实时画面用作桌面壁纸。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "將攝影機即時畫面用作桌面桌布。"
+          }
         }
       }
     },
-    "Your Videos, Your Dynamic Lock Screen": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ihre Videos, Ihr dynamischer Sperrbildschirm"
+    "Version %@ (%@)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version %1$@ (%2$@)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version %1$@ (%2$@)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version %1$@ (%2$@)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version %1$@ (%2$@)"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vos vidéos, votre écran verrouillé dynamique"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バージョン %1$@ (%2$@)"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "あなたの動画を、あなたの動的ロック画面に"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "버전 %1$@ (%2$@)"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "당신의 비디오로 만드는 동적 잠금 화면"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Версия %1$@ (%2$@)"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "你的影片，你的动态锁屏"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本 %1$@ (%2$@)"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "你的影片，你的動態鎖定畫面"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version %1$@ (%2$@)"
           }
         }
       }
     },
-    "Use the live camera feed as your desktop wallpaper.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Live-Kamerabild als Desktop-Hintergrund verwenden."
+    "Video List Loop" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Videoliste wiederholen"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Utiliser le flux caméra en direct comme fond d'écran."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boucle de la liste vidéo"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "カメラのライブ映像をデスクトップ壁紙として使用します。"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ciclo elenco video"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "실시간 카메라 화면을 바탕화면 배경으로 사용합니다."
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動画リストをループ"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "将摄像头实时画面用作桌面壁纸。"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비디오 목록 반복"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "將攝影機即時畫面用作桌面桌布。"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повтор списка видео"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "视频列表循环"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "影片清單循環"
+          }
         }
       }
     },
-    "Select a camera, then enable camera wallpaper.": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wählen Sie eine Kamera und aktivieren Sie dann das Kamera-Hintergrundbild."
+    "Vidwall Hub lets you set videos as lock-screen animations." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit Vidwall Hub können Sie Videos als Sperrbildschirm-Animationen festlegen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwall Hub vous permet de définir des vidéos comme animations de l'écran verrouillé."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwall Hub ti permette di impostare video come animazioni della schermata di blocco."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sélectionnez une caméra, puis activez le fond d'écran caméra."
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwall Hub では動画をロック画面アニメーションに設定できます。"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "カメラを選択してから、カメラ壁紙を有効にしてください。"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwall Hub를 사용하면 비디오를 잠금 화면 애니메이션으로 설정할 수 있습니다."
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "카메라를 선택한 다음 카메라 배경화면을 켜세요."
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwall Hub позволяет устанавливать видео как анимацию экрана блокировки."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "请先选择摄像头，再开启摄像头壁纸。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwall Hub 可将视频设为锁屏动画。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "請先選擇攝影機，再開啟攝影機桌布。"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwall Hub 可讓您將影片設為鎖定畫面的動畫。"
           }
         }
       }
     },
-    "No Camera Found": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Keine Kamera gefunden"
+    "Wallpaper" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hintergrundbild"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fond d'écran"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aucune caméra trouvée"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sfondo"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "カメラが見つかりません"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "壁紙"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "카메라를 찾을 수 없음"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "배경화면"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "未找到摄像头"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обои"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "找不到攝影機"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "壁纸"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "桌布"
+          }
         }
       }
     },
-    "Disable Camera Wallpaper": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kamera-Hintergrundbild deaktivieren"
+    "X(Twitter)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X(Twitter)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X(Twitter)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X(Twitter)"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Désactiver le fond d'écran caméra"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X(Twitter)"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "カメラ壁紙を無効にする"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X(Twitter)"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "카메라 배경화면 끄기"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X(Twitter)"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "关闭摄像头壁纸"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X(Twitter)"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "關閉攝影機桌布"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X(Twitter)"
           }
         }
       }
     },
-    "Enable Camera Wallpaper": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kamera-Hintergrundbild aktivieren"
+    "Your Videos, Your Dynamic Lock Screen" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ihre Videos, Ihr dynamischer Sperrbildschirm"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vos vidéos, votre écran verrouillé dynamique"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I tuoi video, la tua schermata di blocco dinamica"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Activer le fond d'écran caméra"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたの動画を、あなたの動的ロック画面に"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "カメラ壁紙を有効にする"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "당신의 비디오로 만드는 동적 잠금 화면"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "카메라 배경화면 켜기"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваши видео, ваш динамический экран блокировки"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "开启摄像头壁纸"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的影片，你的动态锁屏"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "開啟攝影機桌布"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你的影片，你的動態鎖定畫面"
           }
         }
       }
     }
   },
-  "version": "1.0"
+  "version" : "1.0"
 }
