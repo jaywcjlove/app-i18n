@@ -14,11 +14,23 @@
 
 "Adaptive Fill Screen" = "画面に合わせて拡大";
 
+"Allow camera access to use the camera as desktop wallpaper." = "カメラをデスクトップ壁紙として使用するには、カメラへのアクセスを許可してください。";
+
 "Are you sure you want to delete all records?" = "すべての記録を削除してもよろしいですか？";
 
 "Are you sure you want to delete selected records?" = "選択した記録を削除してもよろしいですか？";
 
 "Authorization" = "認証";
+
+"Authorize" = "許可";
+
+"Camera" = "カメラ";
+
+"Camera Access Required" = "カメラへのアクセスが必要です";
+
+"Camera Wallpaper" = "カメラ壁紙";
+
+"Camera wallpaper needs camera access. Click Authorize to grant permission, or open System Settings from the General page." = "カメラ壁紙にはカメラへのアクセスが必要です。「許可」を押して権限を付与するか、「一般」ページからシステム設定を開いてください。";
 
 "Cancel" = "キャンセル";
 
@@ -40,6 +52,8 @@
 
 "Disable" = "無効にする";
 
+"Disable Camera Wallpaper" = "カメラ壁紙を無効にする";
+
 "Disable Sound" = "サウンドをオフ";
 
 "Download" = "ダウンロード";
@@ -53,6 +67,8 @@
 "Enable" = "有効にする";
 
 "Enable Auto Fade In/Out" = "自動フェードイン/アウトを有効にする";
+
+"Enable Camera Wallpaper" = "カメラ壁紙を有効にする";
 
 "Enable Video List Loop" = "動画リストのループを有効にする";
 
@@ -82,6 +98,8 @@
 
 "My Apps" = "マイアプリ";
 
+"No Camera Found" = "カメラが見つかりません";
+
 "No content" = "コンテンツがありません";
 
 "OK" = "OK";
@@ -106,6 +124,8 @@
 
 "Select Video Files" = "動画ファイルを選択";
 
+"Select a camera, then enable camera wallpaper." = "カメラを選択してから、カメラ壁紙を有効にしてください。";
+
 "Set Dynamic Wallpaper" = "動的壁紙に設定";
 
 "Set Screensaver" = "スクリーンセーバーに設定";
@@ -117,6 +137,8 @@
 "Social Accounts" = "SNSアカウント";
 
 "Unlock all Features" = "すべての機能をアンロック";
+
+"Use the live camera feed as your desktop wallpaper." = "カメラのライブ映像をデスクトップ壁紙として使用します。";
 
 "Version %@ (%@)" = "バージョン %1$@ (%2$@)";
 
