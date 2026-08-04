@@ -1273,6 +1273,58 @@
         }
       }
     },
+    "Bold" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fett"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gras"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grassetto"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "太字"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "굵게"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Жирный"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粗体"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粗體"
+          }
+        }
+      }
+    },
     "Bottom" : {
       "localizations" : {
         "de" : {
@@ -2001,6 +2053,58 @@
         }
       }
     },
+    "Color" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Farbe"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couleur"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Colore"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "色"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "색상"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цвет"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "颜色"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顏色"
+          }
+        }
+      }
+    },
     "Conversion cancelled." : {
       "localizations" : {
         "de" : {
@@ -2725,6 +2829,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "嵌入字幕軌道"
+          }
+        }
+      }
+    },
+    "Embedded as a forced subtitle track for MP4 / M4V / MOV. If nothing appears in QuickTime, open View → Subtitles / Closed Captions and pick the track. Font family may still follow system caption style; use Burn into video for exact appearance." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Als erzwungene Untertitelspur für MP4 / M4V / MOV eingebettet. Falls in QuickTime nichts angezeigt wird, öffnen Sie Darstellung → Untertitel / Untertitel für Hörgeschädigte und wählen Sie die Spur aus. Die Schriftfamilie kann weiterhin dem Systemstil für Untertitel folgen; verwenden Sie In Video einbrennen für exakte Darstellung."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intégré comme piste de sous-titres forcés pour MP4 / M4V / MOV. Si rien n'apparaît dans QuickTime, ouvrez Présentation → Sous-titres / Sous-titres codés et choisissez la piste. La famille de police peut toujours suivre le style système des sous-titres; utilisez Incruster dans la vidéo pour une apparence exacte."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Incorporato come traccia sottotitoli forzata per MP4 / M4V / MOV. Se non appare nulla in QuickTime, apri Vista → Sottotitoli / Sottotitoli codificati e seleziona la traccia. La famiglia di caratteri può comunque seguire lo stile di sistema dei sottotitoli; usa Masterizza nel video per un aspetto esatto."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP4 / M4V / MOV では強制字幕トラックとして埋め込まれます。QuickTime で何も表示されない場合は、表示 → 字幕 / クローズドキャプション を開いてトラックを選択してください。フォントファミリーはシステムの字幕スタイルに従う場合があります。見た目を完全に一致させるには、ビデオに焼き込む を使用してください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MP4 / M4V / MOV용 강제 자막 트랙으로 내장됩니다. QuickTime에서 아무것도 보이지 않으면 보기 → 자막 / 청각 장애인용 자막에서 해당 트랙을 선택하세요. 글꼴 패밀리는 시스템 자막 스타일을 따를 수 있으며, 정확한 모양이 필요하면 비디오에 구워 넣기를 사용하세요."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Встраивается как принудительная дорожка субтитров для MP4 / M4V / MOV. Если в QuickTime ничего не отображается, откройте Вид → Субтитры / Скрытые субтитры и выберите дорожку. Семейство шрифтов может по-прежнему зависеть от системного стиля субтитров; для точного отображения используйте Вшить в видео."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作为 MP4 / M4V / MOV 的强制字幕轨道嵌入。如果 QuickTime 中没有显示，请打开“显示”→“字幕 / 隐藏式字幕”并选择该轨道。字体族仍可能遵循系统字幕样式；如需精确外观，请使用“烧录到视频”。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作為 MP4 / M4V / MOV 的強制字幕軌嵌入。若 QuickTime 沒有顯示，請開啟「顯示」→「字幕 / 隱藏式字幕」並選擇該軌道。字型家族仍可能遵循系統字幕樣式；如需精確外觀，請使用「燒錄到影片」。"
           }
         }
       }
@@ -3821,6 +3977,58 @@
         }
       }
     },
+    "Font" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schriftart"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Police"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carattere"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォント"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "글꼴"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Шрифт"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字体"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字型"
+          }
+        }
+      }
+    },
     "Font Size" : {
       "localizations" : {
         "de" : {
@@ -4243,54 +4451,54 @@
         }
       }
     },
-    "Import a subtitle file, or add a cue at the playhead." : {
+    "Import a subtitle file, or add a cue that continues from the previous one." : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Untertiteldatei importieren oder einen Untertitel an der Abspielposition hinzufügen."
+            "value" : "Importieren Sie eine Untertiteldatei, oder fügen Sie einen Untertitel hinzu, der an den vorherigen anschließt."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importez un fichier de sous-titres ou ajoutez un sous-titre à la position de lecture."
+            "value" : "Importez un fichier de sous-titres, ou ajoutez un sous-titre qui continue depuis le précédent."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importa un file di sottotitoli o aggiungi un sottotitolo alla posizione di riproduzione."
+            "value" : "Importa un file di sottotitoli oppure aggiungi un sottotitolo che continua dal precedente."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "字幕ファイルを読み込むか、再生位置に字幕を追加します。"
+            "value" : "字幕ファイルを読み込むか、前の字幕に続くキューを追加してください。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "자막 파일을 가져오거나 재생 위치에 자막을 추가하세요."
+            "value" : "자막 파일을 가져오거나, 이전 자막에 이어지는 큐를 추가하세요."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Импортируйте файл субтитров или добавьте субтитр в текущей позиции."
+            "value" : "Импортируйте файл субтитров или добавьте реплику, продолжающую предыдущую."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "导入字幕文件，或在播放头位置添加字幕。"
+            "value" : "导入字幕文件，或添加一条承接上一条的字幕。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "匯入字幕檔案，或在播放頭位置新增一條字幕。"
+            "value" : "匯入字幕檔，或新增一條承接上一條的字幕。"
           }
         }
       }
@@ -6115,58 +6323,6 @@
         }
       }
     },
-    "Preview style" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vorschaustil"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Style d'aperçu"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stile anteprima"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "プレビュースタイル"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "미리보기 스타일"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Стиль предпросмотра"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "预览样式"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "預覽樣式"
-          }
-        }
-      }
-    },
     "Pro" : {
       "localizations" : {
         "de" : {
@@ -6687,54 +6843,54 @@
         }
       }
     },
-    "Saved as a text track. Can be re-imported and edited; style is player-dependent." : {
+    "Saved as a forced text track (shown by default in QuickTime when possible). Font may follow system caption style; use Burn-in for exact fonts." : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Als Textspur gespeichert. Kann erneut importiert und bearbeitet werden; Stil ist playerabhängig."
+            "value" : "Als erzwungene Textspur gespeichert (wird in QuickTime nach Möglichkeit standardmäßig angezeigt). Die Schriftart kann dem Systemstil für Untertitel folgen; verwenden Sie Burn-in für exakte Schriftarten."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enregistré comme piste de texte. Peut être réimporté et modifié ; le style dépend du lecteur."
+            "value" : "Enregistré en tant que piste de texte forcée (affichée par défaut dans QuickTime lorsque possible). La police peut suivre le style système des sous-titres; utilisez Burn-in pour des polices exactes."
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvato come traccia di testo. Può essere reimportato e modificato; lo stile dipende dal lettore."
+            "value" : "Salvato come traccia di testo forzata (mostrata di default in QuickTime quando possibile). Il carattere può seguire lo stile di sistema dei sottotitoli; usa Burn-in per caratteri esatti."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "テキストトラックとして保存されました。再インポートと編集が可能です。スタイルはプレーヤーに依存します。"
+            "value" : "強制テキストトラックとして保存されます（可能な場合は QuickTime で既定表示）。フォントはシステムの字幕スタイルに従う場合があります。正確なフォントを使うには Burn-in を使用してください。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "텍스트 트랙으로 저장되었습니다. 다시 가져와서 편집할 수 있으며, 스타일은 플레이어에 따라 다릅니다."
+            "value" : "강제 텍스트 트랙으로 저장됩니다(가능한 경우 QuickTime에서 기본 표시). 글꼴은 시스템 자막 스타일을 따를 수 있으므로, 정확한 글꼴을 사용하려면 Burn-in을 사용하세요."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сохранено как текстовая дорожка. Можно повторно импортировать и редактировать; стиль зависит от плеера."
+            "value" : "Сохраняется как принудительная текстовая дорожка (по возможности показывается в QuickTime по умолчанию). Шрифт может следовать системному стилю субтитров; для точных шрифтов используйте Burn-in."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "保存为文本轨道。可重新导入和编辑；样式取决于播放器。"
+            "value" : "保存为强制文本轨道（在可能情况下会在 QuickTime 中默认显示）。字体可能遵循系统字幕样式；如需精确字体，请使用 Burn-in。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "儲存為文字軌道。可重新匯入和編輯；樣式取決於播放器。"
+            "value" : "儲存為強制文字軌（在可能情況下會於 QuickTime 預設顯示）。字型可能遵循系統字幕樣式；如需精確字型，請使用 Burn-in。"
           }
         }
       }
@@ -7837,58 +7993,6 @@
         }
       }
     },
-    "Style applies to in-app preview only when embedding a track." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stil gilt nur für die In-App-Vorschau beim Einbetten einer Spur."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Le style s'applique uniquement à l'aperçu dans l'application lors de l'intégration d'une piste."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lo stile si applica solo all'anteprima in-app quando si incorpora una traccia."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "スタイルはトラック埋め込み時のアプリ内プレビューにのみ適用されます。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "스타일은 트랙 포함 시 앱 내 미리보기에만 적용됩니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Стиль применяется только к предпросмотру в приложении при встраивании дорожки."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "样式仅在嵌入轨道时应用于应用内预览。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "樣式僅在嵌入軌道時套用於應用內預覽。"
-          }
-        }
-      }
-    },
     "Subtitle" : {
       "localizations" : {
         "de" : {
@@ -7989,6 +8093,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "字幕文字"
+          }
+        }
+      }
+    },
+    "System" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Systemweit"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Systeme"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sistema"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "システム"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시스템"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Система"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系统"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系統"
           }
         }
       }

@@ -42,6 +42,8 @@
 
 "Base" = "基准";
 
+"Bold" = "粗体";
+
 "Bottom" = "底部";
 
 "Bottom Center" = "底部居中";
@@ -70,6 +72,8 @@
 
 "Clear Selection" = "清除选择";
 
+"Color" = "颜色";
+
 "Conversion cancelled." = "转换已取消。";
 
 "Could not open the image file." = "无法打开图像文件。";
@@ -97,6 +101,8 @@
 "Edit" = "编辑";
 
 "Embed subtitle track" = "嵌入字幕轨道";
+
+"Embedded as a forced subtitle track for MP4 / M4V / MOV. If nothing appears in QuickTime, open View → Subtitles / Closed Captions and pick the track. Font family may still follow system caption style; use Burn into video for exact appearance." = "作为 MP4 / M4V / MOV 的强制字幕轨道嵌入。如果 QuickTime 中没有显示，请打开“显示”→“字幕 / 隐藏式字幕”并选择该轨道。字体族仍可能遵循系统字幕样式；如需精确外观，请使用“烧录到视频”。";
 
 "Empty" = "空";
 
@@ -140,6 +146,8 @@
 
 "Fast · Balanced · Dense" = "快速 · 均衡 · 密集";
 
+"Font" = "字体";
+
 "Font Size" = "字体大小";
 
 "Found %lld cues. Replace existing subtitles or append?" = "找到 %lld 条字幕。替换现有字幕还是追加？";
@@ -162,7 +170,7 @@
 
 "Import a file or tap Add to create one." = "导入文件或点击添加来创建一个。";
 
-"Import a subtitle file, or add a cue at the playhead." = "导入字幕文件，或在播放头位置添加字幕。";
+"Import a subtitle file, or add a cue that continues from the previous one." = "导入字幕文件，或添加一条承接上一条的字幕。";
 
 "Importing subtitles…" = "正在导入字幕…";
 
@@ -226,8 +234,6 @@
 
 "Preparing face previews…" = "正在准备面部预览…";
 
-"Preview style" = "预览样式";
-
 "Pro" = "专业版";
 
 "Processing..." = "处理中…";
@@ -248,7 +254,7 @@
 
 "Save File" = "保存文件";
 
-"Saved as a text track. Can be re-imported and edited; style is player-dependent." = "保存为文本轨道。可重新导入和编辑；样式取决于播放器。";
+"Saved as a forced text track (shown by default in QuickTime when possible). Font may follow system caption style; use Burn-in for exact fonts." = "保存为强制文本轨道（在可能情况下会在 QuickTime 中默认显示）。字体可能遵循系统字幕样式；如需精确字体，请使用 Burn-in。";
 
 "Scale" = "缩放";
 
@@ -292,11 +298,11 @@
 
 "Style" = "样式";
 
-"Style applies to in-app preview only when embedding a track." = "样式仅在嵌入轨道时应用于应用内预览。";
-
 "Subtitle" = "字幕";
 
 "Subtitle text" = "字幕文本";
+
+"System" = "系统";
 
 "Tap “Scan Video Faces” to detect people." = "点击「扫描面部」以检测人物。";
 

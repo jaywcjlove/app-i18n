@@ -42,6 +42,8 @@
 
 "Base" = "基準";
 
+"Bold" = "太字";
+
 "Bottom" = "下";
 
 "Bottom Center" = "下部中央";
@@ -70,6 +72,8 @@
 
 "Clear Selection" = "選択をクリア";
 
+"Color" = "色";
+
 "Conversion cancelled." = "変換がキャンセルされました。";
 
 "Could not open the image file." = "画像ファイルを開けませんでした。";
@@ -97,6 +101,8 @@
 "Edit" = "編集";
 
 "Embed subtitle track" = "字幕トラックを埋め込み";
+
+"Embedded as a forced subtitle track for MP4 / M4V / MOV. If nothing appears in QuickTime, open View → Subtitles / Closed Captions and pick the track. Font family may still follow system caption style; use Burn into video for exact appearance." = "MP4 / M4V / MOV では強制字幕トラックとして埋め込まれます。QuickTime で何も表示されない場合は、表示 → 字幕 / クローズドキャプション を開いてトラックを選択してください。フォントファミリーはシステムの字幕スタイルに従う場合があります。見た目を完全に一致させるには、ビデオに焼き込む を使用してください。";
 
 "Empty" = "空";
 
@@ -140,6 +146,8 @@
 
 "Fast · Balanced · Dense" = "高速 · バランス · 高密度";
 
+"Font" = "フォント";
+
 "Font Size" = "フォントサイズ";
 
 "Found %lld cues. Replace existing subtitles or append?" = "%lld件の字幕が見つかりました。既存の字幕を置き換えますか、追加しますか？";
@@ -162,7 +170,7 @@
 
 "Import a file or tap Add to create one." = "ファイルを読み込むか、追加をタップして作成します。";
 
-"Import a subtitle file, or add a cue at the playhead." = "字幕ファイルを読み込むか、再生位置に字幕を追加します。";
+"Import a subtitle file, or add a cue that continues from the previous one." = "字幕ファイルを読み込むか、前の字幕に続くキューを追加してください。";
 
 "Importing subtitles…" = "字幕を読み込み中…";
 
@@ -226,8 +234,6 @@
 
 "Preparing face previews…" = "顔のプレビューを準備中…";
 
-"Preview style" = "プレビュースタイル";
-
 "Pro" = "プロ";
 
 "Processing..." = "処理中...";
@@ -248,7 +254,7 @@
 
 "Save File" = "ファイルを保存";
 
-"Saved as a text track. Can be re-imported and edited; style is player-dependent." = "テキストトラックとして保存されました。再インポートと編集が可能です。スタイルはプレーヤーに依存します。";
+"Saved as a forced text track (shown by default in QuickTime when possible). Font may follow system caption style; use Burn-in for exact fonts." = "強制テキストトラックとして保存されます（可能な場合は QuickTime で既定表示）。フォントはシステムの字幕スタイルに従う場合があります。正確なフォントを使うには Burn-in を使用してください。";
 
 "Scale" = "拡大率";
 
@@ -292,11 +298,11 @@
 
 "Style" = "スタイル";
 
-"Style applies to in-app preview only when embedding a track." = "スタイルはトラック埋め込み時のアプリ内プレビューにのみ適用されます。";
-
 "Subtitle" = "字幕";
 
 "Subtitle text" = "字幕テキスト";
+
+"System" = "システム";
 
 "Tap “Scan Video Faces” to detect people." = "「顔をスキャン」をタップして人物を検出。";
 

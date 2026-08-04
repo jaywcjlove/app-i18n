@@ -42,6 +42,8 @@
 
 "Base" = "기준";
 
+"Bold" = "굵게";
+
 "Bottom" = "하단";
 
 "Bottom Center" = "하단 중앙";
@@ -70,6 +72,8 @@
 
 "Clear Selection" = "선택 해제";
 
+"Color" = "색상";
+
 "Conversion cancelled." = "변환이 취소되었습니다.";
 
 "Could not open the image file." = "이미지 파일을 열 수 없습니다.";
@@ -97,6 +101,8 @@
 "Edit" = "편집";
 
 "Embed subtitle track" = "자막 트랙 포함";
+
+"Embedded as a forced subtitle track for MP4 / M4V / MOV. If nothing appears in QuickTime, open View → Subtitles / Closed Captions and pick the track. Font family may still follow system caption style; use Burn into video for exact appearance." = "MP4 / M4V / MOV용 강제 자막 트랙으로 내장됩니다. QuickTime에서 아무것도 보이지 않으면 보기 → 자막 / 청각 장애인용 자막에서 해당 트랙을 선택하세요. 글꼴 패밀리는 시스템 자막 스타일을 따를 수 있으며, 정확한 모양이 필요하면 비디오에 구워 넣기를 사용하세요.";
 
 "Empty" = "비어 있음";
 
@@ -140,6 +146,8 @@
 
 "Fast · Balanced · Dense" = "빠르게 · 균형 · 고밀도";
 
+"Font" = "글꼴";
+
 "Font Size" = "글꼴 크기";
 
 "Found %lld cues. Replace existing subtitles or append?" = "%lld개의 자막을 찾았습니다. 기존 자막을 교체하시겠습니까, 아니면 추가하시겠습니까?";
@@ -162,7 +170,7 @@
 
 "Import a file or tap Add to create one." = "파일을 가져오거나 추가를 탭하여 새로 만드세요.";
 
-"Import a subtitle file, or add a cue at the playhead." = "자막 파일을 가져오거나 재생 위치에 자막을 추가하세요.";
+"Import a subtitle file, or add a cue that continues from the previous one." = "자막 파일을 가져오거나, 이전 자막에 이어지는 큐를 추가하세요.";
 
 "Importing subtitles…" = "자막 가져오는 중…";
 
@@ -226,8 +234,6 @@
 
 "Preparing face previews…" = "얼굴 미리보기 준비 중…";
 
-"Preview style" = "미리보기 스타일";
-
 "Pro" = "프로";
 
 "Processing..." = "처리 중...";
@@ -248,7 +254,7 @@
 
 "Save File" = "파일 저장";
 
-"Saved as a text track. Can be re-imported and edited; style is player-dependent." = "텍스트 트랙으로 저장되었습니다. 다시 가져와서 편집할 수 있으며, 스타일은 플레이어에 따라 다릅니다.";
+"Saved as a forced text track (shown by default in QuickTime when possible). Font may follow system caption style; use Burn-in for exact fonts." = "강제 텍스트 트랙으로 저장됩니다(가능한 경우 QuickTime에서 기본 표시). 글꼴은 시스템 자막 스타일을 따를 수 있으므로, 정확한 글꼴을 사용하려면 Burn-in을 사용하세요.";
 
 "Scale" = "배율";
 
@@ -292,11 +298,11 @@
 
 "Style" = "스타일";
 
-"Style applies to in-app preview only when embedding a track." = "스타일은 트랙 포함 시 앱 내 미리보기에만 적용됩니다.";
-
 "Subtitle" = "자막";
 
 "Subtitle text" = "자막 텍스트";
+
+"System" = "시스템";
 
 "Tap “Scan Video Faces” to detect people." = "사람을 감지하려면 '얼굴 스캔'을 탭하세요.";
 

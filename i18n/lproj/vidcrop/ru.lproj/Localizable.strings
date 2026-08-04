@@ -42,6 +42,8 @@
 
 "Base" = "Основа";
 
+"Bold" = "Жирный";
+
 "Bottom" = "Снизу";
 
 "Bottom Center" = "Снизу по центру";
@@ -70,6 +72,8 @@
 
 "Clear Selection" = "Снять выбор";
 
+"Color" = "Цвет";
+
 "Conversion cancelled." = "Преобразование отменено.";
 
 "Could not open the image file." = "Не удалось открыть файл изображения.";
@@ -97,6 +101,8 @@
 "Edit" = "Изменить";
 
 "Embed subtitle track" = "Встроить дорожку субтитров";
+
+"Embedded as a forced subtitle track for MP4 / M4V / MOV. If nothing appears in QuickTime, open View → Subtitles / Closed Captions and pick the track. Font family may still follow system caption style; use Burn into video for exact appearance." = "Встраивается как принудительная дорожка субтитров для MP4 / M4V / MOV. Если в QuickTime ничего не отображается, откройте Вид → Субтитры / Скрытые субтитры и выберите дорожку. Семейство шрифтов может по-прежнему зависеть от системного стиля субтитров; для точного отображения используйте Вшить в видео.";
 
 "Empty" = "Пусто";
 
@@ -140,6 +146,8 @@
 
 "Fast · Balanced · Dense" = "Быстрый · Сбалансированный · Плотный";
 
+"Font" = "Шрифт";
+
 "Font Size" = "Размер шрифта";
 
 "Found %lld cues. Replace existing subtitles or append?" = "Найдено %lld субтитров. Заменить существующие или добавить?";
@@ -162,7 +170,7 @@
 
 "Import a file or tap Add to create one." = "Импортируйте файл или нажмите «Добавить», чтобы создать.";
 
-"Import a subtitle file, or add a cue at the playhead." = "Импортируйте файл субтитров или добавьте субтитр в текущей позиции.";
+"Import a subtitle file, or add a cue that continues from the previous one." = "Импортируйте файл субтитров или добавьте реплику, продолжающую предыдущую.";
 
 "Importing subtitles…" = "Импорт субтитров…";
 
@@ -226,8 +234,6 @@
 
 "Preparing face previews…" = "Подготовка превью лиц…";
 
-"Preview style" = "Стиль предпросмотра";
-
 "Pro" = "Pro";
 
 "Processing..." = "Обработка...";
@@ -248,7 +254,7 @@
 
 "Save File" = "Сохранить файл";
 
-"Saved as a text track. Can be re-imported and edited; style is player-dependent." = "Сохранено как текстовая дорожка. Можно повторно импортировать и редактировать; стиль зависит от плеера.";
+"Saved as a forced text track (shown by default in QuickTime when possible). Font may follow system caption style; use Burn-in for exact fonts." = "Сохраняется как принудительная текстовая дорожка (по возможности показывается в QuickTime по умолчанию). Шрифт может следовать системному стилю субтитров; для точных шрифтов используйте Burn-in.";
 
 "Scale" = "Масштаб";
 
@@ -292,11 +298,11 @@
 
 "Style" = "Стиль";
 
-"Style applies to in-app preview only when embedding a track." = "Стиль применяется только к предпросмотру в приложении при встраивании дорожки.";
-
 "Subtitle" = "Субтитр";
 
 "Subtitle text" = "Текст субтитра";
+
+"System" = "Система";
 
 "Tap “Scan Video Faces” to detect people." = "Нажмите «Сканировать лица», чтобы обнаружить людей.";
 

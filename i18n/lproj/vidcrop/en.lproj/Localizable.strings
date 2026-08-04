@@ -42,6 +42,8 @@
 
 "Base" = "Base";
 
+"Bold" = "Bold";
+
 "Bottom" = "Bottom";
 
 "Bottom Center" = "Bottom Center";
@@ -70,6 +72,8 @@
 
 "Clear Selection" = "Clear Selection";
 
+"Color" = "Color";
+
 "Conversion cancelled." = "Conversion cancelled.";
 
 "Could not open the image file." = "Could not open the image file.";
@@ -97,6 +101,8 @@
 "Edit" = "Edit";
 
 "Embed subtitle track" = "Embed subtitle track";
+
+"Embedded as a forced subtitle track for MP4 / M4V / MOV. If nothing appears in QuickTime, open View → Subtitles / Closed Captions and pick the track. Font family may still follow system caption style; use Burn into video for exact appearance." = "Embedded as a forced subtitle track for MP4 / M4V / MOV. If nothing appears in QuickTime, open View → Subtitles / Closed Captions and pick the track. Font family may still follow system caption style; use Burn into video for exact appearance.";
 
 "Empty" = "Empty";
 
@@ -140,6 +146,8 @@
 
 "Fast · Balanced · Dense" = "Fast · Balanced · Dense";
 
+"Font" = "Font";
+
 "Font Size" = "Font Size";
 
 "Found %lld cues. Replace existing subtitles or append?" = "Found %lld cues. Replace existing subtitles or append?";
@@ -162,7 +170,7 @@
 
 "Import a file or tap Add to create one." = "Import a file or tap Add to create one.";
 
-"Import a subtitle file, or add a cue at the playhead." = "Import a subtitle file, or add a cue at the playhead.";
+"Import a subtitle file, or add a cue that continues from the previous one." = "Import a subtitle file, or add a cue that continues from the previous one.";
 
 "Importing subtitles…" = "Importing subtitles…";
 
@@ -226,8 +234,6 @@
 
 "Preparing face previews…" = "Preparing face previews…";
 
-"Preview style" = "Preview style";
-
 "Pro" = "Pro";
 
 "Processing..." = "Processing...";
@@ -248,7 +254,7 @@
 
 "Save File" = "Save File";
 
-"Saved as a text track. Can be re-imported and edited; style is player-dependent." = "Saved as a text track. Can be re-imported and edited; style is player-dependent.";
+"Saved as a forced text track (shown by default in QuickTime when possible). Font may follow system caption style; use Burn-in for exact fonts." = "Saved as a forced text track (shown by default in QuickTime when possible). Font may follow system caption style; use Burn-in for exact fonts.";
 
 "Scale" = "Scale";
 
@@ -292,11 +298,11 @@
 
 "Style" = "Style";
 
-"Style applies to in-app preview only when embedding a track." = "Style applies to in-app preview only when embedding a track.";
-
 "Subtitle" = "Subtitle";
 
 "Subtitle text" = "Subtitle text";
+
+"System" = "System";
 
 "Tap “Scan Video Faces” to detect people." = "Tap “Scan Video Faces” to detect people.";
 

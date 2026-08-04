@@ -42,6 +42,8 @@
 
 "Base" = "Base";
 
+"Bold" = "Grassetto";
+
 "Bottom" = "In basso";
 
 "Bottom Center" = "In basso al centro";
@@ -70,6 +72,8 @@
 
 "Clear Selection" = "Cancella selezione";
 
+"Color" = "Colore";
+
 "Conversion cancelled." = "Conversione annullata.";
 
 "Could not open the image file." = "Impossibile aprire il file immagine.";
@@ -97,6 +101,8 @@
 "Edit" = "Modifica";
 
 "Embed subtitle track" = "Incorpora traccia sottotitoli";
+
+"Embedded as a forced subtitle track for MP4 / M4V / MOV. If nothing appears in QuickTime, open View → Subtitles / Closed Captions and pick the track. Font family may still follow system caption style; use Burn into video for exact appearance." = "Incorporato come traccia sottotitoli forzata per MP4 / M4V / MOV. Se non appare nulla in QuickTime, apri Vista → Sottotitoli / Sottotitoli codificati e seleziona la traccia. La famiglia di caratteri può comunque seguire lo stile di sistema dei sottotitoli; usa Masterizza nel video per un aspetto esatto.";
 
 "Empty" = "Vuoto";
 
@@ -140,6 +146,8 @@
 
 "Fast · Balanced · Dense" = "Veloce · Bilanciato · Denso";
 
+"Font" = "Carattere";
+
 "Font Size" = "Dimensione carattere";
 
 "Found %lld cues. Replace existing subtitles or append?" = "Trovati %lld sottotitoli. Sostituire quelli esistenti o aggiungere?";
@@ -162,7 +170,7 @@
 
 "Import a file or tap Add to create one." = "Importa un file o tocca Aggiungi per crearne uno.";
 
-"Import a subtitle file, or add a cue at the playhead." = "Importa un file di sottotitoli o aggiungi un sottotitolo alla posizione di riproduzione.";
+"Import a subtitle file, or add a cue that continues from the previous one." = "Importa un file di sottotitoli oppure aggiungi un sottotitolo che continua dal precedente.";
 
 "Importing subtitles…" = "Importazione sottotitoli…";
 
@@ -226,8 +234,6 @@
 
 "Preparing face previews…" = "Preparazione anteprime volti…";
 
-"Preview style" = "Stile anteprima";
-
 "Pro" = "Pro";
 
 "Processing..." = "Elaborazione in corso…";
@@ -248,7 +254,7 @@
 
 "Save File" = "Salva file";
 
-"Saved as a text track. Can be re-imported and edited; style is player-dependent." = "Salvato come traccia di testo. Può essere reimportato e modificato; lo stile dipende dal lettore.";
+"Saved as a forced text track (shown by default in QuickTime when possible). Font may follow system caption style; use Burn-in for exact fonts." = "Salvato come traccia di testo forzata (mostrata di default in QuickTime quando possibile). Il carattere può seguire lo stile di sistema dei sottotitoli; usa Burn-in per caratteri esatti.";
 
 "Scale" = "Scala";
 
@@ -292,11 +298,11 @@
 
 "Style" = "Stile";
 
-"Style applies to in-app preview only when embedding a track." = "Lo stile si applica solo all'anteprima in-app quando si incorpora una traccia.";
-
 "Subtitle" = "Sottotitolo";
 
 "Subtitle text" = "Testo del sottotitolo";
+
+"System" = "Sistema";
 
 "Tap “Scan Video Faces” to detect people." = "Tocca \"Scansiona volti nel video\" per rilevare le persone.";
 
