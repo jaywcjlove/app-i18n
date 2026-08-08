@@ -1,0 +1,274 @@
+" (Hint Off)" = " (подсказка отключена)";
+
+" (Off)" = " (выкл.)";
+
+" (On)" = " (вкл.)";
+
+" px/step" = " пикс./шаг";
+
+"%@" = "%@";
+
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> добавьте **%4$@** и проверьте";
+
+"%@ Needs Accessibility Access" = "%@ требует доступа к функциям специальных возможностей";
+
+"%@ the %@ key to enter keyboard mouse mode." = "%1$@ клавишу %2$@, чтобы войти в режим клавиатурной мыши.";
+
+"%@(ms)" = "%@(мс)";
+
+"%lld" = "%lld";
+
+"About" = "О программе";
+
+"About %@" = "О программе %@";
+
+"Accessibility" = "Специальные возможности";
+
+"Add" = "Добавить";
+
+"Add Application" = "Добавить приложение";
+
+"Always On Desktop" = "Всегда на рабочем столе";
+
+"App Navigation" = "Навигация по приложениям";
+
+"App Navigation Configuration" = "Настройка навигации по приложениям";
+
+"Are you sure you want to delete %@?" = "Вы уверены, что хотите удалить %@?";
+
+"Arrow Key Layout" = "Схема стрелок";
+
+"Arrow Key Navigation" = "Навигация стрелками";
+
+"Arrow Keys" = "Клавиши со стрелками";
+
+"Auto Exit After Double Click" = "Автовыход после двойного клика";
+
+"Auto Exit Keyboard Control Mode" = "Автовыход из режима управления клавиатурой";
+
+"Auto-Hide Grid After Locating" = "Автоматически скрывать сетку после позиционирования";
+
+"Auto-click on Exact Match" = "Автоклик при точном совпадении";
+
+"Background Color" = "Цвет фона";
+
+"Border Color" = "Цвет границы";
+
+"Border Width" = "Ширина границы";
+
+"Bottom" = "Снизу";
+
+"C" = "C";
+
+"Cancel" = "Отмена";
+
+"Clear" = "Очистить";
+
+"Columns" = "Столбцы";
+
+"Contact" = "Контакты";
+
+"Content moves in the direction of movement" = "Содержимое движется в направлении движения";
+
+"Cycle Through Windows of Current App" = "Переключать окна текущего приложения";
+
+"Delete" = "Удалить";
+
+"Double-Tap Speed" = "Скорость двойного касания";
+
+"Double-press" = "Двойное нажатие";
+
+"E-mail" = "Электронная почта";
+
+"Element Navigation" = "Навигация по элементам";
+
+"Enable App Navigation" = "Включить навигацию по приложениям";
+
+"Enable Focus Screen" = "Включить экран фокуса";
+
+"Enable Grid" = "Включить сетку";
+
+"Enable Grid Mode by Default" = "Включать режим сетки по умолчанию";
+
+"Enable Keyboard Mouse" = "Включить клавиатурную мышь";
+
+"Enable Keyboard Mouse Mode" = "Включить режим клавиатурной мыши";
+
+"Exit Launchpad" = "Выйти из Launchpad";
+
+"Exit On Click" = "Выход по клику";
+
+"F1~F4" = "F1~F4";
+
+"Feedback" = "Обратная связь";
+
+"Focus Screen" = "Экран фокуса";
+
+"Focus the search field at the top of Launchpad" = "Перевести фокус на поле поиска в верхней части Launchpad";
+
+"Free" = "Бесплатно";
+
+"General" = "Основные";
+
+"Grid Columns" = "Столбцы сетки";
+
+"Grid Navigation" = "Навигация по сетке";
+
+"Grid Rows" = "Строки сетки";
+
+"Grid-Based Positioning" = "Позиционирование по сетке";
+
+"Hide" = "Скрыть";
+
+"Hide Dock Icon" = "Скрыть значок в Dock";
+
+"Hide Title" = "Скрыть заголовок";
+
+"Hide settings on launch" = "Скрывать настройки при запуске";
+
+"Highlight the screen where the mouse is located to focus on the current working area." = "Подсветить экран, на котором находится курсор, чтобы сфокусироваться на текущей рабочей области.";
+
+"Hold %@ and use %@ to move windows, select text, and move files." = "Удерживайте %1$@ и используйте %2$@, чтобы перемещать окна, выделять текст и переносить файлы.";
+
+"Icon Size" = "Размер значка";
+
+"In Keyboard & Mouse mode, press %@ to show or hide Launchpad (requires Show Launchpad on)" = "В режиме «Клавиатура и мышь» нажмите %@, чтобы показать или скрыть Launchpad (требуется включённая опция «Показывать Launchpad»)";
+
+"Install " = "Установить ";
+
+"Keyboard Mouse Exit" = "Выход из режима клавиатурной мыши";
+
+"Keyboard Mouse Exit Mode" = "Режим выхода из клавиатурной мыши";
+
+"Keyboard Mouse Mode Prompt" = "Подсказка режима клавиатурной мыши";
+
+"Keyboard-Mouse Mode Notification Settings" = "Настройки уведомлений режима клавиатурной мыши";
+
+"Launch Pad" = "Launchpad";
+
+"Launch at login" = "Запускать при входе в систему";
+
+"Left" = "Слева";
+
+"Letter Color" = "Цвет буквы";
+
+"Letter Match Color" = "Цвет совпадающей буквы";
+
+"Main Window" = "Основное окно";
+
+"Max Boost Speed" = "Максимальная скорость ускорения";
+
+"Mouse %@ shortcut" = "Сочетание для мыши %@";
+
+"Mouse Wheel" = "Колёсико мыши";
+
+"MousioHint" = "MousioHint";
+
+"Move Mouse with Keyboard" = "Перемещать мышь с помощью клавиатуры";
+
+"My Apps" = "Мои приложения";
+
+"Natural Scrolling" = "Естественная прокрутка";
+
+"No external display connected, focus screen functionality is not required." = "Внешний дисплей не подключён, функция экрана фокуса не требуется.";
+
+"None" = "Нет";
+
+/* Default OK button */
+"OK" = "ОК";
+
+"Open " = "Открыть ";
+
+"Open %@" = "Открыть %@";
+
+"Other Settings" = "Прочие настройки";
+
+"Page dots: type digits for pages 1–99 (e.g. 1, 12). Pages 100+ use one letter + one digit (e.g. A0, B3)." = "Точки страниц: вводите цифры для страниц 1–99 (например, 1, 12). Для страниц 100+ используйте одну букву и одну цифру (например, A0, B3).";
+
+"Position on screen" = "Положение на экране";
+
+"Press %@ to clear the current letter input for key positioning." = "Нажмите %@, чтобы очистить текущее буквенное поле для позиционирования клавиш.";
+
+"Press the" = "Нажмите";
+
+"Press the %@ key to enable grid-based mouse positioning" = "Нажмите клавишу %@, чтобы включить позиционирование мыши по сетке";
+
+"Preview Launchpad" = "Предпросмотр Launchpad";
+
+"Previous / next page" = "Предыдущая / следующая страница";
+
+"Previous / next page (alternative)" = "Предыдущая / следующая страница (альтернатива)";
+
+"Privacy & Security" = "Конфиденциальность и безопасность";
+
+"Pro" = "Pro";
+
+"Quit %@" = "Выйти из %@";
+
+"Remove" = "Удалить";
+
+"Restart %@" = "Перезапустить %@";
+
+"Right" = "Справа";
+
+"Rows" = "Строки";
+
+"Search" = "Поиск";
+
+"Settings..." = "Настройки...";
+
+"Shortcut Letter Colors" = "Цвета букв сочетаний";
+
+"Shortcut hints for precise keyboard-driven cursor control" = "Подсказки сочетаний клавиш для точного управления курсором с клавиатуры";
+
+"Shortcuts" = "Сочетания клавиш";
+
+"Show Launchpad" = "Показывать Launchpad";
+
+"Show Only Added Apps" = "Показывать только добавленные приложения";
+
+"Simulate a left-click at the current cursor position." = "Сымитировать левый клик в текущей позиции курсора.";
+
+"Snap Cursor to Grid" = "Привязать курсор к сетке";
+
+"Social Accounts" = "Социальные сети";
+
+"Switch Applications" = "Переключать приложения";
+
+"System Preferences" = "Системные настройки";
+
+"The application is not running. Click to launch it." = "Приложение не запущено. Нажмите, чтобы запустить его.";
+
+"These colors are shared with Snap Cursor to Grid." = "Эти цвета используются совместно с «Привязать курсор к сетке».";
+
+"To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "Чтобы включить возможность отслеживать сочетания клавиш и перемещать мышь, предоставьте приложению доступ к специальным возможностям.";
+
+"Type letter shortcuts on icons to open apps. Press %@ to clear input and re-type." = "Введите буквенные сочетания на значках, чтобы открывать приложения. Нажмите %@, чтобы очистить ввод и ввести заново.";
+
+"Unfocus search when focused; otherwise exit Keyboard & Mouse mode" = "Снять фокус с поиска, если он активен; иначе выйти из режима «Клавиатура и мышь»";
+
+"Unlock all Features" = "Разблокировать все функции";
+
+"Use %@ to move the cursor, and press %@ to exit." = "Используйте %1$@ для перемещения курсора и нажмите %2$@, чтобы выйти.";
+
+"Version %@ (%@)" = "Версия %1$@ (%2$@)";
+
+"When Keyboard and Mouse Mode is enabled, a **Dock** like quick launcher will be displayed." = "Когда включён режим «Клавиатура и мышь», будет отображаться быстрый запускатель, похожий на **Dock**.";
+
+"X(Twitter)" = "X (Twitter)";
+
+"You are now in keyboard-controlled mouse mode." = "Теперь вы в режиме управления мышью с клавиатуры.";
+
+"You can assign %@ function keys to activate Hint mode with a single press." = "Вы можете назначить %@ функциональных клавиш для активации режима подсказок одним нажатием.";
+
+"You have granted the app Accessibility permission, enabling the ability to listen for shortcuts and move the mouse." = "Вы предоставили приложению доступ к специальным возможностям, что позволяет отслеживать сочетания клавиш и перемещать мышь.";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"\\" = "\\";
+
+"left-click" = "левый клик";
+
+"or" = "или";
+
+"right-click" = "правый клик";

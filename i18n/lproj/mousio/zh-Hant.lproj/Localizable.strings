@@ -1,0 +1,274 @@
+" (Hint Off)" = "（提示關閉）";
+
+" (Off)" = "（關閉）";
+
+" (On)" = "（開啟）";
+
+" px/step" = " 像素/步";
+
+"%@" = "%@";
+
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> 新增 **%4$@** 並檢查";
+
+"%@ Needs Accessibility Access" = "%@ 需要協助工具權限";
+
+"%@ the %@ key to enter keyboard mouse mode." = "%1$@ %2$@ 鍵即可進入鍵盤滑鼠模式。";
+
+"%@(ms)" = "%@(毫秒)";
+
+"%lld" = "%lld";
+
+"About" = "關於";
+
+"About %@" = "關於 %@";
+
+"Accessibility" = "輔助使用";
+
+"Add" = "新增";
+
+"Add Application" = "新增應用程式";
+
+"Always On Desktop" = "始終顯示於桌面";
+
+"App Navigation" = "應用程式導覽";
+
+"App Navigation Configuration" = "應用程式導覽設定";
+
+"Are you sure you want to delete %@?" = "確定要刪除 %@ 嗎？";
+
+"Arrow Key Layout" = "方向鍵配置";
+
+"Arrow Key Navigation" = "方向鍵導覽";
+
+"Arrow Keys" = "方向鍵";
+
+"Auto Exit After Double Click" = "雙擊後自動退出";
+
+"Auto Exit Keyboard Control Mode" = "鍵盤控制模式自動退出";
+
+"Auto-Hide Grid After Locating" = "定位後自動隱藏格線";
+
+"Auto-click on Exact Match" = "完全匹配時自動點擊";
+
+"Background Color" = "背景顏色";
+
+"Border Color" = "邊框顏色";
+
+"Border Width" = "邊框寬度";
+
+"Bottom" = "下方";
+
+"C" = "C";
+
+"Cancel" = "取消";
+
+"Clear" = "清除";
+
+"Columns" = "欄";
+
+"Contact" = "聯絡方式";
+
+"Content moves in the direction of movement" = "內容會隨移動方向移動";
+
+"Cycle Through Windows of Current App" = "切換目前應用程式的視窗";
+
+"Delete" = "刪除";
+
+"Double-Tap Speed" = "雙擊速度";
+
+"Double-press" = "連按兩次";
+
+"E-mail" = "電子郵件";
+
+"Element Navigation" = "元件導覽";
+
+"Enable App Navigation" = "啟用應用程式導覽";
+
+"Enable Focus Screen" = "啟用聚焦畫面";
+
+"Enable Grid" = "啟用格線";
+
+"Enable Grid Mode by Default" = "預設啟用格線模式";
+
+"Enable Keyboard Mouse" = "啟用鍵盤滑鼠";
+
+"Enable Keyboard Mouse Mode" = "啟用鍵盤滑鼠模式";
+
+"Exit Launchpad" = "退出啟動台";
+
+"Exit On Click" = "點擊後退出";
+
+"F1~F4" = "F1～F4";
+
+"Feedback" = "意見回饋";
+
+"Focus Screen" = "聚焦畫面";
+
+"Focus the search field at the top of Launchpad" = "聚焦啟動台頂部的搜尋欄";
+
+"Free" = "免費";
+
+"General" = "一般";
+
+"Grid Columns" = "格線欄數";
+
+"Grid Navigation" = "格線導覽";
+
+"Grid Rows" = "格線列數";
+
+"Grid-Based Positioning" = "基於格線的位置設定";
+
+"Hide" = "隱藏";
+
+"Hide Dock Icon" = "隱藏 Dock 圖示";
+
+"Hide Title" = "隱藏標題";
+
+"Hide settings on launch" = "啟動時隱藏設定";
+
+"Highlight the screen where the mouse is located to focus on the current working area." = "高亮顯示滑鼠所在的畫面，聚焦目前的工作區域。";
+
+"Hold %@ and use %@ to move windows, select text, and move files." = "按住 %1$@ 並使用 %2$@，即可移動視窗、選取文字與移動檔案。";
+
+"Icon Size" = "圖示大小";
+
+"In Keyboard & Mouse mode, press %@ to show or hide Launchpad (requires Show Launchpad on)" = "在鍵盤與滑鼠模式中，按下 %@ 可顯示或隱藏啟動台（需開啟「顯示啟動台」）。";
+
+"Install " = "安裝 ";
+
+"Keyboard Mouse Exit" = "鍵盤滑鼠退出";
+
+"Keyboard Mouse Exit Mode" = "鍵盤滑鼠退出模式";
+
+"Keyboard Mouse Mode Prompt" = "鍵盤滑鼠模式提示";
+
+"Keyboard-Mouse Mode Notification Settings" = "鍵盤滑鼠模式通知設定";
+
+"Launch Pad" = "啟動台";
+
+"Launch at login" = "登入時啟動";
+
+"Left" = "左側";
+
+"Letter Color" = "字母顏色";
+
+"Letter Match Color" = "字母匹配顏色";
+
+"Main Window" = "主視窗";
+
+"Max Boost Speed" = "最大加速速度";
+
+"Mouse %@ shortcut" = "滑鼠 %@ 快捷鍵";
+
+"Mouse Wheel" = "滑鼠滾輪";
+
+"MousioHint" = "MousioHint";
+
+"Move Mouse with Keyboard" = "使用鍵盤移動滑鼠";
+
+"My Apps" = "我的應用程式";
+
+"Natural Scrolling" = "自然捲動";
+
+"No external display connected, focus screen functionality is not required." = "未連接外接顯示器，因此不需要聚焦畫面功能。";
+
+"None" = "無";
+
+/* Default OK button */
+"OK" = "確定";
+
+"Open " = "開啟 ";
+
+"Open %@" = "開啟 %@";
+
+"Other Settings" = "其他設定";
+
+"Page dots: type digits for pages 1–99 (e.g. 1, 12). Pages 100+ use one letter + one digit (e.g. A0, B3)." = "頁點：輸入 1–99 的數字表示頁碼（例如 1、12）。100 以上則使用一個字母加一個數字（例如 A0、B3）。";
+
+"Position on screen" = "在畫面上的位置";
+
+"Press %@ to clear the current letter input for key positioning." = "按下 %@ 可清除目前用於定位鍵位的字母輸入。";
+
+"Press the" = "按下";
+
+"Press the %@ key to enable grid-based mouse positioning" = "按下 %@ 鍵即可啟用基於格線的滑鼠定位";
+
+"Preview Launchpad" = "預覽啟動台";
+
+"Previous / next page" = "上一頁 / 下一頁";
+
+"Previous / next page (alternative)" = "上一頁 / 下一頁（替代）";
+
+"Privacy & Security" = "隱私與安全";
+
+"Pro" = "Pro";
+
+"Quit %@" = "退出 %@";
+
+"Remove" = "移除";
+
+"Restart %@" = "重新啟動 %@";
+
+"Right" = "右側";
+
+"Rows" = "列";
+
+"Search" = "搜尋";
+
+"Settings..." = "設定...";
+
+"Shortcut Letter Colors" = "快捷鍵字母顏色";
+
+"Shortcut hints for precise keyboard-driven cursor control" = "用於精準鍵盤控制游標的快捷鍵提示";
+
+"Shortcuts" = "快捷鍵";
+
+"Show Launchpad" = "顯示啟動台";
+
+"Show Only Added Apps" = "只顯示已新增的應用程式";
+
+"Simulate a left-click at the current cursor position." = "在目前游標位置模擬左鍵點擊。";
+
+"Snap Cursor to Grid" = "將游標貼齊格線";
+
+"Social Accounts" = "社群帳號";
+
+"Switch Applications" = "切換應用程式";
+
+"System Preferences" = "系統偏好設定";
+
+"The application is not running. Click to launch it." = "應用程式目前未執行。點擊即可啟動。";
+
+"These colors are shared with Snap Cursor to Grid." = "這些顏色與「將游標貼齊格線」共用。";
+
+"To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "若要讓應用程式偵聽快捷鍵並移動滑鼠，請授予其協助工具權限。";
+
+"Type letter shortcuts on icons to open apps. Press %@ to clear input and re-type." = "在圖示上輸入字母快捷鍵即可開啟應用程式。按 %@ 可清除輸入並重新輸入。";
+
+"Unfocus search when focused; otherwise exit Keyboard & Mouse mode" = "若搜尋欄已聚焦，則取消聚焦；否則退出鍵盤與滑鼠模式";
+
+"Unlock all Features" = "解鎖所有功能";
+
+"Use %@ to move the cursor, and press %@ to exit." = "使用 %1$@ 移動游標，並按下 %2$@ 離開。";
+
+"Version %@ (%@)" = "版本 %1$@ (%2$@)";
+
+"When Keyboard and Mouse Mode is enabled, a **Dock** like quick launcher will be displayed." = "啟用鍵盤與滑鼠模式後，會顯示類似 **Dock** 的快速啟動工具。";
+
+"X(Twitter)" = "X（Twitter）";
+
+"You are now in keyboard-controlled mouse mode." = "您現在已進入鍵盤控制式滑鼠模式。";
+
+"You can assign %@ function keys to activate Hint mode with a single press." = "您可以指定 %@ 個功能鍵，單擊即可啟用提示模式。";
+
+"You have granted the app Accessibility permission, enabling the ability to listen for shortcuts and move the mouse." = "您已授予應用程式協助工具權限，現在可以偵聽快捷鍵並移動滑鼠。";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"\\" = "\\";
+
+"left-click" = "左鍵點擊";
+
+"or" = "或";
+
+"right-click" = "右鍵點擊";

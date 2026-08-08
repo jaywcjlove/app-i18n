@@ -1,0 +1,274 @@
+" (Hint Off)" = "（ヒントオフ）";
+
+" (Off)" = "（オフ）";
+
+" (On)" = "（オン）";
+
+" px/step" = " px/ステップ";
+
+"%@" = "%@";
+
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@** を追加して確認";
+
+"%@ Needs Accessibility Access" = "%@ にはアクセシビリティへのアクセスが必要です";
+
+"%@ the %@ key to enter keyboard mouse mode." = "%1$@ %2$@ キーでキーボードマウスモードに入ります。";
+
+"%@(ms)" = "%@(ms)";
+
+"%lld" = "%lld";
+
+"About" = "情報";
+
+"About %@" = "%@ について";
+
+"Accessibility" = "アクセシビリティ";
+
+"Add" = "追加";
+
+"Add Application" = "アプリを追加";
+
+"Always On Desktop" = "常にデスクトップに表示";
+
+"App Navigation" = "アプリナビゲーション";
+
+"App Navigation Configuration" = "アプリナビゲーション設定";
+
+"Are you sure you want to delete %@?" = "%@ を削除してもよろしいですか？";
+
+"Arrow Key Layout" = "矢印キーのレイアウト";
+
+"Arrow Key Navigation" = "矢印キーによるナビゲーション";
+
+"Arrow Keys" = "矢印キー";
+
+"Auto Exit After Double Click" = "ダブルクリック後に自動終了";
+
+"Auto Exit Keyboard Control Mode" = "配置後にキーボード操作モードを自動終了";
+
+"Auto-Hide Grid After Locating" = "配置後にグリッドを自動非表示";
+
+"Auto-click on Exact Match" = "完全一致時に自動クリック";
+
+"Background Color" = "背景色";
+
+"Border Color" = "枠線色";
+
+"Border Width" = "枠線の太さ";
+
+"Bottom" = "下";
+
+"C" = "C";
+
+"Cancel" = "キャンセル";
+
+"Clear" = "クリア";
+
+"Columns" = "列";
+
+"Contact" = "お問い合わせ";
+
+"Content moves in the direction of movement" = "内容は移動方向に追従します";
+
+"Cycle Through Windows of Current App" = "現在のアプリのウィンドウを切り替える";
+
+"Delete" = "削除";
+
+"Double-Tap Speed" = "ダブルタップ速度";
+
+"Double-press" = "ダブルプレス";
+
+"E-mail" = "メール";
+
+"Element Navigation" = "要素ナビゲーション";
+
+"Enable App Navigation" = "アプリナビゲーションを有効にする";
+
+"Enable Focus Screen" = "フォーカス画面を有効にする";
+
+"Enable Grid" = "グリッドを有効にする";
+
+"Enable Grid Mode by Default" = "デフォルトでグリッドモードを有効にする";
+
+"Enable Keyboard Mouse" = "キーボードマウスを有効にする";
+
+"Enable Keyboard Mouse Mode" = "キーボードマウスモードを有効にする";
+
+"Exit Launchpad" = "Launchpad を終了";
+
+"Exit On Click" = "クリックで終了";
+
+"F1~F4" = "F1〜F4";
+
+"Feedback" = "フィードバック";
+
+"Focus Screen" = "フォーカス画面";
+
+"Focus the search field at the top of Launchpad" = "Launchpad の上部にある検索欄にフォーカス";
+
+"Free" = "無料";
+
+"General" = "一般";
+
+"Grid Columns" = "グリッドの列";
+
+"Grid Navigation" = "グリッドナビゲーション";
+
+"Grid Rows" = "グリッドの行";
+
+"Grid-Based Positioning" = "グリッドベースの配置";
+
+"Hide" = "非表示";
+
+"Hide Dock Icon" = "Dock アイコンを隠す";
+
+"Hide Title" = "タイトルを隠す";
+
+"Hide settings on launch" = "起動時に設定を隠す";
+
+"Highlight the screen where the mouse is located to focus on the current working area." = "マウスがある画面を強調表示して、現在の作業領域にフォーカスします。";
+
+"Hold %@ and use %@ to move windows, select text, and move files." = "%1$@ を押しながら %2$@ を使って、ウィンドウを移動したり、テキストを選択したり、ファイルを移動したりします。";
+
+"Icon Size" = "アイコンサイズ";
+
+"In Keyboard & Mouse mode, press %@ to show or hide Launchpad (requires Show Launchpad on)" = "キーボード＆マウスモードでは、%@ を押すと Launchpad を表示・非表示できます（「Launchpad を表示」がオン必要）。";
+
+"Install " = "インストール ";
+
+"Keyboard Mouse Exit" = "キーボードマウス終了";
+
+"Keyboard Mouse Exit Mode" = "キーボードマウス終了モード";
+
+"Keyboard Mouse Mode Prompt" = "キーボードマウスモードの通知";
+
+"Keyboard-Mouse Mode Notification Settings" = "キーボードマウスモード通知設定";
+
+"Launch Pad" = "Launchpad";
+
+"Launch at login" = "ログイン時に起動";
+
+"Left" = "左";
+
+"Letter Color" = "文字色";
+
+"Letter Match Color" = "一致文字色";
+
+"Main Window" = "メインウィンドウ";
+
+"Max Boost Speed" = "最大加速速度";
+
+"Mouse %@ shortcut" = "マウス %@ ショートカット";
+
+"Mouse Wheel" = "マウスホイール";
+
+"MousioHint" = "MousioHint";
+
+"Move Mouse with Keyboard" = "キーボードでマウスを動かす";
+
+"My Apps" = "マイアプリ";
+
+"Natural Scrolling" = "自然なスクロール";
+
+"No external display connected, focus screen functionality is not required." = "外部ディスプレイが接続されていないため、フォーカス画面機能は不要です。";
+
+"None" = "なし";
+
+/* Default OK button */
+"OK" = "OK";
+
+"Open " = "開く ";
+
+"Open %@" = "%@ を開く";
+
+"Other Settings" = "その他の設定";
+
+"Page dots: type digits for pages 1–99 (e.g. 1, 12). Pages 100+ use one letter + one digit (e.g. A0, B3)." = "ページドット: 1〜99 ページは数字を入力（例: 1、12）。100 ページ以上は 1 文字＋1 桁（例: A0、B3）。";
+
+"Position on screen" = "画面上の位置";
+
+"Press %@ to clear the current letter input for key positioning." = "%@ を押すと、キー位置決め用の現在の文字入力をクリアできます。";
+
+"Press the" = "押す";
+
+"Press the %@ key to enable grid-based mouse positioning" = "%@ キーを押すとグリッドベースのマウス位置決めを有効にできます";
+
+"Preview Launchpad" = "Launchpad をプレビュー";
+
+"Previous / next page" = "前のページ / 次のページ";
+
+"Previous / next page (alternative)" = "前のページ / 次のページ（代替）";
+
+"Privacy & Security" = "プライバシーとセキュリティ";
+
+"Pro" = "Pro";
+
+"Quit %@" = "%@ を終了";
+
+"Remove" = "削除";
+
+"Restart %@" = "%@ を再起動";
+
+"Right" = "右";
+
+"Rows" = "行";
+
+"Search" = "検索";
+
+"Settings..." = "設定...";
+
+"Shortcut Letter Colors" = "ショートカット文字色";
+
+"Shortcut hints for precise keyboard-driven cursor control" = "キーボード操作による正確なカーソル制御用のショートカットヒント";
+
+"Shortcuts" = "ショートカット";
+
+"Show Launchpad" = "Launchpad を表示";
+
+"Show Only Added Apps" = "追加したアプリだけを表示";
+
+"Simulate a left-click at the current cursor position." = "現在のカーソル位置で左クリックをシミュレートします。";
+
+"Snap Cursor to Grid" = "カーソルをグリッドに合わせる";
+
+"Social Accounts" = "ソーシャルアカウント";
+
+"Switch Applications" = "アプリを切り替える";
+
+"System Preferences" = "システム環境設定";
+
+"The application is not running. Click to launch it." = "アプリケーションは起動していません。クリックして起動してください。";
+
+"These colors are shared with Snap Cursor to Grid." = "これらの色は「カーソルをグリッドに合わせる」と共有されています。";
+
+"To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "ショートカットを監視してマウスを動かす機能を有効にするには、アプリにアクセシビリティ権限を付与してください。";
+
+"Type letter shortcuts on icons to open apps. Press %@ to clear input and re-type." = "アイコンに文字ショートカットを入力してアプリを開きます。%@ を押すと入力を消去してやり直せます。";
+
+"Unfocus search when focused; otherwise exit Keyboard & Mouse mode" = "検索欄がフォーカスされている場合はフォーカスを外し、そうでなければキーボード＆マウスモードを終了します";
+
+"Unlock all Features" = "すべての機能をアンロック";
+
+"Use %@ to move the cursor, and press %@ to exit." = "%1$@ でカーソルを動かし、%2$@ を押して終了します。";
+
+"Version %@ (%@)" = "バージョン %1$@ (%2$@)";
+
+"When Keyboard and Mouse Mode is enabled, a **Dock** like quick launcher will be displayed." = "キーボード＆マウスモードが有効なときは、**Dock** のようなクイックランチャーが表示されます。";
+
+"X(Twitter)" = "X（Twitter）";
+
+"You are now in keyboard-controlled mouse mode." = "キーボード制御のマウスモードになりました。";
+
+"You can assign %@ function keys to activate Hint mode with a single press." = "%@ 個のファンクションキーを割り当てて、1 回押すだけでヒントモードを有効にできます。";
+
+"You have granted the app Accessibility permission, enabling the ability to listen for shortcuts and move the mouse." = "アプリにアクセシビリティ権限を付与したため、ショートカットを監視してマウスを動かせるようになりました。";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"\\" = "\\";
+
+"left-click" = "左クリック";
+
+"or" = "または";
+
+"right-click" = "右クリック";

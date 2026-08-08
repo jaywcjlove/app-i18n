@@ -1,0 +1,274 @@
+" (Hint Off)" = " (힌트 끄기)";
+
+" (Off)" = " (끄기)";
+
+" (On)" = " (켜기)";
+
+" px/step" = " px/단계";
+
+"%@" = "%@";
+
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@**를 추가하고 확인";
+
+"%@ Needs Accessibility Access" = "%@에 접근성 권한이 필요합니다";
+
+"%@ the %@ key to enter keyboard mouse mode." = "%1$@ %2$@ 키를 눌러 키보드 마우스 모드로 진입합니다.";
+
+"%@(ms)" = "%@(ms)";
+
+"%lld" = "%lld";
+
+"About" = "정보";
+
+"About %@" = "%@ 정보";
+
+"Accessibility" = "접근성";
+
+"Add" = "추가";
+
+"Add Application" = "앱 추가";
+
+"Always On Desktop" = "항상 데스크톱에 표시";
+
+"App Navigation" = "앱 탐색";
+
+"App Navigation Configuration" = "앱 탐색 설정";
+
+"Are you sure you want to delete %@?" = "%@을(를) 삭제하시겠습니까?";
+
+"Arrow Key Layout" = "방향키 배치";
+
+"Arrow Key Navigation" = "방향키 탐색";
+
+"Arrow Keys" = "방향키";
+
+"Auto Exit After Double Click" = "더블 클릭 후 자동 종료";
+
+"Auto Exit Keyboard Control Mode" = "키보드 제어 모드 자동 종료";
+
+"Auto-Hide Grid After Locating" = "위치 지정 후 격자 자동 숨김";
+
+"Auto-click on Exact Match" = "정확히 일치하면 자동 클릭";
+
+"Background Color" = "배경색";
+
+"Border Color" = "테두리 색";
+
+"Border Width" = "테두리 두께";
+
+"Bottom" = "아래";
+
+"C" = "C";
+
+"Cancel" = "취소";
+
+"Clear" = "지우기";
+
+"Columns" = "열";
+
+"Contact" = "문의";
+
+"Content moves in the direction of movement" = "움직임 방향으로 내용이 이동합니다";
+
+"Cycle Through Windows of Current App" = "현재 앱의 창을 순환";
+
+"Delete" = "삭제";
+
+"Double-Tap Speed" = "더블 탭 속도";
+
+"Double-press" = "더블 프레스";
+
+"E-mail" = "이메일";
+
+"Element Navigation" = "요소 탐색";
+
+"Enable App Navigation" = "앱 탐색 사용";
+
+"Enable Focus Screen" = "포커스 화면 사용";
+
+"Enable Grid" = "격자 사용";
+
+"Enable Grid Mode by Default" = "기본적으로 격자 모드 사용";
+
+"Enable Keyboard Mouse" = "키보드 마우스 사용";
+
+"Enable Keyboard Mouse Mode" = "키보드 마우스 모드 사용";
+
+"Exit Launchpad" = "런치패드 종료";
+
+"Exit On Click" = "클릭 시 종료";
+
+"F1~F4" = "F1~F4";
+
+"Feedback" = "피드백";
+
+"Focus Screen" = "포커스 화면";
+
+"Focus the search field at the top of Launchpad" = "런치패드 상단의 검색창에 포커스";
+
+"Free" = "무료";
+
+"General" = "일반";
+
+"Grid Columns" = "격자 열 수";
+
+"Grid Navigation" = "격자 탐색";
+
+"Grid Rows" = "격자 행 수";
+
+"Grid-Based Positioning" = "격자 기반 위치 지정";
+
+"Hide" = "숨기기";
+
+"Hide Dock Icon" = "독 아이콘 숨기기";
+
+"Hide Title" = "제목 숨기기";
+
+"Hide settings on launch" = "실행 시 설정 숨기기";
+
+"Highlight the screen where the mouse is located to focus on the current working area." = "마우스가 있는 화면을 강조해 현재 작업 영역에 초점을 맞춥니다.";
+
+"Hold %@ and use %@ to move windows, select text, and move files." = "%1$@를 누른 채 %2$@를 사용해 창을 이동하고, 텍스트를 선택하고, 파일을 옮깁니다.";
+
+"Icon Size" = "아이콘 크기";
+
+"In Keyboard & Mouse mode, press %@ to show or hide Launchpad (requires Show Launchpad on)" = "키보드 및 마우스 모드에서 %@를 눌러 런치패드를 표시하거나 숨깁니다(런치패드 표시가 켜져 있어야 함).";
+
+"Install " = "설치 ";
+
+"Keyboard Mouse Exit" = "키보드 마우스 종료";
+
+"Keyboard Mouse Exit Mode" = "키보드 마우스 종료 모드";
+
+"Keyboard Mouse Mode Prompt" = "키보드 마우스 모드 안내";
+
+"Keyboard-Mouse Mode Notification Settings" = "키보드-마우스 모드 알림 설정";
+
+"Launch Pad" = "런치패드";
+
+"Launch at login" = "로그인 시 실행";
+
+"Left" = "왼쪽";
+
+"Letter Color" = "문자 색상";
+
+"Letter Match Color" = "일치 문자 색상";
+
+"Main Window" = "메인 창";
+
+"Max Boost Speed" = "최대 부스트 속도";
+
+"Mouse %@ shortcut" = "마우스 %@ 단축키";
+
+"Mouse Wheel" = "마우스 휠";
+
+"MousioHint" = "MousioHint";
+
+"Move Mouse with Keyboard" = "키보드로 마우스 이동";
+
+"My Apps" = "내 앱";
+
+"Natural Scrolling" = "자연스러운 스크롤";
+
+"No external display connected, focus screen functionality is not required." = "외부 디스플레이가 연결되지 않아 포커스 화면 기능은 필요하지 않습니다.";
+
+"None" = "없음";
+
+/* Default OK button */
+"OK" = "확인";
+
+"Open " = "열기 ";
+
+"Open %@" = "%@ 열기";
+
+"Other Settings" = "기타 설정";
+
+"Page dots: type digits for pages 1–99 (e.g. 1, 12). Pages 100+ use one letter + one digit (e.g. A0, B3)." = "페이지 도트: 1–99페이지는 숫자 입력(예: 1, 12). 100페이지 이상은 문자 1개와 숫자 1개(예: A0, B3) 사용.";
+
+"Position on screen" = "화면상 위치";
+
+"Press %@ to clear the current letter input for key positioning." = "%@를 눌러 현재 키 위치 지정용 문자 입력을 지웁니다.";
+
+"Press the" = "누르기";
+
+"Press the %@ key to enable grid-based mouse positioning" = "%@ 키를 눌러 격자 기반 마우스 위치 지정을 사용합니다";
+
+"Preview Launchpad" = "런치패드 미리 보기";
+
+"Previous / next page" = "이전 / 다음 페이지";
+
+"Previous / next page (alternative)" = "이전 / 다음 페이지(대체)";
+
+"Privacy & Security" = "개인정보 및 보안";
+
+"Pro" = "Pro";
+
+"Quit %@" = "%@ 종료";
+
+"Remove" = "제거";
+
+"Restart %@" = "%@ 다시 시작";
+
+"Right" = "오른쪽";
+
+"Rows" = "행";
+
+"Search" = "검색";
+
+"Settings..." = "설정...";
+
+"Shortcut Letter Colors" = "단축키 문자 색상";
+
+"Shortcut hints for precise keyboard-driven cursor control" = "키보드로 정밀하게 커서를 조작하기 위한 단축키 힌트";
+
+"Shortcuts" = "단축키";
+
+"Show Launchpad" = "런치패드 표시";
+
+"Show Only Added Apps" = "추가한 앱만 표시";
+
+"Simulate a left-click at the current cursor position." = "현재 커서 위치에서 왼쪽 클릭을 시뮬레이션합니다.";
+
+"Snap Cursor to Grid" = "커서를 격자에 맞추기";
+
+"Social Accounts" = "소셜 계정";
+
+"Switch Applications" = "앱 전환";
+
+"System Preferences" = "시스템 환경설정";
+
+"The application is not running. Click to launch it." = "앱이 실행 중이지 않습니다. 클릭하여 실행하세요.";
+
+"These colors are shared with Snap Cursor to Grid." = "이 색상은 '커서를 격자에 맞추기'와 공유됩니다.";
+
+"To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "단축키를 감지하고 마우스를 움직일 수 있게 하려면 앱에 접근성 권한을 부여하세요.";
+
+"Type letter shortcuts on icons to open apps. Press %@ to clear input and re-type." = "아이콘에 문자 단축키를 입력해 앱을 열 수 있습니다. %@를 눌러 입력을 지우고 다시 입력하세요.";
+
+"Unfocus search when focused; otherwise exit Keyboard & Mouse mode" = "검색창이 포커스된 경우 포커스를 해제하고, 그렇지 않으면 키보드 및 마우스 모드를 종료합니다";
+
+"Unlock all Features" = "모든 기능 잠금 해제";
+
+"Use %@ to move the cursor, and press %@ to exit." = "%1$@로 커서를 이동하고, %2$@를 눌러 종료합니다.";
+
+"Version %@ (%@)" = "버전 %1$@ (%2$@)";
+
+"When Keyboard and Mouse Mode is enabled, a **Dock** like quick launcher will be displayed." = "키보드 및 마우스 모드가 켜지면 **Dock** 같은 빠른 실행 도구가 표시됩니다.";
+
+"X(Twitter)" = "X(트위터)";
+
+"You are now in keyboard-controlled mouse mode." = "이제 키보드로 제어하는 마우스 모드입니다.";
+
+"You can assign %@ function keys to activate Hint mode with a single press." = "%@개의 기능 키를 할당해 한 번의 눌림으로 힌트 모드를 활성화할 수 있습니다.";
+
+"You have granted the app Accessibility permission, enabling the ability to listen for shortcuts and move the mouse." = "앱에 접근성 권한을 부여해 단축키를 감지하고 마우스를 움직일 수 있게 되었습니다.";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"\\" = "\\";
+
+"left-click" = "왼쪽 클릭";
+
+"or" = "또는";
+
+"right-click" = "오른쪽 클릭";
