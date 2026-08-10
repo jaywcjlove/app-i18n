@@ -1,0 +1,218 @@
+"%@" = "%@";
+
+"%@ %@ is currently the newest version available." = "%1$@ %2$@ は現在利用できる最新バージョンです。";
+
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@** を追加して確認";
+
+"%@ v%@" = "%1$@ v%2$@";
+
+"%@%%" = "%@%%";
+
+"%lld" = "%lld";
+
+"+0" = "+0";
+
+"+1" = "+1";
+
+"10 sounds free by default" = "標準で10種類のサウンドが無料";
+
+"A set of mechanical keyboard key sounds with minimal tonal differences, supporting both key press and release sounds." = "音色差の少ないメカニカルキーボード向けのキーサウンド集です。キーの押下時と離した時の両方に対応しています。";
+
+"About" = "情報";
+
+"All Keystrokes" = "すべてのキー入力";
+
+"Allow keyboard access" = "キーボードアクセスを許可";
+
+"Are you sure you want to delete the \"%@\" sound file?" = "\"%@\" のサウンドファイルを削除してもよろしいですか?";
+
+"Arrow Keys" = "矢印キー";
+
+"Assigned Key Sound" = "割り当て済みのキーサウンド";
+
+"Background Color" = "背景色";
+
+/* Both sounds */
+"Both Sounds" = "両方のサウンド";
+
+"Bottom" = "下";
+
+"Bottom Leading" = "左下";
+
+"Bottom Trailing" = "右下";
+
+"Cancel" = "キャンセル";
+
+"Center" = "中央";
+
+"Check for Updates..." = "アップデートを確認...";
+
+"Color" = "色";
+
+"Confirm delete sound?" = "サウンドを削除しますか?";
+
+"Contact" = "連絡先";
+
+"Corner Radius" = "角丸";
+
+"Custom sound settings" = "カスタムサウンド設定";
+
+"Disable key sound" = "キーサウンドを無効にする";
+
+"Disable the key sound for the selected key." = "選択したキーのサウンドを無効にします。";
+
+"Disabling keyboard access will prevent the key press sounds from playing." = "キーボードアクセスを無効にすると、キーを押したときのサウンドは再生されなくなります。";
+
+"Display Keyboard Keys" = "キーボードキーを表示";
+
+"Display the shortcut keys you pressed on the desktop." = "押したショートカットキーをデスクトップに表示します。";
+
+"Drag and drop an %@ file here to customize the key sound." = "%@ ファイルをここにドラッグ＆ドロップして、キーサウンドをカスタマイズします。";
+
+"E-mail" = "メール";
+
+"Feedback" = "フィードバック";
+
+"Filenames \"%@\" already exist. Please rename them or avoid adding duplicates." = "ファイル名 \"%@\" はすでに存在します。名前を変更するか、重複を追加しないでください。";
+
+"Font Size" = "文字サイズ";
+
+"Free" = "無料";
+
+"Function & Control Keys" = "ファンクションキーと制御キー";
+
+"General" = "一般";
+
+"Go to the App Store to update" = "App Store でアップデート";
+
+"Hide Dock Icon" = "Dock アイコンを非表示";
+
+"Hide menu bar icon" = "メニューバーアイコンを非表示";
+
+"Horizontal Padding" = "水平パディング";
+
+"Input Monitoring" = "入力監視";
+
+/* Key down sound */
+"Key Down Sound" = "キー押下サウンド";
+
+"Key Sound Effects" = "キーサウンド効果";
+
+/* Key up sound */
+"Key Up Sound" = "キー解放サウンド";
+
+"Keyboard Sound" = "キーボードサウンド";
+
+"Keypad Keys" = "テンキー";
+
+"Launch at login" = "ログイン時に起動";
+
+"Leading" = "左";
+
+"Letter Keys" = "文字キー";
+
+"Lock certain settings" = "一部の設定をロック";
+
+"MP3" = "MP3";
+
+"Main Window" = "メインウィンドウ";
+
+"Mechanical Keyboard Sound" = "メカニカルキーボードサウンド";
+
+"Modifier Keys" = "修飾キー";
+
+"Mouse Keys" = "マウスキー";
+
+"My Apps" = "マイアプリ";
+
+"New update available!" = "新しいアップデートがあります!";
+
+"Number Keys" = "数字キー";
+
+"OK" = "OK";
+
+"Off" = "オフ";
+
+"On" = "オン";
+
+"Only keystrokes that include modifier keys" = "修飾キーを含むキー入力のみ";
+
+"Only modifier key combinations" = "修飾キーの組み合わせのみ";
+
+"Opacity" = "不透明度";
+
+"Padding" = "余白";
+
+"Position" = "位置";
+
+"Pro" = "Pro";
+
+"Quit %@" = "%@ を終了";
+
+"Random Sound" = "ランダムサウンド";
+
+"Security and Privacy" = "セキュリティとプライバシー";
+
+"Select MP3 File" = "MP3 ファイルを選択";
+
+"Select keyboard key sounds from the list below, with **%lld** default sound settings available." = "以下の一覧からキーボードキーのサウンドを選択します。**%lld** 個の標準サウンド設定が利用できます。";
+
+"Set keyboard key sounds" = "キーボードキーサウンドを設定";
+
+"Set mouse click sounds" = "マウスクリックサウンドを設定";
+
+"Set the keyboard key" = "キーボードキーを設定";
+
+"Settings..." = "設定...";
+
+"Show" = "表示";
+
+"Social Accounts" = "ソーシャルアカウント";
+
+"Sounds" = "サウンド";
+
+"Special Character Keys" = "特殊文字キー";
+
+"System Preferences" = "システム設定";
+
+"The press and release sounds are defined by the file name suffixes %@ and %@, respectively." = "押下時と解放時のサウンドは、それぞれファイル名の接尾辞 %@ と %@ で定義されます。";
+
+"This app needs to monitor your keyboard input in order to play sounds and display the keys you press." = "このアプリは、サウンドを再生し、押したキーを表示するために、キーボード入力を監視する必要があります。";
+
+"This key has been muted." = "このキーはミュートされています。";
+
+"To enable sound playback and display of pressed keys, please grant the app Input Monitoring permission." = "サウンド再生と押したキーの表示を有効にするには、アプリに入力監視権限を付与してください。";
+
+"Top" = "上";
+
+"Top Leading" = "左上";
+
+"Top Trailing" = "右上";
+
+"Trailing" = "右";
+
+"Unassign key sound" = "キーサウンドの割り当てを解除";
+
+"Unlock all Features" = "すべての機能を解除";
+
+"Unmute and select a sound" = "ミュートを解除してサウンドを選択";
+
+"Version %@ (%@)" = "バージョン %1$@ (%2$@)";
+
+"Version History" = "バージョン履歴";
+
+"Vertical Padding" = "垂直パディング";
+
+"Volume" = "音量";
+
+"Watermark" = "ウォーターマーク";
+
+"Watermark: Powered by KeyClicker" = "ウォーターマーク: KeyClicker 提供";
+
+"X(Twitter)" = "X(Twitter)";
+
+"You can upgrade to %@, click to go to the App Store for update" = "%@ にアップグレードできます。クリックすると App Store でアップデートできます";
+
+"You’re up to date!" = "最新の状態です!";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [メール](emailurl) • [GitHub](githuburl)";
