@@ -3,5 +3,8 @@
 /* Bundle name */
 "CFBundleName" = "Vidwall";
 
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Vidwallは、ライブカメラ映像をデスクトップの壁紙として表示するためにカメラを使用します。";
+
 /* Copyright (human-readable) */
 "NSHumanReadableCopyright" = "著作権 © 2025 王楚江. 無断転載を禁じます。";

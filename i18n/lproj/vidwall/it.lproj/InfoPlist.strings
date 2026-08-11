@@ -3,5 +3,8 @@
 /* Bundle name */
 "CFBundleName" = "Vidwall";
 
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Vidwall usa la fotocamera per visualizzare un feed video in diretta come sfondo della scrivania.";
+
 /* Copyright (human-readable) */
 "NSHumanReadableCopyright" = "Copyright © 2025 Chujiang Wang. Tutti i diritti riservati.";

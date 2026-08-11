@@ -3,5 +3,8 @@
 /* Bundle name */
 "CFBundleName" = "Vidwall";
 
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Vidwall utilise la caméra pour afficher un flux vidéo en direct comme fond d'écran du bureau.";
+
 /* Copyright (human-readable) */
 "NSHumanReadableCopyright" = "Copyright © 2025 Chujiang Wang. Tous droits réservés.";

@@ -3,5 +3,8 @@
 /* Bundle name */
 "CFBundleName" = "Vidwall";
 
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Vidwall 會使用相機，將即時相機畫面顯示為你的桌面背景。";
+
 /* Copyright (human-readable) */
 "NSHumanReadableCopyright" = "版權所有 © 2025 Chujiang Wang。保留所有權利。";

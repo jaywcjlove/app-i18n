@@ -120,6 +120,66 @@
         }
       }
     },
+    "NSCameraUsageDescription" : {
+      "comment" : "Privacy - Camera Usage Description",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwall verwendet die Kamera, um einen Live-Kamerafeed als Desktop-Hintergrund anzuzeigen."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Vidwall uses the camera to display a live camera feed as your desktop wallpaper."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwall utilise la caméra pour afficher un flux vidéo en direct comme fond d'écran du bureau."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwall usa la fotocamera per visualizzare un feed video in diretta come sfondo della scrivania."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwallは、ライブカメラ映像をデスクトップの壁紙として表示するためにカメラを使用します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwall은 실시간 카메라 영상을 데스크탑 배경화면으로 표시하기 위해 카메라를 사용합니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwall использует камеру, чтобы показывать изображение с нее в реальном времени в качестве обоев рабочего стола."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwall 会使用相机，将实时相机画面显示为你的桌面壁纸。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidwall 會使用相機，將即時相機畫面顯示為你的桌面背景。"
+          }
+        }
+      }
+    },
     "NSHumanReadableCopyright" : {
       "comment" : "Copyright (human-readable)",
       "extractionState" : "extracted_with_value",

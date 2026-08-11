@@ -3,5 +3,8 @@
 /* Bundle name */
 "CFBundleName" = "Vidwall";
 
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Vidwall verwendet die Kamera, um einen Live-Kamerafeed als Desktop-Hintergrund anzuzeigen.";
+
 /* Copyright (human-readable) */
 "NSHumanReadableCopyright" = "Copyright © 2025 Chujiang Wang. Alle Rechte vorbehalten.";

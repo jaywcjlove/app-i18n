@@ -3,5 +3,8 @@
 /* Bundle name */
 "CFBundleName" = "Vidwall";
 
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Vidwall использует камеру, чтобы показывать изображение с нее в реальном времени в качестве обоев рабочего стола.";
+
 /* Copyright (human-readable) */
 "NSHumanReadableCopyright" = "Copyright © 2025 Chujiang Wang. Все права защищены.";
