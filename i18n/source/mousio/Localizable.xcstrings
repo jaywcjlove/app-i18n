@@ -2925,6 +2925,58 @@
         }
       }
     },
+    "Focus the search field (same as ⌘/)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suchfeld fokussieren (wie ⌘/)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner le champ de recherche (comme ⌘/)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona il campo di ricerca (come ⌘/)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "検索欄にフォーカス（⌘/ と同じ）"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "검색창에 포커스（⌘/와 동일）"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перейти в поле поиска (аналог ⌘/)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "聚焦搜索栏（与 ⌘/ 相同）"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "聚焦搜尋欄（與 ⌘/ 相同）"
+          }
+        }
+      }
+    },
     "Focus the search field at the top of Launchpad" : {
       "localizations" : {
         "de" : {
@@ -3659,54 +3711,54 @@
         }
       }
     },
-    "In Keyboard & Mouse mode, press %@ to show or hide Launchpad (requires Show Launchpad on)" : {
+    "In Keyboard & Mouse mode, press %@ to show or hide Launchpad (works even when Show Launchpad is off)" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Im Tastatur- und Mausmodus drücke %@, um Launchpad ein- oder auszublenden (erfordert „Launchpad anzeigen“)."
+            "value" : "Im Tastatur- und Mausmodus %@ drücken, um Launchpad ein- oder auszublenden (funktioniert auch wenn „Launchpad anzeigen\" deaktiviert ist)"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "En mode clavier et souris, appuyez sur %@ pour afficher ou masquer Launchpad (nécessite l'option Afficher Launchpad)."
+            "value" : "En mode Clavier et souris, appuyez sur %@ pour afficher ou masquer Launchpad (fonctionne même si Afficher Launchpad est désactivé)"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "In modalità tastiera e mouse, premi %@ per mostrare o nascondere Launchpad (richiede l'opzione Mostra Launchpad attivata)."
+            "value" : "In modalità Tastiera e mouse, premi %@ per mostrare o nascondere Launchpad (funziona anche quando Mostra Launchpad è disattivato)"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "キーボード＆マウスモードでは、%@ を押すと Launchpad を表示・非表示できます（「Launchpad を表示」がオン必要）。"
+            "value" : "キーボード＆マウスモードで、%@ を押して Launchpad を表示／非表示にします（「Launchpad を表示」がオフでも機能します）"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "키보드 및 마우스 모드에서 %@를 눌러 런치패드를 표시하거나 숨깁니다(런치패드 표시가 켜져 있어야 함)."
+            "value" : "키보드 & 마우스 모드에서 %@을 누르면 런치패드를 표시하거나 숨길 수 있습니다（런치패드 표시가 꺼진 경우에도 작동합니다）"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "В режиме «Клавиатура и мышь» нажмите %@, чтобы показать или скрыть Launchpad (требуется включённая опция «Показывать Launchpad»)"
+            "value" : "В режиме «Клавиатура и мышь» нажмите %@, чтобы показать или скрыть Launchpad (работает, даже если «Показывать Launchpad» отключено)"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在键盘和鼠标模式下，按 %@ 可显示或隐藏启动台（需开启“显示启动台”）"
+            "value" : "在键盘与鼠标模式下，按 %@ 显示或隐藏启动台（即使\"显示启动台\"已关闭也有效）"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在鍵盤與滑鼠模式中，按下 %@ 可顯示或隱藏啟動台（需開啟「顯示啟動台」）。"
+            "value" : "在鍵盤與滑鼠模式下，按 %@ 顯示或隱藏啟動台（即使「顯示啟動台」已關閉也有效）"
           }
         }
       }
