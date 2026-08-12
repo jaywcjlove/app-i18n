@@ -26,13 +26,21 @@
 
 "Add" = "添加";
 
+"Add App Hotkey" = "添加应用快捷键";
+
 "Add Application" = "添加应用";
 
+"Add a shortcut and an app, then save." = "添加快捷键和应用，然后保存。";
+
 "Always On Desktop" = "总在桌面显示";
+
+"App Hotkeys" = "应用快捷键";
 
 "App Navigation" = "应用导航";
 
 "App Navigation Configuration" = "导航设置";
+
+"Application" = "应用";
 
 "Are you sure you want to delete %@?" = "你确定要删除 %@ 吗？";
 
@@ -41,6 +49,8 @@
 "Arrow Key Navigation" = "方向键导航";
 
 "Arrow Keys" = "方向键";
+
+"Assign a global keyboard shortcut to open or activate an application. Shortcuts work even when Mousio is in the background." = "分配全局键盘快捷键以打开或激活应用。即使 Mousio 在后台运行，快捷键也能正常使用。";
 
 "Auto Exit After Double Click" = "双击后自动退出";
 
@@ -62,7 +72,13 @@
 
 "Cancel" = "取消";
 
+"Choose App…" = "选择应用…";
+
 "Clear" = "清除";
+
+"Click the button, then press a combination that includes ⌘, ⌃, or ⌥ (example: ⌘⇧A). Esc cancels recording." = "点击按钮，然后按下包含 ⌘、⌃ 或 ⌥ 的组合键（例如：⌘⇧A）。按 Esc 取消录制。";
+
+"Click, then press a shortcut with ⌘, ⌃, or ⌥" = "点击，然后按下包含 ⌘、⌃ 或 ⌥ 的快捷键";
 
 "Columns" = "列";
 
@@ -182,6 +198,8 @@
 
 "Natural Scrolling" = "自然滚动模式";
 
+"No App Hotkeys" = "没有应用快捷键";
+
 "No external display connected, focus screen functionality is not required." = "没有外接屏幕，无需焦点屏幕功能。";
 
 "None" = "不使用";
@@ -205,6 +223,8 @@
 
 "Press %@ to clear the current letter input for key positioning." = "按下 %@ 键可清除当前用于按键定位的字母输入。";
 
+"Press shortcut…" = "按下快捷键…";
+
 "Press the" = "按下";
 
 "Press the %@ key to enable grid-based mouse positioning" = "按下 C 键，启用宫格定位鼠标位置功能";
@@ -221,6 +241,8 @@
 
 "Quit %@" = "退出 %@";
 
+"Record Shortcut" = "录制快捷键";
+
 "Remove" = "移除";
 
 "Restart %@" = "重启 %@";
@@ -235,15 +257,27 @@
 
 "Rows" = "行";
 
+"Save" = "保存";
+
+"Saved Hotkeys" = "已保存的快捷键";
+
 "Search" = "搜索";
 
+"Select an application" = "选择应用";
+
+"Set Shortcut" = "设置快捷键";
+
 "Settings..." = "设置…";
+
+"Shortcut" = "快捷键";
 
 "Shortcut Letter Colors" = "快捷字母颜色";
 
 "Shortcut hints for precise keyboard-driven cursor control" = "快捷键提示，让你用键盘精准控制光标位置";
 
 "Shortcuts" = "快捷键";
+
+"Shortcuts must include ⌘, ⌃, or ⌥ (for example ⌘⇧A). Letter keys alone are not allowed." = "快捷键必须包含 ⌘、⌃ 或 ⌥（例如：⌘⇧A）。不允许只使用字母键。";
 
 "Show Launchpad" = "显示启动台";
 

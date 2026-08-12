@@ -26,13 +26,21 @@
 
 "Add" = "追加";
 
+"Add App Hotkey" = "アプリのショートカットを追加";
+
 "Add Application" = "アプリを追加";
 
+"Add a shortcut and an app, then save." = "ショートカットとアプリを追加して保存します。";
+
 "Always On Desktop" = "常にデスクトップに表示";
+
+"App Hotkeys" = "アプリのショートカット";
 
 "App Navigation" = "アプリナビゲーション";
 
 "App Navigation Configuration" = "アプリナビゲーション設定";
+
+"Application" = "アプリケーション";
 
 "Are you sure you want to delete %@?" = "%@ を削除してもよろしいですか？";
 
@@ -41,6 +49,8 @@
 "Arrow Key Navigation" = "矢印キーによるナビゲーション";
 
 "Arrow Keys" = "矢印キー";
+
+"Assign a global keyboard shortcut to open or activate an application. Shortcuts work even when Mousio is in the background." = "アプリケーションを開く、またはアクティブにするグローバルキーボードショートカットを割り当てます。Mousioがバックグラウンドにある場合でもショートカットは機能します。";
 
 "Auto Exit After Double Click" = "ダブルクリック後に自動終了";
 
@@ -62,7 +72,13 @@
 
 "Cancel" = "キャンセル";
 
+"Choose App…" = "アプリを選択…";
+
 "Clear" = "クリア";
+
+"Click the button, then press a combination that includes ⌘, ⌃, or ⌥ (example: ⌘⇧A). Esc cancels recording." = "ボタンをクリックしてから、⌘、⌃、または⌥を含む組み合わせを押してください（例：⌘⇧A）。Escで記録をキャンセルします。";
+
+"Click, then press a shortcut with ⌘, ⌃, or ⌥" = "クリックしてから、⌘、⌃、または⌥を含むショートカットを押してください";
 
 "Columns" = "列";
 
@@ -182,6 +198,8 @@
 
 "Natural Scrolling" = "自然なスクロール";
 
+"No App Hotkeys" = "アプリのショートカットはありません";
+
 "No external display connected, focus screen functionality is not required." = "外部ディスプレイが接続されていないため、フォーカス画面機能は不要です。";
 
 "None" = "なし";
@@ -205,6 +223,8 @@
 
 "Press %@ to clear the current letter input for key positioning." = "%@ を押すと、キー位置決め用の現在の文字入力をクリアできます。";
 
+"Press shortcut…" = "ショートカットを押してください…";
+
 "Press the" = "押す";
 
 "Press the %@ key to enable grid-based mouse positioning" = "%@ キーを押すとグリッドベースのマウス位置決めを有効にできます";
@@ -221,6 +241,8 @@
 
 "Quit %@" = "%@ を終了";
 
+"Record Shortcut" = "ショートカットを記録";
+
 "Remove" = "削除";
 
 "Restart %@" = "%@ を再起動";
@@ -235,15 +257,27 @@
 
 "Rows" = "行";
 
+"Save" = "保存";
+
+"Saved Hotkeys" = "保存したショートカット";
+
 "Search" = "検索";
 
+"Select an application" = "アプリケーションを選択";
+
+"Set Shortcut" = "ショートカットを設定";
+
 "Settings..." = "設定...";
+
+"Shortcut" = "ショートカット";
 
 "Shortcut Letter Colors" = "ショートカット文字色";
 
 "Shortcut hints for precise keyboard-driven cursor control" = "キーボード操作による正確なカーソル制御用のショートカットヒント";
 
 "Shortcuts" = "ショートカット";
+
+"Shortcuts must include ⌘, ⌃, or ⌥ (for example ⌘⇧A). Letter keys alone are not allowed." = "ショートカットには⌘、⌃、または⌥を含める必要があります（例：⌘⇧A）。文字キーだけの組み合わせは使用できません。";
 
 "Show Launchpad" = "Launchpad を表示";
 

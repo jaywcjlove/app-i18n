@@ -26,13 +26,21 @@
 
 "Add" = "Добавить";
 
+"Add App Hotkey" = "Добавить горячую клавишу приложения";
+
 "Add Application" = "Добавить приложение";
 
+"Add a shortcut and an app, then save." = "Добавьте сочетание клавиш и приложение, затем сохраните.";
+
 "Always On Desktop" = "Всегда на рабочем столе";
+
+"App Hotkeys" = "Горячие клавиши приложений";
 
 "App Navigation" = "Навигация по приложениям";
 
 "App Navigation Configuration" = "Настройка навигации по приложениям";
+
+"Application" = "Приложение";
 
 "Are you sure you want to delete %@?" = "Вы уверены, что хотите удалить %@?";
 
@@ -41,6 +49,8 @@
 "Arrow Key Navigation" = "Навигация стрелками";
 
 "Arrow Keys" = "Клавиши со стрелками";
+
+"Assign a global keyboard shortcut to open or activate an application. Shortcuts work even when Mousio is in the background." = "Назначьте глобальное сочетание клавиш для открытия или активации приложения. Сочетания работают, даже когда Mousio работает в фоновом режиме.";
 
 "Auto Exit After Double Click" = "Автовыход после двойного клика";
 
@@ -62,7 +72,13 @@
 
 "Cancel" = "Отмена";
 
+"Choose App…" = "Выбрать приложение…";
+
 "Clear" = "Очистить";
+
+"Click the button, then press a combination that includes ⌘, ⌃, or ⌥ (example: ⌘⇧A). Esc cancels recording." = "Нажмите кнопку, затем нажмите комбинацию, включающую ⌘, ⌃ или ⌥ (например, ⌘⇧A). Нажмите Esc, чтобы отменить запись.";
+
+"Click, then press a shortcut with ⌘, ⌃, or ⌥" = "Нажмите, затем нажмите сочетание клавиш с ⌘, ⌃ или ⌥";
 
 "Columns" = "Столбцы";
 
@@ -182,6 +198,8 @@
 
 "Natural Scrolling" = "Естественная прокрутка";
 
+"No App Hotkeys" = "Нет горячих клавиш приложений";
+
 "No external display connected, focus screen functionality is not required." = "Внешний дисплей не подключён, функция экрана фокуса не требуется.";
 
 "None" = "Нет";
@@ -205,6 +223,8 @@
 
 "Press %@ to clear the current letter input for key positioning." = "Нажмите %@, чтобы очистить текущее буквенное поле для позиционирования клавиш.";
 
+"Press shortcut…" = "Нажмите сочетание клавиш…";
+
 "Press the" = "Нажмите";
 
 "Press the %@ key to enable grid-based mouse positioning" = "Нажмите клавишу %@, чтобы включить позиционирование мыши по сетке";
@@ -221,6 +241,8 @@
 
 "Quit %@" = "Выйти из %@";
 
+"Record Shortcut" = "Записать сочетание клавиш";
+
 "Remove" = "Удалить";
 
 "Restart %@" = "Перезапустить %@";
@@ -235,15 +257,27 @@
 
 "Rows" = "Строки";
 
+"Save" = "Сохранить";
+
+"Saved Hotkeys" = "Сохранённые сочетания клавиш";
+
 "Search" = "Поиск";
 
+"Select an application" = "Выберите приложение";
+
+"Set Shortcut" = "Задать сочетание клавиш";
+
 "Settings..." = "Настройки...";
+
+"Shortcut" = "Сочетание клавиш";
 
 "Shortcut Letter Colors" = "Цвета букв сочетаний";
 
 "Shortcut hints for precise keyboard-driven cursor control" = "Подсказки сочетаний клавиш для точного управления курсором с клавиатуры";
 
 "Shortcuts" = "Сочетания клавиш";
+
+"Shortcuts must include ⌘, ⌃, or ⌥ (for example ⌘⇧A). Letter keys alone are not allowed." = "Сочетания клавиш должны содержать ⌘, ⌃ или ⌥ (например, ⌘⇧A). Сочетания только из букв недопустимы.";
 
 "Show Launchpad" = "Показывать Launchpad";
 

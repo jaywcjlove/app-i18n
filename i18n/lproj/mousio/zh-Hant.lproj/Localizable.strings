@@ -26,13 +26,21 @@
 
 "Add" = "新增";
 
+"Add App Hotkey" = "新增應用程式快捷鍵";
+
 "Add Application" = "新增應用程式";
 
+"Add a shortcut and an app, then save." = "新增快捷鍵和應用程式，然後儲存。";
+
 "Always On Desktop" = "始終顯示於桌面";
+
+"App Hotkeys" = "應用程式快捷鍵";
 
 "App Navigation" = "應用程式導覽";
 
 "App Navigation Configuration" = "應用程式導覽設定";
+
+"Application" = "應用程式";
 
 "Are you sure you want to delete %@?" = "確定要刪除 %@ 嗎？";
 
@@ -41,6 +49,8 @@
 "Arrow Key Navigation" = "方向鍵導覽";
 
 "Arrow Keys" = "方向鍵";
+
+"Assign a global keyboard shortcut to open or activate an application. Shortcuts work even when Mousio is in the background." = "指定全域鍵盤快速鍵以開啟或啟用應用程式。即使 Mousio 在背景執行，快速鍵仍可運作。";
 
 "Auto Exit After Double Click" = "雙擊後自動退出";
 
@@ -62,7 +72,13 @@
 
 "Cancel" = "取消";
 
+"Choose App…" = "選擇應用程式…";
+
 "Clear" = "清除";
+
+"Click the button, then press a combination that includes ⌘, ⌃, or ⌥ (example: ⌘⇧A). Esc cancels recording." = "按一下按鈕，然後按下包含 ⌘、⌃ 或 ⌥ 的組合鍵（例如：⌘⇧A）。按下 Esc 可取消記錄。";
+
+"Click, then press a shortcut with ⌘, ⌃, or ⌥" = "按一下，然後按下包含 ⌘、⌃ 或 ⌥ 的快速鍵";
 
 "Columns" = "欄";
 
@@ -182,6 +198,8 @@
 
 "Natural Scrolling" = "自然捲動";
 
+"No App Hotkeys" = "沒有應用程式快速鍵";
+
 "No external display connected, focus screen functionality is not required." = "未連接外接顯示器，因此不需要聚焦畫面功能。";
 
 "None" = "無";
@@ -205,6 +223,8 @@
 
 "Press %@ to clear the current letter input for key positioning." = "按下 %@ 可清除目前用於定位鍵位的字母輸入。";
 
+"Press shortcut…" = "按下快速鍵…";
+
 "Press the" = "按下";
 
 "Press the %@ key to enable grid-based mouse positioning" = "按下 %@ 鍵即可啟用基於格線的滑鼠定位";
@@ -221,6 +241,8 @@
 
 "Quit %@" = "退出 %@";
 
+"Record Shortcut" = "記錄快速鍵";
+
 "Remove" = "移除";
 
 "Restart %@" = "重新啟動 %@";
@@ -235,15 +257,27 @@
 
 "Rows" = "列";
 
+"Save" = "儲存";
+
+"Saved Hotkeys" = "已儲存的快速鍵";
+
 "Search" = "搜尋";
 
+"Select an application" = "選取應用程式";
+
+"Set Shortcut" = "設定快速鍵";
+
 "Settings..." = "設定...";
+
+"Shortcut" = "快速鍵";
 
 "Shortcut Letter Colors" = "快捷鍵字母顏色";
 
 "Shortcut hints for precise keyboard-driven cursor control" = "用於精準鍵盤控制游標的快捷鍵提示";
 
 "Shortcuts" = "快捷鍵";
+
+"Shortcuts must include ⌘, ⌃, or ⌥ (for example ⌘⇧A). Letter keys alone are not allowed." = "快速鍵必須包含 ⌘、⌃ 或 ⌥（例如：⌘⇧A）。不允許只使用字母鍵。";
 
 "Show Launchpad" = "顯示啟動台";
 

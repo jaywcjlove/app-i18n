@@ -26,13 +26,21 @@
 
 "Add" = "추가";
 
+"Add App Hotkey" = "앱 단축키 추가";
+
 "Add Application" = "앱 추가";
 
+"Add a shortcut and an app, then save." = "단축키와 앱을 추가한 다음 저장하세요.";
+
 "Always On Desktop" = "항상 데스크톱에 표시";
+
+"App Hotkeys" = "앱 단축키";
 
 "App Navigation" = "앱 탐색";
 
 "App Navigation Configuration" = "앱 탐색 설정";
+
+"Application" = "응용 프로그램";
 
 "Are you sure you want to delete %@?" = "%@을(를) 삭제하시겠습니까?";
 
@@ -41,6 +49,8 @@
 "Arrow Key Navigation" = "방향키 탐색";
 
 "Arrow Keys" = "방향키";
+
+"Assign a global keyboard shortcut to open or activate an application. Shortcuts work even when Mousio is in the background." = "응용 프로그램을 열거나 활성화할 전역 키보드 단축키를 지정하세요. Mousio가 백그라운드에 있어도 단축키가 작동합니다.";
 
 "Auto Exit After Double Click" = "더블 클릭 후 자동 종료";
 
@@ -62,7 +72,13 @@
 
 "Cancel" = "취소";
 
+"Choose App…" = "앱 선택…";
+
 "Clear" = "지우기";
+
+"Click the button, then press a combination that includes ⌘, ⌃, or ⌥ (example: ⌘⇧A). Esc cancels recording." = "버튼을 클릭한 다음 ⌘, ⌃ 또는 ⌥를 포함하는 조합을 누르세요(예: ⌘⇧A). Esc를 누르면 기록이 취소됩니다.";
+
+"Click, then press a shortcut with ⌘, ⌃, or ⌥" = "클릭한 다음 ⌘, ⌃ 또는 ⌥가 포함된 단축키를 누르세요";
 
 "Columns" = "열";
 
@@ -182,6 +198,8 @@
 
 "Natural Scrolling" = "자연스러운 스크롤";
 
+"No App Hotkeys" = "앱 단축키 없음";
+
 "No external display connected, focus screen functionality is not required." = "외부 디스플레이가 연결되지 않아 포커스 화면 기능은 필요하지 않습니다.";
 
 "None" = "없음";
@@ -205,6 +223,8 @@
 
 "Press %@ to clear the current letter input for key positioning." = "%@를 눌러 현재 키 위치 지정용 문자 입력을 지웁니다.";
 
+"Press shortcut…" = "단축키 누르기…";
+
 "Press the" = "누르기";
 
 "Press the %@ key to enable grid-based mouse positioning" = "%@ 키를 눌러 격자 기반 마우스 위치 지정을 사용합니다";
@@ -221,6 +241,8 @@
 
 "Quit %@" = "%@ 종료";
 
+"Record Shortcut" = "단축키 기록";
+
 "Remove" = "제거";
 
 "Restart %@" = "%@ 다시 시작";
@@ -235,15 +257,27 @@
 
 "Rows" = "행";
 
+"Save" = "저장";
+
+"Saved Hotkeys" = "저장된 단축키";
+
 "Search" = "검색";
 
+"Select an application" = "응용 프로그램 선택";
+
+"Set Shortcut" = "단축키 설정";
+
 "Settings..." = "설정...";
+
+"Shortcut" = "단축키";
 
 "Shortcut Letter Colors" = "단축키 문자 색상";
 
 "Shortcut hints for precise keyboard-driven cursor control" = "키보드로 정밀하게 커서를 조작하기 위한 단축키 힌트";
 
 "Shortcuts" = "단축키";
+
+"Shortcuts must include ⌘, ⌃, or ⌥ (for example ⌘⇧A). Letter keys alone are not allowed." = "단축키에는 ⌘, ⌃ 또는 ⌥가 포함되어야 합니다(예: ⌘⇧A). 문자 키만 사용하는 조합은 허용되지 않습니다.";
 
 "Show Launchpad" = "런치패드 표시";
 

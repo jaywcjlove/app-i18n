@@ -26,13 +26,21 @@
 
 "Add" = "Hinzufügen";
 
+"Add App Hotkey" = "App-Hotkey hinzufügen";
+
 "Add Application" = "Anwendung hinzufügen";
 
+"Add a shortcut and an app, then save." = "Füge einen Kurzbefehl und eine App hinzu und speichere anschließend.";
+
 "Always On Desktop" = "Immer auf dem Desktop";
+
+"App Hotkeys" = "App-Hotkeys";
 
 "App Navigation" = "App-Navigation";
 
 "App Navigation Configuration" = "Konfiguration der App-Navigation";
+
+"Application" = "Anwendung";
 
 "Are you sure you want to delete %@?" = "Möchtest du %@ wirklich löschen?";
 
@@ -41,6 +49,8 @@
 "Arrow Key Navigation" = "Navigation mit Pfeiltasten";
 
 "Arrow Keys" = "Pfeiltasten";
+
+"Assign a global keyboard shortcut to open or activate an application. Shortcuts work even when Mousio is in the background." = "Weise einen globalen Tastaturkurzbefehl zu, um eine Anwendung zu öffnen oder zu aktivieren. Tastaturkurzbefehle funktionieren auch, wenn Mousio im Hintergrund läuft.";
 
 "Auto Exit After Double Click" = "Nach Doppelklick automatisch beenden";
 
@@ -62,7 +72,13 @@
 
 "Cancel" = "Abbrechen";
 
+"Choose App…" = "App auswählen …";
+
 "Clear" = "Leeren";
+
+"Click the button, then press a combination that includes ⌘, ⌃, or ⌥ (example: ⌘⇧A). Esc cancels recording." = "Klicke auf die Schaltfläche und drücke dann eine Kombination mit ⌘, ⌃ oder ⌥ (Beispiel: ⌘⇧A). Esc bricht die Aufzeichnung ab.";
+
+"Click, then press a shortcut with ⌘, ⌃, or ⌥" = "Klicken und dann einen Kurzbefehl mit ⌘, ⌃ oder ⌥ drücken";
 
 "Columns" = "Spalten";
 
@@ -182,6 +198,8 @@
 
 "Natural Scrolling" = "Natürliche Bildlaufweise";
 
+"No App Hotkeys" = "Keine App-Hotkeys";
+
 "No external display connected, focus screen functionality is not required." = "Es ist kein externer Bildschirm angeschlossen; die Fokusbildschirmfunktion ist nicht erforderlich.";
 
 "None" = "Keine";
@@ -205,6 +223,8 @@
 
 "Press %@ to clear the current letter input for key positioning." = "Drücke %@, um die aktuelle Buchstabeneingabe für die Tastenpositionierung zu löschen.";
 
+"Press shortcut…" = "Kurzbefehl drücken …";
+
 "Press the" = "Drücke die";
 
 "Press the %@ key to enable grid-based mouse positioning" = "Drücke die %@-Taste, um die rasterbasierte Mauspositionierung zu aktivieren";
@@ -221,6 +241,8 @@
 
 "Quit %@" = "%@ beenden";
 
+"Record Shortcut" = "Kurzbefehl aufnehmen";
+
 "Remove" = "Entfernen";
 
 "Restart %@" = "%@ neu starten";
@@ -235,15 +257,27 @@
 
 "Rows" = "Zeilen";
 
+"Save" = "Sichern";
+
+"Saved Hotkeys" = "Gespeicherte Hotkeys";
+
 "Search" = "Suchen";
 
+"Select an application" = "Anwendung auswählen";
+
+"Set Shortcut" = "Kurzbefehl festlegen";
+
 "Settings..." = "Einstellungen...";
+
+"Shortcut" = "Kurzbefehl";
 
 "Shortcut Letter Colors" = "Farben für Buchstabenkurzbefehle";
 
 "Shortcut hints for precise keyboard-driven cursor control" = "Kurzbefehls-Hinweise für präzise, tastaturgesteuerte Cursorsteuerung";
 
 "Shortcuts" = "Kurzbefehle";
+
+"Shortcuts must include ⌘, ⌃, or ⌥ (for example ⌘⇧A). Letter keys alone are not allowed." = "Tastaturkurzbefehle müssen ⌘, ⌃ oder ⌥ enthalten (z. B. ⌘⇧A). Nur Buchstabentasten sind nicht zulässig.";
 
 "Show Launchpad" = "Launchpad anzeigen";
 

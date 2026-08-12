@@ -26,13 +26,21 @@
 
 "Add" = "Aggiungi";
 
+"Add App Hotkey" = "Aggiungi scorciatoia app";
+
 "Add Application" = "Aggiungi applicazione";
 
+"Add a shortcut and an app, then save." = "Aggiungi una scorciatoia e un’app, quindi salva.";
+
 "Always On Desktop" = "Sempre sul desktop";
+
+"App Hotkeys" = "Scorciatoie app";
 
 "App Navigation" = "Navigazione app";
 
 "App Navigation Configuration" = "Configurazione della navigazione app";
+
+"Application" = "Applicazione";
 
 "Are you sure you want to delete %@?" = "Sei sicuro di voler eliminare %@?";
 
@@ -41,6 +49,8 @@
 "Arrow Key Navigation" = "Navigazione con i tasti freccia";
 
 "Arrow Keys" = "Tasti freccia";
+
+"Assign a global keyboard shortcut to open or activate an application. Shortcuts work even when Mousio is in the background." = "Assegna una scorciatoia da tastiera globale per aprire o attivare un’applicazione. Le scorciatoie funzionano anche quando Mousio è in background.";
 
 "Auto Exit After Double Click" = "Uscita automatica dopo doppio clic";
 
@@ -62,7 +72,13 @@
 
 "Cancel" = "Annulla";
 
+"Choose App…" = "Scegli applicazione…";
+
 "Clear" = "Cancella";
+
+"Click the button, then press a combination that includes ⌘, ⌃, or ⌥ (example: ⌘⇧A). Esc cancels recording." = "Fai clic sul pulsante, quindi premi una combinazione che includa ⌘, ⌃ o ⌥ (esempio: ⌘⇧A). Esc annulla la registrazione.";
+
+"Click, then press a shortcut with ⌘, ⌃, or ⌥" = "Fai clic, quindi premi una scorciatoia con ⌘, ⌃ o ⌥";
 
 "Columns" = "Colonne";
 
@@ -182,6 +198,8 @@
 
 "Natural Scrolling" = "Scorrimento naturale";
 
+"No App Hotkeys" = "Nessuna scorciatoia app";
+
 "No external display connected, focus screen functionality is not required." = "Nessun display esterno collegato, la funzione dello schermo di focus non è richiesta.";
 
 "None" = "Nessuno";
@@ -205,6 +223,8 @@
 
 "Press %@ to clear the current letter input for key positioning." = "Premi %@ per cancellare l'attuale input di lettera per il posizionamento dei tasti.";
 
+"Press shortcut…" = "Premi una scorciatoia…";
+
 "Press the" = "Premi";
 
 "Press the %@ key to enable grid-based mouse positioning" = "Premi il tasto %@ per abilitare il posizionamento del mouse sulla griglia";
@@ -221,6 +241,8 @@
 
 "Quit %@" = "Esci da %@";
 
+"Record Shortcut" = "Registra scorciatoia";
+
 "Remove" = "Rimuovi";
 
 "Restart %@" = "Riavvia %@";
@@ -235,15 +257,27 @@
 
 "Rows" = "Righe";
 
+"Save" = "Salva";
+
+"Saved Hotkeys" = "Scorciatoie salvate";
+
 "Search" = "Cerca";
 
+"Select an application" = "Seleziona un’applicazione";
+
+"Set Shortcut" = "Imposta scorciatoia";
+
 "Settings..." = "Impostazioni...";
+
+"Shortcut" = "Scorciatoia";
 
 "Shortcut Letter Colors" = "Colori delle lettere di scelta rapida";
 
 "Shortcut hints for precise keyboard-driven cursor control" = "Suggerimenti per scorciatoie per un controllo preciso del cursore tramite tastiera";
 
 "Shortcuts" = "Scorciatoie";
+
+"Shortcuts must include ⌘, ⌃, or ⌥ (for example ⌘⇧A). Letter keys alone are not allowed." = "Le scorciatoie devono includere ⌘, ⌃ o ⌥ (ad esempio ⌘⇧A). Non sono consentiti i soli tasti lettera.";
 
 "Show Launchpad" = "Mostra Launchpad";
 
