@@ -74,6 +74,8 @@
 
 "Delete" = "Удалить";
 
+"Disabled. Direction keys always use continuous accelerated movement." = "Отключено. Клавиши со стрелками всегда используют непрерывное ускоренное перемещение.";
+
 "Double-Tap Speed" = "Скорость двойного касания";
 
 "Double-press" = "Двойное нажатие";
@@ -129,6 +131,8 @@
 "Hide settings on launch" = "Скрывать настройки при запуске";
 
 "Highlight the screen where the mouse is located to focus on the current working area." = "Подсветить экран, на котором находится курсор, чтобы сфокусироваться на текущей рабочей области.";
+
+"Hold %@ and press direction keys to move %@ at a time. Choose None to disable." = "Удерживайте %1$@ и нажимайте клавиши со стрелками, чтобы перемещаться на %2$@ за раз. Выберите Нет, чтобы отключить.";
 
 "Hold %@ and use %@ to move windows, select text, and move files." = "Удерживайте %1$@ и используйте %2$@, чтобы перемещать окна, выделять текст и переносить файлы.";
 
@@ -192,6 +196,10 @@
 "Other Settings" = "Прочие настройки";
 
 "Page dots: type digits for pages 1–99 (e.g. 1, 12). Pages 100+ use one letter + one digit (e.g. A0, B3)." = "Точки страниц: вводите цифры для страниц 1–99 (например, 1, 12). Для страниц 100+ используйте одну букву и одну цифру (например, A0, B3).";
+
+"Pixel-step Move" = "Перемещение с шагом в пиксель";
+
+"Pixel-step Size" = "Размер шага в пикселях";
 
 "Position on screen" = "Положение на экране";
 

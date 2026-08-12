@@ -74,6 +74,8 @@
 
 "Delete" = "刪除";
 
+"Disabled. Direction keys always use continuous accelerated movement." = "已停用。方向鍵一律使用連續加速移動。";
+
 "Double-Tap Speed" = "雙擊速度";
 
 "Double-press" = "連按兩次";
@@ -129,6 +131,8 @@
 "Hide settings on launch" = "啟動時隱藏設定";
 
 "Highlight the screen where the mouse is located to focus on the current working area." = "高亮顯示滑鼠所在的畫面，聚焦目前的工作區域。";
+
+"Hold %@ and press direction keys to move %@ at a time. Choose None to disable." = "按住 %1$@ 並按方向鍵，每次移動 %2$@。選擇「無」即可停用。";
 
 "Hold %@ and use %@ to move windows, select text, and move files." = "按住 %1$@ 並使用 %2$@，即可移動視窗、選取文字與移動檔案。";
 
@@ -192,6 +196,10 @@
 "Other Settings" = "其他設定";
 
 "Page dots: type digits for pages 1–99 (e.g. 1, 12). Pages 100+ use one letter + one digit (e.g. A0, B3)." = "頁點：輸入 1–99 的數字表示頁碼（例如 1、12）。100 以上則使用一個字母加一個數字（例如 A0、B3）。";
+
+"Pixel-step Move" = "像素步進移動";
+
+"Pixel-step Size" = "像素步進大小";
 
 "Position on screen" = "在畫面上的位置";
 

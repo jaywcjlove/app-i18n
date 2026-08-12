@@ -74,6 +74,8 @@
 
 "Delete" = "Delete";
 
+"Disabled. Direction keys always use continuous accelerated movement." = "Disabled. Direction keys always use continuous accelerated movement.";
+
 "Double-Tap Speed" = "Double-Tap Speed";
 
 "Double-press" = "Double-press";
@@ -129,6 +131,8 @@
 "Hide settings on launch" = "Hide settings on launch";
 
 "Highlight the screen where the mouse is located to focus on the current working area." = "Highlight the screen where the mouse is located to focus on the current working area.";
+
+"Hold %@ and press direction keys to move %@ at a time. Choose None to disable." = "Hold %1$@ and press direction keys to move %2$@ at a time. Choose None to disable.";
 
 "Hold %@ and use %@ to move windows, select text, and move files." = "Hold %1$@ and use %2$@ to move windows, select text, and move files.";
 
@@ -192,6 +196,10 @@
 "Other Settings" = "Other Settings";
 
 "Page dots: type digits for pages 1–99 (e.g. 1, 12). Pages 100+ use one letter + one digit (e.g. A0, B3)." = "Page dots: type digits for pages 1–99 (e.g. 1, 12). Pages 100+ use one letter + one digit (e.g. A0, B3).";
+
+"Pixel-step Move" = "Pixel-step Move";
+
+"Pixel-step Size" = "Pixel-step Size";
 
 "Position on screen" = "Position on screen";
 

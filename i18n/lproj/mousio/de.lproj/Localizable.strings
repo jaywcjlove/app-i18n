@@ -74,6 +74,8 @@
 
 "Delete" = "Löschen";
 
+"Disabled. Direction keys always use continuous accelerated movement." = "Deaktiviert. Richtungstasten verwenden immer eine kontinuierliche beschleunigte Bewegung.";
+
 "Double-Tap Speed" = "Doppeltipp-Geschwindigkeit";
 
 "Double-press" = "Doppeltippen";
@@ -129,6 +131,8 @@
 "Hide settings on launch" = "Einstellungen beim Start ausblenden";
 
 "Highlight the screen where the mouse is located to focus on the current working area." = "Den Bildschirm hervorheben, auf dem sich die Maus befindet, um den aktuellen Arbeitsbereich zu fokussieren.";
+
+"Hold %@ and press direction keys to move %@ at a time. Choose None to disable." = "Halte %1$@ und drücke die Richtungstasten, um jeweils %2$@ zu bewegen. Wähle Keine, um dies zu deaktivieren.";
 
 "Hold %@ and use %@ to move windows, select text, and move files." = "Halte %1$@ und nutze %2$@, um Fenster zu bewegen, Text auszuwählen und Dateien zu verschieben.";
 
@@ -192,6 +196,10 @@
 "Other Settings" = "Weitere Einstellungen";
 
 "Page dots: type digits for pages 1–99 (e.g. 1, 12). Pages 100+ use one letter + one digit (e.g. A0, B3)." = "Seitenpunkte: Gib Ziffern für Seiten 1–99 ein (z. B. 1, 12). Seiten 100+ verwenden einen Buchstaben + eine Ziffer (z. B. A0, B3).";
+
+"Pixel-step Move" = "Bewegung in Pixelschritten";
+
+"Pixel-step Size" = "Pixelschrittgröße";
 
 "Position on screen" = "Position auf dem Bildschirm";
 

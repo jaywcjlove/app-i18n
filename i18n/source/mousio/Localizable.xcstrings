@@ -2145,6 +2145,64 @@
         }
       }
     },
+    "Disabled. Direction keys always use continuous accelerated movement." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deaktiviert. Richtungstasten verwenden immer eine kontinuierliche beschleunigte Bewegung."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Disabled. Direction keys always use continuous accelerated movement."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Désactivé. Les touches de direction utilisent toujours un mouvement continu accéléré."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disattivato. I tasti direzionali usano sempre un movimento continuo accelerato."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無効です。方向キーは常に加速付きの連続移動を使用します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비활성화됨. 방향키는 항상 가속이 적용된 연속 이동을 사용합니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отключено. Клавиши со стрелками всегда используют непрерывное ускоренное перемещение."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已禁用。方向键始终使用连续加速移动。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已停用。方向鍵一律使用連續加速移動。"
+          }
+        }
+      }
+    },
     "Double-press" : {
       "localizations" : {
         "de" : {
@@ -3597,6 +3655,64 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "高亮顯示滑鼠所在的畫面，聚焦目前的工作區域。"
+          }
+        }
+      }
+    },
+    "Hold %@ and press direction keys to move %@ at a time. Choose None to disable." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Halte %1$@ und drücke die Richtungstasten, um jeweils %2$@ zu bewegen. Wähle Keine, um dies zu deaktivieren."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hold %1$@ and press direction keys to move %2$@ at a time. Choose None to disable."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maintenez %1$@ et appuyez sur les touches de direction pour déplacer %2$@ à la fois. Choisissez Aucun pour désactiver."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tieni premuto %1$@ e premi i tasti direzionali per spostarti di %2$@ alla volta. Scegli Nessuno per disattivare."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ を押したまま方向キーを押すと、一度に %2$@ ずつ移動します。無効にするには「なし」を選択してください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ 키를 누른 채 방향키를 누르면 한 번에 %2$@씩 이동합니다. 비활성화하려면 없음을 선택하세요."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удерживайте %1$@ и нажимайте клавиши со стрелками, чтобы перемещаться на %2$@ за раз. Выберите Нет, чтобы отключить."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按住 %1$@ 并按方向键，每次移动 %2$@。选择“不使用”即可禁用。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按住 %1$@ 並按方向鍵，每次移動 %2$@。選擇「無」即可停用。"
           }
         }
       }
@@ -5320,6 +5436,122 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "頁點：輸入 1–99 的數字表示頁碼（例如 1、12）。100 以上則使用一個字母加一個數字（例如 A0、B3）。"
+          }
+        }
+      }
+    },
+    "Pixel-step Move" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewegung in Pixelschritten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pixel-step Move"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Déplacement par pas de pixel"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spostamento a passi di pixel"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ピクセル単位の移動"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "픽셀 단위 이동"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перемещение с шагом в пиксель"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "像素步进移动"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "像素步進移動"
+          }
+        }
+      }
+    },
+    "Pixel-step Size" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pixelschrittgröße"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pixel-step Size"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taille du pas en pixels"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dimensione del passo in pixel"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ピクセル単位のサイズ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "픽셀 단위 크기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Размер шага в пикселях"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "像素步进大小"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "像素步進大小"
           }
         }
       }

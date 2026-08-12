@@ -74,6 +74,8 @@
 
 "Delete" = "삭제";
 
+"Disabled. Direction keys always use continuous accelerated movement." = "비활성화됨. 방향키는 항상 가속이 적용된 연속 이동을 사용합니다.";
+
 "Double-Tap Speed" = "더블 탭 속도";
 
 "Double-press" = "더블 프레스";
@@ -129,6 +131,8 @@
 "Hide settings on launch" = "실행 시 설정 숨기기";
 
 "Highlight the screen where the mouse is located to focus on the current working area." = "마우스가 있는 화면을 강조해 현재 작업 영역에 초점을 맞춥니다.";
+
+"Hold %@ and press direction keys to move %@ at a time. Choose None to disable." = "%1$@ 키를 누른 채 방향키를 누르면 한 번에 %2$@씩 이동합니다. 비활성화하려면 없음을 선택하세요.";
 
 "Hold %@ and use %@ to move windows, select text, and move files." = "%1$@를 누른 채 %2$@를 사용해 창을 이동하고, 텍스트를 선택하고, 파일을 옮깁니다.";
 
@@ -192,6 +196,10 @@
 "Other Settings" = "기타 설정";
 
 "Page dots: type digits for pages 1–99 (e.g. 1, 12). Pages 100+ use one letter + one digit (e.g. A0, B3)." = "페이지 도트: 1–99페이지는 숫자 입력(예: 1, 12). 100페이지 이상은 문자 1개와 숫자 1개(예: A0, B3) 사용.";
+
+"Pixel-step Move" = "픽셀 단위 이동";
+
+"Pixel-step Size" = "픽셀 단위 크기";
 
 "Position on screen" = "화면상 위치";
 

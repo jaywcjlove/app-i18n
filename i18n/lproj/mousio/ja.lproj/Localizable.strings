@@ -74,6 +74,8 @@
 
 "Delete" = "削除";
 
+"Disabled. Direction keys always use continuous accelerated movement." = "無効です。方向キーは常に加速付きの連続移動を使用します。";
+
 "Double-Tap Speed" = "ダブルタップ速度";
 
 "Double-press" = "ダブルプレス";
@@ -129,6 +131,8 @@
 "Hide settings on launch" = "起動時に設定を隠す";
 
 "Highlight the screen where the mouse is located to focus on the current working area." = "マウスがある画面を強調表示して、現在の作業領域にフォーカスします。";
+
+"Hold %@ and press direction keys to move %@ at a time. Choose None to disable." = "%1$@ を押したまま方向キーを押すと、一度に %2$@ ずつ移動します。無効にするには「なし」を選択してください。";
 
 "Hold %@ and use %@ to move windows, select text, and move files." = "%1$@ を押しながら %2$@ を使って、ウィンドウを移動したり、テキストを選択したり、ファイルを移動したりします。";
 
@@ -192,6 +196,10 @@
 "Other Settings" = "その他の設定";
 
 "Page dots: type digits for pages 1–99 (e.g. 1, 12). Pages 100+ use one letter + one digit (e.g. A0, B3)." = "ページドット: 1〜99 ページは数字を入力（例: 1、12）。100 ページ以上は 1 文字＋1 桁（例: A0、B3）。";
+
+"Pixel-step Move" = "ピクセル単位の移動";
+
+"Pixel-step Size" = "ピクセル単位のサイズ";
 
 "Position on screen" = "画面上の位置";
 
