@@ -8,6 +8,8 @@
 
 "%@" = "%@";
 
+"%@ %@" = "%1$@ %2$@";
+
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@**를 추가하고 확인";
 
 "%@ Needs Accessibility Access" = "%@에 접근성 권한이 필요합니다";
@@ -17,6 +19,12 @@
 "%@(ms)" = "%@(ms)";
 
 "%lld" = "%lld";
+
+"%lld." = "%lld.";
+
+"%lldd" = "%lld일";
+
+"1d" = "1일";
 
 "About" = "정보";
 
@@ -80,15 +88,29 @@
 
 "Click, then press a shortcut with ⌘, ⌃, or ⌥" = "클릭한 다음 ⌘, ⌃ 또는 ⌥가 포함된 단축키를 누르세요";
 
+"Clicks" = "클릭";
+
+"Collect Input Statistics" = "입력 통계 수집";
+
 "Columns" = "열";
 
 "Contact" = "문의";
 
 "Content moves in the direction of movement" = "움직임 방향으로 내용이 이동합니다";
 
+"Count" = "횟수";
+
+"Counts keyboard presses (including combos like Shift+A), mouse clicks, scroll events, and keyboard-mouse mode usage. Data is stored locally with SwiftData. When menu-bar display is on, a compact chart panel appears under Other Settings in the status menu." = "키 입력(Shift+A와 같은 조합 포함), 마우스 클릭, 스크롤 이벤트 및 키보드·마우스 모드 사용 횟수를 집계합니다. 데이터는 SwiftData로 로컬에 저장됩니다. 메뉴 막대 표시를 켜면 상태 메뉴의 ‘기타 설정’ 아래에 간결한 차트 패널이 나타납니다.";
+
 "Cycle Through Windows of Current App" = "현재 앱의 창을 순환";
 
+"Day" = "일";
+
 "Delete" = "삭제";
+
+"Delete all collected key, click, scroll, and mode-usage statistics? This cannot be undone." = "수집된 모든 키, 클릭, 스크롤 및 모드 사용 통계를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.";
+
+"Disable shortcut" = "단축키 비활성화";
 
 "Disabled. Direction keys always use continuous accelerated movement." = "비활성화됨. 방향키는 항상 가속이 적용된 연속 이동을 사용합니다.";
 
@@ -111,6 +133,8 @@
 "Enable Keyboard Mouse" = "키보드 마우스 사용";
 
 "Enable Keyboard Mouse Mode" = "키보드 마우스 모드 사용";
+
+"Enable shortcut" = "단축키 활성화";
 
 "Exit Launchpad" = "런치패드 종료";
 
@@ -152,11 +176,17 @@
 
 "Hold %@ and use %@ to move windows, select text, and move files." = "%1$@를 누른 채 %2$@를 사용해 창을 이동하고, 텍스트를 선택하고, 파일을 옮깁니다.";
 
+"How many times each mode was entered after enabling Keyboard & Mouse mode (Launchpad, Grid, Arrow Keys, Element)." = "키보드 및 마우스 모드를 켠 뒤 각 모드(런치패드, 격자, 방향키, 요소)에 진입한 횟수입니다.";
+
 "Icon Size" = "아이콘 크기";
 
 "In Keyboard & Mouse mode, press %@ to show or hide Launchpad (works even when Show Launchpad is off)" = "키보드 & 마우스 모드에서 %@을 누르면 런치패드를 표시하거나 숨길 수 있습니다（런치패드 표시가 꺼진 경우에도 작동합니다）";
 
 "Install " = "설치 ";
+
+"Key combinations such as A, K, Shift+A, ⌘+C are aggregated for the selected range." = "A, K, Shift+A, ⌘+C와 같은 키 조합이 선택한 기간에 대해 집계됩니다.";
+
+"Keyboard & Mouse Modes" = "키보드 및 마우스 모드";
 
 "Keyboard Mouse Exit" = "키보드 마우스 종료";
 
@@ -165,6 +195,8 @@
 "Keyboard Mouse Mode Prompt" = "키보드 마우스 모드 안내";
 
 "Keyboard-Mouse Mode Notification Settings" = "키보드-마우스 모드 알림 설정";
+
+"Keys" = "키";
 
 "Launch Pad" = "런치패드";
 
@@ -200,7 +232,11 @@
 
 "No App Hotkeys" = "앱 단축키 없음";
 
+"No data yet. Keep using the Mac to build trends." = "아직 데이터가 없습니다. Mac을 계속 사용하여 추세를 만들어 보세요.";
+
 "No external display connected, focus screen functionality is not required." = "외부 디스플레이가 연결되지 않아 포커스 화면 기능은 필요하지 않습니다.";
+
+"No key data in this range yet." = "이 기간에는 아직 키 데이터가 없습니다.";
 
 "None" = "없음";
 
@@ -245,6 +281,8 @@
 
 "Remove" = "제거";
 
+"Reset Statistics" = "통계 초기화";
+
 "Restart %@" = "%@ 다시 시작";
 
 "Right" = "오른쪽";
@@ -261,9 +299,13 @@
 
 "Saved Hotkeys" = "저장된 단축키";
 
+"Scrolls" = "스크롤";
+
 "Search" = "검색";
 
 "Select an application" = "응용 프로그램 선택";
+
+"Series" = "시리즈";
 
 "Set Shortcut" = "단축키 설정";
 
@@ -283,11 +325,15 @@
 
 "Show Only Added Apps" = "추가한 앱만 표시";
 
+"Show Statistics in Menu Bar" = "메뉴 막대에 통계 표시";
+
 "Simulate a left-click at the current cursor position." = "현재 커서 위치에서 왼쪽 클릭을 시뮬레이션합니다.";
 
 "Snap Cursor to Grid" = "커서를 격자에 맞추기";
 
 "Social Accounts" = "소셜 계정";
+
+"Statistics" = "통계";
 
 "Switch Applications" = "앱 전환";
 
@@ -298,6 +344,10 @@
 "These colors are shared with Snap Cursor to Grid." = "이 색상은 '커서를 격자에 맞추기'와 공유됩니다.";
 
 "To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "단축키를 감지하고 마우스를 움직일 수 있게 하려면 앱에 접근성 권한을 부여하세요.";
+
+"Top Keys" = "주요 키";
+
+"Trends" = "추세";
 
 "Type letter shortcuts on icons to open apps. Press %@ to clear input and re-type." = "아이콘에 문자 단축키를 입력해 앱을 열 수 있습니다. %@를 눌러 입력을 지우고 다시 입력하세요.";
 

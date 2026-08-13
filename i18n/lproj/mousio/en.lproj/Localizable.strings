@@ -8,6 +8,8 @@
 
 "%@" = "%@";
 
+"%@ %@" = "%1$@ %2$@";
+
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Add **%4$@** and check";
 
 "%@ Needs Accessibility Access" = "%@ Needs Accessibility Access";
@@ -17,6 +19,12 @@
 "%@(ms)" = "%@(ms)";
 
 "%lld" = "%lld";
+
+"%lld." = "%lld.";
+
+"%lldd" = "%lldd";
+
+"1d" = "1d";
 
 "About" = "About";
 
@@ -80,15 +88,29 @@
 
 "Click, then press a shortcut with ⌘, ⌃, or ⌥" = "Click, then press a shortcut with ⌘, ⌃, or ⌥";
 
+"Clicks" = "Clicks";
+
+"Collect Input Statistics" = "Collect Input Statistics";
+
 "Columns" = "Columns";
 
 "Contact" = "Contact";
 
 "Content moves in the direction of movement" = "Content moves in the direction of movement";
 
+"Count" = "Count";
+
+"Counts keyboard presses (including combos like Shift+A), mouse clicks, scroll events, and keyboard-mouse mode usage. Data is stored locally with SwiftData. When menu-bar display is on, a compact chart panel appears under Other Settings in the status menu." = "Counts keyboard presses (including combos like Shift+A), mouse clicks, scroll events, and keyboard-mouse mode usage. Data is stored locally with SwiftData. When menu-bar display is on, a compact chart panel appears under Other Settings in the status menu.";
+
 "Cycle Through Windows of Current App" = "Cycle Through Windows of Current App";
 
+"Day" = "Day";
+
 "Delete" = "Delete";
+
+"Delete all collected key, click, scroll, and mode-usage statistics? This cannot be undone." = "Delete all collected key, click, scroll, and mode-usage statistics? This cannot be undone.";
+
+"Disable shortcut" = "Disable shortcut";
 
 "Disabled. Direction keys always use continuous accelerated movement." = "Disabled. Direction keys always use continuous accelerated movement.";
 
@@ -111,6 +133,8 @@
 "Enable Keyboard Mouse" = "Enable Keyboard Mouse";
 
 "Enable Keyboard Mouse Mode" = "Enable Keyboard Mouse Mode";
+
+"Enable shortcut" = "Enable shortcut";
 
 "Exit Launchpad" = "Exit Launchpad";
 
@@ -152,11 +176,17 @@
 
 "Hold %@ and use %@ to move windows, select text, and move files." = "Hold %1$@ and use %2$@ to move windows, select text, and move files.";
 
+"How many times each mode was entered after enabling Keyboard & Mouse mode (Launchpad, Grid, Arrow Keys, Element)." = "How many times each mode was entered after enabling Keyboard & Mouse mode (Launchpad, Grid, Arrow Keys, Element).";
+
 "Icon Size" = "Icon Size";
 
 "In Keyboard & Mouse mode, press %@ to show or hide Launchpad (works even when Show Launchpad is off)" = "In Keyboard & Mouse mode, press %@ to show or hide Launchpad (works even when Show Launchpad is off)";
 
 "Install " = "Install ";
+
+"Key combinations such as A, K, Shift+A, ⌘+C are aggregated for the selected range." = "Key combinations such as A, K, Shift+A, ⌘+C are aggregated for the selected range.";
+
+"Keyboard & Mouse Modes" = "Keyboard & Mouse Modes";
 
 "Keyboard Mouse Exit" = "Keyboard Mouse Exit";
 
@@ -165,6 +195,8 @@
 "Keyboard Mouse Mode Prompt" = "Keyboard Mouse Mode Prompt";
 
 "Keyboard-Mouse Mode Notification Settings" = "Keyboard-Mouse Mode Notification Settings";
+
+"Keys" = "Keys";
 
 "Launch Pad" = "Launch Pad";
 
@@ -200,7 +232,11 @@
 
 "No App Hotkeys" = "No App Hotkeys";
 
+"No data yet. Keep using the Mac to build trends." = "No data yet. Keep using the Mac to build trends.";
+
 "No external display connected, focus screen functionality is not required." = "No external display connected, focus screen functionality is not required.";
+
+"No key data in this range yet." = "No key data in this range yet.";
 
 "None" = "None";
 
@@ -245,6 +281,8 @@
 
 "Remove" = "Remove";
 
+"Reset Statistics" = "Reset Statistics";
+
 "Restart %@" = "Restart %@";
 
 "Right" = "Right";
@@ -261,9 +299,13 @@
 
 "Saved Hotkeys" = "Saved Hotkeys";
 
+"Scrolls" = "Scrolls";
+
 "Search" = "Search";
 
 "Select an application" = "Select an application";
+
+"Series" = "Series";
 
 "Set Shortcut" = "Set Shortcut";
 
@@ -283,11 +325,15 @@
 
 "Show Only Added Apps" = "Show Only Added Apps";
 
+"Show Statistics in Menu Bar" = "Show Statistics in Menu Bar";
+
 "Simulate a left-click at the current cursor position." = "Simulate a left-click at the current cursor position.";
 
 "Snap Cursor to Grid" = "Snap Cursor to Grid";
 
 "Social Accounts" = "Social Accounts";
+
+"Statistics" = "Statistics";
 
 "Switch Applications" = "Switch Applications";
 
@@ -298,6 +344,10 @@
 "These colors are shared with Snap Cursor to Grid." = "These colors are shared with Snap Cursor to Grid.";
 
 "To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission.";
+
+"Top Keys" = "Top Keys";
+
+"Trends" = "Trends";
 
 "Type letter shortcuts on icons to open apps. Press %@ to clear input and re-type." = "Type letter shortcuts on icons to open apps. Press %@ to clear input and re-type.";
 

@@ -8,6 +8,8 @@
 
 "%@" = "%@";
 
+"%@ %@" = "%1$@ %2$@";
+
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@** を追加して確認";
 
 "%@ Needs Accessibility Access" = "%@ にはアクセシビリティへのアクセスが必要です";
@@ -17,6 +19,12 @@
 "%@(ms)" = "%@(ms)";
 
 "%lld" = "%lld";
+
+"%lld." = "%lld.";
+
+"%lldd" = "%lld日";
+
+"1d" = "1日";
 
 "About" = "情報";
 
@@ -80,15 +88,29 @@
 
 "Click, then press a shortcut with ⌘, ⌃, or ⌥" = "クリックしてから、⌘、⌃、または⌥を含むショートカットを押してください";
 
+"Clicks" = "クリック";
+
+"Collect Input Statistics" = "入力統計を収集";
+
 "Columns" = "列";
 
 "Contact" = "お問い合わせ";
 
 "Content moves in the direction of movement" = "内容は移動方向に追従します";
 
+"Count" = "回数";
+
+"Counts keyboard presses (including combos like Shift+A), mouse clicks, scroll events, and keyboard-mouse mode usage. Data is stored locally with SwiftData. When menu-bar display is on, a compact chart panel appears under Other Settings in the status menu." = "キー入力（Shift+Aなどの組み合わせを含む）、マウスクリック、スクロールイベント、キーボード＆マウスモードの使用回数を集計します。データはSwiftDataでローカルに保存されます。メニューバー表示をオンにすると、ステータスメニューの「その他の設定」の下にコンパクトなグラフパネルが表示されます。";
+
 "Cycle Through Windows of Current App" = "現在のアプリのウィンドウを切り替える";
 
+"Day" = "日";
+
 "Delete" = "削除";
+
+"Delete all collected key, click, scroll, and mode-usage statistics? This cannot be undone." = "収集したキー、クリック、スクロール、モード使用状況の統計をすべて削除しますか？この操作は取り消せません。";
+
+"Disable shortcut" = "ショートカットを無効にする";
 
 "Disabled. Direction keys always use continuous accelerated movement." = "無効です。方向キーは常に加速付きの連続移動を使用します。";
 
@@ -111,6 +133,8 @@
 "Enable Keyboard Mouse" = "キーボードマウスを有効にする";
 
 "Enable Keyboard Mouse Mode" = "キーボードマウスモードを有効にする";
+
+"Enable shortcut" = "ショートカットを有効にする";
 
 "Exit Launchpad" = "Launchpad を終了";
 
@@ -152,11 +176,17 @@
 
 "Hold %@ and use %@ to move windows, select text, and move files." = "%1$@ を押しながら %2$@ を使って、ウィンドウを移動したり、テキストを選択したり、ファイルを移動したりします。";
 
+"How many times each mode was entered after enabling Keyboard & Mouse mode (Launchpad, Grid, Arrow Keys, Element)." = "キーボード＆マウスモードを有効にした後、各モード（Launchpad、グリッド、矢印キー、要素）に入った回数。";
+
 "Icon Size" = "アイコンサイズ";
 
 "In Keyboard & Mouse mode, press %@ to show or hide Launchpad (works even when Show Launchpad is off)" = "キーボード＆マウスモードで、%@ を押して Launchpad を表示／非表示にします（「Launchpad を表示」がオフでも機能します）";
 
 "Install " = "インストール ";
+
+"Key combinations such as A, K, Shift+A, ⌘+C are aggregated for the selected range." = "A、K、Shift+A、⌘+Cなどのキーの組み合わせが、選択した期間ごとに集計されます。";
+
+"Keyboard & Mouse Modes" = "キーボード＆マウスモード";
 
 "Keyboard Mouse Exit" = "キーボードマウス終了";
 
@@ -165,6 +195,8 @@
 "Keyboard Mouse Mode Prompt" = "キーボードマウスモードの通知";
 
 "Keyboard-Mouse Mode Notification Settings" = "キーボードマウスモード通知設定";
+
+"Keys" = "キー";
 
 "Launch Pad" = "Launchpad";
 
@@ -200,7 +232,11 @@
 
 "No App Hotkeys" = "アプリのショートカットはありません";
 
+"No data yet. Keep using the Mac to build trends." = "まだデータがありません。Macを使い続けて傾向を確認しましょう。";
+
 "No external display connected, focus screen functionality is not required." = "外部ディスプレイが接続されていないため、フォーカス画面機能は不要です。";
+
+"No key data in this range yet." = "この期間のキーデータはまだありません。";
 
 "None" = "なし";
 
@@ -245,6 +281,8 @@
 
 "Remove" = "削除";
 
+"Reset Statistics" = "統計をリセット";
+
 "Restart %@" = "%@ を再起動";
 
 "Right" = "右";
@@ -261,9 +299,13 @@
 
 "Saved Hotkeys" = "保存したショートカット";
 
+"Scrolls" = "スクロール";
+
 "Search" = "検索";
 
 "Select an application" = "アプリケーションを選択";
+
+"Series" = "系列";
 
 "Set Shortcut" = "ショートカットを設定";
 
@@ -283,11 +325,15 @@
 
 "Show Only Added Apps" = "追加したアプリだけを表示";
 
+"Show Statistics in Menu Bar" = "メニューバーに統計を表示";
+
 "Simulate a left-click at the current cursor position." = "現在のカーソル位置で左クリックをシミュレートします。";
 
 "Snap Cursor to Grid" = "カーソルをグリッドに合わせる";
 
 "Social Accounts" = "ソーシャルアカウント";
+
+"Statistics" = "統計";
 
 "Switch Applications" = "アプリを切り替える";
 
@@ -298,6 +344,10 @@
 "These colors are shared with Snap Cursor to Grid." = "これらの色は「カーソルをグリッドに合わせる」と共有されています。";
 
 "To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "ショートカットを監視してマウスを動かす機能を有効にするには、アプリにアクセシビリティ権限を付与してください。";
+
+"Top Keys" = "よく使うキー";
+
+"Trends" = "傾向";
 
 "Type letter shortcuts on icons to open apps. Press %@ to clear input and re-type." = "アイコンに文字ショートカットを入力してアプリを開きます。%@ を押すと入力を消去してやり直せます。";
 

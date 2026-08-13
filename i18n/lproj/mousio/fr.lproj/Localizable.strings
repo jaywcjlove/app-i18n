@@ -8,6 +8,8 @@
 
 "%@" = "%@";
 
+"%@ %@" = "%1$@ %2$@";
+
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Ajouter **%4$@** et vérifier";
 
 "%@ Needs Accessibility Access" = "%@ nécessite l'accès à l'accessibilité";
@@ -17,6 +19,12 @@
 "%@(ms)" = "%@(ms)";
 
 "%lld" = "%lld";
+
+"%lld." = "%lld.";
+
+"%lldd" = "%lld j";
+
+"1d" = "1 j";
 
 "About" = "À propos";
 
@@ -80,15 +88,29 @@
 
 "Click, then press a shortcut with ⌘, ⌃, or ⌥" = "Cliquez, puis appuyez sur un raccourci avec ⌘, ⌃ ou ⌥";
 
+"Clicks" = "Clics";
+
+"Collect Input Statistics" = "Collecter les statistiques d’entrée";
+
 "Columns" = "Colonnes";
 
 "Contact" = "Contact";
 
 "Content moves in the direction of movement" = "Le contenu se déplace dans la direction du mouvement";
 
+"Count" = "Nombre";
+
+"Counts keyboard presses (including combos like Shift+A), mouse clicks, scroll events, and keyboard-mouse mode usage. Data is stored locally with SwiftData. When menu-bar display is on, a compact chart panel appears under Other Settings in the status menu." = "Compte les frappes (y compris les combinaisons comme Shift+A), les clics, les défilements et l’utilisation du mode clavier-souris. Les données sont stockées localement avec SwiftData. Lorsque l’affichage dans la barre des menus est activé, un panneau graphique compact apparaît sous Autres réglages dans le menu d’état.";
+
 "Cycle Through Windows of Current App" = "Parcourir les fenêtres de l'application actuelle";
 
+"Day" = "Jour";
+
 "Delete" = "Supprimer";
+
+"Delete all collected key, click, scroll, and mode-usage statistics? This cannot be undone." = "Supprimer toutes les statistiques collectées sur les touches, les clics, le défilement et l’utilisation des modes ? Cette action est irréversible.";
+
+"Disable shortcut" = "Désactiver le raccourci";
 
 "Disabled. Direction keys always use continuous accelerated movement." = "Désactivé. Les touches de direction utilisent toujours un mouvement continu accéléré.";
 
@@ -111,6 +133,8 @@
 "Enable Keyboard Mouse" = "Activer la souris au clavier";
 
 "Enable Keyboard Mouse Mode" = "Activer le mode souris au clavier";
+
+"Enable shortcut" = "Activer le raccourci";
 
 "Exit Launchpad" = "Quitter Launchpad";
 
@@ -152,11 +176,17 @@
 
 "Hold %@ and use %@ to move windows, select text, and move files." = "Maintenez %1$@ et utilisez %2$@ pour déplacer des fenêtres, sélectionner du texte et déplacer des fichiers.";
 
+"How many times each mode was entered after enabling Keyboard & Mouse mode (Launchpad, Grid, Arrow Keys, Element)." = "Nombre d’entrées dans chaque mode après l’activation du mode Clavier et souris (Launchpad, Grille, Flèches, Éléments).";
+
 "Icon Size" = "Taille des icônes";
 
 "In Keyboard & Mouse mode, press %@ to show or hide Launchpad (works even when Show Launchpad is off)" = "En mode Clavier et souris, appuyez sur %@ pour afficher ou masquer Launchpad (fonctionne même si Afficher Launchpad est désactivé)";
 
 "Install " = "Installer ";
+
+"Key combinations such as A, K, Shift+A, ⌘+C are aggregated for the selected range." = "Les combinaisons de touches telles que A, K, Maj+A et ⌘+C sont regroupées pour la période sélectionnée.";
+
+"Keyboard & Mouse Modes" = "Modes clavier et souris";
 
 "Keyboard Mouse Exit" = "Sortie de la souris au clavier";
 
@@ -165,6 +195,8 @@
 "Keyboard Mouse Mode Prompt" = "Invite du mode souris au clavier";
 
 "Keyboard-Mouse Mode Notification Settings" = "Paramètres de notification du mode souris au clavier";
+
+"Keys" = "Touches";
 
 "Launch Pad" = "Launchpad";
 
@@ -200,7 +232,11 @@
 
 "No App Hotkeys" = "Aucun raccourci d’application";
 
+"No data yet. Keep using the Mac to build trends." = "Aucune donnée pour le moment. Continuez à utiliser votre Mac pour faire apparaître les tendances.";
+
 "No external display connected, focus screen functionality is not required." = "Aucun écran externe connecté, la fonction d'écran de mise au point n'est pas nécessaire.";
+
+"No key data in this range yet." = "Aucune donnée de touche pour cette période.";
 
 "None" = "Aucun";
 
@@ -245,6 +281,8 @@
 
 "Remove" = "Supprimer";
 
+"Reset Statistics" = "Réinitialiser les statistiques";
+
 "Restart %@" = "Redémarrer %@";
 
 "Right" = "Droite";
@@ -261,9 +299,13 @@
 
 "Saved Hotkeys" = "Raccourcis enregistrés";
 
+"Scrolls" = "Défilements";
+
 "Search" = "Rechercher";
 
 "Select an application" = "Sélectionner une application";
+
+"Series" = "Séries";
 
 "Set Shortcut" = "Définir le raccourci";
 
@@ -283,11 +325,15 @@
 
 "Show Only Added Apps" = "Afficher uniquement les applications ajoutées";
 
+"Show Statistics in Menu Bar" = "Afficher les statistiques dans la barre de menus";
+
 "Simulate a left-click at the current cursor position." = "Simuler un clic gauche à la position actuelle du curseur.";
 
 "Snap Cursor to Grid" = "Aligner le curseur sur la grille";
 
 "Social Accounts" = "Comptes sociaux";
+
+"Statistics" = "Statistiques";
 
 "Switch Applications" = "Basculer entre les applications";
 
@@ -298,6 +344,10 @@
 "These colors are shared with Snap Cursor to Grid." = "Ces couleurs sont partagées avec l'option « Alignement du curseur sur la grille ».";
 
 "To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "Pour permettre l'écoute des raccourcis et le déplacement de la souris, accordez à l'application l'autorisation d'accessibilité.";
+
+"Top Keys" = "Touches les plus utilisées";
+
+"Trends" = "Tendances";
 
 "Type letter shortcuts on icons to open apps. Press %@ to clear input and re-type." = "Saisissez des raccourcis par lettres sur les icônes pour ouvrir les applications. Appuyez sur %@ pour effacer la saisie et recommencer.";
 

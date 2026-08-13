@@ -8,6 +8,8 @@
 
 "%@" = "%@";
 
+"%@ %@" = "%1$@ %2$@";
+
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> 新增 **%4$@** 並檢查";
 
 "%@ Needs Accessibility Access" = "%@ 需要協助工具權限";
@@ -17,6 +19,12 @@
 "%@(ms)" = "%@(毫秒)";
 
 "%lld" = "%lld";
+
+"%lld." = "%lld.";
+
+"%lldd" = "%lld天";
+
+"1d" = "1天";
 
 "About" = "關於";
 
@@ -80,15 +88,29 @@
 
 "Click, then press a shortcut with ⌘, ⌃, or ⌥" = "按一下，然後按下包含 ⌘、⌃ 或 ⌥ 的快速鍵";
 
+"Clicks" = "點擊次數";
+
+"Collect Input Statistics" = "收集輸入統計";
+
 "Columns" = "欄";
 
 "Contact" = "聯絡方式";
 
 "Content moves in the direction of movement" = "內容會隨移動方向移動";
 
+"Count" = "次數";
+
+"Counts keyboard presses (including combos like Shift+A), mouse clicks, scroll events, and keyboard-mouse mode usage. Data is stored locally with SwiftData. When menu-bar display is on, a compact chart panel appears under Other Settings in the status menu." = "統計按鍵（含 Shift+A 等組合鍵）、滑鼠點擊、滾動，以及鍵鼠模式使用次數。資料以 SwiftData 本機儲存。開啟選單列顯示後，狀態選單「其它設定」下方會以圖表面板展示統計。";
+
 "Cycle Through Windows of Current App" = "切換目前應用程式的視窗";
 
+"Day" = "日";
+
 "Delete" = "刪除";
+
+"Delete all collected key, click, scroll, and mode-usage statistics? This cannot be undone." = "要刪除所有收集的按鍵、點擊、捲動和模式使用統計資料嗎？此操作無法復原。";
+
+"Disable shortcut" = "停用快速鍵";
 
 "Disabled. Direction keys always use continuous accelerated movement." = "已停用。方向鍵一律使用連續加速移動。";
 
@@ -111,6 +133,8 @@
 "Enable Keyboard Mouse" = "啟用鍵盤滑鼠";
 
 "Enable Keyboard Mouse Mode" = "啟用鍵盤滑鼠模式";
+
+"Enable shortcut" = "啟用快速鍵";
 
 "Exit Launchpad" = "退出啟動台";
 
@@ -152,11 +176,17 @@
 
 "Hold %@ and use %@ to move windows, select text, and move files." = "按住 %1$@ 並使用 %2$@，即可移動視窗、選取文字與移動檔案。";
 
+"How many times each mode was entered after enabling Keyboard & Mouse mode (Launchpad, Grid, Arrow Keys, Element)." = "啟用鍵鼠模式後，各子模式（啟動台、格線導覽、方向鍵導覽、元件導覽）的進入次數。";
+
 "Icon Size" = "圖示大小";
 
 "In Keyboard & Mouse mode, press %@ to show or hide Launchpad (works even when Show Launchpad is off)" = "在鍵盤與滑鼠模式下，按 %@ 顯示或隱藏啟動台（即使「顯示啟動台」已關閉也有效）";
 
 "Install " = "安裝 ";
+
+"Key combinations such as A, K, Shift+A, ⌘+C are aggregated for the selected range." = "A、K、Shift+A、⌘+C 等按鍵組合會依所選時間範圍彙總。";
+
+"Keyboard & Mouse Modes" = "鍵鼠模式";
 
 "Keyboard Mouse Exit" = "鍵盤滑鼠退出";
 
@@ -165,6 +195,8 @@
 "Keyboard Mouse Mode Prompt" = "鍵盤滑鼠模式提示";
 
 "Keyboard-Mouse Mode Notification Settings" = "鍵盤滑鼠模式通知設定";
+
+"Keys" = "按鍵";
 
 "Launch Pad" = "啟動台";
 
@@ -200,7 +232,11 @@
 
 "No App Hotkeys" = "沒有應用程式快速鍵";
 
+"No data yet. Keep using the Mac to build trends." = "目前沒有資料。繼續使用 Mac 以建立趨勢。";
+
 "No external display connected, focus screen functionality is not required." = "未連接外接顯示器，因此不需要聚焦畫面功能。";
+
+"No key data in this range yet." = "此時間範圍內尚無按鍵資料。";
 
 "None" = "無";
 
@@ -245,6 +281,8 @@
 
 "Remove" = "移除";
 
+"Reset Statistics" = "重設統計";
+
 "Restart %@" = "重新啟動 %@";
 
 "Right" = "右側";
@@ -261,9 +299,13 @@
 
 "Saved Hotkeys" = "已儲存的快速鍵";
 
+"Scrolls" = "捲動";
+
 "Search" = "搜尋";
 
 "Select an application" = "選取應用程式";
+
+"Series" = "序列";
 
 "Set Shortcut" = "設定快速鍵";
 
@@ -283,11 +325,15 @@
 
 "Show Only Added Apps" = "只顯示已新增的應用程式";
 
+"Show Statistics in Menu Bar" = "在選單列顯示統計";
+
 "Simulate a left-click at the current cursor position." = "在目前游標位置模擬左鍵點擊。";
 
 "Snap Cursor to Grid" = "將游標貼齊格線";
 
 "Social Accounts" = "社群帳號";
+
+"Statistics" = "統計資料";
 
 "Switch Applications" = "切換應用程式";
 
@@ -298,6 +344,10 @@
 "These colors are shared with Snap Cursor to Grid." = "這些顏色與「將游標貼齊格線」共用。";
 
 "To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "若要讓應用程式偵聽快捷鍵並移動滑鼠，請授予其協助工具權限。";
+
+"Top Keys" = "常用按鍵";
+
+"Trends" = "趨勢";
 
 "Type letter shortcuts on icons to open apps. Press %@ to clear input and re-type." = "在圖示上輸入字母快捷鍵即可開啟應用程式。按 %@ 可清除輸入並重新輸入。";
 

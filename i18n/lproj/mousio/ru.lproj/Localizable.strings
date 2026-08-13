@@ -8,6 +8,8 @@
 
 "%@" = "%@";
 
+"%@ %@" = "%1$@ %2$@";
+
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> добавьте **%4$@** и проверьте";
 
 "%@ Needs Accessibility Access" = "%@ требует доступа к функциям специальных возможностей";
@@ -17,6 +19,12 @@
 "%@(ms)" = "%@(мс)";
 
 "%lld" = "%lld";
+
+"%lld." = "%lld.";
+
+"%lldd" = "%lld дн.";
+
+"1d" = "1 дн.";
 
 "About" = "О программе";
 
@@ -80,15 +88,29 @@
 
 "Click, then press a shortcut with ⌘, ⌃, or ⌥" = "Нажмите, затем нажмите сочетание клавиш с ⌘, ⌃ или ⌥";
 
+"Clicks" = "Клики";
+
+"Collect Input Statistics" = "Собирать статистику ввода";
+
 "Columns" = "Столбцы";
 
 "Contact" = "Контакты";
 
 "Content moves in the direction of movement" = "Содержимое движется в направлении движения";
 
+"Count" = "Количество";
+
+"Counts keyboard presses (including combos like Shift+A), mouse clicks, scroll events, and keyboard-mouse mode usage. Data is stored locally with SwiftData. When menu-bar display is on, a compact chart panel appears under Other Settings in the status menu." = "Подсчитывает нажатия клавиш (включая комбинации вроде Shift+A), клики мыши, события прокрутки и использование режима клавиатуры и мыши. Данные хранятся локально в SwiftData. При включении отображения в строке меню в статусном меню под пунктом «Другие настройки» появляется компактная панель с графиком.";
+
 "Cycle Through Windows of Current App" = "Переключать окна текущего приложения";
 
+"Day" = "День";
+
 "Delete" = "Удалить";
+
+"Delete all collected key, click, scroll, and mode-usage statistics? This cannot be undone." = "Удалить всю собранную статистику по клавишам, кликам, прокрутке и использованию режимов? Это действие нельзя отменить.";
+
+"Disable shortcut" = "Отключить сочетание клавиш";
 
 "Disabled. Direction keys always use continuous accelerated movement." = "Отключено. Клавиши со стрелками всегда используют непрерывное ускоренное перемещение.";
 
@@ -111,6 +133,8 @@
 "Enable Keyboard Mouse" = "Включить клавиатурную мышь";
 
 "Enable Keyboard Mouse Mode" = "Включить режим клавиатурной мыши";
+
+"Enable shortcut" = "Включить сочетание клавиш";
 
 "Exit Launchpad" = "Выйти из Launchpad";
 
@@ -152,11 +176,17 @@
 
 "Hold %@ and use %@ to move windows, select text, and move files." = "Удерживайте %1$@ и используйте %2$@, чтобы перемещать окна, выделять текст и переносить файлы.";
 
+"How many times each mode was entered after enabling Keyboard & Mouse mode (Launchpad, Grid, Arrow Keys, Element)." = "Сколько раз каждый режим включался после активации режима «Клавиатура и мышь» (Launchpad, сетка, стрелки, элементы).";
+
 "Icon Size" = "Размер значка";
 
 "In Keyboard & Mouse mode, press %@ to show or hide Launchpad (works even when Show Launchpad is off)" = "В режиме «Клавиатура и мышь» нажмите %@, чтобы показать или скрыть Launchpad (работает, даже если «Показывать Launchpad» отключено)";
 
 "Install " = "Установить ";
+
+"Key combinations such as A, K, Shift+A, ⌘+C are aggregated for the selected range." = "Комбинации клавиш, такие как A, K, Shift+A и ⌘+C, подсчитываются для выбранного периода.";
+
+"Keyboard & Mouse Modes" = "Режимы клавиатуры и мыши";
 
 "Keyboard Mouse Exit" = "Выход из режима клавиатурной мыши";
 
@@ -165,6 +195,8 @@
 "Keyboard Mouse Mode Prompt" = "Подсказка режима клавиатурной мыши";
 
 "Keyboard-Mouse Mode Notification Settings" = "Настройки уведомлений режима клавиатурной мыши";
+
+"Keys" = "Клавиши";
 
 "Launch Pad" = "Launchpad";
 
@@ -200,7 +232,11 @@
 
 "No App Hotkeys" = "Нет горячих клавиш приложений";
 
+"No data yet. Keep using the Mac to build trends." = "Данных пока нет. Продолжайте пользоваться Mac, чтобы сформировать тенденции.";
+
 "No external display connected, focus screen functionality is not required." = "Внешний дисплей не подключён, функция экрана фокуса не требуется.";
+
+"No key data in this range yet." = "За этот период данных о клавишах пока нет.";
 
 "None" = "Нет";
 
@@ -245,6 +281,8 @@
 
 "Remove" = "Удалить";
 
+"Reset Statistics" = "Сбросить статистику";
+
 "Restart %@" = "Перезапустить %@";
 
 "Right" = "Справа";
@@ -261,9 +299,13 @@
 
 "Saved Hotkeys" = "Сохранённые сочетания клавиш";
 
+"Scrolls" = "Прокрутка";
+
 "Search" = "Поиск";
 
 "Select an application" = "Выберите приложение";
+
+"Series" = "Ряды";
 
 "Set Shortcut" = "Задать сочетание клавиш";
 
@@ -283,11 +325,15 @@
 
 "Show Only Added Apps" = "Показывать только добавленные приложения";
 
+"Show Statistics in Menu Bar" = "Показывать статистику в строке меню";
+
 "Simulate a left-click at the current cursor position." = "Сымитировать левый клик в текущей позиции курсора.";
 
 "Snap Cursor to Grid" = "Привязать курсор к сетке";
 
 "Social Accounts" = "Социальные сети";
+
+"Statistics" = "Статистика";
 
 "Switch Applications" = "Переключать приложения";
 
@@ -298,6 +344,10 @@
 "These colors are shared with Snap Cursor to Grid." = "Эти цвета используются совместно с «Привязать курсор к сетке».";
 
 "To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "Чтобы включить возможность отслеживать сочетания клавиш и перемещать мышь, предоставьте приложению доступ к специальным возможностям.";
+
+"Top Keys" = "Популярные клавиши";
+
+"Trends" = "Тенденции";
 
 "Type letter shortcuts on icons to open apps. Press %@ to clear input and re-type." = "Введите буквенные сочетания на значках, чтобы открывать приложения. Нажмите %@, чтобы очистить ввод и ввести заново.";
 
