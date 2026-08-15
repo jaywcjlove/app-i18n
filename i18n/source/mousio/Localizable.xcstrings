@@ -1059,6 +1059,110 @@
         }
       }
     },
+    "Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Berechtigung für Bedienungshilfen ermöglicht **%@**, eine tastaturbasierte Maussteuerung als alternative Eingabemethode für die Interaktion mit deinem Mac bereitzustellen, ohne auf eine physische Maus oder ein Trackpad angewiesen zu sein."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’autorisation d’accessibilité permet à **%@** de fournir un contrôle de la souris au clavier, une méthode de saisie alternative pour interagir avec votre Mac sans dépendre d’une souris physique ou d’un trackpad."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’autorizzazione di accessibilità consente a **%@** di fornire il controllo del mouse tramite tastiera, un metodo di input alternativo per interagire con il Mac senza fare affidamento su un mouse fisico o un trackpad."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アクセシビリティ権限により、**%@** は物理的なマウスやトラックパッドに頼らず Mac を操作するための代替入力方法として、キーボードによるマウス操作を提供できます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "접근성 권한을 통해 **%@**은(는) 실제 마우스나 트랙패드에 의존하지 않고 Mac과 상호 작용할 수 있는 대체 입력 방법으로 키보드 기반 마우스 제어를 제공할 수 있습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доступ к специальным возможностям позволяет **%@** управлять мышью с клавиатуры — использовать альтернативный способ взаимодействия с Mac без физической мыши или трекпада."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "辅助功能权限允许 **%@** 提供基于键盘的鼠标控制，作为一种无需依赖实体鼠标或触控板即可操作 Mac 的替代输入方式。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "協助工具權限允許 **%@** 提供鍵盤滑鼠控制，作為一種無需依賴實體滑鼠或觸控板即可操作 Mac 的替代輸入方式。"
+          }
+        }
+      }
+    },
+    "Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Berechtigung für Bedienungshilfen ist aktiviert. **%@** kann jetzt tastaturbasierte Maussteuerung als alternative Eingabemethode bereitstellen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’autorisation d’accessibilité est activée. **%@** peut maintenant fournir un contrôle de la souris au clavier comme méthode de saisie alternative."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’autorizzazione di accessibilità è abilitata. **%@** può ora fornire il controllo del mouse tramite tastiera come metodo di input alternativo."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アクセシビリティ権限が有効になりました。**%@** は代替入力方法としてキーボードによるマウス操作を提供できるようになりました。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "접근성 권한이 활성화되었습니다. 이제 **%@**은(는) 대체 입력 방법으로 키보드 기반 마우스 제어를 제공할 수 있습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доступ к специальным возможностям включён. Теперь **%@** может управлять мышью с клавиатуры как альтернативным способом ввода."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "辅助功能权限已启用。现在 **%@** 可以提供基于键盘的鼠标控制，作为一种替代输入方式。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "協助工具權限已啟用。現在 **%@** 可以提供鍵盤滑鼠控制，作為替代輸入方式。"
+          }
+        }
+      }
+    },
     "Add" : {
       "localizations" : {
         "de" : {
@@ -9306,58 +9410,6 @@
         }
       }
     },
-    "To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Um Kurzbefehle abhören und die Maus bewegen zu können, erteile der App die Berechtigung für Bedienungshilfen."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pour permettre l'écoute des raccourcis et le déplacement de la souris, accordez à l'application l'autorisation d'accessibilité."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Per abilitare l'ascolto delle scorciatoie e il movimento del mouse, concedi all'applicazione l'autorizzazione di accessibilità."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ショートカットを監視してマウスを動かす機能を有効にするには、アプリにアクセシビリティ権限を付与してください。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "단축키를 감지하고 마우스를 움직일 수 있게 하려면 앱에 접근성 권한을 부여하세요."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Чтобы включить возможность отслеживать сочетания клавиш и перемещать мышь, предоставьте приложению доступ к специальным возможностям."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "若要启用监听快捷键和移动鼠标的功能，请授予该应用辅助功能权限。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "若要讓應用程式偵聽快捷鍵並移動滑鼠，請授予其協助工具權限。"
-          }
-        }
-      }
-    },
     "Top Keys" : {
       "localizations" : {
         "de" : {
@@ -9938,58 +9990,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "您可以指定 %@ 個功能鍵，單擊即可啟用提示模式。"
-          }
-        }
-      }
-    },
-    "You have granted the app Accessibility permission, enabling the ability to listen for shortcuts and move the mouse." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Du hast der App die Berechtigung für Bedienungshilfen erteilt, sodass Kurzbefehle abgehört und die Maus bewegt werden können."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vous avez accordé à l'application l'autorisation d'accessibilité, ce qui permet d'écouter les raccourcis et de déplacer la souris."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hai concesso all'applicazione l'autorizzazione di accessibilità, abilitando l'ascolto delle scorciatoie e il movimento del mouse."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "アプリにアクセシビリティ権限を付与したため、ショートカットを監視してマウスを動かせるようになりました。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "앱에 접근성 권한을 부여해 단축키를 감지하고 마우스를 움직일 수 있게 되었습니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вы предоставили приложению доступ к специальным возможностям, что позволяет отслеживать сочетания клавиш и перемещать мышь."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "您已授予应用辅助功能权限，已启用通过快捷键监听和移动鼠标的功能。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "您已授予應用程式協助工具權限，現在可以偵聽快捷鍵並移動滑鼠。"
           }
         }
       }

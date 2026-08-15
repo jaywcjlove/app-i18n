@@ -32,6 +32,10 @@
 
 "Accessibility" = "アクセシビリティ";
 
+"Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." = "アクセシビリティ権限により、**%@** は物理的なマウスやトラックパッドに頼らず Mac を操作するための代替入力方法として、キーボードによるマウス操作を提供できます。";
+
+"Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "アクセシビリティ権限が有効になりました。**%@** は代替入力方法としてキーボードによるマウス操作を提供できるようになりました。";
+
 "Add" = "追加";
 
 "Add App Hotkey" = "アプリのショートカットを追加";
@@ -343,8 +347,6 @@
 
 "These colors are shared with Snap Cursor to Grid." = "これらの色は「カーソルをグリッドに合わせる」と共有されています。";
 
-"To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "ショートカットを監視してマウスを動かす機能を有効にするには、アプリにアクセシビリティ権限を付与してください。";
-
 "Top Keys" = "よく使うキー";
 
 "Trends" = "傾向";
@@ -366,8 +368,6 @@
 "You are now in keyboard-controlled mouse mode." = "キーボード制御のマウスモードになりました。";
 
 "You can assign %@ function keys to activate Hint mode with a single press." = "%@ 個のファンクションキーを割り当てて、1 回押すだけでヒントモードを有効にできます。";
-
-"You have granted the app Accessibility permission, enabling the ability to listen for shortcuts and move the mouse." = "アプリにアクセシビリティ権限を付与したため、ショートカットを監視してマウスを動かせるようになりました。";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
 

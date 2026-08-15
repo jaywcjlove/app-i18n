@@ -32,6 +32,10 @@
 
 "Accessibility" = "Bedienungshilfen";
 
+"Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." = "Die Berechtigung für Bedienungshilfen ermöglicht **%@**, eine tastaturbasierte Maussteuerung als alternative Eingabemethode für die Interaktion mit deinem Mac bereitzustellen, ohne auf eine physische Maus oder ein Trackpad angewiesen zu sein.";
+
+"Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "Die Berechtigung für Bedienungshilfen ist aktiviert. **%@** kann jetzt tastaturbasierte Maussteuerung als alternative Eingabemethode bereitstellen.";
+
 "Add" = "Hinzufügen";
 
 "Add App Hotkey" = "App-Hotkey hinzufügen";
@@ -343,8 +347,6 @@
 
 "These colors are shared with Snap Cursor to Grid." = "Diese Farben werden auch für „Cursor am Raster ausrichten“ verwendet.";
 
-"To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "Um Kurzbefehle abhören und die Maus bewegen zu können, erteile der App die Berechtigung für Bedienungshilfen.";
-
 "Top Keys" = "Häufigste Tasten";
 
 "Trends" = "Entwicklungen";
@@ -366,8 +368,6 @@
 "You are now in keyboard-controlled mouse mode." = "Du bist jetzt im tastaturgesteuerten Mausmodus.";
 
 "You can assign %@ function keys to activate Hint mode with a single press." = "Du kannst %@ Funktionstasten zuweisen, um den Hinweismodus mit einem einzigen Druck zu aktivieren.";
-
-"You have granted the app Accessibility permission, enabling the ability to listen for shortcuts and move the mouse." = "Du hast der App die Berechtigung für Bedienungshilfen erteilt, sodass Kurzbefehle abgehört und die Maus bewegt werden können.";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-Mail](emailurl) • [Github](githuburl)";
 

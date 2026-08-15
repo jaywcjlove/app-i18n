@@ -32,6 +32,10 @@
 
 "Accessibility" = "辅助功能";
 
+"Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." = "辅助功能权限允许 **%@** 提供基于键盘的鼠标控制，作为一种无需依赖实体鼠标或触控板即可操作 Mac 的替代输入方式。";
+
+"Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "辅助功能权限已启用。现在 **%@** 可以提供基于键盘的鼠标控制，作为一种替代输入方式。";
+
 "Add" = "添加";
 
 "Add App Hotkey" = "添加应用快捷键";
@@ -343,8 +347,6 @@
 
 "These colors are shared with Snap Cursor to Grid." = "这些颜色与“光标吸附到网格”共用。";
 
-"To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "若要启用监听快捷键和移动鼠标的功能，请授予该应用辅助功能权限。";
-
 "Top Keys" = "常用按键";
 
 "Trends" = "趋势";
@@ -366,8 +368,6 @@
 "You are now in keyboard-controlled mouse mode." = "提示你已进入键盘控制鼠标的模式。";
 
 "You can assign %@ function keys to activate Hint mode with a single press." = "您可以分配 %@ 功能键，一键激活 Hint 模式。";
-
-"You have granted the app Accessibility permission, enabling the ability to listen for shortcuts and move the mouse." = "您已授予应用辅助功能权限，已启用通过快捷键监听和移动鼠标的功能。";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
 

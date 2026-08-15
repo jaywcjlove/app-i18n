@@ -32,6 +32,10 @@
 
 "Accessibility" = "접근성";
 
+"Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." = "접근성 권한을 통해 **%@**은(는) 실제 마우스나 트랙패드에 의존하지 않고 Mac과 상호 작용할 수 있는 대체 입력 방법으로 키보드 기반 마우스 제어를 제공할 수 있습니다.";
+
+"Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "접근성 권한이 활성화되었습니다. 이제 **%@**은(는) 대체 입력 방법으로 키보드 기반 마우스 제어를 제공할 수 있습니다.";
+
 "Add" = "추가";
 
 "Add App Hotkey" = "앱 단축키 추가";
@@ -343,8 +347,6 @@
 
 "These colors are shared with Snap Cursor to Grid." = "이 색상은 '커서를 격자에 맞추기'와 공유됩니다.";
 
-"To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "단축키를 감지하고 마우스를 움직일 수 있게 하려면 앱에 접근성 권한을 부여하세요.";
-
 "Top Keys" = "주요 키";
 
 "Trends" = "추세";
@@ -366,8 +368,6 @@
 "You are now in keyboard-controlled mouse mode." = "이제 키보드로 제어하는 마우스 모드입니다.";
 
 "You can assign %@ function keys to activate Hint mode with a single press." = "%@개의 기능 키를 할당해 한 번의 눌림으로 힌트 모드를 활성화할 수 있습니다.";
-
-"You have granted the app Accessibility permission, enabling the ability to listen for shortcuts and move the mouse." = "앱에 접근성 권한을 부여해 단축키를 감지하고 마우스를 움직일 수 있게 되었습니다.";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
 

@@ -32,6 +32,10 @@
 
 "Accessibility" = "Специальные возможности";
 
+"Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." = "Доступ к специальным возможностям позволяет **%@** управлять мышью с клавиатуры — использовать альтернативный способ взаимодействия с Mac без физической мыши или трекпада.";
+
+"Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "Доступ к специальным возможностям включён. Теперь **%@** может управлять мышью с клавиатуры как альтернативным способом ввода.";
+
 "Add" = "Добавить";
 
 "Add App Hotkey" = "Добавить горячую клавишу приложения";
@@ -343,8 +347,6 @@
 
 "These colors are shared with Snap Cursor to Grid." = "Эти цвета используются совместно с «Привязать курсор к сетке».";
 
-"To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "Чтобы включить возможность отслеживать сочетания клавиш и перемещать мышь, предоставьте приложению доступ к специальным возможностям.";
-
 "Top Keys" = "Популярные клавиши";
 
 "Trends" = "Тенденции";
@@ -366,8 +368,6 @@
 "You are now in keyboard-controlled mouse mode." = "Теперь вы в режиме управления мышью с клавиатуры.";
 
 "You can assign %@ function keys to activate Hint mode with a single press." = "Вы можете назначить %@ функциональных клавиш для активации режима подсказок одним нажатием.";
-
-"You have granted the app Accessibility permission, enabling the ability to listen for shortcuts and move the mouse." = "Вы предоставили приложению доступ к специальным возможностям, что позволяет отслеживать сочетания клавиш и перемещать мышь.";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
 

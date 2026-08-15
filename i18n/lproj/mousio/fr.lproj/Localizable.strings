@@ -32,6 +32,10 @@
 
 "Accessibility" = "Accessibilité";
 
+"Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." = "L’autorisation d’accessibilité permet à **%@** de fournir un contrôle de la souris au clavier, une méthode de saisie alternative pour interagir avec votre Mac sans dépendre d’une souris physique ou d’un trackpad.";
+
+"Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "L’autorisation d’accessibilité est activée. **%@** peut maintenant fournir un contrôle de la souris au clavier comme méthode de saisie alternative.";
+
 "Add" = "Ajouter";
 
 "Add App Hotkey" = "Ajouter un raccourci d’application";
@@ -343,8 +347,6 @@
 
 "These colors are shared with Snap Cursor to Grid." = "Ces couleurs sont partagées avec l'option « Alignement du curseur sur la grille ».";
 
-"To enable the ability to listen for shortcuts and move the mouse, please grant the app Accessibility permission." = "Pour permettre l'écoute des raccourcis et le déplacement de la souris, accordez à l'application l'autorisation d'accessibilité.";
-
 "Top Keys" = "Touches les plus utilisées";
 
 "Trends" = "Tendances";
@@ -366,8 +368,6 @@
 "You are now in keyboard-controlled mouse mode." = "Vous êtes maintenant en mode souris contrôlée par le clavier.";
 
 "You can assign %@ function keys to activate Hint mode with a single press." = "Vous pouvez attribuer %@ touches de fonction pour activer le mode d'indication d'un seul appui.";
-
-"You have granted the app Accessibility permission, enabling the ability to listen for shortcuts and move the mouse." = "Vous avez accordé à l'application l'autorisation d'accessibilité, ce qui permet d'écouter les raccourcis et de déplacer la souris.";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
 
