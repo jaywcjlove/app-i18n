@@ -2,11 +2,19 @@
 
 "%@" = "%@";
 
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Aggiungi **%4$@** e verifica";
+
 "%@ Dark Mode" = "%@ Modalita scura";
 
 "%@ Follow System" = "%@ Segui sistema";
 
 "%@ Light Mode" = "%@ Modalita chiara";
+
+"%@ Needs Access" = "%@ richiede l’accesso";
+
+"%@ permission allows **%@** to capture the desktop, take screenshots, and annotate the screen." = "L'autorizzazione %1$@ consente a **%2$@** di catturare il desktop, fare screenshot e annotare lo schermo.";
+
+"%@ permission allows **%@** to respond to global keyboard shortcuts and capture the full screen." = "L'autorizzazione %1$@ consente a **%2$@** di rispondere alle scorciatoie globali e catturare l'intero schermo.";
 
 "%@%@" = "%1$@%2$@";
 
@@ -14,9 +22,15 @@
 
 "%lldpx" = "%lldpx";
 
+"**%@** permission is enabled. **%@** can now capture the desktop." = "L'autorizzazione **%1$@** è abilitata. **%2$@** può ora catturare il desktop.";
+
+"**%@** permission is enabled. **%@** can now respond to global keyboard shortcuts and capture the full screen." = "L'autorizzazione **%1$@** è abilitata. **%2$@** può ora rispondere alle scorciatoie globali e catturare l'intero schermo.";
+
 "About" = "Informazioni";
 
 "About %@" = "Informazioni su %@";
+
+"Access" = "Accesso";
 
 "Acknowledgments" = "Ringraziamenti";
 
@@ -26,9 +40,13 @@
 
 "Appearance" = "Aspetto";
 
+"Authorization Required" = "Autorizzazione richiesta";
+
 "Background" = "Sfondo";
 
 "Blur" = "Sfocatura";
+
+"Cancel" = "Annulla";
 
 "Cancel (Esc)" = "Annulla (Esc)";
 
@@ -114,9 +132,9 @@
 
 "Paste Image Overlay" = "Incolla sovrapposizione immagine";
 
-"Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "Abilita “Registrazione schermo e audio di sistema”, altrimenti l'app non puo acquisire l'intera immagine del desktop. Vai su: **Impostazioni di sistema** → **Privacy e sicurezza** → **Registrazione schermo e audio di sistema**";
-
 "Position" = "Posizione";
+
+"Privacy & Security" = "Privacy e sicurezza";
 
 "Privacy Policy" = "Informativa sulla privacy";
 
@@ -141,8 +159,6 @@
 "Save Image" = "Salva immagine";
 
 "Save Image As" = "Salva immagine come";
-
-"Screen & System Audio Recording permission" = "Permesso di registrazione schermo e audio di sistema";
 
 "Screen Recording Required" = "Registrazione schermo richiesta";
 
@@ -173,6 +189,8 @@
 "Solid" = "Tinta unita";
 
 "Start/End Color" = "Colore iniziale/finale";
+
+"System Preferences" = "Preferenze di Sistema";
 
 "Terms of Service" = "Termini di servizio";
 

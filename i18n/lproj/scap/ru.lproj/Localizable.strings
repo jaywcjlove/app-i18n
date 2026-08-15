@@ -2,11 +2,19 @@
 
 "%@" = "%@";
 
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Добавить **%4$@** и проверить";
+
 "%@ Dark Mode" = "%@ Тёмный режим";
 
 "%@ Follow System" = "%@ Как в системе";
 
 "%@ Light Mode" = "%@ Светлый режим";
+
+"%@ Needs Access" = "%@ требуется доступ";
+
+"%@ permission allows **%@** to capture the desktop, take screenshots, and annotate the screen." = "Разрешение %1$@ позволяет **%2$@** снимать рабочий стол, делать скриншоты и добавлять аннотации.";
+
+"%@ permission allows **%@** to respond to global keyboard shortcuts and capture the full screen." = "Разрешение %1$@ позволяет **%2$@** реагировать на глобальные сочетания клавиш и снимать весь экран.";
 
 "%@%@" = "%1$@%2$@";
 
@@ -14,9 +22,15 @@
 
 "%lldpx" = "%lldpx";
 
+"**%@** permission is enabled. **%@** can now capture the desktop." = "Разрешение **%1$@** включено. Теперь **%2$@** может снимать рабочий стол.";
+
+"**%@** permission is enabled. **%@** can now respond to global keyboard shortcuts and capture the full screen." = "Разрешение **%1$@** включено. Теперь **%2$@** может реагировать на глобальные сочетания клавиш и снимать весь экран.";
+
 "About" = "О приложении";
 
 "About %@" = "О %@";
+
+"Access" = "Доступ";
 
 "Acknowledgments" = "Благодарности";
 
@@ -26,9 +40,13 @@
 
 "Appearance" = "Внешний вид";
 
+"Authorization Required" = "Требуется разрешение";
+
 "Background" = "Фон";
 
 "Blur" = "Размытие";
+
+"Cancel" = "Отмена";
 
 "Cancel (Esc)" = "Отмена (Esc)";
 
@@ -114,9 +132,9 @@
 
 "Paste Image Overlay" = "Вставить наложение изображения";
 
-"Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "Пожалуйста, включите “Запись экрана и системного аудио”, иначе приложение не сможет захватить полный снимок рабочего стола. Перейдите: **Системные настройки** → **Конфиденциальность и безопасность** → **Запись экрана и системного аудио**";
-
 "Position" = "Позиция";
+
+"Privacy & Security" = "Конфиденциальность и безопасность";
 
 "Privacy Policy" = "Политика конфиденциальности";
 
@@ -141,8 +159,6 @@
 "Save Image" = "Сохранить изображение";
 
 "Save Image As" = "Сохранить изображение как";
-
-"Screen & System Audio Recording permission" = "Разрешение на запись экрана и системного аудио";
 
 "Screen Recording Required" = "Требуется запись экрана";
 
@@ -173,6 +189,8 @@
 "Solid" = "Сплошной";
 
 "Start/End Color" = "Начальный/конечный цвет";
+
+"System Preferences" = "Системные настройки";
 
 "Terms of Service" = "Условия использования";
 

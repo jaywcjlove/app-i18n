@@ -2,11 +2,19 @@
 
 "%@" = "%@";
 
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Ajouter **%4$@** et vérifier";
+
 "%@ Dark Mode" = "%@ Mode sombre";
 
 "%@ Follow System" = "%@ Suivre le système";
 
 "%@ Light Mode" = "%@ Mode clair";
+
+"%@ Needs Access" = "%@ a besoin d’autorisations";
+
+"%@ permission allows **%@** to capture the desktop, take screenshots, and annotate the screen." = "L'autorisation %1$@ permet à **%2$@** de capturer le bureau, de prendre des captures d'écran et d'annoter l'écran.";
+
+"%@ permission allows **%@** to respond to global keyboard shortcuts and capture the full screen." = "L'autorisation %1$@ permet à **%2$@** de répondre aux raccourcis clavier globaux et de capturer l'écran entier.";
 
 "%@%@" = "%1$@%2$@";
 
@@ -14,9 +22,15 @@
 
 "%lldpx" = "%lldpx";
 
+"**%@** permission is enabled. **%@** can now capture the desktop." = "L'autorisation **%1$@** est activée. **%2$@** peut maintenant capturer le bureau.";
+
+"**%@** permission is enabled. **%@** can now respond to global keyboard shortcuts and capture the full screen." = "L'autorisation **%1$@** est activée. **%2$@** peut maintenant répondre aux raccourcis clavier globaux et capturer l'écran entier.";
+
 "About" = "À propos";
 
 "About %@" = "À propos de %@";
+
+"Access" = "Accès";
 
 "Acknowledgments" = "Remerciements";
 
@@ -26,9 +40,13 @@
 
 "Appearance" = "Apparence";
 
+"Authorization Required" = "Autorisation requise";
+
 "Background" = "Arrière-plan";
 
 "Blur" = "Flou";
+
+"Cancel" = "Annuler";
 
 "Cancel (Esc)" = "Annuler (Echap)";
 
@@ -114,9 +132,9 @@
 
 "Paste Image Overlay" = "Coller la superposition d'image";
 
-"Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "Veuillez activer « Enregistrement d'écran et audio système », sinon l'application ne peut pas capturer l'image complète du bureau. Allez dans : **Réglages système** → **Confidentialité et sécurité** → **Enregistrement d'écran et audio système**";
-
 "Position" = "Emplacement";
+
+"Privacy & Security" = "Confidentialité et sécurité";
 
 "Privacy Policy" = "Politique de confidentialité";
 
@@ -141,8 +159,6 @@
 "Save Image" = "Enregistrer l'image";
 
 "Save Image As" = "Enregistrer l'image sous";
-
-"Screen & System Audio Recording permission" = "Autorisation d'enregistrement d'écran et audio système";
 
 "Screen Recording Required" = "Enregistrement d'écran requis";
 
@@ -173,6 +189,8 @@
 "Solid" = "Uni";
 
 "Start/End Color" = "Couleur début/fin";
+
+"System Preferences" = "Préférences Système";
 
 "Terms of Service" = "Conditions d'utilisation";
 

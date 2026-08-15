@@ -2,11 +2,19 @@
 
 "%@" = "%@";
 
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Add **%4$@** and check";
+
 "%@ Dark Mode" = "%@ Dark Mode";
 
 "%@ Follow System" = "%@ Follow System";
 
 "%@ Light Mode" = "%@ Light Mode";
+
+"%@ Needs Access" = "%@ Needs Access";
+
+"%@ permission allows **%@** to capture the desktop, take screenshots, and annotate the screen." = "%1$@ permission allows **%2$@** to capture the desktop, take screenshots, and annotate the screen.";
+
+"%@ permission allows **%@** to respond to global keyboard shortcuts and capture the full screen." = "%1$@ permission allows **%2$@** to respond to global keyboard shortcuts and capture the full screen.";
 
 "%@%@" = "%1$@%2$@";
 
@@ -14,9 +22,15 @@
 
 "%lldpx" = "%lldpx";
 
+"**%@** permission is enabled. **%@** can now capture the desktop." = "**%1$@** permission is enabled. **%2$@** can now capture the desktop.";
+
+"**%@** permission is enabled. **%@** can now respond to global keyboard shortcuts and capture the full screen." = "**%1$@** permission is enabled. **%2$@** can now respond to global keyboard shortcuts and capture the full screen.";
+
 "About" = "About";
 
 "About %@" = "About %@";
+
+"Access" = "Access";
 
 "Acknowledgments" = "Acknowledgments";
 
@@ -26,9 +40,13 @@
 
 "Appearance" = "Appearance";
 
+"Authorization Required" = "Authorization Required";
+
 "Background" = "Background";
 
 "Blur" = "Blur";
+
+"Cancel" = "Cancel";
 
 "Cancel (Esc)" = "Cancel (Esc)";
 
@@ -114,9 +132,9 @@
 
 "Paste Image Overlay" = "Paste Image Overlay";
 
-"Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**";
-
 "Position" = "Position";
+
+"Privacy & Security" = "Privacy & Security";
 
 "Privacy Policy" = "Privacy Policy";
 
@@ -141,8 +159,6 @@
 "Save Image" = "Save Image";
 
 "Save Image As" = "Save Image As";
-
-"Screen & System Audio Recording permission" = "Screen & System Audio Recording permission";
 
 "Screen Recording Required" = "Screen Recording Required";
 
@@ -173,6 +189,8 @@
 "Solid" = "Solid";
 
 "Start/End Color" = "Start/End Color";
+
+"System Preferences" = "System Preferences";
 
 "Terms of Service" = "Terms of Service";
 

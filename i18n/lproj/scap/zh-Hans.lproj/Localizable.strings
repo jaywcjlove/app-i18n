@@ -2,11 +2,19 @@
 
 "%@" = "%@";
 
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> 添加 **%4$@** 并勾选";
+
 "%@ Dark Mode" = "%@ 暗模式";
 
 "%@ Follow System" = "%@ 跟随系统";
 
 "%@ Light Mode" = "%@ 亮模式";
+
+"%@ Needs Access" = "%@ 需要授权";
+
+"%@ permission allows **%@** to capture the desktop, take screenshots, and annotate the screen." = "%1$@ 权限允许 **%2$@** 捕获桌面、截图并在屏幕上标注。";
+
+"%@ permission allows **%@** to respond to global keyboard shortcuts and capture the full screen." = "%1$@ 权限允许 **%2$@** 响应全局快捷键并捕获全屏。";
 
 "%@%@" = "%1$@%2$@";
 
@@ -14,9 +22,15 @@
 
 "%lldpx" = "%lldpx";
 
+"**%@** permission is enabled. **%@** can now capture the desktop." = "**%1$@** 权限已启用。现在 **%2$@** 可以捕获桌面。";
+
+"**%@** permission is enabled. **%@** can now respond to global keyboard shortcuts and capture the full screen." = "**%1$@** 权限已启用。现在 **%2$@** 可以响应全局快捷键并捕获全屏。";
+
 "About" = "关于";
 
 "About %@" = "关于 %@";
+
+"Access" = "访问权限";
 
 "Acknowledgments" = "致谢";
 
@@ -26,9 +40,13 @@
 
 "Appearance" = "外观";
 
+"Authorization Required" = "需要授权";
+
 "Background" = "背景";
 
 "Blur" = "模糊";
+
+"Cancel" = "取消";
 
 "Cancel (Esc)" = "取消 (Esc)";
 
@@ -114,9 +132,9 @@
 
 "Paste Image Overlay" = "粘贴图像覆盖层";
 
-"Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "请开启「屏幕与系统音频录制」权限，否则无法截取完整桌面图像。\n前往：系统设置 → 隐私与安全性 → 屏幕与系统音频录制";
-
 "Position" = "位置";
+
+"Privacy & Security" = "隐私与安全性";
 
 "Privacy Policy" = "隐私政策";
 
@@ -141,8 +159,6 @@
 "Save Image" = "保存图片";
 
 "Save Image As" = "另存图片";
-
-"Screen & System Audio Recording permission" = "屏幕与系统音频录制权限";
 
 "Screen Recording Required" = "需要屏幕录制权限";
 
@@ -173,6 +189,8 @@
 "Solid" = "纯色";
 
 "Start/End Color" = "起始/结束颜色";
+
+"System Preferences" = "系统偏好设置";
 
 "Terms of Service" = "服务条款";
 

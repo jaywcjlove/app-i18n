@@ -2,11 +2,19 @@
 
 "%@" = "%@";
 
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@** を追加して確認";
+
 "%@ Dark Mode" = "%@ ダークモード";
 
 "%@ Follow System" = "%@ システム設定に従う";
 
 "%@ Light Mode" = "%@ ライトモード";
+
+"%@ Needs Access" = "%@ にはアクセス権限が必要です";
+
+"%@ permission allows **%@** to capture the desktop, take screenshots, and annotate the screen." = "%1$@ 権限により、**%2$@** はデスクトップをキャプチャし、スクリーンショットを撮影し、画面に注釈を付けられます。";
+
+"%@ permission allows **%@** to respond to global keyboard shortcuts and capture the full screen." = "%1$@ 権限により、**%2$@** はグローバルショートカットに応答し、全画面をキャプチャできます。";
 
 "%@%@" = "%1$@%2$@";
 
@@ -14,9 +22,15 @@
 
 "%lldpx" = "%lldpx";
 
+"**%@** permission is enabled. **%@** can now capture the desktop." = "**%1$@** 権限が有効です。**%2$@** はデスクトップをキャプチャできます。";
+
+"**%@** permission is enabled. **%@** can now respond to global keyboard shortcuts and capture the full screen." = "**%1$@** 権限が有効です。**%2$@** はグローバルショートカットに応答し、全画面をキャプチャできます。";
+
 "About" = "について";
 
 "About %@" = "%@ について";
+
+"Access" = "アクセス";
 
 "Acknowledgments" = "謝辞";
 
@@ -26,9 +40,13 @@
 
 "Appearance" = "外観";
 
+"Authorization Required" = "許可が必要です";
+
 "Background" = "背景";
 
 "Blur" = "ぼかし";
+
+"Cancel" = "キャンセル";
 
 "Cancel (Esc)" = "キャンセル (Esc)";
 
@@ -114,9 +132,9 @@
 
 "Paste Image Overlay" = "画像オーバーレイを貼り付け";
 
-"Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "「画面とシステムオーディオの収録」を有効にしてください。そうでないと、アプリがデスクトップ全体の画像をキャプチャできません。**システム設定** → **プライバシーとセキュリティ** → **画面とシステムオーディオの収録** から設定してください";
-
 "Position" = "位置";
+
+"Privacy & Security" = "プライバシーとセキュリティ";
 
 "Privacy Policy" = "プライバシーポリシー";
 
@@ -141,8 +159,6 @@
 "Save Image" = "画像を保存";
 
 "Save Image As" = "画像を別名で保存";
-
-"Screen & System Audio Recording permission" = "画面とシステムオーディオの収録権限";
 
 "Screen Recording Required" = "画面収録が必要です";
 
@@ -173,6 +189,8 @@
 "Solid" = "単色";
 
 "Start/End Color" = "開始/終了色";
+
+"System Preferences" = "システム環境設定";
 
 "Terms of Service" = "利用規約";
 

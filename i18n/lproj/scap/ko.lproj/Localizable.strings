@@ -2,11 +2,19 @@
 
 "%@" = "%@";
 
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@** 추가 및 확인";
+
 "%@ Dark Mode" = "%@ 다크 모드";
 
 "%@ Follow System" = "%@ 시스템 설정 따르기";
 
 "%@ Light Mode" = "%@ 라이트 모드";
+
+"%@ Needs Access" = "%@에 접근 권한이 필요합니다";
+
+"%@ permission allows **%@** to capture the desktop, take screenshots, and annotate the screen." = "%1$@ 권한을 통해 **%2$@**은(는) 데스크톱을 캡처하고, 스크린샷을 찍고, 화면에 주석을 달 수 있습니다.";
+
+"%@ permission allows **%@** to respond to global keyboard shortcuts and capture the full screen." = "%1$@ 권한을 통해 **%2$@**은(는) 전역 단축키에 응답하고 전체 화면을 캡처할 수 있습니다.";
 
 "%@%@" = "%1$@%2$@";
 
@@ -14,9 +22,15 @@
 
 "%lldpx" = "%lldpx";
 
+"**%@** permission is enabled. **%@** can now capture the desktop." = "**%1$@** 권한이 활성화되었습니다. 이제 **%2$@**은(는) 데스크톱을 캡처할 수 있습니다.";
+
+"**%@** permission is enabled. **%@** can now respond to global keyboard shortcuts and capture the full screen." = "**%1$@** 권한이 활성화되었습니다. 이제 **%2$@**은(는) 전역 단축키에 응답하고 전체 화면을 캡처할 수 있습니다.";
+
 "About" = "정보";
 
 "About %@" = "%@ 정보";
+
+"Access" = "접근 권한";
 
 "Acknowledgments" = "감사의 말";
 
@@ -26,9 +40,13 @@
 
 "Appearance" = "외관";
 
+"Authorization Required" = "권한 필요";
+
 "Background" = "배경";
 
 "Blur" = "흐림";
+
+"Cancel" = "취소";
 
 "Cancel (Esc)" = "취소 (Esc)";
 
@@ -114,9 +132,9 @@
 
 "Paste Image Overlay" = "이미지 오버레이 붙여넣기";
 
-"Please enable “Screen & System Audio Recording”, otherwise the app cannot capture the full desktop image. Go to: **System Settings** → **Privacy & Security** → **Screen & System Audio Recording**" = "“화면 및 시스템 오디오 녹화”를 활성화해 주세요. 그렇지 않으면 앱이 전체 데스크톱 이미지를 캐프처할 수 없습니다. **시스템 설정** → **개인정보 보호 및 보안** → **화면 및 시스템 오디오 녹화**로 이동하세요";
-
 "Position" = "위치";
+
+"Privacy & Security" = "개인정보 및 보안";
 
 "Privacy Policy" = "개인정보 처리방침";
 
@@ -141,8 +159,6 @@
 "Save Image" = "이미지 저장";
 
 "Save Image As" = "이미지 다른 이름으로 저장";
-
-"Screen & System Audio Recording permission" = "화면 및 시스템 오디오 녹화 권한";
 
 "Screen Recording Required" = "화면 녹화 권한 필요";
 
@@ -173,6 +189,8 @@
 "Solid" = "단색";
 
 "Start/End Color" = "시작/끝 색상";
+
+"System Preferences" = "시스템 환경설정";
 
 "Terms of Service" = "서비스 약관";
 
