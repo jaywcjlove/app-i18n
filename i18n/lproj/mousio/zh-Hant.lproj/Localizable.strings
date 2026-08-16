@@ -12,7 +12,7 @@
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> 新增 **%4$@** 並檢查";
 
-"%@ Needs Accessibility Access" = "%@ 需要協助工具權限";
+"%@ Needs Access" = "%@ 需要取用權限";
 
 "%@ the %@ key to enter keyboard mouse mode." = "%1$@ %2$@ 鍵即可進入鍵盤滑鼠模式。";
 
@@ -24,17 +24,15 @@
 
 "%lldd" = "%lld天";
 
+"**%@** permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "**%1$@** 權限已啟用。**%2$@** 現在可提供以鍵盤控制滑鼠，作為替代輸入方式。";
+
+"**%@** permission is required so that **%@** can provide keyboard-based pointer control as an alternative input method, allowing users to interact with the Mac without a physical mouse or trackpad." = "需要 **%1$@** 權限，才能讓 **%2$@** 提供以鍵盤控制指標，作為替代輸入方式，讓使用者無須實體滑鼠或觸控式軌跡板即可與 Mac 互動。";
+
 "1d" = "1天";
 
 "About" = "關於";
 
 "About %@" = "關於 %@";
-
-"Accessibility" = "輔助使用";
-
-"Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." = "協助工具權限允許 **%@** 提供鍵盤滑鼠控制，作為一種無需依賴實體滑鼠或觸控板即可操作 Mac 的替代輸入方式。";
-
-"Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "協助工具權限已啟用。現在 **%@** 可以提供鍵盤滑鼠控制，作為替代輸入方式。";
 
 "Add" = "新增";
 
@@ -157,6 +155,8 @@
 "Free" = "免費";
 
 "General" = "一般";
+
+"Grant %@ Access" = "授予 %@ 取用權限";
 
 "Grid Columns" = "格線欄數";
 
@@ -341,7 +341,7 @@
 
 "Switch Applications" = "切換應用程式";
 
-"System Preferences" = "系統偏好設定";
+"System Settings" = "系統設定";
 
 "The application is not running. Click to launch it." = "應用程式目前未執行。點擊即可啟動。";
 

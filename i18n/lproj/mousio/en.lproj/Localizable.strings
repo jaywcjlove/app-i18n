@@ -12,7 +12,7 @@
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Add **%4$@** and check";
 
-"%@ Needs Accessibility Access" = "%@ Needs Accessibility Access";
+"%@ Needs Access" = "%@ Needs Access";
 
 "%@ the %@ key to enter keyboard mouse mode." = "%1$@ the %2$@ key to enter keyboard mouse mode.";
 
@@ -24,17 +24,15 @@
 
 "%lldd" = "%lldd";
 
+"**%@** permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "**%1$@** permission is enabled. **%2$@** can now provide keyboard-based mouse control as an alternative input method.";
+
+"**%@** permission is required so that **%@** can provide keyboard-based pointer control as an alternative input method, allowing users to interact with the Mac without a physical mouse or trackpad." = "**%1$@** permission is required so that **%2$@** can provide keyboard-based pointer control as an alternative input method, allowing users to interact with the Mac without a physical mouse or trackpad.";
+
 "1d" = "1d";
 
 "About" = "About";
 
 "About %@" = "About %@";
-
-"Accessibility" = "Accessibility";
-
-"Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." = "Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad.";
-
-"Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method.";
 
 "Add" = "Add";
 
@@ -157,6 +155,8 @@
 "Free" = "Free";
 
 "General" = "General";
+
+"Grant %@ Access" = "Grant %@ Access";
 
 "Grid Columns" = "Grid Columns";
 
@@ -341,7 +341,7 @@
 
 "Switch Applications" = "Switch Applications";
 
-"System Preferences" = "System Preferences";
+"System Settings" = "System Settings";
 
 "The application is not running. Click to launch it." = "The application is not running. Click to launch it.";
 

@@ -12,7 +12,7 @@
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@**를 추가하고 확인";
 
-"%@ Needs Accessibility Access" = "%@에 접근성 권한이 필요합니다";
+"%@ Needs Access" = "%@ 접근 필요";
 
 "%@ the %@ key to enter keyboard mouse mode." = "%1$@ %2$@ 키를 눌러 키보드 마우스 모드로 진입합니다.";
 
@@ -24,17 +24,15 @@
 
 "%lldd" = "%lld일";
 
+"**%@** permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "**%1$@** 권한이 활성화되었습니다. 이제 **%2$@**에서 대체 입력 방법으로 키보드 기반 마우스 제어를 제공할 수 있습니다.";
+
+"**%@** permission is required so that **%@** can provide keyboard-based pointer control as an alternative input method, allowing users to interact with the Mac without a physical mouse or trackpad." = "물리적 마우스나 트랙패드 없이 Mac을 조작할 수 있도록, **%2$@**에서 대체 입력 방법으로 키보드 기반 포인터 제어를 제공하려면 **%1$@** 권한이 필요합니다.";
+
 "1d" = "1일";
 
 "About" = "정보";
 
 "About %@" = "%@ 정보";
-
-"Accessibility" = "접근성";
-
-"Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." = "접근성 권한을 통해 **%@**은(는) 실제 마우스나 트랙패드에 의존하지 않고 Mac과 상호 작용할 수 있는 대체 입력 방법으로 키보드 기반 마우스 제어를 제공할 수 있습니다.";
-
-"Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "접근성 권한이 활성화되었습니다. 이제 **%@**은(는) 대체 입력 방법으로 키보드 기반 마우스 제어를 제공할 수 있습니다.";
 
 "Add" = "추가";
 
@@ -157,6 +155,8 @@
 "Free" = "무료";
 
 "General" = "일반";
+
+"Grant %@ Access" = "%@ 접근 허용";
 
 "Grid Columns" = "격자 열 수";
 
@@ -341,7 +341,7 @@
 
 "Switch Applications" = "앱 전환";
 
-"System Preferences" = "시스템 환경설정";
+"System Settings" = "시스템 설정";
 
 "The application is not running. Click to launch it." = "앱이 실행 중이지 않습니다. 클릭하여 실행하세요.";
 

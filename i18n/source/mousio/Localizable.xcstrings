@@ -313,6 +313,122 @@
         }
       }
     },
+    "**%@** permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Berechtigung **%1$@** ist aktiviert. **%2$@** kann jetzt eine tastaturbasierte Maussteuerung als alternative Eingabemethode bereitstellen."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "**%1$@** permission is enabled. **%2$@** can now provide keyboard-based mouse control as an alternative input method."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’autorisation **%1$@** est activée. **%2$@** peut maintenant proposer un contrôle de la souris au clavier comme méthode de saisie alternative."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’autorizzazione **%1$@** è abilitata. **%2$@** ora può offrire il controllo del mouse tramite tastiera come metodo di input alternativo."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**%1$@** のアクセス許可が有効です。**%2$@** は代替入力方法としてキーボードによるマウス操作を提供できるようになりました。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**%1$@** 권한이 활성화되었습니다. 이제 **%2$@**에서 대체 입력 방법으로 키보드 기반 마우스 제어를 제공할 수 있습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разрешение **%1$@** включено. Теперь **%2$@** может предоставлять управление мышью с клавиатуры в качестве альтернативного способа ввода."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**%1$@** 权限已启用。**%2$@** 现在可以提供基于键盘的鼠标控制，作为一种替代输入方式。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**%1$@** 權限已啟用。**%2$@** 現在可提供以鍵盤控制滑鼠，作為替代輸入方式。"
+          }
+        }
+      }
+    },
+    "**%@** permission is required so that **%@** can provide keyboard-based pointer control as an alternative input method, allowing users to interact with the Mac without a physical mouse or trackpad." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Berechtigung **%1$@** ist erforderlich, damit **%2$@** eine tastaturbasierte Zeigersteuerung als alternative Eingabemethode bereitstellen kann. Damit können Benutzer:innen ohne physische Maus oder Trackpad mit dem Mac interagieren."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "**%1$@** permission is required so that **%2$@** can provide keyboard-based pointer control as an alternative input method, allowing users to interact with the Mac without a physical mouse or trackpad."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’autorisation **%1$@** est requise pour que **%2$@** puisse proposer un contrôle du pointeur au clavier comme méthode de saisie alternative, afin de permettre aux utilisateurs d’interagir avec le Mac sans souris ni trackpad physiques."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’autorizzazione **%1$@** è necessaria affinché **%2$@** possa offrire il controllo del puntatore tramite tastiera come metodo di input alternativo, consentendo agli utenti di interagire con il Mac senza mouse o trackpad fisici."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "物理的なマウスやトラックパッドなしで Mac を操作できるように、**%2$@** が代替入力方法としてキーボードによるポインタ操作を提供するには、**%1$@** のアクセス許可が必要です。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물리적 마우스나 트랙패드 없이 Mac을 조작할 수 있도록, **%2$@**에서 대체 입력 방법으로 키보드 기반 포인터 제어를 제공하려면 **%1$@** 권한이 필요합니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разрешение **%1$@** необходимо, чтобы **%2$@** могло предоставлять управление указателем с клавиатуры в качестве альтернативного способа ввода, позволяя пользователям взаимодействовать с Mac без физической мыши или трекпада."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要 **%1$@** 权限，以便 **%2$@** 能够提供基于键盘的指针控制，作为一种替代输入方式，让用户无需使用实体鼠标或触控板即可与 Mac 交互。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要 **%1$@** 權限，才能讓 **%2$@** 提供以鍵盤控制指標，作為替代輸入方式，讓使用者無須實體滑鼠或觸控式軌跡板即可與 Mac 互動。"
+          }
+        }
+      }
+    },
     "\\" : {
       "localizations" : {
         "de" : {
@@ -533,54 +649,54 @@
         }
       }
     },
-    "%@ Needs Accessibility Access" : {
+    "%@ Needs Access" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ benötigt Zugriff auf Bedienungshilfen"
+            "value" : "%@ benötigt Zugriff"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ nécessite l'accès à l'accessibilité"
+            "value" : "%@ nécessite un accès"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ richiede accesso all'accessibilità"
+            "value" : "%@ richiede l’accesso"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ にはアクセシビリティへのアクセスが必要です"
+            "value" : "%@ にアクセスが必要です"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@에 접근성 권한이 필요합니다"
+            "value" : "%@ 접근 필요"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ требует доступа к функциям специальных возможностей"
+            "value" : "%@ требуется доступ"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ 需要辅助功能访问权限"
+            "value" : "%@ 需要访问权限"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ 需要協助工具權限"
+            "value" : "%@ 需要取用權限"
           }
         }
       }
@@ -1003,162 +1119,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "關於 %@"
-          }
-        }
-      }
-    },
-    "Accessibility" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bedienungshilfen"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Accessibilité"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Accessibilità"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "アクセシビリティ"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "접근성"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Специальные возможности"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "辅助功能"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "輔助使用"
-          }
-        }
-      }
-    },
-    "Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Die Berechtigung für Bedienungshilfen ermöglicht **%@**, eine tastaturbasierte Maussteuerung als alternative Eingabemethode für die Interaktion mit deinem Mac bereitzustellen, ohne auf eine physische Maus oder ein Trackpad angewiesen zu sein."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "L’autorisation d’accessibilité permet à **%@** de fournir un contrôle de la souris au clavier, une méthode de saisie alternative pour interagir avec votre Mac sans dépendre d’une souris physique ou d’un trackpad."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "L’autorizzazione di accessibilità consente a **%@** di fornire il controllo del mouse tramite tastiera, un metodo di input alternativo per interagire con il Mac senza fare affidamento su un mouse fisico o un trackpad."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "アクセシビリティ権限により、**%@** は物理的なマウスやトラックパッドに頼らず Mac を操作するための代替入力方法として、キーボードによるマウス操作を提供できます。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "접근성 권한을 통해 **%@**은(는) 실제 마우스나 트랙패드에 의존하지 않고 Mac과 상호 작용할 수 있는 대체 입력 방법으로 키보드 기반 마우스 제어를 제공할 수 있습니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Доступ к специальным возможностям позволяет **%@** управлять мышью с клавиатуры — использовать альтернативный способ взаимодействия с Mac без физической мыши или трекпада."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "辅助功能权限允许 **%@** 提供基于键盘的鼠标控制，作为一种无需依赖实体鼠标或触控板即可操作 Mac 的替代输入方式。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "協助工具權限允許 **%@** 提供鍵盤滑鼠控制，作為一種無需依賴實體滑鼠或觸控板即可操作 Mac 的替代輸入方式。"
-          }
-        }
-      }
-    },
-    "Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Die Berechtigung für Bedienungshilfen ist aktiviert. **%@** kann jetzt tastaturbasierte Maussteuerung als alternative Eingabemethode bereitstellen."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "L’autorisation d’accessibilité est activée. **%@** peut maintenant fournir un contrôle de la souris au clavier comme méthode de saisie alternative."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "L’autorizzazione di accessibilità è abilitata. **%@** può ora fornire il controllo del mouse tramite tastiera come metodo di input alternativo."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "アクセシビリティ権限が有効になりました。**%@** は代替入力方法としてキーボードによるマウス操作を提供できるようになりました。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "접근성 권한이 활성화되었습니다. 이제 **%@**은(는) 대체 입력 방법으로 키보드 기반 마우스 제어를 제공할 수 있습니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Доступ к специальным возможностям включён. Теперь **%@** может управлять мышью с клавиатуры как альтернативным способом ввода."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "辅助功能权限已启用。现在 **%@** 可以提供基于键盘的鼠标控制，作为一种替代输入方式。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "協助工具權限已啟用。現在 **%@** 可以提供鍵盤滑鼠控制，作為替代輸入方式。"
           }
         }
       }
@@ -4337,6 +4297,58 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一般"
+          }
+        }
+      }
+    },
+    "Grant %@ Access" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zugriff auf %@ gewähren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autoriser l’accès à %@"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Concedi l’accesso a %@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ へのアクセスを許可"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 접근 허용"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разрешить доступ к %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "授予 %@ 访问权限"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "授予 %@ 取用權限"
           }
         }
       }
@@ -9254,7 +9266,7 @@
         }
       }
     },
-    "System Preferences" : {
+    "System Settings" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -9265,25 +9277,25 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Préférences Système"
+            "value" : "Réglages Système"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preferenze di Sistema"
+            "value" : "Impostazioni di Sistema"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "システム環境設定"
+            "value" : "システム設定"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "시스템 환경설정"
+            "value" : "시스템 설정"
           }
         },
         "ru" : {
@@ -9295,13 +9307,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "系统偏好设置"
+            "value" : "系统设置"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "系統偏好設定"
+            "value" : "系統設定"
           }
         }
       }

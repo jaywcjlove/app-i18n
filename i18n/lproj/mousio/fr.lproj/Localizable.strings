@@ -12,7 +12,7 @@
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Ajouter **%4$@** et vérifier";
 
-"%@ Needs Accessibility Access" = "%@ nécessite l'accès à l'accessibilité";
+"%@ Needs Access" = "%@ nécessite un accès";
 
 "%@ the %@ key to enter keyboard mouse mode." = "%1$@ la touche %2$@ pour entrer en mode souris au clavier.";
 
@@ -24,17 +24,15 @@
 
 "%lldd" = "%lld j";
 
+"**%@** permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "L’autorisation **%1$@** est activée. **%2$@** peut maintenant proposer un contrôle de la souris au clavier comme méthode de saisie alternative.";
+
+"**%@** permission is required so that **%@** can provide keyboard-based pointer control as an alternative input method, allowing users to interact with the Mac without a physical mouse or trackpad." = "L’autorisation **%1$@** est requise pour que **%2$@** puisse proposer un contrôle du pointeur au clavier comme méthode de saisie alternative, afin de permettre aux utilisateurs d’interagir avec le Mac sans souris ni trackpad physiques.";
+
 "1d" = "1 j";
 
 "About" = "À propos";
 
 "About %@" = "À propos de %@";
-
-"Accessibility" = "Accessibilité";
-
-"Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." = "L’autorisation d’accessibilité permet à **%@** de fournir un contrôle de la souris au clavier, une méthode de saisie alternative pour interagir avec votre Mac sans dépendre d’une souris physique ou d’un trackpad.";
-
-"Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "L’autorisation d’accessibilité est activée. **%@** peut maintenant fournir un contrôle de la souris au clavier comme méthode de saisie alternative.";
 
 "Add" = "Ajouter";
 
@@ -157,6 +155,8 @@
 "Free" = "Gratuit";
 
 "General" = "Général";
+
+"Grant %@ Access" = "Autoriser l’accès à %@";
 
 "Grid Columns" = "Colonnes de la grille";
 
@@ -341,7 +341,7 @@
 
 "Switch Applications" = "Basculer entre les applications";
 
-"System Preferences" = "Préférences Système";
+"System Settings" = "Réglages Système";
 
 "The application is not running. Click to launch it." = "L'application n'est pas en cours d'exécution. Cliquez pour la lancer.";
 

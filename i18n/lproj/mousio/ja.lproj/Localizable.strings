@@ -12,7 +12,7 @@
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@** を追加して確認";
 
-"%@ Needs Accessibility Access" = "%@ にはアクセシビリティへのアクセスが必要です";
+"%@ Needs Access" = "%@ にアクセスが必要です";
 
 "%@ the %@ key to enter keyboard mouse mode." = "%1$@ %2$@ キーでキーボードマウスモードに入ります。";
 
@@ -24,17 +24,15 @@
 
 "%lldd" = "%lld日";
 
+"**%@** permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "**%1$@** のアクセス許可が有効です。**%2$@** は代替入力方法としてキーボードによるマウス操作を提供できるようになりました。";
+
+"**%@** permission is required so that **%@** can provide keyboard-based pointer control as an alternative input method, allowing users to interact with the Mac without a physical mouse or trackpad." = "物理的なマウスやトラックパッドなしで Mac を操作できるように、**%2$@** が代替入力方法としてキーボードによるポインタ操作を提供するには、**%1$@** のアクセス許可が必要です。";
+
 "1d" = "1日";
 
 "About" = "情報";
 
 "About %@" = "%@ について";
-
-"Accessibility" = "アクセシビリティ";
-
-"Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." = "アクセシビリティ権限により、**%@** は物理的なマウスやトラックパッドに頼らず Mac を操作するための代替入力方法として、キーボードによるマウス操作を提供できます。";
-
-"Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "アクセシビリティ権限が有効になりました。**%@** は代替入力方法としてキーボードによるマウス操作を提供できるようになりました。";
 
 "Add" = "追加";
 
@@ -157,6 +155,8 @@
 "Free" = "無料";
 
 "General" = "一般";
+
+"Grant %@ Access" = "%@ へのアクセスを許可";
 
 "Grid Columns" = "グリッドの列";
 
@@ -341,7 +341,7 @@
 
 "Switch Applications" = "アプリを切り替える";
 
-"System Preferences" = "システム環境設定";
+"System Settings" = "システム設定";
 
 "The application is not running. Click to launch it." = "アプリケーションは起動していません。クリックして起動してください。";
 

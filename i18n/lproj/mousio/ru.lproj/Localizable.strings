@@ -12,7 +12,7 @@
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> добавьте **%4$@** и проверьте";
 
-"%@ Needs Accessibility Access" = "%@ требует доступа к функциям специальных возможностей";
+"%@ Needs Access" = "%@ требуется доступ";
 
 "%@ the %@ key to enter keyboard mouse mode." = "%1$@ клавишу %2$@, чтобы войти в режим клавиатурной мыши.";
 
@@ -24,17 +24,15 @@
 
 "%lldd" = "%lld дн.";
 
+"**%@** permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "Разрешение **%1$@** включено. Теперь **%2$@** может предоставлять управление мышью с клавиатуры в качестве альтернативного способа ввода.";
+
+"**%@** permission is required so that **%@** can provide keyboard-based pointer control as an alternative input method, allowing users to interact with the Mac without a physical mouse or trackpad." = "Разрешение **%1$@** необходимо, чтобы **%2$@** могло предоставлять управление указателем с клавиатуры в качестве альтернативного способа ввода, позволяя пользователям взаимодействовать с Mac без физической мыши или трекпада.";
+
 "1d" = "1 дн.";
 
 "About" = "О программе";
 
 "About %@" = "О программе %@";
-
-"Accessibility" = "Специальные возможности";
-
-"Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." = "Доступ к специальным возможностям позволяет **%@** управлять мышью с клавиатуры — использовать альтернативный способ взаимодействия с Mac без физической мыши или трекпада.";
-
-"Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "Доступ к специальным возможностям включён. Теперь **%@** может управлять мышью с клавиатуры как альтернативным способом ввода.";
 
 "Add" = "Добавить";
 
@@ -157,6 +155,8 @@
 "Free" = "Бесплатно";
 
 "General" = "Основные";
+
+"Grant %@ Access" = "Разрешить доступ к %@";
 
 "Grid Columns" = "Столбцы сетки";
 
@@ -341,7 +341,7 @@
 
 "Switch Applications" = "Переключать приложения";
 
-"System Preferences" = "Системные настройки";
+"System Settings" = "Системные настройки";
 
 "The application is not running. Click to launch it." = "Приложение не запущено. Нажмите, чтобы запустить его.";
 

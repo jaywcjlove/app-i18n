@@ -12,7 +12,7 @@
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> 添加 **%4$@** 并检查";
 
-"%@ Needs Accessibility Access" = "%@ 需要辅助功能访问权限";
+"%@ Needs Access" = "%@ 需要访问权限";
 
 "%@ the %@ key to enter keyboard mouse mode." = "%1$@ %2$@ 键以进入键盘鼠标模式。";
 
@@ -24,17 +24,15 @@
 
 "%lldd" = "%lld天";
 
+"**%@** permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "**%1$@** 权限已启用。**%2$@** 现在可以提供基于键盘的鼠标控制，作为一种替代输入方式。";
+
+"**%@** permission is required so that **%@** can provide keyboard-based pointer control as an alternative input method, allowing users to interact with the Mac without a physical mouse or trackpad." = "需要 **%1$@** 权限，以便 **%2$@** 能够提供基于键盘的指针控制，作为一种替代输入方式，让用户无需使用实体鼠标或触控板即可与 Mac 交互。";
+
 "1d" = "1天";
 
 "About" = "关于";
 
 "About %@" = "关于 %@";
-
-"Accessibility" = "辅助功能";
-
-"Accessibility permission allows **%@** to provide keyboard-based mouse control, an alternative input method for interacting with your Mac without relying on a physical mouse or trackpad." = "辅助功能权限允许 **%@** 提供基于键盘的鼠标控制，作为一种无需依赖实体鼠标或触控板即可操作 Mac 的替代输入方式。";
-
-"Accessibility permission is enabled. **%@** can now provide keyboard-based mouse control as an alternative input method." = "辅助功能权限已启用。现在 **%@** 可以提供基于键盘的鼠标控制，作为一种替代输入方式。";
 
 "Add" = "添加";
 
@@ -157,6 +155,8 @@
 "Free" = "免费";
 
 "General" = "常规";
+
+"Grant %@ Access" = "授予 %@ 访问权限";
 
 "Grid Columns" = "宫格列";
 
@@ -341,7 +341,7 @@
 
 "Switch Applications" = "切换应用";
 
-"System Preferences" = "系统偏好设置";
+"System Settings" = "系统设置";
 
 "The application is not running. Click to launch it." = "应用未运行，点击以启动应用";
 
