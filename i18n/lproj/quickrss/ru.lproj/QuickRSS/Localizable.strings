@@ -68,7 +68,7 @@
 
 "Clear all data from the source" = "Очистить все данные источников";
 
-"Client config" = "Client config";
+"Client config" = "Конфигурация клиента";
 
 "Confirm" = "Подтвердить";
 
@@ -76,27 +76,27 @@
 
 "Confirm deletion of \"%@\" subscription data" = "Удалить данные подписки «%@»?";
 
-"Connection" = "Connection";
+"Connection" = "Подключение";
 
 "Contact" = "Связаться";
 
 "Copied %@" = "Copied %@";
 
-"Copy Claude config" = "Copy Claude config";
+"Copy Claude config" = "Копировать конфигурацию Claude";
 
 "Copy Content" = "Копировать содержимое";
 
-"Copy Cursor config" = "Copy Cursor config";
+"Copy Cursor config" = "Копировать конфигурацию Cursor";
 
 "Copy Feed Title" = "Копировать название ленты";
 
 "Copy Feed URL" = "Копировать URL ленты";
 
-"Copy Grok config" = "Copy Grok config";
+"Copy Grok config" = "Копировать конфигурацию Grok";
 
 "Copy Home Page URL" = "Копировать URL сайта";
 
-"Copy Token" = "Copy Token";
+"Copy Token" = "Копировать токен";
 
 "Copy URL" = "Копировать ссылку";
 
@@ -137,7 +137,7 @@
 
 "General" = "Основные";
 
-"Generate Token" = "Generate Token";
+"Generate Token" = "Создать токен";
 
 "Go to Settings to grant notification permissions" = "Разрешите уведомления в Настройках";
 
@@ -156,7 +156,7 @@
 /* Light */
 "Light" = "Светлая";
 
-"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected.";
+"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Прослушивает только 127.0.0.1. QuickRSS должен оставаться открытым, пока подключены клиенты ИИ.";
 
 "Loading failed: %@" = "Ошибка загрузки: %@";
 
@@ -202,11 +202,11 @@
 
 "Page details are in the app, display full webpage content" = "Показывать полную веб-страницу в приложении";
 
-"Pause" = "Pause";
+"Pause" = "Пауза";
 
 "Please enter the Feed URL addres" = "Введите URL ленты";
 
-"Port" = "Port";
+"Port" = "Порт";
 
 "Pro" = "Pro";
 
@@ -224,11 +224,11 @@
 
 "Rename Feed" = "Переименовать ленту";
 
-"Running" = "Running";
+"Running" = "Работает";
 
 "Select .%@ Feed" = "Выберите ленту .%@";
 
-"Server" = "Server";
+"Server" = "Сервер";
 
 "Share" = "Поделиться";
 
@@ -238,9 +238,9 @@
 
 "Starred" = "Избранное";
 
-"Start" = "Start";
+"Start" = "Запустить";
 
-"Stopped" = "Stopped";
+"Stopped" = "Остановлен";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "Экспортировано лент: %1$lld → «%2$@»";
 
@@ -253,11 +253,11 @@
 
 "The content you select will be displayed here." = "Выбранное содержимое появится здесь.";
 
-"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "These are MCP tools, not REST paths. Clients call tools/list and tools/call.";
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "Это инструменты MCP, а не пути REST. Клиенты вызывают tools/list и tools/call.";
 
 "Today" = "Сегодня";
 
-"Token" = "Token";
+"Token" = "Токен";
 
 "URL" = "URL";
 

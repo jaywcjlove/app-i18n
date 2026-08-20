@@ -68,7 +68,7 @@
 
 "Clear all data from the source" = "소스의 모든 데이터 삭제";
 
-"Client config" = "Client config";
+"Client config" = "클라이언트 구성";
 
 "Confirm" = "확인";
 
@@ -76,27 +76,27 @@
 
 "Confirm deletion of \"%@\" subscription data" = "\"%@\" 구독 데이터를 삭제할까요?";
 
-"Connection" = "Connection";
+"Connection" = "연결";
 
 "Contact" = "문의";
 
 "Copied %@" = "Copied %@";
 
-"Copy Claude config" = "Copy Claude config";
+"Copy Claude config" = "Claude 구성 복사";
 
 "Copy Content" = "내용 복사";
 
-"Copy Cursor config" = "Copy Cursor config";
+"Copy Cursor config" = "Cursor 구성 복사";
 
 "Copy Feed Title" = "피드 제목 복사";
 
 "Copy Feed URL" = "피드 URL 복사";
 
-"Copy Grok config" = "Copy Grok config";
+"Copy Grok config" = "Grok 구성 복사";
 
 "Copy Home Page URL" = "홈페이지 URL 복사";
 
-"Copy Token" = "Copy Token";
+"Copy Token" = "토큰 복사";
 
 "Copy URL" = "URL 복사";
 
@@ -137,7 +137,7 @@
 
 "General" = "일반";
 
-"Generate Token" = "Generate Token";
+"Generate Token" = "토큰 생성";
 
 "Go to Settings to grant notification permissions" = "설정에서 알림 권한을 허용하세요";
 
@@ -156,7 +156,7 @@
 /* Light */
 "Light" = "라이트";
 
-"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected.";
+"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "127.0.0.1에서만 수신합니다. AI 클라이언트가 연결되어 있는 동안 QuickRSS를 계속 열어 두어야 합니다.";
 
 "Loading failed: %@" = "불러오기 실패: %@";
 
@@ -202,11 +202,11 @@
 
 "Page details are in the app, display full webpage content" = "앱에서 전체 웹 페이지 내용을 표시합니다";
 
-"Pause" = "Pause";
+"Pause" = "일시 정지";
 
 "Please enter the Feed URL addres" = "피드 URL을 입력하세요";
 
-"Port" = "Port";
+"Port" = "포트";
 
 "Pro" = "Pro";
 
@@ -224,11 +224,11 @@
 
 "Rename Feed" = "피드 이름 변경";
 
-"Running" = "Running";
+"Running" = "실행 중";
 
 "Select .%@ Feed" = ".%@ 피드 선택";
 
-"Server" = "Server";
+"Server" = "서버";
 
 "Share" = "공유";
 
@@ -238,9 +238,9 @@
 
 "Starred" = "별표";
 
-"Start" = "Start";
+"Start" = "시작";
 
-"Stopped" = "Stopped";
+"Stopped" = "중지됨";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "피드 %1$lld개를 \"%2$@\"(으)로 내보냈습니다";
 
@@ -253,11 +253,11 @@
 
 "The content you select will be displayed here." = "선택한 내용이 여기에 표시됩니다.";
 
-"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "These are MCP tools, not REST paths. Clients call tools/list and tools/call.";
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "REST 경로가 아닌 MCP 도구입니다. 클라이언트는 tools/list 및 tools/call을 호출합니다.";
 
 "Today" = "오늘";
 
-"Token" = "Token";
+"Token" = "토큰";
 
 "URL" = "URL";
 

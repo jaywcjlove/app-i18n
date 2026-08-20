@@ -68,7 +68,7 @@
 
 "Clear all data from the source" = "清空源的所有数据";
 
-"Client config" = "Client config";
+"Client config" = "客户端配置";
 
 "Confirm" = "确认";
 
@@ -76,27 +76,27 @@
 
 "Confirm deletion of \"%@\" subscription data" = "确认删除「%@」的订阅数据吗？";
 
-"Connection" = "Connection";
+"Connection" = "连接";
 
 "Contact" = "联系我们";
 
 "Copied %@" = "Copied %@";
 
-"Copy Claude config" = "Copy Claude config";
+"Copy Claude config" = "复制 Claude 配置";
 
 "Copy Content" = "复制内容";
 
-"Copy Cursor config" = "Copy Cursor config";
+"Copy Cursor config" = "复制 Cursor 配置";
 
 "Copy Feed Title" = "复制订阅标题";
 
 "Copy Feed URL" = "复制订阅源 URL";
 
-"Copy Grok config" = "Copy Grok config";
+"Copy Grok config" = "复制 Grok 配置";
 
 "Copy Home Page URL" = "复制主页 URL";
 
-"Copy Token" = "Copy Token";
+"Copy Token" = "复制令牌";
 
 "Copy URL" = "复制链接";
 
@@ -137,7 +137,7 @@
 
 "General" = "常规";
 
-"Generate Token" = "Generate Token";
+"Generate Token" = "生成令牌";
 
 "Go to Settings to grant notification permissions" = "前往设置授权通知权限";
 
@@ -156,7 +156,7 @@
 /* Light */
 "Light" = "亮色";
 
-"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected.";
+"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "仅监听 127.0.0.1。AI 客户端连接期间必须保持 QuickRSS 开启。";
 
 "Loading failed: %@" = "加载失败：%@";
 
@@ -202,11 +202,11 @@
 
 "Page details are in the app, display full webpage content" = "页面详情在应用中，显示完整网页内容";
 
-"Pause" = "Pause";
+"Pause" = "暂停";
 
 "Please enter the Feed URL addres" = "请输入订阅源的 URL 地址";
 
-"Port" = "Port";
+"Port" = "端口";
 
 "Pro" = "专业版";
 
@@ -224,11 +224,11 @@
 
 "Rename Feed" = "重命名订阅";
 
-"Running" = "Running";
+"Running" = "运行中";
 
 "Select .%@ Feed" = "选择 .%@ 订阅文件";
 
-"Server" = "Server";
+"Server" = "服务器";
 
 "Share" = "分享";
 
@@ -238,9 +238,9 @@
 
 "Starred" = "收藏";
 
-"Start" = "Start";
+"Start" = "启动";
 
-"Stopped" = "Stopped";
+"Stopped" = "已停止";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "成功将 \"%1$lld\" 条订阅导出到 \"%2$@\"";
 
@@ -253,11 +253,11 @@
 
 "The content you select will be displayed here." = "您选择的内容将显示在这里";
 
-"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "These are MCP tools, not REST paths. Clients call tools/list and tools/call.";
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "这些是 MCP 工具，而不是 REST 路径。客户端调用 tools/list 和 tools/call。";
 
 "Today" = "今天";
 
-"Token" = "Token";
+"Token" = "令牌";
 
 "URL" = "URL";
 

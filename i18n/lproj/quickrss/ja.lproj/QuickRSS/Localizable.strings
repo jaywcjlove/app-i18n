@@ -68,7 +68,7 @@
 
 "Clear all data from the source" = "ソースのすべてのデータを削除";
 
-"Client config" = "Client config";
+"Client config" = "クライアント設定";
 
 "Confirm" = "確認";
 
@@ -76,27 +76,27 @@
 
 "Confirm deletion of \"%@\" subscription data" = "「%@」の購読データを削除しますか？";
 
-"Connection" = "Connection";
+"Connection" = "接続";
 
 "Contact" = "お問い合わせ";
 
 "Copied %@" = "Copied %@";
 
-"Copy Claude config" = "Copy Claude config";
+"Copy Claude config" = "Claude の設定をコピー";
 
 "Copy Content" = "内容をコピー";
 
-"Copy Cursor config" = "Copy Cursor config";
+"Copy Cursor config" = "Cursor の設定をコピー";
 
 "Copy Feed Title" = "フィード名をコピー";
 
 "Copy Feed URL" = "フィード URL をコピー";
 
-"Copy Grok config" = "Copy Grok config";
+"Copy Grok config" = "Grok の設定をコピー";
 
 "Copy Home Page URL" = "ホームページ URL をコピー";
 
-"Copy Token" = "Copy Token";
+"Copy Token" = "トークンをコピー";
 
 "Copy URL" = "URL をコピー";
 
@@ -137,7 +137,7 @@
 
 "General" = "一般";
 
-"Generate Token" = "Generate Token";
+"Generate Token" = "トークンを生成";
 
 "Go to Settings to grant notification permissions" = "設定で通知を許可してください";
 
@@ -156,7 +156,7 @@
 /* Light */
 "Light" = "ライト";
 
-"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected.";
+"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "127.0.0.1 のみで待ち受けます。AI クライアントの接続中は QuickRSS を開いたままにしてください。";
 
 "Loading failed: %@" = "読み込みに失敗しました: %@";
 
@@ -202,11 +202,11 @@
 
 "Page details are in the app, display full webpage content" = "アプリ内でページの詳細をフル表示します";
 
-"Pause" = "Pause";
+"Pause" = "一時停止";
 
 "Please enter the Feed URL addres" = "フィードの URL を入力してください";
 
-"Port" = "Port";
+"Port" = "ポート";
 
 "Pro" = "Pro";
 
@@ -224,11 +224,11 @@
 
 "Rename Feed" = "フィード名を変更";
 
-"Running" = "Running";
+"Running" = "実行中";
 
 "Select .%@ Feed" = ".%@ フィードを選択";
 
-"Server" = "Server";
+"Server" = "サーバー";
 
 "Share" = "共有";
 
@@ -238,9 +238,9 @@
 
 "Starred" = "スター付き";
 
-"Start" = "Start";
+"Start" = "開始";
 
-"Stopped" = "Stopped";
+"Stopped" = "停止";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "%1$lld 件のフィードを「%2$@」に書き出しました";
 
@@ -253,11 +253,11 @@
 
 "The content you select will be displayed here." = "選択した内容がここに表示されます。";
 
-"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "These are MCP tools, not REST paths. Clients call tools/list and tools/call.";
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "これは REST パスではなく MCP ツールです。クライアントは tools/list と tools/call を呼び出します。";
 
 "Today" = "今日";
 
-"Token" = "Token";
+"Token" = "トークン";
 
 "URL" = "URL";
 

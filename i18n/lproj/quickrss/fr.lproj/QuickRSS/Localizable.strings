@@ -68,7 +68,7 @@
 
 "Clear all data from the source" = "Effacer toutes les données des sources";
 
-"Client config" = "Client config";
+"Client config" = "Configuration du client";
 
 "Confirm" = "Confirmer";
 
@@ -76,27 +76,27 @@
 
 "Confirm deletion of \"%@\" subscription data" = "Supprimer les données de l’abonnement « %@ » ?";
 
-"Connection" = "Connection";
+"Connection" = "Connexion";
 
 "Contact" = "Contact";
 
 "Copied %@" = "Copied %@";
 
-"Copy Claude config" = "Copy Claude config";
+"Copy Claude config" = "Copier la configuration Claude";
 
 "Copy Content" = "Copier le contenu";
 
-"Copy Cursor config" = "Copy Cursor config";
+"Copy Cursor config" = "Copier la configuration Cursor";
 
 "Copy Feed Title" = "Copier le titre du flux";
 
 "Copy Feed URL" = "Copier l’URL du flux";
 
-"Copy Grok config" = "Copy Grok config";
+"Copy Grok config" = "Copier la configuration Grok";
 
 "Copy Home Page URL" = "Copier l’URL de la page d’accueil";
 
-"Copy Token" = "Copy Token";
+"Copy Token" = "Copier le jeton";
 
 "Copy URL" = "Copier l’URL";
 
@@ -137,7 +137,7 @@
 
 "General" = "Général";
 
-"Generate Token" = "Generate Token";
+"Generate Token" = "Générer un jeton";
 
 "Go to Settings to grant notification permissions" = "Autorisez les notifications dans Réglages";
 
@@ -156,7 +156,7 @@
 /* Light */
 "Light" = "Clair";
 
-"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected.";
+"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Écoute uniquement sur 127.0.0.1. QuickRSS doit rester ouvert tant que des clients d’IA sont connectés.";
 
 "Loading failed: %@" = "Échec du chargement : %@";
 
@@ -202,7 +202,7 @@
 
 "Page details are in the app, display full webpage content" = "Afficher la page web complète dans l’app";
 
-"Pause" = "Pause";
+"Pause" = "Suspendre";
 
 "Please enter the Feed URL addres" = "Saisissez l’URL du flux";
 
@@ -224,11 +224,11 @@
 
 "Rename Feed" = "Renommer le flux";
 
-"Running" = "Running";
+"Running" = "En cours d’exécution";
 
 "Select .%@ Feed" = "Choisir un flux .%@";
 
-"Server" = "Server";
+"Server" = "Serveur";
 
 "Share" = "Partager";
 
@@ -238,9 +238,9 @@
 
 "Starred" = "Favoris";
 
-"Start" = "Start";
+"Start" = "Démarrer";
 
-"Stopped" = "Stopped";
+"Stopped" = "Arrêté";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "%1$lld flux exportés vers « %2$@ »";
 
@@ -253,11 +253,11 @@
 
 "The content you select will be displayed here." = "Le contenu sélectionné s’affichera ici.";
 
-"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "These are MCP tools, not REST paths. Clients call tools/list and tools/call.";
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "Il s’agit d’outils MCP, et non de chemins REST. Les clients appellent tools/list et tools/call.";
 
 "Today" = "Aujourd’hui";
 
-"Token" = "Token";
+"Token" = "Jeton";
 
 "URL" = "URL";
 

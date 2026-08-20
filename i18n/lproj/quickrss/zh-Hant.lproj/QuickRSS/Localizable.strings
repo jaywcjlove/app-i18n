@@ -68,7 +68,7 @@
 
 "Clear all data from the source" = "清除來源的所有資料";
 
-"Client config" = "Client config";
+"Client config" = "用戶端設定";
 
 "Confirm" = "確認";
 
@@ -76,27 +76,27 @@
 
 "Confirm deletion of \"%@\" subscription data" = "確定要刪除「%@」的訂閱資料嗎？";
 
-"Connection" = "Connection";
+"Connection" = "連線";
 
 "Contact" = "聯絡我們";
 
 "Copied %@" = "Copied %@";
 
-"Copy Claude config" = "Copy Claude config";
+"Copy Claude config" = "複製 Claude 設定";
 
 "Copy Content" = "複製內容";
 
-"Copy Cursor config" = "Copy Cursor config";
+"Copy Cursor config" = "複製 Cursor 設定";
 
 "Copy Feed Title" = "複製訂閱標題";
 
 "Copy Feed URL" = "複製訂閱來源 URL";
 
-"Copy Grok config" = "Copy Grok config";
+"Copy Grok config" = "複製 Grok 設定";
 
 "Copy Home Page URL" = "複製首頁 URL";
 
-"Copy Token" = "Copy Token";
+"Copy Token" = "複製權杖";
 
 "Copy URL" = "複製連結";
 
@@ -137,7 +137,7 @@
 
 "General" = "一般";
 
-"Generate Token" = "Generate Token";
+"Generate Token" = "產生權杖";
 
 "Go to Settings to grant notification permissions" = "前往設定以授予通知權限";
 
@@ -156,7 +156,7 @@
 /* Light */
 "Light" = "淺色";
 
-"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected.";
+"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "僅監聽 127.0.0.1。AI 用戶端連線期間必須保持 QuickRSS 開啟。";
 
 "Loading failed: %@" = "載入失敗：%@";
 
@@ -202,11 +202,11 @@
 
 "Page details are in the app, display full webpage content" = "在 App 內顯示完整網頁內容";
 
-"Pause" = "Pause";
+"Pause" = "暫停";
 
 "Please enter the Feed URL addres" = "請輸入訂閱來源的 URL";
 
-"Port" = "Port";
+"Port" = "連接埠";
 
 "Pro" = "專業版";
 
@@ -224,11 +224,11 @@
 
 "Rename Feed" = "重新命名訂閱";
 
-"Running" = "Running";
+"Running" = "執行中";
 
 "Select .%@ Feed" = "選擇 .%@ 訂閱檔案";
 
-"Server" = "Server";
+"Server" = "伺服器";
 
 "Share" = "分享";
 
@@ -238,9 +238,9 @@
 
 "Starred" = "收藏";
 
-"Start" = "Start";
+"Start" = "開始";
 
-"Stopped" = "Stopped";
+"Stopped" = "已停止";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "已成功將 %1$lld 個訂閱匯出到「%2$@」";
 
@@ -253,11 +253,11 @@
 
 "The content you select will be displayed here." = "你選取的內容會顯示在這裡";
 
-"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "These are MCP tools, not REST paths. Clients call tools/list and tools/call.";
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "這些是 MCP 工具，而不是 REST 路徑。用戶端會呼叫 tools/list 和 tools/call。";
 
 "Today" = "今天";
 
-"Token" = "Token";
+"Token" = "權杖";
 
 "URL" = "URL";
 

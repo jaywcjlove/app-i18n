@@ -68,7 +68,7 @@
 
 "Clear all data from the source" = "Cancella tutti i dati dalle fonti";
 
-"Client config" = "Client config";
+"Client config" = "Configurazione client";
 
 "Confirm" = "Conferma";
 
@@ -76,27 +76,27 @@
 
 "Confirm deletion of \"%@\" subscription data" = "Confermare l'eliminazione dei dati di \"%@\"?";
 
-"Connection" = "Connection";
+"Connection" = "Connessione";
 
 "Contact" = "Contatti";
 
 "Copied %@" = "Copied %@";
 
-"Copy Claude config" = "Copy Claude config";
+"Copy Claude config" = "Copia configurazione Claude";
 
 "Copy Content" = "Copia contenuto";
 
-"Copy Cursor config" = "Copy Cursor config";
+"Copy Cursor config" = "Copia configurazione Cursor";
 
 "Copy Feed Title" = "Copia titolo del feed";
 
 "Copy Feed URL" = "Copia URL del feed";
 
-"Copy Grok config" = "Copy Grok config";
+"Copy Grok config" = "Copia configurazione Grok";
 
 "Copy Home Page URL" = "Copia URL della home page";
 
-"Copy Token" = "Copy Token";
+"Copy Token" = "Copia token";
 
 "Copy URL" = "Copia URL";
 
@@ -137,7 +137,7 @@
 
 "General" = "Generali";
 
-"Generate Token" = "Generate Token";
+"Generate Token" = "Genera token";
 
 "Go to Settings to grant notification permissions" = "Vai in Impostazioni per consentire le notifiche";
 
@@ -156,7 +156,7 @@
 /* Light */
 "Light" = "Chiaro";
 
-"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected.";
+"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Ascolta solo su 127.0.0.1. QuickRSS deve rimanere aperto mentre i client IA sono connessi.";
 
 "Loading failed: %@" = "Caricamento non riuscito: %@";
 
@@ -202,11 +202,11 @@
 
 "Page details are in the app, display full webpage content" = "Mostra il contenuto completo della pagina nell’app";
 
-"Pause" = "Pause";
+"Pause" = "Metti in pausa";
 
 "Please enter the Feed URL addres" = "Inserisci l’URL del feed";
 
-"Port" = "Port";
+"Port" = "Porta";
 
 "Pro" = "Pro";
 
@@ -224,7 +224,7 @@
 
 "Rename Feed" = "Rinomina feed";
 
-"Running" = "Running";
+"Running" = "In esecuzione";
 
 "Select .%@ Feed" = "Seleziona feed .%@";
 
@@ -238,9 +238,9 @@
 
 "Starred" = "Preferiti";
 
-"Start" = "Start";
+"Start" = "Avvia";
 
-"Stopped" = "Stopped";
+"Stopped" = "Arrestato";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "Esportati %1$lld feed in \"%2$@\"";
 
@@ -253,7 +253,7 @@
 
 "The content you select will be displayed here." = "Il contenuto selezionato verrà mostrato qui.";
 
-"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "These are MCP tools, not REST paths. Clients call tools/list and tools/call.";
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "Questi sono strumenti MCP, non percorsi REST. I client chiamano tools/list e tools/call.";
 
 "Today" = "Oggi";
 
