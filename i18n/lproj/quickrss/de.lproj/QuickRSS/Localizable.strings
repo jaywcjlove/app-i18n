@@ -1,0 +1,280 @@
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ Dunkelmodus";
+
+"%@ Follow System" = "%@ Systemeinstellung folgen";
+
+"%@ Light Mode" = "%@ Hellmodus";
+
+"%d days ago" = "vor %d Tagen";
+
+"%d hours ago" = "vor %d Stunden";
+
+"%d minutes ago" = "vor %d Minuten";
+
+"%d months ago" = "vor %d Monaten";
+
+"%d weeks ago" = "vor %d Wochen";
+
+"%d years ago" = "vor %d Jahren";
+
+"%lld" = "%lld";
+
+"%lld of %lld" = "%1$lld of %2$lld";
+
+"%lld unread" = "%lld ungelesen";
+
+"1 day ago" = "vor 1 Tag";
+
+"1 hour ago" = "vor 1 Stunde";
+
+"1 minute ago" = "vor 1 Minute";
+
+"1 month ago" = "vor 1 Monat";
+
+"1 week ago" = "vor 1 Woche";
+
+"1 year ago" = "vor 1 Jahr";
+
+"A total of %lld entries" = "Insgesamt %lld Einträge";
+
+"API" = "API";
+
+"About" = "Über";
+
+"About %@" = "Über %@";
+
+"Add" = "Hinzufügen";
+
+"Add Feed" = "Feed hinzufügen";
+
+"Add a new RSS feed by entering its URL" = "Füge einen neuen RSS-Feed hinzu, indem du seine URL eingibst";
+
+"All Unread" = "Alle ungelesenen";
+
+"Appearance" = "Erscheinungsbild";
+
+"Are you sure you want to clear all \"%lld\" entries from the source?" = "Möchtest du wirklich alle \"%lld\" Einträge aus der Quelle löschen?";
+
+"Are you sure you want to delete the local article \"%@\"?" = "Möchtest du den lokalen Artikel \"%@\" wirklich löschen?";
+
+"Bulk Export RSS Sources" = "RSS-Quellen gesammelt exportieren";
+
+"Bulk Import RSS Sources" = "RSS-Quellen gesammelt importieren";
+
+"Cancel" = "Abbrechen";
+
+"Choose where to save your feeds" = "Wähle aus, wo deine Feeds gespeichert werden sollen";
+
+"Clear all data from the source" = "Alle Daten aus der Quelle löschen";
+
+"Client config" = "Client-Konfiguration";
+
+"Confirm" = "Bestätigen";
+
+"Confirm Deletion" = "Löschen bestätigen";
+
+"Confirm deletion of \"%@\" subscription data" = "Löschen der Abonnementdaten von \"%@\" bestätigen";
+
+"Connection" = "Verbindung";
+
+"Contact" = "Kontakt";
+
+"Copied %@" = "%@ kopiert";
+
+"Copy Claude config" = "Claude-Konfiguration kopieren";
+
+"Copy Content" = "Inhalt kopieren";
+
+"Copy Cursor config" = "Cursor-Konfiguration kopieren";
+
+"Copy Feed Title" = "Feed-Titel kopieren";
+
+"Copy Feed URL" = "Feed-URL kopieren";
+
+"Copy Grok config" = "Grok-Konfiguration kopieren";
+
+"Copy Home Page URL" = "URL der Startseite kopieren";
+
+"Copy Token" = "Token kopieren";
+
+"Copy URL" = "URL kopieren";
+
+"Copy title" = "Titel kopieren";
+
+/* Dark */
+"Dark" = "Dunkel";
+
+"Delete" = "Löschen";
+
+"Delete Default RSS Source" = "Standard-RSS-Quelle löschen";
+
+"Delete Feed" = "Feed löschen";
+
+"E-mail" = "E-Mail";
+
+"Enter feed name (optional)" = "Feed-Namen eingeben (optional)";
+
+"Error" = "Fehler";
+
+"Export" = "Exportieren";
+
+"Export Feeds (.json)" = "Feeds exportieren (.json)";
+
+"Export Feeds..." = "Feeds exportieren …";
+
+"Export OPML" = "OPML exportieren";
+
+"Export failed: %@" = "Export fehlgeschlagen: %@";
+
+"Failed to fetch RSS feed" = "RSS-Feed konnte nicht abgerufen werden";
+
+"Feedback" = "Feedback";
+
+"Feeds" = "Feeds";
+
+"Free" = "Kostenlos";
+
+"General" = "Allgemein";
+
+"Generate Token" = "Token generieren";
+
+"Go to Settings to grant notification permissions" = "Öffne die Einstellungen, um Benachrichtigungen zu erlauben";
+
+"Import Feeds (.json)" = "Feeds importieren (.json)";
+
+"Import OPML" = "OPML importieren";
+
+"Import failed: %@" = "Import fehlgeschlagen: %@";
+
+"Just now" = "Gerade eben";
+
+"Language" = "Sprache";
+
+"Launch at login" = "Beim Anmelden starten";
+
+/* Light */
+"Light" = "Hell";
+
+"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Hört nur auf 127.0.0.1. QuickRSS muss geöffnet bleiben, solange KI-Clients verbunden sind.";
+
+"Loading failed: %@" = "Laden fehlgeschlagen: %@";
+
+"Loading..." = "Wird geladen …";
+
+"MCP" = "MCP";
+
+"Main Window" = "Hauptfenster";
+
+"Mark All As Read" = "Alle als gelesen markieren";
+
+"Mark All As Unread" = "Alle als ungelesen markieren";
+
+"Mark All Read" = "Alle als gelesen markieren";
+
+"Mark As Read" = "Als gelesen markieren";
+
+"Mark As Starred" = "Als Favorit markieren";
+
+"Mark As Unread" = "Als ungelesen markieren";
+
+"Mark As Unstarred" = "Favoritenmarkierung entfernen";
+
+"Move to Top" = "Nach oben verschieben";
+
+"My Apps" = "Meine Apps";
+
+"New Feed..." = "Neuer Feed …";
+
+"No Selection" = "Keine Auswahl";
+
+"No data" = "Keine Daten";
+
+"No more content" = "Keine weiteren Inhalte";
+
+"OK" = "OK";
+
+"Open Feed in browser" = "Feed im Browser öffnen";
+
+"Open Home Page in browser" = "Startseite im Browser öffnen";
+
+"Open in Browser" = "Im Browser öffnen";
+
+"Page details are in the app, display full webpage content" = "Seitendetails befinden sich in der App. Vollständige Webseite anzeigen";
+
+"Pause" = "Pausieren";
+
+"Please enter the Feed URL addres" = "Bitte gib die Feed-URL-Adresse ein";
+
+"Port" = "Port";
+
+"Pro" = "Pro";
+
+"RSS feed already imported; no need to import again." = "RSS-Feed bereits importiert; ein erneuter Import ist nicht erforderlich.";
+
+"Read" = "Gelesen";
+
+"Refresh" = "Aktualisieren";
+
+"Refresh Favicons" = "Favicons aktualisieren";
+
+"Refresh Feed" = "Feed aktualisieren";
+
+"Rename" = "Umbenennen";
+
+"Rename Feed" = "Feed umbenennen";
+
+"Running" = "Wird ausgeführt";
+
+"Select .%@ Feed" = ".%@-Feed auswählen";
+
+"Server" = "Server";
+
+"Share" = "Teilen";
+
+"Show full page" = "Vollständige Seite anzeigen";
+
+"Social Accounts" = "Soziale Konten";
+
+"Starred" = "Favoriten";
+
+"Start" = "Starten";
+
+"Stopped" = "Angehalten";
+
+"Successfully exported \"%lld\" feeds to \"%@\"" = "%1$lld Feed(s) erfolgreich nach \"%2$@\" exportiert";
+
+"Successfully exported \"%lld\" feeds to %@" = "%1$lld Feed(s) erfolgreich nach %2$@ exportiert";
+
+"Sync subscriptions (title, link, URL) across your devices. Article content stays on this device. Restart the app after changing this setting." = "Abonnements (Titel, Link, URL) auf deinen Geräten synchronisieren. Artikelinhalte bleiben auf diesem Gerät. Starte die App nach Änderung dieser Einstellung neu.";
+
+/* System */
+"System" = "System";
+
+"The content you select will be displayed here." = "Der ausgewählte Inhalt wird hier angezeigt.";
+
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "Dies sind MCP-Tools, keine REST-Pfade. Clients rufen tools/list und tools/call auf.";
+
+"Today" = "Heute";
+
+"Token" = "Token";
+
+"URL" = "URL";
+
+"Unlock all Features" = "Alle Funktionen freischalten";
+
+"Unread" = "Ungelesen";
+
+"Unstarred" = "Nicht favorisiert";
+
+"Version %@" = "Version %@";
+
+"X(Twitter)" = "X(Twitter)";
+
+"[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](twitterurl) • [E-Mail](emailurl) • [GitHub](githuburl)";
+
+"iCloud Sync" = "iCloud-Synchronisierung";
+
+"more_tools" = "Weitere Tools";
+
+"my_other_apps" = "Meine anderen Apps";
