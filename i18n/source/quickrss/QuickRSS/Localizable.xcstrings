@@ -1986,7 +1986,50 @@
       }
     },
     "Copied %@" : {
-
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ copié"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ copiato"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ をコピーしました"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 복사됨"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ скопировано"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已复制 %@"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已複製 %@"
+          }
+        }
+      }
     },
     "Copy Claude config" : {
       "localizations" : {
@@ -4948,6 +4991,12 @@
     },
     "Port" : {
       "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Port"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5452,6 +5501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Serveur"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Server"
           }
         },
         "ja" : {
@@ -6103,6 +6158,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jeton"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Token"
           }
         },
         "ja" : {
