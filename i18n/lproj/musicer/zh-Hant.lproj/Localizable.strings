@@ -1,0 +1,281 @@
+" " = " ";
+
+" (Hidden)" = " (隱藏)";
+
+" (Shown)" = " (顯示)";
+
+"%@ already exists!" = "%@ 已存在！";
+
+"%lld" = "%lld";
+
+"About" = "關於";
+
+"About Musicer" = "關於 Musicer";
+
+"Acoustic" = "原聲";
+
+"Album" = "專輯";
+
+"Album Art in Status Bar" = "選單列顯示專輯封面";
+
+"Album Artist" = "專輯演出者";
+
+"Always On Top" = "視窗置頂";
+
+"Always Show Player Toolbar" = "總是顯示播放工具列";
+
+"Artist" = "演出者";
+
+"Authorization" = "授權";
+
+"Background Color" = "背景顏色";
+
+"Bars" = "豎條";
+
+"Bass" = "低音";
+
+"Cancel" = "取消";
+
+"Change Artwork" = "更換封面";
+
+"Classic" = "經典";
+
+"Classical" = "古典";
+
+"Close" = "關閉";
+
+"Comment" = "備註";
+
+"Composer" = "作曲";
+
+"Contact" = "聯絡我們";
+
+"Controls" = "控制";
+
+"Could not write tags to this audio file. Library information was updated." = "無法將標籤寫入此音訊檔案。資料庫資訊已更新。";
+
+"Custom" = "自訂";
+
+"Define the event triggered when double-clicking the player area with the left mouse button." = "定義滑鼠左鍵連按兩下播放器區域時觸發的事件";
+
+"Delete Music Folder" = "刪除音樂檔案夾";
+
+"Desktop Lyrics" = "桌面歌詞";
+
+"Details" = "詳細資訊";
+
+"Disc Count" = "碟片總數";
+
+"Disc Number" = "碟片編號";
+
+"Double Click Action" = "連按兩下動作";
+
+"Drag and drop folders into the player to add music directories." = "將檔案夾拖放到播放器即可加入音樂目錄。";
+
+"Drop music folder!" = "請拖入音樂檔案夾！";
+
+"Duration" = "時長";
+
+"E-mail" = "電子郵件";
+
+"Electronic" = "電子";
+
+"Enable Mosaic Cover" = "啟用馬賽克封面";
+
+"Equalizer" = "等化器";
+
+"Failed to load: %@" = "載入失敗：%@";
+
+"Feedback" = "意見回饋";
+
+"File" = "檔案";
+
+"File Scan Depth" = "檔案掃描深度";
+
+"Flat" = "平坦";
+
+"Folder" = "檔案夾";
+
+"Format" = "格式";
+
+"General" = "一般";
+
+"Genre" = "類型";
+
+"Get Info" = "顯示簡介";
+
+"Grouping" = "分組";
+
+"Help" = "輔助說明";
+
+"Hide Desktop Lyrics" = "隱藏桌面歌詞";
+
+"Hide Dock Icon" = "隱藏 Dock 圖像";
+
+"Hide status bar icon" = "隱藏選單列圖像";
+
+"Jazz" = "爵士";
+
+"Keys" = "快速鍵";
+
+"Large Cover Player" = "大封面播放器";
+
+"Launch at login" = "登入時啟動";
+
+"Limit the depth of recursive directory scanning to avoid performance issues caused by deeply nested folders." = "限制遞迴掃描子目錄的層級，以避免因目錄過深導致效能問題。";
+
+"Linear" = "直線型";
+
+"Loading music library…" = "正在載入音樂庫…";
+
+"Lock" = "鎖定";
+
+"Lyrics" = "歌詞";
+
+"Lyrics Earlier" = "歌詞提前";
+
+"Lyrics Later" = "歌詞延後";
+
+"Main Window" = "主視窗";
+
+"Mini Player" = "迷你播放器";
+
+"Music Folder" = "音樂檔案夾";
+
+"Musicer" = "Musicer";
+
+"Next Track" = "下一首";
+
+"No Lyrics" = "暫無歌詞";
+
+"No content" = "無內容";
+
+"None" = "無操作";
+
+"OK" = "好";
+
+"Only the folder record and its access permission will be removed. The original files will remain untouched, and music from this folder will no longer appear in the list." = "僅刪除記錄中的檔案夾及其取用權限，原始檔案不會受影響。該檔案夾內的音樂將不再顯示在列表中。";
+
+"Open" = "打開";
+
+"Open %@" = "打開 %@";
+
+"Path" = "路徑";
+
+"Pause" = "暫停";
+
+"Pause/Play" = "暫停播放";
+
+"Permission denied" = "沒有權限";
+
+"Pill" = "膠囊";
+
+"Play" = "播放";
+
+"Play Music" = "播放音樂";
+
+"Play/Pause" = "播放/暫停";
+
+"Playback Bar Color" = "播放列顏色";
+
+"Please select \"%@\" to re-authorize." = "請選擇「%@」重新授權";
+
+"Pop" = "流行";
+
+"Prev Track" = "上一首";
+
+"Privacy Policy" = "隱私權政策";
+
+"Progress Bar Style" = "進度條樣式";
+
+"Quit %@" = "結束 %@";
+
+"Refresh List Data" = "重新整理列表資料";
+
+"Remove Artwork" = "移除封面";
+
+"Repeat" = "循環播放";
+
+"Repeat All" = "全部循環";
+
+"Repeat Off" = "不循環";
+
+"Repeat One" = "單曲循環";
+
+"Reset Lyric Sync" = "重設歌詞同步";
+
+"Rock" = "搖滾";
+
+"Save" = "儲存";
+
+"Search" = "搜尋";
+
+"Search Songs" = "搜尋歌曲";
+
+"Segments" = "分段";
+
+"Select Music Folders" = "選擇音樂檔案夾";
+
+"Settings..." = "設定…";
+
+"Show Album Artwork" = "顯示專輯封面";
+
+"Show Album Name" = "顯示專輯名稱";
+
+"Show Artist" = "顯示演出者";
+
+"Show Playerlist" = "顯示播放列表";
+
+"Show Playlist" = "顯示播放列表";
+
+"Show in Finder" = "在 Finder 中顯示";
+
+"Shuffle" = "隨機播放";
+
+"Size" = "大小";
+
+"Social Accounts" = "社交帳號";
+
+"Standard Player" = "標準播放器";
+
+"Supports Mac media keys (**F7**/**F8**/**F9**) for music control." = "支援 Mac 預設媒體鍵（**F7**/**F8**/**F9**）控制音樂播放。";
+
+"Terms of Service" = "服務條款";
+
+"Thank you for your support! After completing the payment, you’ll unlock the ability to play more music from the list and access additional settings." = "感謝您的支持！完成付款後，您將解鎖更多列表中的音樂播放功能，並可取用更多設定選項。";
+
+"Theme" = "主題";
+
+"This records paths and permissions. Individual music files are recorded separately. When a folder containing them is added, the file records are removed since they can be accessed via the folder." = "這裡記錄的是路徑和權限。若列表中是單個音樂檔案，會單獨記錄。加入包含這些檔案的檔案夾時，會清除原來的檔案記錄，因為已可透過檔案夾取用。";
+
+"Tint Color" = "強調色";
+
+"Title" = "標題";
+
+"Toggle Mini Player" = "切換迷你模式";
+
+"Track Count" = "曲目總數";
+
+"Track Number" = "曲目編號";
+
+"Treble" = "高音";
+
+"Unlock" = "解鎖";
+
+"Unlock all Features" = "解鎖所有功能";
+
+"Version %@ (%@)" = "版本 %1$@ (%2$@)";
+
+"Vocal" = "人聲";
+
+"Waveform" = "波形";
+
+"Window Width" = "視窗寬度";
+
+"X(Twitter)" = "X(Twitter)";
+
+"Year" = "年份";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"or" = "或";

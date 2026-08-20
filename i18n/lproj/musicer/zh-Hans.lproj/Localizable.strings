@@ -1,5 +1,9 @@
 " " = " ";
 
+" (Hidden)" = " (隐藏)";
+
+" (Shown)" = " (显示)";
+
 "%@ already exists!" = "%@ 已存在！";
 
 "%lld" = "%lld";
@@ -8,25 +12,61 @@
 
 "About Musicer" = "关于 Musicer";
 
+"Acoustic" = "原声";
+
+"Album" = "专辑";
+
 "Album Art in Status Bar" = "状态栏显示专辑封面";
+
+"Album Artist" = "专辑艺术家";
 
 "Always On Top" = "窗口置顶";
 
 "Always Show Player Toolbar" = "总是显示播放工具栏";
 
+"Artist" = "艺术家";
+
 "Authorization" = "授权";
 
 "Background Color" = "背景颜色";
 
+"Bars" = "竖条";
+
+"Bass" = "低音";
+
 "Cancel" = "取消";
+
+"Change Artwork" = "更换封面";
+
+"Classic" = "经典";
+
+"Classical" = "古典";
+
+"Close" = "关闭";
+
+"Comment" = "备注";
+
+"Composer" = "作曲";
 
 "Contact" = "联系我们";
 
 "Controls" = "控制";
 
+"Could not write tags to this audio file. Library information was updated." = "无法将标签写入此音频文件。资料库信息已更新。";
+
+"Custom" = "自定义";
+
 "Define the event triggered when double-clicking the player area with the left mouse button." = "定义鼠标左键双击播放器区域时触发的事件";
 
 "Delete Music Folder" = "删除音乐文件夹";
+
+"Desktop Lyrics" = "桌面歌词";
+
+"Details" = "详细信息";
+
+"Disc Count" = "碟片总数";
+
+"Disc Number" = "碟片号";
 
 "Double Click Action" = "双击响应动作";
 
@@ -34,9 +74,15 @@
 
 "Drop music folder!" = "请拖入音乐文件夹！";
 
+"Duration" = "时长";
+
 "E-mail" = "电子邮件";
 
+"Electronic" = "电子";
+
 "Enable Mosaic Cover" = "启用马赛克封面";
+
+"Equalizer" = "均衡器";
 
 "Failed to load: %@" = "加载失败：%@";
 
@@ -46,15 +92,29 @@
 
 "File Scan Depth" = "文件扫描深度";
 
+"Flat" = "平坦";
+
 "Folder" = "文件夹";
+
+"Format" = "格式";
 
 "General" = "常规";
 
+"Genre" = "流派";
+
+"Get Info" = "显示简介";
+
+"Grouping" = "分组";
+
 "Help" = "帮助";
+
+"Hide Desktop Lyrics" = "隐藏桌面歌词";
 
 "Hide Dock Icon" = "隐藏扩展坞图标";
 
 "Hide status bar icon" = "隐藏状态栏图标";
+
+"Jazz" = "爵士";
 
 "Keys" = "快捷键";
 
@@ -68,6 +128,14 @@
 
 "Loading music library…" = "正在加载音乐库…";
 
+"Lock" = "锁定";
+
+"Lyrics" = "歌词";
+
+"Lyrics Earlier" = "歌词提前";
+
+"Lyrics Later" = "歌词延后";
+
 "Main Window" = "主窗口";
 
 "Mini Player" = "迷你播放器";
@@ -77,6 +145,8 @@
 "Musicer" = "Musicer";
 
 "Next Track" = "下一首";
+
+"No Lyrics" = "暂无歌词";
 
 "No content" = "无内容";
 
@@ -90,9 +160,15 @@
 
 "Open %@" = "打开 %@";
 
+"Path" = "路径";
+
 "Pause" = "暂停";
 
 "Pause/Play" = "暂停播放";
+
+"Permission denied" = "没有权限";
+
+"Pill" = "胶囊";
 
 "Play" = "播放";
 
@@ -104,6 +180,8 @@
 
 "Please select \"%@\" to re-authorize." = "请选择  “%@” 重新授权";
 
+"Pop" = "流行";
+
 "Prev Track" = "上一首";
 
 "Privacy Policy" = "隐私政策";
@@ -114,6 +192,8 @@
 
 "Refresh List Data" = "刷新列表数据";
 
+"Remove Artwork" = "移除封面";
+
 "Repeat" = "循环播放";
 
 "Repeat All" = "全部循环";
@@ -121,6 +201,18 @@
 "Repeat Off" = "不循环";
 
 "Repeat One" = "单曲循环";
+
+"Reset Lyric Sync" = "重置歌词同步";
+
+"Rock" = "摇滚";
+
+"Save" = "存储";
+
+"Search" = "搜索";
+
+"Search Songs" = "搜索歌曲";
+
+"Segments" = "分段";
 
 "Select Music Folders" = "选择音乐文件夹";
 
@@ -136,11 +228,11 @@
 
 "Show Playlist" = "显示播放列表";
 
-"Show Track Number" = "显示序号";
-
 "Show in Finder" = "在访达中显示";
 
 "Shuffle" = "随机播放";
+
+"Size" = "大小";
 
 "Social Accounts" = "社交账号";
 
@@ -158,17 +250,31 @@
 
 "Tint Color" = "强调色";
 
+"Title" = "标题";
+
 "Toggle Mini Player" = "切换迷你模式";
+
+"Track Count" = "音轨总数";
+
+"Track Number" = "音轨号";
+
+"Treble" = "高音";
+
+"Unlock" = "解锁";
 
 "Unlock all Features" = "解锁所有功能";
 
 "Version %@ (%@)" = "版本 %1$@ (%2$@)";
+
+"Vocal" = "人声";
 
 "Waveform" = "波形";
 
 "Window Width" = "窗口宽度";
 
 "X(Twitter)" = "X(Twitter)";
+
+"Year" = "年份";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
 

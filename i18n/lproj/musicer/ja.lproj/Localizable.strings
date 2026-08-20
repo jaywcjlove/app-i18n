@@ -1,0 +1,281 @@
+" " = " ";
+
+" (Hidden)" = " (非表示)";
+
+" (Shown)" = " (表示中)";
+
+"%@ already exists!" = "%@ はすでに存在します！";
+
+"%lld" = "%lld";
+
+"About" = "情報";
+
+"About Musicer" = "Musicer について";
+
+"Acoustic" = "アコースティック";
+
+"Album" = "アルバム";
+
+"Album Art in Status Bar" = "メニューバーにアルバムアートを表示";
+
+"Album Artist" = "アルバムアーティスト";
+
+"Always On Top" = "常に最前面";
+
+"Always Show Player Toolbar" = "常にプレーヤーツールバーを表示";
+
+"Artist" = "アーティスト";
+
+"Authorization" = "承認";
+
+"Background Color" = "背景色";
+
+"Bars" = "バー";
+
+"Bass" = "低音";
+
+"Cancel" = "キャンセル";
+
+"Change Artwork" = "アートワークを変更";
+
+"Classic" = "クラシック";
+
+"Classical" = "クラシック";
+
+"Close" = "閉じる";
+
+"Comment" = "コメント";
+
+"Composer" = "作曲者";
+
+"Contact" = "お問い合わせ";
+
+"Controls" = "コントロール";
+
+"Could not write tags to this audio file. Library information was updated." = "このオーディオファイルにタグを書き込めませんでした。ライブラリ情報は更新されました。";
+
+"Custom" = "カスタム";
+
+"Define the event triggered when double-clicking the player area with the left mouse button." = "プレーヤー領域を左ボタンでダブルクリックしたときに実行する操作を設定します。";
+
+"Delete Music Folder" = "ミュージックフォルダを削除";
+
+"Desktop Lyrics" = "デスクトップ歌詞";
+
+"Details" = "詳細";
+
+"Disc Count" = "ディスク数";
+
+"Disc Number" = "ディスク番号";
+
+"Double Click Action" = "ダブルクリック時の動作";
+
+"Drag and drop folders into the player to add music directories." = "フォルダをプレーヤーにドラッグ＆ドロップして、ミュージックディレクトリを追加できます。";
+
+"Drop music folder!" = "ミュージックフォルダをドロップしてください！";
+
+"Duration" = "再生時間";
+
+"E-mail" = "メール";
+
+"Electronic" = "エレクトロ";
+
+"Enable Mosaic Cover" = "モザイクカバーを有効にする";
+
+"Equalizer" = "イコライザ";
+
+"Failed to load: %@" = "読み込みに失敗しました: %@";
+
+"Feedback" = "フィードバック";
+
+"File" = "ファイル";
+
+"File Scan Depth" = "ファイルスキャンの深さ";
+
+"Flat" = "フラット";
+
+"Folder" = "フォルダ";
+
+"Format" = "フォーマット";
+
+"General" = "一般";
+
+"Genre" = "ジャンル";
+
+"Get Info" = "情報を見る";
+
+"Grouping" = "グループ";
+
+"Help" = "ヘルプ";
+
+"Hide Desktop Lyrics" = "デスクトップ歌詞を隠す";
+
+"Hide Dock Icon" = "Dock アイコンを隠す";
+
+"Hide status bar icon" = "メニューバーアイコンを隠す";
+
+"Jazz" = "ジャズ";
+
+"Keys" = "キーボード";
+
+"Large Cover Player" = "ラージカバープレーヤー";
+
+"Launch at login" = "ログイン時に開く";
+
+"Limit the depth of recursive directory scanning to avoid performance issues caused by deeply nested folders." = "深く入れ子になったフォルダによるパフォーマンス低下を避けるため、再帰スキャンの深さを制限します。";
+
+"Linear" = "リニア";
+
+"Loading music library…" = "ミュージックライブラリを読み込み中…";
+
+"Lock" = "ロック";
+
+"Lyrics" = "歌詞";
+
+"Lyrics Earlier" = "歌詞を早める";
+
+"Lyrics Later" = "歌詞を遅らせる";
+
+"Main Window" = "メインウインドウ";
+
+"Mini Player" = "ミニプレーヤー";
+
+"Music Folder" = "ミュージックフォルダ";
+
+"Musicer" = "Musicer";
+
+"Next Track" = "次の曲";
+
+"No Lyrics" = "歌詞なし";
+
+"No content" = "コンテンツがありません";
+
+"None" = "なし";
+
+"OK" = "OK";
+
+"Only the folder record and its access permission will be removed. The original files will remain untouched, and music from this folder will no longer appear in the list." = "フォルダの記録とアクセス権限のみが削除されます。元のファイルはそのまま残り、このフォルダの曲はリストに表示されなくなります。";
+
+"Open" = "開く";
+
+"Open %@" = "%@ を開く";
+
+"Path" = "パス";
+
+"Pause" = "一時停止";
+
+"Pause/Play" = "一時停止/再生";
+
+"Permission denied" = "アクセス権がありません";
+
+"Pill" = "カプセル";
+
+"Play" = "再生";
+
+"Play Music" = "曲を再生";
+
+"Play/Pause" = "再生/一時停止";
+
+"Playback Bar Color" = "再生バーの色";
+
+"Please select \"%@\" to re-authorize." = "再承認するには「%@」を選択してください。";
+
+"Pop" = "ポップ";
+
+"Prev Track" = "前の曲";
+
+"Privacy Policy" = "プライバシーポリシー";
+
+"Progress Bar Style" = "進捗バーのスタイル";
+
+"Quit %@" = "%@ を終了";
+
+"Refresh List Data" = "リストデータを更新";
+
+"Remove Artwork" = "アートワークを削除";
+
+"Repeat" = "リピート";
+
+"Repeat All" = "全曲リピート";
+
+"Repeat Off" = "リピートオフ";
+
+"Repeat One" = "1曲リピート";
+
+"Reset Lyric Sync" = "歌詞同期をリセット";
+
+"Rock" = "ロック";
+
+"Save" = "保存";
+
+"Search" = "検索";
+
+"Search Songs" = "曲を検索";
+
+"Segments" = "セグメント";
+
+"Select Music Folders" = "ミュージックフォルダを選択";
+
+"Settings..." = "設定…";
+
+"Show Album Artwork" = "アルバムアートワークを表示";
+
+"Show Album Name" = "アルバム名を表示";
+
+"Show Artist" = "アーティストを表示";
+
+"Show Playerlist" = "プレイリストを表示";
+
+"Show Playlist" = "プレイリストを表示";
+
+"Show in Finder" = "Finder に表示";
+
+"Shuffle" = "シャッフル";
+
+"Size" = "サイズ";
+
+"Social Accounts" = "ソーシャルアカウント";
+
+"Standard Player" = "標準プレーヤー";
+
+"Supports Mac media keys (**F7**/**F8**/**F9**) for music control." = "Mac のメディアキー（**F7**/**F8**/**F9**）で音楽を操作できます。";
+
+"Terms of Service" = "利用規約";
+
+"Thank you for your support! After completing the payment, you’ll unlock the ability to play more music from the list and access additional settings." = "ご支援ありがとうございます！お支払い完了後、リスト内のより多くの曲を再生でき、追加の設定にもアクセスできるようになります。";
+
+"Theme" = "テーマ";
+
+"This records paths and permissions. Individual music files are recorded separately. When a folder containing them is added, the file records are removed since they can be accessed via the folder." = "ここではパスとアクセス権限を記録します。個別の音楽ファイルは別に記録されます。それらを含むフォルダを追加すると、フォルダ経由でアクセスできるため、ファイルの記録は削除されます。";
+
+"Tint Color" = "アクセントカラー";
+
+"Title" = "タイトル";
+
+"Toggle Mini Player" = "ミニプレーヤーを切り替え";
+
+"Track Count" = "トラック数";
+
+"Track Number" = "トラック番号";
+
+"Treble" = "高音";
+
+"Unlock" = "ロック解除";
+
+"Unlock all Features" = "すべての機能をロック解除";
+
+"Version %@ (%@)" = "バージョン %1$@ (%2$@)";
+
+"Vocal" = "ボーカル";
+
+"Waveform" = "波形";
+
+"Window Width" = "ウインドウ幅";
+
+"X(Twitter)" = "X(Twitter)";
+
+"Year" = "年";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"or" = "または";

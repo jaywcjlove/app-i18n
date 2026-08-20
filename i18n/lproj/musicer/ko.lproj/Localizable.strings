@@ -1,0 +1,281 @@
+" " = " ";
+
+" (Hidden)" = " (숨김)";
+
+" (Shown)" = " (표시됨)";
+
+"%@ already exists!" = "%@이(가) 이미 있습니다!";
+
+"%lld" = "%lld";
+
+"About" = "정보";
+
+"About Musicer" = "Musicer 정보";
+
+"Acoustic" = "어쿠스틱";
+
+"Album" = "앨범";
+
+"Album Art in Status Bar" = "메뉴 막대에 앨범 아트 표시";
+
+"Album Artist" = "앨범 아티스트";
+
+"Always On Top" = "항상 위에 표시";
+
+"Always Show Player Toolbar" = "항상 플레이어 도구 막대 표시";
+
+"Artist" = "아티스트";
+
+"Authorization" = "권한 부여";
+
+"Background Color" = "배경 색상";
+
+"Bars" = "막대";
+
+"Bass" = "저음";
+
+"Cancel" = "취소";
+
+"Change Artwork" = "아트워크 변경";
+
+"Classic" = "클래식";
+
+"Classical" = "클래식";
+
+"Close" = "닫기";
+
+"Comment" = "설명";
+
+"Composer" = "작곡가";
+
+"Contact" = "문의";
+
+"Controls" = "제어";
+
+"Could not write tags to this audio file. Library information was updated." = "이 오디오 파일에 태그를 쓸 수 없습니다. 보관함 정보는 업데이트되었습니다.";
+
+"Custom" = "사용자 지정";
+
+"Define the event triggered when double-clicking the player area with the left mouse button." = "플레이어 영역을 마우스 왼쪽 버튼으로 더블 클릭할 때 실행할 동작을 지정합니다.";
+
+"Delete Music Folder" = "음악 폴더 삭제";
+
+"Desktop Lyrics" = "데스크톱 가사";
+
+"Details" = "세부사항";
+
+"Disc Count" = "디스크 수";
+
+"Disc Number" = "디스크 번호";
+
+"Double Click Action" = "더블 클릭 동작";
+
+"Drag and drop folders into the player to add music directories." = "폴더를 플레이어로 드래그하여 음악 디렉터리를 추가하세요.";
+
+"Drop music folder!" = "음악 폴더를 놓으세요!";
+
+"Duration" = "길이";
+
+"E-mail" = "이메일";
+
+"Electronic" = "일렉트로닉";
+
+"Enable Mosaic Cover" = "모자이크 커버 사용";
+
+"Equalizer" = "이퀄라이저";
+
+"Failed to load: %@" = "불러오기 실패: %@";
+
+"Feedback" = "피드백";
+
+"File" = "파일";
+
+"File Scan Depth" = "파일 검색 깊이";
+
+"Flat" = "플랫";
+
+"Folder" = "폴더";
+
+"Format" = "형식";
+
+"General" = "일반";
+
+"Genre" = "장르";
+
+"Get Info" = "정보 가져오기";
+
+"Grouping" = "그룹";
+
+"Help" = "도움말";
+
+"Hide Desktop Lyrics" = "데스크톱 가사 가리기";
+
+"Hide Dock Icon" = "Dock 아이콘 가리기";
+
+"Hide status bar icon" = "메뉴 막대 아이콘 가리기";
+
+"Jazz" = "재즈";
+
+"Keys" = "단축키";
+
+"Large Cover Player" = "큰 커버 플레이어";
+
+"Launch at login" = "로그인 시 실행";
+
+"Limit the depth of recursive directory scanning to avoid performance issues caused by deeply nested folders." = "폴더가 너무 깊게 중첩되어 성능 문제가 생기지 않도록 재귀 검색 깊이를 제한합니다.";
+
+"Linear" = "선형";
+
+"Loading music library…" = "음악 보관함을 불러오는 중…";
+
+"Lock" = "잠금";
+
+"Lyrics" = "가사";
+
+"Lyrics Earlier" = "가사 앞당기기";
+
+"Lyrics Later" = "가사 늦추기";
+
+"Main Window" = "기본 윈도우";
+
+"Mini Player" = "미니 플레이어";
+
+"Music Folder" = "음악 폴더";
+
+"Musicer" = "Musicer";
+
+"Next Track" = "다음 트랙";
+
+"No Lyrics" = "가사 없음";
+
+"No content" = "콘텐츠 없음";
+
+"None" = "없음";
+
+"OK" = "확인";
+
+"Only the folder record and its access permission will be removed. The original files will remain untouched, and music from this folder will no longer appear in the list." = "폴더 기록과 접근 권한만 삭제됩니다. 원본 파일은 그대로 유지되며, 이 폴더의 음악은 더 이상 목록에 나타나지 않습니다.";
+
+"Open" = "열기";
+
+"Open %@" = "%@ 열기";
+
+"Path" = "경로";
+
+"Pause" = "일시 정지";
+
+"Pause/Play" = "일시 정지/재생";
+
+"Permission denied" = "권한이 거부됨";
+
+"Pill" = "캡슐";
+
+"Play" = "재생";
+
+"Play Music" = "음악 재생";
+
+"Play/Pause" = "재생/일시 정지";
+
+"Playback Bar Color" = "재생 막대 색상";
+
+"Please select \"%@\" to re-authorize." = "“%@”을(를) 선택하여 다시 권한을 부여하세요.";
+
+"Pop" = "팝";
+
+"Prev Track" = "이전 트랙";
+
+"Privacy Policy" = "개인정보 처리방침";
+
+"Progress Bar Style" = "진행 막대 스타일";
+
+"Quit %@" = "%@ 종료";
+
+"Refresh List Data" = "목록 데이터 새로 고침";
+
+"Remove Artwork" = "아트워크 제거";
+
+"Repeat" = "반복";
+
+"Repeat All" = "전체 반복";
+
+"Repeat Off" = "반복 끄기";
+
+"Repeat One" = "한 곡 반복";
+
+"Reset Lyric Sync" = "가사 동기화 재설정";
+
+"Rock" = "록";
+
+"Save" = "저장";
+
+"Search" = "검색";
+
+"Search Songs" = "노래 검색";
+
+"Segments" = "구간";
+
+"Select Music Folders" = "음악 폴더 선택";
+
+"Settings..." = "설정…";
+
+"Show Album Artwork" = "앨범 아트 표시";
+
+"Show Album Name" = "앨범 이름 표시";
+
+"Show Artist" = "아티스트 표시";
+
+"Show Playerlist" = "재생 목록 표시";
+
+"Show Playlist" = "재생 목록 표시";
+
+"Show in Finder" = "Finder에서 보기";
+
+"Shuffle" = "무작위 재생";
+
+"Size" = "크기";
+
+"Social Accounts" = "소셜 계정";
+
+"Standard Player" = "표준 플레이어";
+
+"Supports Mac media keys (**F7**/**F8**/**F9**) for music control." = "Mac 미디어 키(**F7**/**F8**/**F9**)로 음악을 제어할 수 있습니다.";
+
+"Terms of Service" = "서비스 약관";
+
+"Thank you for your support! After completing the payment, you’ll unlock the ability to play more music from the list and access additional settings." = "지원해 주셔서 감사합니다! 결제를 완료하면 목록에서 더 많은 음악을 재생하고 추가 설정에 접근할 수 있습니다.";
+
+"Theme" = "테마";
+
+"This records paths and permissions. Individual music files are recorded separately. When a folder containing them is added, the file records are removed since they can be accessed via the folder." = "여기에는 경로와 권한이 기록됩니다. 개별 음악 파일은 따로 기록됩니다. 해당 파일이 들어 있는 폴더를 추가하면 폴더를 통해 접근할 수 있으므로 파일 기록이 삭제됩니다.";
+
+"Tint Color" = "강조 색상";
+
+"Title" = "제목";
+
+"Toggle Mini Player" = "미니 플레이어 전환";
+
+"Track Count" = "트랙 수";
+
+"Track Number" = "트랙 번호";
+
+"Treble" = "고음";
+
+"Unlock" = "잠금 해제";
+
+"Unlock all Features" = "모든 기능 잠금 해제";
+
+"Version %@ (%@)" = "버전 %1$@ (%2$@)";
+
+"Vocal" = "보컬";
+
+"Waveform" = "파형";
+
+"Window Width" = "윈도우 너비";
+
+"X(Twitter)" = "X(Twitter)";
+
+"Year" = "연도";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"or" = "또는";

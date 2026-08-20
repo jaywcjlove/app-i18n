@@ -1,5 +1,9 @@
 " " = " ";
 
+" (Hidden)" = " (Hidden)";
+
+" (Shown)" = " (Shown)";
+
 "%@ already exists!" = "%@ already exists!";
 
 "%lld" = "%lld";
@@ -8,25 +12,61 @@
 
 "About Musicer" = "About Musicer";
 
+"Acoustic" = "Acoustic";
+
+"Album" = "Album";
+
 "Album Art in Status Bar" = "Album Art in Status Bar";
+
+"Album Artist" = "Album Artist";
 
 "Always On Top" = "Always On Top";
 
 "Always Show Player Toolbar" = "Always Show Player Toolbar";
 
+"Artist" = "Artist";
+
 "Authorization" = "Authorization";
 
 "Background Color" = "Background Color";
 
+"Bars" = "Bars";
+
+"Bass" = "Bass";
+
 "Cancel" = "Cancel";
+
+"Change Artwork" = "Change Artwork";
+
+"Classic" = "Classic";
+
+"Classical" = "Classical";
+
+"Close" = "Close";
+
+"Comment" = "Comment";
+
+"Composer" = "Composer";
 
 "Contact" = "Contact";
 
 "Controls" = "Controls";
 
+"Could not write tags to this audio file. Library information was updated." = "Could not write tags to this audio file. Library information was updated.";
+
+"Custom" = "Custom";
+
 "Define the event triggered when double-clicking the player area with the left mouse button." = "Define the event triggered when double-clicking the player area with the left mouse button.";
 
 "Delete Music Folder" = "Delete Music Folder";
+
+"Desktop Lyrics" = "Desktop Lyrics";
+
+"Details" = "Details";
+
+"Disc Count" = "Disc Count";
+
+"Disc Number" = "Disc Number";
 
 "Double Click Action" = "Double Click Action";
 
@@ -34,9 +74,15 @@
 
 "Drop music folder!" = "Drop music folder!";
 
+"Duration" = "Duration";
+
 "E-mail" = "E-mail";
 
+"Electronic" = "Electronic";
+
 "Enable Mosaic Cover" = "Enable Mosaic Cover";
+
+"Equalizer" = "Equalizer";
 
 "Failed to load: %@" = "Failed to load: %@";
 
@@ -46,15 +92,29 @@
 
 "File Scan Depth" = "File Scan Depth";
 
+"Flat" = "Flat";
+
 "Folder" = "Folder";
+
+"Format" = "Format";
 
 "General" = "General";
 
+"Genre" = "Genre";
+
+"Get Info" = "Get Info";
+
+"Grouping" = "Grouping";
+
 "Help" = "Help";
+
+"Hide Desktop Lyrics" = "Hide Desktop Lyrics";
 
 "Hide Dock Icon" = "Hide Dock Icon";
 
 "Hide status bar icon" = "Hide status bar icon";
+
+"Jazz" = "Jazz";
 
 "Keys" = "Keys";
 
@@ -68,6 +128,14 @@
 
 "Loading music library…" = "Loading music library…";
 
+"Lock" = "Lock";
+
+"Lyrics" = "Lyrics";
+
+"Lyrics Earlier" = "Lyrics Earlier";
+
+"Lyrics Later" = "Lyrics Later";
+
 "Main Window" = "Main Window";
 
 "Mini Player" = "Mini Player";
@@ -77,6 +145,8 @@
 "Musicer" = "Musicer";
 
 "Next Track" = "Next Track";
+
+"No Lyrics" = "No Lyrics";
 
 "No content" = "No content";
 
@@ -90,9 +160,15 @@
 
 "Open %@" = "Open %@";
 
+"Path" = "Path";
+
 "Pause" = "Pause";
 
 "Pause/Play" = "Pause/Play";
+
+"Permission denied" = "Permission denied";
+
+"Pill" = "Pill";
 
 "Play" = "Play";
 
@@ -104,6 +180,8 @@
 
 "Please select \"%@\" to re-authorize." = "Please select \"%@\" to re-authorize.";
 
+"Pop" = "Pop";
+
 "Prev Track" = "Prev Track";
 
 "Privacy Policy" = "Privacy Policy";
@@ -114,6 +192,8 @@
 
 "Refresh List Data" = "Refresh List Data";
 
+"Remove Artwork" = "Remove Artwork";
+
 "Repeat" = "Repeat";
 
 "Repeat All" = "Repeat All";
@@ -121,6 +201,18 @@
 "Repeat Off" = "Repeat Off";
 
 "Repeat One" = "Repeat One";
+
+"Reset Lyric Sync" = "Reset Lyric Sync";
+
+"Rock" = "Rock";
+
+"Save" = "Save";
+
+"Search" = "Search";
+
+"Search Songs" = "Search Songs";
+
+"Segments" = "Segments";
 
 "Select Music Folders" = "Select Music Folders";
 
@@ -136,11 +228,11 @@
 
 "Show Playlist" = "Show Playlist";
 
-"Show Track Number" = "Show Track Number";
-
 "Show in Finder" = "Show in Finder";
 
 "Shuffle" = "Shuffle";
+
+"Size" = "Size";
 
 "Social Accounts" = "Social Accounts";
 
@@ -158,17 +250,31 @@
 
 "Tint Color" = "Tint Color";
 
+"Title" = "Title";
+
 "Toggle Mini Player" = "Toggle Mini Player";
+
+"Track Count" = "Track Count";
+
+"Track Number" = "Track Number";
+
+"Treble" = "Treble";
+
+"Unlock" = "Unlock";
 
 "Unlock all Features" = "Unlock all Features";
 
 "Version %@ (%@)" = "Version %1$@ (%2$@)";
+
+"Vocal" = "Vocal";
 
 "Waveform" = "Waveform";
 
 "Window Width" = "Window Width";
 
 "X(Twitter)" = "X(Twitter)";
+
+"Year" = "Year";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
 

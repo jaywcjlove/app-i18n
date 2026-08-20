@@ -1,0 +1,281 @@
+" " = " ";
+
+" (Hidden)" = " (скрыто)";
+
+" (Shown)" = " (показано)";
+
+"%@ already exists!" = "%@ уже существует!";
+
+"%lld" = "%lld";
+
+"About" = "О программе";
+
+"About Musicer" = "О программе Musicer";
+
+"Acoustic" = "Акустика";
+
+"Album" = "Альбом";
+
+"Album Art in Status Bar" = "Обложка альбома в строке меню";
+
+"Album Artist" = "Исполнитель альбома";
+
+"Always On Top" = "Поверх всех окон";
+
+"Always Show Player Toolbar" = "Всегда показывать панель плеера";
+
+"Artist" = "Исполнитель";
+
+"Authorization" = "Авторизация";
+
+"Background Color" = "Цвет фона";
+
+"Bars" = "Полоски";
+
+"Bass" = "Бас";
+
+"Cancel" = "Отмена";
+
+"Change Artwork" = "Сменить обложку";
+
+"Classic" = "Классический";
+
+"Classical" = "Классика";
+
+"Close" = "Закрыть";
+
+"Comment" = "Комментарий";
+
+"Composer" = "Композитор";
+
+"Contact" = "Связаться";
+
+"Controls" = "Управление";
+
+"Could not write tags to this audio file. Library information was updated." = "Не удалось записать теги в этот аудиофайл. Данные библиотеки обновлены.";
+
+"Custom" = "Свой";
+
+"Define the event triggered when double-clicking the player area with the left mouse button." = "Выберите действие, выполняемое при двойном щелчке левой кнопкой мыши по области плеера.";
+
+"Delete Music Folder" = "Удалить музыкальную папку";
+
+"Desktop Lyrics" = "Текст на рабочем столе";
+
+"Details" = "Подробности";
+
+"Disc Count" = "Всего дисков";
+
+"Disc Number" = "Номер диска";
+
+"Double Click Action" = "Действие по двойному щелчку";
+
+"Drag and drop folders into the player to add music directories." = "Перетащите папки в плеер, чтобы добавить музыкальные каталоги.";
+
+"Drop music folder!" = "Перетащите музыкальную папку!";
+
+"Duration" = "Длительность";
+
+"E-mail" = "Эл. почта";
+
+"Electronic" = "Электро";
+
+"Enable Mosaic Cover" = "Включить мозаичную обложку";
+
+"Equalizer" = "Эквалайзер";
+
+"Failed to load: %@" = "Не удалось загрузить: %@";
+
+"Feedback" = "Отзыв";
+
+"File" = "Файл";
+
+"File Scan Depth" = "Глубина сканирования файлов";
+
+"Flat" = "Ровный";
+
+"Folder" = "Папка";
+
+"Format" = "Формат";
+
+"General" = "Основные";
+
+"Genre" = "Жанр";
+
+"Get Info" = "Сведения";
+
+"Grouping" = "Группа";
+
+"Help" = "Справка";
+
+"Hide Desktop Lyrics" = "Скрыть текст на рабочем столе";
+
+"Hide Dock Icon" = "Скрыть значок в Dock";
+
+"Hide status bar icon" = "Скрыть значок в строке меню";
+
+"Jazz" = "Джаз";
+
+"Keys" = "Клавиши";
+
+"Large Cover Player" = "Плеер с большой обложкой";
+
+"Launch at login" = "Запускать при входе";
+
+"Limit the depth of recursive directory scanning to avoid performance issues caused by deeply nested folders." = "Ограничьте глубину рекурсивного сканирования каталогов, чтобы избежать проблем с производительностью из-за слишком глубокой вложенности.";
+
+"Linear" = "Линейный";
+
+"Loading music library…" = "Загрузка музыкальной библиотеки…";
+
+"Lock" = "Заблокировать";
+
+"Lyrics" = "Текст";
+
+"Lyrics Earlier" = "Текст раньше";
+
+"Lyrics Later" = "Текст позже";
+
+"Main Window" = "Главное окно";
+
+"Mini Player" = "Мини-плеер";
+
+"Music Folder" = "Музыкальная папка";
+
+"Musicer" = "Musicer";
+
+"Next Track" = "Следующий трек";
+
+"No Lyrics" = "Нет текста";
+
+"No content" = "Нет содержимого";
+
+"None" = "Нет";
+
+"OK" = "ОК";
+
+"Only the folder record and its access permission will be removed. The original files will remain untouched, and music from this folder will no longer appear in the list." = "Будет удалена только запись о папке и разрешение на доступ. Исходные файлы останутся без изменений, а музыка из этой папки больше не будет отображаться в списке.";
+
+"Open" = "Открыть";
+
+"Open %@" = "Открыть %@";
+
+"Path" = "Путь";
+
+"Pause" = "Пауза";
+
+"Pause/Play" = "Пауза/воспроизведение";
+
+"Permission denied" = "Отказано в доступе";
+
+"Pill" = "Капсула";
+
+"Play" = "Воспроизвести";
+
+"Play Music" = "Воспроизвести музыку";
+
+"Play/Pause" = "Воспроизведение/пауза";
+
+"Playback Bar Color" = "Цвет панели воспроизведения";
+
+"Please select \"%@\" to re-authorize." = "Выберите «%@», чтобы предоставить доступ повторно.";
+
+"Pop" = "Поп";
+
+"Prev Track" = "Предыдущий трек";
+
+"Privacy Policy" = "Политика конфиденциальности";
+
+"Progress Bar Style" = "Стиль индикатора прогресса";
+
+"Quit %@" = "Завершить %@";
+
+"Refresh List Data" = "Обновить данные списка";
+
+"Remove Artwork" = "Удалить обложку";
+
+"Repeat" = "Повтор";
+
+"Repeat All" = "Повторять все";
+
+"Repeat Off" = "Без повтора";
+
+"Repeat One" = "Повторять один трек";
+
+"Reset Lyric Sync" = "Сбросить синхронизацию";
+
+"Rock" = "Рок";
+
+"Save" = "Сохранить";
+
+"Search" = "Поиск";
+
+"Search Songs" = "Поиск композиций";
+
+"Segments" = "Сегменты";
+
+"Select Music Folders" = "Выбрать музыкальные папки";
+
+"Settings..." = "Настройки…";
+
+"Show Album Artwork" = "Показывать обложку альбома";
+
+"Show Album Name" = "Показывать название альбома";
+
+"Show Artist" = "Показывать исполнителя";
+
+"Show Playerlist" = "Показать плейлист";
+
+"Show Playlist" = "Показать плейлист";
+
+"Show in Finder" = "Показать в Finder";
+
+"Shuffle" = "Перемешать";
+
+"Size" = "Размер";
+
+"Social Accounts" = "Социальные сети";
+
+"Standard Player" = "Стандартный плеер";
+
+"Supports Mac media keys (**F7**/**F8**/**F9**) for music control." = "Поддерживаются медиаклавиши Mac (**F7**/**F8**/**F9**) для управления музыкой.";
+
+"Terms of Service" = "Условия использования";
+
+"Thank you for your support! After completing the payment, you’ll unlock the ability to play more music from the list and access additional settings." = "Спасибо за поддержку! После оплаты вы сможете воспроизводить больше треков из списка и получите доступ к дополнительным настройкам.";
+
+"Theme" = "Тема";
+
+"This records paths and permissions. Individual music files are recorded separately. When a folder containing them is added, the file records are removed since they can be accessed via the folder." = "Здесь сохраняются пути и разрешения. Отдельные музыкальные файлы записываются отдельно. При добавлении папки, которая их содержит, записи файлов удаляются, поскольку к ним можно получить доступ через папку.";
+
+"Tint Color" = "Цвет акцента";
+
+"Title" = "Название";
+
+"Toggle Mini Player" = "Переключить мини-плеер";
+
+"Track Count" = "Всего треков";
+
+"Track Number" = "Номер трека";
+
+"Treble" = "Высокие";
+
+"Unlock" = "Разблокировать";
+
+"Unlock all Features" = "Разблокировать все функции";
+
+"Version %@ (%@)" = "Версия %1$@ (%2$@)";
+
+"Vocal" = "Вокал";
+
+"Waveform" = "Волна";
+
+"Window Width" = "Ширина окна";
+
+"X(Twitter)" = "X(Twitter)";
+
+"Year" = "Год";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"or" = "или";
