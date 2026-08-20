@@ -20,7 +20,7 @@
 
 "%lld" = "%lld";
 
-"%lld of %lld" = "%1$lld of %2$lld";
+"%lld of %lld" = "%1$lld / %2$lld";
 
 "%lld unread" = "%lld 条未读";
 
@@ -37,6 +37,8 @@
 "1 year ago" = "1年前";
 
 "A total of %lld entries" = "一共 %lld 条数据";
+
+"API" = "API";
 
 "About" = "关于";
 
@@ -66,21 +68,35 @@
 
 "Clear all data from the source" = "清空源的所有数据";
 
+"Client config" = "Client config";
+
 "Confirm" = "确认";
 
 "Confirm Deletion" = "确认删除";
 
 "Confirm deletion of \"%@\" subscription data" = "确认删除「%@」的订阅数据吗？";
 
+"Connection" = "Connection";
+
 "Contact" = "联系我们";
 
+"Copied %@" = "Copied %@";
+
+"Copy Claude config" = "Copy Claude config";
+
 "Copy Content" = "复制内容";
+
+"Copy Cursor config" = "Copy Cursor config";
 
 "Copy Feed Title" = "复制订阅标题";
 
 "Copy Feed URL" = "复制订阅源 URL";
 
+"Copy Grok config" = "Copy Grok config";
+
 "Copy Home Page URL" = "复制主页 URL";
+
+"Copy Token" = "Copy Token";
 
 "Copy URL" = "复制链接";
 
@@ -121,6 +137,8 @@
 
 "General" = "常规";
 
+"Generate Token" = "Generate Token";
+
 "Go to Settings to grant notification permissions" = "前往设置授权通知权限";
 
 "Import Feeds (.json)" = "导入订阅源（.json）";
@@ -138,9 +156,13 @@
 /* Light */
 "Light" = "亮色";
 
+"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected.";
+
 "Loading failed: %@" = "加载失败：%@";
 
 "Loading..." = "加载中…";
+
+"MCP" = "MCP";
 
 "Main Window" = "主窗口";
 
@@ -180,7 +202,11 @@
 
 "Page details are in the app, display full webpage content" = "页面详情在应用中，显示完整网页内容";
 
+"Pause" = "Pause";
+
 "Please enter the Feed URL addres" = "请输入订阅源的 URL 地址";
+
+"Port" = "Port";
 
 "Pro" = "专业版";
 
@@ -190,11 +216,19 @@
 
 "Refresh" = "刷新";
 
+"Refresh Favicons" = "刷新网站图标";
+
 "Refresh Feed" = "刷新订阅源";
 
 "Rename" = "重命名";
 
 "Rename Feed" = "重命名订阅";
+
+"Running" = "Running";
+
+"Select .%@ Feed" = "选择 .%@ 订阅文件";
+
+"Server" = "Server";
 
 "Share" = "分享";
 
@@ -204,16 +238,28 @@
 
 "Starred" = "收藏";
 
+"Start" = "Start";
+
+"Stopped" = "Stopped";
+
 "Successfully exported \"%lld\" feeds to \"%@\"" = "成功将 \"%1$lld\" 条订阅导出到 \"%2$@\"";
 
 "Successfully exported \"%lld\" feeds to %@" = "已成功将 “%1$lld” 个订阅源导出到 %2$@";
+
+"Sync subscriptions (title, link, URL) across your devices. Article content stays on this device. Restart the app after changing this setting." = "在多台设备间同步订阅源（标题、链接、网址）。文章内容仅保存在本机。更改此选项后请重启应用。";
 
 /* System */
 "System" = "系统";
 
 "The content you select will be displayed here." = "您选择的内容将显示在这里";
 
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "These are MCP tools, not REST paths. Clients call tools/list and tools/call.";
+
 "Today" = "今天";
+
+"Token" = "Token";
+
+"URL" = "URL";
 
 "Unlock all Features" = "解锁所有功能";
 
@@ -227,4 +273,8 @@
 
 "[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)";
 
-"my_other_apps" = "my_other_apps";
+"iCloud Sync" = "iCloud 同步";
+
+"more_tools" = "更多工具";
+
+"my_other_apps" = "我的其他应用";

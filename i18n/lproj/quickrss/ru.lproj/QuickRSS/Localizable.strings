@@ -1,0 +1,280 @@
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ Тёмная тема";
+
+"%@ Follow System" = "%@ Как в системе";
+
+"%@ Light Mode" = "%@ Светлая тема";
+
+"%d days ago" = "%d дн. назад";
+
+"%d hours ago" = "%d ч. назад";
+
+"%d minutes ago" = "%d мин. назад";
+
+"%d months ago" = "%d мес. назад";
+
+"%d weeks ago" = "%d нед. назад";
+
+"%d years ago" = "%d г. назад";
+
+"%lld" = "%lld";
+
+"%lld of %lld" = "%1$lld из %2$lld";
+
+"%lld unread" = "%lld непрочит.";
+
+"1 day ago" = "1 день назад";
+
+"1 hour ago" = "1 час назад";
+
+"1 minute ago" = "1 минуту назад";
+
+"1 month ago" = "1 месяц назад";
+
+"1 week ago" = "1 неделю назад";
+
+"1 year ago" = "1 год назад";
+
+"A total of %lld entries" = "Всего %lld записей";
+
+"API" = "API";
+
+"About" = "О программе";
+
+"About %@" = "О %@";
+
+"Add" = "Добавить";
+
+"Add Feed" = "Добавить ленту";
+
+"Add a new RSS feed by entering its URL" = "Добавьте новую RSS-ленту, указав её URL";
+
+"All Unread" = "Все непрочитанные";
+
+"Appearance" = "Оформление";
+
+"Are you sure you want to clear all \"%lld\" entries from the source?" = "Удалить все %lld записей из источников?";
+
+"Are you sure you want to delete the local article \"%@\"?" = "Удалить локальную статью «%@»?";
+
+"Bulk Export RSS Sources" = "Пакетный экспорт RSS";
+
+"Bulk Import RSS Sources" = "Пакетный импорт RSS";
+
+"Cancel" = "Отмена";
+
+"Choose where to save your feeds" = "Выберите, куда сохранить ленты";
+
+"Clear all data from the source" = "Очистить все данные источников";
+
+"Client config" = "Client config";
+
+"Confirm" = "Подтвердить";
+
+"Confirm Deletion" = "Подтвердите удаление";
+
+"Confirm deletion of \"%@\" subscription data" = "Удалить данные подписки «%@»?";
+
+"Connection" = "Connection";
+
+"Contact" = "Связаться";
+
+"Copied %@" = "Copied %@";
+
+"Copy Claude config" = "Copy Claude config";
+
+"Copy Content" = "Копировать содержимое";
+
+"Copy Cursor config" = "Copy Cursor config";
+
+"Copy Feed Title" = "Копировать название ленты";
+
+"Copy Feed URL" = "Копировать URL ленты";
+
+"Copy Grok config" = "Copy Grok config";
+
+"Copy Home Page URL" = "Копировать URL сайта";
+
+"Copy Token" = "Copy Token";
+
+"Copy URL" = "Копировать ссылку";
+
+"Copy title" = "Копировать заголовок";
+
+/* Dark */
+"Dark" = "Тёмная";
+
+"Delete" = "Удалить";
+
+"Delete Default RSS Source" = "Удалить источник RSS по умолчанию";
+
+"Delete Feed" = "Удалить ленту";
+
+"E-mail" = "Эл. почта";
+
+"Enter feed name (optional)" = "Введите название ленты (необязательно)";
+
+"Error" = "Ошибка";
+
+"Export" = "Экспорт";
+
+"Export Feeds (.json)" = "Экспорт лент (.json)";
+
+"Export Feeds..." = "Экспорт лент…";
+
+"Export OPML" = "Экспорт OPML";
+
+"Export failed: %@" = "Ошибка экспорта: %@";
+
+"Failed to fetch RSS feed" = "Не удалось загрузить RSS-ленту";
+
+"Feedback" = "Отзыв";
+
+"Feeds" = "Ленты";
+
+"Free" = "Бесплатно";
+
+"General" = "Основные";
+
+"Generate Token" = "Generate Token";
+
+"Go to Settings to grant notification permissions" = "Разрешите уведомления в Настройках";
+
+"Import Feeds (.json)" = "Импорт лент (.json)";
+
+"Import OPML" = "Импорт OPML";
+
+"Import failed: %@" = "Ошибка импорта: %@";
+
+"Just now" = "Только что";
+
+"Language" = "Язык";
+
+"Launch at login" = "Запускать при входе";
+
+/* Light */
+"Light" = "Светлая";
+
+"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected.";
+
+"Loading failed: %@" = "Ошибка загрузки: %@";
+
+"Loading..." = "Загрузка…";
+
+"MCP" = "MCP";
+
+"Main Window" = "Главное окно";
+
+"Mark All As Read" = "Отметить все как прочитанные";
+
+"Mark All As Unread" = "Отметить все как непрочитанные";
+
+"Mark All Read" = "Отметить всё прочитанным";
+
+"Mark As Read" = "Отметить как прочитанное";
+
+"Mark As Starred" = "Добавить в избранное";
+
+"Mark As Unread" = "Отметить как непрочитанное";
+
+"Mark As Unstarred" = "Убрать из избранного";
+
+"Move to Top" = "Переместить наверх";
+
+"My Apps" = "Мои приложения";
+
+"New Feed..." = "Новая лента…";
+
+"No Selection" = "Ничего не выбрано";
+
+"No data" = "Нет данных";
+
+"No more content" = "Больше нет записей";
+
+"OK" = "OK";
+
+"Open Feed in browser" = "Открыть ленту в браузере";
+
+"Open Home Page in browser" = "Открыть сайт в браузере";
+
+"Open in Browser" = "Открыть в браузере";
+
+"Page details are in the app, display full webpage content" = "Показывать полную веб-страницу в приложении";
+
+"Pause" = "Pause";
+
+"Please enter the Feed URL addres" = "Введите URL ленты";
+
+"Port" = "Port";
+
+"Pro" = "Pro";
+
+"RSS feed already imported; no need to import again." = "Эта RSS-лента уже добавлена.";
+
+"Read" = "Прочитано";
+
+"Refresh" = "Обновить";
+
+"Refresh Favicons" = "Обновить значки сайтов";
+
+"Refresh Feed" = "Обновить ленту";
+
+"Rename" = "Переименовать";
+
+"Rename Feed" = "Переименовать ленту";
+
+"Running" = "Running";
+
+"Select .%@ Feed" = "Выберите ленту .%@";
+
+"Server" = "Server";
+
+"Share" = "Поделиться";
+
+"Show full page" = "Показывать полную страницу";
+
+"Social Accounts" = "Соцсети";
+
+"Starred" = "Избранное";
+
+"Start" = "Start";
+
+"Stopped" = "Stopped";
+
+"Successfully exported \"%lld\" feeds to \"%@\"" = "Экспортировано лент: %1$lld → «%2$@»";
+
+"Successfully exported \"%lld\" feeds to %@" = "Экспортировано лент: %1$lld → %2$@";
+
+"Sync subscriptions (title, link, URL) across your devices. Article content stays on this device. Restart the app after changing this setting." = "Синхронизируйте подписки (название, ссылка, URL) между устройствами. Текст статей остаётся на этом устройстве. Перезапустите приложение после изменения этого параметра.";
+
+/* System */
+"System" = "Система";
+
+"The content you select will be displayed here." = "Выбранное содержимое появится здесь.";
+
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "These are MCP tools, not REST paths. Clients call tools/list and tools/call.";
+
+"Today" = "Сегодня";
+
+"Token" = "Token";
+
+"URL" = "URL";
+
+"Unlock all Features" = "Разблокировать все функции";
+
+"Unread" = "Непрочитано";
+
+"Unstarred" = "Убрать из избранного";
+
+"Version %@" = "Версия %@";
+
+"X(Twitter)" = "X(Twitter)";
+
+"[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)";
+
+"iCloud Sync" = "Синхронизация iCloud";
+
+"more_tools" = "Другие инструменты";
+
+"my_other_apps" = "Другие мои приложения";

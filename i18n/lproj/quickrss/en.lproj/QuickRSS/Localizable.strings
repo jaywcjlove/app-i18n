@@ -38,6 +38,8 @@
 
 "A total of %lld entries" = "A total of %lld entries";
 
+"API" = "API";
+
 "About" = "About";
 
 "About %@" = "About %@";
@@ -66,21 +68,35 @@
 
 "Clear all data from the source" = "Clear all data from the source";
 
+"Client config" = "Client config";
+
 "Confirm" = "Confirm";
 
 "Confirm Deletion" = "Confirm Deletion";
 
 "Confirm deletion of \"%@\" subscription data" = "Confirm deletion of \"%@\" subscription data";
 
+"Connection" = "Connection";
+
 "Contact" = "Contact";
 
+"Copied %@" = "Copied %@";
+
+"Copy Claude config" = "Copy Claude config";
+
 "Copy Content" = "Copy Content";
+
+"Copy Cursor config" = "Copy Cursor config";
 
 "Copy Feed Title" = "Copy Feed Title";
 
 "Copy Feed URL" = "Copy Feed URL";
 
+"Copy Grok config" = "Copy Grok config";
+
 "Copy Home Page URL" = "Copy Home Page URL";
+
+"Copy Token" = "Copy Token";
 
 "Copy URL" = "Copy URL";
 
@@ -121,6 +137,8 @@
 
 "General" = "General";
 
+"Generate Token" = "Generate Token";
+
 "Go to Settings to grant notification permissions" = "Go to Settings to grant notification permissions";
 
 "Import Feeds (.json)" = "Import Feeds (.json)";
@@ -138,9 +156,13 @@
 /* Light */
 "Light" = "Light";
 
+"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected.";
+
 "Loading failed: %@" = "Loading failed: %@";
 
 "Loading..." = "Loading...";
+
+"MCP" = "MCP";
 
 "Main Window" = "Main Window";
 
@@ -180,7 +202,11 @@
 
 "Page details are in the app, display full webpage content" = "Page details are in the app, display full webpage content";
 
+"Pause" = "Pause";
+
 "Please enter the Feed URL addres" = "Please enter the Feed URL addres";
+
+"Port" = "Port";
 
 "Pro" = "Pro";
 
@@ -190,11 +216,19 @@
 
 "Refresh" = "Refresh";
 
+"Refresh Favicons" = "Refresh Favicons";
+
 "Refresh Feed" = "Refresh Feed";
 
 "Rename" = "Rename";
 
 "Rename Feed" = "Rename Feed";
+
+"Running" = "Running";
+
+"Select .%@ Feed" = "Select .%@ Feed";
+
+"Server" = "Server";
 
 "Share" = "Share";
 
@@ -204,16 +238,28 @@
 
 "Starred" = "Starred";
 
+"Start" = "Start";
+
+"Stopped" = "Stopped";
+
 "Successfully exported \"%lld\" feeds to \"%@\"" = "Successfully exported \"%1$lld\" feeds to \"%2$@\"";
 
 "Successfully exported \"%lld\" feeds to %@" = "Successfully exported \"%1$lld\" feeds to %2$@";
+
+"Sync subscriptions (title, link, URL) across your devices. Article content stays on this device. Restart the app after changing this setting." = "Sync subscriptions (title, link, URL) across your devices. Article content stays on this device. Restart the app after changing this setting.";
 
 /* System */
 "System" = "System";
 
 "The content you select will be displayed here." = "The content you select will be displayed here.";
 
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "These are MCP tools, not REST paths. Clients call tools/list and tools/call.";
+
 "Today" = "Today";
+
+"Token" = "Token";
+
+"URL" = "URL";
 
 "Unlock all Features" = "Unlock all Features";
 
@@ -227,4 +273,8 @@
 
 "[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)";
 
-"my_other_apps" = "my_other_apps";
+"iCloud Sync" = "iCloud Sync";
+
+"more_tools" = "More Tools";
+
+"my_other_apps" = "My Other Apps";

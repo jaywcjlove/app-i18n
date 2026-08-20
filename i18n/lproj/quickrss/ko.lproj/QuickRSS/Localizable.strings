@@ -1,0 +1,280 @@
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ 다크 모드";
+
+"%@ Follow System" = "%@ 시스템 설정";
+
+"%@ Light Mode" = "%@ 라이트 모드";
+
+"%d days ago" = "%d일 전";
+
+"%d hours ago" = "%d시간 전";
+
+"%d minutes ago" = "%d분 전";
+
+"%d months ago" = "%d개월 전";
+
+"%d weeks ago" = "%d주 전";
+
+"%d years ago" = "%d년 전";
+
+"%lld" = "%lld";
+
+"%lld of %lld" = "%1$lld / %2$lld";
+
+"%lld unread" = "읽지 않음 %lld";
+
+"1 day ago" = "1일 전";
+
+"1 hour ago" = "1시간 전";
+
+"1 minute ago" = "1분 전";
+
+"1 month ago" = "1개월 전";
+
+"1 week ago" = "1주 전";
+
+"1 year ago" = "1년 전";
+
+"A total of %lld entries" = "총 %lld개";
+
+"API" = "API";
+
+"About" = "정보";
+
+"About %@" = "%@ 정보";
+
+"Add" = "추가";
+
+"Add Feed" = "피드 추가";
+
+"Add a new RSS feed by entering its URL" = "URL을 입력하여 새 RSS 피드를 추가하세요";
+
+"All Unread" = "모든 읽지 않음";
+
+"Appearance" = "모양";
+
+"Are you sure you want to clear all \"%lld\" entries from the source?" = "모든 소스에서 %lld개의 항목을 삭제할까요?";
+
+"Are you sure you want to delete the local article \"%@\"?" = "로컬 기사 \"%@\"을(를) 삭제할까요?";
+
+"Bulk Export RSS Sources" = "RSS 소스 일괄 내보내기";
+
+"Bulk Import RSS Sources" = "RSS 소스 일괄 가져오기";
+
+"Cancel" = "취소";
+
+"Choose where to save your feeds" = "피드를 저장할 위치를 선택하세요";
+
+"Clear all data from the source" = "소스의 모든 데이터 삭제";
+
+"Client config" = "Client config";
+
+"Confirm" = "확인";
+
+"Confirm Deletion" = "삭제 확인";
+
+"Confirm deletion of \"%@\" subscription data" = "\"%@\" 구독 데이터를 삭제할까요?";
+
+"Connection" = "Connection";
+
+"Contact" = "문의";
+
+"Copied %@" = "Copied %@";
+
+"Copy Claude config" = "Copy Claude config";
+
+"Copy Content" = "내용 복사";
+
+"Copy Cursor config" = "Copy Cursor config";
+
+"Copy Feed Title" = "피드 제목 복사";
+
+"Copy Feed URL" = "피드 URL 복사";
+
+"Copy Grok config" = "Copy Grok config";
+
+"Copy Home Page URL" = "홈페이지 URL 복사";
+
+"Copy Token" = "Copy Token";
+
+"Copy URL" = "URL 복사";
+
+"Copy title" = "제목 복사";
+
+/* Dark */
+"Dark" = "다크";
+
+"Delete" = "삭제";
+
+"Delete Default RSS Source" = "기본 RSS 소스 삭제";
+
+"Delete Feed" = "피드 삭제";
+
+"E-mail" = "이메일";
+
+"Enter feed name (optional)" = "피드 이름 입력(선택)";
+
+"Error" = "오류";
+
+"Export" = "내보내기";
+
+"Export Feeds (.json)" = "피드 내보내기(.json)";
+
+"Export Feeds..." = "피드 내보내기…";
+
+"Export OPML" = "OPML 내보내기";
+
+"Export failed: %@" = "내보내기 실패: %@";
+
+"Failed to fetch RSS feed" = "RSS 피드를 가져오지 못했습니다";
+
+"Feedback" = "피드백";
+
+"Feeds" = "피드";
+
+"Free" = "무료";
+
+"General" = "일반";
+
+"Generate Token" = "Generate Token";
+
+"Go to Settings to grant notification permissions" = "설정에서 알림 권한을 허용하세요";
+
+"Import Feeds (.json)" = "피드 가져오기(.json)";
+
+"Import OPML" = "OPML 가져오기";
+
+"Import failed: %@" = "가져오기 실패: %@";
+
+"Just now" = "방금";
+
+"Language" = "언어";
+
+"Launch at login" = "로그인 시 실행";
+
+/* Light */
+"Light" = "라이트";
+
+"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected.";
+
+"Loading failed: %@" = "불러오기 실패: %@";
+
+"Loading..." = "불러오는 중…";
+
+"MCP" = "MCP";
+
+"Main Window" = "메인 윈도우";
+
+"Mark All As Read" = "모두 읽음으로 표시";
+
+"Mark All As Unread" = "모두 읽지 않음으로 표시";
+
+"Mark All Read" = "모두 읽음으로 표시";
+
+"Mark As Read" = "읽음으로 표시";
+
+"Mark As Starred" = "별표 표시";
+
+"Mark As Unread" = "읽지 않음으로 표시";
+
+"Mark As Unstarred" = "별표 해제";
+
+"Move to Top" = "맨 위로 이동";
+
+"My Apps" = "내 앱";
+
+"New Feed..." = "새 피드…";
+
+"No Selection" = "선택 항목 없음";
+
+"No data" = "데이터 없음";
+
+"No more content" = "더 이상 콘텐츠가 없습니다";
+
+"OK" = "확인";
+
+"Open Feed in browser" = "브라우저에서 피드 열기";
+
+"Open Home Page in browser" = "브라우저에서 홈페이지 열기";
+
+"Open in Browser" = "브라우저에서 열기";
+
+"Page details are in the app, display full webpage content" = "앱에서 전체 웹 페이지 내용을 표시합니다";
+
+"Pause" = "Pause";
+
+"Please enter the Feed URL addres" = "피드 URL을 입력하세요";
+
+"Port" = "Port";
+
+"Pro" = "Pro";
+
+"RSS feed already imported; no need to import again." = "이미 가져온 RSS 피드입니다.";
+
+"Read" = "읽음";
+
+"Refresh" = "새로 고침";
+
+"Refresh Favicons" = "파비콘 새로 고침";
+
+"Refresh Feed" = "피드 새로 고침";
+
+"Rename" = "이름 변경";
+
+"Rename Feed" = "피드 이름 변경";
+
+"Running" = "Running";
+
+"Select .%@ Feed" = ".%@ 피드 선택";
+
+"Server" = "Server";
+
+"Share" = "공유";
+
+"Show full page" = "전체 페이지 표시";
+
+"Social Accounts" = "소셜 계정";
+
+"Starred" = "별표";
+
+"Start" = "Start";
+
+"Stopped" = "Stopped";
+
+"Successfully exported \"%lld\" feeds to \"%@\"" = "피드 %1$lld개를 \"%2$@\"(으)로 내보냈습니다";
+
+"Successfully exported \"%lld\" feeds to %@" = "피드 %1$lld개를 %2$@(으)로 내보냈습니다";
+
+"Sync subscriptions (title, link, URL) across your devices. Article content stays on this device. Restart the app after changing this setting." = "구독(제목, 링크, URL)을 기기 간에 동기화합니다. 기사 내용은 이 기기에만 저장됩니다. 이 설정을 변경한 후 앱을 다시 시작하세요.";
+
+/* System */
+"System" = "시스템";
+
+"The content you select will be displayed here." = "선택한 내용이 여기에 표시됩니다.";
+
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "These are MCP tools, not REST paths. Clients call tools/list and tools/call.";
+
+"Today" = "오늘";
+
+"Token" = "Token";
+
+"URL" = "URL";
+
+"Unlock all Features" = "모든 기능 잠금 해제";
+
+"Unread" = "읽지 않음";
+
+"Unstarred" = "별표 해제";
+
+"Version %@" = "버전 %@";
+
+"X(Twitter)" = "X(Twitter)";
+
+"[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)";
+
+"iCloud Sync" = "iCloud 동기화";
+
+"more_tools" = "더 많은 도구";
+
+"my_other_apps" = "내 다른 앱";

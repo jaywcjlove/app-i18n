@@ -1,0 +1,280 @@
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ ダークモード";
+
+"%@ Follow System" = "%@ システムに合わせる";
+
+"%@ Light Mode" = "%@ ライトモード";
+
+"%d days ago" = "%d日前";
+
+"%d hours ago" = "%d時間前";
+
+"%d minutes ago" = "%d分前";
+
+"%d months ago" = "%dか月前";
+
+"%d weeks ago" = "%d週間前";
+
+"%d years ago" = "%d年前";
+
+"%lld" = "%lld";
+
+"%lld of %lld" = "%1$lld / %2$lld";
+
+"%lld unread" = "未読 %lld 件";
+
+"1 day ago" = "1日前";
+
+"1 hour ago" = "1時間前";
+
+"1 minute ago" = "1分前";
+
+"1 month ago" = "1か月前";
+
+"1 week ago" = "1週間前";
+
+"1 year ago" = "1年前";
+
+"A total of %lld entries" = "全 %lld 件";
+
+"API" = "API";
+
+"About" = "情報";
+
+"About %@" = "%@ について";
+
+"Add" = "追加";
+
+"Add Feed" = "フィードを追加";
+
+"Add a new RSS feed by entering its URL" = "URL を入力して新しい RSS フィードを追加します";
+
+"All Unread" = "すべての未読";
+
+"Appearance" = "外観";
+
+"Are you sure you want to clear all \"%lld\" entries from the source?" = "すべてのソースから %lld 件の記事を削除しますか？";
+
+"Are you sure you want to delete the local article \"%@\"?" = "ローカルの記事「%@」を削除しますか？";
+
+"Bulk Export RSS Sources" = "RSS ソースの一括書き出し";
+
+"Bulk Import RSS Sources" = "RSS ソースの一括読み込み";
+
+"Cancel" = "キャンセル";
+
+"Choose where to save your feeds" = "フィードの保存先を選択";
+
+"Clear all data from the source" = "ソースのすべてのデータを削除";
+
+"Client config" = "Client config";
+
+"Confirm" = "確認";
+
+"Confirm Deletion" = "削除の確認";
+
+"Confirm deletion of \"%@\" subscription data" = "「%@」の購読データを削除しますか？";
+
+"Connection" = "Connection";
+
+"Contact" = "お問い合わせ";
+
+"Copied %@" = "Copied %@";
+
+"Copy Claude config" = "Copy Claude config";
+
+"Copy Content" = "内容をコピー";
+
+"Copy Cursor config" = "Copy Cursor config";
+
+"Copy Feed Title" = "フィード名をコピー";
+
+"Copy Feed URL" = "フィード URL をコピー";
+
+"Copy Grok config" = "Copy Grok config";
+
+"Copy Home Page URL" = "ホームページ URL をコピー";
+
+"Copy Token" = "Copy Token";
+
+"Copy URL" = "URL をコピー";
+
+"Copy title" = "タイトルをコピー";
+
+/* Dark */
+"Dark" = "ダーク";
+
+"Delete" = "削除";
+
+"Delete Default RSS Source" = "デフォルトの RSS ソースを削除";
+
+"Delete Feed" = "フィードを削除";
+
+"E-mail" = "メール";
+
+"Enter feed name (optional)" = "フィード名を入力（任意）";
+
+"Error" = "エラー";
+
+"Export" = "書き出す";
+
+"Export Feeds (.json)" = "フィードを書き出す (.json)";
+
+"Export Feeds..." = "フィードを書き出す…";
+
+"Export OPML" = "OPML を書き出す";
+
+"Export failed: %@" = "書き出しに失敗しました: %@";
+
+"Failed to fetch RSS feed" = "RSS フィードの取得に失敗しました";
+
+"Feedback" = "フィードバック";
+
+"Feeds" = "フィード";
+
+"Free" = "無料";
+
+"General" = "一般";
+
+"Generate Token" = "Generate Token";
+
+"Go to Settings to grant notification permissions" = "設定で通知を許可してください";
+
+"Import Feeds (.json)" = "フィードを読み込む (.json)";
+
+"Import OPML" = "OPML を読み込む";
+
+"Import failed: %@" = "読み込みに失敗しました: %@";
+
+"Just now" = "たった今";
+
+"Language" = "言語";
+
+"Launch at login" = "ログイン時に起動";
+
+/* Light */
+"Light" = "ライト";
+
+"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected.";
+
+"Loading failed: %@" = "読み込みに失敗しました: %@";
+
+"Loading..." = "読み込み中…";
+
+"MCP" = "MCP";
+
+"Main Window" = "メインウインドウ";
+
+"Mark All As Read" = "すべて既読にする";
+
+"Mark All As Unread" = "すべて未読にする";
+
+"Mark All Read" = "すべて既読にする";
+
+"Mark As Read" = "既読にする";
+
+"Mark As Starred" = "スターを付ける";
+
+"Mark As Unread" = "未読にする";
+
+"Mark As Unstarred" = "スターを外す";
+
+"Move to Top" = "一番上に移動";
+
+"My Apps" = "マイ App";
+
+"New Feed..." = "新規フィード…";
+
+"No Selection" = "選択されていません";
+
+"No data" = "データがありません";
+
+"No more content" = "これ以上ありません";
+
+"OK" = "OK";
+
+"Open Feed in browser" = "ブラウザでフィードを開く";
+
+"Open Home Page in browser" = "ブラウザでホームページを開く";
+
+"Open in Browser" = "ブラウザで開く";
+
+"Page details are in the app, display full webpage content" = "アプリ内でページの詳細をフル表示します";
+
+"Pause" = "Pause";
+
+"Please enter the Feed URL addres" = "フィードの URL を入力してください";
+
+"Port" = "Port";
+
+"Pro" = "Pro";
+
+"RSS feed already imported; no need to import again." = "この RSS フィードはすでに追加されています。";
+
+"Read" = "既読";
+
+"Refresh" = "更新";
+
+"Refresh Favicons" = "ファビコンを更新";
+
+"Refresh Feed" = "フィードを更新";
+
+"Rename" = "名前を変更";
+
+"Rename Feed" = "フィード名を変更";
+
+"Running" = "Running";
+
+"Select .%@ Feed" = ".%@ フィードを選択";
+
+"Server" = "Server";
+
+"Share" = "共有";
+
+"Show full page" = "ページ全体を表示";
+
+"Social Accounts" = "ソーシャルアカウント";
+
+"Starred" = "スター付き";
+
+"Start" = "Start";
+
+"Stopped" = "Stopped";
+
+"Successfully exported \"%lld\" feeds to \"%@\"" = "%1$lld 件のフィードを「%2$@」に書き出しました";
+
+"Successfully exported \"%lld\" feeds to %@" = "%1$lld 件のフィードを %2$@ に書き出しました";
+
+"Sync subscriptions (title, link, URL) across your devices. Article content stays on this device. Restart the app after changing this setting." = "購読（タイトル、リンク、URL）をデバイス間で同期します。記事本文はこのデバイスにのみ保存されます。この設定を変更したらアプリを再起動してください。";
+
+/* System */
+"System" = "システム";
+
+"The content you select will be displayed here." = "選択した内容がここに表示されます。";
+
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "These are MCP tools, not REST paths. Clients call tools/list and tools/call.";
+
+"Today" = "今日";
+
+"Token" = "Token";
+
+"URL" = "URL";
+
+"Unlock all Features" = "すべての機能をロック解除";
+
+"Unread" = "未読";
+
+"Unstarred" = "スターを外す";
+
+"Version %@" = "バージョン %@";
+
+"X(Twitter)" = "X(Twitter)";
+
+"[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)";
+
+"iCloud Sync" = "iCloud同期";
+
+"more_tools" = "その他のツール";
+
+"my_other_apps" = "その他の App";

@@ -1,0 +1,280 @@
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ 深色模式";
+
+"%@ Follow System" = "%@ 跟隨系統";
+
+"%@ Light Mode" = "%@ 淺色模式";
+
+"%d days ago" = "%d天前";
+
+"%d hours ago" = "%d小時前";
+
+"%d minutes ago" = "%d分鐘前";
+
+"%d months ago" = "%d個月前";
+
+"%d weeks ago" = "%d週前";
+
+"%d years ago" = "%d年前";
+
+"%lld" = "%lld";
+
+"%lld of %lld" = "%1$lld / %2$lld";
+
+"%lld unread" = "%lld 則未讀";
+
+"1 day ago" = "1天前";
+
+"1 hour ago" = "1小時前";
+
+"1 minute ago" = "1分鐘前";
+
+"1 month ago" = "1個月前";
+
+"1 week ago" = "1週前";
+
+"1 year ago" = "1年前";
+
+"A total of %lld entries" = "共 %lld 筆資料";
+
+"API" = "API";
+
+"About" = "關於";
+
+"About %@" = "關於 %@";
+
+"Add" = "新增";
+
+"Add Feed" = "新增訂閱來源";
+
+"Add a new RSS feed by entering its URL" = "輸入 URL 以新增 RSS 訂閱來源";
+
+"All Unread" = "全部未讀";
+
+"Appearance" = "外觀";
+
+"Are you sure you want to clear all \"%lld\" entries from the source?" = "確定要清除所有來源的「%lld」筆資料嗎？";
+
+"Are you sure you want to delete the local article \"%@\"?" = "確定要刪除本機文章「%@」嗎？";
+
+"Bulk Export RSS Sources" = "批次匯出 RSS 來源";
+
+"Bulk Import RSS Sources" = "批次匯入 RSS 來源";
+
+"Cancel" = "取消";
+
+"Choose where to save your feeds" = "選擇儲存訂閱來源的位置";
+
+"Clear all data from the source" = "清除來源的所有資料";
+
+"Client config" = "Client config";
+
+"Confirm" = "確認";
+
+"Confirm Deletion" = "確認刪除";
+
+"Confirm deletion of \"%@\" subscription data" = "確定要刪除「%@」的訂閱資料嗎？";
+
+"Connection" = "Connection";
+
+"Contact" = "聯絡我們";
+
+"Copied %@" = "Copied %@";
+
+"Copy Claude config" = "Copy Claude config";
+
+"Copy Content" = "複製內容";
+
+"Copy Cursor config" = "Copy Cursor config";
+
+"Copy Feed Title" = "複製訂閱標題";
+
+"Copy Feed URL" = "複製訂閱來源 URL";
+
+"Copy Grok config" = "Copy Grok config";
+
+"Copy Home Page URL" = "複製首頁 URL";
+
+"Copy Token" = "Copy Token";
+
+"Copy URL" = "複製連結";
+
+"Copy title" = "複製標題";
+
+/* Dark */
+"Dark" = "深色";
+
+"Delete" = "刪除";
+
+"Delete Default RSS Source" = "刪除預設 RSS 來源";
+
+"Delete Feed" = "刪除訂閱來源";
+
+"E-mail" = "電子郵件";
+
+"Enter feed name (optional)" = "請輸入訂閱來源名稱（選填）";
+
+"Error" = "錯誤";
+
+"Export" = "匯出";
+
+"Export Feeds (.json)" = "匯出訂閱來源（.json）";
+
+"Export Feeds..." = "匯出訂閱來源…";
+
+"Export OPML" = "匯出 OPML";
+
+"Export failed: %@" = "匯出失敗：%@";
+
+"Failed to fetch RSS feed" = "無法取得 RSS 來源";
+
+"Feedback" = "意見回饋";
+
+"Feeds" = "訂閱來源";
+
+"Free" = "免費";
+
+"General" = "一般";
+
+"Generate Token" = "Generate Token";
+
+"Go to Settings to grant notification permissions" = "前往設定以授予通知權限";
+
+"Import Feeds (.json)" = "匯入訂閱來源（.json）";
+
+"Import OPML" = "匯入 OPML";
+
+"Import failed: %@" = "匯入失敗：%@";
+
+"Just now" = "剛剛";
+
+"Language" = "語言";
+
+"Launch at login" = "登入時啟動";
+
+/* Light */
+"Light" = "淺色";
+
+"Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected.";
+
+"Loading failed: %@" = "載入失敗：%@";
+
+"Loading..." = "載入中…";
+
+"MCP" = "MCP";
+
+"Main Window" = "主視窗";
+
+"Mark All As Read" = "全部標為已讀";
+
+"Mark All As Unread" = "全部標為未讀";
+
+"Mark All Read" = "全部標為已讀";
+
+"Mark As Read" = "標為已讀";
+
+"Mark As Starred" = "加入收藏";
+
+"Mark As Unread" = "標為未讀";
+
+"Mark As Unstarred" = "取消收藏";
+
+"Move to Top" = "移到最上方";
+
+"My Apps" = "我的 App";
+
+"New Feed..." = "新增訂閱來源…";
+
+"No Selection" = "尚未選擇";
+
+"No data" = "沒有資料";
+
+"No more content" = "沒有更多內容";
+
+"OK" = "好";
+
+"Open Feed in browser" = "在瀏覽器中開啟訂閱來源";
+
+"Open Home Page in browser" = "在瀏覽器中開啟首頁";
+
+"Open in Browser" = "在瀏覽器中開啟";
+
+"Page details are in the app, display full webpage content" = "在 App 內顯示完整網頁內容";
+
+"Pause" = "Pause";
+
+"Please enter the Feed URL addres" = "請輸入訂閱來源的 URL";
+
+"Port" = "Port";
+
+"Pro" = "專業版";
+
+"RSS feed already imported; no need to import again." = "此 RSS 來源已匯入，無需重複匯入。";
+
+"Read" = "已讀";
+
+"Refresh" = "重新整理";
+
+"Refresh Favicons" = "重新整理網站圖示";
+
+"Refresh Feed" = "重新整理訂閱來源";
+
+"Rename" = "重新命名";
+
+"Rename Feed" = "重新命名訂閱";
+
+"Running" = "Running";
+
+"Select .%@ Feed" = "選擇 .%@ 訂閱檔案";
+
+"Server" = "Server";
+
+"Share" = "分享";
+
+"Show full page" = "顯示完整網頁";
+
+"Social Accounts" = "社交帳號";
+
+"Starred" = "收藏";
+
+"Start" = "Start";
+
+"Stopped" = "Stopped";
+
+"Successfully exported \"%lld\" feeds to \"%@\"" = "已成功將 %1$lld 個訂閱匯出到「%2$@」";
+
+"Successfully exported \"%lld\" feeds to %@" = "已成功將 %1$lld 個訂閱來源匯出到 %2$@";
+
+"Sync subscriptions (title, link, URL) across your devices. Article content stays on this device. Restart the app after changing this setting." = "在多台裝置間同步訂閱源（標題、連結、網址）。文章內容僅保存在本機。更改此選項後請重新啟動應用程式。";
+
+/* System */
+"System" = "系統";
+
+"The content you select will be displayed here." = "你選取的內容會顯示在這裡";
+
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "These are MCP tools, not REST paths. Clients call tools/list and tools/call.";
+
+"Today" = "今天";
+
+"Token" = "Token";
+
+"URL" = "URL";
+
+"Unlock all Features" = "解鎖所有功能";
+
+"Unread" = "未讀";
+
+"Unstarred" = "取消收藏";
+
+"Version %@" = "版本 %@";
+
+"X(Twitter)" = "X(Twitter)";
+
+"[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](twitterurl) • [E-mail](emailurl) • [Github](githuburl)";
+
+"iCloud Sync" = "iCloud 同步";
+
+"more_tools" = "更多工具";
+
+"my_other_apps" = "我的其他 App";
