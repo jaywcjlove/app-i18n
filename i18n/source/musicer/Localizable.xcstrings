@@ -3,6 +3,12 @@
   "strings" : {
     "" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95,6 +101,12 @@
     },
     " (Hidden)" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (Ausgeblendet)"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -141,6 +153,12 @@
     },
     " (Shown)" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " (Angezeigt)"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -233,6 +251,12 @@
     },
     "%@ already exists!" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ existiert bereits!"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -279,6 +303,12 @@
     },
     "%@ is an aggregate device created in Audio MIDI Setup. Using it directly as this app's output freezes playback.\n\nTo play through it, set it as the Mac's system output, then choose System Default here. Or pick a single device such as speakers or a display." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ist ein im Audio-MIDI-Setup erstelltes Aggregatgerät. Wird es direkt als Ausgabe dieser App verwendet, friert die Wiedergabe ein.\n\nUm darüber wiederzugeben, legen Sie es als Systemausgabe des Mac fest und wählen Sie hier dann Systemstandard. Oder wählen Sie ein einzelnes Gerät wie Lautsprecher oder ein Display."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -371,6 +401,12 @@
     },
     "About" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Info"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -417,6 +453,12 @@
     },
     "About Musicer" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Über Musicer"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -463,6 +505,12 @@
     },
     "Acoustic" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akustik"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -555,6 +603,12 @@
     },
     "Album Art in Status Bar" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Albumcover in der Statusleiste"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -601,6 +655,12 @@
     },
     "Album Artist" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Album-Interpret"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -647,6 +707,12 @@
     },
     "Always On Top" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Immer im Vordergrund"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -693,6 +759,12 @@
     },
     "Always Show Player Toolbar" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Player-Symbolleiste immer anzeigen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -739,6 +811,12 @@
     },
     "Artist" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interpret"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -785,6 +863,12 @@
     },
     "Audio Output" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Audioausgabe"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -831,6 +915,12 @@
     },
     "Authorization" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autorisierung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -877,6 +967,12 @@
     },
     "Background Color" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hintergrundfarbe"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -923,6 +1019,12 @@
     },
     "Bars" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Balken"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1015,6 +1117,12 @@
     },
     "Can't Use This Output Device" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieses Ausgabegerät kann nicht verwendet werden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1061,6 +1169,12 @@
     },
     "Cancel" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1107,6 +1221,12 @@
     },
     "Change Artwork" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cover ändern"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1153,6 +1273,12 @@
     },
     "Classic" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klassisch"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1199,6 +1325,12 @@
     },
     "Classical" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klassik"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1245,6 +1377,12 @@
     },
     "Close" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schließen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1291,6 +1429,12 @@
     },
     "Comment" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kommentar"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1337,6 +1481,12 @@
     },
     "Composer" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komponist"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1383,6 +1533,12 @@
     },
     "Contact" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontakt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1429,6 +1585,12 @@
     },
     "Controls" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steuerung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1475,6 +1637,12 @@
     },
     "Could not write tags to this audio file. Library information was updated." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Tags konnten nicht in diese Audiodatei geschrieben werden. Die Bibliotheksinformationen wurden aktualisiert."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1521,6 +1689,12 @@
     },
     "Custom" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzerdefiniert"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1567,6 +1741,12 @@
     },
     "Define the event triggered when double-clicking the player area with the left mouse button." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legen Sie fest, welche Aktion beim Doppelklick mit der linken Maustaste auf den Player-Bereich ausgelöst wird."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1613,6 +1793,12 @@
     },
     "Delete Music Folder" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musikordner löschen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1659,6 +1845,12 @@
     },
     "Desktop Lyrics" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desktop-Songtexte"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1751,6 +1943,12 @@
     },
     "Disc Count" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anzahl der Discs"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1797,6 +1995,12 @@
     },
     "Disc Number" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disc-Nummer"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1843,6 +2047,12 @@
     },
     "Double Click Action" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doppelklick-Aktion"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1889,6 +2099,12 @@
     },
     "Drag and drop folders into the player to add music directories." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ziehen Sie Ordner in den Player, um Musikverzeichnisse hinzuzufügen."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1935,6 +2151,12 @@
     },
     "Drop music folder!" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musikordner hier ablegen!"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1981,6 +2203,12 @@
     },
     "Duration" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dauer"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2027,6 +2255,12 @@
     },
     "E-mail" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-Mail"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2073,6 +2307,12 @@
     },
     "Electronic" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elektronisch"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2119,6 +2359,12 @@
     },
     "Enable Mosaic Cover" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mosaik-Cover aktivieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2211,6 +2457,12 @@
     },
     "Failed to load: %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laden fehlgeschlagen: %@"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2303,6 +2555,12 @@
     },
     "File" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datei"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2349,6 +2607,12 @@
     },
     "File or folder does not exist" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datei oder Ordner existiert nicht"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2395,6 +2659,12 @@
     },
     "File Scan Depth" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan-Tiefe für Dateien"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2441,6 +2711,12 @@
     },
     "Flat" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flach"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2487,6 +2763,12 @@
     },
     "Folder" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ordner"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2579,6 +2861,12 @@
     },
     "General" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allgemein"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2671,6 +2959,12 @@
     },
     "Get Info" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informationen abrufen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2717,6 +3011,12 @@
     },
     "Grouping" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gruppierung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2763,6 +3063,12 @@
     },
     "Help" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hilfe"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2809,6 +3115,12 @@
     },
     "Hide Desktop Lyrics" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desktop-Songtexte ausblenden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2855,6 +3167,12 @@
     },
     "Hide Dock Icon" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock-Symbol ausblenden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2901,6 +3219,12 @@
     },
     "Hide status bar icon" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statusleistensymbol ausblenden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2993,6 +3317,12 @@
     },
     "Keys" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3039,6 +3369,12 @@
     },
     "Large Cover Player" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Player mit großem Cover"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3085,6 +3421,12 @@
     },
     "Launch at login" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beim Anmelden starten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3131,6 +3473,12 @@
     },
     "Limit the depth of recursive directory scanning to avoid performance issues caused by deeply nested folders." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begrenzen Sie die Tiefe der rekursiven Verzeichnissuche, um Leistungsprobleme durch tief verschachtelte Ordner zu vermeiden."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3223,6 +3571,12 @@
     },
     "Loading music library…" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musikbibliothek wird geladen…"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3269,6 +3623,12 @@
     },
     "Lock" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sperren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3315,6 +3675,12 @@
     },
     "Lyrics" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Songtext"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3361,6 +3727,12 @@
     },
     "Lyrics Earlier" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Songtext früher"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3407,6 +3779,12 @@
     },
     "Lyrics Later" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Songtext später"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3453,6 +3831,12 @@
     },
     "Main Window" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hauptfenster"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3499,6 +3883,12 @@
     },
     "Mini Player" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mini-Player"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3545,6 +3935,12 @@
     },
     "Music Folder" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musikordner"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3637,6 +4033,12 @@
     },
     "Next Track" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nächster Titel"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3683,6 +4085,12 @@
     },
     "No content" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kein Inhalt"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3729,6 +4137,12 @@
     },
     "No Lyrics" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kein Songtext"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3775,6 +4189,12 @@
     },
     "No Permission" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Berechtigung"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3821,6 +4241,12 @@
     },
     "None" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3913,6 +4339,12 @@
     },
     "Only the folder record and its access permission will be removed. The original files will remain untouched, and music from this folder will no longer appear in the list." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nur der Ordnereintrag und dessen Zugriffsberechtigung werden entfernt. Die Originaldateien bleiben unverändert, und Musik aus diesem Ordner wird nicht mehr in der Liste angezeigt."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3959,6 +4391,12 @@
     },
     "Open" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffnen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4005,6 +4443,12 @@
     },
     "Open %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ öffnen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4051,6 +4495,12 @@
     },
     "or" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "oder"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4097,6 +4547,12 @@
     },
     "Path" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pfad"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4189,6 +4645,12 @@
     },
     "Pause/Play" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pause/Wiedergabe"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4235,6 +4697,12 @@
     },
     "Permission denied" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zugriff verweigert"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4281,6 +4749,12 @@
     },
     "Pill" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pille"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4327,6 +4801,12 @@
     },
     "Play" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiedergabe"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4373,6 +4853,12 @@
     },
     "Play Music" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musik abspielen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4419,6 +4905,12 @@
     },
     "Play/Pause" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiedergabe/Pause"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4465,6 +4957,12 @@
     },
     "Playback Bar Color" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Farbe der Wiedergabeleiste"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4511,6 +5009,12 @@
     },
     "Player Style" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Player-Stil"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4557,6 +5061,12 @@
     },
     "Please select \"%@\" to re-authorize." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte wählen Sie \"%@\" aus, um die Berechtigung erneut zu erteilen."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4649,6 +5159,12 @@
     },
     "Prev Track" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorheriger Titel"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4695,6 +5211,12 @@
     },
     "Privacy Policy" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datenschutzrichtlinie"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4741,6 +5263,12 @@
     },
     "Progress Bar Style" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stil der Fortschrittsleiste"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4787,6 +5315,12 @@
     },
     "Quit %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ beenden"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4833,6 +5367,12 @@
     },
     "Refresh List Data" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listendaten aktualisieren"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4879,6 +5419,12 @@
     },
     "Remove Artwork" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cover entfernen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4925,6 +5471,12 @@
     },
     "Repeat" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederholen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4971,6 +5523,12 @@
     },
     "Repeat All" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle wiederholen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5017,6 +5575,12 @@
     },
     "Repeat Off" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederholung aus"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5063,6 +5627,12 @@
     },
     "Repeat One" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einen wiederholen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5109,6 +5679,12 @@
     },
     "Reset Lyric Sync" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Songtext-Synchronisation zurücksetzen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5201,6 +5777,12 @@
     },
     "Save" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speichern"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5247,6 +5829,12 @@
     },
     "Search" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suche"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5293,6 +5881,12 @@
     },
     "Search Songs" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titel suchen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5339,6 +5933,12 @@
     },
     "Segments" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segmente"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5385,6 +5985,12 @@
     },
     "Select Music Folders" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Musikordner auswählen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5431,6 +6037,12 @@
     },
     "Settings..." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen…"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5477,6 +6089,12 @@
     },
     "Show Album Artwork" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Album-Cover anzeigen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5523,6 +6141,12 @@
     },
     "Show Album Name" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Albumname anzeigen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5569,6 +6193,12 @@
     },
     "Show Artist" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interpret anzeigen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5615,6 +6245,12 @@
     },
     "Show in Finder" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im Finder anzeigen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5661,6 +6297,12 @@
     },
     "Show Playerlist" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Playerliste anzeigen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5707,6 +6349,12 @@
     },
     "Show Playlist" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiedergabeliste anzeigen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5753,6 +6401,12 @@
     },
     "Shuffle" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zufallswiedergabe"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5799,6 +6453,12 @@
     },
     "Size" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Größe"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5845,6 +6505,12 @@
     },
     "Social Accounts" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soziale Netzwerke"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5891,6 +6557,12 @@
     },
     "Standard Player" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard-Player"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5937,6 +6609,12 @@
     },
     "Supports Mac media keys (**F7**/**F8**/**F9**) for music control." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unterstützt Mac-Medientasten (**F7**/**F8**/**F9**) zur Steuerung der Musik."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5983,6 +6661,12 @@
     },
     "System Default" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Systemstandard"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6029,6 +6713,12 @@
     },
     "Terms of Service" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nutzungsbedingungen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6075,6 +6765,12 @@
     },
     "Thank you for your support! After completing the payment, you’ll unlock the ability to play more music from the list and access additional settings." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vielen Dank für Ihre Unterstützung! Nach Abschluss der Zahlung schalten Sie die Möglichkeit frei, mehr Musik aus der Liste abzuspielen und auf zusätzliche Einstellungen zuzugreifen."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6121,6 +6817,12 @@
     },
     "Theme" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thema"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6167,6 +6869,12 @@
     },
     "This records paths and permissions. Individual music files are recorded separately. When a folder containing them is added, the file records are removed since they can be accessed via the folder." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hier werden Pfade und Berechtigungen erfasst. Einzelne Musikdateien werden separat erfasst. Wird ein Ordner hinzugefügt, der sie enthält, werden die Dateieinträge entfernt, da auf sie über den Ordner zugegriffen werden kann."
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6213,6 +6921,12 @@
     },
     "Tint Color" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akzentfarbe"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6259,6 +6973,12 @@
     },
     "Title" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titel"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6305,6 +7025,12 @@
     },
     "Toggle Mini Player" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mini-Player umschalten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6351,6 +7077,12 @@
     },
     "Track Count" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anzahl der Titel"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6397,6 +7129,12 @@
     },
     "Track Number" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titelnummer"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6443,6 +7181,12 @@
     },
     "Treble" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Höhen"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6489,6 +7233,12 @@
     },
     "Unlock" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Freischalten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6535,6 +7285,12 @@
     },
     "Unlock all Features" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Funktionen freischalten"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6633,6 +7389,12 @@
     },
     "Vocal" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gesang"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6679,6 +7441,12 @@
     },
     "Waveform" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wellenform"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6725,6 +7493,12 @@
     },
     "Window Width" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fensterbreite"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6771,6 +7545,12 @@
     },
     "X(Twitter)" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X (Twitter)"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6817,6 +7597,12 @@
     },
     "Year" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jahr"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",

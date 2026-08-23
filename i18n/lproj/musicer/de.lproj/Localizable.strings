@@ -1,0 +1,295 @@
+" " = " ";
+
+" (Hidden)" = " (Ausgeblendet)";
+
+" (Shown)" = " (Angezeigt)";
+
+"%@ already exists!" = "%@ existiert bereits!";
+
+"%@ is an aggregate device created in Audio MIDI Setup. Using it directly as this app's output freezes playback.\n\nTo play through it, set it as the Mac's system output, then choose System Default here. Or pick a single device such as speakers or a display." = "%@ ist ein im Audio-MIDI-Setup erstelltes Aggregatgerät. Wird es direkt als Ausgabe dieser App verwendet, friert die Wiedergabe ein.\n\nUm darüber wiederzugeben, legen Sie es als Systemausgabe des Mac fest und wählen Sie hier dann Systemstandard. Oder wählen Sie ein einzelnes Gerät wie Lautsprecher oder ein Display.";
+
+"%lld" = "%lld";
+
+"About" = "Info";
+
+"About Musicer" = "Über Musicer";
+
+"Acoustic" = "Akustik";
+
+"Album" = "Album";
+
+"Album Art in Status Bar" = "Albumcover in der Statusleiste";
+
+"Album Artist" = "Album-Interpret";
+
+"Always On Top" = "Immer im Vordergrund";
+
+"Always Show Player Toolbar" = "Player-Symbolleiste immer anzeigen";
+
+"Artist" = "Interpret";
+
+"Audio Output" = "Audioausgabe";
+
+"Authorization" = "Autorisierung";
+
+"Background Color" = "Hintergrundfarbe";
+
+"Bars" = "Balken";
+
+"Bass" = "Bass";
+
+"Can't Use This Output Device" = "Dieses Ausgabegerät kann nicht verwendet werden";
+
+"Cancel" = "Abbrechen";
+
+"Change Artwork" = "Cover ändern";
+
+"Classic" = "Klassisch";
+
+"Classical" = "Klassik";
+
+"Close" = "Schließen";
+
+"Comment" = "Kommentar";
+
+"Composer" = "Komponist";
+
+"Contact" = "Kontakt";
+
+"Controls" = "Steuerung";
+
+"Could not write tags to this audio file. Library information was updated." = "Die Tags konnten nicht in diese Audiodatei geschrieben werden. Die Bibliotheksinformationen wurden aktualisiert.";
+
+"Custom" = "Benutzerdefiniert";
+
+"Define the event triggered when double-clicking the player area with the left mouse button." = "Legen Sie fest, welche Aktion beim Doppelklick mit der linken Maustaste auf den Player-Bereich ausgelöst wird.";
+
+"Delete Music Folder" = "Musikordner löschen";
+
+"Desktop Lyrics" = "Desktop-Songtexte";
+
+"Details" = "Details";
+
+"Disc Count" = "Anzahl der Discs";
+
+"Disc Number" = "Disc-Nummer";
+
+"Double Click Action" = "Doppelklick-Aktion";
+
+"Drag and drop folders into the player to add music directories." = "Ziehen Sie Ordner in den Player, um Musikverzeichnisse hinzuzufügen.";
+
+"Drop music folder!" = "Musikordner hier ablegen!";
+
+"Duration" = "Dauer";
+
+"E-mail" = "E-Mail";
+
+"Electronic" = "Elektronisch";
+
+"Enable Mosaic Cover" = "Mosaik-Cover aktivieren";
+
+"Equalizer" = "Equalizer";
+
+"Failed to load: %@" = "Laden fehlgeschlagen: %@";
+
+"Feedback" = "Feedback";
+
+"File" = "Datei";
+
+"File Scan Depth" = "Scan-Tiefe für Dateien";
+
+"File or folder does not exist" = "Datei oder Ordner existiert nicht";
+
+"Flat" = "Flach";
+
+"Folder" = "Ordner";
+
+"Format" = "Format";
+
+"General" = "Allgemein";
+
+"Genre" = "Genre";
+
+"Get Info" = "Informationen abrufen";
+
+"Grouping" = "Gruppierung";
+
+"Help" = "Hilfe";
+
+"Hide Desktop Lyrics" = "Desktop-Songtexte ausblenden";
+
+"Hide Dock Icon" = "Dock-Symbol ausblenden";
+
+"Hide status bar icon" = "Statusleistensymbol ausblenden";
+
+"Jazz" = "Jazz";
+
+"Keys" = "Tasten";
+
+"Large Cover Player" = "Player mit großem Cover";
+
+"Launch at login" = "Beim Anmelden starten";
+
+"Limit the depth of recursive directory scanning to avoid performance issues caused by deeply nested folders." = "Begrenzen Sie die Tiefe der rekursiven Verzeichnissuche, um Leistungsprobleme durch tief verschachtelte Ordner zu vermeiden.";
+
+"Linear" = "Linear";
+
+"Loading music library…" = "Musikbibliothek wird geladen…";
+
+"Lock" = "Sperren";
+
+"Lyrics" = "Songtext";
+
+"Lyrics Earlier" = "Songtext früher";
+
+"Lyrics Later" = "Songtext später";
+
+"Main Window" = "Hauptfenster";
+
+"Mini Player" = "Mini-Player";
+
+"Music Folder" = "Musikordner";
+
+"Musicer" = "Musicer";
+
+"Next Track" = "Nächster Titel";
+
+"No Lyrics" = "Kein Songtext";
+
+"No Permission" = "Keine Berechtigung";
+
+"No content" = "Kein Inhalt";
+
+"None" = "Keine";
+
+"OK" = "OK";
+
+"Only the folder record and its access permission will be removed. The original files will remain untouched, and music from this folder will no longer appear in the list." = "Nur der Ordnereintrag und dessen Zugriffsberechtigung werden entfernt. Die Originaldateien bleiben unverändert, und Musik aus diesem Ordner wird nicht mehr in der Liste angezeigt.";
+
+"Open" = "Öffnen";
+
+"Open %@" = "%@ öffnen";
+
+"Path" = "Pfad";
+
+"Pause" = "Pause";
+
+"Pause/Play" = "Pause/Wiedergabe";
+
+"Permission denied" = "Zugriff verweigert";
+
+"Pill" = "Pille";
+
+"Play" = "Wiedergabe";
+
+"Play Music" = "Musik abspielen";
+
+"Play/Pause" = "Wiedergabe/Pause";
+
+"Playback Bar Color" = "Farbe der Wiedergabeleiste";
+
+"Player Style" = "Player-Stil";
+
+"Please select \"%@\" to re-authorize." = "Bitte wählen Sie \"%@\" aus, um die Berechtigung erneut zu erteilen.";
+
+"Pop" = "Pop";
+
+"Prev Track" = "Vorheriger Titel";
+
+"Privacy Policy" = "Datenschutzrichtlinie";
+
+"Progress Bar Style" = "Stil der Fortschrittsleiste";
+
+"Quit %@" = "%@ beenden";
+
+"Refresh List Data" = "Listendaten aktualisieren";
+
+"Remove Artwork" = "Cover entfernen";
+
+"Repeat" = "Wiederholen";
+
+"Repeat All" = "Alle wiederholen";
+
+"Repeat Off" = "Wiederholung aus";
+
+"Repeat One" = "Einen wiederholen";
+
+"Reset Lyric Sync" = "Songtext-Synchronisation zurücksetzen";
+
+"Rock" = "Rock";
+
+"Save" = "Speichern";
+
+"Search" = "Suche";
+
+"Search Songs" = "Titel suchen";
+
+"Segments" = "Segmente";
+
+"Select Music Folders" = "Musikordner auswählen";
+
+"Settings..." = "Einstellungen…";
+
+"Show Album Artwork" = "Album-Cover anzeigen";
+
+"Show Album Name" = "Albumname anzeigen";
+
+"Show Artist" = "Interpret anzeigen";
+
+"Show Playerlist" = "Playerliste anzeigen";
+
+"Show Playlist" = "Wiedergabeliste anzeigen";
+
+"Show in Finder" = "Im Finder anzeigen";
+
+"Shuffle" = "Zufallswiedergabe";
+
+"Size" = "Größe";
+
+"Social Accounts" = "Soziale Netzwerke";
+
+"Standard Player" = "Standard-Player";
+
+"Supports Mac media keys (**F7**/**F8**/**F9**) for music control." = "Unterstützt Mac-Medientasten (**F7**/**F8**/**F9**) zur Steuerung der Musik.";
+
+"System Default" = "Systemstandard";
+
+"Terms of Service" = "Nutzungsbedingungen";
+
+"Thank you for your support! After completing the payment, you’ll unlock the ability to play more music from the list and access additional settings." = "Vielen Dank für Ihre Unterstützung! Nach Abschluss der Zahlung schalten Sie die Möglichkeit frei, mehr Musik aus der Liste abzuspielen und auf zusätzliche Einstellungen zuzugreifen.";
+
+"Theme" = "Thema";
+
+"This records paths and permissions. Individual music files are recorded separately. When a folder containing them is added, the file records are removed since they can be accessed via the folder." = "Hier werden Pfade und Berechtigungen erfasst. Einzelne Musikdateien werden separat erfasst. Wird ein Ordner hinzugefügt, der sie enthält, werden die Dateieinträge entfernt, da auf sie über den Ordner zugegriffen werden kann.";
+
+"Tint Color" = "Akzentfarbe";
+
+"Title" = "Titel";
+
+"Toggle Mini Player" = "Mini-Player umschalten";
+
+"Track Count" = "Anzahl der Titel";
+
+"Track Number" = "Titelnummer";
+
+"Treble" = "Höhen";
+
+"Unlock" = "Freischalten";
+
+"Unlock all Features" = "Alle Funktionen freischalten";
+
+"Version %@ (%@)" = "Version %1$@ (%2$@)";
+
+"Vocal" = "Gesang";
+
+"Waveform" = "Wellenform";
+
+"Window Width" = "Fensterbreite";
+
+"X(Twitter)" = "X (Twitter)";
+
+"Year" = "Jahr";
+
+"[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"or" = "oder";
