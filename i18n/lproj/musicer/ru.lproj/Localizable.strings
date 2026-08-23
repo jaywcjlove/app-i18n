@@ -6,6 +6,8 @@
 
 "%@ already exists!" = "%@ уже существует!";
 
+"%@ is an aggregate device created in Audio MIDI Setup. Using it directly as this app's output freezes playback.\n\nTo play through it, set it as the Mac's system output, then choose System Default here. Or pick a single device such as speakers or a display." = "%@ — агрегированное устройство из «Аудио MIDI-настройка». Прямое использование его как выхода приложения зависает воспроизведение.\n\nЧтобы играть через него, назначьте его системным выходом Mac и выберите здесь «Системный по умолчанию». Либо выберите одно устройство, например динамики или дисплей.";
+
 "%lld" = "%lld";
 
 "About" = "О программе";
@@ -26,6 +28,8 @@
 
 "Artist" = "Исполнитель";
 
+"Audio Output" = "Аудиовыход";
+
 "Authorization" = "Авторизация";
 
 "Background Color" = "Цвет фона";
@@ -33,6 +37,8 @@
 "Bars" = "Полоски";
 
 "Bass" = "Бас";
+
+"Can't Use This Output Device" = "Это устройство вывода недоступно";
 
 "Cancel" = "Отмена";
 
@@ -92,6 +98,8 @@
 
 "File Scan Depth" = "Глубина сканирования файлов";
 
+"File or folder does not exist" = "File or folder does not exist";
+
 "Flat" = "Ровный";
 
 "Folder" = "Папка";
@@ -148,6 +156,8 @@
 
 "No Lyrics" = "Нет текста";
 
+"No Permission" = "No Permission";
+
 "No content" = "Нет содержимого";
 
 "None" = "Нет";
@@ -177,6 +187,8 @@
 "Play/Pause" = "Воспроизведение/пауза";
 
 "Playback Bar Color" = "Цвет панели воспроизведения";
+
+"Player Style" = "Стиль плеера";
 
 "Please select \"%@\" to re-authorize." = "Выберите «%@», чтобы предоставить доступ повторно.";
 
@@ -239,6 +251,8 @@
 "Standard Player" = "Стандартный плеер";
 
 "Supports Mac media keys (**F7**/**F8**/**F9**) for music control." = "Поддерживаются медиаклавиши Mac (**F7**/**F8**/**F9**) для управления музыкой.";
+
+"System Default" = "Системный по умолчанию";
 
 "Terms of Service" = "Условия использования";
 

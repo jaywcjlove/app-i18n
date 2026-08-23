@@ -6,6 +6,8 @@
 
 "%@ already exists!" = "%@ already exists!";
 
+"%@ is an aggregate device created in Audio MIDI Setup. Using it directly as this app's output freezes playback.\n\nTo play through it, set it as the Mac's system output, then choose System Default here. Or pick a single device such as speakers or a display." = "%@ is an aggregate device created in Audio MIDI Setup. Using it directly as this app's output freezes playback.\n\nTo play through it, set it as the Mac's system output, then choose System Default here. Or pick a single device such as speakers or a display.";
+
 "%lld" = "%lld";
 
 "About" = "About";
@@ -26,6 +28,8 @@
 
 "Artist" = "Artist";
 
+"Audio Output" = "Audio Output";
+
 "Authorization" = "Authorization";
 
 "Background Color" = "Background Color";
@@ -33,6 +37,8 @@
 "Bars" = "Bars";
 
 "Bass" = "Bass";
+
+"Can't Use This Output Device" = "Can't Use This Output Device";
 
 "Cancel" = "Cancel";
 
@@ -92,6 +98,8 @@
 
 "File Scan Depth" = "File Scan Depth";
 
+"File or folder does not exist" = "File or folder does not exist";
+
 "Flat" = "Flat";
 
 "Folder" = "Folder";
@@ -148,6 +156,8 @@
 
 "No Lyrics" = "No Lyrics";
 
+"No Permission" = "No Permission";
+
 "No content" = "No content";
 
 "None" = "None";
@@ -177,6 +187,8 @@
 "Play/Pause" = "Play/Pause";
 
 "Playback Bar Color" = "Playback Bar Color";
+
+"Player Style" = "Player Style";
 
 "Please select \"%@\" to re-authorize." = "Please select \"%@\" to re-authorize.";
 
@@ -239,6 +251,8 @@
 "Standard Player" = "Standard Player";
 
 "Supports Mac media keys (**F7**/**F8**/**F9**) for music control." = "Supports Mac media keys (**F7**/**F8**/**F9**) for music control.";
+
+"System Default" = "System Default";
 
 "Terms of Service" = "Terms of Service";
 

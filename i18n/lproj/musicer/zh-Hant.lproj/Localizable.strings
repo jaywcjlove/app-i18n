@@ -6,6 +6,8 @@
 
 "%@ already exists!" = "%@ 已存在！";
 
+"%@ is an aggregate device created in Audio MIDI Setup. Using it directly as this app's output freezes playback.\n\nTo play through it, set it as the Mac's system output, then choose System Default here. Or pick a single device such as speakers or a display." = "「%@」是「音訊 MIDI 設定」中的聚合裝置。直接指定為 App 輸出會卡住播放。\n\n若要透過它播放：先在系統設定 › 聲音 將它設為 Mac 的預設輸出，然後在這裡選擇「系統預設」。也可以改選單一裝置，例如筆電喇叭或顯示器。";
+
 "%lld" = "%lld";
 
 "About" = "關於";
@@ -26,6 +28,8 @@
 
 "Artist" = "演出者";
 
+"Audio Output" = "音訊輸出";
+
 "Authorization" = "授權";
 
 "Background Color" = "背景顏色";
@@ -33,6 +37,8 @@
 "Bars" = "豎條";
 
 "Bass" = "低音";
+
+"Can't Use This Output Device" = "無法使用此輸出裝置";
 
 "Cancel" = "取消";
 
@@ -92,6 +98,8 @@
 
 "File Scan Depth" = "檔案掃描深度";
 
+"File or folder does not exist" = "檔案或檔案夾不存在";
+
 "Flat" = "平坦";
 
 "Folder" = "檔案夾";
@@ -148,6 +156,8 @@
 
 "No Lyrics" = "暫無歌詞";
 
+"No Permission" = "沒有權限";
+
 "No content" = "無內容";
 
 "None" = "無操作";
@@ -177,6 +187,8 @@
 "Play/Pause" = "播放/暫停";
 
 "Playback Bar Color" = "播放列顏色";
+
+"Player Style" = "播放器樣式";
 
 "Please select \"%@\" to re-authorize." = "請選擇「%@」重新授權";
 
@@ -239,6 +251,8 @@
 "Standard Player" = "標準播放器";
 
 "Supports Mac media keys (**F7**/**F8**/**F9**) for music control." = "支援 Mac 預設媒體鍵（**F7**/**F8**/**F9**）控制音樂播放。";
+
+"System Default" = "系統預設";
 
 "Terms of Service" = "服務條款";
 

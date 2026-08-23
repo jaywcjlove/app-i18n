@@ -6,6 +6,8 @@
 
 "%@ already exists!" = "%@ はすでに存在します！";
 
+"%@ is an aggregate device created in Audio MIDI Setup. Using it directly as this app's output freezes playback.\n\nTo play through it, set it as the Mac's system output, then choose System Default here. Or pick a single device such as speakers or a display." = "%@ は「Audio MIDI 設定」で作成された集約デバイスです。このアプリの出力として直接指定すると再生がフリーズします。\n\nこのデバイスで再生するには、Mac のシステム出力に設定してから、ここで「システムのデフォルト」を選んでください。またはスピーカーやディスプレイなどの単一デバイスを選んでください。";
+
 "%lld" = "%lld";
 
 "About" = "情報";
@@ -26,6 +28,8 @@
 
 "Artist" = "アーティスト";
 
+"Audio Output" = "音声出力";
+
 "Authorization" = "承認";
 
 "Background Color" = "背景色";
@@ -33,6 +37,8 @@
 "Bars" = "バー";
 
 "Bass" = "低音";
+
+"Can't Use This Output Device" = "この出力デバイスは使えません";
 
 "Cancel" = "キャンセル";
 
@@ -92,6 +98,8 @@
 
 "File Scan Depth" = "ファイルスキャンの深さ";
 
+"File or folder does not exist" = "File or folder does not exist";
+
 "Flat" = "フラット";
 
 "Folder" = "フォルダ";
@@ -148,6 +156,8 @@
 
 "No Lyrics" = "歌詞なし";
 
+"No Permission" = "No Permission";
+
 "No content" = "コンテンツがありません";
 
 "None" = "なし";
@@ -177,6 +187,8 @@
 "Play/Pause" = "再生/一時停止";
 
 "Playback Bar Color" = "再生バーの色";
+
+"Player Style" = "プレーヤーのスタイル";
 
 "Please select \"%@\" to re-authorize." = "再承認するには「%@」を選択してください。";
 
@@ -239,6 +251,8 @@
 "Standard Player" = "標準プレーヤー";
 
 "Supports Mac media keys (**F7**/**F8**/**F9**) for music control." = "Mac のメディアキー（**F7**/**F8**/**F9**）で音楽を操作できます。";
+
+"System Default" = "システムのデフォルト";
 
 "Terms of Service" = "利用規約";
 

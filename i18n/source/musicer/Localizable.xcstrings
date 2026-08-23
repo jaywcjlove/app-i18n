@@ -277,6 +277,52 @@
         }
       }
     },
+    "%@ is an aggregate device created in Audio MIDI Setup. Using it directly as this app's output freezes playback.\n\nTo play through it, set it as the Mac's system output, then choose System Default here. Or pick a single device such as speakers or a display." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ est un périphérique agrégé créé dans Configuration audio et MIDI. L’utiliser directement comme sortie de cette app fige la lecture.\n\nPour lire via ce périphérique, définissez-le comme sortie système du Mac, puis choisissez « Par défaut du système » ici. Ou choisissez un seul appareil, comme les haut-parleurs ou un écran."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ è un dispositivo aggregato creato in Audio MIDI Setup. Usarlo direttamente come uscita di quest’app blocca la riproduzione.\n\nPer riprodurre tramite questo dispositivo, impostalo come uscita di sistema del Mac, poi scegli « Predefinito di sistema » qui. Oppure scegli un singolo dispositivo, come gli altoparlanti o un display."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ は「Audio MIDI 設定」で作成された集約デバイスです。このアプリの出力として直接指定すると再生がフリーズします。\n\nこのデバイスで再生するには、Mac のシステム出力に設定してから、ここで「システムのデフォルト」を選んでください。またはスピーカーやディスプレイなどの単一デバイスを選んでください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@은(는) Audio MIDI 설정에서 만든 집합 장치입니다. 이 앱의 출력으로 직접 지정하면 재생이 멈춥니다.\n\n이 장치로 재생하려면 Mac 시스템 출력으로 설정한 뒤 여기에서 ‘시스템 기본값’을 선택하세요. 또는 스피커나 디스플레이 같은 단일 장치를 선택하세요."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ — агрегированное устройство из «Аудио MIDI-настройка». Прямое использование его как выхода приложения зависает воспроизведение.\n\nЧтобы играть через него, назначьте его системным выходом Mac и выберите здесь «Системный по умолчанию». Либо выберите одно устройство, например динамики или дисплей."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」是「音频 MIDI 设置」里的聚合设备。直接把它指定为应用输出会卡住播放。\n\n若要用它播放：先在系统设置 › 声音 中把它设为 Mac 的默认输出，然后在这里选择「系统默认」。也可以改选单一设备，例如笔记本扬声器或显示器。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」是「音訊 MIDI 設定」中的聚合裝置。直接指定為 App 輸出會卡住播放。\n\n若要透過它播放：先在系統設定 › 聲音 將它設為 Mac 的預設輸出，然後在這裡選擇「系統預設」。也可以改選單一裝置，例如筆電喇叭或顯示器。"
+          }
+        }
+      }
+    },
     "%lld" : {
       "localizations" : {
         "fr" : {
@@ -737,6 +783,52 @@
         }
       }
     },
+    "Audio Output" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sortie audio"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uscita audio"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "音声出力"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오디오 출력"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аудиовыход"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "音频输出"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "音訊輸出"
+          }
+        }
+      }
+    },
     "Authorization" : {
       "localizations" : {
         "fr" : {
@@ -917,6 +1009,52 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "低音"
+          }
+        }
+      }
+    },
+    "Can't Use This Output Device" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’utiliser cette sortie"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossibile usare questa uscita"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この出力デバイスは使えません"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 출력 장치를 사용할 수 없음"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Это устройство вывода недоступно"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法使用该输出设备"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法使用此輸出裝置"
           }
         }
       }
@@ -2205,6 +2343,52 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "檔案"
+          }
+        }
+      }
+    },
+    "File or folder does not exist" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le fichier ou le dossier n'existe pas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il file o la cartella non esiste"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルまたはフォルダが存在しません"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "파일 또는 폴더가 존재하지 않습니다"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Файл или папка не существует"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件或者文件夹不存在"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "檔案或檔案夾不存在"
           }
         }
       }
@@ -3589,6 +3773,52 @@
         }
       }
     },
+    "No Permission" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune autorisation"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessuna autorizzazione"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "権限がありません"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "권한 없음"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нет разрешения"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没权限"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有權限"
+          }
+        }
+      }
+    },
     "None" : {
       "localizations" : {
         "fr" : {
@@ -4275,6 +4505,52 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "播放列顏色"
+          }
+        }
+      }
+    },
+    "Player Style" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Style du lecteur"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stile del lettore"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プレーヤーのスタイル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "플레이어 스타일"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Стиль плеера"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "播放器样式"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "播放器樣式"
           }
         }
       }
@@ -5701,6 +5977,52 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "支援 Mac 預設媒體鍵（**F7**/**F8**/**F9**）控制音樂播放。"
+          }
+        }
+      }
+    },
+    "System Default" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Par défaut du système"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Predefinito di sistema"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "システムのデフォルト"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시스템 기본값"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Системный по умолчанию"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系统默认"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系統預設"
           }
         }
       }

@@ -6,6 +6,8 @@
 
 "%@ already exists!" = "%@ existe déjà !";
 
+"%@ is an aggregate device created in Audio MIDI Setup. Using it directly as this app's output freezes playback.\n\nTo play through it, set it as the Mac's system output, then choose System Default here. Or pick a single device such as speakers or a display." = "%@ est un périphérique agrégé créé dans Configuration audio et MIDI. L’utiliser directement comme sortie de cette app fige la lecture.\n\nPour lire via ce périphérique, définissez-le comme sortie système du Mac, puis choisissez « Par défaut du système » ici. Ou choisissez un seul appareil, comme les haut-parleurs ou un écran.";
+
 "%lld" = "%lld";
 
 "About" = "À propos";
@@ -26,6 +28,8 @@
 
 "Artist" = "Artiste";
 
+"Audio Output" = "Sortie audio";
+
 "Authorization" = "Autorisation";
 
 "Background Color" = "Couleur d’arrière-plan";
@@ -33,6 +37,8 @@
 "Bars" = "Barres";
 
 "Bass" = "Graves";
+
+"Can't Use This Output Device" = "Impossible d’utiliser cette sortie";
 
 "Cancel" = "Annuler";
 
@@ -92,6 +98,8 @@
 
 "File Scan Depth" = "Profondeur d’analyse des fichiers";
 
+"File or folder does not exist" = "File or folder does not exist";
+
 "Flat" = "Plat";
 
 "Folder" = "Dossier";
@@ -148,6 +156,8 @@
 
 "No Lyrics" = "Aucune parole";
 
+"No Permission" = "No Permission";
+
 "No content" = "Aucun contenu";
 
 "None" = "Aucune";
@@ -177,6 +187,8 @@
 "Play/Pause" = "Lecture/Pause";
 
 "Playback Bar Color" = "Couleur de la barre de lecture";
+
+"Player Style" = "Style du lecteur";
 
 "Please select \"%@\" to re-authorize." = "Veuillez sélectionner « %@ » pour réautoriser l’accès.";
 
@@ -239,6 +251,8 @@
 "Standard Player" = "Lecteur standard";
 
 "Supports Mac media keys (**F7**/**F8**/**F9**) for music control." = "Prend en charge les touches multimédias Mac (**F7**/**F8**/**F9**) pour contrôler la lecture.";
+
+"System Default" = "Par défaut du système";
 
 "Terms of Service" = "Conditions d’utilisation";
 
