@@ -58,6 +58,8 @@
 
 "Are you sure you want to delete the local article \"%@\"?" = "Are you sure you want to delete the local article \"%@\"?";
 
+"Args: --mcp" = "Args: --mcp";
+
 "Bulk Export RSS Sources" = "Bulk Export RSS Sources";
 
 "Bulk Import RSS Sources" = "Bulk Import RSS Sources";
@@ -68,7 +70,7 @@
 
 "Clear all data from the source" = "Clear all data from the source";
 
-"Client config" = "Client config";
+"Command" = "Command";
 
 "Confirm" = "Confirm";
 
@@ -84,6 +86,8 @@
 
 "Copy Claude config" = "Copy Claude config";
 
+"Copy Claude stdio config" = "Copy Claude stdio config";
+
 "Copy Content" = "Copy Content";
 
 "Copy Cursor config" = "Copy Cursor config";
@@ -93,6 +97,8 @@
 "Copy Feed URL" = "Copy Feed URL";
 
 "Copy Grok config" = "Copy Grok config";
+
+"Copy Grok stdio config" = "Copy Grok stdio config";
 
 "Copy Home Page URL" = "Copy Home Page URL";
 
@@ -129,6 +135,9 @@
 
 "Failed to fetch RSS feed" = "Failed to fetch RSS feed";
 
+/* MCP tool */
+"Feed and unread counts." = "Feed and unread counts.";
+
 "Feedback" = "Feedback";
 
 "Feeds" = "Feeds";
@@ -140,6 +149,8 @@
 "Generate Token" = "Generate Token";
 
 "Go to Settings to grant notification permissions" = "Go to Settings to grant notification permissions";
+
+"HTTP client config" = "HTTP client config";
 
 "Import Feeds (.json)" = "Import Feeds (.json)";
 
@@ -155,6 +166,12 @@
 
 /* Light */
 "Light" = "Light";
+
+/* MCP tool */
+"List articles: latest, unread, today, or starred." = "List articles: latest, unread, today, or starred.";
+
+/* MCP tool */
+"List subscriptions (id, title, url, unread)." = "List subscriptions (id, title, url, unread).";
 
 "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected.";
 
@@ -180,6 +197,12 @@
 
 "Mark As Unstarred" = "Mark As Unstarred";
 
+/* MCP tool */
+"Mark an article as read." = "Mark an article as read.";
+
+/* MCP tool */
+"Mark an article as unread." = "Mark an article as unread.";
+
 "Move to Top" = "Move to Top";
 
 "My Apps" = "My Apps";
@@ -194,9 +217,15 @@
 
 "OK" = "OK";
 
+/* MCP tool */
+"One article, including stripped text." = "One article, including stripped text.";
+
 "Open Feed in browser" = "Open Feed in browser";
 
 "Open Home Page in browser" = "Open Home Page in browser";
+
+/* MCP tool */
+"Open an article in QuickRSS." = "Open an article in QuickRSS.";
 
 "Open in Browser" = "Open in Browser";
 
@@ -220,11 +249,20 @@
 
 "Refresh Feed" = "Refresh Feed";
 
+/* MCP tool */
+"Refresh one feed, or all feeds if feed_id is omitted." = "Refresh one feed, or all feeds if feed_id is omitted.";
+
+/* MCP tool */
+"Remove the star from an article." = "Remove the star from an article.";
+
 "Rename" = "Rename";
 
 "Rename Feed" = "Rename Feed";
 
 "Running" = "Running";
+
+/* MCP tool */
+"Search title, summary, and content." = "Search title, summary, and content.";
 
 "Select .%@ Feed" = "Select .%@ Feed";
 
@@ -236,11 +274,17 @@
 
 "Social Accounts" = "Social Accounts";
 
+/* MCP tool */
+"Star an article." = "Star an article.";
+
 "Starred" = "Starred";
 
 "Start" = "Start";
 
 "Stopped" = "Stopped";
+
+/* MCP tool */
+"Subscribe to an RSS/Atom URL." = "Subscribe to an RSS/Atom URL.";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "Successfully exported \"%1$lld\" feeds to \"%2$@\"";
 
@@ -250,6 +294,8 @@
 
 /* System */
 "System" = "System";
+
+"The client starts a separate process. Disconnecting it does not quit an already open QuickRSS window." = "The client starts a separate process. Disconnecting it does not quit an already open QuickRSS window.";
 
 "The content you select will be displayed here." = "The content you select will be displayed here.";
 
@@ -278,3 +324,5 @@
 "more_tools" = "More Tools";
 
 "my_other_apps" = "My Other Apps";
+
+"stdio" = "stdio";

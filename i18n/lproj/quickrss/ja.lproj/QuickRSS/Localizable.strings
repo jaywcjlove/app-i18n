@@ -58,6 +58,8 @@
 
 "Are you sure you want to delete the local article \"%@\"?" = "ローカルの記事「%@」を削除しますか？";
 
+"Args: --mcp" = "引数: --mcp";
+
 "Bulk Export RSS Sources" = "RSS ソースの一括書き出し";
 
 "Bulk Import RSS Sources" = "RSS ソースの一括読み込み";
@@ -68,7 +70,7 @@
 
 "Clear all data from the source" = "ソースのすべてのデータを削除";
 
-"Client config" = "クライアント設定";
+"Command" = "コマンド";
 
 "Confirm" = "確認";
 
@@ -84,6 +86,8 @@
 
 "Copy Claude config" = "Claude の設定をコピー";
 
+"Copy Claude stdio config" = "Claude の stdio 設定をコピー";
+
 "Copy Content" = "内容をコピー";
 
 "Copy Cursor config" = "Cursor の設定をコピー";
@@ -93,6 +97,8 @@
 "Copy Feed URL" = "フィード URL をコピー";
 
 "Copy Grok config" = "Grok の設定をコピー";
+
+"Copy Grok stdio config" = "Grok の stdio 設定をコピー";
 
 "Copy Home Page URL" = "ホームページ URL をコピー";
 
@@ -129,6 +135,9 @@
 
 "Failed to fetch RSS feed" = "RSS フィードの取得に失敗しました";
 
+/* MCP tool */
+"Feed and unread counts." = "フィード数と未読数。";
+
 "Feedback" = "フィードバック";
 
 "Feeds" = "フィード";
@@ -140,6 +149,8 @@
 "Generate Token" = "トークンを生成";
 
 "Go to Settings to grant notification permissions" = "設定で通知を許可してください";
+
+"HTTP client config" = "HTTP クライアント設定";
 
 "Import Feeds (.json)" = "フィードを読み込む (.json)";
 
@@ -155,6 +166,12 @@
 
 /* Light */
 "Light" = "ライト";
+
+/* MCP tool */
+"List articles: latest, unread, today, or starred." = "記事を一覧表示：最新、未読、今日、スター付き。";
+
+/* MCP tool */
+"List subscriptions (id, title, url, unread)." = "購読フィードを一覧表示（id、タイトル、URL、未読数）。";
 
 "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "127.0.0.1 のみで待ち受けます。AI クライアントの接続中は QuickRSS を開いたままにしてください。";
 
@@ -180,6 +197,12 @@
 
 "Mark As Unstarred" = "スターを外す";
 
+/* MCP tool */
+"Mark an article as read." = "記事を既読にします。";
+
+/* MCP tool */
+"Mark an article as unread." = "記事を未読にします。";
+
 "Move to Top" = "一番上に移動";
 
 "My Apps" = "マイ App";
@@ -194,9 +217,15 @@
 
 "OK" = "OK";
 
+/* MCP tool */
+"One article, including stripped text." = "記事を1件取得（プレーンテキスト本文を含む）。";
+
 "Open Feed in browser" = "ブラウザでフィードを開く";
 
 "Open Home Page in browser" = "ブラウザでホームページを開く";
+
+/* MCP tool */
+"Open an article in QuickRSS." = "QuickRSS で記事を開きます。";
 
 "Open in Browser" = "ブラウザで開く";
 
@@ -220,11 +249,20 @@
 
 "Refresh Feed" = "フィードを更新";
 
+/* MCP tool */
+"Refresh one feed, or all feeds if feed_id is omitted." = "指定フィードを更新。feed_id を省略するとすべて更新。";
+
+/* MCP tool */
+"Remove the star from an article." = "記事のスターを外します。";
+
 "Rename" = "名前を変更";
 
 "Rename Feed" = "フィード名を変更";
 
 "Running" = "実行中";
+
+/* MCP tool */
+"Search title, summary, and content." = "タイトル、要約、本文を検索。";
 
 "Select .%@ Feed" = ".%@ フィードを選択";
 
@@ -236,11 +274,17 @@
 
 "Social Accounts" = "ソーシャルアカウント";
 
+/* MCP tool */
+"Star an article." = "記事にスターを付けます。";
+
 "Starred" = "スター付き";
 
 "Start" = "開始";
 
 "Stopped" = "停止";
+
+/* MCP tool */
+"Subscribe to an RSS/Atom URL." = "RSS/Atom の URL を購読します。";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "%1$lld 件のフィードを「%2$@」に書き出しました";
 
@@ -250,6 +294,8 @@
 
 /* System */
 "System" = "システム";
+
+"The client starts a separate process. Disconnecting it does not quit an already open QuickRSS window." = "クライアントは別のプロセスを起動します。切断しても、すでに開いている QuickRSS ウインドウは閉じません。";
 
 "The content you select will be displayed here." = "選択した内容がここに表示されます。";
 
@@ -278,3 +324,5 @@
 "more_tools" = "その他のツール";
 
 "my_other_apps" = "その他の App";
+
+"stdio" = "標準入出力";

@@ -58,6 +58,8 @@
 
 "Are you sure you want to delete the local article \"%@\"?" = "Eliminare l'articolo locale \"%@\"?";
 
+"Args: --mcp" = "Argomenti: --mcp";
+
 "Bulk Export RSS Sources" = "Esporta fonti RSS in blocco";
 
 "Bulk Import RSS Sources" = "Importa fonti RSS in blocco";
@@ -68,7 +70,7 @@
 
 "Clear all data from the source" = "Cancella tutti i dati dalle fonti";
 
-"Client config" = "Configurazione client";
+"Command" = "Comando";
 
 "Confirm" = "Conferma";
 
@@ -84,6 +86,8 @@
 
 "Copy Claude config" = "Copia configurazione Claude";
 
+"Copy Claude stdio config" = "Copia configurazione stdio di Claude";
+
 "Copy Content" = "Copia contenuto";
 
 "Copy Cursor config" = "Copia configurazione Cursor";
@@ -93,6 +97,8 @@
 "Copy Feed URL" = "Copia URL del feed";
 
 "Copy Grok config" = "Copia configurazione Grok";
+
+"Copy Grok stdio config" = "Copia configurazione stdio di Grok";
 
 "Copy Home Page URL" = "Copia URL della home page";
 
@@ -129,6 +135,9 @@
 
 "Failed to fetch RSS feed" = "Impossibile recuperare il feed RSS";
 
+/* MCP tool */
+"Feed and unread counts." = "Conteggio dei feed e dei non letti.";
+
 "Feedback" = "Feedback";
 
 "Feeds" = "Feed";
@@ -140,6 +149,8 @@
 "Generate Token" = "Genera token";
 
 "Go to Settings to grant notification permissions" = "Vai in Impostazioni per consentire le notifiche";
+
+"HTTP client config" = "Configurazione client HTTP";
 
 "Import Feeds (.json)" = "Importa feed (.json)";
 
@@ -155,6 +166,12 @@
 
 /* Light */
 "Light" = "Chiaro";
+
+/* MCP tool */
+"List articles: latest, unread, today, or starred." = "Elenca gli articoli: recenti, non letti, oggi o preferiti.";
+
+/* MCP tool */
+"List subscriptions (id, title, url, unread)." = "Elenca le sottoscrizioni (id, titolo, URL, non letti).";
 
 "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Ascolta solo su 127.0.0.1. QuickRSS deve rimanere aperto mentre i client IA sono connessi.";
 
@@ -180,6 +197,12 @@
 
 "Mark As Unstarred" = "Rimuovi dai preferiti";
 
+/* MCP tool */
+"Mark an article as read." = "Segna un articolo come letto.";
+
+/* MCP tool */
+"Mark an article as unread." = "Segna un articolo come non letto.";
+
 "Move to Top" = "Sposta in alto";
 
 "My Apps" = "Le mie app";
@@ -194,9 +217,15 @@
 
 "OK" = "OK";
 
+/* MCP tool */
+"One article, including stripped text." = "Un articolo, incluso il testo semplice.";
+
 "Open Feed in browser" = "Apri feed nel browser";
 
 "Open Home Page in browser" = "Apri home page nel browser";
+
+/* MCP tool */
+"Open an article in QuickRSS." = "Apre un articolo in QuickRSS.";
 
 "Open in Browser" = "Apri nel browser";
 
@@ -220,11 +249,20 @@
 
 "Refresh Feed" = "Aggiorna feed";
 
+/* MCP tool */
+"Refresh one feed, or all feeds if feed_id is omitted." = "Aggiorna un feed, o tutti se feed_id è omesso.";
+
+/* MCP tool */
+"Remove the star from an article." = "Rimuovi un articolo dai preferiti.";
+
 "Rename" = "Rinomina";
 
 "Rename Feed" = "Rinomina feed";
 
 "Running" = "In esecuzione";
+
+/* MCP tool */
+"Search title, summary, and content." = "Cerca in titolo, riassunto e contenuto.";
 
 "Select .%@ Feed" = "Seleziona feed .%@";
 
@@ -236,11 +274,17 @@
 
 "Social Accounts" = "Account social";
 
+/* MCP tool */
+"Star an article." = "Aggiungi un articolo ai preferiti.";
+
 "Starred" = "Preferiti";
 
 "Start" = "Avvia";
 
 "Stopped" = "Arrestato";
+
+/* MCP tool */
+"Subscribe to an RSS/Atom URL." = "Iscriviti a un URL RSS/Atom.";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "Esportati %1$lld feed in \"%2$@\"";
 
@@ -250,6 +294,8 @@
 
 /* System */
 "System" = "Sistema";
+
+"The client starts a separate process. Disconnecting it does not quit an already open QuickRSS window." = "Il client avvia un processo separato. La disconnessione non chiude una finestra di QuickRSS già aperta.";
 
 "The content you select will be displayed here." = "Il contenuto selezionato verrà mostrato qui.";
 
@@ -278,3 +324,5 @@
 "more_tools" = "Altri strumenti";
 
 "my_other_apps" = "Le mie altre app";
+
+"stdio" = "Input/output standard";

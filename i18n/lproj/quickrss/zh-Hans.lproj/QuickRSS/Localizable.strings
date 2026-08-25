@@ -58,6 +58,8 @@
 
 "Are you sure you want to delete the local article \"%@\"?" = "你确定要删除本地文章 \"%@\" 吗？";
 
+"Args: --mcp" = "参数：--mcp";
+
 "Bulk Export RSS Sources" = "批量导出 RSS 源";
 
 "Bulk Import RSS Sources" = "批量导入 RSS 源";
@@ -68,7 +70,7 @@
 
 "Clear all data from the source" = "清空源的所有数据";
 
-"Client config" = "客户端配置";
+"Command" = "命令";
 
 "Confirm" = "确认";
 
@@ -84,6 +86,8 @@
 
 "Copy Claude config" = "复制 Claude 配置";
 
+"Copy Claude stdio config" = "复制 Claude stdio 配置";
+
 "Copy Content" = "复制内容";
 
 "Copy Cursor config" = "复制 Cursor 配置";
@@ -93,6 +97,8 @@
 "Copy Feed URL" = "复制订阅源 URL";
 
 "Copy Grok config" = "复制 Grok 配置";
+
+"Copy Grok stdio config" = "复制 Grok stdio 配置";
 
 "Copy Home Page URL" = "复制主页 URL";
 
@@ -129,6 +135,9 @@
 
 "Failed to fetch RSS feed" = "获取 RSS 源失败";
 
+/* MCP tool */
+"Feed and unread counts." = "订阅源数量和未读数。";
+
 "Feedback" = "反馈";
 
 "Feeds" = "订阅源";
@@ -140,6 +149,8 @@
 "Generate Token" = "生成令牌";
 
 "Go to Settings to grant notification permissions" = "前往设置授权通知权限";
+
+"HTTP client config" = "HTTP 客户端配置";
 
 "Import Feeds (.json)" = "导入订阅源（.json）";
 
@@ -155,6 +166,12 @@
 
 /* Light */
 "Light" = "亮色";
+
+/* MCP tool */
+"List articles: latest, unread, today, or starred." = "列出文章：最新、未读、今天或收藏。";
+
+/* MCP tool */
+"List subscriptions (id, title, url, unread)." = "列出订阅源（id、标题、网址、未读数）。";
 
 "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "仅监听 127.0.0.1。AI 客户端连接期间必须保持 QuickRSS 开启。";
 
@@ -180,6 +197,12 @@
 
 "Mark As Unstarred" = "取消收藏";
 
+/* MCP tool */
+"Mark an article as read." = "将文章标为已读。";
+
+/* MCP tool */
+"Mark an article as unread." = "将文章标为未读。";
+
 "Move to Top" = "移动到顶部";
 
 "My Apps" = "我的应用";
@@ -194,9 +217,15 @@
 
 "OK" = "确认";
 
+/* MCP tool */
+"One article, including stripped text." = "获取一篇文章，包含纯文本正文。";
+
 "Open Feed in browser" = "在浏览器中打开订阅源";
 
 "Open Home Page in browser" = "在浏览器中打开主页";
+
+/* MCP tool */
+"Open an article in QuickRSS." = "在 QuickRSS 中打开文章。";
 
 "Open in Browser" = "在浏览器中打开";
 
@@ -220,11 +249,20 @@
 
 "Refresh Feed" = "刷新订阅源";
 
+/* MCP tool */
+"Refresh one feed, or all feeds if feed_id is omitted." = "刷新指定订阅源；省略 feed_id 则刷新全部。";
+
+/* MCP tool */
+"Remove the star from an article." = "取消收藏文章。";
+
 "Rename" = "重命名";
 
 "Rename Feed" = "重命名订阅";
 
 "Running" = "运行中";
+
+/* MCP tool */
+"Search title, summary, and content." = "按标题、摘要和正文搜索。";
 
 "Select .%@ Feed" = "选择 .%@ 订阅文件";
 
@@ -236,11 +274,17 @@
 
 "Social Accounts" = "社交账号";
 
+/* MCP tool */
+"Star an article." = "收藏文章。";
+
 "Starred" = "收藏";
 
 "Start" = "启动";
 
 "Stopped" = "已停止";
+
+/* MCP tool */
+"Subscribe to an RSS/Atom URL." = "通过 RSS/Atom 网址添加订阅。";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "成功将 \"%1$lld\" 条订阅导出到 \"%2$@\"";
 
@@ -250,6 +294,8 @@
 
 /* System */
 "System" = "系统";
+
+"The client starts a separate process. Disconnecting it does not quit an already open QuickRSS window." = "客户端会启动一个独立进程。断开连接不会关闭已打开的 QuickRSS 窗口。";
 
 "The content you select will be displayed here." = "您选择的内容将显示在这里";
 
@@ -278,3 +324,5 @@
 "more_tools" = "更多工具";
 
 "my_other_apps" = "我的其他应用";
+
+"stdio" = "标准输入/输出";

@@ -1671,6 +1671,18 @@
         }
       }
     },
+    "Args: --mcp" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Argumente: --mcp" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Arguments : --mcp" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Argomenti: --mcp" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "引数: --mcp" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "인수: --mcp" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Аргументы: --mcp" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "参数：--mcp" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "參數：--mcp" } }
+      }
+    },
     "Bulk Export RSS Sources" : {
       "localizations" : {
         "de" : {
@@ -1931,56 +1943,16 @@
         }
       }
     },
-    "Client config" : {
+    "Command" : {
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Client-Konfiguration"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configuration du client"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configurazione client"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "クライアント設定"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "클라이언트 구성"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Конфигурация клиента"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "客户端配置"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "用戶端設定"
-          }
-        }
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Befehl" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Commande" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Comando" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "コマンド" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "명령" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Команда" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "命令" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "命令" } }
       }
     },
     "Confirm" : {
@@ -2347,6 +2319,18 @@
         }
       }
     },
+    "Copy Claude stdio config" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Claude-stdio-Konfiguration kopieren" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Copier la configuration stdio de Claude" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Copia configurazione stdio di Claude" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "Claude の stdio 設定をコピー" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "Claude stdio 구성 복사" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Копировать конфигурацию stdio Claude" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "复制 Claude stdio 配置" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "複製 Claude stdio 設定" } }
+      }
+    },
     "Copy Content" : {
       "localizations" : {
         "de" : {
@@ -2605,6 +2589,18 @@
             "value" : "複製 Grok 設定"
           }
         }
+      }
+    },
+    "Copy Grok stdio config" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Grok-stdio-Konfiguration kopieren" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Copier la configuration stdio de Grok" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Copia configurazione stdio di Grok" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "Grok の stdio 設定をコピー" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "Grok stdio 구성 복사" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Копировать конфигурацию stdio Grok" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "复制 Grok stdio 配置" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "複製 Grok stdio 設定" } }
       }
     },
     "Copy Home Page URL" : {
@@ -3492,6 +3488,59 @@
         }
       }
     },
+    "Feed and unread counts." : {
+      "comment" : "MCP tool",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anzahl der Feeds und ungelesenen Artikel."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre de flux et d’articles non lus."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conteggio dei feed e dei non letti."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フィード数と未読数。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "피드 수와 읽지 않은 글 수."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Количество лент и непрочитанных."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "订阅源数量和未读数。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "訂閱來源數量和未讀數。"
+          }
+        }
+      }
+    },
     "Feedback" : {
       "localizations" : {
         "de" : {
@@ -3802,6 +3851,18 @@
             "value" : "前往設定以授予通知權限"
           }
         }
+      }
+    },
+    "HTTP client config" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "HTTP-Client-Konfiguration" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Configuration du client HTTP" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Configurazione client HTTP" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "HTTP クライアント設定" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "HTTP 클라이언트 구성" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Конфигурация HTTP-клиента" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "HTTP 客户端配置" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "HTTP 用戶端設定" } }
       }
     },
     "iCloud Sync" : {
@@ -4221,6 +4282,112 @@
         }
       }
     },
+    "List articles: latest, unread, today, or starred." : {
+      "comment" : "MCP tool",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artikel auflisten: neueste, ungelesen, heute oder markiert."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liste les articles : récents, non lus, aujourd’hui ou favoris."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elenca gli articoli: recenti, non letti, oggi o preferiti."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記事を一覧表示：最新、未読、今日、スター付き。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "글 목록: 최신, 읽지 않음, 오늘 또는 별표."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Список статей: последние, непрочитанные, сегодня или избранные."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "列出文章：最新、未读、今天或收藏。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "列出文章：最新、未讀、今天或收藏。"
+          }
+        }
+      }
+    },
+    "List subscriptions (id, title, url, unread)." : {
+      "comment" : "MCP tool",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abonnements auflisten (id, Titel, URL, ungelesen)."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liste les abonnements (id, titre, URL, non lus)."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elenca le sottoscrizioni (id, titolo, URL, non letti)."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "購読フィードを一覧表示（id、タイトル、URL、未読数）。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구독 피드 목록(id, 제목, URL, 읽지 않음)."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Список подписок (id, название, URL, непрочитанные)."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "列出订阅源（id、标题、网址、未读数）。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "列出訂閱來源（id、標題、網址、未讀數）。"
+          }
+        }
+      }
+    },
     "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." : {
       "localizations" : {
         "de" : {
@@ -4581,6 +4748,112 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "全部標為已讀"
+          }
+        }
+      }
+    },
+    "Mark an article as read." : {
+      "comment" : "MCP tool",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einen Artikel als gelesen markieren."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marquer un article comme lu."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segna un articolo come letto."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記事を既読にします。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "글을 읽음으로 표시합니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отметить статью как прочитанную."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将文章标为已读。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "將文章標為已讀。"
+          }
+        }
+      }
+    },
+    "Mark an article as unread." : {
+      "comment" : "MCP tool",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einen Artikel als ungelesen markieren."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marquer un article comme non lu."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segna un articolo come non letto."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記事を未読にします。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "글을 읽지 않음으로 표시합니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отметить статью как непрочитанную."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将文章标为未读。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "將文章標為未讀。"
           }
         }
       }
@@ -5325,6 +5598,112 @@
         }
       }
     },
+    "One article, including stripped text." : {
+      "comment" : "MCP tool",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einen Artikel inklusive Klartext."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un article, avec le texte brut."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un articolo, incluso il testo semplice."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記事を1件取得（プレーンテキスト本文を含む）。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "글 한 편을 가져오며 텍스트 본문을 포함합니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Одна статья, включая очищенный текст."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "获取一篇文章，包含纯文本正文。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取得一篇文章，包含純文字內文。"
+          }
+        }
+      }
+    },
+    "Open an article in QuickRSS." : {
+      "comment" : "MCP tool",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einen Artikel in QuickRSS öffnen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvre un article dans QuickRSS."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apre un articolo in QuickRSS."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QuickRSS で記事を開きます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QuickRSS에서 글을 엽니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть статью в QuickRSS."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 QuickRSS 中打开文章。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 QuickRSS 中開啟文章。"
+          }
+        }
+      }
+    },
     "Open Feed in browser" : {
       "localizations" : {
         "de" : {
@@ -5949,6 +6328,112 @@
         }
       }
     },
+    "Refresh one feed, or all feeds if feed_id is omitted." : {
+      "comment" : "MCP tool",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einen Feed aktualisieren, oder alle, wenn feed_id fehlt."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualise un flux, ou tous les flux si feed_id est omis."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiorna un feed, o tutti se feed_id è omesso."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "指定フィードを更新。feed_id を省略するとすべて更新。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지정한 피드를 새로 고칩니다. feed_id를 생략하면 전체를 새로 고칩니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обновить одну ленту или все, если feed_id не указан."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刷新指定订阅源；省略 feed_id 则刷新全部。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新整理指定訂閱來源；省略 feed_id 則重新整理全部。"
+          }
+        }
+      }
+    },
+    "Remove the star from an article." : {
+      "comment" : "MCP tool",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markierung eines Artikels entfernen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retirer un article des favoris."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rimuovi un articolo dai preferiti."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記事のスターを外します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "글의 별표를 해제합니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Убрать статью из избранного."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消收藏文章。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消收藏文章。"
+          }
+        }
+      }
+    },
     "Rename" : {
       "localizations" : {
         "de" : {
@@ -6153,6 +6638,59 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "執行中"
+          }
+        }
+      }
+    },
+    "Search title, summary, and content." : {
+      "comment" : "MCP tool",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titel, Zusammenfassung und Inhalt durchsuchen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recherche dans le titre, le résumé et le contenu."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerca in titolo, riassunto e contenuto."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タイトル、要約、本文を検索。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "제목, 요약, 본문을 검색합니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поиск по заголовку, краткому описанию и тексту."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按标题、摘要和正文搜索。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "依標題、摘要和內文搜尋。"
           }
         }
       }
@@ -6417,6 +6955,59 @@
         }
       }
     },
+    "Star an article." : {
+      "comment" : "MCP tool",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einen Artikel markieren."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter un article aux favoris."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi un articolo ai preferiti."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記事にスターを付けます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "글에 별표를 답니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добавить статью в избранное."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收藏文章。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收藏文章。"
+          }
+        }
+      }
+    },
     "Starred" : {
       "localizations" : {
         "de" : {
@@ -6521,6 +7112,18 @@
         }
       }
     },
+    "stdio" : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Standard-Ein-/Ausgabe" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Entrée/sortie standard" } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Input/output standard" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "標準入出力" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "표준 입출력" } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Стандартный ввод-вывод" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "标准输入/输出" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "標準輸入／輸出" } }
+      }
+    },
     "Stopped" : {
       "localizations" : {
         "de" : {
@@ -6569,6 +7172,59 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已停止"
+          }
+        }
+      }
+    },
+    "Subscribe to an RSS/Atom URL." : {
+      "comment" : "MCP tool",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einen RSS/Atom-Feed abonnieren."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "S’abonner à une URL RSS/Atom."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iscriviti a un URL RSS/Atom."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RSS/Atom の URL を購読します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RSS/Atom URL을 구독합니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подписаться на URL RSS/Atom."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通过 RSS/Atom 网址添加订阅。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "透過 RSS/Atom 網址新增訂閱。"
           }
         }
       }
@@ -6792,6 +7448,18 @@
             "value" : "系統"
           }
         }
+      }
+    },
+    "The client starts a separate process. Disconnecting it does not quit an already open QuickRSS window." : {
+      "localizations" : {
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Der Client startet einen separaten Prozess. Durch das Trennen der Verbindung wird ein bereits geöffnetes QuickRSS-Fenster nicht geschlossen." } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Le client démarre un processus distinct. La déconnexion ne ferme pas une fenêtre QuickRSS déjà ouverte." } },
+        "it" : { "stringUnit" : { "state" : "translated", "value" : "Il client avvia un processo separato. La disconnessione non chiude una finestra di QuickRSS già aperta." } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "クライアントは別のプロセスを起動します。切断しても、すでに開いている QuickRSS ウインドウは閉じません。" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "클라이언트는 별도의 프로세스를 시작합니다. 연결을 끊어도 이미 열려 있는 QuickRSS 창은 닫히지 않습니다." } },
+        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Клиент запускает отдельный процесс. Отключение не закрывает уже открытое окно QuickRSS." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "客户端会启动一个独立进程。断开连接不会关闭已打开的 QuickRSS 窗口。" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "用戶端會啟動一個獨立程序。中斷連線不會關閉已開啟的 QuickRSS 視窗。" } }
       }
     },
     "The content you select will be displayed here." : {

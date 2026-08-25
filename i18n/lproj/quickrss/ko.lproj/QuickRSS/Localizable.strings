@@ -58,6 +58,8 @@
 
 "Are you sure you want to delete the local article \"%@\"?" = "로컬 기사 \"%@\"을(를) 삭제할까요?";
 
+"Args: --mcp" = "인수: --mcp";
+
 "Bulk Export RSS Sources" = "RSS 소스 일괄 내보내기";
 
 "Bulk Import RSS Sources" = "RSS 소스 일괄 가져오기";
@@ -68,7 +70,7 @@
 
 "Clear all data from the source" = "소스의 모든 데이터 삭제";
 
-"Client config" = "클라이언트 구성";
+"Command" = "명령";
 
 "Confirm" = "확인";
 
@@ -84,6 +86,8 @@
 
 "Copy Claude config" = "Claude 구성 복사";
 
+"Copy Claude stdio config" = "Claude stdio 구성 복사";
+
 "Copy Content" = "내용 복사";
 
 "Copy Cursor config" = "Cursor 구성 복사";
@@ -93,6 +97,8 @@
 "Copy Feed URL" = "피드 URL 복사";
 
 "Copy Grok config" = "Grok 구성 복사";
+
+"Copy Grok stdio config" = "Grok stdio 구성 복사";
 
 "Copy Home Page URL" = "홈페이지 URL 복사";
 
@@ -129,6 +135,9 @@
 
 "Failed to fetch RSS feed" = "RSS 피드를 가져오지 못했습니다";
 
+/* MCP tool */
+"Feed and unread counts." = "피드 수와 읽지 않은 글 수.";
+
 "Feedback" = "피드백";
 
 "Feeds" = "피드";
@@ -140,6 +149,8 @@
 "Generate Token" = "토큰 생성";
 
 "Go to Settings to grant notification permissions" = "설정에서 알림 권한을 허용하세요";
+
+"HTTP client config" = "HTTP 클라이언트 구성";
 
 "Import Feeds (.json)" = "피드 가져오기(.json)";
 
@@ -155,6 +166,12 @@
 
 /* Light */
 "Light" = "라이트";
+
+/* MCP tool */
+"List articles: latest, unread, today, or starred." = "글 목록: 최신, 읽지 않음, 오늘 또는 별표.";
+
+/* MCP tool */
+"List subscriptions (id, title, url, unread)." = "구독 피드 목록(id, 제목, URL, 읽지 않음).";
 
 "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "127.0.0.1에서만 수신합니다. AI 클라이언트가 연결되어 있는 동안 QuickRSS를 계속 열어 두어야 합니다.";
 
@@ -180,6 +197,12 @@
 
 "Mark As Unstarred" = "별표 해제";
 
+/* MCP tool */
+"Mark an article as read." = "글을 읽음으로 표시합니다.";
+
+/* MCP tool */
+"Mark an article as unread." = "글을 읽지 않음으로 표시합니다.";
+
 "Move to Top" = "맨 위로 이동";
 
 "My Apps" = "내 앱";
@@ -194,9 +217,15 @@
 
 "OK" = "확인";
 
+/* MCP tool */
+"One article, including stripped text." = "글 한 편을 가져오며 텍스트 본문을 포함합니다.";
+
 "Open Feed in browser" = "브라우저에서 피드 열기";
 
 "Open Home Page in browser" = "브라우저에서 홈페이지 열기";
+
+/* MCP tool */
+"Open an article in QuickRSS." = "QuickRSS에서 글을 엽니다.";
 
 "Open in Browser" = "브라우저에서 열기";
 
@@ -220,11 +249,20 @@
 
 "Refresh Feed" = "피드 새로 고침";
 
+/* MCP tool */
+"Refresh one feed, or all feeds if feed_id is omitted." = "지정한 피드를 새로 고칩니다. feed_id를 생략하면 전체를 새로 고칩니다.";
+
+/* MCP tool */
+"Remove the star from an article." = "글의 별표를 해제합니다.";
+
 "Rename" = "이름 변경";
 
 "Rename Feed" = "피드 이름 변경";
 
 "Running" = "실행 중";
+
+/* MCP tool */
+"Search title, summary, and content." = "제목, 요약, 본문을 검색합니다.";
 
 "Select .%@ Feed" = ".%@ 피드 선택";
 
@@ -236,11 +274,17 @@
 
 "Social Accounts" = "소셜 계정";
 
+/* MCP tool */
+"Star an article." = "글에 별표를 답니다.";
+
 "Starred" = "별표";
 
 "Start" = "시작";
 
 "Stopped" = "중지됨";
+
+/* MCP tool */
+"Subscribe to an RSS/Atom URL." = "RSS/Atom URL을 구독합니다.";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "피드 %1$lld개를 \"%2$@\"(으)로 내보냈습니다";
 
@@ -250,6 +294,8 @@
 
 /* System */
 "System" = "시스템";
+
+"The client starts a separate process. Disconnecting it does not quit an already open QuickRSS window." = "클라이언트는 별도의 프로세스를 시작합니다. 연결을 끊어도 이미 열려 있는 QuickRSS 창은 닫히지 않습니다.";
 
 "The content you select will be displayed here." = "선택한 내용이 여기에 표시됩니다.";
 
@@ -278,3 +324,5 @@
 "more_tools" = "더 많은 도구";
 
 "my_other_apps" = "내 다른 앱";
+
+"stdio" = "표준 입출력";

@@ -58,6 +58,8 @@
 
 "Are you sure you want to delete the local article \"%@\"?" = "Удалить локальную статью «%@»?";
 
+"Args: --mcp" = "Аргументы: --mcp";
+
 "Bulk Export RSS Sources" = "Пакетный экспорт RSS";
 
 "Bulk Import RSS Sources" = "Пакетный импорт RSS";
@@ -68,7 +70,7 @@
 
 "Clear all data from the source" = "Очистить все данные источников";
 
-"Client config" = "Конфигурация клиента";
+"Command" = "Команда";
 
 "Confirm" = "Подтвердить";
 
@@ -84,6 +86,8 @@
 
 "Copy Claude config" = "Копировать конфигурацию Claude";
 
+"Copy Claude stdio config" = "Копировать конфигурацию stdio Claude";
+
 "Copy Content" = "Копировать содержимое";
 
 "Copy Cursor config" = "Копировать конфигурацию Cursor";
@@ -93,6 +97,8 @@
 "Copy Feed URL" = "Копировать URL ленты";
 
 "Copy Grok config" = "Копировать конфигурацию Grok";
+
+"Copy Grok stdio config" = "Копировать конфигурацию stdio Grok";
 
 "Copy Home Page URL" = "Копировать URL сайта";
 
@@ -129,6 +135,9 @@
 
 "Failed to fetch RSS feed" = "Не удалось загрузить RSS-ленту";
 
+/* MCP tool */
+"Feed and unread counts." = "Количество лент и непрочитанных.";
+
 "Feedback" = "Отзыв";
 
 "Feeds" = "Ленты";
@@ -140,6 +149,8 @@
 "Generate Token" = "Создать токен";
 
 "Go to Settings to grant notification permissions" = "Разрешите уведомления в Настройках";
+
+"HTTP client config" = "Конфигурация HTTP-клиента";
 
 "Import Feeds (.json)" = "Импорт лент (.json)";
 
@@ -155,6 +166,12 @@
 
 /* Light */
 "Light" = "Светлая";
+
+/* MCP tool */
+"List articles: latest, unread, today, or starred." = "Список статей: последние, непрочитанные, сегодня или избранные.";
+
+/* MCP tool */
+"List subscriptions (id, title, url, unread)." = "Список подписок (id, название, URL, непрочитанные).";
 
 "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Прослушивает только 127.0.0.1. QuickRSS должен оставаться открытым, пока подключены клиенты ИИ.";
 
@@ -180,6 +197,12 @@
 
 "Mark As Unstarred" = "Убрать из избранного";
 
+/* MCP tool */
+"Mark an article as read." = "Отметить статью как прочитанную.";
+
+/* MCP tool */
+"Mark an article as unread." = "Отметить статью как непрочитанную.";
+
 "Move to Top" = "Переместить наверх";
 
 "My Apps" = "Мои приложения";
@@ -194,9 +217,15 @@
 
 "OK" = "OK";
 
+/* MCP tool */
+"One article, including stripped text." = "Одна статья, включая очищенный текст.";
+
 "Open Feed in browser" = "Открыть ленту в браузере";
 
 "Open Home Page in browser" = "Открыть сайт в браузере";
+
+/* MCP tool */
+"Open an article in QuickRSS." = "Открыть статью в QuickRSS.";
 
 "Open in Browser" = "Открыть в браузере";
 
@@ -220,11 +249,20 @@
 
 "Refresh Feed" = "Обновить ленту";
 
+/* MCP tool */
+"Refresh one feed, or all feeds if feed_id is omitted." = "Обновить одну ленту или все, если feed_id не указан.";
+
+/* MCP tool */
+"Remove the star from an article." = "Убрать статью из избранного.";
+
 "Rename" = "Переименовать";
 
 "Rename Feed" = "Переименовать ленту";
 
 "Running" = "Работает";
+
+/* MCP tool */
+"Search title, summary, and content." = "Поиск по заголовку, краткому описанию и тексту.";
 
 "Select .%@ Feed" = "Выберите ленту .%@";
 
@@ -236,11 +274,17 @@
 
 "Social Accounts" = "Соцсети";
 
+/* MCP tool */
+"Star an article." = "Добавить статью в избранное.";
+
 "Starred" = "Избранное";
 
 "Start" = "Запустить";
 
 "Stopped" = "Остановлен";
+
+/* MCP tool */
+"Subscribe to an RSS/Atom URL." = "Подписаться на URL RSS/Atom.";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "Экспортировано лент: %1$lld → «%2$@»";
 
@@ -250,6 +294,8 @@
 
 /* System */
 "System" = "Система";
+
+"The client starts a separate process. Disconnecting it does not quit an already open QuickRSS window." = "Клиент запускает отдельный процесс. Отключение не закрывает уже открытое окно QuickRSS.";
 
 "The content you select will be displayed here." = "Выбранное содержимое появится здесь.";
 
@@ -278,3 +324,5 @@
 "more_tools" = "Другие инструменты";
 
 "my_other_apps" = "Другие мои приложения";
+
+"stdio" = "Стандартный ввод-вывод";

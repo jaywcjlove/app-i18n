@@ -58,6 +58,8 @@
 
 "Are you sure you want to delete the local article \"%@\"?" = "確定要刪除本機文章「%@」嗎？";
 
+"Args: --mcp" = "參數：--mcp";
+
 "Bulk Export RSS Sources" = "批次匯出 RSS 來源";
 
 "Bulk Import RSS Sources" = "批次匯入 RSS 來源";
@@ -68,7 +70,7 @@
 
 "Clear all data from the source" = "清除來源的所有資料";
 
-"Client config" = "用戶端設定";
+"Command" = "命令";
 
 "Confirm" = "確認";
 
@@ -84,6 +86,8 @@
 
 "Copy Claude config" = "複製 Claude 設定";
 
+"Copy Claude stdio config" = "複製 Claude stdio 設定";
+
 "Copy Content" = "複製內容";
 
 "Copy Cursor config" = "複製 Cursor 設定";
@@ -93,6 +97,8 @@
 "Copy Feed URL" = "複製訂閱來源 URL";
 
 "Copy Grok config" = "複製 Grok 設定";
+
+"Copy Grok stdio config" = "複製 Grok stdio 設定";
 
 "Copy Home Page URL" = "複製首頁 URL";
 
@@ -129,6 +135,9 @@
 
 "Failed to fetch RSS feed" = "無法取得 RSS 來源";
 
+/* MCP tool */
+"Feed and unread counts." = "訂閱來源數量和未讀數。";
+
 "Feedback" = "意見回饋";
 
 "Feeds" = "訂閱來源";
@@ -140,6 +149,8 @@
 "Generate Token" = "產生權杖";
 
 "Go to Settings to grant notification permissions" = "前往設定以授予通知權限";
+
+"HTTP client config" = "HTTP 用戶端設定";
 
 "Import Feeds (.json)" = "匯入訂閱來源（.json）";
 
@@ -155,6 +166,12 @@
 
 /* Light */
 "Light" = "淺色";
+
+/* MCP tool */
+"List articles: latest, unread, today, or starred." = "列出文章：最新、未讀、今天或收藏。";
+
+/* MCP tool */
+"List subscriptions (id, title, url, unread)." = "列出訂閱來源（id、標題、網址、未讀數）。";
 
 "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "僅監聽 127.0.0.1。AI 用戶端連線期間必須保持 QuickRSS 開啟。";
 
@@ -180,6 +197,12 @@
 
 "Mark As Unstarred" = "取消收藏";
 
+/* MCP tool */
+"Mark an article as read." = "將文章標為已讀。";
+
+/* MCP tool */
+"Mark an article as unread." = "將文章標為未讀。";
+
 "Move to Top" = "移到最上方";
 
 "My Apps" = "我的 App";
@@ -194,9 +217,15 @@
 
 "OK" = "好";
 
+/* MCP tool */
+"One article, including stripped text." = "取得一篇文章，包含純文字內文。";
+
 "Open Feed in browser" = "在瀏覽器中開啟訂閱來源";
 
 "Open Home Page in browser" = "在瀏覽器中開啟首頁";
+
+/* MCP tool */
+"Open an article in QuickRSS." = "在 QuickRSS 中開啟文章。";
 
 "Open in Browser" = "在瀏覽器中開啟";
 
@@ -220,11 +249,20 @@
 
 "Refresh Feed" = "重新整理訂閱來源";
 
+/* MCP tool */
+"Refresh one feed, or all feeds if feed_id is omitted." = "重新整理指定訂閱來源；省略 feed_id 則重新整理全部。";
+
+/* MCP tool */
+"Remove the star from an article." = "取消收藏文章。";
+
 "Rename" = "重新命名";
 
 "Rename Feed" = "重新命名訂閱";
 
 "Running" = "執行中";
+
+/* MCP tool */
+"Search title, summary, and content." = "依標題、摘要和內文搜尋。";
 
 "Select .%@ Feed" = "選擇 .%@ 訂閱檔案";
 
@@ -236,11 +274,17 @@
 
 "Social Accounts" = "社交帳號";
 
+/* MCP tool */
+"Star an article." = "收藏文章。";
+
 "Starred" = "收藏";
 
 "Start" = "開始";
 
 "Stopped" = "已停止";
+
+/* MCP tool */
+"Subscribe to an RSS/Atom URL." = "透過 RSS/Atom 網址新增訂閱。";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "已成功將 %1$lld 個訂閱匯出到「%2$@」";
 
@@ -250,6 +294,8 @@
 
 /* System */
 "System" = "系統";
+
+"The client starts a separate process. Disconnecting it does not quit an already open QuickRSS window." = "用戶端會啟動一個獨立程序。中斷連線不會關閉已開啟的 QuickRSS 視窗。";
 
 "The content you select will be displayed here." = "你選取的內容會顯示在這裡";
 
@@ -278,3 +324,5 @@
 "more_tools" = "更多工具";
 
 "my_other_apps" = "我的其他 App";
+
+"stdio" = "標準輸入／輸出";

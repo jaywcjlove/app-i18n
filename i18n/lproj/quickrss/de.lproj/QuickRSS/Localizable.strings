@@ -58,6 +58,8 @@
 
 "Are you sure you want to delete the local article \"%@\"?" = "Möchtest du den lokalen Artikel \"%@\" wirklich löschen?";
 
+"Args: --mcp" = "Argumente: --mcp";
+
 "Bulk Export RSS Sources" = "RSS-Quellen gesammelt exportieren";
 
 "Bulk Import RSS Sources" = "RSS-Quellen gesammelt importieren";
@@ -68,7 +70,7 @@
 
 "Clear all data from the source" = "Alle Daten aus der Quelle löschen";
 
-"Client config" = "Client-Konfiguration";
+"Command" = "Befehl";
 
 "Confirm" = "Bestätigen";
 
@@ -84,6 +86,8 @@
 
 "Copy Claude config" = "Claude-Konfiguration kopieren";
 
+"Copy Claude stdio config" = "Claude-stdio-Konfiguration kopieren";
+
 "Copy Content" = "Inhalt kopieren";
 
 "Copy Cursor config" = "Cursor-Konfiguration kopieren";
@@ -93,6 +97,8 @@
 "Copy Feed URL" = "Feed-URL kopieren";
 
 "Copy Grok config" = "Grok-Konfiguration kopieren";
+
+"Copy Grok stdio config" = "Grok-stdio-Konfiguration kopieren";
 
 "Copy Home Page URL" = "URL der Startseite kopieren";
 
@@ -129,6 +135,9 @@
 
 "Failed to fetch RSS feed" = "RSS-Feed konnte nicht abgerufen werden";
 
+/* MCP tool */
+"Feed and unread counts." = "Anzahl der Feeds und ungelesenen Artikel.";
+
 "Feedback" = "Feedback";
 
 "Feeds" = "Feeds";
@@ -140,6 +149,8 @@
 "Generate Token" = "Token generieren";
 
 "Go to Settings to grant notification permissions" = "Öffne die Einstellungen, um Benachrichtigungen zu erlauben";
+
+"HTTP client config" = "HTTP-Client-Konfiguration";
 
 "Import Feeds (.json)" = "Feeds importieren (.json)";
 
@@ -155,6 +166,12 @@
 
 /* Light */
 "Light" = "Hell";
+
+/* MCP tool */
+"List articles: latest, unread, today, or starred." = "Artikel auflisten: neueste, ungelesen, heute oder markiert.";
+
+/* MCP tool */
+"List subscriptions (id, title, url, unread)." = "Abonnements auflisten (id, Titel, URL, ungelesen).";
 
 "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Hört nur auf 127.0.0.1. QuickRSS muss geöffnet bleiben, solange KI-Clients verbunden sind.";
 
@@ -180,6 +197,12 @@
 
 "Mark As Unstarred" = "Favoritenmarkierung entfernen";
 
+/* MCP tool */
+"Mark an article as read." = "Einen Artikel als gelesen markieren.";
+
+/* MCP tool */
+"Mark an article as unread." = "Einen Artikel als ungelesen markieren.";
+
 "Move to Top" = "Nach oben verschieben";
 
 "My Apps" = "Meine Apps";
@@ -194,9 +217,15 @@
 
 "OK" = "OK";
 
+/* MCP tool */
+"One article, including stripped text." = "Einen Artikel inklusive Klartext.";
+
 "Open Feed in browser" = "Feed im Browser öffnen";
 
 "Open Home Page in browser" = "Startseite im Browser öffnen";
+
+/* MCP tool */
+"Open an article in QuickRSS." = "Einen Artikel in QuickRSS öffnen.";
 
 "Open in Browser" = "Im Browser öffnen";
 
@@ -220,11 +249,20 @@
 
 "Refresh Feed" = "Feed aktualisieren";
 
+/* MCP tool */
+"Refresh one feed, or all feeds if feed_id is omitted." = "Einen Feed aktualisieren, oder alle, wenn feed_id fehlt.";
+
+/* MCP tool */
+"Remove the star from an article." = "Markierung eines Artikels entfernen.";
+
 "Rename" = "Umbenennen";
 
 "Rename Feed" = "Feed umbenennen";
 
 "Running" = "Wird ausgeführt";
+
+/* MCP tool */
+"Search title, summary, and content." = "Titel, Zusammenfassung und Inhalt durchsuchen.";
 
 "Select .%@ Feed" = ".%@-Feed auswählen";
 
@@ -236,11 +274,17 @@
 
 "Social Accounts" = "Soziale Konten";
 
+/* MCP tool */
+"Star an article." = "Einen Artikel markieren.";
+
 "Starred" = "Favoriten";
 
 "Start" = "Starten";
 
 "Stopped" = "Angehalten";
+
+/* MCP tool */
+"Subscribe to an RSS/Atom URL." = "Einen RSS/Atom-Feed abonnieren.";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "%1$lld Feed(s) erfolgreich nach \"%2$@\" exportiert";
 
@@ -250,6 +294,8 @@
 
 /* System */
 "System" = "System";
+
+"The client starts a separate process. Disconnecting it does not quit an already open QuickRSS window." = "Der Client startet einen separaten Prozess. Durch das Trennen der Verbindung wird ein bereits geöffnetes QuickRSS-Fenster nicht geschlossen.";
 
 "The content you select will be displayed here." = "Der ausgewählte Inhalt wird hier angezeigt.";
 
@@ -278,3 +324,5 @@
 "more_tools" = "Weitere Tools";
 
 "my_other_apps" = "Meine anderen Apps";
+
+"stdio" = "Standard-Ein-/Ausgabe";

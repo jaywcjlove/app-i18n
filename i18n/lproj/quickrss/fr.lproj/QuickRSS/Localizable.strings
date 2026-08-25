@@ -58,6 +58,8 @@
 
 "Are you sure you want to delete the local article \"%@\"?" = "Supprimer l’article local « %@ » ?";
 
+"Args: --mcp" = "Arguments : --mcp";
+
 "Bulk Export RSS Sources" = "Exporter les flux RSS en lot";
 
 "Bulk Import RSS Sources" = "Importer les flux RSS en lot";
@@ -68,7 +70,7 @@
 
 "Clear all data from the source" = "Effacer toutes les données des sources";
 
-"Client config" = "Configuration du client";
+"Command" = "Commande";
 
 "Confirm" = "Confirmer";
 
@@ -84,6 +86,8 @@
 
 "Copy Claude config" = "Copier la configuration Claude";
 
+"Copy Claude stdio config" = "Copier la configuration stdio de Claude";
+
 "Copy Content" = "Copier le contenu";
 
 "Copy Cursor config" = "Copier la configuration Cursor";
@@ -93,6 +97,8 @@
 "Copy Feed URL" = "Copier l’URL du flux";
 
 "Copy Grok config" = "Copier la configuration Grok";
+
+"Copy Grok stdio config" = "Copier la configuration stdio de Grok";
 
 "Copy Home Page URL" = "Copier l’URL de la page d’accueil";
 
@@ -129,6 +135,9 @@
 
 "Failed to fetch RSS feed" = "Échec du chargement du flux RSS";
 
+/* MCP tool */
+"Feed and unread counts." = "Nombre de flux et d’articles non lus.";
+
 "Feedback" = "Commentaires";
 
 "Feeds" = "Flux";
@@ -140,6 +149,8 @@
 "Generate Token" = "Générer un jeton";
 
 "Go to Settings to grant notification permissions" = "Autorisez les notifications dans Réglages";
+
+"HTTP client config" = "Configuration du client HTTP";
 
 "Import Feeds (.json)" = "Importer les flux (.json)";
 
@@ -155,6 +166,12 @@
 
 /* Light */
 "Light" = "Clair";
+
+/* MCP tool */
+"List articles: latest, unread, today, or starred." = "Liste les articles : récents, non lus, aujourd’hui ou favoris.";
+
+/* MCP tool */
+"List subscriptions (id, title, url, unread)." = "Liste les abonnements (id, titre, URL, non lus).";
 
 "Listens on 127.0.0.1 only. QuickRSS must stay open while AI clients are connected." = "Écoute uniquement sur 127.0.0.1. QuickRSS doit rester ouvert tant que des clients d’IA sont connectés.";
 
@@ -180,6 +197,12 @@
 
 "Mark As Unstarred" = "Retirer des favoris";
 
+/* MCP tool */
+"Mark an article as read." = "Marquer un article comme lu.";
+
+/* MCP tool */
+"Mark an article as unread." = "Marquer un article comme non lu.";
+
 "Move to Top" = "Déplacer en haut";
 
 "My Apps" = "Mes apps";
@@ -194,9 +217,15 @@
 
 "OK" = "OK";
 
+/* MCP tool */
+"One article, including stripped text." = "Un article, avec le texte brut.";
+
 "Open Feed in browser" = "Ouvrir le flux dans le navigateur";
 
 "Open Home Page in browser" = "Ouvrir la page d’accueil dans le navigateur";
+
+/* MCP tool */
+"Open an article in QuickRSS." = "Ouvre un article dans QuickRSS.";
 
 "Open in Browser" = "Ouvrir dans le navigateur";
 
@@ -220,11 +249,20 @@
 
 "Refresh Feed" = "Actualiser le flux";
 
+/* MCP tool */
+"Refresh one feed, or all feeds if feed_id is omitted." = "Actualise un flux, ou tous les flux si feed_id est omis.";
+
+/* MCP tool */
+"Remove the star from an article." = "Retirer un article des favoris.";
+
 "Rename" = "Renommer";
 
 "Rename Feed" = "Renommer le flux";
 
 "Running" = "En cours d’exécution";
+
+/* MCP tool */
+"Search title, summary, and content." = "Recherche dans le titre, le résumé et le contenu.";
 
 "Select .%@ Feed" = "Choisir un flux .%@";
 
@@ -236,11 +274,17 @@
 
 "Social Accounts" = "Comptes sociaux";
 
+/* MCP tool */
+"Star an article." = "Ajouter un article aux favoris.";
+
 "Starred" = "Favoris";
 
 "Start" = "Démarrer";
 
 "Stopped" = "Arrêté";
+
+/* MCP tool */
+"Subscribe to an RSS/Atom URL." = "S’abonner à une URL RSS/Atom.";
 
 "Successfully exported \"%lld\" feeds to \"%@\"" = "%1$lld flux exportés vers « %2$@ »";
 
@@ -250,6 +294,8 @@
 
 /* System */
 "System" = "Système";
+
+"The client starts a separate process. Disconnecting it does not quit an already open QuickRSS window." = "Le client démarre un processus distinct. La déconnexion ne ferme pas une fenêtre QuickRSS déjà ouverte.";
 
 "The content you select will be displayed here." = "Le contenu sélectionné s’affichera ici.";
 
@@ -278,3 +324,5 @@
 "more_tools" = "Plus d’outils";
 
 "my_other_apps" = "Mes autres apps";
+
+"stdio" = "Entrée/sortie standard";
