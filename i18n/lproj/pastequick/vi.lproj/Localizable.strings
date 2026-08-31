@@ -1,0 +1,264 @@
+" " = " ";
+
+"%@" = "%@";
+
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Thêm **%4$@** và kiểm tra";
+
+"%@ Dark Mode" = "%@ Chế độ tối";
+
+"%@ Follow System" = "%@ Theo hệ thống";
+
+"%@ Light Mode" = "%@ Chế độ sáng";
+
+"%@ Needs Access" = "%@ Cần quyền truy cập";
+
+"%@%@" = "%1$@%2$@";
+
+"%lld copies recorded." = "Đã ghi %lld bản sao.";
+
+"%lld history records, [Settings](settings) to display more." = "%lld bản ghi lịch sử, [Cài đặt](settings) để hiển thị thêm.";
+
+"**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "Quyền **%@** đã được bật. **%@** giờ có thể dán bằng phím tắt và chèn văn bản vào các trường nhập.";
+
+"About" = "Giới thiệu";
+
+"About %@" = "Giới thiệu về %@";
+
+"Acknowledgments" = "Lời cảm ơn";
+
+"Add Application" = "Thêm ứng dụng";
+
+"Add to Favorites" = "Thêm vào mục yêu thích";
+
+"After deselection, this type of clipboard data will no longer be recorded." = "Sau khi bỏ chọn, loại dữ liệu khay nhớ tạm này sẽ không còn được ghi lại.";
+
+"After disabling, character sets containing only Unicode General Category Z*, U+000A to U+000D, and U+0085 will no longer be recorded." = "Sau khi tắt, các tập ký tự chỉ chứa Unicode General Category Z*, U+000A đến U+000D và U+0085 sẽ không còn được ghi lại.";
+
+"App Excluding" = "Loại trừ ứng dụng";
+
+"Appearance" = "Giao diện";
+
+"Application Excluded" = "Ứng dụng bị loại trừ";
+
+"Are you sure you want to clear your clipboard history?" = "Bạn có chắc muốn xóa lịch sử khay nhớ tạm không?";
+
+"Cancel" = "Hủy";
+
+"Changelog" = "Nhật ký thay đổi";
+
+"Clear Clipboard History" = "Xóa lịch sử khay nhớ tạm";
+
+"Clear History" = "Xóa lịch sử";
+
+"Clear History On Exit" = "Xóa lịch sử khi thoát";
+
+"Clipboard" = "Khay nhớ tạm";
+
+"Clipboard Options" = "Tùy chọn khay nhớ tạm";
+
+"Clipboard Tracking" = "Theo dõi khay nhớ tạm";
+
+"Copy" = "Sao chép";
+
+"Copy to Plain Text" = "Sao chép dạng văn bản thuần";
+
+/* Dark */
+"Dark" = "Tối";
+
+"Day" = "Ngày";
+
+"Delete" = "Xóa";
+
+"Delete Clipboard History" = "Xóa lịch sử khay nhớ tạm";
+
+"Don't ask again" = "Không hỏi lại";
+
+"Enable Preview Image" = "Bật xem trước hình ảnh";
+
+"Enable or disable clipboard history tracking. When disabled, the feature will no longer be available." = "Bật hoặc tắt theo dõi lịch sử khay nhớ tạm. Khi tắt, tính năng này sẽ không còn khả dụng.";
+
+"Exclude apps to prevent %@ copying their contents." = "Loại trừ các ứng dụng để ngăn %@ sao chép nội dung của chúng.";
+
+"Forever" = "Vĩnh viễn";
+
+"General" = "Chung";
+
+"Grant" = "Cấp quyền";
+
+"Granted" = "Đã cấp quyền";
+
+"Half A Year" = "Nửa năm";
+
+"Hide Dock Icon" = "Ẩn biểu tượng Dock";
+
+"If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images." = "Nếu lượng dữ liệu hiển thị trong danh sách quá lớn, việc tắt xem trước hình ảnh có thể cải thiện hiệu suất. Bật xem trước hình ảnh trong danh sách cho phép bạn xem các hình ảnh đã sao chép.";
+
+"If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "Nếu giới hạn lưu trữ vượt quá lượng dữ liệu hiện có, %@ sẽ giảm dần phần dư thừa thay vì xóa toàn bộ dữ liệu thừa cùng lúc.";
+
+"Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "Dán bằng phím tắt hoặc chèn văn bản vào trường nhập cần quyền truy cập **%@**.";
+
+"Language" = "Ngôn ngữ";
+
+"Launch at login" = "Tự động khởi chạy khi đăng nhập";
+
+/* Light */
+"Light" = "Sáng";
+
+"Limit %@'s functions in the specified apps." = "Giới hạn chức năng của %@ trong các ứng dụng đã chỉ định.";
+
+"Link Cleanup Options" = "Tùy chọn làm sạch liên kết";
+
+"List Count: (%lld)" = "Số lượng danh sách: (%lld)";
+
+"Main Window" = "Cửa sổ chính";
+
+"Month" = "Tháng";
+
+"More Apps by Me" = "Các ứng dụng khác của tôi";
+
+"No Application Excluded" = "Không có ứng dụng bị loại trừ";
+
+"No content" = "Không có nội dung";
+
+"No favorites in clipboard history" = "Không có mục yêu thích trong lịch sử khay nhớ tạm";
+
+"No history in clipboard" = "Không có lịch sử trong khay nhớ tạm";
+
+"No text found in the image" = "Không tìm thấy văn bản trong hình ảnh";
+
+"Open %@" = "Mở %@";
+
+"Open Main Window" = "Mở cửa sổ chính";
+
+"Open Quick Past Window" = "Mở cửa sổ Dán nhanh";
+
+"Open Search Window" = "Mở cửa sổ tìm kiếm";
+
+"Open file location" = "Mở vị trí tệp";
+
+"Open in Browser" = "Mở trong trình duyệt";
+
+"Paste Shortcut" = "Phím tắt dán";
+
+"Pin Main Window" = "Ghim cửa sổ chính";
+
+"Pin Window" = "Ghim cửa sổ";
+
+"Preservation Period" = "Thời gian lưu giữ";
+
+"Privacy & Security" = "Quyền riêng tư và bảo mật";
+
+"Quarter" = "Quý";
+
+"Quit %@" = "Thoát %@";
+
+"Recognize text in the image" = "Nhận dạng văn bản trong hình ảnh";
+
+"Recognizing…" = "Đang nhận dạng…";
+
+"Remove Application" = "Xóa ứng dụng";
+
+"Remove Favorites" = "Xóa khỏi mục yêu thích";
+
+"Remove parameters when copying or inserting links" = "Xóa tham số khi sao chép hoặc chèn liên kết";
+
+"Save Invisible Text" = "Lưu văn bản vô hình";
+
+"Saved Count" = "Số lượng đã lưu";
+
+"Search %@" = "Tìm kiếm %@";
+
+"Security" = "Bảo mật";
+
+"Select the clipboard content to be recorded" = "Chọn nội dung khay nhớ tạm cần ghi lại";
+
+"Set modifier keys for quick paste: %@" = "Đặt phím bổ trợ để dán nhanh: %@";
+
+"Set the number of lines to display the text in the list." = "Đặt số dòng để hiển thị văn bản trong danh sách.";
+
+"Settings..." = "Cài đặt…";
+
+"Share Image..." = "Chia sẻ hình ảnh…";
+
+"Share Text..." = "Chia sẻ văn bản…";
+
+"Share URL..." = "Chia sẻ URL…";
+
+"Shortcut Key" = "Phím tắt";
+
+"Show App Icon" = "Hiển thị biểu tượng ứng dụng";
+
+"Show Favorite" = "Hiển thị mục yêu thích";
+
+"Show hidden application icons in the clipboard list." = "Hiển thị các biểu tượng ứng dụng bị ẩn trong danh sách khay nhớ tạm.";
+
+"Show/hide favorite %@" = "Hiển thị/ẩn mục yêu thích %@";
+
+"Simply enable clipboard tracking to capture everything you copy." = "Chỉ cần bật theo dõi khay nhớ tạm để ghi lại mọi thứ bạn sao chép.";
+
+"Size: %@ x %@" = "Kích thước: %1$@ x %2$@";
+
+"Switch Category Menu" = "Chuyển đổi menu danh mục";
+
+/* System */
+"System" = "Hệ thống";
+
+"System Settings" = "Cài đặt hệ thống";
+
+"There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "Có tổng cộng %lld mục. Hành động này sẽ xóa vĩnh viễn toàn bộ lịch sử khay nhớ tạm và không thể hoàn tác.";
+
+"Unlock all Features" = "Mở khóa tất cả tính năng";
+
+"Update interval" = "Khoảng thời gian cập nhật";
+
+"Upgrade to VIP, unlock unlimited usage" = "Nâng cấp VIP, mở khóa sử dụng không giới hạn";
+
+"Use %@ shortcuts in the main window to switch between categories." = "Sử dụng phím tắt %@ trong cửa sổ chính để chuyển đổi giữa các danh mục.";
+
+"Version %@ (%@)" = "Phiên bản %1$@ (%2$@)";
+
+"Visible Lines: (%lld)" = "Số dòng hiển thị: (%lld)";
+
+"Week" = "Tuần";
+
+"Year" = "Năm";
+
+"Your generous financial assistance, I have great confidence in keeping %@ healthy and maintaining it actively." = "Với sự hỗ trợ tài chính hào phóng của bạn, tôi rất tự tin giữ cho %@ hoạt động ổn định và được cập nhật liên tục.";
+
+"[Return to list](return2list)" = "[Quay lại danh sách](return2list)";
+
+"[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=PasteQuick) • [Github](https://github.com/jaywcjlove/paste-quick)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=PasteQuick) • [Github](https://github.com/jaywcjlove/paste-quick)";
+
+"all" = "tất cả";
+
+/* command */
+"command ⌘" = "command ⌘";
+
+/* control */
+"control ⌃" = "control ⌃";
+
+/* file */
+"file" = "tệp";
+
+/* folder */
+"folder" = "thư mục";
+
+/* html */
+"html" = "HTML";
+
+/* image */
+"image" = "hình ảnh";
+
+/* none */
+"none" = "không";
+
+/* option */
+"option ⌥" = "option ⌥";
+
+/* text */
+"text" = "văn bản";
+
+/* url */
+"url" = "URL";
+
+"⌘ + 1~6" = "⌘ + 1~6";

@@ -15,6 +15,12 @@
             "value" : ""
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28,6 +34,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : ""
@@ -47,6 +59,64 @@
         }
       }
     },
+    " " : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        }
+      }
+    },
     "[Return to list](return2list)" : {
       "localizations" : {
         "de" : {
@@ -59,6 +129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Retour à la liste](return2list)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Torna all'elenco](return2list)"
           }
         },
         "ja" : {
@@ -77,6 +153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Вернуться к списку](return2list)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Quay lại danh sách](return2list)"
           }
         },
         "zh-Hans" : {
@@ -107,6 +189,12 @@
             "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=PasteQuick) • [Github](https://github.com/jaywcjlove/paste-quick)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=PasteQuick) • [Github](https://github.com/jaywcjlove/paste-quick)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -120,6 +208,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=PasteQuick) • [Github](https://github.com/jaywcjlove/paste-quick)"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=PasteQuick) • [Github](https://github.com/jaywcjlove/paste-quick)"
@@ -153,6 +247,12 @@
             "value" : "L’accès **%1$@** est activé. **%2$@** peut désormais coller avec un raccourci clavier et insérer du texte dans les champs de saisie."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'autorizzazione **%@** è attiva. **%@** ora può incollare con le scorciatoie da tastiera e inserire testo nei campi di input."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -169,6 +269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Доступ **%1$@** включён. **%2$@** теперь может вставлять текст сочетанием клавиш и в поля ввода."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quyền **%@** đã được bật. **%@** giờ có thể dán bằng phím tắt và chèn văn bản vào các trường nhập."
           }
         },
         "zh-Hans" : {
@@ -199,6 +305,12 @@
             "value" : "%@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -212,6 +324,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@"
@@ -251,6 +369,12 @@
             "value" : "%1$@ -> **%2$@** -> **%3$@** -> Ajoutez **%4$@** et activez-le"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ -> **%2$@** -> **%3$@** -> Aggiungi **%4$@** e verifica"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -267,6 +391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ -> **%2$@** -> **%3$@** -> добавьте **%4$@** и включите"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ -> **%2$@** -> **%3$@** -> Thêm **%4$@** và kiểm tra"
           }
         },
         "zh-Hans" : {
@@ -297,6 +427,12 @@
             "value" : "%@ Mode sombre"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Modalità scura"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -313,6 +449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ Тёмный режим"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Chế độ tối"
           }
         },
         "zh-Hans" : {
@@ -343,6 +485,12 @@
             "value" : "%@ Suivre le système"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Segui sistema"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -359,6 +507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ Как в системе"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Theo hệ thống"
           }
         },
         "zh-Hans" : {
@@ -389,6 +543,12 @@
             "value" : "%@ Mode clair"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Modalità chiara"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -405,6 +565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ Светлый режим"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Chế độ sáng"
           }
         },
         "zh-Hans" : {
@@ -435,6 +601,12 @@
             "value" : "%@ a besoin d’un accès"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Richiede accesso"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -451,6 +623,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Для %@ требуется доступ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Cần quyền truy cập"
           }
         },
         "zh-Hans" : {
@@ -487,6 +665,12 @@
             "value" : "%1$@%2$@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@%2$@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -500,6 +684,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@%2$@"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@%2$@"
@@ -533,6 +723,12 @@
             "value" : "%lld copies enregistrées."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld copie registrate."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -549,6 +745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Записано копий: %lld."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã ghi %lld bản sao."
           }
         },
         "zh-Hans" : {
@@ -579,6 +781,12 @@
             "value" : "%lld éléments d’historique, ouvrez les [Réglages](settings) pour en afficher plus."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld record di cronologia, [Impostazioni](settings) per mostrarne altri."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -595,6 +803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld записей в истории, откройте [Настройки](settings), чтобы показать больше."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld bản ghi lịch sử, [Cài đặt](settings) để hiển thị thêm."
           }
         },
         "zh-Hans" : {
@@ -625,6 +839,12 @@
             "value" : "⌘ + 1~6"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌘ + 1~6"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -638,6 +858,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌘ + 1~6"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "⌘ + 1~6"
@@ -671,6 +897,12 @@
             "value" : "À propos"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informazioni"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -687,6 +919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "О программе"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giới thiệu"
           }
         },
         "zh-Hans" : {
@@ -717,6 +955,12 @@
             "value" : "À propos de %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informazioni su %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -733,6 +977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "О программе %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giới thiệu về %@"
           }
         },
         "zh-Hans" : {
@@ -763,6 +1013,12 @@
             "value" : "Remerciements"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riconoscimenti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -779,6 +1035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Благодарности"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lời cảm ơn"
           }
         },
         "zh-Hans" : {
@@ -809,6 +1071,12 @@
             "value" : "Ajouter une app"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi applicazione"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -825,6 +1093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Добавить приложение"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm ứng dụng"
           }
         },
         "zh-Hans" : {
@@ -855,6 +1129,12 @@
             "value" : "Ajouter aux favoris"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi ai preferiti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -871,6 +1151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "В избранное"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm vào mục yêu thích"
           }
         },
         "zh-Hans" : {
@@ -901,6 +1187,12 @@
             "value" : "Une fois désélectionné, ce type de données du presse-papiers ne sera plus enregistré."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dopo la deselezione, questo tipo di dati degli appunti non verrà più registrato."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -917,6 +1209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "После снятия выбора этот тип данных буфера обмена больше не будет записываться."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sau khi bỏ chọn, loại dữ liệu khay nhớ tạm này sẽ không còn được ghi lại."
           }
         },
         "zh-Hans" : {
@@ -947,6 +1245,12 @@
             "value" : "Une fois désactivé, les jeux de caractères contenant uniquement la catégorie générale Unicode Z*, U+000A à U+000D et U+0085 ne seront plus enregistrés."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dopo la disattivazione, i set di caratteri che contengono solo Unicode General Category Z*, U+000A–U+000D e U+0085 non verranno più registrati."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -963,6 +1267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "После отключения наборы символов, содержащие только Unicode-категорию Z*, U+000A–U+000D и U+0085, больше не записываются."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sau khi tắt, các tập ký tự chỉ chứa Unicode General Category Z*, U+000A đến U+000D và U+0085 sẽ không còn được ghi lại."
           }
         },
         "zh-Hans" : {
@@ -993,6 +1303,12 @@
             "value" : "Tout"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tutto"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1009,6 +1325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Все"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tất cả"
           }
         },
         "zh-Hans" : {
@@ -1039,6 +1361,12 @@
             "value" : "Exclusion d’apps"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esclusioni app"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1055,6 +1383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Исключение приложений"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loại trừ ứng dụng"
           }
         },
         "zh-Hans" : {
@@ -1085,6 +1419,12 @@
             "value" : "Apparence"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aspetto"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1101,6 +1441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Оформление"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giao diện"
           }
         },
         "zh-Hans" : {
@@ -1131,6 +1477,12 @@
             "value" : "Apps exclues"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Applicazione esclusa"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1147,6 +1499,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Исключённые приложения"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ứng dụng bị loại trừ"
           }
         },
         "zh-Hans" : {
@@ -1177,6 +1535,12 @@
             "value" : "Voulez-vous vraiment effacer l’historique du presse-papiers ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuoi davvero cancellare la cronologia degli appunti?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1193,6 +1557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Очистить историю буфера обмена?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bạn có chắc muốn xóa lịch sử khay nhớ tạm không?"
           }
         },
         "zh-Hans" : {
@@ -1223,6 +1593,12 @@
             "value" : "Annuler"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annulla"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1239,6 +1615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Отмена"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hủy"
           }
         },
         "zh-Hans" : {
@@ -1269,6 +1651,12 @@
             "value" : "Journal des modifications"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registro modifiche"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1285,6 +1673,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Список изменений"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhật ký thay đổi"
           }
         },
         "zh-Hans" : {
@@ -1315,6 +1709,12 @@
             "value" : "Effacer l’historique du presse-papiers"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancella cronologia appunti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1331,6 +1731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Очистить историю буфера обмена"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa lịch sử khay nhớ tạm"
           }
         },
         "zh-Hans" : {
@@ -1361,6 +1767,12 @@
             "value" : "Effacer l’historique"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancella cronologia"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1377,6 +1789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Очистить историю"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa lịch sử"
           }
         },
         "zh-Hans" : {
@@ -1407,6 +1825,12 @@
             "value" : "Effacer l’historique à la fermeture"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancella cronologia all'uscita"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1423,6 +1847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Очищать историю при выходе"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa lịch sử khi thoát"
           }
         },
         "zh-Hans" : {
@@ -1453,6 +1883,12 @@
             "value" : "Presse-papiers"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appunti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1469,6 +1905,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Буфер обмена"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khay nhớ tạm"
           }
         },
         "zh-Hans" : {
@@ -1499,6 +1941,12 @@
             "value" : "Options du presse-papiers"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opzioni degli appunti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1515,6 +1963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Параметры буфера обмена"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tùy chọn khay nhớ tạm"
           }
         },
         "zh-Hans" : {
@@ -1545,6 +1999,12 @@
             "value" : "Suivi du presse-papiers"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monitoraggio appunti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1561,6 +2021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Отслеживание буфера обмена"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Theo dõi khay nhớ tạm"
           }
         },
         "zh-Hans" : {
@@ -1592,6 +2058,12 @@
             "value" : "command ⌘"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "command ⌘"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1605,6 +2077,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "command ⌘"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "command ⌘"
@@ -1639,6 +2117,12 @@
             "value" : "control ⌃"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "control ⌃"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1652,6 +2136,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "control ⌃"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "control ⌃"
@@ -1685,6 +2175,12 @@
             "value" : "Copier"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copia"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1701,6 +2197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Скопировать"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sao chép"
           }
         },
         "zh-Hans" : {
@@ -1731,6 +2233,12 @@
             "value" : "Copier en texte brut"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copia come testo semplice"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1747,6 +2255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Копировать как простой текст"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sao chép dạng văn bản thuần"
           }
         },
         "zh-Hans" : {
@@ -1778,6 +2292,12 @@
             "value" : "Sombre"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scuro"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1794,6 +2314,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тёмная"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tối"
           }
         },
         "zh-Hans" : {
@@ -1824,6 +2350,12 @@
             "value" : "Jour"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giorno"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1840,6 +2372,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "День"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngày"
           }
         },
         "zh-Hans" : {
@@ -1870,6 +2408,12 @@
             "value" : "Supprimer"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elimina"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1886,6 +2430,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Удалить"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa"
           }
         },
         "zh-Hans" : {
@@ -1916,6 +2466,12 @@
             "value" : "Supprimer l’historique du presse-papiers"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elimina cronologia appunti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1932,6 +2488,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Удалить историю буфера обмена"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa lịch sử khay nhớ tạm"
           }
         },
         "zh-Hans" : {
@@ -1962,6 +2524,12 @@
             "value" : "Ne plus demander"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non chiedere più"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1978,6 +2546,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Больше не спрашивать"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không hỏi lại"
           }
         },
         "zh-Hans" : {
@@ -2008,6 +2582,12 @@
             "value" : "Activez ou désactivez le suivi de l’historique du presse-papiers. Une fois désactivé, cette fonctionnalité ne sera plus disponible."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attiva o disattiva il monitoraggio della cronologia degli appunti. Se disattivato, la funzione non sarà più disponibile."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2024,6 +2604,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Включите или отключите запись истории буфера обмена. После отключения функция будет недоступна."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bật hoặc tắt theo dõi lịch sử khay nhớ tạm. Khi tắt, tính năng này sẽ không còn khả dụng."
           }
         },
         "zh-Hans" : {
@@ -2054,6 +2640,12 @@
             "value" : "Activer l’aperçu des images"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attiva anteprima immagine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2070,6 +2662,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Включить предпросмотр изображений"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bật xem trước hình ảnh"
           }
         },
         "zh-Hans" : {
@@ -2100,6 +2698,12 @@
             "value" : "Excluez des apps pour empêcher %@ de copier leur contenu."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escludi le app per impedire a %@ di copiarne il contenuto."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2116,6 +2720,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Исключите приложения, чтобы %@ не копировал их содержимое."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loại trừ các ứng dụng để ngăn %@ sao chép nội dung của chúng."
           }
         },
         "zh-Hans" : {
@@ -2147,6 +2757,12 @@
             "value" : "Fichier"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "file"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2163,6 +2779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Файл"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tệp"
           }
         },
         "zh-Hans" : {
@@ -2194,6 +2816,12 @@
             "value" : "Dossier"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cartella"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2210,6 +2838,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Папка"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "thư mục"
           }
         },
         "zh-Hans" : {
@@ -2240,6 +2874,12 @@
             "value" : "Illimité"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Per sempre"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2256,6 +2896,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Бессрочно"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vĩnh viễn"
           }
         },
         "zh-Hans" : {
@@ -2286,6 +2932,12 @@
             "value" : "Général"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generali"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2302,6 +2954,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Основные"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chung"
           }
         },
         "zh-Hans" : {
@@ -2332,6 +2990,12 @@
             "value" : "Autoriser"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Concedi"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2348,6 +3012,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Разрешить"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cấp quyền"
           }
         },
         "zh-Hans" : {
@@ -2378,6 +3048,12 @@
             "value" : "Autorisé"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Concesso"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2394,6 +3070,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Разрешено"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã cấp quyền"
           }
         },
         "zh-Hans" : {
@@ -2424,6 +3106,12 @@
             "value" : "Six mois"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei mesi"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2440,6 +3128,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Полгода"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nửa năm"
           }
         },
         "zh-Hans" : {
@@ -2470,6 +3164,12 @@
             "value" : "Masquer l’icône du Dock"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nascondi icona del Dock"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2486,6 +3186,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Скрыть значок в Dock"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ẩn biểu tượng Dock"
           }
         },
         "zh-Hans" : {
@@ -2517,6 +3223,12 @@
             "value" : "HTML"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTML"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2530,6 +3242,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTML"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "HTML"
@@ -2563,6 +3281,12 @@
             "value" : "Si la liste contient trop de données, désactiver l’aperçu des images peut améliorer les performances. L’activer permet de voir les images copiées dans la liste."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se la quantità di dati mostrata nell'elenco è troppo grande, disattivare l'anteprima delle immagini può migliorare le prestazioni. Attivare l'anteprima nell'elenco consente di visualizzare le immagini copiate."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2579,6 +3303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если в списке слишком много данных, отключение предпросмотра изображений повысит производительность. При включении скопированные изображения видны в списке."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu lượng dữ liệu hiển thị trong danh sách quá lớn, việc tắt xem trước hình ảnh có thể cải thiện hiệu suất. Bật xem trước hình ảnh trong danh sách cho phép bạn xem các hình ảnh đã sao chép."
           }
         },
         "zh-Hans" : {
@@ -2609,6 +3339,12 @@
             "value" : "Si la limite d’enregistrement est inférieure au volume existant, %@ réduira progressivement l’excédent au lieu de tout supprimer d’un coup."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se il limite di salvataggio supera la quantità di dati esistente, %@ ridurrà gradualmente l'eccedenza, invece di cancellare tutti i dati extra in una volta."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2625,6 +3361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если лимит сохранения меньше объёма данных, %@ будет постепенно сокращать излишек, а не удалять всё сразу."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu giới hạn lưu trữ vượt quá lượng dữ liệu hiện có, %@ sẽ giảm dần phần dư thừa thay vì xóa toàn bộ dữ liệu thừa cùng lúc."
           }
         },
         "zh-Hans" : {
@@ -2656,6 +3398,12 @@
             "value" : "Image"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "immagine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2672,6 +3420,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Изображение"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hình ảnh"
           }
         },
         "zh-Hans" : {
@@ -2702,6 +3456,12 @@
             "value" : "Coller avec un raccourci clavier ou insérer du texte dans un champ de saisie nécessite l’accès **%@**."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Incollare con una scorciatoia da tastiera o inserire testo in un campo di input richiede l'accesso a **%@**."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2718,6 +3478,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Для вставки сочетанием клавиш или вставки текста в поле ввода требуется доступ к **%@**."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dán bằng phím tắt hoặc chèn văn bản vào trường nhập cần quyền truy cập **%@**."
           }
         },
         "zh-Hans" : {
@@ -2748,6 +3514,12 @@
             "value" : "Langue"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lingua"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2764,6 +3536,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Язык"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngôn ngữ"
           }
         },
         "zh-Hans" : {
@@ -2794,6 +3572,12 @@
             "value" : "Ouvrir à la connexion"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avvia al login"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2810,6 +3594,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Открывать при входе"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tự động khởi chạy khi đăng nhập"
           }
         },
         "zh-Hans" : {
@@ -2841,6 +3631,12 @@
             "value" : "Clair"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chiaro"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2857,6 +3653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Светлая"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sáng"
           }
         },
         "zh-Hans" : {
@@ -2887,6 +3689,12 @@
             "value" : "Limitez les fonctions de %@ dans les apps indiquées."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limita le funzioni di %@ nelle app specificate."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2903,6 +3711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ограничьте функции %@ в указанных приложениях."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giới hạn chức năng của %@ trong các ứng dụng đã chỉ định."
           }
         },
         "zh-Hans" : {
@@ -2933,6 +3747,12 @@
             "value" : "Nettoyage des liens"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opzioni di pulizia dei link"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2949,6 +3769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Очистка ссылок"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tùy chọn làm sạch liên kết"
           }
         },
         "zh-Hans" : {
@@ -2979,6 +3805,12 @@
             "value" : "Nombre d’éléments : (%lld)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conteggio elenco: (%lld)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2995,6 +3827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Элементов в списке: (%lld)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Số lượng danh sách: (%lld)"
           }
         },
         "zh-Hans" : {
@@ -3025,6 +3863,12 @@
             "value" : "Fenêtre principale"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finestra principale"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3041,6 +3885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Главное окно"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cửa sổ chính"
           }
         },
         "zh-Hans" : {
@@ -3071,6 +3921,12 @@
             "value" : "Mois"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mese"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3087,6 +3943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Месяц"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tháng"
           }
         },
         "zh-Hans" : {
@@ -3117,6 +3979,12 @@
             "value" : "Mes autres apps"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altre app realizzate da me"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3133,6 +4001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Другие мои приложения"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Các ứng dụng khác của tôi"
           }
         },
         "zh-Hans" : {
@@ -3163,6 +4037,12 @@
             "value" : "Aucune app exclue"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessuna applicazione esclusa"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3179,6 +4059,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Нет исключённых приложений"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có ứng dụng bị loại trừ"
           }
         },
         "zh-Hans" : {
@@ -3209,6 +4095,12 @@
             "value" : "Aucun contenu"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessun contenuto"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3225,6 +4117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Нет содержимого"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có nội dung"
           }
         },
         "zh-Hans" : {
@@ -3255,6 +4153,12 @@
             "value" : "Aucun favori dans l’historique du presse-papiers"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessun preferito nella cronologia degli appunti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3271,6 +4175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "В истории буфера обмена нет избранного"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có mục yêu thích trong lịch sử khay nhớ tạm"
           }
         },
         "zh-Hans" : {
@@ -3301,6 +4211,12 @@
             "value" : "Aucun historique dans le presse-papiers"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessuna cronologia negli appunti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3317,6 +4233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "В буфере обмена нет истории"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có lịch sử trong khay nhớ tạm"
           }
         },
         "zh-Hans" : {
@@ -3347,6 +4269,12 @@
             "value" : "Aucun texte trouvé dans l’image"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessun testo trovato nell'immagine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3363,6 +4291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "В изображении текст не найден"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không tìm thấy văn bản trong hình ảnh"
           }
         },
         "zh-Hans" : {
@@ -3394,6 +4328,12 @@
             "value" : "Aucun"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nessuno"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3410,6 +4350,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Нет"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "không"
           }
         },
         "zh-Hans" : {
@@ -3440,6 +4386,12 @@
             "value" : "Ouvrir %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3456,6 +4408,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Открыть %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở %@"
           }
         },
         "zh-Hans" : {
@@ -3486,6 +4444,12 @@
             "value" : "Ouvrir l’emplacement du fichier"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri posizione del file"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3502,6 +4466,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Открыть расположение файла"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở vị trí tệp"
           }
         },
         "zh-Hans" : {
@@ -3532,6 +4502,12 @@
             "value" : "Ouvrir dans le navigateur"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri nel browser"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3548,6 +4524,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Открыть в браузере"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở trong trình duyệt"
           }
         },
         "zh-Hans" : {
@@ -3578,6 +4560,12 @@
             "value" : "Ouvrir la fenêtre principale"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri finestra principale"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3594,6 +4582,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Открыть главное окно"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở cửa sổ chính"
           }
         },
         "zh-Hans" : {
@@ -3624,6 +4618,12 @@
             "value" : "Ouvrir la fenêtre de collage rapide"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri finestra Incolla rapido"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3640,6 +4640,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Открыть окно быстрой вставки"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở cửa sổ Dán nhanh"
           }
         },
         "zh-Hans" : {
@@ -3670,6 +4676,12 @@
             "value" : "Ouvrir la fenêtre de recherche"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri finestra di ricerca"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3686,6 +4698,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Открыть окно поиска"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở cửa sổ tìm kiếm"
           }
         },
         "zh-Hans" : {
@@ -3717,6 +4735,12 @@
             "value" : "option ⌥"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "option ⌥"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3730,6 +4754,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "option ⌥"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "option ⌥"
@@ -3763,6 +4793,12 @@
             "value" : "Raccourci de collage"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scorciatoia Incolla"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3779,6 +4815,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сочетание для вставки"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phím tắt dán"
           }
         },
         "zh-Hans" : {
@@ -3809,6 +4851,12 @@
             "value" : "Épingler la fenêtre principale"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fissa finestra principale"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3825,6 +4873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Закрепить главное окно"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ghim cửa sổ chính"
           }
         },
         "zh-Hans" : {
@@ -3855,6 +4909,12 @@
             "value" : "Épingler la fenêtre"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fissa finestra"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3871,6 +4931,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Закрепить окно"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ghim cửa sổ"
           }
         },
         "zh-Hans" : {
@@ -3901,6 +4967,12 @@
             "value" : "Durée de conservation"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Periodo di conservazione"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3917,6 +4989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Срок хранения"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thời gian lưu giữ"
           }
         },
         "zh-Hans" : {
@@ -3947,6 +5025,12 @@
             "value" : "Confidentialité et sécurité"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy e sicurezza"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3963,6 +5047,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Конфиденциальность и безопасность"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quyền riêng tư và bảo mật"
           }
         },
         "zh-Hans" : {
@@ -3993,6 +5083,12 @@
             "value" : "Trimestre"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trimestre"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4009,6 +5105,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Квартал"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quý"
           }
         },
         "zh-Hans" : {
@@ -4039,6 +5141,12 @@
             "value" : "Quitter %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esci da %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4055,6 +5163,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выйти из %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thoát %@"
           }
         },
         "zh-Hans" : {
@@ -4085,6 +5199,12 @@
             "value" : "Reconnaître le texte de l’image"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riconosci il testo nell'immagine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4101,6 +5221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Распознать текст на изображении"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhận dạng văn bản trong hình ảnh"
           }
         },
         "zh-Hans" : {
@@ -4131,6 +5257,12 @@
             "value" : "Reconnaissance…"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riconoscimento in corso…"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4147,6 +5279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Распознавание…"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đang nhận dạng…"
           }
         },
         "zh-Hans" : {
@@ -4177,6 +5315,12 @@
             "value" : "Supprimer l’app"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rimuovi applicazione"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4193,6 +5337,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Удалить приложение"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa ứng dụng"
           }
         },
         "zh-Hans" : {
@@ -4223,6 +5373,12 @@
             "value" : "Retirer des favoris"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rimuovi preferiti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4239,6 +5395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Убрать из избранного"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa khỏi mục yêu thích"
           }
         },
         "zh-Hans" : {
@@ -4269,6 +5431,12 @@
             "value" : "Supprimer les paramètres lors de la copie ou de l’insertion de liens"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rimuovi i parametri quando copi o inserisci i link"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4285,6 +5453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Удалять параметры при копировании или вставке ссылок"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa tham số khi sao chép hoặc chèn liên kết"
           }
         },
         "zh-Hans" : {
@@ -4315,6 +5489,12 @@
             "value" : "Enregistrer le texte invisible"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salva testo invisibile"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4331,6 +5511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сохранять невидимый текст"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lưu văn bản vô hình"
           }
         },
         "zh-Hans" : {
@@ -4361,6 +5547,12 @@
             "value" : "Nombre enregistré"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conteggio salvato"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4377,6 +5569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Количество сохранений"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Số lượng đã lưu"
           }
         },
         "zh-Hans" : {
@@ -4407,6 +5605,12 @@
             "value" : "Rechercher %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerca %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4423,6 +5627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Искать %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tìm kiếm %@"
           }
         },
         "zh-Hans" : {
@@ -4453,6 +5663,12 @@
             "value" : "Sécurité"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sicurezza"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4469,6 +5685,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Безопасность"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bảo mật"
           }
         },
         "zh-Hans" : {
@@ -4499,6 +5721,12 @@
             "value" : "Sélectionnez le contenu du presse-papiers à enregistrer"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona il contenuto degli appunti da registrare"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4515,6 +5743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выберите содержимое буфера обмена для записи"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn nội dung khay nhớ tạm cần ghi lại"
           }
         },
         "zh-Hans" : {
@@ -4545,6 +5779,12 @@
             "value" : "Définir les touches de modification pour le collage rapide : %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imposta i tasti modificatori per l'incolla rapido: %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4561,6 +5801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Клавиши-модификаторы для быстрой вставки: %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đặt phím bổ trợ để dán nhanh: %@"
           }
         },
         "zh-Hans" : {
@@ -4591,6 +5837,12 @@
             "value" : "Définissez le nombre de lignes affichées pour le texte dans la liste."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imposta il numero di righe per mostrare il testo nell'elenco."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4607,6 +5859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Задайте число строк текста в списке."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đặt số dòng để hiển thị văn bản trong danh sách."
           }
         },
         "zh-Hans" : {
@@ -4637,6 +5895,12 @@
             "value" : "Réglages..."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impostazioni…"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4653,6 +5917,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Настройки..."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt…"
           }
         },
         "zh-Hans" : {
@@ -4683,6 +5953,12 @@
             "value" : "Partager l’image..."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Condividi immagine…"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4699,6 +5975,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Поделиться изображением..."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chia sẻ hình ảnh…"
           }
         },
         "zh-Hans" : {
@@ -4729,6 +6011,12 @@
             "value" : "Partager le texte..."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Condividi testo…"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4745,6 +6033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Поделиться текстом..."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chia sẻ văn bản…"
           }
         },
         "zh-Hans" : {
@@ -4775,6 +6069,12 @@
             "value" : "Partager l’URL..."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Condividi URL…"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4791,6 +6091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Поделиться ссылкой..."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chia sẻ URL…"
           }
         },
         "zh-Hans" : {
@@ -4821,6 +6127,12 @@
             "value" : "Raccourci"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasto scorciatoia"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4837,6 +6149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сочетание клавиш"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phím tắt"
           }
         },
         "zh-Hans" : {
@@ -4867,6 +6185,12 @@
             "value" : "Afficher l’icône de l’app"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra icona dell'app"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4883,6 +6207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Показывать значок приложения"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiển thị biểu tượng ứng dụng"
           }
         },
         "zh-Hans" : {
@@ -4913,6 +6243,12 @@
             "value" : "Afficher les favoris"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra preferiti"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4929,6 +6265,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Показать избранное"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiển thị mục yêu thích"
           }
         },
         "zh-Hans" : {
@@ -4959,6 +6301,12 @@
             "value" : "Affichez les icônes d’apps masquées dans la liste du presse-papiers."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra le icone delle app nascoste nell'elenco degli appunti."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4975,6 +6323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Показывать скрытые значки приложений в списке буфера обмена."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiển thị các biểu tượng ứng dụng bị ẩn trong danh sách khay nhớ tạm."
           }
         },
         "zh-Hans" : {
@@ -5005,6 +6359,12 @@
             "value" : "Afficher/masquer le favori %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra/nascondi preferito %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5021,6 +6381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Показать/скрыть избранное %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiển thị/ẩn mục yêu thích %@"
           }
         },
         "zh-Hans" : {
@@ -5051,6 +6417,12 @@
             "value" : "Activez simplement le suivi du presse-papiers pour enregistrer tout ce que vous copiez."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Basta attivare il monitoraggio degli appunti per catturare tutto ciò che copi."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5067,6 +6439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Включите отслеживание буфера обмена, чтобы сохранять всё скопированное."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ cần bật theo dõi khay nhớ tạm để ghi lại mọi thứ bạn sao chép."
           }
         },
         "zh-Hans" : {
@@ -5103,6 +6481,12 @@
             "value" : "Taille : %1$@ × %2$@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dimensione: %1$@ x %2$@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5119,6 +6503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Размер: %1$@ × %2$@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kích thước: %1$@ x %2$@"
           }
         },
         "zh-Hans" : {
@@ -5149,6 +6539,12 @@
             "value" : "Changer de catégorie"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambia menu categoria"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5165,6 +6561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Переключение категории"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chuyển đổi menu danh mục"
           }
         },
         "zh-Hans" : {
@@ -5196,6 +6598,12 @@
             "value" : "Système"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sistema"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5212,6 +6620,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Системная"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hệ thống"
           }
         },
         "zh-Hans" : {
@@ -5242,6 +6656,12 @@
             "value" : "Réglages Système"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impostazioni di sistema"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5258,6 +6678,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Системные настройки"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt hệ thống"
           }
         },
         "zh-Hans" : {
@@ -5289,6 +6715,12 @@
             "value" : "Texte"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "testo"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5305,6 +6737,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Текст"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "văn bản"
           }
         },
         "zh-Hans" : {
@@ -5335,6 +6773,12 @@
             "value" : "Il y a %lld éléments au total. Cette action supprimera définitivement tout l’historique du presse-papiers et est irréversible."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ci sono %lld elementi in totale. Questa azione eliminerà definitivamente tutta la cronologia degli appunti e non potrà essere annullata."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5351,6 +6795,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Всего элементов: %lld. Это действие безвозвратно удалит всю историю буфера обмена."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có tổng cộng %lld mục. Hành động này sẽ xóa vĩnh viễn toàn bộ lịch sử khay nhớ tạm và không thể hoàn tác."
           }
         },
         "zh-Hans" : {
@@ -5381,6 +6831,12 @@
             "value" : "Débloquer toutes les fonctionnalités"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sblocca tutte le funzioni"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5397,6 +6853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Разблокировать все функции"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở khóa tất cả tính năng"
           }
         },
         "zh-Hans" : {
@@ -5427,6 +6889,12 @@
             "value" : "Intervalle de mise à jour"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intervallo di aggiornamento"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5443,6 +6911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Интервал обновления"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khoảng thời gian cập nhật"
           }
         },
         "zh-Hans" : {
@@ -5473,6 +6947,12 @@
             "value" : "Passez à VIP pour un usage illimité"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passa a VIP, sblocca l'uso illimitato"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5489,6 +6969,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перейдите на VIP для безлимитного использования"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nâng cấp VIP, mở khóa sử dụng không giới hạn"
           }
         },
         "zh-Hans" : {
@@ -5520,6 +7006,12 @@
             "value" : "URL"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5536,6 +7028,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ссылка"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL"
           }
         },
         "zh-Hans" : {
@@ -5566,6 +7064,12 @@
             "value" : "Utilisez les raccourcis %@ dans la fenêtre principale pour changer de catégorie."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usa le scorciatoie %@ nella finestra principale per passare da una categoria all'altra."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5582,6 +7086,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "В главном окне переключайте категории сочетаниями %@."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sử dụng phím tắt %@ trong cửa sổ chính để chuyển đổi giữa các danh mục."
           }
         },
         "zh-Hans" : {
@@ -5618,6 +7128,12 @@
             "value" : "Version %1$@ (%2$@)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versione %1$@ (%2$@)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5634,6 +7150,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Версия %1$@ (%2$@)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phiên bản %1$@ (%2$@)"
           }
         },
         "zh-Hans" : {
@@ -5664,6 +7186,12 @@
             "value" : "Lignes visibles : (%lld)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Righe visibili: (%lld)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5680,6 +7208,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Видимых строк: (%lld)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Số dòng hiển thị: (%lld)"
           }
         },
         "zh-Hans" : {
@@ -5710,6 +7244,12 @@
             "value" : "Semaine"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settimana"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5726,6 +7266,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Неделя"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuần"
           }
         },
         "zh-Hans" : {
@@ -5756,6 +7302,12 @@
             "value" : "Année"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anno"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5772,6 +7324,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Год"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Năm"
           }
         },
         "zh-Hans" : {
@@ -5802,6 +7360,12 @@
             "value" : "Grâce à votre généreuse aide financière, j'ai pleinement confiance pour garder %@ en bonne santé et l'entretenir activement."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con il tuo generoso aiuto finanziario, ho grande fiducia nel mantenere %@ in salute e aggiornarlo attivamente."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5818,6 +7382,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Благодаря вашей щедрой финансовой поддержке я уверен в том, что смогу поддерживать %@ в работоспособном состоянии и активно развивать его."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Với sự hỗ trợ tài chính hào phóng của bạn, tôi rất tự tin giữ cho %@ hoạt động ổn định và được cập nhật liên tục."
           }
         },
         "zh-Hans" : {

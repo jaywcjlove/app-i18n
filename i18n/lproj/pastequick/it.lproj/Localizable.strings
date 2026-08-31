@@ -1,0 +1,264 @@
+" " = " ";
+
+"%@" = "%@";
+
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Aggiungi **%4$@** e verifica";
+
+"%@ Dark Mode" = "%@ Modalità scura";
+
+"%@ Follow System" = "%@ Segui sistema";
+
+"%@ Light Mode" = "%@ Modalità chiara";
+
+"%@ Needs Access" = "%@ Richiede accesso";
+
+"%@%@" = "%1$@%2$@";
+
+"%lld copies recorded." = "%lld copie registrate.";
+
+"%lld history records, [Settings](settings) to display more." = "%lld record di cronologia, [Impostazioni](settings) per mostrarne altri.";
+
+"**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "L'autorizzazione **%@** è attiva. **%@** ora può incollare con le scorciatoie da tastiera e inserire testo nei campi di input.";
+
+"About" = "Informazioni";
+
+"About %@" = "Informazioni su %@";
+
+"Acknowledgments" = "Riconoscimenti";
+
+"Add Application" = "Aggiungi applicazione";
+
+"Add to Favorites" = "Aggiungi ai preferiti";
+
+"After deselection, this type of clipboard data will no longer be recorded." = "Dopo la deselezione, questo tipo di dati degli appunti non verrà più registrato.";
+
+"After disabling, character sets containing only Unicode General Category Z*, U+000A to U+000D, and U+0085 will no longer be recorded." = "Dopo la disattivazione, i set di caratteri che contengono solo Unicode General Category Z*, U+000A–U+000D e U+0085 non verranno più registrati.";
+
+"App Excluding" = "Esclusioni app";
+
+"Appearance" = "Aspetto";
+
+"Application Excluded" = "Applicazione esclusa";
+
+"Are you sure you want to clear your clipboard history?" = "Vuoi davvero cancellare la cronologia degli appunti?";
+
+"Cancel" = "Annulla";
+
+"Changelog" = "Registro modifiche";
+
+"Clear Clipboard History" = "Cancella cronologia appunti";
+
+"Clear History" = "Cancella cronologia";
+
+"Clear History On Exit" = "Cancella cronologia all'uscita";
+
+"Clipboard" = "Appunti";
+
+"Clipboard Options" = "Opzioni degli appunti";
+
+"Clipboard Tracking" = "Monitoraggio appunti";
+
+"Copy" = "Copia";
+
+"Copy to Plain Text" = "Copia come testo semplice";
+
+/* Dark */
+"Dark" = "Scuro";
+
+"Day" = "Giorno";
+
+"Delete" = "Elimina";
+
+"Delete Clipboard History" = "Elimina cronologia appunti";
+
+"Don't ask again" = "Non chiedere più";
+
+"Enable Preview Image" = "Attiva anteprima immagine";
+
+"Enable or disable clipboard history tracking. When disabled, the feature will no longer be available." = "Attiva o disattiva il monitoraggio della cronologia degli appunti. Se disattivato, la funzione non sarà più disponibile.";
+
+"Exclude apps to prevent %@ copying their contents." = "Escludi le app per impedire a %@ di copiarne il contenuto.";
+
+"Forever" = "Per sempre";
+
+"General" = "Generali";
+
+"Grant" = "Concedi";
+
+"Granted" = "Concesso";
+
+"Half A Year" = "Sei mesi";
+
+"Hide Dock Icon" = "Nascondi icona del Dock";
+
+"If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images." = "Se la quantità di dati mostrata nell'elenco è troppo grande, disattivare l'anteprima delle immagini può migliorare le prestazioni. Attivare l'anteprima nell'elenco consente di visualizzare le immagini copiate.";
+
+"If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "Se il limite di salvataggio supera la quantità di dati esistente, %@ ridurrà gradualmente l'eccedenza, invece di cancellare tutti i dati extra in una volta.";
+
+"Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "Incollare con una scorciatoia da tastiera o inserire testo in un campo di input richiede l'accesso a **%@**.";
+
+"Language" = "Lingua";
+
+"Launch at login" = "Avvia al login";
+
+/* Light */
+"Light" = "Chiaro";
+
+"Limit %@'s functions in the specified apps." = "Limita le funzioni di %@ nelle app specificate.";
+
+"Link Cleanup Options" = "Opzioni di pulizia dei link";
+
+"List Count: (%lld)" = "Conteggio elenco: (%lld)";
+
+"Main Window" = "Finestra principale";
+
+"Month" = "Mese";
+
+"More Apps by Me" = "Altre app realizzate da me";
+
+"No Application Excluded" = "Nessuna applicazione esclusa";
+
+"No content" = "Nessun contenuto";
+
+"No favorites in clipboard history" = "Nessun preferito nella cronologia degli appunti";
+
+"No history in clipboard" = "Nessuna cronologia negli appunti";
+
+"No text found in the image" = "Nessun testo trovato nell'immagine";
+
+"Open %@" = "Apri %@";
+
+"Open Main Window" = "Apri finestra principale";
+
+"Open Quick Past Window" = "Apri finestra Incolla rapido";
+
+"Open Search Window" = "Apri finestra di ricerca";
+
+"Open file location" = "Apri posizione del file";
+
+"Open in Browser" = "Apri nel browser";
+
+"Paste Shortcut" = "Scorciatoia Incolla";
+
+"Pin Main Window" = "Fissa finestra principale";
+
+"Pin Window" = "Fissa finestra";
+
+"Preservation Period" = "Periodo di conservazione";
+
+"Privacy & Security" = "Privacy e sicurezza";
+
+"Quarter" = "Trimestre";
+
+"Quit %@" = "Esci da %@";
+
+"Recognize text in the image" = "Riconosci il testo nell'immagine";
+
+"Recognizing…" = "Riconoscimento in corso…";
+
+"Remove Application" = "Rimuovi applicazione";
+
+"Remove Favorites" = "Rimuovi preferiti";
+
+"Remove parameters when copying or inserting links" = "Rimuovi i parametri quando copi o inserisci i link";
+
+"Save Invisible Text" = "Salva testo invisibile";
+
+"Saved Count" = "Conteggio salvato";
+
+"Search %@" = "Cerca %@";
+
+"Security" = "Sicurezza";
+
+"Select the clipboard content to be recorded" = "Seleziona il contenuto degli appunti da registrare";
+
+"Set modifier keys for quick paste: %@" = "Imposta i tasti modificatori per l'incolla rapido: %@";
+
+"Set the number of lines to display the text in the list." = "Imposta il numero di righe per mostrare il testo nell'elenco.";
+
+"Settings..." = "Impostazioni…";
+
+"Share Image..." = "Condividi immagine…";
+
+"Share Text..." = "Condividi testo…";
+
+"Share URL..." = "Condividi URL…";
+
+"Shortcut Key" = "Tasto scorciatoia";
+
+"Show App Icon" = "Mostra icona dell'app";
+
+"Show Favorite" = "Mostra preferiti";
+
+"Show hidden application icons in the clipboard list." = "Mostra le icone delle app nascoste nell'elenco degli appunti.";
+
+"Show/hide favorite %@" = "Mostra/nascondi preferito %@";
+
+"Simply enable clipboard tracking to capture everything you copy." = "Basta attivare il monitoraggio degli appunti per catturare tutto ciò che copi.";
+
+"Size: %@ x %@" = "Dimensione: %1$@ x %2$@";
+
+"Switch Category Menu" = "Cambia menu categoria";
+
+/* System */
+"System" = "Sistema";
+
+"System Settings" = "Impostazioni di sistema";
+
+"There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "Ci sono %lld elementi in totale. Questa azione eliminerà definitivamente tutta la cronologia degli appunti e non potrà essere annullata.";
+
+"Unlock all Features" = "Sblocca tutte le funzioni";
+
+"Update interval" = "Intervallo di aggiornamento";
+
+"Upgrade to VIP, unlock unlimited usage" = "Passa a VIP, sblocca l'uso illimitato";
+
+"Use %@ shortcuts in the main window to switch between categories." = "Usa le scorciatoie %@ nella finestra principale per passare da una categoria all'altra.";
+
+"Version %@ (%@)" = "Versione %1$@ (%2$@)";
+
+"Visible Lines: (%lld)" = "Righe visibili: (%lld)";
+
+"Week" = "Settimana";
+
+"Year" = "Anno";
+
+"Your generous financial assistance, I have great confidence in keeping %@ healthy and maintaining it actively." = "Con il tuo generoso aiuto finanziario, ho grande fiducia nel mantenere %@ in salute e aggiornarlo attivamente.";
+
+"[Return to list](return2list)" = "[Torna all'elenco](return2list)";
+
+"[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=PasteQuick) • [Github](https://github.com/jaywcjlove/paste-quick)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=PasteQuick) • [Github](https://github.com/jaywcjlove/paste-quick)";
+
+"all" = "tutto";
+
+/* command */
+"command ⌘" = "command ⌘";
+
+/* control */
+"control ⌃" = "control ⌃";
+
+/* file */
+"file" = "file";
+
+/* folder */
+"folder" = "cartella";
+
+/* html */
+"html" = "HTML";
+
+/* image */
+"image" = "immagine";
+
+/* none */
+"none" = "nessuno";
+
+/* option */
+"option ⌥" = "option ⌥";
+
+/* text */
+"text" = "testo";
+
+/* url */
+"url" = "URL";
+
+"⌘ + 1~6" = "⌘ + 1~6";
