@@ -1,0 +1,262 @@
+"%@" = "%@";
+
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> добавьте **%4$@** и включите";
+
+"%@ Dark Mode" = "%@ Тёмный режим";
+
+"%@ Follow System" = "%@ Как в системе";
+
+"%@ Light Mode" = "%@ Светлый режим";
+
+"%@ Needs Access" = "Для %@ требуется доступ";
+
+"%@%@" = "%1$@%2$@";
+
+"%lld copies recorded." = "Записано копий: %lld.";
+
+"%lld history records, [Settings](settings) to display more." = "%lld записей в истории, откройте [Настройки](settings), чтобы показать больше.";
+
+"**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "Доступ **%1$@** включён. **%2$@** теперь может вставлять текст сочетанием клавиш и в поля ввода.";
+
+"About" = "О программе";
+
+"About %@" = "О программе %@";
+
+"Acknowledgments" = "Благодарности";
+
+"Add Application" = "Добавить приложение";
+
+"Add to Favorites" = "В избранное";
+
+"After deselection, this type of clipboard data will no longer be recorded." = "После снятия выбора этот тип данных буфера обмена больше не будет записываться.";
+
+"After disabling, character sets containing only Unicode General Category Z*, U+000A to U+000D, and U+0085 will no longer be recorded." = "После отключения наборы символов, содержащие только Unicode-категорию Z*, U+000A–U+000D и U+0085, больше не записываются.";
+
+"App Excluding" = "Исключение приложений";
+
+"Appearance" = "Оформление";
+
+"Application Excluded" = "Исключённые приложения";
+
+"Are you sure you want to clear your clipboard history?" = "Очистить историю буфера обмена?";
+
+"Cancel" = "Отмена";
+
+"Changelog" = "Список изменений";
+
+"Clear Clipboard History" = "Очистить историю буфера обмена";
+
+"Clear History" = "Очистить историю";
+
+"Clear History On Exit" = "Очищать историю при выходе";
+
+"Clipboard" = "Буфер обмена";
+
+"Clipboard Options" = "Параметры буфера обмена";
+
+"Clipboard Tracking" = "Отслеживание буфера обмена";
+
+"Copy" = "Скопировать";
+
+"Copy to Plain Text" = "Копировать как простой текст";
+
+/* Dark */
+"Dark" = "Тёмная";
+
+"Day" = "День";
+
+"Delete" = "Удалить";
+
+"Delete Clipboard History" = "Удалить историю буфера обмена";
+
+"Don't ask again" = "Больше не спрашивать";
+
+"Enable Preview Image" = "Включить предпросмотр изображений";
+
+"Enable or disable clipboard history tracking. When disabled, the feature will no longer be available." = "Включите или отключите запись истории буфера обмена. После отключения функция будет недоступна.";
+
+"Exclude apps to prevent %@ copying their contents." = "Исключите приложения, чтобы %@ не копировал их содержимое.";
+
+"Forever" = "Бессрочно";
+
+"General" = "Основные";
+
+"Grant" = "Разрешить";
+
+"Granted" = "Разрешено";
+
+"Half A Year" = "Полгода";
+
+"Hide Dock Icon" = "Скрыть значок в Dock";
+
+"If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images." = "Если в списке слишком много данных, отключение предпросмотра изображений повысит производительность. При включении скопированные изображения видны в списке.";
+
+"If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "Если лимит сохранения меньше объёма данных, %@ будет постепенно сокращать излишек, а не удалять всё сразу.";
+
+"Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "Для вставки сочетанием клавиш или вставки текста в поле ввода требуется доступ к **%@**.";
+
+"Language" = "Язык";
+
+"Launch at login" = "Открывать при входе";
+
+/* Light */
+"Light" = "Светлая";
+
+"Limit %@'s functions in the specified apps." = "Ограничьте функции %@ в указанных приложениях.";
+
+"Link Cleanup Options" = "Очистка ссылок";
+
+"List Count: (%lld)" = "Элементов в списке: (%lld)";
+
+"Main Window" = "Главное окно";
+
+"Month" = "Месяц";
+
+"More Apps by Me" = "Другие мои приложения";
+
+"No Application Excluded" = "Нет исключённых приложений";
+
+"No content" = "Нет содержимого";
+
+"No favorites in clipboard history" = "В истории буфера обмена нет избранного";
+
+"No history in clipboard" = "В буфере обмена нет истории";
+
+"No text found in the image" = "В изображении текст не найден";
+
+"Open %@" = "Открыть %@";
+
+"Open Main Window" = "Открыть главное окно";
+
+"Open Quick Past Window" = "Открыть окно быстрой вставки";
+
+"Open Search Window" = "Открыть окно поиска";
+
+"Open file location" = "Открыть расположение файла";
+
+"Open in Browser" = "Открыть в браузере";
+
+"Paste Shortcut" = "Сочетание для вставки";
+
+"Pin Main Window" = "Закрепить главное окно";
+
+"Pin Window" = "Закрепить окно";
+
+"Preservation Period" = "Срок хранения";
+
+"Privacy & Security" = "Конфиденциальность и безопасность";
+
+"Quarter" = "Квартал";
+
+"Quit %@" = "Выйти из %@";
+
+"Recognize text in the image" = "Распознать текст на изображении";
+
+"Recognizing…" = "Распознавание…";
+
+"Remove Application" = "Удалить приложение";
+
+"Remove Favorites" = "Убрать из избранного";
+
+"Remove parameters when copying or inserting links" = "Удалять параметры при копировании или вставке ссылок";
+
+"Save Invisible Text" = "Сохранять невидимый текст";
+
+"Saved Count" = "Количество сохранений";
+
+"Search %@" = "Искать %@";
+
+"Security" = "Безопасность";
+
+"Select the clipboard content to be recorded" = "Выберите содержимое буфера обмена для записи";
+
+"Set modifier keys for quick paste: %@" = "Клавиши-модификаторы для быстрой вставки: %@";
+
+"Set the number of lines to display the text in the list." = "Задайте число строк текста в списке.";
+
+"Settings..." = "Настройки...";
+
+"Share Image..." = "Поделиться изображением...";
+
+"Share Text..." = "Поделиться текстом...";
+
+"Share URL..." = "Поделиться ссылкой...";
+
+"Shortcut Key" = "Сочетание клавиш";
+
+"Show App Icon" = "Показывать значок приложения";
+
+"Show Favorite" = "Показать избранное";
+
+"Show hidden application icons in the clipboard list." = "Показывать скрытые значки приложений в списке буфера обмена.";
+
+"Show/hide favorite %@" = "Показать/скрыть избранное %@";
+
+"Simply enable clipboard tracking to capture everything you copy." = "Включите отслеживание буфера обмена, чтобы сохранять всё скопированное.";
+
+"Size: %@ x %@" = "Размер: %1$@ × %2$@";
+
+"Switch Category Menu" = "Переключение категории";
+
+/* System */
+"System" = "Системная";
+
+"System Settings" = "Системные настройки";
+
+"There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "Всего элементов: %lld. Это действие безвозвратно удалит всю историю буфера обмена.";
+
+"Unlock all Features" = "Разблокировать все функции";
+
+"Update interval" = "Интервал обновления";
+
+"Upgrade to VIP, unlock unlimited usage" = "Перейдите на VIP для безлимитного использования";
+
+"Use %@ shortcuts in the main window to switch between categories." = "В главном окне переключайте категории сочетаниями %@.";
+
+"Version %@ (%@)" = "Версия %1$@ (%2$@)";
+
+"Visible Lines: (%lld)" = "Видимых строк: (%lld)";
+
+"Week" = "Неделя";
+
+"Year" = "Год";
+
+"Your generous financial assistance, I have great confidence in keeping %@ healthy and maintaining it actively." = "Благодаря вашей щедрой финансовой поддержке я уверен в том, что смогу поддерживать %@ в работоспособном состоянии и активно развивать его.";
+
+"[Return to list](return2list)" = "[Вернуться к списку](return2list)";
+
+"[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=PasteQuick) • [Github](https://github.com/jaywcjlove/paste-quick)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=PasteQuick) • [Github](https://github.com/jaywcjlove/paste-quick)";
+
+"all" = "Все";
+
+/* command */
+"command ⌘" = "command ⌘";
+
+/* control */
+"control ⌃" = "control ⌃";
+
+/* file */
+"file" = "Файл";
+
+/* folder */
+"folder" = "Папка";
+
+/* html */
+"html" = "HTML";
+
+/* image */
+"image" = "Изображение";
+
+/* none */
+"none" = "Нет";
+
+/* option */
+"option ⌥" = "option ⌥";
+
+/* text */
+"text" = "Текст";
+
+/* url */
+"url" = "Ссылка";
+
+"⌘ + 1~6" = "⌘ + 1~6";

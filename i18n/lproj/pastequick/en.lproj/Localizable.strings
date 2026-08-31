@@ -1,10 +1,14 @@
 "%@" = "%@";
 
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Add **%4$@** and check";
+
 "%@ Dark Mode" = "%@ Dark Mode";
 
 "%@ Follow System" = "%@ Follow System";
 
 "%@ Light Mode" = "%@ Light Mode";
+
+"%@ Needs Access" = "%@ Needs Access";
 
 "%@%@" = "%1$@%2$@";
 
@@ -12,17 +16,11 @@
 
 "%lld history records, [Settings](settings) to display more." = "%lld history records, [Settings](settings) to display more.";
 
+"**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields.";
+
 "About" = "About";
 
 "About %@" = "About %@";
-
-"Accessibility Access" = "Accessibility Access";
-
-"Accessibility Access Alert: Content" = "Accessibility Access is required for %@ to take over your clipboard.";
-
-"Accessibility Access Alert: Title" = "%@ Needs Accessibility Access";
-
-"Accessibility Access is needed to take over your clipboard." = "Accessibility Access is needed to take over your clipboard.";
 
 "Acknowledgments" = "Acknowledgments";
 
@@ -53,6 +51,8 @@
 "Clear History On Exit" = "Clear History On Exit";
 
 "Clipboard" = "Clipboard";
+
+"Clipboard Options" = "Clipboard Options";
 
 "Clipboard Tracking" = "Clipboard Tracking";
 
@@ -93,6 +93,8 @@
 
 "If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once.";
 
+"Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "Keyboard shortcut paste or inserting text into an input field requires **%@** access.";
+
 "Language" = "Language";
 
 "Launch at login" = "Launch at login";
@@ -120,6 +122,8 @@
 
 "No history in clipboard" = "No history in clipboard";
 
+"No text found in the image" = "No text found in the image";
+
 "Open %@" = "Open %@";
 
 "Open Main Window" = "Open Main Window";
@@ -136,15 +140,19 @@
 
 "Pin Main Window" = "Pin Main Window";
 
+"Pin Window" = "Pin Window";
+
 "Preservation Period" = "Preservation Period";
 
-"Privacy Policy" = "Privacy Policy";
+"Privacy & Security" = "Privacy & Security";
 
 "Quarter" = "Quarter";
 
 "Quit %@" = "Quit %@";
 
 "Recognize text in the image" = "Recognize text in the image";
+
+"Recognizing…" = "Recognizing…";
 
 "Remove Application" = "Remove Application";
 
@@ -193,11 +201,11 @@
 /* System */
 "System" = "System";
 
-"Terms of Service" = "Terms of Service";
-
-"The recognized text is as follows" = "The recognized text is as follows";
+"System Settings" = "System Settings";
 
 "There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone.";
+
+"Unlock all Features" = "Unlock all Features";
 
 "Update interval" = "Update interval";
 
@@ -212,6 +220,8 @@
 "Week" = "Week";
 
 "Year" = "Year";
+
+"Your generous financial assistance, I have great confidence in keeping %@ healthy and maintaining it actively." = "Your generous financial assistance, I have great confidence in keeping %@ healthy and maintaining it actively.";
 
 "[Return to list](return2list)" = "[Return to list](return2list)";
 

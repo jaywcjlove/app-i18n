@@ -1,10 +1,14 @@
 "%@" = "%@";
 
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> 添加 **%4$@** 并勾选";
+
 "%@ Dark Mode" = "%@ 暗模式";
 
 "%@ Follow System" = "%@ 跟随系统";
 
 "%@ Light Mode" = "%@ 亮模式";
+
+"%@ Needs Access" = "%@ 需要访问权限";
 
 "%@%@" = "%1$@%2$@";
 
@@ -12,17 +16,11 @@
 
 "%lld history records, [Settings](settings) to display more." = "%lld 条历史记录， [设置](settings) 以显示更多。";
 
+"**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "**%1$@** 权限已开启。**%2$@** 现在可以使用快捷键粘贴，并向输入框插入文本。";
+
 "About" = "关于";
 
 "About %@" = "关于 %@";
-
-"Accessibility Access" = "辅助功能访问";
-
-"Accessibility Access Alert: Content" = "%@ 需要辅助功能访问权限才能接管您的剪贴板。";
-
-"Accessibility Access Alert: Title" = "%@ 需要辅助功能访问";
-
-"Accessibility Access is needed to take over your clipboard." = "需要启用辅助功能访问才能接管您的剪贴板。";
 
 "Acknowledgments" = "致谢";
 
@@ -53,6 +51,8 @@
 "Clear History On Exit" = "退出时清除历史记录";
 
 "Clipboard" = "剪切板";
+
+"Clipboard Options" = "剪贴板选项";
 
 "Clipboard Tracking" = "剪贴板跟踪";
 
@@ -93,6 +93,8 @@
 
 "If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "保存数量若超过已有数据数量，%@ 将逐步递减超出的部分，而不会一次性清空多余的数据。";
 
+"Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "快捷键粘贴或者向输入框插入文本需要开启 **%@** 访问。";
+
 "Language" = "语言";
 
 "Launch at login" = "开机启动";
@@ -120,6 +122,8 @@
 
 "No history in clipboard" = "粘贴板中暂无历史记录";
 
+"No text found in the image" = "图片中未识别到文本";
+
 "Open %@" = "打开 %@";
 
 "Open Main Window" = "打开主窗口";
@@ -136,15 +140,19 @@
 
 "Pin Main Window" = "固定主窗口";
 
+"Pin Window" = "固定窗口";
+
 "Preservation Period" = "保存期限";
 
-"Privacy Policy" = "隐私政策";
+"Privacy & Security" = "隐私与安全性";
 
 "Quarter" = "季度";
 
 "Quit %@" = "退出 %@";
 
 "Recognize text in the image" = "识别图片中的文本";
+
+"Recognizing…" = "识别中…";
 
 "Remove Application" = "删除应用";
 
@@ -193,11 +201,11 @@
 /* System */
 "System" = "跟随系统";
 
-"Terms of Service" = "服务条款";
-
-"The recognized text is as follows" = "识别到文本如下";
+"System Settings" = "系统设置";
 
 "There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "共有 %lld 条数据，此操作将永久清除所有剪贴板历史记录，无法恢复。";
+
+"Unlock all Features" = "解锁全部功能";
 
 "Update interval" = "更新间隔";
 
@@ -212,6 +220,8 @@
 "Week" = "周";
 
 "Year" = "年";
+
+"Your generous financial assistance, I have great confidence in keeping %@ healthy and maintaining it actively." = "感谢您慷慨的经济援助，我很有信心让 %@ 保持健康发展并持续维护。";
 
 "[Return to list](return2list)" = "[返回列表](return2list)";
 

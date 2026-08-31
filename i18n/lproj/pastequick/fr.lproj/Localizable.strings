@@ -1,0 +1,262 @@
+"%@" = "%@";
+
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Ajoutez **%4$@** et activez-le";
+
+"%@ Dark Mode" = "%@ Mode sombre";
+
+"%@ Follow System" = "%@ Suivre le système";
+
+"%@ Light Mode" = "%@ Mode clair";
+
+"%@ Needs Access" = "%@ a besoin d’un accès";
+
+"%@%@" = "%1$@%2$@";
+
+"%lld copies recorded." = "%lld copies enregistrées.";
+
+"%lld history records, [Settings](settings) to display more." = "%lld éléments d’historique, ouvrez les [Réglages](settings) pour en afficher plus.";
+
+"**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "L’accès **%1$@** est activé. **%2$@** peut désormais coller avec un raccourci clavier et insérer du texte dans les champs de saisie.";
+
+"About" = "À propos";
+
+"About %@" = "À propos de %@";
+
+"Acknowledgments" = "Remerciements";
+
+"Add Application" = "Ajouter une app";
+
+"Add to Favorites" = "Ajouter aux favoris";
+
+"After deselection, this type of clipboard data will no longer be recorded." = "Une fois désélectionné, ce type de données du presse-papiers ne sera plus enregistré.";
+
+"After disabling, character sets containing only Unicode General Category Z*, U+000A to U+000D, and U+0085 will no longer be recorded." = "Une fois désactivé, les jeux de caractères contenant uniquement la catégorie générale Unicode Z*, U+000A à U+000D et U+0085 ne seront plus enregistrés.";
+
+"App Excluding" = "Exclusion d’apps";
+
+"Appearance" = "Apparence";
+
+"Application Excluded" = "Apps exclues";
+
+"Are you sure you want to clear your clipboard history?" = "Voulez-vous vraiment effacer l’historique du presse-papiers ?";
+
+"Cancel" = "Annuler";
+
+"Changelog" = "Journal des modifications";
+
+"Clear Clipboard History" = "Effacer l’historique du presse-papiers";
+
+"Clear History" = "Effacer l’historique";
+
+"Clear History On Exit" = "Effacer l’historique à la fermeture";
+
+"Clipboard" = "Presse-papiers";
+
+"Clipboard Options" = "Options du presse-papiers";
+
+"Clipboard Tracking" = "Suivi du presse-papiers";
+
+"Copy" = "Copier";
+
+"Copy to Plain Text" = "Copier en texte brut";
+
+/* Dark */
+"Dark" = "Sombre";
+
+"Day" = "Jour";
+
+"Delete" = "Supprimer";
+
+"Delete Clipboard History" = "Supprimer l’historique du presse-papiers";
+
+"Don't ask again" = "Ne plus demander";
+
+"Enable Preview Image" = "Activer l’aperçu des images";
+
+"Enable or disable clipboard history tracking. When disabled, the feature will no longer be available." = "Activez ou désactivez le suivi de l’historique du presse-papiers. Une fois désactivé, cette fonctionnalité ne sera plus disponible.";
+
+"Exclude apps to prevent %@ copying their contents." = "Excluez des apps pour empêcher %@ de copier leur contenu.";
+
+"Forever" = "Illimité";
+
+"General" = "Général";
+
+"Grant" = "Autoriser";
+
+"Granted" = "Autorisé";
+
+"Half A Year" = "Six mois";
+
+"Hide Dock Icon" = "Masquer l’icône du Dock";
+
+"If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images." = "Si la liste contient trop de données, désactiver l’aperçu des images peut améliorer les performances. L’activer permet de voir les images copiées dans la liste.";
+
+"If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "Si la limite d’enregistrement est inférieure au volume existant, %@ réduira progressivement l’excédent au lieu de tout supprimer d’un coup.";
+
+"Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "Coller avec un raccourci clavier ou insérer du texte dans un champ de saisie nécessite l’accès **%@**.";
+
+"Language" = "Langue";
+
+"Launch at login" = "Ouvrir à la connexion";
+
+/* Light */
+"Light" = "Clair";
+
+"Limit %@'s functions in the specified apps." = "Limitez les fonctions de %@ dans les apps indiquées.";
+
+"Link Cleanup Options" = "Nettoyage des liens";
+
+"List Count: (%lld)" = "Nombre d’éléments : (%lld)";
+
+"Main Window" = "Fenêtre principale";
+
+"Month" = "Mois";
+
+"More Apps by Me" = "Mes autres apps";
+
+"No Application Excluded" = "Aucune app exclue";
+
+"No content" = "Aucun contenu";
+
+"No favorites in clipboard history" = "Aucun favori dans l’historique du presse-papiers";
+
+"No history in clipboard" = "Aucun historique dans le presse-papiers";
+
+"No text found in the image" = "Aucun texte trouvé dans l’image";
+
+"Open %@" = "Ouvrir %@";
+
+"Open Main Window" = "Ouvrir la fenêtre principale";
+
+"Open Quick Past Window" = "Ouvrir la fenêtre de collage rapide";
+
+"Open Search Window" = "Ouvrir la fenêtre de recherche";
+
+"Open file location" = "Ouvrir l’emplacement du fichier";
+
+"Open in Browser" = "Ouvrir dans le navigateur";
+
+"Paste Shortcut" = "Raccourci de collage";
+
+"Pin Main Window" = "Épingler la fenêtre principale";
+
+"Pin Window" = "Épingler la fenêtre";
+
+"Preservation Period" = "Durée de conservation";
+
+"Privacy & Security" = "Confidentialité et sécurité";
+
+"Quarter" = "Trimestre";
+
+"Quit %@" = "Quitter %@";
+
+"Recognize text in the image" = "Reconnaître le texte de l’image";
+
+"Recognizing…" = "Reconnaissance…";
+
+"Remove Application" = "Supprimer l’app";
+
+"Remove Favorites" = "Retirer des favoris";
+
+"Remove parameters when copying or inserting links" = "Supprimer les paramètres lors de la copie ou de l’insertion de liens";
+
+"Save Invisible Text" = "Enregistrer le texte invisible";
+
+"Saved Count" = "Nombre enregistré";
+
+"Search %@" = "Rechercher %@";
+
+"Security" = "Sécurité";
+
+"Select the clipboard content to be recorded" = "Sélectionnez le contenu du presse-papiers à enregistrer";
+
+"Set modifier keys for quick paste: %@" = "Définir les touches de modification pour le collage rapide : %@";
+
+"Set the number of lines to display the text in the list." = "Définissez le nombre de lignes affichées pour le texte dans la liste.";
+
+"Settings..." = "Réglages...";
+
+"Share Image..." = "Partager l’image...";
+
+"Share Text..." = "Partager le texte...";
+
+"Share URL..." = "Partager l’URL...";
+
+"Shortcut Key" = "Raccourci";
+
+"Show App Icon" = "Afficher l’icône de l’app";
+
+"Show Favorite" = "Afficher les favoris";
+
+"Show hidden application icons in the clipboard list." = "Affichez les icônes d’apps masquées dans la liste du presse-papiers.";
+
+"Show/hide favorite %@" = "Afficher/masquer le favori %@";
+
+"Simply enable clipboard tracking to capture everything you copy." = "Activez simplement le suivi du presse-papiers pour enregistrer tout ce que vous copiez.";
+
+"Size: %@ x %@" = "Taille : %1$@ × %2$@";
+
+"Switch Category Menu" = "Changer de catégorie";
+
+/* System */
+"System" = "Système";
+
+"System Settings" = "Réglages Système";
+
+"There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "Il y a %lld éléments au total. Cette action supprimera définitivement tout l’historique du presse-papiers et est irréversible.";
+
+"Unlock all Features" = "Débloquer toutes les fonctionnalités";
+
+"Update interval" = "Intervalle de mise à jour";
+
+"Upgrade to VIP, unlock unlimited usage" = "Passez à VIP pour un usage illimité";
+
+"Use %@ shortcuts in the main window to switch between categories." = "Utilisez les raccourcis %@ dans la fenêtre principale pour changer de catégorie.";
+
+"Version %@ (%@)" = "Version %1$@ (%2$@)";
+
+"Visible Lines: (%lld)" = "Lignes visibles : (%lld)";
+
+"Week" = "Semaine";
+
+"Year" = "Année";
+
+"Your generous financial assistance, I have great confidence in keeping %@ healthy and maintaining it actively." = "Grâce à votre généreuse aide financière, j'ai pleinement confiance pour garder %@ en bonne santé et l'entretenir activement.";
+
+"[Return to list](return2list)" = "[Retour à la liste](return2list)";
+
+"[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=PasteQuick) • [Github](https://github.com/jaywcjlove/paste-quick)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=PasteQuick) • [Github](https://github.com/jaywcjlove/paste-quick)";
+
+"all" = "Tout";
+
+/* command */
+"command ⌘" = "command ⌘";
+
+/* control */
+"control ⌃" = "control ⌃";
+
+/* file */
+"file" = "Fichier";
+
+/* folder */
+"folder" = "Dossier";
+
+/* html */
+"html" = "HTML";
+
+/* image */
+"image" = "Image";
+
+/* none */
+"none" = "Aucun";
+
+/* option */
+"option ⌥" = "option ⌥";
+
+/* text */
+"text" = "Texte";
+
+/* url */
+"url" = "URL";
+
+"⌘ + 1~6" = "⌘ + 1~6";

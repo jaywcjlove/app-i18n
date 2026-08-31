@@ -1,0 +1,262 @@
+"%@" = "%@";
+
+"%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> 加入 **%4$@** 並勾選";
+
+"%@ Dark Mode" = "%@ 深色模式";
+
+"%@ Follow System" = "%@ 跟隨系統";
+
+"%@ Light Mode" = "%@ 淺色模式";
+
+"%@ Needs Access" = "%@ 需要取用權限";
+
+"%@%@" = "%1$@%2$@";
+
+"%lld copies recorded." = "已記錄 %lld 次複製";
+
+"%lld history records, [Settings](settings) to display more." = "%lld 筆歷史記錄，[設定](settings) 以顯示更多。";
+
+"**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "**%1$@** 權限已開啟。**%2$@** 現在可以使用快速鍵貼上，並向輸入欄插入文字。";
+
+"About" = "關於";
+
+"About %@" = "關於 %@";
+
+"Acknowledgments" = "致謝";
+
+"Add Application" = "加入 App";
+
+"Add to Favorites" = "加入收藏";
+
+"After deselection, this type of clipboard data will no longer be recorded." = "取消選取後，將不再記錄此類型的剪貼板資料。";
+
+"After disabling, character sets containing only Unicode General Category Z*, U+000A to U+000D, and U+0085 will no longer be recorded." = "停用後，僅包含 Unicode 一般類別 Z*、U+000A 至 U+000D 及 U+0085 的字元集將不再被記錄。";
+
+"App Excluding" = "排除 App";
+
+"Appearance" = "外觀";
+
+"Application Excluded" = "已排除的 App";
+
+"Are you sure you want to clear your clipboard history?" = "確定要清除剪貼板歷史記錄嗎？";
+
+"Cancel" = "取消";
+
+"Changelog" = "變更日誌";
+
+"Clear Clipboard History" = "清除剪貼板歷史記錄";
+
+"Clear History" = "清除歷史記錄";
+
+"Clear History On Exit" = "結束時清除歷史記錄";
+
+"Clipboard" = "剪貼板";
+
+"Clipboard Options" = "剪貼板選項";
+
+"Clipboard Tracking" = "剪貼板追蹤";
+
+"Copy" = "複製";
+
+"Copy to Plain Text" = "複製為純文字";
+
+/* Dark */
+"Dark" = "深色";
+
+"Day" = "天";
+
+"Delete" = "刪除";
+
+"Delete Clipboard History" = "刪除剪貼板歷史記錄";
+
+"Don't ask again" = "下次不要再詢問";
+
+"Enable Preview Image" = "啟用預覽影像";
+
+"Enable or disable clipboard history tracking. When disabled, the feature will no longer be available." = "啟用或停用剪貼板歷史記錄追蹤。停用後，此功能將無法使用。";
+
+"Exclude apps to prevent %@ copying their contents." = "排除 App，避免 %@ 複製其內容。";
+
+"Forever" = "永久";
+
+"General" = "一般";
+
+"Grant" = "授權";
+
+"Granted" = "已授權";
+
+"Half A Year" = "半年";
+
+"Hide Dock Icon" = "隱藏 Dock 圖像";
+
+"If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images." = "如果列表中顯示的資料量過大，停用圖片預覽可提升效能。在列表中啟用圖片預覽即可查看已複製的圖片。";
+
+"If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "若儲存上限低於現有資料數量，%@ 會逐步減少多餘項目，而不是一次清空。";
+
+"Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "使用快速鍵貼上或向輸入欄插入文字需要開啟 **%@** 取用權限。";
+
+"Language" = "語言";
+
+"Launch at login" = "登入時開啟";
+
+/* Light */
+"Light" = "淺色";
+
+"Limit %@'s functions in the specified apps." = "在指定的 App 中限制 %@ 的功能。";
+
+"Link Cleanup Options" = "連結清理選項";
+
+"List Count: (%lld)" = "列表數量：(%lld)";
+
+"Main Window" = "主視窗";
+
+"Month" = "月";
+
+"More Apps by Me" = "我的更多 App";
+
+"No Application Excluded" = "未排除任何 App";
+
+"No content" = "沒有內容";
+
+"No favorites in clipboard history" = "剪貼板歷史記錄中沒有收藏";
+
+"No history in clipboard" = "剪貼板中沒有歷史記錄";
+
+"No text found in the image" = "圖片中未辨識到文字";
+
+"Open %@" = "打開 %@";
+
+"Open Main Window" = "打開主視窗";
+
+"Open Quick Past Window" = "打開快速貼上視窗";
+
+"Open Search Window" = "打開搜尋視窗";
+
+"Open file location" = "打開檔案所在位置";
+
+"Open in Browser" = "在瀏覽器中打開";
+
+"Paste Shortcut" = "貼上快速鍵";
+
+"Pin Main Window" = "固定主視窗";
+
+"Pin Window" = "固定視窗";
+
+"Preservation Period" = "保存期限";
+
+"Privacy & Security" = "隱私權與安全性";
+
+"Quarter" = "季度";
+
+"Quit %@" = "結束 %@";
+
+"Recognize text in the image" = "辨識圖片中的文字";
+
+"Recognizing…" = "辨識中…";
+
+"Remove Application" = "移除 App";
+
+"Remove Favorites" = "取消收藏";
+
+"Remove parameters when copying or inserting links" = "複製或插入連結時移除參數";
+
+"Save Invisible Text" = "儲存不可見文字";
+
+"Saved Count" = "儲存數量";
+
+"Search %@" = "搜尋 %@";
+
+"Security" = "安全性";
+
+"Select the clipboard content to be recorded" = "選擇要記錄的剪貼板內容";
+
+"Set modifier keys for quick paste: %@" = "設定快速貼上修飾鍵： %@";
+
+"Set the number of lines to display the text in the list." = "設定列表中文字顯示的行數。";
+
+"Settings..." = "設定…";
+
+"Share Image..." = "分享圖片...";
+
+"Share Text..." = "分享文字...";
+
+"Share URL..." = "分享連結...";
+
+"Shortcut Key" = "快速鍵";
+
+"Show App Icon" = "顯示 App 圖像";
+
+"Show Favorite" = "顯示收藏";
+
+"Show hidden application icons in the clipboard list." = "在剪貼板列表中顯示隱藏的 App 圖像。";
+
+"Show/hide favorite %@" = "顯示/隱藏收藏 %@";
+
+"Simply enable clipboard tracking to capture everything you copy." = "只要啟用剪貼板追蹤，複製的內容就會自動儲存。";
+
+"Size: %@ x %@" = "尺寸：%1$@ x %2$@";
+
+"Switch Category Menu" = "分類選單切換";
+
+/* System */
+"System" = "跟隨系統";
+
+"System Settings" = "系統設定";
+
+"There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "共有 %lld 個項目。此操作會永久刪除所有剪貼板歷史記錄，且無法復原。";
+
+"Unlock all Features" = "解鎖全部功能";
+
+"Update interval" = "更新間隔";
+
+"Upgrade to VIP, unlock unlimited usage" = "升級至 VIP，解鎖無限使用";
+
+"Use %@ shortcuts in the main window to switch between categories." = "在主視窗使用 %@ 快速鍵切換分類。";
+
+"Version %@ (%@)" = "版本 %1$@ (%2$@)";
+
+"Visible Lines: (%lld)" = "可見行數：(%lld)";
+
+"Week" = "週";
+
+"Year" = "年";
+
+"Your generous financial assistance, I have great confidence in keeping %@ healthy and maintaining it actively." = "感謝您慷慨的經濟援助，我很有信心讓 %@ 保持健康發展並持續維護。";
+
+"[Return to list](return2list)" = "[返回列表](return2list)";
+
+"[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=PasteQuick) • [Github](https://github.com/jaywcjlove/paste-quick)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=PasteQuick) • [Github](https://github.com/jaywcjlove/paste-quick)";
+
+"all" = "全部";
+
+/* command */
+"command ⌘" = "command ⌘";
+
+/* control */
+"control ⌃" = "control ⌃";
+
+/* file */
+"file" = "檔案";
+
+/* folder */
+"folder" = "檔案夾";
+
+/* html */
+"html" = "HTML";
+
+/* image */
+"image" = "圖片";
+
+/* none */
+"none" = "無";
+
+/* option */
+"option ⌥" = "option ⌥";
+
+/* text */
+"text" = "文字";
+
+/* url */
+"url" = "連結";
+
+"⌘ + 1~6" = "⌘ + 1~6";
