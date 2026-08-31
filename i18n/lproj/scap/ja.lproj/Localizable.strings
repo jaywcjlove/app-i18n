@@ -14,8 +14,6 @@
 
 "%@ permission allows **%@** to capture the desktop, take screenshots, and annotate the screen." = "%1$@ 権限により、**%2$@** はデスクトップをキャプチャし、スクリーンショットを撮影し、画面に注釈を付けられます。";
 
-"%@ permission allows **%@** to respond to global keyboard shortcuts and capture the full screen." = "%1$@ 権限により、**%2$@** はグローバルショートカットに応答し、全画面をキャプチャできます。";
-
 "%@%@" = "%1$@%2$@";
 
 "%lld" = "%lld";
@@ -23,8 +21,6 @@
 "%lldpx" = "%lldpx";
 
 "**%@** permission is enabled. **%@** can now capture the desktop." = "**%1$@** 権限が有効です。**%2$@** はデスクトップをキャプチャできます。";
-
-"**%@** permission is enabled. **%@** can now respond to global keyboard shortcuts and capture the full screen." = "**%1$@** 権限が有効です。**%2$@** はグローバルショートカットに応答し、全画面をキャプチャできます。";
 
 "About" = "について";
 
@@ -39,8 +35,6 @@
 "Add image icon" = "画像アイコンを追加";
 
 "Appearance" = "外観";
-
-"Authorization Required" = "許可が必要です";
 
 "Background" = "背景";
 
@@ -168,6 +162,8 @@
 
 "Screenshot QR Code" = "スクリーンショットQRコード";
 
+"Screenshot Shadow" = "スクリーンショットの影";
+
 "Screenshot Sound" = "スクリーンショット音";
 
 "Select Save Folder" = "保存フォルダを選択";
@@ -189,8 +185,6 @@
 "Start/End Color" = "開始/終了色";
 
 "System Preferences" = "システム環境設定";
-
-"System Settings" = "システム設定";
 
 "Terms of Service" = "利用規約";
 

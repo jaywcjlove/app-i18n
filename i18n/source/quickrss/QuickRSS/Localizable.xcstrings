@@ -1673,14 +1673,54 @@
     },
     "Args: --mcp" : {
       "localizations" : {
-        "de" : { "stringUnit" : { "state" : "translated", "value" : "Argumente: --mcp" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Arguments : --mcp" } },
-        "it" : { "stringUnit" : { "state" : "translated", "value" : "Argomenti: --mcp" } },
-        "ja" : { "stringUnit" : { "state" : "translated", "value" : "引数: --mcp" } },
-        "ko" : { "stringUnit" : { "state" : "translated", "value" : "인수: --mcp" } },
-        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Аргументы: --mcp" } },
-        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "参数：--mcp" } },
-        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "參數：--mcp" } }
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Argumente: --mcp"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arguments : --mcp"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Argomenti: --mcp"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "引数: --mcp"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인수: --mcp"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аргументы: --mcp"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "参数：--mcp"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "參數：--mcp"
+          }
+        }
       }
     },
     "Bulk Export RSS Sources" : {
@@ -1945,14 +1985,54 @@
     },
     "Command" : {
       "localizations" : {
-        "de" : { "stringUnit" : { "state" : "translated", "value" : "Befehl" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Commande" } },
-        "it" : { "stringUnit" : { "state" : "translated", "value" : "Comando" } },
-        "ja" : { "stringUnit" : { "state" : "translated", "value" : "コマンド" } },
-        "ko" : { "stringUnit" : { "state" : "translated", "value" : "명령" } },
-        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Команда" } },
-        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "命令" } },
-        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "命令" } }
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Befehl"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commande"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comando"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コマンド"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "명령"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Команда"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "命令"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "命令"
+          }
+        }
       }
     },
     "Confirm" : {
@@ -2321,14 +2401,54 @@
     },
     "Copy Claude stdio config" : {
       "localizations" : {
-        "de" : { "stringUnit" : { "state" : "translated", "value" : "Claude-stdio-Konfiguration kopieren" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Copier la configuration stdio de Claude" } },
-        "it" : { "stringUnit" : { "state" : "translated", "value" : "Copia configurazione stdio di Claude" } },
-        "ja" : { "stringUnit" : { "state" : "translated", "value" : "Claude の stdio 設定をコピー" } },
-        "ko" : { "stringUnit" : { "state" : "translated", "value" : "Claude stdio 구성 복사" } },
-        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Копировать конфигурацию stdio Claude" } },
-        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "复制 Claude stdio 配置" } },
-        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "複製 Claude stdio 設定" } }
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claude-stdio-Konfiguration kopieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copier la configuration stdio de Claude"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copia configurazione stdio di Claude"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claude の stdio 設定をコピー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claude stdio 구성 복사"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Копировать конфигурацию stdio Claude"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制 Claude stdio 配置"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "複製 Claude stdio 設定"
+          }
+        }
       }
     },
     "Copy Content" : {
@@ -2593,14 +2713,54 @@
     },
     "Copy Grok stdio config" : {
       "localizations" : {
-        "de" : { "stringUnit" : { "state" : "translated", "value" : "Grok-stdio-Konfiguration kopieren" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Copier la configuration stdio de Grok" } },
-        "it" : { "stringUnit" : { "state" : "translated", "value" : "Copia configurazione stdio di Grok" } },
-        "ja" : { "stringUnit" : { "state" : "translated", "value" : "Grok の stdio 設定をコピー" } },
-        "ko" : { "stringUnit" : { "state" : "translated", "value" : "Grok stdio 구성 복사" } },
-        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Копировать конфигурацию stdio Grok" } },
-        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "复制 Grok stdio 配置" } },
-        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "複製 Grok stdio 設定" } }
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grok-stdio-Konfiguration kopieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copier la configuration stdio de Grok"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copia configurazione stdio di Grok"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grok の stdio 設定をコピー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grok stdio 구성 복사"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Копировать конфигурацию stdio Grok"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制 Grok stdio 配置"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "複製 Grok stdio 設定"
+          }
+        }
       }
     },
     "Copy Home Page URL" : {
@@ -3855,14 +4015,54 @@
     },
     "HTTP client config" : {
       "localizations" : {
-        "de" : { "stringUnit" : { "state" : "translated", "value" : "HTTP-Client-Konfiguration" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Configuration du client HTTP" } },
-        "it" : { "stringUnit" : { "state" : "translated", "value" : "Configurazione client HTTP" } },
-        "ja" : { "stringUnit" : { "state" : "translated", "value" : "HTTP クライアント設定" } },
-        "ko" : { "stringUnit" : { "state" : "translated", "value" : "HTTP 클라이언트 구성" } },
-        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Конфигурация HTTP-клиента" } },
-        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "HTTP 客户端配置" } },
-        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "HTTP 用戶端設定" } }
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTP-Client-Konfiguration"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuration du client HTTP"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configurazione client HTTP"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTP クライアント設定"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTP 클라이언트 구성"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Конфигурация HTTP-клиента"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTP 客户端配置"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTTP 用戶端設定"
+          }
+        }
       }
     },
     "iCloud Sync" : {
@@ -7114,14 +7314,54 @@
     },
     "stdio" : {
       "localizations" : {
-        "de" : { "stringUnit" : { "state" : "translated", "value" : "Standard-Ein-/Ausgabe" } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Entrée/sortie standard" } },
-        "it" : { "stringUnit" : { "state" : "translated", "value" : "Input/output standard" } },
-        "ja" : { "stringUnit" : { "state" : "translated", "value" : "標準入出力" } },
-        "ko" : { "stringUnit" : { "state" : "translated", "value" : "표준 입출력" } },
-        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Стандартный ввод-вывод" } },
-        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "标准输入/输出" } },
-        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "標準輸入／輸出" } }
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard-Ein-/Ausgabe"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrée/sortie standard"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Input/output standard"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "標準入出力"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "표준 입출력"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Стандартный ввод-вывод"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标准输入/输出"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "標準輸入／輸出"
+          }
+        }
       }
     },
     "Stopped" : {
@@ -7452,14 +7692,54 @@
     },
     "The client starts a separate process. Disconnecting it does not quit an already open QuickRSS window." : {
       "localizations" : {
-        "de" : { "stringUnit" : { "state" : "translated", "value" : "Der Client startet einen separaten Prozess. Durch das Trennen der Verbindung wird ein bereits geöffnetes QuickRSS-Fenster nicht geschlossen." } },
-        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Le client démarre un processus distinct. La déconnexion ne ferme pas une fenêtre QuickRSS déjà ouverte." } },
-        "it" : { "stringUnit" : { "state" : "translated", "value" : "Il client avvia un processo separato. La disconnessione non chiude una finestra di QuickRSS già aperta." } },
-        "ja" : { "stringUnit" : { "state" : "translated", "value" : "クライアントは別のプロセスを起動します。切断しても、すでに開いている QuickRSS ウインドウは閉じません。" } },
-        "ko" : { "stringUnit" : { "state" : "translated", "value" : "클라이언트는 별도의 프로세스를 시작합니다. 연결을 끊어도 이미 열려 있는 QuickRSS 창은 닫히지 않습니다." } },
-        "ru" : { "stringUnit" : { "state" : "translated", "value" : "Клиент запускает отдельный процесс. Отключение не закрывает уже открытое окно QuickRSS." } },
-        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "客户端会启动一个独立进程。断开连接不会关闭已打开的 QuickRSS 窗口。" } },
-        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "用戶端會啟動一個獨立程序。中斷連線不會關閉已開啟的 QuickRSS 視窗。" } }
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Client startet einen separaten Prozess. Durch das Trennen der Verbindung wird ein bereits geöffnetes QuickRSS-Fenster nicht geschlossen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le client démarre un processus distinct. La déconnexion ne ferme pas une fenêtre QuickRSS déjà ouverte."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il client avvia un processo separato. La disconnessione non chiude una finestra di QuickRSS già aperta."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クライアントは別のプロセスを起動します。切断しても、すでに開いている QuickRSS ウインドウは閉じません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "클라이언트는 별도의 프로세스를 시작합니다. 연결을 끊어도 이미 열려 있는 QuickRSS 창은 닫히지 않습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клиент запускает отдельный процесс. Отключение не закрывает уже открытое окно QuickRSS."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "客户端会启动一个独立进程。断开连接不会关闭已打开的 QuickRSS 窗口。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用戶端會啟動一個獨立程序。中斷連線不會關閉已開啟的 QuickRSS 視窗。"
+          }
+        }
       }
     },
     "The content you select will be displayed here." : {

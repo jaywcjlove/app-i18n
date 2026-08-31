@@ -14,8 +14,6 @@
 
 "%@ permission allows **%@** to capture the desktop, take screenshots, and annotate the screen." = "L'autorizzazione %1$@ consente a **%2$@** di catturare il desktop, fare screenshot e annotare lo schermo.";
 
-"%@ permission allows **%@** to respond to global keyboard shortcuts and capture the full screen." = "L'autorizzazione %1$@ consente a **%2$@** di rispondere alle scorciatoie globali e catturare l'intero schermo.";
-
 "%@%@" = "%1$@%2$@";
 
 "%lld" = "%lld";
@@ -23,8 +21,6 @@
 "%lldpx" = "%lldpx";
 
 "**%@** permission is enabled. **%@** can now capture the desktop." = "L'autorizzazione **%1$@** è abilitata. **%2$@** può ora catturare il desktop.";
-
-"**%@** permission is enabled. **%@** can now respond to global keyboard shortcuts and capture the full screen." = "L'autorizzazione **%1$@** è abilitata. **%2$@** può ora rispondere alle scorciatoie globali e catturare l'intero schermo.";
 
 "About" = "Informazioni";
 
@@ -39,8 +35,6 @@
 "Add image icon" = "Aggiungi icona immagine";
 
 "Appearance" = "Aspetto";
-
-"Authorization Required" = "Autorizzazione richiesta";
 
 "Background" = "Sfondo";
 
@@ -168,6 +162,8 @@
 
 "Screenshot QR Code" = "Codice QR da schermata";
 
+"Screenshot Shadow" = "Ombra dello screenshot";
+
 "Screenshot Sound" = "Suono schermata";
 
 "Select Save Folder" = "Seleziona cartella di salvataggio";
@@ -189,8 +185,6 @@
 "Start/End Color" = "Colore iniziale/finale";
 
 "System Preferences" = "Preferenze di Sistema";
-
-"System Settings" = "Impostazioni di Sistema";
 
 "Terms of Service" = "Termini di servizio";
 

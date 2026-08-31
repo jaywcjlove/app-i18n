@@ -215,64 +215,6 @@
         }
       }
     },
-    "**%@** permission is enabled. **%@** can now respond to global keyboard shortcuts and capture the full screen." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "**%1$@**-Berechtigung ist aktiviert. **%2$@** kann jetzt auf globale Tastenkürzel reagieren und den gesamten Bildschirm aufnehmen."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "**%1$@** permission is enabled. **%2$@** can now respond to global keyboard shortcuts and capture the full screen."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "L'autorisation **%1$@** est activée. **%2$@** peut maintenant répondre aux raccourcis clavier globaux et capturer l'écran entier."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "L'autorizzazione **%1$@** è abilitata. **%2$@** può ora rispondere alle scorciatoie globali e catturare l'intero schermo."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "**%1$@** 権限が有効です。**%2$@** はグローバルショートカットに応答し、全画面をキャプチャできます。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "**%1$@** 권한이 활성화되었습니다. 이제 **%2$@**은(는) 전역 단축키에 응답하고 전체 화면을 캡처할 수 있습니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Разрешение **%1$@** включено. Теперь **%2$@** может реагировать на глобальные сочетания клавиш и снимать весь экран."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "**%1$@** 权限已启用。现在 **%2$@** 可以响应全局快捷键并捕获全屏。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "**%1$@** 權限已啟用。現在 **%2$@** 可以回應全域快速鍵並擷取全螢幕。"
-          }
-        }
-      }
-    },
     "%@" : {
       "localizations" : {
         "de" : {
@@ -651,64 +593,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ 權限允許 **%2$@** 擷取桌面、截圖並在螢幕上標註。"
-          }
-        }
-      }
-    },
-    "%@ permission allows **%@** to respond to global keyboard shortcuts and capture the full screen." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Die %1$@-Berechtigung ermöglicht **%2$@**, auf globale Tastenkürzel zu reagieren und den gesamten Bildschirm aufzunehmen."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ permission allows **%2$@** to respond to global keyboard shortcuts and capture the full screen."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "L'autorisation %1$@ permet à **%2$@** de répondre aux raccourcis clavier globaux et de capturer l'écran entier."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "L'autorizzazione %1$@ consente a **%2$@** di rispondere alle scorciatoie globali e catturare l'intero schermo."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ 権限により、**%2$@** はグローバルショートカットに応答し、全画面をキャプチャできます。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ 권한을 통해 **%2$@**은(는) 전역 단축키에 응답하고 전체 화면을 캡처할 수 있습니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Разрешение %1$@ позволяет **%2$@** реагировать на глобальные сочетания клавиш и снимать весь экран."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ 权限允许 **%2$@** 响应全局快捷键并捕获全屏。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ 權限允許 **%2$@** 回應全域快速鍵並擷取全螢幕。"
           }
         }
       }
@@ -1235,58 +1119,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "外觀"
-          }
-        }
-      }
-    },
-    "Authorization Required" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Autorisierung erforderlich"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Autorisation requise"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Autorizzazione richiesta"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "許可が必要です"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "권한 필요"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Требуется разрешение"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "需要授权"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "需要授權"
           }
         }
       }
@@ -4619,6 +4451,58 @@
         }
       }
     },
+    "Screenshot Shadow" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Screenshot-Schatten"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ombre de la capture d'écran"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ombra dello screenshot"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクリーンショットの影"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스크린샷 그림자"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тень снимка экрана"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "截图阴影"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "截圖陰影"
+          }
+        }
+      }
+    },
     "Screenshot Sound" : {
       "localizations" : {
         "de" : {
@@ -5187,58 +5071,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "系統偏好設定"
-          }
-        }
-      }
-    },
-    "System Settings" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Systemeinstellungen"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Réglages Système"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Impostazioni di Sistema"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "システム設定"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "시스템 설정"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Системные настройки"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "系统设置"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "系統設定"
           }
         }
       }

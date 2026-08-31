@@ -14,8 +14,6 @@
 
 "%@ permission allows **%@** to capture the desktop, take screenshots, and annotate the screen." = "%1$@ 권한을 통해 **%2$@**은(는) 데스크톱을 캡처하고, 스크린샷을 찍고, 화면에 주석을 달 수 있습니다.";
 
-"%@ permission allows **%@** to respond to global keyboard shortcuts and capture the full screen." = "%1$@ 권한을 통해 **%2$@**은(는) 전역 단축키에 응답하고 전체 화면을 캡처할 수 있습니다.";
-
 "%@%@" = "%1$@%2$@";
 
 "%lld" = "%lld";
@@ -23,8 +21,6 @@
 "%lldpx" = "%lldpx";
 
 "**%@** permission is enabled. **%@** can now capture the desktop." = "**%1$@** 권한이 활성화되었습니다. 이제 **%2$@**은(는) 데스크톱을 캡처할 수 있습니다.";
-
-"**%@** permission is enabled. **%@** can now respond to global keyboard shortcuts and capture the full screen." = "**%1$@** 권한이 활성화되었습니다. 이제 **%2$@**은(는) 전역 단축키에 응답하고 전체 화면을 캡처할 수 있습니다.";
 
 "About" = "정보";
 
@@ -39,8 +35,6 @@
 "Add image icon" = "이미지 아이콘 추가";
 
 "Appearance" = "외관";
-
-"Authorization Required" = "권한 필요";
 
 "Background" = "배경";
 
@@ -168,6 +162,8 @@
 
 "Screenshot QR Code" = "스크린샷 QR 코드";
 
+"Screenshot Shadow" = "스크린샷 그림자";
+
 "Screenshot Sound" = "스크린샷 사운드";
 
 "Select Save Folder" = "저장 폴더 선택";
@@ -189,8 +185,6 @@
 "Start/End Color" = "시작/끝 색상";
 
 "System Preferences" = "시스템 환경설정";
-
-"System Settings" = "시스템 설정";
 
 "Terms of Service" = "서비스 약관";
 

@@ -14,8 +14,6 @@
 
 "%@ permission allows **%@** to capture the desktop, take screenshots, and annotate the screen." = "%1$@ 權限允許 **%2$@** 擷取桌面、截圖並在螢幕上標註。";
 
-"%@ permission allows **%@** to respond to global keyboard shortcuts and capture the full screen." = "%1$@ 權限允許 **%2$@** 回應全域快速鍵並擷取全螢幕。";
-
 "%@%@" = "%1$@%2$@";
 
 "%lld" = "%lld";
@@ -23,8 +21,6 @@
 "%lldpx" = "%lldpx";
 
 "**%@** permission is enabled. **%@** can now capture the desktop." = "**%1$@** 權限已啟用。現在 **%2$@** 可以擷取桌面。";
-
-"**%@** permission is enabled. **%@** can now respond to global keyboard shortcuts and capture the full screen." = "**%1$@** 權限已啟用。現在 **%2$@** 可以回應全域快速鍵並擷取全螢幕。";
 
 "About" = "關於";
 
@@ -39,8 +35,6 @@
 "Add image icon" = "添加圖片圖示";
 
 "Appearance" = "外觀";
-
-"Authorization Required" = "需要授權";
 
 "Background" = "背景";
 
@@ -168,6 +162,8 @@
 
 "Screenshot QR Code" = "螢幕截圖 QR 碼";
 
+"Screenshot Shadow" = "截圖陰影";
+
 "Screenshot Sound" = "截圖音效";
 
 "Select Save Folder" = "選擇儲存資料夾";
@@ -189,8 +185,6 @@
 "Start/End Color" = "起始/結束顏色";
 
 "System Preferences" = "系統偏好設定";
-
-"System Settings" = "系統設定";
 
 "Terms of Service" = "服務條款";
 

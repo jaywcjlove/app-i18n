@@ -14,8 +14,6 @@
 
 "%@ permission allows **%@** to capture the desktop, take screenshots, and annotate the screen." = "Разрешение %1$@ позволяет **%2$@** снимать рабочий стол, делать скриншоты и добавлять аннотации.";
 
-"%@ permission allows **%@** to respond to global keyboard shortcuts and capture the full screen." = "Разрешение %1$@ позволяет **%2$@** реагировать на глобальные сочетания клавиш и снимать весь экран.";
-
 "%@%@" = "%1$@%2$@";
 
 "%lld" = "%lld";
@@ -23,8 +21,6 @@
 "%lldpx" = "%lldpx";
 
 "**%@** permission is enabled. **%@** can now capture the desktop." = "Разрешение **%1$@** включено. Теперь **%2$@** может снимать рабочий стол.";
-
-"**%@** permission is enabled. **%@** can now respond to global keyboard shortcuts and capture the full screen." = "Разрешение **%1$@** включено. Теперь **%2$@** может реагировать на глобальные сочетания клавиш и снимать весь экран.";
 
 "About" = "О приложении";
 
@@ -39,8 +35,6 @@
 "Add image icon" = "Добавить значок изображения";
 
 "Appearance" = "Внешний вид";
-
-"Authorization Required" = "Требуется разрешение";
 
 "Background" = "Фон";
 
@@ -168,6 +162,8 @@
 
 "Screenshot QR Code" = "QR-код со снимка экрана";
 
+"Screenshot Shadow" = "Тень снимка экрана";
+
 "Screenshot Sound" = "Звук снимка экрана";
 
 "Select Save Folder" = "Выбрать папку для сохранения";
@@ -189,8 +185,6 @@
 "Start/End Color" = "Начальный/конечный цвет";
 
 "System Preferences" = "Системные настройки";
-
-"System Settings" = "Системные настройки";
 
 "Terms of Service" = "Условия использования";
 
