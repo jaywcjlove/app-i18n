@@ -1,5 +1,3 @@
-" " = " ";
-
 "%@" = "%@";
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Thêm **%4$@** và kiểm tra";
@@ -71,6 +69,8 @@
 
 "Delete Clipboard History" = "Xóa lịch sử khay nhớ tạm";
 
+"Do not record clipboard items marked as transient, concealed, or auto-generated. Transient content is temporary. Concealed content is confidential (for example passwords). Auto-generated content is written by an app for pasting rather than an explicit Copy. This also covers older markers used by password managers and text expanders." = "Không ghi các mục clipboard được đánh dấu là tạm thời, bí mật hoặc tự động tạo. Nội dung tạm thời chỉ tồn tại trong thời gian ngắn. Nội dung bí mật là thông tin nhạy cảm (ví dụ mật khẩu). Nội dung tự động tạo do ứng dụng ghi ra để dán, không phải do người dùng chủ động sao chép. Tùy chọn này cũng bao gồm các marker cũ của trình quản lý mật khẩu và công cụ mở rộng văn bản.";
+
 "Don't ask again" = "Không hỏi lại";
 
 "Enable Preview Image" = "Bật xem trước hình ảnh";
@@ -94,6 +94,8 @@
 "If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images." = "Nếu lượng dữ liệu hiển thị trong danh sách quá lớn, việc tắt xem trước hình ảnh có thể cải thiện hiệu suất. Bật xem trước hình ảnh trong danh sách cho phép bạn xem các hình ảnh đã sao chép.";
 
 "If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "Nếu giới hạn lưu trữ vượt quá lượng dữ liệu hiện có, %@ sẽ giảm dần phần dư thừa thay vì xóa toàn bộ dữ liệu thừa cùng lúc.";
+
+"Ignore Transient Clipboard" = "Bỏ qua clipboard tạm thời";
 
 "Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "Dán bằng phím tắt hoặc chèn văn bản vào trường nhập cần quyền truy cập **%@**.";
 

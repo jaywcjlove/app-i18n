@@ -1,5 +1,3 @@
-" " = " ";
-
 "%@" = "%@";
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Add **%4$@** and check";
@@ -71,6 +69,8 @@
 
 "Delete Clipboard History" = "Delete Clipboard History";
 
+"Do not record clipboard items marked as transient, concealed, or auto-generated. Transient content is temporary. Concealed content is confidential (for example passwords). Auto-generated content is written by an app for pasting rather than an explicit Copy. This also covers older markers used by password managers and text expanders." = "Do not record clipboard items marked as transient, concealed, or auto-generated. Transient content is temporary. Concealed content is confidential (for example passwords). Auto-generated content is written by an app for pasting rather than an explicit Copy. This also covers older markers used by password managers and text expanders.";
+
 "Don't ask again" = "Don't ask again";
 
 "Enable Preview Image" = "Enable Preview Image";
@@ -94,6 +94,8 @@
 "If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images." = "If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images.";
 
 "If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once.";
+
+"Ignore Transient Clipboard" = "Ignore Transient Clipboard";
 
 "Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "Keyboard shortcut paste or inserting text into an input field requires **%@** access.";
 

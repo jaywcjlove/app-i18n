@@ -1,5 +1,3 @@
-" " = " ";
-
 "%@" = "%@";
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Aggiungi **%4$@** e verifica";
@@ -71,6 +69,8 @@
 
 "Delete Clipboard History" = "Elimina cronologia appunti";
 
+"Do not record clipboard items marked as transient, concealed, or auto-generated. Transient content is temporary. Concealed content is confidential (for example passwords). Auto-generated content is written by an app for pasting rather than an explicit Copy. This also covers older markers used by password managers and text expanders." = "Non registrare gli elementi degli appunti contrassegnati come transitori, riservati o generati automaticamente. Il contenuto transitorio è temporaneo. Il contenuto riservato è confidenziale (ad esempio le password). Il contenuto generato automaticamente è scritto da un’app per l’incolla, non da una copia esplicita. Copre anche i marcatori più vecchi usati da gestori di password ed espansori di testo.";
+
 "Don't ask again" = "Non chiedere più";
 
 "Enable Preview Image" = "Attiva anteprima immagine";
@@ -94,6 +94,8 @@
 "If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images." = "Se la quantità di dati mostrata nell'elenco è troppo grande, disattivare l'anteprima delle immagini può migliorare le prestazioni. Attivare l'anteprima nell'elenco consente di visualizzare le immagini copiate.";
 
 "If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "Se il limite di salvataggio supera la quantità di dati esistente, %@ ridurrà gradualmente l'eccedenza, invece di cancellare tutti i dati extra in una volta.";
+
+"Ignore Transient Clipboard" = "Ignora gli appunti transitori";
 
 "Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "Incollare con una scorciatoia da tastiera o inserire testo in un campo di input richiede l'accesso a **%@**.";
 

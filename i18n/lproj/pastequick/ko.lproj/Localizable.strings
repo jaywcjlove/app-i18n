@@ -1,5 +1,3 @@
-" " = " ";
-
 "%@" = "%@";
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@**을(를) 추가하고 체크";
@@ -71,6 +69,8 @@
 
 "Delete Clipboard History" = "클립보드 기록 삭제";
 
+"Do not record clipboard items marked as transient, concealed, or auto-generated. Transient content is temporary. Concealed content is confidential (for example passwords). Auto-generated content is written by an app for pasting rather than an explicit Copy. This also covers older markers used by password managers and text expanders." = "일시적, 기밀 또는 자동 생성으로 표시된 클립보드 항목은 기록하지 않습니다. 일시적 콘텐츠는 잠시만 존재합니다. 기밀 콘텐츠는 비밀번호 같은 민감 정보입니다. 자동 생성 콘텐츠는 사용자가 명시적으로 복사한 것이 아니라 앱이 붙여넣기를 위해 작성한 것입니다. 비밀번호 관리자와 텍스트 확장 도구가 쓰는 이전 마커도 포함됩니다.";
+
 "Don't ask again" = "다시 묻지 않기";
 
 "Enable Preview Image" = "이미지 미리보기 사용";
@@ -94,6 +94,8 @@
 "If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images." = "목록에 표시되는 데이터가 너무 많으면 이미지 미리보기를 꺼 성능을 개선할 수 있습니다. 켜면 복사한 이미지를 목록에서 볼 수 있습니다.";
 
 "If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "저장 한도가 기존 데이터보다 적으면 %@은(는) 초과분을 한 번에 지우지 않고 점진적으로 줄입니다.";
+
+"Ignore Transient Clipboard" = "일시적 클립보드 무시";
 
 "Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "키보드 단축키로 붙여넣거나 입력란에 텍스트를 삽입하려면 **%@** 접근 권한이 필요합니다.";
 

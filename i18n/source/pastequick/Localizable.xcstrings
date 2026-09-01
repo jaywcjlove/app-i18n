@@ -59,64 +59,6 @@
         }
       }
     },
-    " " : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : " "
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : " "
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : " "
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : " "
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : " "
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : " "
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : " "
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : " "
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : " "
-          }
-        }
-      }
-    },
     "[Return to list](return2list)" : {
       "localizations" : {
         "de" : {
@@ -2510,6 +2452,64 @@
         }
       }
     },
+    "Do not record clipboard items marked as transient, concealed, or auto-generated. Transient content is temporary. Concealed content is confidential (for example passwords). Auto-generated content is written by an app for pasting rather than an explicit Copy. This also covers older markers used by password managers and text expanders." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zwischenablageeinträge, die als transient, vertraulich oder automatisch generiert markiert sind, werden nicht gespeichert. Transiente Inhalte sind vorübergehend. Vertrauliche Inhalte sind geheim (z. B. Passwörter). Automatisch generierte Inhalte werden von einer App zum Einfügen geschrieben, nicht durch ein explizites Kopieren. Dies gilt auch für ältere Markierungen von Passwortmanagern und Texterweiterungen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne pas enregistrer les éléments du presse-papiers marqués comme transitoires, confidentiels ou générés automatiquement. Le contenu transitoire est temporaire. Le contenu confidentiel est secret (par exemple les mots de passe). Le contenu généré automatiquement est écrit par une app pour coller, et non par une copie explicite. Cela couvre aussi les anciens marqueurs des gestionnaires de mots de passe et des expanseurs de texte."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non registrare gli elementi degli appunti contrassegnati come transitori, riservati o generati automaticamente. Il contenuto transitorio è temporaneo. Il contenuto riservato è confidenziale (ad esempio le password). Il contenuto generato automaticamente è scritto da un’app per l’incolla, non da una copia esplicita. Copre anche i marcatori più vecchi usati da gestori di password ed espansori di testo."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一時的、機密、または自動生成としてマークされたクリップボード項目は記録しません。一時的な内容は短時間だけ存在するデータです。機密内容はパスワードなどの秘密情報です。自動生成された内容は、ユーザーが明示的にコピーしたものではなく、アプリが貼り付けのために書き込んだものです。パスワードマネージャーやテキスト展開ツールが使う古いマーカーも対象です。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일시적, 기밀 또는 자동 생성으로 표시된 클립보드 항목은 기록하지 않습니다. 일시적 콘텐츠는 잠시만 존재합니다. 기밀 콘텐츠는 비밀번호 같은 민감 정보입니다. 자동 생성 콘텐츠는 사용자가 명시적으로 복사한 것이 아니라 앱이 붙여넣기를 위해 작성한 것입니다. 비밀번호 관리자와 텍스트 확장 도구가 쓰는 이전 마커도 포함됩니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не сохранять элементы буфера обмена, помеченные как временные, скрытые или автоматически созданные. Временное содержимое существует недолго. Скрытое содержимое конфиденциально (например, пароли). Автоматически созданное содержимое записывается приложением для вставки, а не явным копированием. Это также относится к старым маркерам менеджеров паролей и текстовых расширителей."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không ghi các mục clipboard được đánh dấu là tạm thời, bí mật hoặc tự động tạo. Nội dung tạm thời chỉ tồn tại trong thời gian ngắn. Nội dung bí mật là thông tin nhạy cảm (ví dụ mật khẩu). Nội dung tự động tạo do ứng dụng ghi ra để dán, không phải do người dùng chủ động sao chép. Tùy chọn này cũng bao gồm các marker cũ của trình quản lý mật khẩu và công cụ mở rộng văn bản."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不记录带有瞬时、机密或自动生成标记的剪贴板内容。瞬时内容是临时的。机密内容是敏感信息（例如密码）。自动生成内容由应用写入用于粘贴，而非用户主动复制。同时也覆盖密码管理器和文本扩展器使用的旧标记。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不記錄帶有瞬時、機密或自動產生標記的剪貼板內容。瞬時內容是暫時的。機密內容是敏感資訊（例如密碼）。自動產生內容由應用程式寫入用於貼上，而非使用者主動複製。同時也涵蓋密碼管理器和文字展開工具使用的舊標記。"
+          }
+        }
+      }
+    },
     "Don't ask again" : {
       "localizations" : {
         "de" : {
@@ -3379,6 +3379,64 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "若儲存上限低於現有資料數量，%@ 會逐步減少多餘項目，而不是一次清空。"
+          }
+        }
+      }
+    },
+    "Ignore Transient Clipboard" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transiente Zwischenablage ignorieren"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ignorer le presse-papiers transitoire"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ignora gli appunti transitori"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一時クリップボードを無視"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일시적 클립보드 무시"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Игнорировать временный буфер обмена"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bỏ qua clipboard tạm thời"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "忽略瞬时剪贴板"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "忽略瞬時剪貼板"
           }
         }
       }

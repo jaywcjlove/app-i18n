@@ -1,5 +1,3 @@
-" " = " ";
-
 "%@" = "%@";
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> 加入 **%4$@** 並勾選";
@@ -71,6 +69,8 @@
 
 "Delete Clipboard History" = "刪除剪貼板歷史記錄";
 
+"Do not record clipboard items marked as transient, concealed, or auto-generated. Transient content is temporary. Concealed content is confidential (for example passwords). Auto-generated content is written by an app for pasting rather than an explicit Copy. This also covers older markers used by password managers and text expanders." = "不記錄帶有瞬時、機密或自動產生標記的剪貼板內容。瞬時內容是暫時的。機密內容是敏感資訊（例如密碼）。自動產生內容由應用程式寫入用於貼上，而非使用者主動複製。同時也涵蓋密碼管理器和文字展開工具使用的舊標記。";
+
 "Don't ask again" = "下次不要再詢問";
 
 "Enable Preview Image" = "啟用預覽影像";
@@ -94,6 +94,8 @@
 "If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images." = "如果列表中顯示的資料量過大，停用圖片預覽可提升效能。在列表中啟用圖片預覽即可查看已複製的圖片。";
 
 "If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "若儲存上限低於現有資料數量，%@ 會逐步減少多餘項目，而不是一次清空。";
+
+"Ignore Transient Clipboard" = "忽略瞬時剪貼板";
 
 "Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "使用快速鍵貼上或向輸入欄插入文字需要開啟 **%@** 取用權限。";
 

@@ -1,5 +1,3 @@
-" " = " ";
-
 "%@" = "%@";
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> добавьте **%4$@** и включите";
@@ -71,6 +69,8 @@
 
 "Delete Clipboard History" = "Удалить историю буфера обмена";
 
+"Do not record clipboard items marked as transient, concealed, or auto-generated. Transient content is temporary. Concealed content is confidential (for example passwords). Auto-generated content is written by an app for pasting rather than an explicit Copy. This also covers older markers used by password managers and text expanders." = "Не сохранять элементы буфера обмена, помеченные как временные, скрытые или автоматически созданные. Временное содержимое существует недолго. Скрытое содержимое конфиденциально (например, пароли). Автоматически созданное содержимое записывается приложением для вставки, а не явным копированием. Это также относится к старым маркерам менеджеров паролей и текстовых расширителей.";
+
 "Don't ask again" = "Больше не спрашивать";
 
 "Enable Preview Image" = "Включить предпросмотр изображений";
@@ -94,6 +94,8 @@
 "If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images." = "Если в списке слишком много данных, отключение предпросмотра изображений повысит производительность. При включении скопированные изображения видны в списке.";
 
 "If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "Если лимит сохранения меньше объёма данных, %@ будет постепенно сокращать излишек, а не удалять всё сразу.";
+
+"Ignore Transient Clipboard" = "Игнорировать временный буфер обмена";
 
 "Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "Для вставки сочетанием клавиш или вставки текста в поле ввода требуется доступ к **%@**.";
 

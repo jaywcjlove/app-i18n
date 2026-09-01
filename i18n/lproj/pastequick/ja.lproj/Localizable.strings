@@ -1,5 +1,3 @@
-" " = " ";
-
 "%@" = "%@";
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@** を追加してオンにする";
@@ -71,6 +69,8 @@
 
 "Delete Clipboard History" = "クリップボード履歴を削除";
 
+"Do not record clipboard items marked as transient, concealed, or auto-generated. Transient content is temporary. Concealed content is confidential (for example passwords). Auto-generated content is written by an app for pasting rather than an explicit Copy. This also covers older markers used by password managers and text expanders." = "一時的、機密、または自動生成としてマークされたクリップボード項目は記録しません。一時的な内容は短時間だけ存在するデータです。機密内容はパスワードなどの秘密情報です。自動生成された内容は、ユーザーが明示的にコピーしたものではなく、アプリが貼り付けのために書き込んだものです。パスワードマネージャーやテキスト展開ツールが使う古いマーカーも対象です。";
+
 "Don't ask again" = "今後表示しない";
 
 "Enable Preview Image" = "画像プレビューを有効にする";
@@ -94,6 +94,8 @@
 "If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images." = "リストに表示するデータが多すぎる場合は、画像プレビューをオフにするとパフォーマンスが向上します。オンにすると、コピーした画像をリストで確認できます。";
 
 "If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "保存件数の上限が既存データより少ない場合、%@ は余剰分を一度に削除せず、段階的に減らします。";
+
+"Ignore Transient Clipboard" = "一時クリップボードを無視";
 
 "Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "キーボードショートカットでの貼り付け、または入力欄へのテキスト挿入には **%@** へのアクセスが必要です。";
 

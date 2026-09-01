@@ -1,5 +1,3 @@
-" " = " ";
-
 "%@" = "%@";
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> Ajoutez **%4$@** et activez-le";
@@ -71,6 +69,8 @@
 
 "Delete Clipboard History" = "Supprimer l’historique du presse-papiers";
 
+"Do not record clipboard items marked as transient, concealed, or auto-generated. Transient content is temporary. Concealed content is confidential (for example passwords). Auto-generated content is written by an app for pasting rather than an explicit Copy. This also covers older markers used by password managers and text expanders." = "Ne pas enregistrer les éléments du presse-papiers marqués comme transitoires, confidentiels ou générés automatiquement. Le contenu transitoire est temporaire. Le contenu confidentiel est secret (par exemple les mots de passe). Le contenu généré automatiquement est écrit par une app pour coller, et non par une copie explicite. Cela couvre aussi les anciens marqueurs des gestionnaires de mots de passe et des expanseurs de texte.";
+
 "Don't ask again" = "Ne plus demander";
 
 "Enable Preview Image" = "Activer l’aperçu des images";
@@ -94,6 +94,8 @@
 "If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images." = "Si la liste contient trop de données, désactiver l’aperçu des images peut améliorer les performances. L’activer permet de voir les images copiées dans la liste.";
 
 "If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "Si la limite d’enregistrement est inférieure au volume existant, %@ réduira progressivement l’excédent au lieu de tout supprimer d’un coup.";
+
+"Ignore Transient Clipboard" = "Ignorer le presse-papiers transitoire";
 
 "Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "Coller avec un raccourci clavier ou insérer du texte dans un champ de saisie nécessite l’accès **%@**.";
 

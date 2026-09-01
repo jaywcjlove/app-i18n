@@ -1,5 +1,3 @@
-" " = " ";
-
 "%@" = "%@";
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@** hinzufügen und aktivieren";
@@ -71,6 +69,8 @@
 
 "Delete Clipboard History" = "Zwischenablageverlauf löschen";
 
+"Do not record clipboard items marked as transient, concealed, or auto-generated. Transient content is temporary. Concealed content is confidential (for example passwords). Auto-generated content is written by an app for pasting rather than an explicit Copy. This also covers older markers used by password managers and text expanders." = "Zwischenablageeinträge, die als transient, vertraulich oder automatisch generiert markiert sind, werden nicht gespeichert. Transiente Inhalte sind vorübergehend. Vertrauliche Inhalte sind geheim (z. B. Passwörter). Automatisch generierte Inhalte werden von einer App zum Einfügen geschrieben, nicht durch ein explizites Kopieren. Dies gilt auch für ältere Markierungen von Passwortmanagern und Texterweiterungen.";
+
 "Don't ask again" = "Nicht mehr fragen";
 
 "Enable Preview Image" = "Bildvorschau aktivieren";
@@ -94,6 +94,8 @@
 "If the amount of data displayed in the list is too large, disabling image preview can improve performance. Enabling image preview in the list allows you to view copied images." = "Bei sehr großen Listen kann das Deaktivieren der Bildvorschau die Leistung verbessern. Ist sie aktiv, können kopierte Bilder in der Liste angezeigt werden.";
 
 "If the save limit exceeds the existing data quantity, %@ will gradually reduce the excess, rather than clearing all the extra data at once." = "Liegt das Speicherlimit unter der vorhandenen Datenmenge, reduziert %@ den Überschuss schrittweise statt alles auf einmal zu löschen.";
+
+"Ignore Transient Clipboard" = "Transiente Zwischenablage ignorieren";
 
 "Keyboard shortcut paste or inserting text into an input field requires **%@** access." = "Das Einfügen per Tastaturkurzbefehl oder in ein Eingabefeld erfordert Zugriff auf **%@**.";
 
