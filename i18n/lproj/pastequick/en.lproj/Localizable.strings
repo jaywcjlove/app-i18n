@@ -18,6 +18,8 @@
 
 "**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields.";
 
+"API" = "API";
+
 "About" = "About";
 
 "About %@" = "About %@";
@@ -40,6 +42,8 @@
 
 "Are you sure you want to clear your clipboard history?" = "Are you sure you want to clear your clipboard history?";
 
+"Args: --mcp" = "Args: --mcp";
+
 "Cancel" = "Cancel";
 
 "Changelog" = "Changelog";
@@ -56,7 +60,21 @@
 
 "Clipboard Tracking" = "Clipboard Tracking";
 
+/* MCP tool */
+"Clipboard item count and tracking state." = "Clipboard item count and tracking state.";
+
+"Command" = "Command";
+
+"Copied %@" = "Copied %@";
+
 "Copy" = "Copy";
+
+"Copy Claude stdio config" = "Copy Claude stdio config";
+
+"Copy Grok stdio config" = "Copy Grok stdio config";
+
+/* MCP tool */
+"Copy a history item back to the clipboard." = "Copy a history item back to the clipboard.";
 
 "Copy to Plain Text" = "Copy to Plain Text";
 
@@ -112,7 +130,15 @@
 
 "List Count: (%lld)" = "List Count: (%lld)";
 
+/* MCP tool */
+"List recent clipboard items." = "List recent clipboard items.";
+
+"MCP" = "MCP";
+
 "Main Window" = "Main Window";
+
+/* MCP tool */
+"Mark a clipboard item as favorite." = "Mark a clipboard item as favorite.";
 
 "Month" = "Month";
 
@@ -128,6 +154,9 @@
 
 "No text found in the image" = "No text found in the image";
 
+/* MCP tool */
+"One clipboard item, including full text." = "One clipboard item, including full text.";
+
 "Open %@" = "Open %@";
 
 "Open Main Window" = "Open Main Window";
@@ -141,6 +170,9 @@
 "Open in Browser" = "Open in Browser";
 
 "Paste Shortcut" = "Paste Shortcut";
+
+/* MCP tool */
+"Permanently delete a clipboard item." = "Permanently delete a clipboard item.";
 
 "Pin Main Window" = "Pin Main Window";
 
@@ -164,11 +196,17 @@
 
 "Remove parameters when copying or inserting links" = "Remove parameters when copying or inserting links";
 
+/* MCP tool */
+"Remove the favorite mark from a clipboard item." = "Remove the favorite mark from a clipboard item.";
+
 "Save Invisible Text" = "Save Invisible Text";
 
 "Saved Count" = "Saved Count";
 
 "Search %@" = "Search %@";
+
+/* MCP tool */
+"Search clipboard text." = "Search clipboard text.";
 
 "Security" = "Security";
 
@@ -207,7 +245,11 @@
 
 "System Settings" = "System Settings";
 
+"The client starts a separate process. Disconnecting it does not quit an already open PasteQuick window." = "The client starts a separate process. Disconnecting it does not quit an already open PasteQuick window.";
+
 "There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone.";
+
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "These are MCP tools, not REST paths. Clients call tools/list and tools/call.";
 
 "Unlock all Features" = "Unlock all Features";
 
@@ -256,6 +298,8 @@
 
 /* option */
 "option ⌥" = "option ⌥";
+
+"stdio" = "stdio";
 
 /* text */
 "text" = "text";

@@ -18,6 +18,8 @@
 
 "**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "Доступ **%1$@** включён. **%2$@** теперь может вставлять текст сочетанием клавиш и в поля ввода.";
 
+"API" = "API";
+
 "About" = "О программе";
 
 "About %@" = "О программе %@";
@@ -40,6 +42,8 @@
 
 "Are you sure you want to clear your clipboard history?" = "Очистить историю буфера обмена?";
 
+"Args: --mcp" = "Args: --mcp";
+
 "Cancel" = "Отмена";
 
 "Changelog" = "Список изменений";
@@ -56,7 +60,21 @@
 
 "Clipboard Tracking" = "Отслеживание буфера обмена";
 
+/* MCP tool */
+"Clipboard item count and tracking state." = "Количество элементов буфера обмена и состояние отслеживания.";
+
+"Command" = "Команда";
+
+"Copied %@" = "Скопировано %@";
+
 "Copy" = "Скопировать";
+
+"Copy Claude stdio config" = "Копировать stdio-конфиг Claude";
+
+"Copy Grok stdio config" = "Копировать stdio-конфиг Grok";
+
+/* MCP tool */
+"Copy a history item back to the clipboard." = "Скопировать элемент истории обратно в буфер обмена.";
 
 "Copy to Plain Text" = "Копировать как простой текст";
 
@@ -112,7 +130,15 @@
 
 "List Count: (%lld)" = "Элементов в списке: (%lld)";
 
+/* MCP tool */
+"List recent clipboard items." = "Показать недавние элементы буфера обмена.";
+
+"MCP" = "MCP";
+
 "Main Window" = "Главное окно";
+
+/* MCP tool */
+"Mark a clipboard item as favorite." = "Отметить элемент буфера обмена как избранный.";
 
 "Month" = "Месяц";
 
@@ -128,6 +154,9 @@
 
 "No text found in the image" = "В изображении текст не найден";
 
+/* MCP tool */
+"One clipboard item, including full text." = "Один элемент буфера обмена, включая полный текст.";
+
 "Open %@" = "Открыть %@";
 
 "Open Main Window" = "Открыть главное окно";
@@ -141,6 +170,9 @@
 "Open in Browser" = "Открыть в браузере";
 
 "Paste Shortcut" = "Сочетание для вставки";
+
+/* MCP tool */
+"Permanently delete a clipboard item." = "Безвозвратно удалить элемент буфера обмена.";
 
 "Pin Main Window" = "Закрепить главное окно";
 
@@ -164,11 +196,17 @@
 
 "Remove parameters when copying or inserting links" = "Удалять параметры при копировании или вставке ссылок";
 
+/* MCP tool */
+"Remove the favorite mark from a clipboard item." = "Снять отметку избранного с элемента буфера обмена.";
+
 "Save Invisible Text" = "Сохранять невидимый текст";
 
 "Saved Count" = "Количество сохранений";
 
 "Search %@" = "Искать %@";
+
+/* MCP tool */
+"Search clipboard text." = "Искать в тексте буфера обмена.";
 
 "Security" = "Безопасность";
 
@@ -207,7 +245,11 @@
 
 "System Settings" = "Системные настройки";
 
+"The client starts a separate process. Disconnecting it does not quit an already open PasteQuick window." = "Клиент запускает отдельный процесс. Отключение не закрывает уже открытое окно PasteQuick.";
+
 "There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "Всего элементов: %lld. Это действие безвозвратно удалит всю историю буфера обмена.";
+
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "Это MCP-инструменты, а не REST-пути. Клиенты вызывают tools/list и tools/call.";
 
 "Unlock all Features" = "Разблокировать все функции";
 
@@ -256,6 +298,8 @@
 
 /* option */
 "option ⌥" = "option ⌥";
+
+"stdio" = "stdio";
 
 /* text */
 "text" = "Текст";

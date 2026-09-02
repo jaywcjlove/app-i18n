@@ -18,6 +18,8 @@
 
 "**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "Die **%1$@**-Berechtigung ist aktiv. **%2$@** kann jetzt per Tastaturkurzbefehl einfügen und Text in Eingabefelder einsetzen.";
 
+"API" = "API";
+
 "About" = "Info";
 
 "About %@" = "Über %@";
@@ -40,6 +42,8 @@
 
 "Are you sure you want to clear your clipboard history?" = "Möchten Sie den Zwischenablageverlauf wirklich löschen?";
 
+"Args: --mcp" = "Args: --mcp";
+
 "Cancel" = "Abbrechen";
 
 "Changelog" = "Änderungsprotokoll";
@@ -56,7 +60,21 @@
 
 "Clipboard Tracking" = "Zwischenablageüberwachung";
 
+/* MCP tool */
+"Clipboard item count and tracking state." = "Anzahl der Zwischenablageeinträge und Überwachungsstatus.";
+
+"Command" = "Befehl";
+
+"Copied %@" = "Kopiert %@";
+
 "Copy" = "Kopieren";
+
+"Copy Claude stdio config" = "Claude-stdio-Konfiguration kopieren";
+
+"Copy Grok stdio config" = "Grok-stdio-Konfiguration kopieren";
+
+/* MCP tool */
+"Copy a history item back to the clipboard." = "Einen Chronikeintrag zurück in die Zwischenablage kopieren.";
 
 "Copy to Plain Text" = "Als Klartext kopieren";
 
@@ -112,7 +130,15 @@
 
 "List Count: (%lld)" = "Listenanzahl: (%lld)";
 
+/* MCP tool */
+"List recent clipboard items." = "Aktuelle Zwischenablageeinträge auflisten.";
+
+"MCP" = "MCP";
+
 "Main Window" = "Hauptfenster";
+
+/* MCP tool */
+"Mark a clipboard item as favorite." = "Einen Zwischenablageeintrag als Favorit markieren.";
 
 "Month" = "Monat";
 
@@ -128,6 +154,9 @@
 
 "No text found in the image" = "Kein Text im Bild gefunden";
 
+/* MCP tool */
+"One clipboard item, including full text." = "Einen Zwischenablageeintrag inklusive vollständigem Text.";
+
 "Open %@" = "%@ öffnen";
 
 "Open Main Window" = "Hauptfenster öffnen";
@@ -141,6 +170,9 @@
 "Open in Browser" = "Im Browser öffnen";
 
 "Paste Shortcut" = "Einfügekurzbefehl";
+
+/* MCP tool */
+"Permanently delete a clipboard item." = "Einen Zwischenablageeintrag dauerhaft löschen.";
 
 "Pin Main Window" = "Hauptfenster anheften";
 
@@ -164,11 +196,17 @@
 
 "Remove parameters when copying or inserting links" = "Parameter beim Kopieren oder Einfügen von Links entfernen";
 
+/* MCP tool */
+"Remove the favorite mark from a clipboard item." = "Die Favoritenmarkierung eines Zwischenablageeintrags entfernen.";
+
 "Save Invisible Text" = "Unsichtbaren Text speichern";
 
 "Saved Count" = "Gespeicherte Anzahl";
 
 "Search %@" = "%@ suchen";
+
+/* MCP tool */
+"Search clipboard text." = "Zwischenablagetext durchsuchen.";
 
 "Security" = "Sicherheit";
 
@@ -207,7 +245,11 @@
 
 "System Settings" = "Systemeinstellungen";
 
+"The client starts a separate process. Disconnecting it does not quit an already open PasteQuick window." = "Der Client startet einen eigenen Prozess. Das Trennen beendet kein bereits geöffnetes PasteQuick-Fenster.";
+
 "There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "Es sind insgesamt %lld Einträge vorhanden. Diese Aktion löscht den gesamten Zwischenablageverlauf dauerhaft und kann nicht rückgängig gemacht werden.";
+
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "Das sind MCP-Tools, keine REST-Pfade. Clients rufen tools/list und tools/call auf.";
 
 "Unlock all Features" = "Alle Funktionen freischalten";
 
@@ -256,6 +298,8 @@
 
 /* option */
 "option ⌥" = "option ⌥";
+
+"stdio" = "stdio";
 
 /* text */
 "text" = "Text";

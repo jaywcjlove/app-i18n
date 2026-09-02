@@ -18,6 +18,8 @@
 
 "**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "**%1$@** 權限已開啟。**%2$@** 現在可以使用快速鍵貼上，並向輸入欄插入文字。";
 
+"API" = "API";
+
 "About" = "關於";
 
 "About %@" = "關於 %@";
@@ -40,6 +42,8 @@
 
 "Are you sure you want to clear your clipboard history?" = "確定要清除剪貼板歷史記錄嗎？";
 
+"Args: --mcp" = "參數: --mcp";
+
 "Cancel" = "取消";
 
 "Changelog" = "變更日誌";
@@ -56,7 +60,21 @@
 
 "Clipboard Tracking" = "剪貼板追蹤";
 
+/* MCP tool */
+"Clipboard item count and tracking state." = "剪貼板項目數量與追蹤狀態。";
+
+"Command" = "命令";
+
+"Copied %@" = "已複製 %@";
+
 "Copy" = "複製";
+
+"Copy Claude stdio config" = "複製 Claude stdio 設定";
+
+"Copy Grok stdio config" = "複製 Grok stdio 設定";
+
+/* MCP tool */
+"Copy a history item back to the clipboard." = "將歷史記錄重新複製到剪貼板。";
 
 "Copy to Plain Text" = "複製為純文字";
 
@@ -112,7 +130,15 @@
 
 "List Count: (%lld)" = "列表數量：(%lld)";
 
+/* MCP tool */
+"List recent clipboard items." = "列出最近的剪貼板項目。";
+
+"MCP" = "MCP";
+
 "Main Window" = "主視窗";
+
+/* MCP tool */
+"Mark a clipboard item as favorite." = "將剪貼板項目標為收藏。";
 
 "Month" = "月";
 
@@ -128,6 +154,9 @@
 
 "No text found in the image" = "圖片中未辨識到文字";
 
+/* MCP tool */
+"One clipboard item, including full text." = "一筆剪貼板紀錄，包含完整文字。";
+
 "Open %@" = "打開 %@";
 
 "Open Main Window" = "打開主視窗";
@@ -141,6 +170,9 @@
 "Open in Browser" = "在瀏覽器中打開";
 
 "Paste Shortcut" = "貼上快速鍵";
+
+/* MCP tool */
+"Permanently delete a clipboard item." = "永久刪除一筆剪貼板紀錄。";
 
 "Pin Main Window" = "固定主視窗";
 
@@ -164,11 +196,17 @@
 
 "Remove parameters when copying or inserting links" = "複製或插入連結時移除參數";
 
+/* MCP tool */
+"Remove the favorite mark from a clipboard item." = "取消剪貼板項目的收藏。";
+
 "Save Invisible Text" = "儲存不可見文字";
 
 "Saved Count" = "儲存數量";
 
 "Search %@" = "搜尋 %@";
+
+/* MCP tool */
+"Search clipboard text." = "搜尋剪貼板文字。";
 
 "Security" = "安全性";
 
@@ -207,7 +245,11 @@
 
 "System Settings" = "系統設定";
 
+"The client starts a separate process. Disconnecting it does not quit an already open PasteQuick window." = "用戶端會啟動獨立行程。中斷連線不會結束已開啟的 PasteQuick 視窗。";
+
 "There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "共有 %lld 個項目。此操作會永久刪除所有剪貼板歷史記錄，且無法復原。";
+
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "這些是 MCP 工具，不是 REST 路徑。用戶端會呼叫 tools/list 與 tools/call。";
 
 "Unlock all Features" = "解鎖全部功能";
 
@@ -256,6 +298,8 @@
 
 /* option */
 "option ⌥" = "option ⌥";
+
+"stdio" = "stdio";
 
 /* text */
 "text" = "文字";

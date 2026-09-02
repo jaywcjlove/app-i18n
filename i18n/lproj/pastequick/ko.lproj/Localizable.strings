@@ -18,6 +18,8 @@
 
 "**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "**%1$@** 권한이 켜졌습니다. 이제 **%2$@**에서 키보드 단축키로 붙여넣고 입력란에 텍스트를 삽입할 수 있습니다.";
 
+"API" = "API";
+
 "About" = "정보";
 
 "About %@" = "%@ 정보";
@@ -40,6 +42,8 @@
 
 "Are you sure you want to clear your clipboard history?" = "클립보드 기록을 지우시겠습니까?";
 
+"Args: --mcp" = "Args: --mcp";
+
 "Cancel" = "취소";
 
 "Changelog" = "변경 로그";
@@ -56,7 +60,21 @@
 
 "Clipboard Tracking" = "클립보드 추적";
 
+/* MCP tool */
+"Clipboard item count and tracking state." = "클립보드 항목 수와 추적 상태.";
+
+"Command" = "명령";
+
+"Copied %@" = "복사됨 %@";
+
 "Copy" = "복사";
+
+"Copy Claude stdio config" = "Claude stdio 구성 복사";
+
+"Copy Grok stdio config" = "Grok stdio 구성 복사";
+
+/* MCP tool */
+"Copy a history item back to the clipboard." = "기록 항목을 클립보드로 다시 복사합니다.";
 
 "Copy to Plain Text" = "일반 텍스트로 복사";
 
@@ -112,7 +130,15 @@
 
 "List Count: (%lld)" = "목록 개수: (%lld)";
 
+/* MCP tool */
+"List recent clipboard items." = "최근 클립보드 항목을 나열합니다.";
+
+"MCP" = "MCP";
+
 "Main Window" = "기본 윈도우";
+
+/* MCP tool */
+"Mark a clipboard item as favorite." = "클립보드 항목을 즐겨찾기로 표시합니다.";
 
 "Month" = "월";
 
@@ -128,6 +154,9 @@
 
 "No text found in the image" = "이미지에서 텍스트를 찾지 못했습니다";
 
+/* MCP tool */
+"One clipboard item, including full text." = "전체 텍스트를 포함한 클립보드 항목 하나.";
+
 "Open %@" = "%@ 열기";
 
 "Open Main Window" = "기본 윈도우 열기";
@@ -141,6 +170,9 @@
 "Open in Browser" = "브라우저에서 열기";
 
 "Paste Shortcut" = "붙여넣기 단축키";
+
+/* MCP tool */
+"Permanently delete a clipboard item." = "클립보드 항목을 영구 삭제합니다.";
 
 "Pin Main Window" = "기본 윈도우 고정";
 
@@ -164,11 +196,17 @@
 
 "Remove parameters when copying or inserting links" = "링크를 복사하거나 삽입할 때 매개변수 제거";
 
+/* MCP tool */
+"Remove the favorite mark from a clipboard item." = "클립보드 항목의 즐겨찾기를 해제합니다.";
+
 "Save Invisible Text" = "보이지 않는 텍스트 저장";
 
 "Saved Count" = "저장 개수";
 
 "Search %@" = "%@ 검색";
+
+/* MCP tool */
+"Search clipboard text." = "클립보드 텍스트를 검색합니다.";
 
 "Security" = "보안";
 
@@ -207,7 +245,11 @@
 
 "System Settings" = "시스템 설정";
 
+"The client starts a separate process. Disconnecting it does not quit an already open PasteQuick window." = "클라이언트가 별도 프로세스를 시작합니다. 연결을 끊어도 이미 열린 PasteQuick 창은 종료되지 않습니다.";
+
 "There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "총 %lld개의 항목이 있습니다. 이 작업은 클립보드 기록을 영구적으로 삭제하며 되돌릴 수 없습니다.";
+
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "REST 경로가 아니라 MCP 도구입니다. 클라이언트는 tools/list와 tools/call을 호출합니다.";
 
 "Unlock all Features" = "모든 기능 잠금 해제";
 
@@ -256,6 +298,8 @@
 
 /* option */
 "option ⌥" = "option ⌥";
+
+"stdio" = "stdio";
 
 /* text */
 "text" = "텍스트";

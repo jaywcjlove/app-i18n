@@ -18,6 +18,8 @@
 
 "**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "Quyền **%@** đã được bật. **%@** giờ có thể dán bằng phím tắt và chèn văn bản vào các trường nhập.";
 
+"API" = "API";
+
 "About" = "Giới thiệu";
 
 "About %@" = "Giới thiệu về %@";
@@ -40,6 +42,8 @@
 
 "Are you sure you want to clear your clipboard history?" = "Bạn có chắc muốn xóa lịch sử khay nhớ tạm không?";
 
+"Args: --mcp" = "Args: --mcp";
+
 "Cancel" = "Hủy";
 
 "Changelog" = "Nhật ký thay đổi";
@@ -56,7 +60,21 @@
 
 "Clipboard Tracking" = "Theo dõi khay nhớ tạm";
 
+/* MCP tool */
+"Clipboard item count and tracking state." = "Số mục clipboard và trạng thái theo dõi.";
+
+"Command" = "Lệnh";
+
+"Copied %@" = "Đã sao chép %@";
+
 "Copy" = "Sao chép";
+
+"Copy Claude stdio config" = "Sao chép cấu hình stdio Claude";
+
+"Copy Grok stdio config" = "Sao chép cấu hình stdio Grok";
+
+/* MCP tool */
+"Copy a history item back to the clipboard." = "Sao chép một mục lịch sử trở lại clipboard.";
 
 "Copy to Plain Text" = "Sao chép dạng văn bản thuần";
 
@@ -112,7 +130,15 @@
 
 "List Count: (%lld)" = "Số lượng danh sách: (%lld)";
 
+/* MCP tool */
+"List recent clipboard items." = "Liệt kê các mục clipboard gần đây.";
+
+"MCP" = "MCP";
+
 "Main Window" = "Cửa sổ chính";
+
+/* MCP tool */
+"Mark a clipboard item as favorite." = "Đánh dấu một mục clipboard là yêu thích.";
 
 "Month" = "Tháng";
 
@@ -128,6 +154,9 @@
 
 "No text found in the image" = "Không tìm thấy văn bản trong hình ảnh";
 
+/* MCP tool */
+"One clipboard item, including full text." = "Một mục clipboard, bao gồm toàn bộ văn bản.";
+
 "Open %@" = "Mở %@";
 
 "Open Main Window" = "Mở cửa sổ chính";
@@ -141,6 +170,9 @@
 "Open in Browser" = "Mở trong trình duyệt";
 
 "Paste Shortcut" = "Phím tắt dán";
+
+/* MCP tool */
+"Permanently delete a clipboard item." = "Xóa vĩnh viễn một mục clipboard.";
 
 "Pin Main Window" = "Ghim cửa sổ chính";
 
@@ -164,11 +196,17 @@
 
 "Remove parameters when copying or inserting links" = "Xóa tham số khi sao chép hoặc chèn liên kết";
 
+/* MCP tool */
+"Remove the favorite mark from a clipboard item." = "Bỏ đánh dấu yêu thích khỏi một mục clipboard.";
+
 "Save Invisible Text" = "Lưu văn bản vô hình";
 
 "Saved Count" = "Số lượng đã lưu";
 
 "Search %@" = "Tìm kiếm %@";
+
+/* MCP tool */
+"Search clipboard text." = "Tìm kiếm văn bản clipboard.";
 
 "Security" = "Bảo mật";
 
@@ -207,7 +245,11 @@
 
 "System Settings" = "Cài đặt hệ thống";
 
+"The client starts a separate process. Disconnecting it does not quit an already open PasteQuick window." = "Máy khách khởi chạy một tiến trình riêng. Ngắt kết nối không thoát cửa sổ PasteQuick đang mở.";
+
 "There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "Có tổng cộng %lld mục. Hành động này sẽ xóa vĩnh viễn toàn bộ lịch sử khay nhớ tạm và không thể hoàn tác.";
+
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "Đây là công cụ MCP, không phải đường dẫn REST. Máy khách gọi tools/list và tools/call.";
 
 "Unlock all Features" = "Mở khóa tất cả tính năng";
 
@@ -256,6 +298,8 @@
 
 /* option */
 "option ⌥" = "option ⌥";
+
+"stdio" = "stdio";
 
 /* text */
 "text" = "văn bản";

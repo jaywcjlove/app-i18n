@@ -18,6 +18,8 @@
 
 "**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "**%1$@** のアクセス権が有効です。**%2$@** はキーボードショートカットでの貼り付けと入力欄へのテキスト挿入ができるようになりました。";
 
+"API" = "API";
+
 "About" = "情報";
 
 "About %@" = "%@について";
@@ -40,6 +42,8 @@
 
 "Are you sure you want to clear your clipboard history?" = "クリップボードの履歴を消去してもよろしいですか？";
 
+"Args: --mcp" = "Args: --mcp";
+
 "Cancel" = "キャンセル";
 
 "Changelog" = "更新履歴";
@@ -56,7 +60,21 @@
 
 "Clipboard Tracking" = "クリップボードの追跡";
 
+/* MCP tool */
+"Clipboard item count and tracking state." = "クリップボード項目数と追跡状態。";
+
+"Command" = "コマンド";
+
+"Copied %@" = "コピー済み %@";
+
 "Copy" = "コピー";
+
+"Copy Claude stdio config" = "Claude の stdio 設定をコピー";
+
+"Copy Grok stdio config" = "Grok の stdio 設定をコピー";
+
+/* MCP tool */
+"Copy a history item back to the clipboard." = "履歴項目をクリップボードに戻す。";
 
 "Copy to Plain Text" = "プレーンテキストとしてコピー";
 
@@ -112,7 +130,15 @@
 
 "List Count: (%lld)" = "リスト件数: (%lld)";
 
+/* MCP tool */
+"List recent clipboard items." = "最近のクリップボード項目を一覧表示。";
+
+"MCP" = "MCP";
+
 "Main Window" = "メインウインドウ";
+
+/* MCP tool */
+"Mark a clipboard item as favorite." = "クリップボード項目をお気に入りにする。";
 
 "Month" = "月";
 
@@ -128,6 +154,9 @@
 
 "No text found in the image" = "画像内にテキストは見つかりませんでした";
 
+/* MCP tool */
+"One clipboard item, including full text." = "クリップボード項目1件（全文を含む）。";
+
 "Open %@" = "%@を開く";
 
 "Open Main Window" = "メインウインドウを開く";
@@ -141,6 +170,9 @@
 "Open in Browser" = "ブラウザで開く";
 
 "Paste Shortcut" = "ペーストショートカット";
+
+/* MCP tool */
+"Permanently delete a clipboard item." = "クリップボード項目を完全に削除。";
 
 "Pin Main Window" = "メインウインドウをピン留め";
 
@@ -164,11 +196,17 @@
 
 "Remove parameters when copying or inserting links" = "リンクのコピーまたは挿入時にパラメータを削除";
 
+/* MCP tool */
+"Remove the favorite mark from a clipboard item." = "クリップボード項目のお気に入りを解除。";
+
 "Save Invisible Text" = "不可視テキストを保存";
 
 "Saved Count" = "保存件数";
 
 "Search %@" = "%@を検索";
+
+/* MCP tool */
+"Search clipboard text." = "クリップボードのテキストを検索。";
 
 "Security" = "セキュリティ";
 
@@ -207,7 +245,11 @@
 
 "System Settings" = "システム設定";
 
+"The client starts a separate process. Disconnecting it does not quit an already open PasteQuick window." = "クライアントは別プロセスを起動します。切断しても、すでに開いている PasteQuick ウィンドウは終了しません。";
+
 "There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "合計 %lld 件あります。この操作はクリップボード履歴を完全に削除し、元に戻せません。";
+
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "これは REST パスではなく MCP ツールです。クライアントは tools/list と tools/call を呼び出します。";
 
 "Unlock all Features" = "すべての機能をアンロック";
 
@@ -256,6 +298,8 @@
 
 /* option */
 "option ⌥" = "option ⌥";
+
+"stdio" = "stdio";
 
 /* text */
 "text" = "テキスト";

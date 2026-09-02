@@ -18,6 +18,8 @@
 
 "**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "L’accès **%1$@** est activé. **%2$@** peut désormais coller avec un raccourci clavier et insérer du texte dans les champs de saisie.";
 
+"API" = "API";
+
 "About" = "À propos";
 
 "About %@" = "À propos de %@";
@@ -40,6 +42,8 @@
 
 "Are you sure you want to clear your clipboard history?" = "Voulez-vous vraiment effacer l’historique du presse-papiers ?";
 
+"Args: --mcp" = "Args: --mcp";
+
 "Cancel" = "Annuler";
 
 "Changelog" = "Journal des modifications";
@@ -56,7 +60,21 @@
 
 "Clipboard Tracking" = "Suivi du presse-papiers";
 
+/* MCP tool */
+"Clipboard item count and tracking state." = "Nombre d’éléments du presse-papiers et état du suivi.";
+
+"Command" = "Commande";
+
+"Copied %@" = "Copié %@";
+
 "Copy" = "Copier";
+
+"Copy Claude stdio config" = "Copier la config stdio Claude";
+
+"Copy Grok stdio config" = "Copier la config stdio Grok";
+
+/* MCP tool */
+"Copy a history item back to the clipboard." = "Remettre un élément d’historique dans le presse-papiers.";
 
 "Copy to Plain Text" = "Copier en texte brut";
 
@@ -112,7 +130,15 @@
 
 "List Count: (%lld)" = "Nombre d’éléments : (%lld)";
 
+/* MCP tool */
+"List recent clipboard items." = "Lister les éléments récents du presse-papiers.";
+
+"MCP" = "MCP";
+
 "Main Window" = "Fenêtre principale";
+
+/* MCP tool */
+"Mark a clipboard item as favorite." = "Marquer un élément du presse-papiers comme favori.";
 
 "Month" = "Mois";
 
@@ -128,6 +154,9 @@
 
 "No text found in the image" = "Aucun texte trouvé dans l’image";
 
+/* MCP tool */
+"One clipboard item, including full text." = "Un élément du presse-papiers, y compris le texte complet.";
+
 "Open %@" = "Ouvrir %@";
 
 "Open Main Window" = "Ouvrir la fenêtre principale";
@@ -141,6 +170,9 @@
 "Open in Browser" = "Ouvrir dans le navigateur";
 
 "Paste Shortcut" = "Raccourci de collage";
+
+/* MCP tool */
+"Permanently delete a clipboard item." = "Supprimer définitivement un élément du presse-papiers.";
 
 "Pin Main Window" = "Épingler la fenêtre principale";
 
@@ -164,11 +196,17 @@
 
 "Remove parameters when copying or inserting links" = "Supprimer les paramètres lors de la copie ou de l’insertion de liens";
 
+/* MCP tool */
+"Remove the favorite mark from a clipboard item." = "Retirer le favori d’un élément du presse-papiers.";
+
 "Save Invisible Text" = "Enregistrer le texte invisible";
 
 "Saved Count" = "Nombre enregistré";
 
 "Search %@" = "Rechercher %@";
+
+/* MCP tool */
+"Search clipboard text." = "Rechercher dans le texte du presse-papiers.";
 
 "Security" = "Sécurité";
 
@@ -207,7 +245,11 @@
 
 "System Settings" = "Réglages Système";
 
+"The client starts a separate process. Disconnecting it does not quit an already open PasteQuick window." = "Le client démarre un processus séparé. Le déconnecter ne ferme pas une fenêtre PasteQuick déjà ouverte.";
+
 "There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "Il y a %lld éléments au total. Cette action supprimera définitivement tout l’historique du presse-papiers et est irréversible.";
+
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "Ce sont des outils MCP, pas des chemins REST. Les clients appellent tools/list et tools/call.";
 
 "Unlock all Features" = "Débloquer toutes les fonctionnalités";
 
@@ -256,6 +298,8 @@
 
 /* option */
 "option ⌥" = "option ⌥";
+
+"stdio" = "stdio";
 
 /* text */
 "text" = "Texte";

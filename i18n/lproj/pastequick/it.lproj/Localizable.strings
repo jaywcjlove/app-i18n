@@ -18,6 +18,8 @@
 
 "**%@** permission is enabled. **%@** can now paste with keyboard shortcuts and insert text into input fields." = "L'autorizzazione **%@** è attiva. **%@** ora può incollare con le scorciatoie da tastiera e inserire testo nei campi di input.";
 
+"API" = "API";
+
 "About" = "Informazioni";
 
 "About %@" = "Informazioni su %@";
@@ -40,6 +42,8 @@
 
 "Are you sure you want to clear your clipboard history?" = "Vuoi davvero cancellare la cronologia degli appunti?";
 
+"Args: --mcp" = "Args: --mcp";
+
 "Cancel" = "Annulla";
 
 "Changelog" = "Registro modifiche";
@@ -56,7 +60,21 @@
 
 "Clipboard Tracking" = "Monitoraggio appunti";
 
+/* MCP tool */
+"Clipboard item count and tracking state." = "Conteggio degli elementi degli appunti e stato del monitoraggio.";
+
+"Command" = "Comando";
+
+"Copied %@" = "Copiato %@";
+
 "Copy" = "Copia";
+
+"Copy Claude stdio config" = "Copia configurazione stdio Claude";
+
+"Copy Grok stdio config" = "Copia configurazione stdio Grok";
+
+/* MCP tool */
+"Copy a history item back to the clipboard." = "Copia un elemento della cronologia negli appunti.";
 
 "Copy to Plain Text" = "Copia come testo semplice";
 
@@ -112,7 +130,15 @@
 
 "List Count: (%lld)" = "Conteggio elenco: (%lld)";
 
+/* MCP tool */
+"List recent clipboard items." = "Elenca gli elementi recenti degli appunti.";
+
+"MCP" = "MCP";
+
 "Main Window" = "Finestra principale";
+
+/* MCP tool */
+"Mark a clipboard item as favorite." = "Contrassegna un elemento degli appunti come preferito.";
 
 "Month" = "Mese";
 
@@ -128,6 +154,9 @@
 
 "No text found in the image" = "Nessun testo trovato nell'immagine";
 
+/* MCP tool */
+"One clipboard item, including full text." = "Un elemento degli appunti, incluso il testo completo.";
+
 "Open %@" = "Apri %@";
 
 "Open Main Window" = "Apri finestra principale";
@@ -141,6 +170,9 @@
 "Open in Browser" = "Apri nel browser";
 
 "Paste Shortcut" = "Scorciatoia Incolla";
+
+/* MCP tool */
+"Permanently delete a clipboard item." = "Elimina definitivamente un elemento degli appunti.";
 
 "Pin Main Window" = "Fissa finestra principale";
 
@@ -164,11 +196,17 @@
 
 "Remove parameters when copying or inserting links" = "Rimuovi i parametri quando copi o inserisci i link";
 
+/* MCP tool */
+"Remove the favorite mark from a clipboard item." = "Rimuovi il preferito da un elemento degli appunti.";
+
 "Save Invisible Text" = "Salva testo invisibile";
 
 "Saved Count" = "Conteggio salvato";
 
 "Search %@" = "Cerca %@";
+
+/* MCP tool */
+"Search clipboard text." = "Cerca nel testo degli appunti.";
 
 "Security" = "Sicurezza";
 
@@ -207,7 +245,11 @@
 
 "System Settings" = "Impostazioni di sistema";
 
+"The client starts a separate process. Disconnecting it does not quit an already open PasteQuick window." = "Il client avvia un processo separato. Disconnetterlo non chiude una finestra PasteQuick già aperta.";
+
 "There are %lld items in total. This action will permanently delete all your clipboard history and cannot be undone." = "Ci sono %lld elementi in totale. Questa azione eliminerà definitivamente tutta la cronologia degli appunti e non potrà essere annullata.";
+
+"These are MCP tools, not REST paths. Clients call tools/list and tools/call." = "Questi sono strumenti MCP, non percorsi REST. I client chiamano tools/list e tools/call.";
 
 "Unlock all Features" = "Sblocca tutte le funzioni";
 
@@ -256,6 +298,8 @@
 
 /* option */
 "option ⌥" = "option ⌥";
+
+"stdio" = "stdio";
 
 /* text */
 "text" = "testo";
