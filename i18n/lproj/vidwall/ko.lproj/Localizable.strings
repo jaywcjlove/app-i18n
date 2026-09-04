@@ -6,6 +6,8 @@
 
 "%@ Sound" = "%@ 사운드";
 
+"%lld minutes" = "%lld분";
+
 "A collection of video wallpaper sites. Click to download. Feel free to [email](emailrecommendations) me your recommendations." = "비디오 배경화면 사이트를 모아두었습니다. 클릭해서 다운로드하세요. 추천하고 싶은 사이트가 있다면 [email](emailrecommendations)로 알려주세요.";
 
 "About" = "정보";
@@ -13,6 +15,10 @@
 "About %@" = "정보 %@";
 
 "Adaptive Fill Screen" = "화면에 맞춰 채우기";
+
+"Add Local HTML" = "로컬 HTML 추가";
+
+"Add URL" = "URL 추가";
 
 "Allow camera access to use the camera as desktop wallpaper." = "카메라를 바탕화면 배경으로 사용하려면 카메라 접근을 허용하세요.";
 
@@ -23,6 +29,10 @@
 "Authorization" = "권한";
 
 "Authorize" = "승인";
+
+"Browsing Mode" = "브라우징 모드";
+
+"CSS" = "CSS";
 
 "Camera" = "카메라";
 
@@ -50,11 +60,19 @@
 
 "Delete Image Wallpaper" = "이미지 배경화면 삭제";
 
+"Desktop icons and files will be covered. Links on the page can be clicked." = "데스크톱 아이콘과 파일이 가려집니다. 페이지의 링크를 클릭할 수 있습니다.";
+
 "Disable" = "비활성화";
 
 "Disable Camera Wallpaper" = "카메라 배경화면 끄기";
 
 "Disable Sound" = "사운드 끄기";
+
+"Disable Text Selection" = "텍스트 선택 비활성화";
+
+"Disable Web Wallpaper" = "웹 배경화면 끄기";
+
+"Display a website or local HTML file on top of the video wallpaper. Pages with a transparent background will show the video underneath." = "동영상 배경화면 위에 웹사이트 또는 로컬 HTML 파일을 표시합니다. 배경이 투명한 페이지는 아래 동영상이 보입니다.";
 
 "Download" = "다운로드";
 
@@ -64,17 +82,27 @@
 
 "E-mail" = "이메일";
 
+"Edit" = "편집";
+
+"Edit Web Wallpaper" = "웹 배경화면 편집";
+
 "Enable" = "활성화";
 
 "Enable Auto Fade In/Out" = "자동 페이드 인/아웃 활성화";
+
+"Enable Browsing Mode?" = "브라우징 모드를 활성화하시겠습니까?";
 
 "Enable Camera Wallpaper" = "카메라 배경화면 켜기";
 
 "Enable Video List Loop" = "비디오 목록 반복 재생 활성화";
 
+"Enable Web Wallpaper" = "웹 배경화면 켜기";
+
 "Enable/Disable Dynamic Wallpaper" = "동적 배경화면 활성화/비활성화";
 
 "Enable/Disable Wallpaper Sound" = "배경화면 사운드 활성화/비활성화";
+
+"Enable/Disable Web Wallpaper" = "웹 배경화면 활성화/비활성화";
 
 "Feedback" = "피드백";
 
@@ -90,6 +118,10 @@
 
 "Importing Videos" = "비디오 가져오는 중";
 
+"Invalid URL" = "잘못된 URL";
+
+"JavaScript" = "JavaScript";
+
 "Launch at login" = "로그인 시 실행";
 
 "Limit on number of videos" = "비디오 수 제한";
@@ -104,6 +136,10 @@
 
 "No Camera Found" = "카메라를 찾을 수 없음";
 
+"No HTML file was found in the selected folder." = "선택한 폴더에서 HTML 파일을 찾을 수 없습니다.";
+
+"No Web Wallpaper" = "웹 배경화면 없음";
+
 "No content" = "내용 없음";
 
 "OK" = "확인";
@@ -112,9 +148,13 @@
 
 "Only the folder record and permissions will be removed; files remain intact." = "폴더 기록과 권한만 제거되며, 파일은 그대로 유지됩니다.";
 
+"Opacity" = "불투명도";
+
 "Open " = "열기 ";
 
 "Open File..." = "파일 열기...";
+
+"Please enter a valid website URL." = "유효한 웹사이트 URL을 입력하세요.";
 
 "Pro" = "Pro";
 
@@ -122,9 +162,21 @@
 
 "Refresh Video Wallpaper" = "비디오 배경화면 새로 고침";
 
+"Reload Every" = "새로 고침 간격";
+
+"Reload Web Wallpaper" = "웹 배경화면 새로 고침";
+
 "Remove" = "제거";
 
 "Remove %lld items" = "%lld개 항목 제거";
+
+"Remove Web Wallpaper" = "웹 배경화면 제거";
+
+"Remove this web wallpaper from the list? Local files will not be deleted." = "이 웹 배경화면을 목록에서 제거할까요? 로컬 파일은 삭제되지 않습니다.";
+
+"Save" = "저장";
+
+"Select HTML File" = "HTML 파일 선택";
 
 "Select Video Files" = "비디오 파일 선택";
 
@@ -140,6 +192,12 @@
 
 "Social Accounts" = "소셜 계정";
 
+"This URL is already in the list." = "이 URL은 이미 목록에 있습니다.";
+
+"Title" = "제목";
+
+"URL" = "URL";
+
 "Unlock all Features" = "모든 기능 잠금 해제";
 
 "Use the live camera feed as your desktop wallpaper." = "실시간 카메라 화면을 바탕화면 배경으로 사용합니다.";
@@ -152,10 +210,14 @@
 
 "Wallpaper" = "배경화면";
 
+"Web Wallpaper" = "웹 배경화면";
+
 "X(Twitter)" = "X(Twitter)";
 
 "Your Videos, Your Dynamic Lock Screen" = "당신의 비디오로 만드는 동적 잠금 화면";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"https://example.com" = "https://example.com";
 
 "mailto:kennyiseeyou@gmail.com?subject=%@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%@ %@" = "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\n추천 다운로드 URL\n\n여기에 의견이나 제안을 알려주세요.\n\n%2$@ %3$@";

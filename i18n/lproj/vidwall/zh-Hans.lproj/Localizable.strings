@@ -6,6 +6,8 @@
 
 "%@ Sound" = "%@ 声音";
 
+"%lld minutes" = "%lld 分钟";
+
 "A collection of video wallpaper sites. Click to download. Feel free to [email](emailrecommendations) me your recommendations." = "整理了一些视频壁纸网站，点击链接下载。如有推荐，欢迎[邮件](emailrecommendations)告知。";
 
 "About" = "关于";
@@ -13,6 +15,10 @@
 "About %@" = "关于 %@";
 
 "Adaptive Fill Screen" = "自适应填充屏幕";
+
+"Add Local HTML" = "添加本地 HTML";
+
+"Add URL" = "添加网址";
 
 "Allow camera access to use the camera as desktop wallpaper." = "允许访问摄像头后，即可将摄像头画面用作桌面壁纸。";
 
@@ -23,6 +29,10 @@
 "Authorization" = "授权";
 
 "Authorize" = "授权";
+
+"Browsing Mode" = "浏览模式";
+
+"CSS" = "CSS";
 
 "Camera" = "摄像头";
 
@@ -50,11 +60,19 @@
 
 "Delete Image Wallpaper" = "删除图片壁纸";
 
+"Desktop icons and files will be covered. Links on the page can be clicked." = "桌面图标和文件会被遮住。页面上的链接可以点击。";
+
 "Disable" = "禁用";
 
 "Disable Camera Wallpaper" = "关闭摄像头壁纸";
 
 "Disable Sound" = "关闭声音";
+
+"Disable Text Selection" = "禁止选择文本";
+
+"Disable Web Wallpaper" = "禁用网页壁纸";
+
+"Display a website or local HTML file on top of the video wallpaper. Pages with a transparent background will show the video underneath." = "在视频壁纸之上显示网站或本地 HTML 文件。背景透明的页面会透出下方的视频。";
 
 "Download" = "下载";
 
@@ -64,17 +82,27 @@
 
 "E-mail" = "电子邮件";
 
+"Edit" = "编辑";
+
+"Edit Web Wallpaper" = "编辑网页壁纸";
+
 "Enable" = "启用";
 
 "Enable Auto Fade In/Out" = "启用自动淡进淡出";
+
+"Enable Browsing Mode?" = "要开启浏览模式吗？";
 
 "Enable Camera Wallpaper" = "开启摄像头壁纸";
 
 "Enable Video List Loop" = "启用视频列表循环";
 
+"Enable Web Wallpaper" = "启用网页壁纸";
+
 "Enable/Disable Dynamic Wallpaper" = "启用/禁用动态壁纸";
 
 "Enable/Disable Wallpaper Sound" = "启用/禁用壁纸声音";
+
+"Enable/Disable Web Wallpaper" = "启用/禁用网页壁纸";
 
 "Feedback" = "意见反馈";
 
@@ -90,6 +118,10 @@
 
 "Importing Videos" = "正在导入视频";
 
+"Invalid URL" = "无效的网址";
+
+"JavaScript" = "JavaScript";
+
 "Launch at login" = "开机启动";
 
 "Limit on number of videos" = "视频数量限制";
@@ -104,6 +136,10 @@
 
 "No Camera Found" = "未找到摄像头";
 
+"No HTML file was found in the selected folder." = "所选文件夹中未找到 HTML 文件。";
+
+"No Web Wallpaper" = "暂无网页壁纸";
+
 "No content" = "没有内容";
 
 "OK" = "确认";
@@ -112,9 +148,13 @@
 
 "Only the folder record and permissions will be removed; files remain intact." = "仅删除文件夹记录和权限，文件不受影响。";
 
+"Opacity" = "透明度";
+
 "Open " = "打开";
 
 "Open File..." = "打开文件...";
+
+"Please enter a valid website URL." = "请输入有效的网站地址。";
 
 "Pro" = "专业版";
 
@@ -122,9 +162,21 @@
 
 "Refresh Video Wallpaper" = "刷新视频壁纸";
 
+"Reload Every" = "定时刷新";
+
+"Reload Web Wallpaper" = "刷新网页壁纸";
+
 "Remove" = "移除";
 
 "Remove %lld items" = "移除 %lld 项";
+
+"Remove Web Wallpaper" = "移除网页壁纸";
+
+"Remove this web wallpaper from the list? Local files will not be deleted." = "要从列表中移除此网页壁纸吗？本地文件不会被删除。";
+
+"Save" = "保存";
+
+"Select HTML File" = "选择 HTML 文件";
 
 "Select Video Files" = "选择视频文件";
 
@@ -140,6 +192,12 @@
 
 "Social Accounts" = "社交账号";
 
+"This URL is already in the list." = "该网址已在列表中。";
+
+"Title" = "标题";
+
+"URL" = "URL";
+
 "Unlock all Features" = "解锁全部功能";
 
 "Use the live camera feed as your desktop wallpaper." = "将摄像头实时画面用作桌面壁纸。";
@@ -152,10 +210,14 @@
 
 "Wallpaper" = "壁纸";
 
+"Web Wallpaper" = "网页壁纸";
+
 "X(Twitter)" = "X(Twitter)";
 
 "Your Videos, Your Dynamic Lock Screen" = "你的影片，你的动态锁屏";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"https://example.com" = "https://example.com";
 
 "mailto:kennyiseeyou@gmail.com?subject=%@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%@ %@" = "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%2$@ %3$@";

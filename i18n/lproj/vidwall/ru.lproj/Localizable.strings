@@ -6,6 +6,8 @@
 
 "%@ Sound" = "Звук %@";
 
+"%lld minutes" = "%lld минут";
+
 "A collection of video wallpaper sites. Click to download. Feel free to [email](emailrecommendations) me your recommendations." = "Подборка сайтов с видеообоями. Нажмите, чтобы скачать. Можете [написать](emailrecommendations) мне свои рекомендации.";
 
 "About" = "О приложении";
@@ -13,6 +15,10 @@
 "About %@" = "О %@";
 
 "Adaptive Fill Screen" = "Адаптивное заполнение экрана";
+
+"Add Local HTML" = "Добавить локальный HTML";
+
+"Add URL" = "Добавить URL";
 
 "Allow camera access to use the camera as desktop wallpaper." = "Разрешите доступ к камере, чтобы использовать ее как обои рабочего стола.";
 
@@ -23,6 +29,10 @@
 "Authorization" = "Авторизация";
 
 "Authorize" = "Разрешить";
+
+"Browsing Mode" = "Режим просмотра";
+
+"CSS" = "CSS";
 
 "Camera" = "Камера";
 
@@ -50,11 +60,19 @@
 
 "Delete Image Wallpaper" = "Удалить обои-изображение";
 
+"Desktop icons and files will be covered. Links on the page can be clicked." = "Значки и файлы на рабочем столе будут скрыты. Ссылки на странице можно нажимать.";
+
 "Disable" = "Отключить";
 
 "Disable Camera Wallpaper" = "Отключить обои с камеры";
 
 "Disable Sound" = "Отключить звук";
+
+"Disable Text Selection" = "Отключить выделение текста";
+
+"Disable Web Wallpaper" = "Отключить веб-обои";
+
+"Display a website or local HTML file on top of the video wallpaper. Pages with a transparent background will show the video underneath." = "Отображайте сайт или локальный HTML-файл поверх видеообоев. Страницы с прозрачным фоном показывают видео под ними.";
 
 "Download" = "Скачать";
 
@@ -64,17 +82,27 @@
 
 "E-mail" = "Эл. почта";
 
+"Edit" = "Редактировать";
+
+"Edit Web Wallpaper" = "Редактировать веб-обои";
+
 "Enable" = "Включить";
 
 "Enable Auto Fade In/Out" = "Включить автопоявление/затухание";
+
+"Enable Browsing Mode?" = "Включить режим просмотра?";
 
 "Enable Camera Wallpaper" = "Включить обои с камеры";
 
 "Enable Video List Loop" = "Включить повтор списка видео";
 
+"Enable Web Wallpaper" = "Включить веб-обои";
+
 "Enable/Disable Dynamic Wallpaper" = "Включить/Отключить динамические обои";
 
 "Enable/Disable Wallpaper Sound" = "Включить/Отключить звук обоев";
+
+"Enable/Disable Web Wallpaper" = "Включить/Отключить веб-обои";
 
 "Feedback" = "Обратная связь";
 
@@ -90,6 +118,10 @@
 
 "Importing Videos" = "Импорт видео";
 
+"Invalid URL" = "Недействительный URL";
+
+"JavaScript" = "JavaScript";
+
 "Launch at login" = "Запускать при входе";
 
 "Limit on number of videos" = "Ограничение количества видео";
@@ -104,6 +136,10 @@
 
 "No Camera Found" = "Камера не найдена";
 
+"No HTML file was found in the selected folder." = "В выбранной папке не найден HTML-файл.";
+
+"No Web Wallpaper" = "Нет веб-обоев";
+
 "No content" = "Нет содержимого";
 
 "OK" = "ОК";
@@ -112,9 +148,13 @@
 
 "Only the folder record and permissions will be removed; files remain intact." = "Будут удалены только запись папки и разрешения; файлы останутся нетронутыми.";
 
+"Opacity" = "Непрозрачность";
+
 "Open " = "Открыть ";
 
 "Open File..." = "Открыть файл...";
+
+"Please enter a valid website URL." = "Введите действительный URL веб-сайта.";
 
 "Pro" = "Pro";
 
@@ -122,9 +162,21 @@
 
 "Refresh Video Wallpaper" = "Обновить видеообои";
 
+"Reload Every" = "Перезагружать каждые";
+
+"Reload Web Wallpaper" = "Перезагрузить веб-обои";
+
 "Remove" = "Удалить";
 
 "Remove %lld items" = "Удалить %lld элементов";
+
+"Remove Web Wallpaper" = "Удалить веб-обои";
+
+"Remove this web wallpaper from the list? Local files will not be deleted." = "Удалить эти веб-обои из списка? Локальные файлы не будут удалены.";
+
+"Save" = "Сохранить";
+
+"Select HTML File" = "Выбрать HTML-файл";
 
 "Select Video Files" = "Выбрать видеофайлы";
 
@@ -140,6 +192,12 @@
 
 "Social Accounts" = "Соцсети";
 
+"This URL is already in the list." = "Этот URL уже есть в списке.";
+
+"Title" = "Заголовок";
+
+"URL" = "URL";
+
 "Unlock all Features" = "Разблокировать все функции";
 
 "Use the live camera feed as your desktop wallpaper." = "Использовать прямую трансляцию с камеры как обои рабочего стола.";
@@ -152,10 +210,14 @@
 
 "Wallpaper" = "Обои";
 
+"Web Wallpaper" = "Веб-обои";
+
 "X(Twitter)" = "X(Twitter)";
 
 "Your Videos, Your Dynamic Lock Screen" = "Ваши видео, ваш динамический экран блокировки";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"https://example.com" = "https://example.com";
 
 "mailto:kennyiseeyou@gmail.com?subject=%@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%@ %@" = "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nРекомендуемый URL для скачивания\n\nНапишите здесь, какие у вас есть предложения.\n\n%2$@ %3$@";

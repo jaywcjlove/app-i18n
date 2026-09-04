@@ -6,6 +6,8 @@
 
 "%@ Sound" = "%@ Sound";
 
+"%lld minutes" = "%lld minutes";
+
 "A collection of video wallpaper sites. Click to download. Feel free to [email](emailrecommendations) me your recommendations." = "A collection of video wallpaper sites. Click to download. Feel free to [email](emailrecommendations) me your recommendations.";
 
 "About" = "About";
@@ -13,6 +15,10 @@
 "About %@" = "About %@";
 
 "Adaptive Fill Screen" = "Adaptive Fill Screen";
+
+"Add Local HTML" = "Add Local HTML";
+
+"Add URL" = "Add URL";
 
 "Allow camera access to use the camera as desktop wallpaper." = "Allow camera access to use the camera as desktop wallpaper.";
 
@@ -23,6 +29,10 @@
 "Authorization" = "Authorization";
 
 "Authorize" = "Authorize";
+
+"Browsing Mode" = "Browsing Mode";
+
+"CSS" = "CSS";
 
 "Camera" = "Camera";
 
@@ -50,11 +60,19 @@
 
 "Delete Image Wallpaper" = "Delete Image Wallpaper";
 
+"Desktop icons and files will be covered. Links on the page can be clicked." = "Desktop icons and files will be covered. Links on the page can be clicked.";
+
 "Disable" = "Disable";
 
 "Disable Camera Wallpaper" = "Disable Camera Wallpaper";
 
 "Disable Sound" = "Disable Sound";
+
+"Disable Text Selection" = "Disable Text Selection";
+
+"Disable Web Wallpaper" = "Disable Web Wallpaper";
+
+"Display a website or local HTML file on top of the video wallpaper. Pages with a transparent background will show the video underneath." = "Display a website or local HTML file on top of the video wallpaper. Pages with a transparent background will show the video underneath.";
 
 "Download" = "Download";
 
@@ -64,17 +82,27 @@
 
 "E-mail" = "E-mail";
 
+"Edit" = "Edit";
+
+"Edit Web Wallpaper" = "Edit Web Wallpaper";
+
 "Enable" = "Enable";
 
 "Enable Auto Fade In/Out" = "Enable Auto Fade In/Out";
+
+"Enable Browsing Mode?" = "Enable Browsing Mode?";
 
 "Enable Camera Wallpaper" = "Enable Camera Wallpaper";
 
 "Enable Video List Loop" = "Enable Video List Loop";
 
+"Enable Web Wallpaper" = "Enable Web Wallpaper";
+
 "Enable/Disable Dynamic Wallpaper" = "Enable/Disable Dynamic Wallpaper";
 
 "Enable/Disable Wallpaper Sound" = "Enable/Disable Wallpaper Sound";
+
+"Enable/Disable Web Wallpaper" = "Enable/Disable Web Wallpaper";
 
 "Feedback" = "Feedback";
 
@@ -90,6 +118,10 @@
 
 "Importing Videos" = "Importing Videos";
 
+"Invalid URL" = "Invalid URL";
+
+"JavaScript" = "JavaScript";
+
 "Launch at login" = "Launch at login";
 
 "Limit on number of videos" = "Limit on number of videos";
@@ -104,6 +136,10 @@
 
 "No Camera Found" = "No Camera Found";
 
+"No HTML file was found in the selected folder." = "No HTML file was found in the selected folder.";
+
+"No Web Wallpaper" = "No Web Wallpaper";
+
 "No content" = "No content";
 
 "OK" = "OK";
@@ -112,9 +148,13 @@
 
 "Only the folder record and permissions will be removed; files remain intact." = "Only the folder record and permissions will be removed; files remain intact.";
 
+"Opacity" = "Opacity";
+
 "Open " = "Open ";
 
 "Open File..." = "Open File...";
+
+"Please enter a valid website URL." = "Please enter a valid website URL.";
 
 "Pro" = "Pro";
 
@@ -122,9 +162,21 @@
 
 "Refresh Video Wallpaper" = "Refresh Video Wallpaper";
 
+"Reload Every" = "Reload Every";
+
+"Reload Web Wallpaper" = "Reload Web Wallpaper";
+
 "Remove" = "Remove";
 
 "Remove %lld items" = "Remove %lld items";
+
+"Remove Web Wallpaper" = "Remove Web Wallpaper";
+
+"Remove this web wallpaper from the list? Local files will not be deleted." = "Remove this web wallpaper from the list? Local files will not be deleted.";
+
+"Save" = "Save";
+
+"Select HTML File" = "Select HTML File";
 
 "Select Video Files" = "Select Video Files";
 
@@ -140,6 +192,12 @@
 
 "Social Accounts" = "Social Accounts";
 
+"This URL is already in the list." = "This URL is already in the list.";
+
+"Title" = "Title";
+
+"URL" = "URL";
+
 "Unlock all Features" = "Unlock all Features";
 
 "Use the live camera feed as your desktop wallpaper." = "Use the live camera feed as your desktop wallpaper.";
@@ -152,10 +210,14 @@
 
 "Wallpaper" = "Wallpaper";
 
+"Web Wallpaper" = "Web Wallpaper";
+
 "X(Twitter)" = "X(Twitter)";
 
 "Your Videos, Your Dynamic Lock Screen" = "Your Videos, Your Dynamic Lock Screen";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"https://example.com" = "https://example.com";
 
 "mailto:kennyiseeyou@gmail.com?subject=%@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%@ %@" = "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%2$@ %3$@";

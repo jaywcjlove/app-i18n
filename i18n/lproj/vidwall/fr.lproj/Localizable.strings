@@ -6,6 +6,8 @@
 
 "%@ Sound" = "Son %@";
 
+"%lld minutes" = "%lld minutes";
+
 "A collection of video wallpaper sites. Click to download. Feel free to [email](emailrecommendations) me your recommendations." = "Une collection de sites de fonds d'écran vidéo. Cliquez pour télécharger. N'hésitez pas à m'envoyer vos recommandations par [e-mail](emailrecommendations).";
 
 "About" = "À propos";
@@ -13,6 +15,10 @@
 "About %@" = "À propos de %@";
 
 "Adaptive Fill Screen" = "Remplissage adaptatif de l'écran";
+
+"Add Local HTML" = "Ajouter un HTML local";
+
+"Add URL" = "Ajouter une URL";
 
 "Allow camera access to use the camera as desktop wallpaper." = "Autorisez l'accès à la caméra pour l'utiliser comme fond d'écran.";
 
@@ -23,6 +29,10 @@
 "Authorization" = "Autorisation";
 
 "Authorize" = "Autoriser";
+
+"Browsing Mode" = "Mode navigation";
+
+"CSS" = "CSS";
 
 "Camera" = "Caméra";
 
@@ -50,11 +60,19 @@
 
 "Delete Image Wallpaper" = "Supprimer le fond d'écran image";
 
+"Desktop icons and files will be covered. Links on the page can be clicked." = "Les icônes et fichiers du bureau seront masqués. Les liens de la page pourront être cliqués.";
+
 "Disable" = "Désactiver";
 
 "Disable Camera Wallpaper" = "Désactiver le fond d'écran caméra";
 
 "Disable Sound" = "Désactiver le son";
+
+"Disable Text Selection" = "Désactiver la sélection de texte";
+
+"Disable Web Wallpaper" = "Désactiver le fond d'écran Web";
+
+"Display a website or local HTML file on top of the video wallpaper. Pages with a transparent background will show the video underneath." = "Affichez un site web ou un fichier HTML local au-dessus du fond d'écran vidéo. Les pages à fond transparent laissent voir la vidéo en dessous.";
 
 "Download" = "Télécharger";
 
@@ -64,17 +82,27 @@
 
 "E-mail" = "E-mail";
 
+"Edit" = "Modifier";
+
+"Edit Web Wallpaper" = "Modifier le fond d'écran Web";
+
 "Enable" = "Activer";
 
 "Enable Auto Fade In/Out" = "Activer le fondu entrant/sortant automatique";
+
+"Enable Browsing Mode?" = "Activer le mode navigation ?";
 
 "Enable Camera Wallpaper" = "Activer le fond d'écran caméra";
 
 "Enable Video List Loop" = "Activer la lecture en boucle de la liste vidéo";
 
+"Enable Web Wallpaper" = "Activer le fond d'écran Web";
+
 "Enable/Disable Dynamic Wallpaper" = "Activer/Désactiver le fond d'écran dynamique";
 
 "Enable/Disable Wallpaper Sound" = "Activer/Désactiver le son du fond d'écran";
+
+"Enable/Disable Web Wallpaper" = "Activer/Désactiver le fond d'écran Web";
 
 "Feedback" = "Commentaires";
 
@@ -90,6 +118,10 @@
 
 "Importing Videos" = "Importation des vidéos";
 
+"Invalid URL" = "URL non valide";
+
+"JavaScript" = "JavaScript";
+
 "Launch at login" = "Lancer à l'ouverture de session";
 
 "Limit on number of videos" = "Limite du nombre de vidéos";
@@ -104,6 +136,10 @@
 
 "No Camera Found" = "Aucune caméra trouvée";
 
+"No HTML file was found in the selected folder." = "Aucun fichier HTML n'a été trouvé dans le dossier sélectionné.";
+
+"No Web Wallpaper" = "Aucun fond d'écran Web";
+
 "No content" = "Aucun contenu";
 
 "OK" = "OK";
@@ -112,9 +148,13 @@
 
 "Only the folder record and permissions will be removed; files remain intact." = "Seuls l'enregistrement du dossier et les autorisations seront supprimés ; les fichiers restent intacts.";
 
+"Opacity" = "Opacité";
+
 "Open " = "Ouvrir ";
 
 "Open File..." = "Ouvrir un fichier...";
+
+"Please enter a valid website URL." = "Veuillez saisir une URL de site web valide.";
 
 "Pro" = "Pro";
 
@@ -122,9 +162,21 @@
 
 "Refresh Video Wallpaper" = "Rafraîchir le fond d'écran vidéo";
 
+"Reload Every" = "Recharger toutes les";
+
+"Reload Web Wallpaper" = "Recharger le fond d'écran Web";
+
 "Remove" = "Supprimer";
 
 "Remove %lld items" = "Supprimer %lld éléments";
+
+"Remove Web Wallpaper" = "Supprimer le fond d'écran Web";
+
+"Remove this web wallpaper from the list? Local files will not be deleted." = "Retirer ce fond d'écran Web de la liste ? Les fichiers locaux ne seront pas supprimés.";
+
+"Save" = "Enregistrer";
+
+"Select HTML File" = "Sélectionner un fichier HTML";
 
 "Select Video Files" = "Sélectionner des fichiers vidéo";
 
@@ -140,6 +192,12 @@
 
 "Social Accounts" = "Comptes sociaux";
 
+"This URL is already in the list." = "Cette URL est déjà dans la liste.";
+
+"Title" = "Titre";
+
+"URL" = "URL";
+
 "Unlock all Features" = "Déverrouiller toutes les fonctionnalités";
 
 "Use the live camera feed as your desktop wallpaper." = "Utiliser le flux caméra en direct comme fond d'écran.";
@@ -152,10 +210,14 @@
 
 "Wallpaper" = "Fond d'écran";
 
+"Web Wallpaper" = "Fond d'écran Web";
+
 "X(Twitter)" = "X(Twitter)";
 
 "Your Videos, Your Dynamic Lock Screen" = "Vos vidéos, votre écran verrouillé dynamique";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"https://example.com" = "https://example.com";
 
 "mailto:kennyiseeyou@gmail.com?subject=%@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%@ %@" = "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nURL de téléchargement recommandée\n\nDites-moi ici quelles suggestions vous avez.\n\n%2$@ %3$@";

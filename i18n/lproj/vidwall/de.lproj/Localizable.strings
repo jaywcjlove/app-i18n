@@ -6,6 +6,8 @@
 
 "%@ Sound" = "%@ Sound";
 
+"%lld minutes" = "%lld Minuten";
+
 "A collection of video wallpaper sites. Click to download. Feel free to [email](emailrecommendations) me your recommendations." = "Eine Sammlung von Video-Hintergrundbild-Websites. Zum Herunterladen klicken. Sende mir gerne deine Empfehlungen per [E-Mail](emailrecommendations).";
 
 "About" = "Über";
@@ -13,6 +15,10 @@
 "About %@" = "Über %@";
 
 "Adaptive Fill Screen" = "Bildschirm adaptiv ausfüllen";
+
+"Add Local HTML" = "Lokales HTML hinzufügen";
+
+"Add URL" = "URL hinzufügen";
 
 "Allow camera access to use the camera as desktop wallpaper." = "Kamerazugriff erlauben, um die Kamera als Desktop-Hintergrund zu verwenden.";
 
@@ -23,6 +29,10 @@
 "Authorization" = "Autorisierung";
 
 "Authorize" = "Autorisieren";
+
+"Browsing Mode" = "Browsing-Modus";
+
+"CSS" = "CSS";
 
 "Camera" = "Kamera";
 
@@ -50,11 +60,19 @@
 
 "Delete Image Wallpaper" = "Bild-Hintergrundbild löschen";
 
+"Desktop icons and files will be covered. Links on the page can be clicked." = "Desktopsymbole und Dateien werden überdeckt. Links auf der Seite können angeklickt werden.";
+
 "Disable" = "Deaktivieren";
 
 "Disable Camera Wallpaper" = "Kamera-Hintergrundbild deaktivieren";
 
 "Disable Sound" = "Sound deaktivieren";
+
+"Disable Text Selection" = "Textauswahl deaktivieren";
+
+"Disable Web Wallpaper" = "Web-Hintergrundbild deaktivieren";
+
+"Display a website or local HTML file on top of the video wallpaper. Pages with a transparent background will show the video underneath." = "Zeigen Sie eine Website oder eine lokale HTML-Datei über dem Video-Hintergrundbild an. Seiten mit transparentem Hintergrund lassen das Video darunter sichtbar.";
 
 "Download" = "Herunterladen";
 
@@ -64,17 +82,27 @@
 
 "E-mail" = "E-Mail";
 
+"Edit" = "Bearbeiten";
+
+"Edit Web Wallpaper" = "Web-Hintergrundbild bearbeiten";
+
 "Enable" = "Aktivieren";
 
 "Enable Auto Fade In/Out" = "Automatisches Ein-/Ausblenden aktivieren";
+
+"Enable Browsing Mode?" = "Browsing-Modus aktivieren?";
 
 "Enable Camera Wallpaper" = "Kamera-Hintergrundbild aktivieren";
 
 "Enable Video List Loop" = "Video-Listenwiedergabe aktivieren";
 
+"Enable Web Wallpaper" = "Web-Hintergrundbild aktivieren";
+
 "Enable/Disable Dynamic Wallpaper" = "Dynamisches Hintergrundbild aktivieren/deaktivieren";
 
 "Enable/Disable Wallpaper Sound" = "Hintergrundbild-Sound aktivieren/deaktivieren";
+
+"Enable/Disable Web Wallpaper" = "Web-Hintergrundbild aktivieren/deaktivieren";
 
 "Feedback" = "Feedback";
 
@@ -90,6 +118,10 @@
 
 "Importing Videos" = "Videos werden importiert";
 
+"Invalid URL" = "Ungültige URL";
+
+"JavaScript" = "JavaScript";
+
 "Launch at login" = "Beim Anmelden starten";
 
 "Limit on number of videos" = "Begrenzung der Videoanzahl";
@@ -104,6 +136,10 @@
 
 "No Camera Found" = "Keine Kamera gefunden";
 
+"No HTML file was found in the selected folder." = "Im ausgewählten Ordner wurde keine HTML-Datei gefunden.";
+
+"No Web Wallpaper" = "Kein Web-Hintergrundbild";
+
 "No content" = "Kein Inhalt";
 
 "OK" = "OK";
@@ -112,9 +148,13 @@
 
 "Only the folder record and permissions will be removed; files remain intact." = "Nur der Ordnereintrag und die Berechtigungen werden entfernt; die Dateien bleiben unverändert.";
 
+"Opacity" = "Deckkraft";
+
 "Open " = "Öffnen ";
 
 "Open File..." = "Datei öffnen...";
+
+"Please enter a valid website URL." = "Bitte geben Sie eine gültige Website-URL ein.";
 
 "Pro" = "Pro";
 
@@ -122,9 +162,21 @@
 
 "Refresh Video Wallpaper" = "Video-Hintergrundbild aktualisieren";
 
+"Reload Every" = "Aktualisieren alle";
+
+"Reload Web Wallpaper" = "Web-Hintergrundbild neu laden";
+
 "Remove" = "Entfernen";
 
 "Remove %lld items" = "%lld Einträge entfernen";
+
+"Remove Web Wallpaper" = "Web-Hintergrundbild entfernen";
+
+"Remove this web wallpaper from the list? Local files will not be deleted." = "Dieses Web-Hintergrundbild aus der Liste entfernen? Lokale Dateien werden nicht gelöscht.";
+
+"Save" = "Speichern";
+
+"Select HTML File" = "HTML-Datei auswählen";
 
 "Select Video Files" = "Videodateien auswählen";
 
@@ -140,6 +192,12 @@
 
 "Social Accounts" = "Soziale Konten";
 
+"This URL is already in the list." = "Diese URL ist bereits in der Liste.";
+
+"Title" = "Titel";
+
+"URL" = "URL";
+
 "Unlock all Features" = "Alle Funktionen freischalten";
 
 "Use the live camera feed as your desktop wallpaper." = "Live-Kamerabild als Desktop-Hintergrund verwenden.";
@@ -152,10 +210,14 @@
 
 "Wallpaper" = "Hintergrundbild";
 
+"Web Wallpaper" = "Web-Hintergrundbild";
+
 "X(Twitter)" = "X(Twitter)";
 
 "Your Videos, Your Dynamic Lock Screen" = "Ihre Videos, Ihr dynamischer Sperrbildschirm";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"https://example.com" = "https://example.com";
 
 "mailto:kennyiseeyou@gmail.com?subject=%@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%@ %@" = "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\nEmpfohlene Download-URL\n\nTeilen Sie mir hier Ihre Vorschläge mit.\n\n%2$@ %3$@";

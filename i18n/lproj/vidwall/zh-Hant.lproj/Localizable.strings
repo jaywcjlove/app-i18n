@@ -6,6 +6,8 @@
 
 "%@ Sound" = "%@ 聲音";
 
+"%lld minutes" = "%lld 分鐘";
+
 "A collection of video wallpaper sites. Click to download. Feel free to [email](emailrecommendations) me your recommendations." = "整理了一些影片桌布網站，點擊即可下載。若有推薦，歡迎透過 [email](emailrecommendations) 告訴我。";
 
 "About" = "關於";
@@ -13,6 +15,10 @@
 "About %@" = "關於 %@";
 
 "Adaptive Fill Screen" = "自適應填滿螢幕";
+
+"Add Local HTML" = "新增本機 HTML";
+
+"Add URL" = "新增網址";
 
 "Allow camera access to use the camera as desktop wallpaper." = "允許存取攝影機後，即可將攝影機畫面用作桌面桌布。";
 
@@ -23,6 +29,10 @@
 "Authorization" = "授權";
 
 "Authorize" = "授權";
+
+"Browsing Mode" = "瀏覽模式";
+
+"CSS" = "CSS";
 
 "Camera" = "攝影機";
 
@@ -50,11 +60,19 @@
 
 "Delete Image Wallpaper" = "刪除圖片桌布";
 
+"Desktop icons and files will be covered. Links on the page can be clicked." = "桌面圖示和檔案會被遮住。頁面上的連結可以點選。";
+
 "Disable" = "停用";
 
 "Disable Camera Wallpaper" = "關閉攝影機桌布";
 
 "Disable Sound" = "關閉聲音";
+
+"Disable Text Selection" = "停用文字選取";
+
+"Disable Web Wallpaper" = "停用網頁桌布";
+
+"Display a website or local HTML file on top of the video wallpaper. Pages with a transparent background will show the video underneath." = "在影片桌布之上顯示網站或本機 HTML 檔案。背景透明的頁面會透出下方的影片。";
 
 "Download" = "下載";
 
@@ -64,17 +82,27 @@
 
 "E-mail" = "電子郵件";
 
+"Edit" = "編輯";
+
+"Edit Web Wallpaper" = "編輯網頁桌布";
+
 "Enable" = "啟用";
 
 "Enable Auto Fade In/Out" = "啟用自動淡入/淡出";
+
+"Enable Browsing Mode?" = "要開啟瀏覽模式嗎？";
 
 "Enable Camera Wallpaper" = "開啟攝影機桌布";
 
 "Enable Video List Loop" = "啟用影片清單循環";
 
+"Enable Web Wallpaper" = "啟用網頁桌布";
+
 "Enable/Disable Dynamic Wallpaper" = "啟用/停用動態桌布";
 
 "Enable/Disable Wallpaper Sound" = "啟用/停用桌布聲音";
+
+"Enable/Disable Web Wallpaper" = "啟用/停用網頁桌布";
 
 "Feedback" = "意見回饋";
 
@@ -90,6 +118,10 @@
 
 "Importing Videos" = "正在匯入影片";
 
+"Invalid URL" = "無效的網址";
+
+"JavaScript" = "JavaScript";
+
 "Launch at login" = "登入時啟動";
 
 "Limit on number of videos" = "影片數量上限";
@@ -104,6 +136,10 @@
 
 "No Camera Found" = "找不到攝影機";
 
+"No HTML file was found in the selected folder." = "所選資料夾中找不到 HTML 檔案。";
+
+"No Web Wallpaper" = "尚無網頁桌布";
+
 "No content" = "沒有內容";
 
 "OK" = "OK";
@@ -112,9 +148,13 @@
 
 "Only the folder record and permissions will be removed; files remain intact." = "僅會移除資料夾紀錄與權限，檔案將保持不變。";
 
+"Opacity" = "不透明度";
+
 "Open " = "開啟 ";
 
 "Open File..." = "開啟檔案...";
+
+"Please enter a valid website URL." = "請輸入有效的網站網址。";
 
 "Pro" = "Pro";
 
@@ -122,9 +162,21 @@
 
 "Refresh Video Wallpaper" = "重新整理影片桌布";
 
+"Reload Every" = "定時重新載入";
+
+"Reload Web Wallpaper" = "重新載入網頁桌布";
+
 "Remove" = "移除";
 
 "Remove %lld items" = "移除 %lld 項";
+
+"Remove Web Wallpaper" = "移除網頁桌布";
+
+"Remove this web wallpaper from the list? Local files will not be deleted." = "要从列表中移除此網頁桌布嗎？本機檔案不會被刪除。";
+
+"Save" = "儲存";
+
+"Select HTML File" = "選擇 HTML 檔案";
 
 "Select Video Files" = "選擇影片檔案";
 
@@ -140,6 +192,12 @@
 
 "Social Accounts" = "社群帳號";
 
+"This URL is already in the list." = "該網址已在列表中。";
+
+"Title" = "標題";
+
+"URL" = "URL";
+
 "Unlock all Features" = "解鎖全部功能";
 
 "Use the live camera feed as your desktop wallpaper." = "將攝影機即時畫面用作桌面桌布。";
@@ -152,10 +210,14 @@
 
 "Wallpaper" = "桌布";
 
+"Web Wallpaper" = "網頁桌布";
+
 "X(Twitter)" = "X(Twitter)";
 
 "Your Videos, Your Dynamic Lock Screen" = "你的影片，你的動態鎖定畫面";
 
 "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)" = "[Twitter](https://x.com/jaywcjlove) • [E-mail](emailurl) • [Github](githuburl)";
+
+"https://example.com" = "https://example.com";
 
 "mailto:kennyiseeyou@gmail.com?subject=%@&body=\n\n\nRecommended download URL\n\nHere, tell me, what suggestions do you have?\n\n%@ %@" = "mailto:kennyiseeyou@gmail.com?subject=%1$@&body=\n\n\n推薦下載網址\n\n請在此告訴我你的建議。\n\n%2$@ %3$@";
