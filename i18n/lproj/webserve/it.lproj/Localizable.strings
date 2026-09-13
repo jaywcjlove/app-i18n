@@ -1,0 +1,183 @@
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ — Modalità scura";
+
+"%@ Follow System" = "%@ — Come il sistema";
+
+"%@ Light Mode" = "%@ — Modalità chiara";
+
+"/index.html" = "/index.html";
+
+":" = ":";
+
+"A number between 1 - 65535. Port that the local web server is accessible on. Access the website at _`http://localhost:[PORT]`_ ." = "Un numero compreso tra 1 e 65535. La porta tramite cui è accessibile il server web locale. Accedi al sito all'indirizzo _`http://localhost:[PORT]`_ .";
+
+"About" = "Informazioni";
+
+"About %@" = "Informazioni su %@";
+
+"Allow cross origin requests. Sets **Access-Control-Allow-Origin** header to **\\***, **Access-Control-Allow-Methods** to **GET, POST, PUT, DELETE**, and **Access-Control-Max-Age** to **120**. [Learn more about Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)." = "Consenti le richieste cross-origin. Imposta l'intestazione **Access-Control-Allow-Origin** su **\\***, **Access-Control-Allow-Methods** su **GET, POST, PUT, DELETE** e **Access-Control-Max-Age** su **120**. [Scopri di più sulla condivisione delle risorse tra origini](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS).";
+
+"Appearance" = "Aspetto";
+
+"Cancel" = "Annulla";
+
+"Confirm" = "Conferma";
+
+"Confirm deletion [Port number: %@] %@?" = "Confermare l'eliminazione [Numero porta: %1$@] %2$@?";
+
+/* Dark */
+"Dark" = "Scuro";
+
+"Delete Server" = "Elimina server";
+
+"Directory does not exist: %@" = "La directory non esiste: %@";
+
+"Do you want to enable auto-launch at startup?" = "Vuoi abilitare l'avvio automatico all'accesso?";
+
+"Drag a folder here to add a service" = "Trascina qui una cartella per aggiungere un servizio";
+
+"Enable HTTP Basic authentication" = "Abilita autenticazione HTTP Basic";
+
+"Enable auto-launch?" = "Abilitare l'avvio automatico?";
+
+"Error" = "Errore";
+
+"Exclude .htm and .html extensions from URLs. For example, `/example.html` will redirect to `/example`. If a file exists at the path without an extension, the HTML file will still be rendered instead." = "Escludi le estensioni .htm e .html dagli URL. Ad esempio, `/example.html` reindirizzerà a `/example`. Se esiste un file nel percorso senza estensione, verrà comunque visualizzato il file HTML.";
+
+"Exclude .html extension" = "Escludi l'estensione .html";
+
+"Failed to access" = "Impossibile accedere";
+
+"Failed to access security scoped resource." = "Impossibile accedere alla risorsa con ambito di sicurezza.";
+
+"Folder Not Found" = "Cartella non trovata";
+
+"Folder path" = "Percorso cartella";
+
+"Forward Host" = "Host di inoltro";
+
+"Forward Port" = "Porta di inoltro";
+
+"General" = "Generale";
+
+"Generate Cert" = "Genera certificato";
+
+"Generate Cert failed" = "Impossibile generare il certificato";
+
+"Got it" = "Ho capito";
+
+"HTTP Basic auth Password" = "Password autenticazione HTTP Basic";
+
+"HTTP Basic auth Username" = "Nome utente autenticazione HTTP Basic";
+
+"If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." = "Se WebServe ti è utile per la produttività, considera la possibilità di sponsorizzarmi come segno di apprezzamento. È come offrirmi un caffè ogni tanto.";
+
+"Install Root CA" = "Installa CA radice";
+
+"Install Root CA failed" = "Impossibile installare la CA radice";
+
+"Keychain Access.app was not found." = "Keychain Access.app non trovata.";
+
+"Language" = "Lingua";
+
+"Launch at login" = "Avvia all'accesso";
+
+/* Light */
+"Light" = "Chiaro";
+
+"Main Window" = "Finestra principale";
+
+"Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." = "Rendi il server accessibile tramite una connessione sicura (https) invece di http. Usa la stessa porta singola, quindi non puoi usare http e https contemporaneamente.";
+
+"Manual trust required" = "Attendibilità manuale richiesta";
+
+"More App" = "Altre app";
+
+"No access permission" = "Nessun permesso di accesso";
+
+/* Default OK button */
+"OK" = "OK";
+
+"Open Root CA failed" = "Impossibile aprire la CA radice";
+
+"Open Root CA in Keychain Access" = "Apri la CA radice in Accesso Portachiavi";
+
+"Open in Finder" = "Apri nel Finder";
+
+"Opening the Root CA in Keychain Access failed with exit code %d." = "Impossibile aprire la CA radice in Accesso Portachiavi. Codice di uscita: %d.";
+
+"Please enter your password" = "Inserisci la password";
+
+"Please enter your username" = "Inserisci il nome utente";
+
+"Please select a folder" = "Seleziona una cartella";
+
+"Port" = "Porta";
+
+"Port %u is already in use." = "La porta %u è già in uso.";
+
+"Port Forward" = "Inoltro porta";
+
+"Port Unavailable" = "Porta non disponibile";
+
+"Reauth" = "Nuova autenticazione";
+
+"Rewrite to (for SPAs)" = "Riscrivi in (per SPA)";
+
+"Root CA installed" = "CA radice installata";
+
+"Running" = "In esecuzione";
+
+"SSL/TLS certificate" = "Certificato SSL/TLS";
+
+"SSL/TLS private key" = "Chiave privata SSL/TLS";
+
+"Save Changes" = "Salva modifiche";
+
+"Select Folder" = "Seleziona cartella";
+
+"Select Folder..." = "Seleziona cartella...";
+
+"Set CORS headers" = "Imposta intestazioni CORS";
+
+"Show Folder" = "Mostra cartella";
+
+"Show directory file list?" = "Mostrare l'elenco dei file della directory?";
+
+"Single page rewrite (for SPAs)" = "Riscrittura a pagina singola (per SPA)";
+
+"Skip hidden files" = "Ignora file nascosti";
+
+"Sponsor" = "Sponsorizza";
+
+"Stopped" = "Arrestato";
+
+/* System */
+"System" = "Sistema";
+
+"Thank you for your support! 🙌" = "Grazie per il tuo supporto! 🙌";
+
+"The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser." = "La CA radice è stata aperta in Accesso Portachiavi. Impostala su Sempre attendibile per SSL, quindi riavvia il browser.";
+
+"The folder does not exist at the specified path: %@" = "La cartella non esiste nel percorso specificato: %@";
+
+"Unable to start due to insufficient permissions. Please select a folder again and save to obtain read access to the folder." = "Impossibile avviare a causa di permessi insufficienti. Seleziona nuovamente una cartella e salva per ottenere l'accesso in lettura alla cartella.";
+
+"Use HTTPS" = "Usa HTTPS";
+
+"Version %@" = "Versione %@";
+
+"Warning" = "Avviso";
+
+"Web server URLs" = "URL del server web";
+
+"With your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "Grazie al tuo generoso sostegno finanziario, sono certo di poter mantenere WebServe stabile e continuare a svilupparlo attivamente.";
+
+"Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "Grazie al tuo generoso sostegno finanziario, sono certo di poter mantenere WebServe stabile e continuare a svilupparlo attivamente.";
+
+"[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"security add-trusted-cert failed with exit code %d." = "Il comando security add-trusted-cert non è riuscito. Codice di uscita: %d.";
+
+"⚠️" = "⚠️";

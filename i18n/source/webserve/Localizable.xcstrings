@@ -15,6 +15,12 @@
             "value" : ""
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -62,6 +68,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ":"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : ":"
@@ -119,6 +131,12 @@
             "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -166,6 +184,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/index.html"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "/index.html"
@@ -223,6 +247,12 @@
             "value" : "%@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -273,6 +303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ Mode sombre"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ — Modalità scura"
           }
         },
         "ja" : {
@@ -327,6 +363,12 @@
             "value" : "%@ Suivre le système"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ — Come il sistema"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -379,6 +421,12 @@
             "value" : "%@ Mode clair"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ — Modalità chiara"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -426,6 +474,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚠️"
@@ -483,6 +537,12 @@
             "value" : "Un nombre compris entre 1 et 65535. Port sur lequel le serveur Web local est accessible. Accédez au site via _`http://localhost:[PORT]`_."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un numero compreso tra 1 e 65535. La porta tramite cui è accessibile il server web locale. Accedi al sito all'indirizzo _`http://localhost:[PORT]`_ ."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -533,6 +593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "À propos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informazioni"
           }
         },
         "ja" : {
@@ -587,6 +653,12 @@
             "value" : "À propos de %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informazioni su %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -637,6 +709,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Autoriser les requêtes inter-origines. Définit l’en-tête **Access-Control-Allow-Origin** sur **\\***, **Access-Control-Allow-Methods** sur **GET, POST, PUT, DELETE** et **Access-Control-Max-Age** sur **120**. [En savoir plus sur le partage de ressources entre origines (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consenti le richieste cross-origin. Imposta l'intestazione **Access-Control-Allow-Origin** su **\\***, **Access-Control-Allow-Methods** su **GET, POST, PUT, DELETE** e **Access-Control-Max-Age** su **120**. [Scopri di più sulla condivisione delle risorse tra origini](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)."
           }
         },
         "ja" : {
@@ -691,6 +769,12 @@
             "value" : "Apparence"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aspetto"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -743,6 +827,12 @@
             "value" : "Annuler"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annulla"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -793,6 +883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Confirmer"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conferma"
           }
         },
         "ja" : {
@@ -853,6 +949,12 @@
             "value" : "Confirmer la suppression de [numéro de port : %1$@] %2$@ ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confermare l'eliminazione [Numero porta: %1$@] %2$@?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -904,6 +1006,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sombre"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scuro"
           }
         },
         "ja" : {
@@ -958,6 +1066,12 @@
             "value" : "Supprimer le serveur"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elimina server"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1008,6 +1122,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Le répertoire n’existe pas : %@"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La directory non esiste: %@"
           }
         },
         "ja" : {
@@ -1062,6 +1182,12 @@
             "value" : "Voulez-vous activer le lancement automatique au démarrage ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuoi abilitare l'avvio automatico all'accesso?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1112,6 +1238,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Faites glisser un dossier ici pour ajouter un service"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trascina qui una cartella per aggiungere un servizio"
           }
         },
         "ja" : {
@@ -1166,6 +1298,12 @@
             "value" : "Activer le lancement automatique ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abilitare l'avvio automatico?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1216,6 +1354,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activer l’authentification HTTP Basic"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abilita autenticazione HTTP Basic"
           }
         },
         "ja" : {
@@ -1270,6 +1414,12 @@
             "value" : "Erreur"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Errore"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1320,6 +1470,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exclut les extensions .htm et .html des URL. Par exemple, `/example.html` sera redirigé vers `/example`. Si un fichier existe déjà à ce chemin sans extension, le fichier HTML sera tout de même affiché à la place."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escludi le estensioni .htm e .html dagli URL. Ad esempio, `/example.html` reindirizzerà a `/example`. Se esiste un file nel percorso senza estensione, verrà comunque visualizzato il file HTML."
           }
         },
         "ja" : {
@@ -1374,6 +1530,12 @@
             "value" : "Exclure l’extension .html"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escludi l'estensione .html"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1424,6 +1586,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Échec de l’accès"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossibile accedere"
           }
         },
         "ja" : {
@@ -1478,6 +1646,12 @@
             "value" : "Impossible d’accéder à la ressource à portée de sécurité."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossibile accedere alla risorsa con ambito di sicurezza."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1528,6 +1702,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dossier introuvable"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cartella non trovata"
           }
         },
         "ja" : {
@@ -1582,6 +1762,12 @@
             "value" : "Chemin du dossier"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Percorso cartella"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1632,6 +1818,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hôte de transfert"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Host di inoltro"
           }
         },
         "ja" : {
@@ -1686,6 +1878,12 @@
             "value" : "Port de transfert"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porta di inoltro"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1736,6 +1934,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Général"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generale"
           }
         },
         "ja" : {
@@ -1790,6 +1994,12 @@
             "value" : "Générer le certificat"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Genera certificato"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1840,6 +2050,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Échec de la génération du certificat"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossibile generare il certificato"
           }
         },
         "ja" : {
@@ -1894,6 +2110,12 @@
             "value" : "Compris"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ho capito"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1944,6 +2166,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mot de passe HTTP Basic"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password autenticazione HTTP Basic"
           }
         },
         "ja" : {
@@ -1998,6 +2226,12 @@
             "value" : "Nom d’utilisateur HTTP Basic"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nome utente autenticazione HTTP Basic"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2048,6 +2282,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Si vous êtes un utilisateur individuel et que WebServe vous aide dans votre productivité, envisagez de me soutenir en signe d’appréciation. C’est comme m’offrir un café de temps en temps."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se WebServe ti è utile per la produttività, considera la possibilità di sponsorizzarmi come segno di apprezzamento. È come offrirmi un caffè ogni tanto."
           }
         },
         "ja" : {
@@ -2102,6 +2342,12 @@
             "value" : "Installer l'autorité racine"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installa CA radice"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2152,6 +2398,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Échec de l'installation de l'autorité racine"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossibile installare la CA radice"
           }
         },
         "ja" : {
@@ -2206,6 +2458,12 @@
             "value" : "Keychain Access.app est introuvable."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keychain Access.app non trovata."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2258,6 +2516,12 @@
             "value" : "Langue"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lingua"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2308,6 +2572,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lancer à l’ouverture de session"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avvia all'accesso"
           }
         },
         "ja" : {
@@ -2363,6 +2633,12 @@
             "value" : "Clair"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chiaro"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2413,6 +2689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fenêtre principale"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finestra principale"
           }
         },
         "ja" : {
@@ -2467,6 +2749,12 @@
             "value" : "Rend le serveur accessible via une connexion sécurisée (https) au lieu de http. Utilise le même port unique, vous ne pouvez donc pas utiliser http et https en même temps."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rendi il server accessibile tramite una connessione sicura (https) invece di http. Usa la stessa porta singola, quindi non puoi usare http e https contemporaneamente."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2517,6 +2805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Confiance manuelle requise"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attendibilità manuale richiesta"
           }
         },
         "ja" : {
@@ -2571,6 +2865,12 @@
             "value" : "Plus d’apps"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altre app"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2623,6 +2923,12 @@
             "value" : "Aucune autorisation d’accès"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessun permesso di accesso"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2671,6 +2977,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -2728,6 +3040,12 @@
             "value" : "Ouvrir dans le Finder"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri nel Finder"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2778,6 +3096,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impossible d'ouvrir l'autorité racine"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossibile aprire la CA radice"
           }
         },
         "ja" : {
@@ -2832,6 +3156,12 @@
             "value" : "Ouvrir l'autorité racine dans Accès au trousseau"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri la CA radice in Accesso Portachiavi"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2882,6 +3212,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "L'ouverture de l'autorité racine dans Accès au trousseau a échoué avec le code de sortie %d."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossibile aprire la CA radice in Accesso Portachiavi. Codice di uscita: %d."
           }
         },
         "ja" : {
@@ -2936,6 +3272,12 @@
             "value" : "Veuillez saisir votre mot de passe"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inserisci la password"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2986,6 +3328,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Veuillez saisir votre nom d’utilisateur"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inserisci il nome utente"
           }
         },
         "ja" : {
@@ -3040,6 +3388,12 @@
             "value" : "Veuillez sélectionner un dossier"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona una cartella"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3090,6 +3444,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Port"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porta"
           }
         },
         "ja" : {
@@ -3144,6 +3504,12 @@
             "value" : "Le port %u est déjà utilisé."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La porta %u è già in uso."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3194,6 +3560,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Transfert de port"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inoltro porta"
           }
         },
         "ja" : {
@@ -3248,6 +3620,12 @@
             "value" : "Port indisponible"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porta non disponibile"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3298,6 +3676,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Réautoriser"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuova autenticazione"
           }
         },
         "ja" : {
@@ -3352,6 +3736,12 @@
             "value" : "Réécrire vers (pour les SPA)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riscrivi in (per SPA)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3402,6 +3792,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Autorité racine installée"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CA radice installata"
           }
         },
         "ja" : {
@@ -3456,6 +3852,12 @@
             "value" : "En cours d’exécution"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In esecuzione"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3506,6 +3908,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Enregistrer les modifications"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salva modifiche"
           }
         },
         "ja" : {
@@ -3560,6 +3968,12 @@
             "value" : "\"security add-trusted-cert\" a échoué avec le code de sortie %d."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il comando security add-trusted-cert non è riuscito. Codice di uscita: %d."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3610,6 +4024,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sélectionner un dossier"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona cartella"
           }
         },
         "ja" : {
@@ -3664,6 +4084,12 @@
             "value" : "Sélectionner un dossier..."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona cartella..."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3714,6 +4140,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Définir les en-têtes CORS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imposta intestazioni CORS"
           }
         },
         "ja" : {
@@ -3768,6 +4200,12 @@
             "value" : "Afficher la liste des fichiers du répertoire ?"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrare l'elenco dei file della directory?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3818,6 +4256,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Afficher le dossier"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra cartella"
           }
         },
         "ja" : {
@@ -3872,6 +4316,12 @@
             "value" : "Réécriture de page unique (pour les SPA)"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riscrittura a pagina singola (per SPA)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3922,6 +4372,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ignorer les fichiers cachés"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ignora file nascosti"
           }
         },
         "ja" : {
@@ -3976,6 +4432,12 @@
             "value" : "Sponsoriser"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sponsorizza"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4026,6 +4488,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Certificat SSL/TLS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Certificato SSL/TLS"
           }
         },
         "ja" : {
@@ -4080,6 +4548,12 @@
             "value" : "Clé privée SSL/TLS"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chiave privata SSL/TLS"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4130,6 +4604,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Arrêté"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrestato"
           }
         },
         "ja" : {
@@ -4185,6 +4665,12 @@
             "value" : "Système"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sistema"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4235,6 +4721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Merci pour votre soutien ! 🙌"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grazie per il tuo supporto! 🙌"
           }
         },
         "ja" : {
@@ -4289,6 +4781,12 @@
             "value" : "Le dossier n’existe pas au chemin spécifié : %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La cartella non esiste nel percorso specificato: %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4339,6 +4837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "L'autorité racine a été ouverte dans Accès au trousseau. Réglez-la sur \"Toujours approuver\" pour SSL, puis redémarrez votre navigateur."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La CA radice è stata aperta in Accesso Portachiavi. Impostala su Sempre attendibile per SSL, quindi riavvia il browser."
           }
         },
         "ja" : {
@@ -4393,6 +4897,12 @@
             "value" : "Impossible de démarrer en raison d’autorisations insuffisantes. Veuillez sélectionner à nouveau un dossier et enregistrer pour obtenir un accès en lecture à ce dossier."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossibile avviare a causa di permessi insufficienti. Seleziona nuovamente una cartella e salva per ottenere l'accesso in lettura alla cartella."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4443,6 +4953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Utiliser HTTPS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usa HTTPS"
           }
         },
         "ja" : {
@@ -4497,6 +5013,12 @@
             "value" : "Version %@"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versione %@"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4547,6 +5069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avertissement"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avviso"
           }
         },
         "ja" : {
@@ -4601,6 +5129,12 @@
             "value" : "URL du serveur Web"
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL del server web"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4653,6 +5187,12 @@
             "value" : "Grâce à votre généreux soutien financier, j’ai toute confiance dans le fait de garder WebServe en bonne santé et de le maintenir activement."
           }
         },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grazie al tuo generoso sostegno finanziario, sono certo di poter mantenere WebServe stabile e continuare a svilupparlo attivamente."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4703,6 +5243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avec votre généreux soutien financier, j’ai toute confiance dans le fait de garder WebServe en bonne santé et de le maintenir activement."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grazie al tuo generoso sostegno finanziario, sono certo di poter mantenere WebServe stabile e continuare a svilupparlo attivamente."
           }
         },
         "ja" : {
