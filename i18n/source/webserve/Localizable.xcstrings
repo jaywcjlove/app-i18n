@@ -27,6 +27,12 @@
             "value" : ""
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -62,6 +68,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ":"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : ":"
@@ -107,6 +119,12 @@
             "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -142,6 +160,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/index.html"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "/index.html"
@@ -187,6 +211,12 @@
             "value" : "%@"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -225,6 +255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ 다크 모드"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ — тёмная тема"
           }
         },
         "zh-Hans" : {
@@ -267,6 +303,12 @@
             "value" : "%@ 시스템 설정 따르기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ — как в системе"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -307,6 +349,12 @@
             "value" : "%@ 라이트 모드"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ — светлая тема"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -342,6 +390,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️"
+          }
+        },
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚠️"
@@ -387,6 +441,12 @@
             "value" : "1에서 65535 사이의 숫자입니다. 로컬 웹 서버에 접근할 수 있는 포트입니다. _`http://localhost:[PORT]`_ 에서 웹사이트에 접속할 수 있습니다."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Число от 1 до 65535. Порт, через который доступен локальный веб-сервер. Откройте сайт по адресу _`http://localhost:[PORT]`_ ."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -425,6 +485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "정보"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "О приложении"
           }
         },
         "zh-Hans" : {
@@ -467,6 +533,12 @@
             "value" : "%@ 정보"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "О %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -505,6 +577,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "교차 출처 요청을 허용합니다. **Access-Control-Allow-Origin** 헤더를 **\\*** 로, **Access-Control-Allow-Methods** 를 **GET, POST, PUT, DELETE** 로, **Access-Control-Max-Age** 를 **120** 으로 설정합니다. [Cross-Origin Resource Sharing에 대해 자세히 알아보기](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разрешить междоменные запросы. Устанавливает заголовок **Access-Control-Allow-Origin** в значение **\\***, **Access-Control-Allow-Methods** — **GET, POST, PUT, DELETE**, а **Access-Control-Max-Age** — **120**. [Подробнее о совместном использовании ресурсов между источниками](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)."
           }
         },
         "zh-Hans" : {
@@ -547,6 +625,12 @@
             "value" : "모양"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Внешний вид"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -587,6 +671,12 @@
             "value" : "취소"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отмена"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -625,6 +715,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "확인"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подтвердить"
           }
         },
         "zh-Hans" : {
@@ -673,6 +769,12 @@
             "value" : "[포트 번호: %1$@] %2$@ 를 삭제하시겠습니까?"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подтвердить удаление [номер порта: %1$@] %2$@?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -712,6 +814,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "다크"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тёмная"
           }
         },
         "zh-Hans" : {
@@ -754,6 +862,12 @@
             "value" : "서버 삭제"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Удалить сервер"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -792,6 +906,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "디렉터리가 존재하지 않습니다: %@"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Каталог не существует: %@"
           }
         },
         "zh-Hans" : {
@@ -834,6 +954,12 @@
             "value" : "시작 시 자동 실행을 활성화하시겠습니까?"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включить автоматический запуск при входе в систему?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -872,6 +998,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "서비스를 추가하려면 폴더를 여기에 드래그하세요"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перетащите сюда папку, чтобы добавить службу"
           }
         },
         "zh-Hans" : {
@@ -914,6 +1046,12 @@
             "value" : "자동 실행을 활성화하시겠습니까?"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включить автоматический запуск?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -952,6 +1090,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "HTTP Basic 인증 활성화"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Включить базовую HTTP-аутентификацию"
           }
         },
         "zh-Hans" : {
@@ -994,6 +1138,12 @@
             "value" : "오류"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ошибка"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1032,6 +1182,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "URL에서 .htm 및 .html 확장자를 제외합니다. 예를 들어 `/example.html` 은 `/example` 으로 리디렉션됩니다. 확장자가 없는 파일이 해당 경로에 존재하는 경우에는 대신 HTML 파일이 계속 표시됩니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Исключать расширения .htm и .html из URL. Например, `/example.html` перенаправит на `/example`. Если по пути без расширения существует файл, вместо него всё равно будет отображаться HTML-файл."
           }
         },
         "zh-Hans" : {
@@ -1074,6 +1230,12 @@
             "value" : ".html 확장자 제외"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Исключать расширение .html"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1112,6 +1274,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "접근에 실패했습니다"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не удалось получить доступ"
           }
         },
         "zh-Hans" : {
@@ -1154,6 +1322,12 @@
             "value" : "보안 범위 리소스에 접근하지 못했습니다."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не удалось получить доступ к ресурсу с ограниченной областью безопасности."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1192,6 +1366,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "폴더를 찾을 수 없음"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Папка не найдена"
           }
         },
         "zh-Hans" : {
@@ -1234,6 +1414,12 @@
             "value" : "폴더 경로"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Путь к папке"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1272,6 +1458,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "전달 호스트"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перенаправляемый хост"
           }
         },
         "zh-Hans" : {
@@ -1314,6 +1506,12 @@
             "value" : "전달 포트"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перенаправляемый порт"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1352,6 +1550,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "일반"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Основные"
           }
         },
         "zh-Hans" : {
@@ -1394,6 +1598,12 @@
             "value" : "인증서 생성"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Создать сертификат"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1404,6 +1614,52 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "產生憑證"
+          }
+        }
+      }
+    },
+    "Generate Cert failed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zertifikat konnte nicht erstellt werden"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de la génération du certificat"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "証明書の生成に失敗しました"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인증서 생성에 실패했습니다"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не удалось создать сертификат"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "证书生成失败"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "憑證產生失敗"
           }
         }
       }
@@ -1432,6 +1688,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "알겠습니다"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Понятно"
           }
         },
         "zh-Hans" : {
@@ -1474,6 +1736,12 @@
             "value" : "HTTP Basic 인증 비밀번호"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пароль базовой HTTP-аутентификации"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1512,6 +1780,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "HTTP Basic 인증 사용자 이름"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Имя пользователя базовой HTTP-аутентификации"
           }
         },
         "zh-Hans" : {
@@ -1554,6 +1828,12 @@
             "value" : "WebServe가 생산성 향상에 도움이 되었다고 느끼는 개인 사용자라면, 감사의 표시로 후원을 고려해 주세요. 가끔 커피 한 잔을 사주는 것과 같습니다."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если WebServe помогает вам работать продуктивнее, поддержите меня в знак благодарности. Это как время от времени угощать меня чашкой кофе."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1592,6 +1872,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "루트 CA 설치"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Установить корневой сертификат"
           }
         },
         "zh-Hans" : {
@@ -1634,6 +1920,12 @@
             "value" : "루트 CA 설치 실패"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не удалось установить корневой сертификат"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1672,6 +1964,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Keychain Access.app을(를) 찾을 수 없습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Приложение «Связка ключей» не найдено."
           }
         },
         "zh-Hans" : {
@@ -1714,6 +2012,12 @@
             "value" : "언어"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Язык"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1752,6 +2056,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "로그인 시 실행"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Запускать при входе в систему"
           }
         },
         "zh-Hans" : {
@@ -1795,6 +2105,12 @@
             "value" : "라이트"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Светлая"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1833,6 +2149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "메인 창"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Главное окно"
           }
         },
         "zh-Hans" : {
@@ -1875,6 +2197,12 @@
             "value" : "서버를 http 대신 보안 연결(https)로 접근할 수 있게 합니다. 동일한 단일 포트를 사용하므로 http와 https를 동시에 사용할 수 없습니다."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сделать сервер доступным через защищённое соединение (https) вместо http. Используется тот же единственный порт, поэтому одновременно использовать http и https нельзя."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1913,6 +2241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "수동 신뢰 설정 필요"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Требуется доверие вручную"
           }
         },
         "zh-Hans" : {
@@ -1955,6 +2289,12 @@
             "value" : "더 많은 앱"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Другие приложения"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1993,6 +2333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "접근 권한 없음"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нет разрешения на доступ"
           }
         },
         "zh-Hans" : {
@@ -2036,6 +2382,12 @@
             "value" : "확인"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ОК"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2074,6 +2426,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Finder에서 열기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть в Finder"
           }
         },
         "zh-Hans" : {
@@ -2116,6 +2474,12 @@
             "value" : "루트 CA 열기 실패"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не удалось открыть корневой сертификат"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2154,6 +2518,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "키체인 접근에서 루트 CA 열기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открыть корневой сертификат в программе «Связка ключей»"
           }
         },
         "zh-Hans" : {
@@ -2196,6 +2566,12 @@
             "value" : "키체인 접근에서 루트 CA를 여는 데 실패했습니다. 종료 코드: %d."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не удалось открыть корневой сертификат в программе «Связка ключей». Код завершения: %d."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2234,6 +2610,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "비밀번호를 입력하세요"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Введите пароль"
           }
         },
         "zh-Hans" : {
@@ -2276,6 +2658,12 @@
             "value" : "사용자 이름을 입력하세요"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Введите имя пользователя"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2314,6 +2702,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "폴더를 선택하세요"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите папку"
           }
         },
         "zh-Hans" : {
@@ -2356,6 +2750,12 @@
             "value" : "포트"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Порт"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2394,6 +2794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "포트 %u 는 이미 사용 중입니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Порт %u уже используется."
           }
         },
         "zh-Hans" : {
@@ -2436,6 +2842,12 @@
             "value" : "포트 포워딩"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перенаправление порта"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2474,6 +2886,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "사용할 수 없는 포트"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Порт недоступен"
           }
         },
         "zh-Hans" : {
@@ -2516,6 +2934,12 @@
             "value" : "다시 인증"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повторная аутентификация"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2554,6 +2978,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "다음으로 재작성 (SPA용)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перезаписывать в (для SPA)"
           }
         },
         "zh-Hans" : {
@@ -2596,6 +3026,12 @@
             "value" : "루트 CA 설치됨"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Корневой сертификат установлен"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2634,6 +3070,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "실행 중"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Работает"
           }
         },
         "zh-Hans" : {
@@ -2676,6 +3118,12 @@
             "value" : "변경 사항 저장"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сохранить изменения"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2714,6 +3162,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "security add-trusted-cert가 종료 코드 %d로 실패했습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Команда security add-trusted-cert завершилась с ошибкой. Код завершения: %d."
           }
         },
         "zh-Hans" : {
@@ -2756,6 +3210,12 @@
             "value" : "폴더 선택"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбрать папку"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2794,6 +3254,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "폴더 선택..."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбрать папку..."
           }
         },
         "zh-Hans" : {
@@ -2836,6 +3302,12 @@
             "value" : "CORS 헤더 설정"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настроить заголовки CORS"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2874,6 +3346,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "디렉터리 파일 목록을 표시하시겠습니까?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показывать список файлов каталога?"
           }
         },
         "zh-Hans" : {
@@ -2916,6 +3394,12 @@
             "value" : "폴더 보기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показать папку"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2954,6 +3438,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "단일 페이지 재작성 (SPA용)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перезапись одностраничного приложения (для SPA)"
           }
         },
         "zh-Hans" : {
@@ -2996,6 +3486,12 @@
             "value" : "숨김 파일 건너뛰기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пропускать скрытые файлы"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3034,6 +3530,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "후원"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поддержать"
           }
         },
         "zh-Hans" : {
@@ -3076,6 +3578,12 @@
             "value" : "SSL/TLS 인증서"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сертификат SSL/TLS"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3116,6 +3624,12 @@
             "value" : "SSL/TLS 개인 키"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Закрытый ключ SSL/TLS"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3154,6 +3668,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "중지됨"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Остановлено"
           }
         },
         "zh-Hans" : {
@@ -3197,6 +3717,12 @@
             "value" : "시스템"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Системная"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3235,6 +3761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지원해 주셔서 감사합니다! 🙌"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Спасибо за вашу поддержку! 🙌"
           }
         },
         "zh-Hans" : {
@@ -3277,6 +3809,12 @@
             "value" : "지정된 경로에 폴더가 존재하지 않습니다: %@"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Папка не существует по указанному пути: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3315,6 +3853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "루트 CA가 키체인 접근에서 열렸습니다. SSL에 대해 '항상 신뢰'로 설정한 후 브라우저를 다시 시작하세요."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Корневой сертификат открыт в программе «Связка ключей». Установите для него параметр «Всегда доверять» для SSL, затем перезапустите браузер."
           }
         },
         "zh-Hans" : {
@@ -3357,6 +3901,12 @@
             "value" : "권한이 부족하여 시작할 수 없습니다. 폴더를 다시 선택하고 저장하여 읽기 권한을 획득하세요."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не удалось запустить из-за недостаточных разрешений. Выберите папку ещё раз и сохраните изменения, чтобы получить доступ к ней для чтения."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3395,6 +3945,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "HTTPS 사용"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Использовать HTTPS"
           }
         },
         "zh-Hans" : {
@@ -3437,6 +3993,12 @@
             "value" : "버전 %@"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Версия %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3475,6 +4037,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "경고"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Предупреждение"
           }
         },
         "zh-Hans" : {
@@ -3517,6 +4085,12 @@
             "value" : "웹 서버 URL"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL веб-сервера"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3557,6 +4131,12 @@
             "value" : "여러분의 아낌없는 재정적 지원 덕분에 WebServe를 건강하게 유지하고 적극적으로 관리해 나갈 수 있다는 큰 자신감을 얻고 있습니다."
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Благодаря вашей щедрой финансовой поддержке я уверен, что смогу поддерживать WebServe в рабочем состоянии и активно развивать его."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3595,6 +4175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "여러분의 아낌없는 재정적 지원으로 WebServe를 건강하게 유지하고 적극적으로 관리해 나갈 수 있다는 큰 자신감을 얻고 있습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Благодаря вашей щедрой финансовой поддержке я уверен, что смогу поддерживать WebServe в рабочем состоянии и активно развивать его."
           }
         },
         "zh-Hans" : {

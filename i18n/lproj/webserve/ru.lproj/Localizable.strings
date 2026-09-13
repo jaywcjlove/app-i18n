@@ -1,0 +1,183 @@
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ — тёмная тема";
+
+"%@ Follow System" = "%@ — как в системе";
+
+"%@ Light Mode" = "%@ — светлая тема";
+
+"/index.html" = "/index.html";
+
+":" = ":";
+
+"A number between 1 - 65535. Port that the local web server is accessible on. Access the website at _`http://localhost:[PORT]`_ ." = "Число от 1 до 65535. Порт, через который доступен локальный веб-сервер. Откройте сайт по адресу _`http://localhost:[PORT]`_ .";
+
+"About" = "О приложении";
+
+"About %@" = "О %@";
+
+"Allow cross origin requests. Sets **Access-Control-Allow-Origin** header to **\\***, **Access-Control-Allow-Methods** to **GET, POST, PUT, DELETE**, and **Access-Control-Max-Age** to **120**. [Learn more about Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)." = "Разрешить междоменные запросы. Устанавливает заголовок **Access-Control-Allow-Origin** в значение **\\***, **Access-Control-Allow-Methods** — **GET, POST, PUT, DELETE**, а **Access-Control-Max-Age** — **120**. [Подробнее о совместном использовании ресурсов между источниками](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS).";
+
+"Appearance" = "Внешний вид";
+
+"Cancel" = "Отмена";
+
+"Confirm" = "Подтвердить";
+
+"Confirm deletion [Port number: %@] %@?" = "Подтвердить удаление [номер порта: %1$@] %2$@?";
+
+/* Dark */
+"Dark" = "Тёмная";
+
+"Delete Server" = "Удалить сервер";
+
+"Directory does not exist: %@" = "Каталог не существует: %@";
+
+"Do you want to enable auto-launch at startup?" = "Включить автоматический запуск при входе в систему?";
+
+"Drag a folder here to add a service" = "Перетащите сюда папку, чтобы добавить службу";
+
+"Enable HTTP Basic authentication" = "Включить базовую HTTP-аутентификацию";
+
+"Enable auto-launch?" = "Включить автоматический запуск?";
+
+"Error" = "Ошибка";
+
+"Exclude .htm and .html extensions from URLs. For example, `/example.html` will redirect to `/example`. If a file exists at the path without an extension, the HTML file will still be rendered instead." = "Исключать расширения .htm и .html из URL. Например, `/example.html` перенаправит на `/example`. Если по пути без расширения существует файл, вместо него всё равно будет отображаться HTML-файл.";
+
+"Exclude .html extension" = "Исключать расширение .html";
+
+"Failed to access" = "Не удалось получить доступ";
+
+"Failed to access security scoped resource." = "Не удалось получить доступ к ресурсу с ограниченной областью безопасности.";
+
+"Folder Not Found" = "Папка не найдена";
+
+"Folder path" = "Путь к папке";
+
+"Forward Host" = "Перенаправляемый хост";
+
+"Forward Port" = "Перенаправляемый порт";
+
+"General" = "Основные";
+
+"Generate Cert" = "Создать сертификат";
+
+"Generate Cert failed" = "Не удалось создать сертификат";
+
+"Got it" = "Понятно";
+
+"HTTP Basic auth Password" = "Пароль базовой HTTP-аутентификации";
+
+"HTTP Basic auth Username" = "Имя пользователя базовой HTTP-аутентификации";
+
+"If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." = "Если WebServe помогает вам работать продуктивнее, поддержите меня в знак благодарности. Это как время от времени угощать меня чашкой кофе.";
+
+"Install Root CA" = "Установить корневой сертификат";
+
+"Install Root CA failed" = "Не удалось установить корневой сертификат";
+
+"Keychain Access.app was not found." = "Приложение «Связка ключей» не найдено.";
+
+"Language" = "Язык";
+
+"Launch at login" = "Запускать при входе в систему";
+
+/* Light */
+"Light" = "Светлая";
+
+"Main Window" = "Главное окно";
+
+"Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." = "Сделать сервер доступным через защищённое соединение (https) вместо http. Используется тот же единственный порт, поэтому одновременно использовать http и https нельзя.";
+
+"Manual trust required" = "Требуется доверие вручную";
+
+"More App" = "Другие приложения";
+
+"No access permission" = "Нет разрешения на доступ";
+
+/* Default OK button */
+"OK" = "ОК";
+
+"Open Root CA failed" = "Не удалось открыть корневой сертификат";
+
+"Open Root CA in Keychain Access" = "Открыть корневой сертификат в программе «Связка ключей»";
+
+"Open in Finder" = "Открыть в Finder";
+
+"Opening the Root CA in Keychain Access failed with exit code %d." = "Не удалось открыть корневой сертификат в программе «Связка ключей». Код завершения: %d.";
+
+"Please enter your password" = "Введите пароль";
+
+"Please enter your username" = "Введите имя пользователя";
+
+"Please select a folder" = "Выберите папку";
+
+"Port" = "Порт";
+
+"Port %u is already in use." = "Порт %u уже используется.";
+
+"Port Forward" = "Перенаправление порта";
+
+"Port Unavailable" = "Порт недоступен";
+
+"Reauth" = "Повторная аутентификация";
+
+"Rewrite to (for SPAs)" = "Перезаписывать в (для SPA)";
+
+"Root CA installed" = "Корневой сертификат установлен";
+
+"Running" = "Работает";
+
+"SSL/TLS certificate" = "Сертификат SSL/TLS";
+
+"SSL/TLS private key" = "Закрытый ключ SSL/TLS";
+
+"Save Changes" = "Сохранить изменения";
+
+"Select Folder" = "Выбрать папку";
+
+"Select Folder..." = "Выбрать папку...";
+
+"Set CORS headers" = "Настроить заголовки CORS";
+
+"Show Folder" = "Показать папку";
+
+"Show directory file list?" = "Показывать список файлов каталога?";
+
+"Single page rewrite (for SPAs)" = "Перезапись одностраничного приложения (для SPA)";
+
+"Skip hidden files" = "Пропускать скрытые файлы";
+
+"Sponsor" = "Поддержать";
+
+"Stopped" = "Остановлено";
+
+/* System */
+"System" = "Системная";
+
+"Thank you for your support! 🙌" = "Спасибо за вашу поддержку! 🙌";
+
+"The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser." = "Корневой сертификат открыт в программе «Связка ключей». Установите для него параметр «Всегда доверять» для SSL, затем перезапустите браузер.";
+
+"The folder does not exist at the specified path: %@" = "Папка не существует по указанному пути: %@";
+
+"Unable to start due to insufficient permissions. Please select a folder again and save to obtain read access to the folder." = "Не удалось запустить из-за недостаточных разрешений. Выберите папку ещё раз и сохраните изменения, чтобы получить доступ к ней для чтения.";
+
+"Use HTTPS" = "Использовать HTTPS";
+
+"Version %@" = "Версия %@";
+
+"Warning" = "Предупреждение";
+
+"Web server URLs" = "URL веб-сервера";
+
+"With your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "Благодаря вашей щедрой финансовой поддержке я уверен, что смогу поддерживать WebServe в рабочем состоянии и активно развивать его.";
+
+"Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "Благодаря вашей щедрой финансовой поддержке я уверен, что смогу поддерживать WebServe в рабочем состоянии и активно развивать его.";
+
+"[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"security add-trusted-cert failed with exit code %d." = "Команда security add-trusted-cert завершилась с ошибкой. Код завершения: %d.";
+
+"⚠️" = "⚠️";
