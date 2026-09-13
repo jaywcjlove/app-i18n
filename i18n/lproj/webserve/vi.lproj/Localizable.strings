@@ -1,0 +1,183 @@
+"%@" = "%@";
+
+"%@ Dark Mode" = "%@ — Chế độ tối";
+
+"%@ Follow System" = "%@ — Theo hệ thống";
+
+"%@ Light Mode" = "%@ — Chế độ sáng";
+
+"/index.html" = "/index.html";
+
+":" = ":";
+
+"A number between 1 - 65535. Port that the local web server is accessible on. Access the website at _`http://localhost:[PORT]`_ ." = "Một số từ 1 đến 65535. Cổng để truy cập máy chủ web cục bộ. Truy cập trang web tại _`http://localhost:[PORT]`_ .";
+
+"About" = "Giới thiệu";
+
+"About %@" = "Giới thiệu về %@";
+
+"Allow cross origin requests. Sets **Access-Control-Allow-Origin** header to **\\***, **Access-Control-Allow-Methods** to **GET, POST, PUT, DELETE**, and **Access-Control-Max-Age** to **120**. [Learn more about Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)." = "Cho phép các yêu cầu khác nguồn. Đặt tiêu đề **Access-Control-Allow-Origin** thành **\\***, **Access-Control-Allow-Methods** thành **GET, POST, PUT, DELETE** và **Access-Control-Max-Age** thành **120**. [Tìm hiểu thêm về Chia sẻ tài nguyên giữa các nguồn](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS).";
+
+"Appearance" = "Giao diện";
+
+"Cancel" = "Hủy";
+
+"Confirm" = "Xác nhận";
+
+"Confirm deletion [Port number: %@] %@?" = "Xác nhận xóa [Số cổng: %1$@] %2$@?";
+
+/* Dark */
+"Dark" = "Tối";
+
+"Delete Server" = "Xóa máy chủ";
+
+"Directory does not exist: %@" = "Thư mục không tồn tại: %@";
+
+"Do you want to enable auto-launch at startup?" = "Bạn có muốn bật tự động khởi chạy khi đăng nhập không?";
+
+"Drag a folder here to add a service" = "Kéo thư mục vào đây để thêm dịch vụ";
+
+"Enable HTTP Basic authentication" = "Bật xác thực HTTP Basic";
+
+"Enable auto-launch?" = "Bật tự động khởi chạy?";
+
+"Error" = "Lỗi";
+
+"Exclude .htm and .html extensions from URLs. For example, `/example.html` will redirect to `/example`. If a file exists at the path without an extension, the HTML file will still be rendered instead." = "Loại trừ phần mở rộng .htm và .html khỏi URL. Ví dụ, `/example.html` sẽ chuyển hướng đến `/example`. Nếu có tệp tại đường dẫn không có phần mở rộng, tệp HTML vẫn sẽ được hiển thị thay thế.";
+
+"Exclude .html extension" = "Loại trừ phần mở rộng .html";
+
+"Failed to access" = "Không thể truy cập";
+
+"Failed to access security scoped resource." = "Không thể truy cập tài nguyên có phạm vi bảo mật.";
+
+"Folder Not Found" = "Không tìm thấy thư mục";
+
+"Folder path" = "Đường dẫn thư mục";
+
+"Forward Host" = "Máy chủ chuyển tiếp";
+
+"Forward Port" = "Cổng chuyển tiếp";
+
+"General" = "Cài đặt chung";
+
+"Generate Cert" = "Tạo chứng chỉ";
+
+"Generate Cert failed" = "Không thể tạo chứng chỉ";
+
+"Got it" = "Đã hiểu";
+
+"HTTP Basic auth Password" = "Mật khẩu xác thực HTTP Basic";
+
+"HTTP Basic auth Username" = "Tên người dùng xác thực HTTP Basic";
+
+"If you're an individual user who has found WebServe useful for productivity, please consider sponsoring me as a token of appreciation. It's like buying me a coffee once in a while." = "Nếu WebServe giúp bạn làm việc hiệu quả hơn, hãy cân nhắc ủng hộ tôi để bày tỏ sự cảm kích. Điều đó giống như thỉnh thoảng mời tôi một tách cà phê.";
+
+"Install Root CA" = "Cài đặt CA gốc";
+
+"Install Root CA failed" = "Không thể cài đặt CA gốc";
+
+"Keychain Access.app was not found." = "Không tìm thấy ứng dụng Truy cập chuỗi khóa.";
+
+"Language" = "Ngôn ngữ";
+
+"Launch at login" = "Khởi chạy khi đăng nhập";
+
+/* Light */
+"Light" = "Sáng";
+
+"Main Window" = "Cửa sổ chính";
+
+"Make server accessible over a secure connection (https) instead of http. Uses the same single port, so you cannot use both http and https at the same time." = "Cho phép truy cập máy chủ qua kết nối bảo mật (https) thay vì http. Sử dụng cùng một cổng duy nhất, vì vậy không thể dùng cả http và https cùng lúc.";
+
+"Manual trust required" = "Yêu cầu tin cậy thủ công";
+
+"More App" = "Ứng dụng khác";
+
+"No access permission" = "Không có quyền truy cập";
+
+/* Default OK button */
+"OK" = "OK";
+
+"Open Root CA failed" = "Không thể mở CA gốc";
+
+"Open Root CA in Keychain Access" = "Mở CA gốc trong Truy cập chuỗi khóa";
+
+"Open in Finder" = "Mở trong Finder";
+
+"Opening the Root CA in Keychain Access failed with exit code %d." = "Không thể mở CA gốc trong Truy cập chuỗi khóa. Mã thoát: %d.";
+
+"Please enter your password" = "Vui lòng nhập mật khẩu";
+
+"Please enter your username" = "Vui lòng nhập tên người dùng";
+
+"Please select a folder" = "Vui lòng chọn thư mục";
+
+"Port" = "Cổng";
+
+"Port %u is already in use." = "Cổng %u đang được sử dụng.";
+
+"Port Forward" = "Chuyển tiếp cổng";
+
+"Port Unavailable" = "Cổng không khả dụng";
+
+"Reauth" = "Xác thực lại";
+
+"Rewrite to (for SPAs)" = "Viết lại thành (cho SPA)";
+
+"Root CA installed" = "Đã cài đặt CA gốc";
+
+"Running" = "Đang chạy";
+
+"SSL/TLS certificate" = "Chứng chỉ SSL/TLS";
+
+"SSL/TLS private key" = "Khóa riêng SSL/TLS";
+
+"Save Changes" = "Lưu thay đổi";
+
+"Select Folder" = "Chọn thư mục";
+
+"Select Folder..." = "Chọn thư mục...";
+
+"Set CORS headers" = "Đặt tiêu đề CORS";
+
+"Show Folder" = "Hiển thị thư mục";
+
+"Show directory file list?" = "Hiển thị danh sách tệp trong thư mục?";
+
+"Single page rewrite (for SPAs)" = "Viết lại trang đơn (cho SPA)";
+
+"Skip hidden files" = "Bỏ qua tệp ẩn";
+
+"Sponsor" = "Ủng hộ";
+
+"Stopped" = "Đã dừng";
+
+/* System */
+"System" = "Hệ thống";
+
+"Thank you for your support! 🙌" = "Cảm ơn bạn đã ủng hộ! 🙌";
+
+"The Root CA was opened in Keychain Access. Set it to Always Trust for SSL, then restart your browser." = "CA gốc đã được mở trong Truy cập chuỗi khóa. Đặt thành Luôn tin cậy cho SSL, sau đó khởi động lại trình duyệt.";
+
+"The folder does not exist at the specified path: %@" = "Thư mục không tồn tại tại đường dẫn đã chỉ định: %@";
+
+"Unable to start due to insufficient permissions. Please select a folder again and save to obtain read access to the folder." = "Không thể khởi động do không đủ quyền. Vui lòng chọn lại thư mục và lưu để có quyền đọc thư mục.";
+
+"Use HTTPS" = "Sử dụng HTTPS";
+
+"Version %@" = "Phiên bản %@";
+
+"Warning" = "Cảnh báo";
+
+"Web server URLs" = "URL máy chủ web";
+
+"With your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "Nhờ sự hỗ trợ tài chính hào phóng của bạn, tôi tin tưởng rằng có thể duy trì WebServe ổn định và tích cực phát triển ứng dụng.";
+
+"Your generous financial assistance, I have great confidence in keeping WebServe healthy and maintaining it actively." = "Nhờ sự hỗ trợ tài chính hào phóng của bạn, tôi tin tưởng rằng có thể duy trì WebServe ổn định và tích cực phát triển ứng dụng.";
+
+"[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)" = "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)";
+
+"security add-trusted-cert failed with exit code %d." = "Lệnh security add-trusted-cert không thành công với mã thoát %d.";
+
+"⚠️" = "⚠️";

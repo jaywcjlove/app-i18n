@@ -33,6 +33,12 @@
             "value" : ""
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -74,6 +80,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ":"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : ":"
@@ -125,6 +137,12 @@
             "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Twitter](https://twitter.com/jaywcjlove) • [E-mail](mailto:kennyiseeyou@gmail.com?subject=WebServe) • [Github](https://github.com/jaywcjlove/web-serve)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -166,6 +184,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/index.html"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "/index.html"
@@ -217,6 +241,12 @@
             "value" : "%@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -261,6 +291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ — тёмная тема"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ — Chế độ tối"
           }
         },
         "zh-Hans" : {
@@ -309,6 +345,12 @@
             "value" : "%@ — как в системе"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ — Theo hệ thống"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -355,6 +397,12 @@
             "value" : "%@ — светлая тема"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ — Chế độ sáng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -396,6 +444,12 @@
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "⚠️"
@@ -447,6 +501,12 @@
             "value" : "Число от 1 до 65535. Порт, через который доступен локальный веб-сервер. Откройте сайт по адресу _`http://localhost:[PORT]`_ ."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Một số từ 1 đến 65535. Cổng để truy cập máy chủ web cục bộ. Truy cập trang web tại _`http://localhost:[PORT]`_ ."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -491,6 +551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "О приложении"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giới thiệu"
           }
         },
         "zh-Hans" : {
@@ -539,6 +605,12 @@
             "value" : "О %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giới thiệu về %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -583,6 +655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Разрешить междоменные запросы. Устанавливает заголовок **Access-Control-Allow-Origin** в значение **\\***, **Access-Control-Allow-Methods** — **GET, POST, PUT, DELETE**, а **Access-Control-Max-Age** — **120**. [Подробнее о совместном использовании ресурсов между источниками](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cho phép các yêu cầu khác nguồn. Đặt tiêu đề **Access-Control-Allow-Origin** thành **\\***, **Access-Control-Allow-Methods** thành **GET, POST, PUT, DELETE** và **Access-Control-Max-Age** thành **120**. [Tìm hiểu thêm về Chia sẻ tài nguyên giữa các nguồn](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)."
           }
         },
         "zh-Hans" : {
@@ -631,6 +709,12 @@
             "value" : "Внешний вид"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giao diện"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -677,6 +761,12 @@
             "value" : "Отмена"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hủy"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -721,6 +811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Подтвердить"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xác nhận"
           }
         },
         "zh-Hans" : {
@@ -775,6 +871,12 @@
             "value" : "Подтвердить удаление [номер порта: %1$@] %2$@?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xác nhận xóa [Số cổng: %1$@] %2$@?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -820,6 +922,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тёмная"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tối"
           }
         },
         "zh-Hans" : {
@@ -868,6 +976,12 @@
             "value" : "Удалить сервер"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa máy chủ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -912,6 +1026,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Каталог не существует: %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thư mục không tồn tại: %@"
           }
         },
         "zh-Hans" : {
@@ -960,6 +1080,12 @@
             "value" : "Включить автоматический запуск при входе в систему?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bạn có muốn bật tự động khởi chạy khi đăng nhập không?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1004,6 +1130,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перетащите сюда папку, чтобы добавить службу"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kéo thư mục vào đây để thêm dịch vụ"
           }
         },
         "zh-Hans" : {
@@ -1052,6 +1184,12 @@
             "value" : "Включить автоматический запуск?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bật tự động khởi chạy?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1096,6 +1234,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Включить базовую HTTP-аутентификацию"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bật xác thực HTTP Basic"
           }
         },
         "zh-Hans" : {
@@ -1144,6 +1288,12 @@
             "value" : "Ошибка"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lỗi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1188,6 +1338,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Исключать расширения .htm и .html из URL. Например, `/example.html` перенаправит на `/example`. Если по пути без расширения существует файл, вместо него всё равно будет отображаться HTML-файл."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loại trừ phần mở rộng .htm và .html khỏi URL. Ví dụ, `/example.html` sẽ chuyển hướng đến `/example`. Nếu có tệp tại đường dẫn không có phần mở rộng, tệp HTML vẫn sẽ được hiển thị thay thế."
           }
         },
         "zh-Hans" : {
@@ -1236,6 +1392,12 @@
             "value" : "Исключать расширение .html"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loại trừ phần mở rộng .html"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1280,6 +1442,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не удалось получить доступ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không thể truy cập"
           }
         },
         "zh-Hans" : {
@@ -1328,6 +1496,12 @@
             "value" : "Не удалось получить доступ к ресурсу с ограниченной областью безопасности."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không thể truy cập tài nguyên có phạm vi bảo mật."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1372,6 +1546,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Папка не найдена"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không tìm thấy thư mục"
           }
         },
         "zh-Hans" : {
@@ -1420,6 +1600,12 @@
             "value" : "Путь к папке"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đường dẫn thư mục"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1464,6 +1650,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перенаправляемый хост"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Máy chủ chuyển tiếp"
           }
         },
         "zh-Hans" : {
@@ -1512,6 +1704,12 @@
             "value" : "Перенаправляемый порт"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cổng chuyển tiếp"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1556,6 +1754,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Основные"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt chung"
           }
         },
         "zh-Hans" : {
@@ -1604,6 +1808,12 @@
             "value" : "Создать сертификат"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tạo chứng chỉ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1648,6 +1858,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не удалось создать сертификат"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không thể tạo chứng chỉ"
           }
         },
         "zh-Hans" : {
@@ -1696,6 +1912,12 @@
             "value" : "Понятно"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã hiểu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1740,6 +1962,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Пароль базовой HTTP-аутентификации"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mật khẩu xác thực HTTP Basic"
           }
         },
         "zh-Hans" : {
@@ -1788,6 +2016,12 @@
             "value" : "Имя пользователя базовой HTTP-аутентификации"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tên người dùng xác thực HTTP Basic"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1832,6 +2066,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если WebServe помогает вам работать продуктивнее, поддержите меня в знак благодарности. Это как время от времени угощать меня чашкой кофе."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu WebServe giúp bạn làm việc hiệu quả hơn, hãy cân nhắc ủng hộ tôi để bày tỏ sự cảm kích. Điều đó giống như thỉnh thoảng mời tôi một tách cà phê."
           }
         },
         "zh-Hans" : {
@@ -1880,6 +2120,12 @@
             "value" : "Установить корневой сертификат"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt CA gốc"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1924,6 +2170,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не удалось установить корневой сертификат"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không thể cài đặt CA gốc"
           }
         },
         "zh-Hans" : {
@@ -1972,6 +2224,12 @@
             "value" : "Приложение «Связка ключей» не найдено."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không tìm thấy ứng dụng Truy cập chuỗi khóa."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2018,6 +2276,12 @@
             "value" : "Язык"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngôn ngữ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2062,6 +2326,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Запускать при входе в систему"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khởi chạy khi đăng nhập"
           }
         },
         "zh-Hans" : {
@@ -2111,6 +2381,12 @@
             "value" : "Светлая"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sáng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2155,6 +2431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Главное окно"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cửa sổ chính"
           }
         },
         "zh-Hans" : {
@@ -2203,6 +2485,12 @@
             "value" : "Сделать сервер доступным через защищённое соединение (https) вместо http. Используется тот же единственный порт, поэтому одновременно использовать http и https нельзя."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cho phép truy cập máy chủ qua kết nối bảo mật (https) thay vì http. Sử dụng cùng một cổng duy nhất, vì vậy không thể dùng cả http và https cùng lúc."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2247,6 +2535,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Требуется доверие вручную"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yêu cầu tin cậy thủ công"
           }
         },
         "zh-Hans" : {
@@ -2295,6 +2589,12 @@
             "value" : "Другие приложения"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ứng dụng khác"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2339,6 +2639,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Нет разрешения на доступ"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có quyền truy cập"
           }
         },
         "zh-Hans" : {
@@ -2388,6 +2694,12 @@
             "value" : "ОК"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2432,6 +2744,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Открыть в Finder"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở trong Finder"
           }
         },
         "zh-Hans" : {
@@ -2480,6 +2798,12 @@
             "value" : "Не удалось открыть корневой сертификат"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không thể mở CA gốc"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2524,6 +2848,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Открыть корневой сертификат в программе «Связка ключей»"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở CA gốc trong Truy cập chuỗi khóa"
           }
         },
         "zh-Hans" : {
@@ -2572,6 +2902,12 @@
             "value" : "Не удалось открыть корневой сертификат в программе «Связка ключей». Код завершения: %d."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không thể mở CA gốc trong Truy cập chuỗi khóa. Mã thoát: %d."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2616,6 +2952,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Введите пароль"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vui lòng nhập mật khẩu"
           }
         },
         "zh-Hans" : {
@@ -2664,6 +3006,12 @@
             "value" : "Введите имя пользователя"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vui lòng nhập tên người dùng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2708,6 +3056,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выберите папку"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vui lòng chọn thư mục"
           }
         },
         "zh-Hans" : {
@@ -2756,6 +3110,12 @@
             "value" : "Порт"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cổng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2800,6 +3160,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Порт %u уже используется."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cổng %u đang được sử dụng."
           }
         },
         "zh-Hans" : {
@@ -2848,6 +3214,12 @@
             "value" : "Перенаправление порта"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chuyển tiếp cổng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2892,6 +3264,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Порт недоступен"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cổng không khả dụng"
           }
         },
         "zh-Hans" : {
@@ -2940,6 +3318,12 @@
             "value" : "Повторная аутентификация"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xác thực lại"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2984,6 +3368,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перезаписывать в (для SPA)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viết lại thành (cho SPA)"
           }
         },
         "zh-Hans" : {
@@ -3032,6 +3422,12 @@
             "value" : "Корневой сертификат установлен"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã cài đặt CA gốc"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3076,6 +3472,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Работает"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đang chạy"
           }
         },
         "zh-Hans" : {
@@ -3124,6 +3526,12 @@
             "value" : "Сохранить изменения"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lưu thay đổi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3168,6 +3576,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Команда security add-trusted-cert завершилась с ошибкой. Код завершения: %d."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lệnh security add-trusted-cert không thành công với mã thoát %d."
           }
         },
         "zh-Hans" : {
@@ -3216,6 +3630,12 @@
             "value" : "Выбрать папку"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn thư mục"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3260,6 +3680,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Выбрать папку..."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn thư mục..."
           }
         },
         "zh-Hans" : {
@@ -3308,6 +3734,12 @@
             "value" : "Настроить заголовки CORS"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đặt tiêu đề CORS"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3352,6 +3784,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Показывать список файлов каталога?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiển thị danh sách tệp trong thư mục?"
           }
         },
         "zh-Hans" : {
@@ -3400,6 +3838,12 @@
             "value" : "Показать папку"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiển thị thư mục"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3444,6 +3888,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перезапись одностраничного приложения (для SPA)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viết lại trang đơn (cho SPA)"
           }
         },
         "zh-Hans" : {
@@ -3492,6 +3942,12 @@
             "value" : "Пропускать скрытые файлы"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bỏ qua tệp ẩn"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3536,6 +3992,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Поддержать"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ủng hộ"
           }
         },
         "zh-Hans" : {
@@ -3584,6 +4046,12 @@
             "value" : "Сертификат SSL/TLS"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chứng chỉ SSL/TLS"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3630,6 +4098,12 @@
             "value" : "Закрытый ключ SSL/TLS"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khóa riêng SSL/TLS"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3674,6 +4148,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Остановлено"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã dừng"
           }
         },
         "zh-Hans" : {
@@ -3723,6 +4203,12 @@
             "value" : "Системная"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hệ thống"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3767,6 +4253,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Спасибо за вашу поддержку! 🙌"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cảm ơn bạn đã ủng hộ! 🙌"
           }
         },
         "zh-Hans" : {
@@ -3815,6 +4307,12 @@
             "value" : "Папка не существует по указанному пути: %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thư mục không tồn tại tại đường dẫn đã chỉ định: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3859,6 +4357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Корневой сертификат открыт в программе «Связка ключей». Установите для него параметр «Всегда доверять» для SSL, затем перезапустите браузер."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CA gốc đã được mở trong Truy cập chuỗi khóa. Đặt thành Luôn tin cậy cho SSL, sau đó khởi động lại trình duyệt."
           }
         },
         "zh-Hans" : {
@@ -3907,6 +4411,12 @@
             "value" : "Не удалось запустить из-за недостаточных разрешений. Выберите папку ещё раз и сохраните изменения, чтобы получить доступ к ней для чтения."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không thể khởi động do không đủ quyền. Vui lòng chọn lại thư mục và lưu để có quyền đọc thư mục."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3951,6 +4461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Использовать HTTPS"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sử dụng HTTPS"
           }
         },
         "zh-Hans" : {
@@ -3999,6 +4515,12 @@
             "value" : "Версия %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phiên bản %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4043,6 +4565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Предупреждение"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cảnh báo"
           }
         },
         "zh-Hans" : {
@@ -4091,6 +4619,12 @@
             "value" : "URL веб-сервера"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL máy chủ web"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4137,6 +4671,12 @@
             "value" : "Благодаря вашей щедрой финансовой поддержке я уверен, что смогу поддерживать WebServe в рабочем состоянии и активно развивать его."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhờ sự hỗ trợ tài chính hào phóng của bạn, tôi tin tưởng rằng có thể duy trì WebServe ổn định và tích cực phát triển ứng dụng."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4181,6 +4721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Благодаря вашей щедрой финансовой поддержке я уверен, что смогу поддерживать WebServe в рабочем состоянии и активно развивать его."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhờ sự hỗ trợ tài chính hào phóng của bạn, tôi tin tưởng rằng có thể duy trì WebServe ổn định và tích cực phát triển ứng dụng."
           }
         },
         "zh-Hans" : {
