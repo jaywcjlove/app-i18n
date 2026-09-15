@@ -108,6 +108,8 @@
 
 "Name" = "Name";
 
+"No Access" = "No Access";
+
 "No QR code recognized in the selected screenshot." = "No QR code recognized in the selected screenshot.";
 
 "No text recognized in the selected screenshot." = "No text recognized in the selected screenshot.";
@@ -132,6 +134,8 @@
 
 "QR code recognition failed." = "QR code recognition failed.";
 
+"QR code recognition timed out." = "QR code recognition timed out.";
+
 "Quit %@" = "Quit %@";
 
 "Radius" = "Radius";
@@ -145,6 +149,8 @@
 "Remove" = "Remove";
 
 "Reset" = "Reset";
+
+"Retry" = "Retry";
 
 "Save (⌘+S)" = "Save (⌘+S)";
 
@@ -189,6 +195,8 @@
 "Terms of Service" = "Terms of Service";
 
 "Text recognition failed." = "Text recognition failed.";
+
+"Text recognition timed out. Try selecting a smaller area." = "Text recognition timed out. Try selecting a smaller area.";
 
 "Undo (⌘+Z)" = "Undo (⌘+Z)";
 

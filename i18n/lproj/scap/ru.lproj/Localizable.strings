@@ -108,6 +108,8 @@
 
 "Name" = "Имя";
 
+"No Access" = "Нет доступа";
+
 "No QR code recognized in the selected screenshot." = "На выбранном снимке экрана QR-код не распознан.";
 
 "No text recognized in the selected screenshot." = "На выбранном снимке экрана текст не распознан.";
@@ -132,6 +134,8 @@
 
 "QR code recognition failed." = "Не удалось распознать QR-код.";
 
+"QR code recognition timed out." = "Распознавание QR-кода превысило время ожидания.";
+
 "Quit %@" = "Выйти из %@";
 
 "Radius" = "Радиус";
@@ -145,6 +149,8 @@
 "Remove" = "Удалить";
 
 "Reset" = "Сбросить";
+
+"Retry" = "Повторить";
 
 "Save (⌘+S)" = "Сохранить (⌘+S)";
 
@@ -189,6 +195,8 @@
 "Terms of Service" = "Условия использования";
 
 "Text recognition failed." = "Не удалось распознать текст.";
+
+"Text recognition timed out. Try selecting a smaller area." = "Распознавание текста превысило время ожидания. Попробуйте выделить меньшую область.";
 
 "Undo (⌘+Z)" = "Отменить (⌘+Z)";
 

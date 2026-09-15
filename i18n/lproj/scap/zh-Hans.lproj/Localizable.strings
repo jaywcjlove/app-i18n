@@ -108,6 +108,8 @@
 
 "Name" = "名字";
 
+"No Access" = "无权限";
+
 "No QR code recognized in the selected screenshot." = "所选截图中未识别到二维码。";
 
 "No text recognized in the selected screenshot." = "所选截图中未识别到文本。";
@@ -132,6 +134,8 @@
 
 "QR code recognition failed." = "二维码识别失败。";
 
+"QR code recognition timed out." = "二维码识别超时。";
+
 "Quit %@" = "退出 %@";
 
 "Radius" = "半径";
@@ -145,6 +149,8 @@
 "Remove" = "移除";
 
 "Reset" = "重置";
+
+"Retry" = "重试";
 
 "Save (⌘+S)" = "保存 (⌘+S)";
 
@@ -189,6 +195,8 @@
 "Terms of Service" = "服务条款";
 
 "Text recognition failed." = "文本识别失败。";
+
+"Text recognition timed out. Try selecting a smaller area." = "文字识别超时，请尝试框选更小的区域。";
 
 "Undo (⌘+Z)" = "撤销 (⌘+Z)";
 

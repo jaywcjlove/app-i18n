@@ -108,6 +108,8 @@
 
 "Name" = "名稱";
 
+"No Access" = "無權限";
+
 "No QR code recognized in the selected screenshot." = "在所選的螢幕截圖中未辨識出 QR 碼。";
 
 "No text recognized in the selected screenshot." = "在所選的螢幕截圖中未辨識出文字。";
@@ -132,6 +134,8 @@
 
 "QR code recognition failed." = "QR 碼辨識失敗。";
 
+"QR code recognition timed out." = "QR 碼辨識逾時。";
+
 "Quit %@" = "退出 %@";
 
 "Radius" = "半徑";
@@ -145,6 +149,8 @@
 "Remove" = "移除";
 
 "Reset" = "重設";
+
+"Retry" = "重試";
 
 "Save (⌘+S)" = "儲存 (⌘+S)";
 
@@ -189,6 +195,8 @@
 "Terms of Service" = "服務條款";
 
 "Text recognition failed." = "文字辨識失敗。";
+
+"Text recognition timed out. Try selecting a smaller area." = "文字辨識逾時，請嘗試框選更小的區域。";
 
 "Undo (⌘+Z)" = "復原 (⌘+Z)";
 

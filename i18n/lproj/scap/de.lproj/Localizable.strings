@@ -108,6 +108,8 @@
 
 "Name" = "Name";
 
+"No Access" = "Kein Zugriff";
+
 "No QR code recognized in the selected screenshot." = "Kein QR-Code im ausgewählten Screenshot erkannt.";
 
 "No text recognized in the selected screenshot." = "Kein Text im ausgewählten Screenshot erkannt.";
@@ -132,6 +134,8 @@
 
 "QR code recognition failed." = "QR-Code-Erkennung fehlgeschlagen.";
 
+"QR code recognition timed out." = "QR-Code-Erkennung zeitüberschritten.";
+
 "Quit %@" = "%@ beenden";
 
 "Radius" = "Radius";
@@ -145,6 +149,8 @@
 "Remove" = "Entfernen";
 
 "Reset" = "Zurücksetzen";
+
+"Retry" = "Erneut versuchen";
 
 "Save (⌘+S)" = "Speichern (⌘+S)";
 
@@ -189,6 +195,8 @@
 "Terms of Service" = "Nutzungsbedingungen";
 
 "Text recognition failed." = "Texterkennung fehlgeschlagen.";
+
+"Text recognition timed out. Try selecting a smaller area." = "Texterkennung zeitüberschritten. Versuchen Sie einen kleineren Bereich.";
 
 "Undo (⌘+Z)" = "Rückgängig (⌘+Z)";
 

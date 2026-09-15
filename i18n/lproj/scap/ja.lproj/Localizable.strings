@@ -108,6 +108,8 @@
 
 "Name" = "名前";
 
+"No Access" = "アクセスなし";
+
 "No QR code recognized in the selected screenshot." = "選択されたスクリーンショットでQRコードが認識されませんでした。";
 
 "No text recognized in the selected screenshot." = "選択されたスクリーンショットでテキストが認識されませんでした。";
@@ -132,6 +134,8 @@
 
 "QR code recognition failed." = "QRコード認識に失敗しました。";
 
+"QR code recognition timed out." = "QRコード認識がタイムアウトしました。";
+
 "Quit %@" = "%@を終了";
 
 "Radius" = "半径";
@@ -145,6 +149,8 @@
 "Remove" = "削除";
 
 "Reset" = "リセット";
+
+"Retry" = "再試行";
 
 "Save (⌘+S)" = "保存 (⌘+S)";
 
@@ -189,6 +195,8 @@
 "Terms of Service" = "利用規約";
 
 "Text recognition failed." = "テキスト認識に失敗しました。";
+
+"Text recognition timed out. Try selecting a smaller area." = "テキスト認識がタイムアウトしました。より小さい範囲を選択してください。";
 
 "Undo (⌘+Z)" = "元に戻す (⌘+Z)";
 

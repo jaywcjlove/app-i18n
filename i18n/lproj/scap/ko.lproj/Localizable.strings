@@ -108,6 +108,8 @@
 
 "Name" = "이름";
 
+"No Access" = "액세스 없음";
+
 "No QR code recognized in the selected screenshot." = "선택한 스크린샷에서 QR 코드를 인식하지 못했습니다.";
 
 "No text recognized in the selected screenshot." = "선택한 스크린샷에서 텍스트를 인식하지 못했습니다.";
@@ -132,6 +134,8 @@
 
 "QR code recognition failed." = "QR 코드 인식에 실패했습니다.";
 
+"QR code recognition timed out." = "QR 코드 인식 시간이 초과되었습니다.";
+
 "Quit %@" = "%@ 종료";
 
 "Radius" = "반지름";
@@ -145,6 +149,8 @@
 "Remove" = "제거";
 
 "Reset" = "재설정";
+
+"Retry" = "다시 시도";
 
 "Save (⌘+S)" = "저장 (⌘+S)";
 
@@ -189,6 +195,8 @@
 "Terms of Service" = "서비스 약관";
 
 "Text recognition failed." = "텍스트 인식에 실패했습니다.";
+
+"Text recognition timed out. Try selecting a smaller area." = "텍스트 인식 시간이 초과되었습니다. 더 작은 영역을 선택해 보세요.";
 
 "Undo (⌘+Z)" = "실행 취소 (⌘+Z)";
 
