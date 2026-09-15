@@ -1,5 +1,3 @@
-"%@" = "%@";
-
 "%@ %@ is currently the newest version available." = "%1$@ %2$@ は現在利用できる最新バージョンです。";
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@** を追加して確認";
@@ -24,13 +22,17 @@
 
 "Allow keyboard access" = "キーボードアクセスを許可";
 
+"Always on Top" = "常に最前面";
+
+"Animation Speed" = "アニメーション速度";
+
+"Animation Style" = "アニメーションスタイル";
+
 "Are you sure you want to delete the \"%@\" sound file?" = "\"%@\" のサウンドファイルを削除してもよろしいですか?";
 
 "Arrow Keys" = "矢印キー";
 
 "Assigned Key Sound" = "割り当て済みのキーサウンド";
-
-"Background Color" = "背景色";
 
 /* Both sounds */
 "Both Sounds" = "両方のサウンド";
@@ -47,13 +49,21 @@
 
 "Check for Updates..." = "アップデートを確認...";
 
+"Click through the overlay. Use Set Overlay Position to drag it on each display." = "オーバーレイをクリックスルーします。「オーバーレイの位置を設定」を使って各ディスプレイにドラッグしてください。";
+
 "Color" = "色";
+
+"Confirm" = "確認";
 
 "Confirm delete sound?" = "サウンドを削除しますか?";
 
 "Contact" = "連絡先";
 
 "Corner Radius" = "角丸";
+
+"Could not copy \"%@\".\n\n%@" = "「%@」をコピーできませんでした。\n\n%@";
+
+"Could not create the custom sound folder." = "カスタムサウンドフォルダを作成できませんでした。";
 
 "Custom sound settings" = "カスタムサウンド設定";
 
@@ -65,17 +75,27 @@
 
 "Display Keyboard Keys" = "キーボードキーを表示";
 
+"Display Style" = "表示スタイル";
+
 "Display the shortcut keys you pressed on the desktop." = "押したショートカットキーをデスクトップに表示します。";
 
 "Drag and drop an %@ file here to customize the key sound." = "%@ ファイルをここにドラッグ＆ドロップして、キーサウンドをカスタマイズします。";
 
+"Drag the overlay on each display, then click Confirm." = "各ディスプレイでオーバーレイをドラッグしてから「確認」をクリックしてください。";
+
+"Drag to move" = "ドラッグして移動";
+
 "E-mail" = "メール";
+
+"Fade" = "フェード";
+
+"Fade & Scale" = "フェードとスケール";
+
+"Fade Duration" = "フェード時間";
 
 "Feedback" = "フィードバック";
 
 "Filenames \"%@\" already exist. Please rename them or avoid adding duplicates." = "ファイル名 \"%@\" はすでに存在します。名前を変更するか、重複を追加しないでください。";
-
-"Font Size" = "文字サイズ";
 
 "Free" = "無料";
 
@@ -87,25 +107,41 @@
 
 "Grant Permission..." = "許可を与える...";
 
+"Hide After" = "非表示までの時間";
+
 "Hide Dock Icon" = "Dock アイコンを非表示";
 
 "Hide menu bar icon" = "メニューバーアイコンを非表示";
 
-"Horizontal Padding" = "水平パディング";
+"History" = "履歴";
+
+"History Length" = "履歴の長さ";
+
+"Ignore Mouse Events" = "マウスイベントを無視";
 
 "Input Monitoring" = "入力監視";
 
 /* Key down sound */
 "Key Down Sound" = "キー押下サウンド";
 
+"Key Size" = "キーサイズ";
+
 "Key Sound Effects" = "キーサウンド効果";
+
+"Key Spacing" = "キー間隔";
 
 /* Key up sound */
 "Key Up Sound" = "キー解放サウンド";
 
+"KeyClicker does not have permission to read \"%@\".\n\n%@" = "KeyClicker には「%@」を読み取る権限がありません。\n\n%@";
+
 "Keyboard Sound" = "キーボードサウンド";
 
+"Keyboard Visualizer" = "キーボードビジュアライザー";
+
 "Keypad Keys" = "テンキー";
+
+"Large" = "大";
 
 "Launch at login" = "ログイン時に起動";
 
@@ -119,7 +155,13 @@
 
 "Main Window" = "メインウィンドウ";
 
+"Maximum Keys" = "最大キー数";
+
 "Mechanical Keyboard Sound" = "メカニカルキーボードサウンド";
+
+"Medium" = "中";
+
+"Minimal" = "ミニマル";
 
 "Modifier Keys" = "修飾キー";
 
@@ -143,15 +185,15 @@
 
 "Opacity" = "不透明度";
 
-"Padding" = "余白";
-
-"Position" = "位置";
-
 "Pro" = "Pro";
 
 "Quit %@" = "%@ を終了";
 
 "Random Sound" = "ランダムサウンド";
+
+"Reset Overlay Position" = "オーバーレイの位置をリセット";
+
+"Scale" = "スケール";
 
 "Security and Privacy" = "セキュリティとプライバシー";
 
@@ -159,17 +201,35 @@
 
 "Select keyboard key sounds from the list below, with **%lld** default sound settings available." = "以下の一覧からキーボードキーのサウンドを選択します。**%lld** 個の標準サウンド設定が利用できます。";
 
+"Set Overlay Position" = "オーバーレイの位置を設定";
+
 "Set keyboard key sounds" = "キーボードキーサウンドを設定";
 
 "Set mouse click sounds" = "マウスクリックサウンドを設定";
 
-"Set the keyboard key" = "キーボードキーを設定";
-
 "Settings..." = "設定...";
 
-"Show" = "表示";
+"Show Key Press Animation" = "キー押下アニメーションを表示";
+
+"Show Shadow" = "シャドウを表示";
+
+"Show Shortcut Only" = "ショートカットのみ表示";
+
+"Show a fading trail of recent keystrokes." = "最近のキー入力をフェードしながら表示します。";
+
+"Show in Finder" = "Finder で表示";
+
+"Show on Full Screen" = "フルスクリーンで表示";
+
+"Show on all Spaces" = "すべてのスペースに表示";
+
+"Show recent keys as compact text." = "最近のキーをコンパクトなテキストとして表示します。";
+
+"Small" = "小";
 
 "Social Accounts" = "ソーシャルアカウント";
+
+"Sound file is missing" = "サウンドファイルがありません";
 
 "Sounds" = "サウンド";
 
@@ -178,6 +238,10 @@
 "System Preferences" = "システム設定";
 
 "The press and release sounds are defined by the file name suffixes %@ and %@, respectively." = "押下時と解放時のサウンドは、それぞれファイル名の接尾辞 %@ と %@ で定義されます。";
+
+"The sound file \"%@\" could not be found. It may have been moved or deleted.\n\n%@" = "サウンドファイル「%@」が見つかりません。移動または削除された可能性があります。\n\n%@";
+
+"The sound file \"%@\" could not be loaded. It may be damaged or not a valid MP3.\n\n%@" = "サウンドファイル「%@」を読み込めません。破損しているか、有効な MP3 ではない可能性があります。\n\n%@";
 
 "This app needs to monitor your keyboard input in order to play sounds and display the keys you press." = "このアプリは、サウンドを再生し、押したキーを表示するために、キーボード入力を監視する必要があります。";
 
@@ -193,6 +257,10 @@
 
 "Trailing" = "右";
 
+"Unable to add sound" = "サウンドを追加できません";
+
+"Unable to play sound" = "サウンドを再生できません";
+
 "Unassign key sound" = "キーサウンドの割り当てを解除";
 
 "Unlock all Features" = "すべての機能を解除";
@@ -203,13 +271,13 @@
 
 "Version History" = "バージョン履歴";
 
-"Vertical Padding" = "垂直パディング";
-
 "Volume" = "音量";
 
 "Watermark" = "ウォーターマーク";
 
 "Watermark: Powered by KeyClicker" = "ウォーターマーク: KeyClicker 提供";
+
+"When you press a keyboard shortcut, only those keys are shown. Regular typing still uses the history trail." = "キーボードショートカットを押すと、そのキーのみが表示されます。通常の入力では引き続き履歴トレイルが使用されます。";
 
 "X(Twitter)" = "X(Twitter)";
 

@@ -1,5 +1,3 @@
-"%@" = "%@";
-
 "%@ %@ is currently the newest version available." = "%1$@ %2$@은 현재 사용 가능한 최신 버전입니다.";
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> **%4$@** 추가 후 확인";
@@ -24,13 +22,17 @@
 
 "Allow keyboard access" = "키보드 접근 허용";
 
+"Always on Top" = "항상 위에 표시";
+
+"Animation Speed" = "애니메이션 속도";
+
+"Animation Style" = "애니메이션 스타일";
+
 "Are you sure you want to delete the \"%@\" sound file?" = "\"%@\" 사운드 파일을 삭제하시겠습니까?";
 
 "Arrow Keys" = "방향키";
 
 "Assigned Key Sound" = "지정된 키 사운드";
-
-"Background Color" = "배경색";
 
 /* Both sounds */
 "Both Sounds" = "두 소리 모두";
@@ -47,13 +49,21 @@
 
 "Check for Updates..." = "업데이트 확인...";
 
+"Click through the overlay. Use Set Overlay Position to drag it on each display." = "오버레이를 클릭하여 통과합니다. 오버레이 위치 설정을 사용하여 각 디스플레이에서 드래그하세요.";
+
 "Color" = "색상";
+
+"Confirm" = "확인";
 
 "Confirm delete sound?" = "사운드를 삭제하시겠습니까?";
 
 "Contact" = "연락처";
 
 "Corner Radius" = "모서리 반경";
+
+"Could not copy \"%@\".\n\n%@" = "\"%@\"을(를) 복사할 수 없습니다.\n\n%@";
+
+"Could not create the custom sound folder." = "사용자 지정 사운드 폴더를 만들 수 없습니다.";
 
 "Custom sound settings" = "사용자 지정 사운드 설정";
 
@@ -65,17 +75,27 @@
 
 "Display Keyboard Keys" = "키보드 키 표시";
 
+"Display Style" = "표시 스타일";
+
 "Display the shortcut keys you pressed on the desktop." = "데스크톱에 누른 단축키를 표시합니다.";
 
 "Drag and drop an %@ file here to customize the key sound." = "%@ 파일을 여기에 드래그 앤 드롭하여 키 사운드를 사용자 지정하세요.";
 
+"Drag the overlay on each display, then click Confirm." = "각 디스플레이에서 오버레이를 드래그한 후 확인을 클릭하세요.";
+
+"Drag to move" = "드래그하여 이동";
+
 "E-mail" = "이메일";
+
+"Fade" = "페이드";
+
+"Fade & Scale" = "페이드 및 크기";
+
+"Fade Duration" = "페이드 지속 시간";
 
 "Feedback" = "피드백";
 
 "Filenames \"%@\" already exist. Please rename them or avoid adding duplicates." = "파일 이름 \"%@\"이(가) 이미 존재합니다. 이름을 바꾸거나 중복 추가하지 마십시오.";
-
-"Font Size" = "글꼴 크기";
 
 "Free" = "무료";
 
@@ -87,25 +107,41 @@
 
 "Grant Permission..." = "권한 부여...";
 
+"Hide After" = "숨기기 지연";
+
 "Hide Dock Icon" = "Dock 아이콘 숨기기";
 
 "Hide menu bar icon" = "메뉴 막대 아이콘 숨기기";
 
-"Horizontal Padding" = "가로 여백";
+"History" = "기록";
+
+"History Length" = "기록 길이";
+
+"Ignore Mouse Events" = "마우스 이벤트 무시";
 
 "Input Monitoring" = "입력 모니터링";
 
 /* Key down sound */
 "Key Down Sound" = "키 누름 사운드";
 
+"Key Size" = "키 크기";
+
 "Key Sound Effects" = "키 사운드 효과";
+
+"Key Spacing" = "키 간격";
 
 /* Key up sound */
 "Key Up Sound" = "키 뗌 사운드";
 
+"KeyClicker does not have permission to read \"%@\".\n\n%@" = "KeyClicker에 \"%@\"을(를) 읽을 권한이 없습니다.\n\n%@";
+
 "Keyboard Sound" = "키보드 사운드";
 
+"Keyboard Visualizer" = "키보드 시각화";
+
 "Keypad Keys" = "숫자 키패드 키";
+
+"Large" = "크게";
 
 "Launch at login" = "로그인 시 실행";
 
@@ -119,7 +155,13 @@
 
 "Main Window" = "메인 창";
 
+"Maximum Keys" = "최대 키 개수";
+
 "Mechanical Keyboard Sound" = "기계식 키보드 사운드";
+
+"Medium" = "보통";
+
+"Minimal" = "미니멀";
 
 "Modifier Keys" = "보조 키";
 
@@ -143,15 +185,15 @@
 
 "Opacity" = "불투명도";
 
-"Padding" = "여백";
-
-"Position" = "위치";
-
 "Pro" = "Pro";
 
 "Quit %@" = "%@ 종료";
 
 "Random Sound" = "무작위 사운드";
+
+"Reset Overlay Position" = "오버레이 위치 재설정";
+
+"Scale" = "크기";
 
 "Security and Privacy" = "보안 및 개인 정보 보호";
 
@@ -159,17 +201,35 @@
 
 "Select keyboard key sounds from the list below, with **%lld** default sound settings available." = "아래 목록에서 키보드 키 사운드를 선택하세요. 기본 사운드 설정 **%lld**개를 사용할 수 있습니다.";
 
+"Set Overlay Position" = "오버레이 위치 설정";
+
 "Set keyboard key sounds" = "키보드 키 사운드 설정";
 
 "Set mouse click sounds" = "마우스 클릭 사운드 설정";
 
-"Set the keyboard key" = "키보드 키 설정";
-
 "Settings..." = "설정...";
 
-"Show" = "표시";
+"Show Key Press Animation" = "키 입력 애니메이션 표시";
+
+"Show Shadow" = "그림자 표시";
+
+"Show Shortcut Only" = "단축키만 표시";
+
+"Show a fading trail of recent keystrokes." = "최근 키 입력의 잔상을 표시합니다.";
+
+"Show in Finder" = "Finder에서 보기";
+
+"Show on Full Screen" = "전체 화면에 표시";
+
+"Show on all Spaces" = "모든 스페이스에 표시";
+
+"Show recent keys as compact text." = "최근 키를 간결한 텍스트로 표시합니다.";
+
+"Small" = "작게";
 
 "Social Accounts" = "소셜 계정";
+
+"Sound file is missing" = "사운드 파일이 없습니다";
 
 "Sounds" = "사운드";
 
@@ -178,6 +238,10 @@
 "System Preferences" = "시스템 환경설정";
 
 "The press and release sounds are defined by the file name suffixes %@ and %@, respectively." = "키 누름과 뗌 사운드는 각각 파일 이름 접미사 %@ 및 %@로 정의됩니다.";
+
+"The sound file \"%@\" could not be found. It may have been moved or deleted.\n\n%@" = "사운드 파일 \"%@\"을(를) 찾을 수 없습니다. 이동되었거나 삭제되었을 수 있습니다.\n\n%@";
+
+"The sound file \"%@\" could not be loaded. It may be damaged or not a valid MP3.\n\n%@" = "사운드 파일 \"%@\"을(를) 불러올 수 없습니다. 손상되었거나 올바른 MP3가 아닐 수 있습니다.\n\n%@";
 
 "This app needs to monitor your keyboard input in order to play sounds and display the keys you press." = "이 앱은 사운드를 재생하고 누른 키를 표시하기 위해 키보드 입력을 모니터링해야 합니다.";
 
@@ -193,6 +257,10 @@
 
 "Trailing" = "오른쪽";
 
+"Unable to add sound" = "사운드를 추가할 수 없습니다";
+
+"Unable to play sound" = "사운드를 재생할 수 없습니다";
+
 "Unassign key sound" = "키 사운드 할당 해제";
 
 "Unlock all Features" = "모든 기능 잠금 해제";
@@ -203,13 +271,13 @@
 
 "Version History" = "버전 기록";
 
-"Vertical Padding" = "세로 여백";
-
 "Volume" = "음량";
 
 "Watermark" = "워터마크";
 
 "Watermark: Powered by KeyClicker" = "워터마크: KeyClicker 제공";
+
+"When you press a keyboard shortcut, only those keys are shown. Regular typing still uses the history trail." = "키보드 단축키를 누르면 해당 키만 표시됩니다. 일반 입력 시에는 계속 기록 트레일이 사용됩니다.";
 
 "X(Twitter)" = "X(Twitter)";
 

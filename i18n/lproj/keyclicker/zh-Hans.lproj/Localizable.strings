@@ -1,5 +1,3 @@
-"%@" = "%@";
-
 "%@ %@ is currently the newest version available." = "%1$@ %2$@ 当前是可用的最新版本。";
 
 "%@ -> **%@** -> **%@** -> Add **%@** and check" = "%1$@ -> **%2$@** -> **%3$@** -> 添加 **%4$@** 并勾选";
@@ -24,13 +22,17 @@
 
 "Allow keyboard access" = "允许访问键盘";
 
+"Always on Top" = "始终置顶";
+
+"Animation Speed" = "动画速度";
+
+"Animation Style" = "动画样式";
+
 "Are you sure you want to delete the \"%@\" sound file?" = "你确定要删除“%@”音效文件吗？";
 
 "Arrow Keys" = "方向键";
 
 "Assigned Key Sound" = "指定按键音";
-
-"Background Color" = "背景颜色";
 
 /* Both sounds */
 "Both Sounds" = "两个都有音效";
@@ -47,13 +49,21 @@
 
 "Check for Updates..." = "检查更新…";
 
+"Click through the overlay. Use Set Overlay Position to drag it on each display." = "点击穿透浮层。使用「设置浮层位置」在每个显示器上拖动它。";
+
 "Color" = "颜色";
+
+"Confirm" = "确认";
 
 "Confirm delete sound?" = "确认删除音效？";
 
 "Contact" = "联系我们";
 
 "Corner Radius" = "圆角半径";
+
+"Could not copy \"%@\".\n\n%@" = "无法复制“%@”。\n\n%@";
+
+"Could not create the custom sound folder." = "无法创建自定义音效文件夹。";
 
 "Custom sound settings" = "自定义声音设置";
 
@@ -65,17 +75,27 @@
 
 "Display Keyboard Keys" = "显示键盘按键";
 
+"Display Style" = "展示模式";
+
 "Display the shortcut keys you pressed on the desktop." = "在桌面上显示你按下的快捷键";
 
 "Drag and drop an %@ file here to customize the key sound." = "拖拽 %@ 文件到此处以自定义按键声音。";
 
+"Drag the overlay on each display, then click Confirm." = "在每个显示器上拖动浮层，然后点击「确认」。";
+
+"Drag to move" = "拖动以移动";
+
 "E-mail" = "电子邮件";
+
+"Fade" = "淡入淡出";
+
+"Fade & Scale" = "淡出并缩放";
+
+"Fade Duration" = "淡出时长";
 
 "Feedback" = "意见反馈";
 
 "Filenames \"%@\" already exist. Please rename them or avoid adding duplicates." = "文件名 “%@” 已存在，请修改后重试或避免重复添加。";
-
-"Font Size" = "字体大小";
 
 "Free" = "免费";
 
@@ -87,25 +107,41 @@
 
 "Grant Permission..." = "需要授权...";
 
+"Hide After" = "稍后隐藏";
+
 "Hide Dock Icon" = "隐藏扩展坞图标";
 
 "Hide menu bar icon" = "隐藏菜单栏图标";
 
-"Horizontal Padding" = "横向补白";
+"History" = "历史";
+
+"History Length" = "历史长度";
+
+"Ignore Mouse Events" = "忽略鼠标事件";
 
 "Input Monitoring" = "输入监控";
 
 /* Key down sound */
 "Key Down Sound" = "按下音效";
 
+"Key Size" = "按键大小";
+
 "Key Sound Effects" = "按键音效";
+
+"Key Spacing" = "按键间距";
 
 /* Key up sound */
 "Key Up Sound" = "抬起音效";
 
+"KeyClicker does not have permission to read \"%@\".\n\n%@" = "KeyClicker 没有权限读取“%@”。\n\n%@";
+
 "Keyboard Sound" = "键盘音效";
 
+"Keyboard Visualizer" = "键盘可视化";
+
 "Keypad Keys" = "数字键盘键";
+
+"Large" = "大";
 
 "Launch at login" = "开机启动";
 
@@ -119,7 +155,13 @@
 
 "Main Window" = "主窗口";
 
+"Maximum Keys" = "最大按键数";
+
 "Mechanical Keyboard Sound" = "机械键盘声音";
+
+"Medium" = "中";
+
+"Minimal" = "极简";
 
 "Modifier Keys" = "修饰键";
 
@@ -143,15 +185,15 @@
 
 "Opacity" = "透明度";
 
-"Padding" = "边距";
-
-"Position" = "位置";
-
 "Pro" = "专业版";
 
 "Quit %@" = "退出 %@";
 
 "Random Sound" = "随机声音";
+
+"Reset Overlay Position" = "重置浮层位置";
+
+"Scale" = "缩放";
 
 "Security and Privacy" = "安全性与隐私";
 
@@ -159,17 +201,35 @@
 
 "Select keyboard key sounds from the list below, with **%lld** default sound settings available." = "从下方列表中选择键盘按键声音，共有 **%lld** 种默认声音设置可用。";
 
+"Set Overlay Position" = "设置浮层位置";
+
 "Set keyboard key sounds" = "设置键盘按键声音";
 
 "Set mouse click sounds" = "设置鼠标按键声音";
 
-"Set the keyboard key" = "设置键盘按键";
-
 "Settings..." = "设置…";
 
-"Show" = "显示";
+"Show Key Press Animation" = "显示按键动画";
+
+"Show Shadow" = "显示阴影";
+
+"Show Shortcut Only" = "仅显示快捷键";
+
+"Show a fading trail of recent keystrokes." = "以淡出轨迹展示最近按下的按键。";
+
+"Show in Finder" = "在 Finder 中显示";
+
+"Show on Full Screen" = "在全屏应用上显示";
+
+"Show on all Spaces" = "在所有空间显示";
+
+"Show recent keys as compact text." = "以简洁文本显示最近的按键。";
+
+"Small" = "小";
 
 "Social Accounts" = "社交账号";
+
+"Sound file is missing" = "音效文件不存在";
 
 "Sounds" = "声音";
 
@@ -178,6 +238,10 @@
 "System Preferences" = "系统偏好设置";
 
 "The press and release sounds are defined by the file name suffixes %@ and %@, respectively." = "通过文件名后缀 %1$@ 和 %2$@，分别定义按下和抬起时的音效。\n";
+
+"The sound file \"%@\" could not be found. It may have been moved or deleted.\n\n%@" = "找不到音效文件“%@”。文件可能已被移动或删除。\n\n%@";
+
+"The sound file \"%@\" could not be loaded. It may be damaged or not a valid MP3.\n\n%@" = "无法加载音效文件“%@”。文件可能已损坏或不是有效的 MP3。\n\n%@";
 
 "This app needs to monitor your keyboard input in order to play sounds and display the keys you press." = "应用会监控键盘输入，为每个按键播放音效，并显示当前按下的按键。";
 
@@ -193,6 +257,10 @@
 
 "Trailing" = "右侧";
 
+"Unable to add sound" = "无法添加音效";
+
+"Unable to play sound" = "无法播放音效";
+
 "Unassign key sound" = "取消该按键音效";
 
 "Unlock all Features" = "解锁所有功能";
@@ -203,13 +271,13 @@
 
 "Version History" = "版本历史";
 
-"Vertical Padding" = "垂直补白";
-
 "Volume" = "声音";
 
 "Watermark" = "水印";
 
 "Watermark: Powered by KeyClicker" = "水印：由 KeyClicker 提供支持";
+
+"When you press a keyboard shortcut, only those keys are shown. Regular typing still uses the history trail." = "当你按下键盘快捷键时，只会显示这些按键。正常输入时仍会使用历史轨迹。";
 
 "X(Twitter)" = "X(Twitter)";
 
