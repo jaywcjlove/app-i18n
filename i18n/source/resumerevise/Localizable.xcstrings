@@ -9,6 +9,12 @@
             "value" : ""
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -73,6 +79,12 @@
             "value" : "自分について簡単に紹介し、最大の強みをアピールしましょう。"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자신을 간략히 소개하고 가장 큰 강점을 어필하세요."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -87,6 +99,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "追加情報を追加"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "추가 정보 추가"
           }
         },
         "zh-Hans" : {
@@ -105,6 +123,12 @@
             "value" : "学歴を追加"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "학력 추가"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -119,6 +143,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "役職を追加"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "역할 추가"
           }
         },
         "zh-Hans" : {
@@ -137,6 +167,12 @@
             "value" : "リンクを追加"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "링크 추가"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -151,6 +187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "プロジェクト経験を追加"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프로젝트 경험 추가"
           }
         },
         "zh-Hans" : {
@@ -169,6 +211,12 @@
             "value" : "このコマンドで Grok に Resume Revise を追加するか、TOML を ~/.grok/config.toml に貼り付けてください。"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 명령어로 Grok에 Resume Revise를 추가하거나, TOML을 ~/.grok/config.toml에 붙여넣으세요."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -183,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "学内栄誉を追加"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "학교 수상 경력 추가"
           }
         },
         "zh-Hans" : {
@@ -201,6 +255,12 @@
             "value" : "スキルを追加"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스킬 추가"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -215,6 +275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "スキルを追加"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스킬 추가"
           }
         },
         "zh-Hans" : {
@@ -233,6 +299,12 @@
             "value" : "これを MCP クライアントの設定（Claude Desktop、Cursor など）に追加してください。"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 내용을 MCP 클라이언트 설정(Claude Desktop, Cursor 등)에 추가하세요."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -247,6 +319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "職務経験を追加"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "경력 추가"
           }
         },
         "zh-Hans" : {
@@ -265,6 +343,12 @@
             "value" : "追加情報"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "추가 정보"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -279,6 +363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "住所"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주소"
           }
         },
         "zh-Hans" : {
@@ -297,6 +387,12 @@
             "value" : "職務経歴書にプロジェクト経験を 1 件追加します。"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이력서에 프로젝트 경험을 하나 추가합니다."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -311,6 +407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "スキルを 1 件追加します。level は 0〜100 です。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스킬을 하나 추가합니다. level은 0~100입니다."
           }
         },
         "zh-Hans" : {
@@ -329,6 +431,12 @@
             "value" : "職務経歴書に職務経験を 1 件追加します。"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이력서에 경력을 하나 추가합니다."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -343,6 +451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "職務経歴書に学歴を 1 件追加します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이력서에 학력을 하나 추가합니다."
           }
         },
         "zh-Hans" : {
@@ -361,6 +475,12 @@
             "value" : "「%@」を削除してもよろしいですか？この操作は取り消せません。"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%@\"을(를) 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -375,6 +495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "基本情報"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기본 정보"
           }
         },
         "zh-Hans" : {
@@ -393,6 +519,12 @@
             "value" : "キャンセル"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "취소"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -407,6 +539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "コマンド"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "명령어"
           }
         },
         "zh-Hans" : {
@@ -425,6 +563,12 @@
             "value" : "会社名"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "회사"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -439,6 +583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "設定"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설정"
           }
         },
         "zh-Hans" : {
@@ -457,6 +607,12 @@
             "value" : "MCP を設定"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MCP 설정"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -471,6 +627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "コピーしました"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "복사됨"
           }
         },
         "zh-Hans" : {
@@ -489,6 +651,12 @@
             "value" : "コピー"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "복사"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -503,6 +671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "職務経歴書を作成します。name、template_path（template01〜template11）、json フィールドを省略可能で、空白の職務経歴書にマージできます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이력서를 만듭니다. name, template_path(template01~template11), json 필드를 선택적으로 전달하여 빈 이력서에 병합할 수 있습니다."
           }
         },
         "zh-Hans" : {
@@ -521,6 +695,12 @@
             "value" : "職務経歴書を作成"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이력서 만들기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -535,6 +715,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "生年月日"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "생년월일"
           }
         },
         "zh-Hans" : {
@@ -553,6 +739,12 @@
             "value" : "学位"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "학위"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -567,6 +759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "削除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "삭제"
           }
         },
         "zh-Hans" : {
@@ -585,6 +783,12 @@
             "value" : "「%@」の職務経歴書を削除"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%@\" 이력서 삭제"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -599,6 +803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "UUID で職務経歴書を削除します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UUID로 이력서를 삭제합니다."
           }
         },
         "zh-Hans" : {
@@ -617,6 +827,12 @@
             "value" : "職務経歴書を削除"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이력서 삭제"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -631,6 +847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "職務経歴書を削除しますか？"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이력서를 삭제하시겠습니까?"
           }
         },
         "zh-Hans" : {
@@ -649,6 +871,12 @@
             "value" : "職務経験を削除"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "경력 삭제"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -663,6 +891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "専攻"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전공"
           }
         },
         "zh-Hans" : {
@@ -681,6 +915,12 @@
             "value" : "専攻の内容を詳しく記入してください。カリキュラムや卒業研究などを含みます。"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전공 내용을 자세히 설명하세요. 커리큘럼, 졸업 프로젝트 등을 포함합니다."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -695,6 +935,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在学中に担当した役職の主な業務内容や責任を詳しく記入してください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "학교에서 맡은 역할의 주요 업무 내용과 책임을 자세히 설명하세요."
           }
         },
         "zh-Hans" : {
@@ -713,6 +959,12 @@
             "value" : "トピックの内容を簡単に記入してください。"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주제 내용을 간략히 설명하세요."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -727,6 +979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "説明"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설명"
           }
         },
         "zh-Hans" : {
@@ -745,6 +1003,12 @@
             "value" : "希望勤務地"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "희망 근무 도시"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -759,6 +1023,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "希望職種"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "희망 직무"
           }
         },
         "zh-Hans" : {
@@ -777,6 +1047,12 @@
             "value" : "完了"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "완료"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -791,6 +1067,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "複製"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "복제"
           }
         },
         "zh-Hans" : {
@@ -809,6 +1091,12 @@
             "value" : "「%@」の職務経歴書を編集"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%@\" 이력서 편집"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -823,6 +1111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "学歴"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "학력"
           }
         },
         "zh-Hans" : {
@@ -841,6 +1135,12 @@
             "value" : "メールアドレス"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이메일"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -855,6 +1155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "PDF として書き出す"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PDF로 내보내기"
           }
         },
         "zh-Hans" : {
@@ -873,6 +1179,12 @@
             "value" : "正社員"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "정규직"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -887,6 +1199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "職務経歴書を 1 件 JSON として取得します。include_avatar が true でない場合、アバターの Base64 は含まれません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이력서 하나를 JSON으로 가져옵니다. include_avatar가 true가 아니면 아바타 Base64는 포함되지 않습니다."
           }
         },
         "zh-Hans" : {
@@ -905,6 +1223,12 @@
             "value" : "職務経歴書を取得"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이력서 가져오기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -919,6 +1243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在学状況"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "학교 생활"
           }
         },
         "zh-Hans" : {
@@ -969,6 +1299,12 @@
             "value" : "栄誉"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수상 경력"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -983,6 +1319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重要なお知らせ ‼️"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중요 안내 ‼️"
           }
         },
         "zh-Hans" : {
@@ -1001,6 +1343,12 @@
             "value" : "希望業界"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "희망 업계"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1015,6 +1363,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "インターンシップ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인턴십"
           }
         },
         "zh-Hans" : {
@@ -1033,6 +1387,12 @@
             "value" : "プロジェクトを紹介し、成果をアピールしてください。例：\n1. プロジェクトの背景と目標\n2. プロジェクトでの役割\n3. プロジェクトの業績"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프로젝트를 소개하고 성과를 어필하세요. 예:\n1. 프로젝트 배경 및 목표\n2. 프로젝트에서의 역할\n3. 프로젝트 성과"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1047,6 +1407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "希望条件"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "희망 조건"
           }
         },
         "zh-Hans" : {
@@ -1065,6 +1431,12 @@
             "value" : "職種"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "직무"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1079,6 +1451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "雇用形態"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "고용 형태"
           }
         },
         "zh-Hans" : {
@@ -1097,6 +1475,12 @@
             "value" : "キーワード"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "키워드"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1111,6 +1495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ラベル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "라벨"
           }
         },
         "zh-Hans" : {
@@ -1129,6 +1519,12 @@
             "value" : "`--mcp` を付けて起動すると、stdio 経由で MCP 通信を行います。MCP プロセスがアタッチできるよう、Resume Revise を開いたままにしてください。"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "`--mcp`를 붙여 실행하면 stdio를 통해 MCP 통신을 합니다. MCP 프로세스가 연결할 수 있도록 Resume Revise를 열어 두어야 합니다."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1143,6 +1539,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "役職"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "역할"
           }
         },
         "zh-Hans" : {
@@ -1161,6 +1563,12 @@
             "value" : "レベル"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수준"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1175,6 +1583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Resume Revise に保存されたすべての職務経歴書を一覧表示します。ID、名前、職種、テンプレートパスを返します。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resume Revise에 저장된 모든 이력서를 목록으로 표시합니다. ID, 이름, 직무, 템플릿 경로를 반환합니다."
           }
         },
         "zh-Hans" : {
@@ -1193,6 +1607,12 @@
             "value" : "利用可能な職務経歴書テンプレートとそのパス識別子を一覧表示します。"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사용 가능한 이력서 템플릿과 해당 경로 식별자를 목록으로 표시합니다."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1207,6 +1627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "職務経歴書一覧を表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이력서 목록 보기"
           }
         },
         "zh-Hans" : {
@@ -1225,6 +1651,12 @@
             "value" : "テンプレート一覧を表示"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "템플릿 목록 보기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1239,6 +1671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "勤務地"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "근무지"
           }
         },
         "zh-Hans" : {
@@ -1257,6 +1695,12 @@
             "value" : "既存の職務経歴書に JSON をマージします。ネストされたオブジェクトはマージされ、配列はリスト全体を置き換えます。日付は ISO-8601 または YYYY-MM-DD 形式を使用してください。アバターを置き換える場合を除き、avatar は送信しないでください。"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기존 이력서에 JSON을 병합합니다. 중첩 객체는 병합되고, 배열은 전체 목록을 대체합니다. 날짜는 ISO-8601 또는 YYYY-MM-DD 형식을 사용하세요. 아바타를 교체하는 경우가 아니면 avatar를 보내지 마세요."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1271,6 +1715,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "下へ移動"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아래로 이동"
           }
         },
         "zh-Hans" : {
@@ -1289,6 +1739,12 @@
             "value" : "上へ移動"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "위로 이동"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1303,6 +1759,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "氏名"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이름"
           }
         },
         "zh-Hans" : {
@@ -1321,6 +1783,12 @@
             "value" : "新しい職務経歴書"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "새 이력서"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1335,6 +1803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "アルバイト"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아르바이트"
           }
         },
         "zh-Hans" : {
@@ -1353,6 +1827,12 @@
             "value" : "期間"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기간"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1367,6 +1847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自己 PR"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자기소개"
           }
         },
         "zh-Hans" : {
@@ -1385,6 +1871,12 @@
             "value" : "電話番号"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "휴대전화 번호"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1399,6 +1891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "携帯電話番号を入力してください"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "휴대전화 번호를 입력하세요"
           }
         },
         "zh-Hans" : {
@@ -1417,6 +1915,12 @@
             "value" : "住所を入力してください"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주소를 입력하세요"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1431,6 +1935,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "希望する勤務都市を入力してください"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "희망하는 근무 도시를 입력하세요"
           }
         },
         "zh-Hans" : {
@@ -1449,6 +1959,12 @@
             "value" : "氏名を入力してください"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이름을 입력하세요"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1463,6 +1979,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "プロジェクト経験"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프로젝트 경험"
           }
         },
         "zh-Hans" : {
@@ -1481,6 +2003,12 @@
             "value" : "プロジェクト名"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프로젝트명"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1495,6 +2023,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "所属会社"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "소속 회사"
           }
         },
         "zh-Hans" : {
@@ -1513,6 +2047,12 @@
             "value" : "リモート"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "원격"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1527,6 +2067,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "職務経歴書メーカー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이력서 메이커"
           }
         },
         "zh-Hans" : {
@@ -1545,6 +2091,12 @@
             "value" : "職務経歴書：「%@」"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이력서: \"%@\""
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1559,6 +2111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "中国語の職務経歴書サンプル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중국어 이력서 샘플"
           }
         },
         "zh-Hans" : {
@@ -1577,6 +2135,12 @@
             "value" : "サンプルデータ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "샘플 데이터"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1591,6 +2155,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "英語の職務経歴書サンプル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "영어 이력서 샘플"
           }
         },
         "zh-Hans" : {
@@ -1609,6 +2179,12 @@
             "value" : "学内栄誉"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "교내 수상 경력"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1623,6 +2199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "テンプレートを選択して新しい職務経歴書を作成"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "템플릿을 선택하여 새 이력서를 만드세요"
           }
         },
         "zh-Hans" : {
@@ -1641,6 +2223,12 @@
             "value" : "スキル名"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스킬 이름"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1655,6 +2243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "スキル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스킬"
           }
         },
         "zh-Hans" : {
@@ -1673,6 +2267,12 @@
             "value" : "スキル・特技"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스킬 및 특기"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1687,6 +2287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "希望月給"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "희망 연봉"
           }
         },
         "zh-Hans" : {
@@ -1705,6 +2311,12 @@
             "value" : "テンプレート 1"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "템플릿 1"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1719,6 +2331,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "テンプレート 2"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "템플릿 2"
           }
         },
         "zh-Hans" : {
@@ -1737,6 +2355,12 @@
             "value" : "テンプレート 3"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "템플릿 3"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1751,6 +2375,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "テンプレート 4"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "템플릿 4"
           }
         },
         "zh-Hans" : {
@@ -1769,6 +2399,12 @@
             "value" : "テンプレート 5"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "템플릿 5"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1783,6 +2419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "テンプレート 6"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "템플릿 6"
           }
         },
         "zh-Hans" : {
@@ -1801,6 +2443,12 @@
             "value" : "テンプレート 7"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "템플릿 7"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1815,6 +2463,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "テンプレート 8"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "템플릿 8"
           }
         },
         "zh-Hans" : {
@@ -1833,6 +2487,12 @@
             "value" : "テンプレート 9"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "템플릿 9"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1847,6 +2507,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "テンプレート 10"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "템플릿 10"
           }
         },
         "zh-Hans" : {
@@ -1865,6 +2531,12 @@
             "value" : "テンプレート 11"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "템플릿 11"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1879,6 +2551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "テンプレート"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "템플릿"
           }
         },
         "zh-Hans" : {
@@ -1897,6 +2575,12 @@
             "value" : "その後、`grok mcp list` を実行するか、Grok で `/mcps` を開いて、サーバーが接続されていることを確認してください。"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "그런 다음 `grok mcp list`를 실행하거나, Grok에서 `/mcps`를 열어 서버가 연결되었는지 확인하세요."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1911,6 +2595,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "これはサンプルテンプレートデータで、現在のデータを上書きします。現在の職務経歴書データを上書きしてもよいか確認してください！"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이것은 샘플 템플릿 데이터로 현재 데이터를 덮어씁니다. 현재 이력서 데이터를 덮어써도 되는지 확인하세요!"
           }
         },
         "zh-Hans" : {
@@ -1929,6 +2619,12 @@
             "value" : "時間"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시간"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1943,6 +2639,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "期間"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기간"
           }
         },
         "zh-Hans" : {
@@ -1961,6 +2663,12 @@
             "value" : "タイトル"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "제목"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1977,6 +2685,12 @@
             "value" : "トピック"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주제"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1991,6 +2705,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "職務経歴書を更新"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이력서 업데이트"
           }
         },
         "zh-Hans" : {
@@ -2025,6 +2745,12 @@
             "value" : "職務経験"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "경력"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2057,6 +2783,12 @@
             "value" : "歳"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "세"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2071,6 +2803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "カンマで区切るか、Enter キーを押すことで、複数のキーワードを追加できます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "쉼표로 구분하거나 Enter 키를 눌러 여러 키워드를 추가할 수 있습니다."
           }
         },
         "zh-Hans" : {

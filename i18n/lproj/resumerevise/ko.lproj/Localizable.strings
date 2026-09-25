@@ -1,0 +1,257 @@
+"%lld" = "%lld";
+
+"30k+" = "30k+";
+
+"A brief introduction of yourself. Just show your biggest advantages." = "자신을 간략히 소개하고 가장 큰 강점을 어필하세요.";
+
+"Add Additional Info" = "추가 정보 추가";
+
+"Add Education" = "학력 추가";
+
+"Add Leadership Position" = "역할 추가";
+
+"Add Link" = "링크 추가";
+
+"Add Project Experience" = "프로젝트 경험 추가";
+
+"Add Resume Revise in Grok with this command, or paste the TOML into ~/.grok/config.toml." = "이 명령어로 Grok에 Resume Revise를 추가하거나, TOML을 ~/.grok/config.toml에 붙여넣으세요.";
+
+"Add School Honors" = "학교 수상 경력 추가";
+
+"Add Skill" = "스킬 추가";
+
+"Add Skills" = "스킬 추가";
+
+"Add Work Experience" = "경력 추가";
+
+"Add this to your MCP client config (Claude Desktop, Cursor, and others)." = "이 내용을 MCP 클라이언트 설정(Claude Desktop, Cursor 등)에 추가하세요.";
+
+"Additional Info" = "추가 정보";
+
+"Address" = "주소";
+
+"Append a project experience entry to a resume." = "이력서에 프로젝트 경험을 하나 추가합니다.";
+
+"Append a skill. level is 0–100." = "스킬을 하나 추가합니다. level은 0~100입니다.";
+
+"Append a work experience entry to a resume." = "이력서에 경력을 하나 추가합니다.";
+
+"Append an education entry to a resume." = "이력서에 학력을 하나 추가합니다.";
+
+"Are you sure you want to delete \"%@\"? This cannot be undone." = "\"%@\"을(를) 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.";
+
+"Basic Info" = "기본 정보";
+
+"Cancel" = "취소";
+
+"Command" = "명령어";
+
+"Company" = "회사";
+
+"Configuration" = "설정";
+
+"Configure MCP" = "MCP 설정";
+
+"Copied" = "복사됨";
+
+"Copy" = "복사";
+
+"Create Resume" = "이력서 만들기";
+
+"Create a resume. Optionally pass name, template_path (template01–template11), and json fields to merge onto a blank resume." = "이력서를 만듭니다. name, template_path(template01~template11), json 필드를 선택적으로 전달하여 빈 이력서에 병합할 수 있습니다.";
+
+"Date of Birth" = "생년월일";
+
+"Degree" = "학위";
+
+"Delete" = "삭제";
+
+"Delete \"%@\" Resume" = "\"%@\" 이력서 삭제";
+
+"Delete Resume" = "이력서 삭제";
+
+"Delete Resume?" = "이력서를 삭제하시겠습니까?";
+
+"Delete a resume by UUID." = "UUID로 이력서를 삭제합니다.";
+
+"Delete work experience" = "경력 삭제";
+
+"Descipline" = "전공";
+
+"Describe your major in detail, including curriculums and graduation project,etc." = "전공 내용을 자세히 설명하세요. 커리큘럼, 졸업 프로젝트 등을 포함합니다.";
+
+"Describe your responsibilities of your position at school in detail." = "학교에서 맡은 역할의 주요 업무 내용과 책임을 자세히 설명하세요.";
+
+"Describe your topic." = "주제 내용을 간략히 설명하세요.";
+
+"Description" = "설명";
+
+"Desired City" = "희망 근무 도시";
+
+"Desired Position" = "희망 직무";
+
+"Done" = "완료";
+
+"Duplicate" = "복제";
+
+"Edit \"%@\" Resume" = "\"%@\" 이력서 편집";
+
+"Education" = "학력";
+
+"Email" = "이메일";
+
+"Export as PDF" = "PDF로 내보내기";
+
+"Full-time" = "정규직";
+
+"Get Resume" = "이력서 가져오기";
+
+"Get one resume as JSON. Avatar base64 is omitted unless include_avatar is true." = "이력서 하나를 JSON으로 가져옵니다. include_avatar가 true가 아니면 아바타 Base64는 포함되지 않습니다.";
+
+"Graduate Info" = "학교 생활";
+
+"Grok" = "Grok";
+
+"Grok CLI" = "Grok CLI";
+
+"Honors" = "수상 경력";
+
+"Important Reminder ‼️" = "중요 안내 ‼️";
+
+"Industry" = "희망 업계";
+
+"Internship" = "인턴십";
+
+"Introduce the project and show your achievements, such as: \n1 Project background and objectives \n2 Your role in the project \n3 Project performance" = "프로젝트를 소개하고 성과를 어필하세요. 예:\n1. 프로젝트 배경 및 목표\n2. 프로젝트에서의 역할\n3. 프로젝트 성과";
+
+"Job Preferences" = "희망 조건";
+
+"Job Title" = "직무";
+
+"Job Type" = "고용 형태";
+
+"Keywords" = "키워드";
+
+"Label" = "라벨";
+
+"Launch with `--mcp` to speak MCP over stdio. Resume Revise must be open so the MCP process can attach to it." = "`--mcp`를 붙여 실행하면 stdio를 통해 MCP 통신을 합니다. MCP 프로세스가 연결할 수 있도록 Resume Revise를 열어 두어야 합니다.";
+
+"Leadership Position" = "역할";
+
+"Level" = "수준";
+
+"List Resumes" = "이력서 목록 보기";
+
+"List Templates" = "템플릿 목록 보기";
+
+"List all resumes saved in Resume Revise. Returns id, name, job title, and template path." = "Resume Revise에 저장된 모든 이력서를 목록으로 표시합니다. ID, 이름, 직무, 템플릿 경로를 반환합니다.";
+
+"List available resume templates and their path identifiers." = "사용 가능한 이력서 템플릿과 해당 경로 식별자를 목록으로 표시합니다.";
+
+"Location" = "근무지";
+
+"Merge JSON into an existing resume. Nested objects are merged; arrays replace the whole list. Dates use ISO-8601 or YYYY-MM-DD. Do not send avatar unless replacing it." = "기존 이력서에 JSON을 병합합니다. 중첩 객체는 병합되고, 배열은 전체 목록을 대체합니다. 날짜는 ISO-8601 또는 YYYY-MM-DD 형식을 사용하세요. 아바타를 교체하는 경우가 아니면 avatar를 보내지 마세요.";
+
+"Move down" = "아래로 이동";
+
+"Move up" = "위로 이동";
+
+"Name" = "이름";
+
+"New Resume" = "새 이력서";
+
+"Part-time" = "아르바이트";
+
+"Period" = "기간";
+
+"Personal Advantage" = "자기소개";
+
+"Phone Number" = "휴대전화 번호";
+
+"Please enter mobile phone number" = "휴대전화 번호를 입력하세요";
+
+"Please enter the address" = "주소를 입력하세요";
+
+"Please enter the city where you wish to work" = "희망하는 근무 도시를 입력하세요";
+
+"Please enter your name" = "이름을 입력하세요";
+
+"Project Experience" = "프로젝트 경험";
+
+"Project Name" = "프로젝트명";
+
+"Related Company" = "소속 회사";
+
+"Remote" = "원격";
+
+"Resume Maker" = "이력서 메이커";
+
+"Resume: \"%@\"" = "이력서: \"%@\"";
+
+"Sample Chinese Resume" = "중국어 이력서 샘플";
+
+"Sample Data" = "샘플 데이터";
+
+"Sample English Resume" = "영어 이력서 샘플";
+
+"School Honors" = "교내 수상 경력";
+
+"Select a template to create a new resume" = "템플릿을 선택하여 새 이력서를 만드세요";
+
+"Skill Name" = "스킬 이름";
+
+"Skills" = "스킬";
+
+"Skills & Speciality" = "스킬 및 특기";
+
+"Target Salary" = "희망 연봉";
+
+"Template 1" = "템플릿 1";
+
+"Template 10" = "템플릿 10";
+
+"Template 11" = "템플릿 11";
+
+"Template 2" = "템플릿 2";
+
+"Template 3" = "템플릿 3";
+
+"Template 4" = "템플릿 4";
+
+"Template 5" = "템플릿 5";
+
+"Template 6" = "템플릿 6";
+
+"Template 7" = "템플릿 7";
+
+"Template 8" = "템플릿 8";
+
+"Template 9" = "템플릿 9";
+
+"Templates" = "템플릿";
+
+"Then run `grok mcp list`, or open `/mcps` in Grok, to confirm the server is connected." = "그런 다음 `grok mcp list`를 실행하거나, Grok에서 `/mcps`를 열어 서버가 연결되었는지 확인하세요.";
+
+"This is sample template data and will overwrite the current data, please make sure to overwrite the current resume data!" = "이것은 샘플 템플릿 데이터로 현재 데이터를 덮어씁니다. 현재 이력서 데이터를 덮어써도 되는지 확인하세요!";
+
+"Time" = "시간";
+
+"Time Period" = "기간";
+
+"Title" = "제목";
+
+"Topic" = "주제";
+
+"URL" = "URL";
+
+"Update Resume" = "이력서 업데이트";
+
+"Work Experience" = "경력";
+
+"You can add multiple keywords by separating them with a comma or pressing enter." = "쉼표로 구분하거나 Enter 키를 눌러 여러 키워드를 추가할 수 있습니다.";
+
+"xxx@gmail.com" = "xxx@gmail.com";
+
+"y.o." = "세";
+
+"~/.grok/config.toml" = "~/.grok/config.toml";
