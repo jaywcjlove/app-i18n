@@ -1,0 +1,257 @@
+"%lld" = "%lld";
+
+"30k+" = "30k+";
+
+"A brief introduction of yourself. Just show your biggest advantages." = "自分について簡単に紹介し、最大の強みをアピールしましょう。";
+
+"Add Additional Info" = "追加情報を追加";
+
+"Add Education" = "学歴を追加";
+
+"Add Leadership Position" = "役職を追加";
+
+"Add Link" = "リンクを追加";
+
+"Add Project Experience" = "プロジェクト経験を追加";
+
+"Add Resume Revise in Grok with this command, or paste the TOML into ~/.grok/config.toml." = "このコマンドで Grok に Resume Revise を追加するか、TOML を ~/.grok/config.toml に貼り付けてください。";
+
+"Add School Honors" = "学内栄誉を追加";
+
+"Add Skill" = "スキルを追加";
+
+"Add Skills" = "スキルを追加";
+
+"Add Work Experience" = "職務経験を追加";
+
+"Add this to your MCP client config (Claude Desktop, Cursor, and others)." = "これを MCP クライアントの設定（Claude Desktop、Cursor など）に追加してください。";
+
+"Additional Info" = "追加情報";
+
+"Address" = "住所";
+
+"Append a project experience entry to a resume." = "職務経歴書にプロジェクト経験を 1 件追加します。";
+
+"Append a skill. level is 0–100." = "スキルを 1 件追加します。level は 0〜100 です。";
+
+"Append a work experience entry to a resume." = "職務経歴書に職務経験を 1 件追加します。";
+
+"Append an education entry to a resume." = "職務経歴書に学歴を 1 件追加します。";
+
+"Are you sure you want to delete \"%@\"? This cannot be undone." = "「%@」を削除してもよろしいですか？この操作は取り消せません。";
+
+"Basic Info" = "基本情報";
+
+"Cancel" = "キャンセル";
+
+"Command" = "コマンド";
+
+"Company" = "会社名";
+
+"Configuration" = "設定";
+
+"Configure MCP" = "MCP を設定";
+
+"Copied" = "コピーしました";
+
+"Copy" = "コピー";
+
+"Create Resume" = "職務経歴書を作成";
+
+"Create a resume. Optionally pass name, template_path (template01–template11), and json fields to merge onto a blank resume." = "職務経歴書を作成します。name、template_path（template01〜template11）、json フィールドを省略可能で、空白の職務経歴書にマージできます。";
+
+"Date of Birth" = "生年月日";
+
+"Degree" = "学位";
+
+"Delete" = "削除";
+
+"Delete \"%@\" Resume" = "「%@」の職務経歴書を削除";
+
+"Delete Resume" = "職務経歴書を削除";
+
+"Delete Resume?" = "職務経歴書を削除しますか？";
+
+"Delete a resume by UUID." = "UUID で職務経歴書を削除します。";
+
+"Delete work experience" = "職務経験を削除";
+
+"Descipline" = "専攻";
+
+"Describe your major in detail, including curriculums and graduation project,etc." = "専攻の内容を詳しく記入してください。カリキュラムや卒業研究などを含みます。";
+
+"Describe your responsibilities of your position at school in detail." = "在学中に担当した役職の主な業務内容や責任を詳しく記入してください。";
+
+"Describe your topic." = "トピックの内容を簡単に記入してください。";
+
+"Description" = "説明";
+
+"Desired City" = "希望勤務地";
+
+"Desired Position" = "希望職種";
+
+"Done" = "完了";
+
+"Duplicate" = "複製";
+
+"Edit \"%@\" Resume" = "「%@」の職務経歴書を編集";
+
+"Education" = "学歴";
+
+"Email" = "メールアドレス";
+
+"Export as PDF" = "PDF として書き出す";
+
+"Full-time" = "正社員";
+
+"Get Resume" = "職務経歴書を取得";
+
+"Get one resume as JSON. Avatar base64 is omitted unless include_avatar is true." = "職務経歴書を 1 件 JSON として取得します。include_avatar が true でない場合、アバターの Base64 は含まれません。";
+
+"Graduate Info" = "在学状況";
+
+"Grok" = "Grok";
+
+"Grok CLI" = "Grok CLI";
+
+"Honors" = "栄誉";
+
+"Important Reminder ‼️" = "重要なお知らせ ‼️";
+
+"Industry" = "希望業界";
+
+"Internship" = "インターンシップ";
+
+"Introduce the project and show your achievements, such as: \n1 Project background and objectives \n2 Your role in the project \n3 Project performance" = "プロジェクトを紹介し、成果をアピールしてください。例：\n1. プロジェクトの背景と目標\n2. プロジェクトでの役割\n3. プロジェクトの業績";
+
+"Job Preferences" = "希望条件";
+
+"Job Title" = "職種";
+
+"Job Type" = "雇用形態";
+
+"Keywords" = "キーワード";
+
+"Label" = "ラベル";
+
+"Launch with `--mcp` to speak MCP over stdio. Resume Revise must be open so the MCP process can attach to it." = "`--mcp` を付けて起動すると、stdio 経由で MCP 通信を行います。MCP プロセスがアタッチできるよう、Resume Revise を開いたままにしてください。";
+
+"Leadership Position" = "役職";
+
+"Level" = "レベル";
+
+"List Resumes" = "職務経歴書一覧を表示";
+
+"List Templates" = "テンプレート一覧を表示";
+
+"List all resumes saved in Resume Revise. Returns id, name, job title, and template path." = "Resume Revise に保存されたすべての職務経歴書を一覧表示します。ID、名前、職種、テンプレートパスを返します。";
+
+"List available resume templates and their path identifiers." = "利用可能な職務経歴書テンプレートとそのパス識別子を一覧表示します。";
+
+"Location" = "勤務地";
+
+"Merge JSON into an existing resume. Nested objects are merged; arrays replace the whole list. Dates use ISO-8601 or YYYY-MM-DD. Do not send avatar unless replacing it." = "既存の職務経歴書に JSON をマージします。ネストされたオブジェクトはマージされ、配列はリスト全体を置き換えます。日付は ISO-8601 または YYYY-MM-DD 形式を使用してください。アバターを置き換える場合を除き、avatar は送信しないでください。";
+
+"Move down" = "下へ移動";
+
+"Move up" = "上へ移動";
+
+"Name" = "氏名";
+
+"New Resume" = "新しい職務経歴書";
+
+"Part-time" = "アルバイト";
+
+"Period" = "期間";
+
+"Personal Advantage" = "自己 PR";
+
+"Phone Number" = "電話番号";
+
+"Please enter mobile phone number" = "携帯電話番号を入力してください";
+
+"Please enter the address" = "住所を入力してください";
+
+"Please enter the city where you wish to work" = "希望する勤務都市を入力してください";
+
+"Please enter your name" = "氏名を入力してください";
+
+"Project Experience" = "プロジェクト経験";
+
+"Project Name" = "プロジェクト名";
+
+"Related Company" = "所属会社";
+
+"Remote" = "リモート";
+
+"Resume Maker" = "職務経歴書メーカー";
+
+"Resume: \"%@\"" = "職務経歴書：「%@」";
+
+"Sample Chinese Resume" = "中国語の職務経歴書サンプル";
+
+"Sample Data" = "サンプルデータ";
+
+"Sample English Resume" = "英語の職務経歴書サンプル";
+
+"School Honors" = "学内栄誉";
+
+"Select a template to create a new resume" = "テンプレートを選択して新しい職務経歴書を作成";
+
+"Skill Name" = "スキル名";
+
+"Skills" = "スキル";
+
+"Skills & Speciality" = "スキル・特技";
+
+"Target Salary" = "希望月給";
+
+"Template 1" = "テンプレート 1";
+
+"Template 10" = "テンプレート 10";
+
+"Template 11" = "テンプレート 11";
+
+"Template 2" = "テンプレート 2";
+
+"Template 3" = "テンプレート 3";
+
+"Template 4" = "テンプレート 4";
+
+"Template 5" = "テンプレート 5";
+
+"Template 6" = "テンプレート 6";
+
+"Template 7" = "テンプレート 7";
+
+"Template 8" = "テンプレート 8";
+
+"Template 9" = "テンプレート 9";
+
+"Templates" = "テンプレート";
+
+"Then run `grok mcp list`, or open `/mcps` in Grok, to confirm the server is connected." = "その後、`grok mcp list` を実行するか、Grok で `/mcps` を開いて、サーバーが接続されていることを確認してください。";
+
+"This is sample template data and will overwrite the current data, please make sure to overwrite the current resume data!" = "これはサンプルテンプレートデータで、現在のデータを上書きします。現在の職務経歴書データを上書きしてもよいか確認してください！";
+
+"Time" = "時間";
+
+"Time Period" = "期間";
+
+"Title" = "タイトル";
+
+"Topic" = "トピック";
+
+"URL" = "URL";
+
+"Update Resume" = "職務経歴書を更新";
+
+"Work Experience" = "職務経験";
+
+"You can add multiple keywords by separating them with a comma or pressing enter." = "カンマで区切るか、Enter キーを押すことで、複数のキーワードを追加できます。";
+
+"xxx@gmail.com" = "xxx@gmail.com";
+
+"y.o." = "歳";
+
+"~/.grok/config.toml" = "~/.grok/config.toml";
