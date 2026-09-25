@@ -1,0 +1,257 @@
+"%lld" = "%lld";
+
+"30k+" = "30k+";
+
+"A brief introduction of yourself. Just show your biggest advantages." = "介绍自己，说明自己的最大优势，让企业看到你的闪光点";
+
+"Add Additional Info" = "添加附加信息";
+
+"Add Education" = "添加教育经历";
+
+"Add Leadership Position" = "校内职务";
+
+"Add Link" = "添加链接";
+
+"Add Project Experience" = "添加项目经验";
+
+"Add Resume Revise in Grok with this command, or paste the TOML into ~/.grok/config.toml." = "使用此命令在 Grok 中添加 Resume Revise，或将 TOML 粘贴到 ~/.grok/config.toml 中。";
+
+"Add School Honors" = "新增荣誉";
+
+"Add Skill" = "添加技能";
+
+"Add Skills" = "添加技能";
+
+"Add Work Experience" = "添加工作经验";
+
+"Add this to your MCP client config (Claude Desktop, Cursor, and others)." = "将此内容添加到你的 MCP 客户端配置中（Claude Desktop、Cursor 等）。";
+
+"Additional Info" = "附加信息";
+
+"Address" = "地址";
+
+"Append a project experience entry to a resume." = "向简历追加一条项目经历。";
+
+"Append a skill. level is 0–100." = "向简历追加一项技能，等级范围为 0 至 100。";
+
+"Append a work experience entry to a resume." = "向简历追加一条工作经历。";
+
+"Append an education entry to a resume." = "向简历追加一条教育经历。";
+
+"Are you sure you want to delete \"%@\"? This cannot be undone." = "确定要删除“%@”吗？此操作无法撤销。";
+
+"Basic Info" = "基本信息";
+
+"Cancel" = "取消";
+
+"Command" = "命令";
+
+"Company" = "公司";
+
+"Configuration" = "配置";
+
+"Configure MCP" = "配置 MCP";
+
+"Copied" = "已复制";
+
+"Copy" = "复制";
+
+"Create Resume" = "创建简历";
+
+"Create a resume. Optionally pass name, template_path (template01–template11), and json fields to merge onto a blank resume." = "创建简历。可选传入名称、模板路径（template01 至 template11）和 JSON 字段，以合并到空白简历中。";
+
+"Date of Birth" = "生日";
+
+"Degree" = "学历/学位";
+
+"Delete" = "删除";
+
+"Delete \"%@\" Resume" = "删除 \"%@\" 简历";
+
+"Delete Resume" = "删除简历";
+
+"Delete Resume?" = "删除简历？";
+
+"Delete a resume by UUID." = "按 UUID 删除简历。";
+
+"Delete work experience" = "删除工作经验";
+
+"Descipline" = "专业";
+
+"Describe your major in detail, including curriculums and graduation project,etc." = "描述在校期间所学的专业，主要包括课程内容、毕业设计等";
+
+"Describe your responsibilities of your position at school in detail." = "描述在校期间所担任职位的主要工作内容及职责等";
+
+"Describe your topic." = "简单描述添加主题的内容";
+
+"Description" = "描述";
+
+"Desired City" = "期望城市";
+
+"Desired Position" = "期望职位";
+
+"Done" = "Done";
+
+"Duplicate" = "复制";
+
+"Edit \"%@\" Resume" = "编辑 \"%@\" 简历";
+
+"Education" = "教育经历";
+
+"Email" = "邮箱";
+
+"Export as PDF" = "导出PDF";
+
+"Full-time" = "全职";
+
+"Get Resume" = "获取简历";
+
+"Get one resume as JSON. Avatar base64 is omitted unless include_avatar is true." = "以 JSON 获取一份简历。除非 include_avatar 为 true，否则不包含头像 Base64 数据。";
+
+"Graduate Info" = "在校情况";
+
+"Grok" = "Grok";
+
+"Grok CLI" = "Grok CLI";
+
+"Honors" = "荣誉";
+
+"Important Reminder ‼️" = "重要提示‼️";
+
+"Industry" = "期望行业";
+
+"Internship" = "实习";
+
+"Introduce the project and show your achievements, such as: \n1 Project background and objectives \n2 Your role in the project \n3 Project performance" = "介绍该项目，展示你的成果，如：\n1. 项目背景及目标\n2. 你在项目中的角色\n3. 项目业绩";
+
+"Job Preferences" = "求职意向";
+
+"Job Title" = "职位";
+
+"Job Type" = "工作类型";
+
+"Keywords" = "关键字";
+
+"Label" = "标签";
+
+"Launch with `--mcp` to speak MCP over stdio. Resume Revise must be open so the MCP process can attach to it." = "使用 `--mcp` 启动以通过 stdio 进行 MCP 通信。必须保持 Resume Revise 打开，MCP 进程才能附加到它。";
+
+"Leadership Position" = "职位";
+
+"Level" = "级别";
+
+"List Resumes" = "列出简历";
+
+"List Templates" = "列出模板";
+
+"List all resumes saved in Resume Revise. Returns id, name, job title, and template path." = "列出 Resume Revise 中保存的所有简历，返回 ID、名称、职位名称和模板路径。";
+
+"List available resume templates and their path identifiers." = "列出可用的简历模板及其路径标识。";
+
+"Location" = "地点";
+
+"Merge JSON into an existing resume. Nested objects are merged; arrays replace the whole list. Dates use ISO-8601 or YYYY-MM-DD. Do not send avatar unless replacing it." = "将 JSON 合并到现有简历。嵌套对象会合并，数组会整体替换。日期使用 ISO-8601 或 YYYY-MM-DD 格式；除非要替换头像，否则不要发送 avatar。";
+
+"Move down" = "下移";
+
+"Move up" = "上移";
+
+"Name" = "姓名";
+
+"New Resume" = "新建简历";
+
+"Part-time" = "兼职";
+
+"Period" = "时间";
+
+"Personal Advantage" = "个人优势";
+
+"Phone Number" = "手机号码";
+
+"Please enter mobile phone number" = "请输入手机号码";
+
+"Please enter the address" = "请输入地址";
+
+"Please enter the city where you wish to work" = "请输入您希望工作的城市";
+
+"Please enter your name" = "请输入您的姓名";
+
+"Project Experience" = "项目经验";
+
+"Project Name" = "项目名称";
+
+"Related Company" = "所属公司";
+
+"Remote" = "远程";
+
+"Resume Maker" = "简历制作";
+
+"Resume: \"%@\"" = "简历: \"%@\"";
+
+"Sample Chinese Resume" = "中文简历示例";
+
+"Sample Data" = "示例数据";
+
+"Sample English Resume" = "英文简历示例";
+
+"School Honors" = "校内荣誉";
+
+"Select a template to create a new resume" = "选择模板创建新简历";
+
+"Skill Name" = "技能名称";
+
+"Skills" = "技能";
+
+"Skills & Speciality" = "技能特长";
+
+"Target Salary" = "期望月薪";
+
+"Template 1" = "模板 1";
+
+"Template 10" = "模板 10";
+
+"Template 11" = "模板 11";
+
+"Template 2" = "模板 2";
+
+"Template 3" = "模板 3";
+
+"Template 4" = "模板 4";
+
+"Template 5" = "模板 5";
+
+"Template 6" = "模板 6";
+
+"Template 7" = "模板 7";
+
+"Template 8" = "模板 8";
+
+"Template 9" = "模板 9";
+
+"Templates" = "模板";
+
+"Then run `grok mcp list`, or open `/mcps` in Grok, to confirm the server is connected." = "然后运行 `grok mcp list`，或在 Grok 中打开 `/mcps`，确认服务器已连接。";
+
+"This is sample template data and will overwrite the current data, please make sure to overwrite the current resume data!" = "这是示例模板数据，将覆盖当前数据，请确认是否覆盖当前简历数据！";
+
+"Time" = "时间";
+
+"Time Period" = "时间";
+
+"Title" = "标题";
+
+"Topic" = "主题";
+
+"URL" = "URL";
+
+"Update Resume" = "更新简历";
+
+"Work Experience" = "工作经验";
+
+"You can add multiple keywords by separating them with a comma or pressing enter." = "您可以通过用逗号分隔或按 Enter 键来添加多个关键字。";
+
+"xxx@gmail.com" = "xxx@gmail.com";
+
+"y.o." = "岁";
+
+"~/.grok/config.toml" = "~/.grok/config.toml";
