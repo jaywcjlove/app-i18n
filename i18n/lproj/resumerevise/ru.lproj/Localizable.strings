@@ -1,0 +1,257 @@
+"%lld" = "%lld";
+
+"30k+" = "30k+";
+
+"A brief introduction of yourself. Just show your biggest advantages." = "Кратко представьтесь и покажите свои сильнейшие стороны.";
+
+"Add Additional Info" = "Добавить доп. информацию";
+
+"Add Education" = "Добавить образование";
+
+"Add Leadership Position" = "Добавить должность";
+
+"Add Link" = "Добавить ссылку";
+
+"Add Project Experience" = "Добавить опыт проектов";
+
+"Add Resume Revise in Grok with this command, or paste the TOML into ~/.grok/config.toml." = "Добавьте Resume Revise в Grok этой командой или вставьте TOML в ~/.grok/config.toml.";
+
+"Add School Honors" = "Добавить награду";
+
+"Add Skill" = "Добавить навык";
+
+"Add Skills" = "Добавить навыки";
+
+"Add Work Experience" = "Добавить опыт работы";
+
+"Add this to your MCP client config (Claude Desktop, Cursor, and others)." = "Добавьте это в конфигурацию вашего MCP-клиента (Claude Desktop, Cursor и другие).";
+
+"Additional Info" = "Дополнительная информация";
+
+"Address" = "Адрес";
+
+"Append a project experience entry to a resume." = "Добавляет запись об опыте проектов в резюме.";
+
+"Append a skill. level is 0–100." = "Добавляет навык. level — от 0 до 100.";
+
+"Append a work experience entry to a resume." = "Добавляет запись об опыте работы в резюме.";
+
+"Append an education entry to a resume." = "Добавляет запись об образовании в резюме.";
+
+"Are you sure you want to delete \"%@\"? This cannot be undone." = "Вы действительно хотите удалить «%@»? Это действие нельзя отменить.";
+
+"Basic Info" = "Основная информация";
+
+"Cancel" = "Отмена";
+
+"Command" = "Команда";
+
+"Company" = "Компания";
+
+"Configuration" = "Конфигурация";
+
+"Configure MCP" = "Настроить MCP";
+
+"Copied" = "Скопировано";
+
+"Copy" = "Копировать";
+
+"Create Resume" = "Создать резюме";
+
+"Create a resume. Optionally pass name, template_path (template01–template11), and json fields to merge onto a blank resume." = "Создаёт резюме. Можно дополнительно передать name, template_path (template01–template11) и поля json для объединения с пустым резюме.";
+
+"Date of Birth" = "Дата рождения";
+
+"Degree" = "Степень";
+
+"Delete" = "Удалить";
+
+"Delete \"%@\" Resume" = "Удалить резюме «%@»";
+
+"Delete Resume" = "Удалить резюме";
+
+"Delete Resume?" = "Удалить резюме?";
+
+"Delete a resume by UUID." = "Удаляет резюме по UUID.";
+
+"Delete work experience" = "Удалить опыт работы";
+
+"Descipline" = "Специальность";
+
+"Describe your major in detail, including curriculums and graduation project,etc." = "Подробно опишите свою специальность, включая изучаемые дисциплины, выпускной проект и т. д.";
+
+"Describe your responsibilities of your position at school in detail." = "Подробно опишите обязанности и задачи занимаемой должности во время учёбы.";
+
+"Describe your topic." = "Кратко опишите свою тему.";
+
+"Description" = "Описание";
+
+"Desired City" = "Желаемый город";
+
+"Desired Position" = "Желаемая должность";
+
+"Done" = "Готово";
+
+"Duplicate" = "Дублировать";
+
+"Edit \"%@\" Resume" = "Редактировать резюме «%@»";
+
+"Education" = "Образование";
+
+"Email" = "Эл. почта";
+
+"Export as PDF" = "Экспортировать в PDF";
+
+"Full-time" = "Полная занятость";
+
+"Get Resume" = "Получить резюме";
+
+"Get one resume as JSON. Avatar base64 is omitted unless include_avatar is true." = "Получает одно резюме в формате JSON. Base64 аватара опускается, если include_avatar не равен true.";
+
+"Graduate Info" = "Учебная деятельность";
+
+"Grok" = "Grok";
+
+"Grok CLI" = "Grok CLI";
+
+"Honors" = "Награды";
+
+"Important Reminder ‼️" = "Важное напоминание ‼️";
+
+"Industry" = "Желаемая отрасль";
+
+"Internship" = "Стажировка";
+
+"Introduce the project and show your achievements, such as: \n1 Project background and objectives \n2 Your role in the project \n3 Project performance" = "Представьте проект и покажите свои достижения, например:\n1. Предыстория и цели проекта\n2. Ваша роль в проекте\n3. Результаты проекта";
+
+"Job Preferences" = "Пожелания к работе";
+
+"Job Title" = "Должность";
+
+"Job Type" = "Тип занятости";
+
+"Keywords" = "Ключевые слова";
+
+"Label" = "Метка";
+
+"Launch with `--mcp` to speak MCP over stdio. Resume Revise must be open so the MCP process can attach to it." = "Запустите с `--mcp`, чтобы обмениваться данными MCP через stdio. Resume Revise должен быть открыт, чтобы процесс MCP мог к нему подключиться.";
+
+"Leadership Position" = "Занимаемая должность";
+
+"Level" = "Уровень";
+
+"List Resumes" = "Список резюме";
+
+"List Templates" = "Список шаблонов";
+
+"List all resumes saved in Resume Revise. Returns id, name, job title, and template path." = "Выводит список всех резюме, сохранённых в Resume Revise. Возвращает идентификатор, имя, должность и путь к шаблону.";
+
+"List available resume templates and their path identifiers." = "Выводит список доступных шаблонов резюме и их идентификаторов путей.";
+
+"Location" = "Место";
+
+"Merge JSON into an existing resume. Nested objects are merged; arrays replace the whole list. Dates use ISO-8601 or YYYY-MM-DD. Do not send avatar unless replacing it." = "Объединяет JSON с существующим резюме. Вложенные объекты объединяются; массивы заменяют весь список. Даты используйте в формате ISO-8601 или ГГГГ-ММ-ДД. Не отправляйте avatar, если не хотите его заменить.";
+
+"Move down" = "Вниз";
+
+"Move up" = "Вверх";
+
+"Name" = "Имя";
+
+"New Resume" = "Новое резюме";
+
+"Part-time" = "Частичная занятость";
+
+"Period" = "Период";
+
+"Personal Advantage" = "Личные преимущества";
+
+"Phone Number" = "Номер телефона";
+
+"Please enter mobile phone number" = "Введите номер мобильного телефона";
+
+"Please enter the address" = "Введите адрес";
+
+"Please enter the city where you wish to work" = "Введите город, в котором хотите работать";
+
+"Please enter your name" = "Введите ваше имя";
+
+"Project Experience" = "Опыт проектов";
+
+"Project Name" = "Название проекта";
+
+"Related Company" = "Связанная компания";
+
+"Remote" = "Удалённо";
+
+"Resume Maker" = "Конструктор резюме";
+
+"Resume: \"%@\"" = "Резюме: «%@»";
+
+"Sample Chinese Resume" = "Пример резюме на китайском";
+
+"Sample Data" = "Пример данных";
+
+"Sample English Resume" = "Пример резюме на английском";
+
+"School Honors" = "Награды за учёбу";
+
+"Select a template to create a new resume" = "Выберите шаблон, чтобы создать новое резюме";
+
+"Skill Name" = "Название навыка";
+
+"Skills" = "Навыки";
+
+"Skills & Speciality" = "Навыки и специализация";
+
+"Target Salary" = "Желаемая зарплата";
+
+"Template 1" = "Шаблон 1";
+
+"Template 10" = "Шаблон 10";
+
+"Template 11" = "Шаблон 11";
+
+"Template 2" = "Шаблон 2";
+
+"Template 3" = "Шаблон 3";
+
+"Template 4" = "Шаблон 4";
+
+"Template 5" = "Шаблон 5";
+
+"Template 6" = "Шаблон 6";
+
+"Template 7" = "Шаблон 7";
+
+"Template 8" = "Шаблон 8";
+
+"Template 9" = "Шаблон 9";
+
+"Templates" = "Шаблоны";
+
+"Then run `grok mcp list`, or open `/mcps` in Grok, to confirm the server is connected." = "Затем выполните `grok mcp list` или откройте `/mcps` в Grok, чтобы убедиться, что сервер подключён.";
+
+"This is sample template data and will overwrite the current data, please make sure to overwrite the current resume data!" = "Это пример данных шаблона, он перезапишет текущие данные. Убедитесь, что можно перезаписать данные текущего резюме!";
+
+"Time" = "Время";
+
+"Time Period" = "Период";
+
+"Title" = "Заголовок";
+
+"Topic" = "Тема";
+
+"URL" = "URL";
+
+"Update Resume" = "Обновить резюме";
+
+"Work Experience" = "Опыт работы";
+
+"You can add multiple keywords by separating them with a comma or pressing enter." = "Можно добавить несколько ключевых слов, разделяя их запятой или нажимая Enter.";
+
+"xxx@gmail.com" = "xxx@gmail.com";
+
+"y.o." = "лет";
+
+"~/.grok/config.toml" = "~/.grok/config.toml";

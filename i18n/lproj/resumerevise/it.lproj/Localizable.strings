@@ -1,0 +1,257 @@
+"%lld" = "%lld";
+
+"30k+" = "30k+";
+
+"A brief introduction of yourself. Just show your biggest advantages." = "Presentati brevemente e metti in risalto i tuoi punti di forza principali.";
+
+"Add Additional Info" = "Aggiungi informazioni aggiuntive";
+
+"Add Education" = "Aggiungi istruzione";
+
+"Add Leadership Position" = "Aggiungi ruolo ricoperto";
+
+"Add Link" = "Aggiungi link";
+
+"Add Project Experience" = "Aggiungi esperienza di progetto";
+
+"Add Resume Revise in Grok with this command, or paste the TOML into ~/.grok/config.toml." = "Aggiungi Resume Revise in Grok con questo comando, oppure incolla il TOML in ~/.grok/config.toml.";
+
+"Add School Honors" = "Aggiungi riconoscimento scolastico";
+
+"Add Skill" = "Aggiungi competenza";
+
+"Add Skills" = "Aggiungi competenze";
+
+"Add Work Experience" = "Aggiungi esperienza lavorativa";
+
+"Add this to your MCP client config (Claude Desktop, Cursor, and others)." = "Aggiungi questo alla configurazione del tuo client MCP (Claude Desktop, Cursor e altri).";
+
+"Additional Info" = "Informazioni aggiuntive";
+
+"Address" = "Indirizzo";
+
+"Append a project experience entry to a resume." = "Aggiunge una voce di esperienza di progetto a un curriculum.";
+
+"Append a skill. level is 0–100." = "Aggiunge una competenza. level è compreso tra 0 e 100.";
+
+"Append a work experience entry to a resume." = "Aggiunge una voce di esperienza lavorativa a un curriculum.";
+
+"Append an education entry to a resume." = "Aggiunge una voce di istruzione a un curriculum.";
+
+"Are you sure you want to delete \"%@\"? This cannot be undone." = "Vuoi davvero eliminare «%@»? Questa azione non può essere annullata.";
+
+"Basic Info" = "Informazioni di base";
+
+"Cancel" = "Annulla";
+
+"Command" = "Comando";
+
+"Company" = "Azienda";
+
+"Configuration" = "Configurazione";
+
+"Configure MCP" = "Configura MCP";
+
+"Copied" = "Copiato";
+
+"Copy" = "Copia";
+
+"Create Resume" = "Crea curriculum";
+
+"Create a resume. Optionally pass name, template_path (template01–template11), and json fields to merge onto a blank resume." = "Crea un curriculum. Puoi passare facoltativamente name, template_path (template01–template11) e campi json da unire a un curriculum vuoto.";
+
+"Date of Birth" = "Data di nascita";
+
+"Degree" = "Titolo di studio";
+
+"Delete" = "Elimina";
+
+"Delete \"%@\" Resume" = "Elimina curriculum «%@»";
+
+"Delete Resume" = "Elimina curriculum";
+
+"Delete Resume?" = "Eliminare il curriculum?";
+
+"Delete a resume by UUID." = "Elimina un curriculum in base all'UUID.";
+
+"Delete work experience" = "Elimina esperienza lavorativa";
+
+"Descipline" = "Corso di studi";
+
+"Describe your major in detail, including curriculums and graduation project,etc." = "Descrivi in dettaglio il tuo corso di studi, inclusi gli esami seguiti, la tesi di laurea, ecc.";
+
+"Describe your responsibilities of your position at school in detail." = "Descrivi in dettaglio i compiti e le responsabilità del ruolo ricoperto durante gli studi.";
+
+"Describe your topic." = "Descrivi brevemente il tuo argomento.";
+
+"Description" = "Descrizione";
+
+"Desired City" = "Città desiderata";
+
+"Desired Position" = "Posizione desiderata";
+
+"Done" = "Fine";
+
+"Duplicate" = "Duplica";
+
+"Edit \"%@\" Resume" = "Modifica curriculum «%@»";
+
+"Education" = "Istruzione";
+
+"Email" = "E-mail";
+
+"Export as PDF" = "Esporta come PDF";
+
+"Full-time" = "Tempo pieno";
+
+"Get Resume" = "Ottieni curriculum";
+
+"Get one resume as JSON. Avatar base64 is omitted unless include_avatar is true." = "Ottiene un curriculum in formato JSON. Il Base64 dell'avatar viene omesso, a meno che include_avatar non sia true.";
+
+"Graduate Info" = "Percorso di studi";
+
+"Grok" = "Grok";
+
+"Grok CLI" = "Grok CLI";
+
+"Honors" = "Riconoscimenti";
+
+"Important Reminder ‼️" = "Promemoria importante ‼️";
+
+"Industry" = "Settore desiderato";
+
+"Internship" = "Tirocinio";
+
+"Introduce the project and show your achievements, such as: \n1 Project background and objectives \n2 Your role in the project \n3 Project performance" = "Presenta il progetto e mostra i tuoi risultati, ad esempio:\n1. Contesto e obiettivi del progetto\n2. Il tuo ruolo nel progetto\n3. Risultati del progetto";
+
+"Job Preferences" = "Preferenze lavorative";
+
+"Job Title" = "Titolo di lavoro";
+
+"Job Type" = "Tipo di contratto";
+
+"Keywords" = "Parole chiave";
+
+"Label" = "Etichetta";
+
+"Launch with `--mcp` to speak MCP over stdio. Resume Revise must be open so the MCP process can attach to it." = "Avvia con `--mcp` per comunicare via MCP su stdio. Resume Revise deve essere aperto affinché il processo MCP possa collegarvisi.";
+
+"Leadership Position" = "Ruolo ricoperto";
+
+"Level" = "Livello";
+
+"List Resumes" = "Elenca curriculum";
+
+"List Templates" = "Elenca modelli";
+
+"List all resumes saved in Resume Revise. Returns id, name, job title, and template path." = "Elenca tutti i curriculum salvati in Resume Revise. Restituisce id, nome, titolo di lavoro e percorso del modello.";
+
+"List available resume templates and their path identifiers." = "Elenca i modelli di curriculum disponibili e i relativi identificatori di percorso.";
+
+"Location" = "Luogo";
+
+"Merge JSON into an existing resume. Nested objects are merged; arrays replace the whole list. Dates use ISO-8601 or YYYY-MM-DD. Do not send avatar unless replacing it." = "Unisce del JSON in un curriculum esistente. Gli oggetti annidati vengono uniti; gli array sostituiscono l'intera lista. Le date usano il formato ISO-8601 o AAAA-MM-GG. Non inviare avatar, a meno che tu non voglia sostituirlo.";
+
+"Move down" = "Sposta giù";
+
+"Move up" = "Sposta su";
+
+"Name" = "Nome";
+
+"New Resume" = "Nuovo curriculum";
+
+"Part-time" = "Tempo parziale";
+
+"Period" = "Periodo";
+
+"Personal Advantage" = "Punti di forza personali";
+
+"Phone Number" = "Numero di telefono";
+
+"Please enter mobile phone number" = "Inserisci il numero di cellulare";
+
+"Please enter the address" = "Inserisci l'indirizzo";
+
+"Please enter the city where you wish to work" = "Inserisci la città in cui desideri lavorare";
+
+"Please enter your name" = "Inserisci il tuo nome";
+
+"Project Experience" = "Esperienza di progetto";
+
+"Project Name" = "Nome del progetto";
+
+"Related Company" = "Azienda di riferimento";
+
+"Remote" = "Da remoto";
+
+"Resume Maker" = "Creatore di curriculum";
+
+"Resume: \"%@\"" = "Curriculum: «%@»";
+
+"Sample Chinese Resume" = "Curriculum di esempio in cinese";
+
+"Sample Data" = "Dati di esempio";
+
+"Sample English Resume" = "Curriculum di esempio in inglese";
+
+"School Honors" = "Riconoscimenti scolastici";
+
+"Select a template to create a new resume" = "Seleziona un modello per creare un nuovo curriculum";
+
+"Skill Name" = "Nome della competenza";
+
+"Skills" = "Competenze";
+
+"Skills & Speciality" = "Competenze e specialità";
+
+"Target Salary" = "Retribuzione desiderata";
+
+"Template 1" = "Modello 1";
+
+"Template 10" = "Modello 10";
+
+"Template 11" = "Modello 11";
+
+"Template 2" = "Modello 2";
+
+"Template 3" = "Modello 3";
+
+"Template 4" = "Modello 4";
+
+"Template 5" = "Modello 5";
+
+"Template 6" = "Modello 6";
+
+"Template 7" = "Modello 7";
+
+"Template 8" = "Modello 8";
+
+"Template 9" = "Modello 9";
+
+"Templates" = "Modelli";
+
+"Then run `grok mcp list`, or open `/mcps` in Grok, to confirm the server is connected." = "Poi esegui `grok mcp list`, oppure apri `/mcps` in Grok, per confermare che il server sia collegato.";
+
+"This is sample template data and will overwrite the current data, please make sure to overwrite the current resume data!" = "Questi sono dati di esempio del modello e sovrascriveranno i dati attuali. Assicurati di voler sovrascrivere i dati del curriculum corrente!";
+
+"Time" = "Tempo";
+
+"Time Period" = "Periodo";
+
+"Title" = "Titolo";
+
+"Topic" = "Argomento";
+
+"URL" = "URL";
+
+"Update Resume" = "Aggiorna curriculum";
+
+"Work Experience" = "Esperienza lavorativa";
+
+"You can add multiple keywords by separating them with a comma or pressing enter." = "Puoi aggiungere più parole chiave separandole con una virgola o premendo Invio.";
+
+"xxx@gmail.com" = "xxx@gmail.com";
+
+"y.o." = "anni";
+
+"~/.grok/config.toml" = "~/.grok/config.toml";
