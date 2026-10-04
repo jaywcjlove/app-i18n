@@ -207,8 +207,6 @@
 
 "Free" = "Gratuit";
 
-"Free Apps" = "Applications gratuites";
-
 "General" = "Général";
 
 "Go Settings" = "Aller aux paramètres";
@@ -246,8 +244,6 @@
 "If the issue persists, please restart the application and recheck for any permission issues." = "Si le problème persiste, veuillez redémarrer l'application et revérifier tout problème d'autorisation.";
 
 "In Finder" = "Dans le Finder";
-
-"In macOS 26+, if access to the root directory (%@) or external devices (e.g., USB drives) is authorized, reauthorization is required after restarting the system. However, directories under user directories (e.g., \"%@\") do not require reauthorization. This is a security policy under sandbox mode, and there is currently no perfect solution." = "Sous macOS 26+, si l'accès au répertoire racine (%1$@) ou aux périphériques externes (par exemple, clés USB) est autorisé, une nouvelle autorisation est requise après le redémarrage du système. Cependant, les répertoires sous les répertoires d'utilisateurs (par exemple, \"%2$@\") ne nécessitent pas de réautorisation. Il s’agit d’une politique de sécurité en mode sandbox, et il n’existe actuellement aucune solution parfaite.";
 
 "Includes right-click menu options like delete and copy" = "Comprend des options de menu contextuel telles que supprimer et copier";
 
@@ -295,6 +291,8 @@
 "OK" = "D'ACCORD";
 
 "Official Website" = "Site officiel";
+
+"On macOS 26 and later, please grant access to the user directory (e.g. \"%@\") to ensure the app can access files properly. If access to the root directory (%@) or external devices (such as USB drives) is required, the corresponding permissions must also be granted; these permissions may need to be reauthorized after a system restart. On macOS 27, even if \"%@\" has already been authorized, accessing the Desktop directory (\"%@\") may still require separate authorization. Therefore, please add both \"%@\" and \"%@\". This behavior is caused by macOS sandbox security policies, and there is currently no perfect workaround." = "Sous macOS 26 et versions ultérieures, veuillez autoriser l’accès au répertoire de l’utilisateur (par ex. \"%1$@\") afin que l’app puisse accéder correctement aux fichiers. Si l’accès au répertoire racine (%2$@) ou à des périphériques externes (tels que des clés USB) est nécessaire, les autorisations correspondantes doivent également être accordées ; elles devront peut-être être réaccordées après un redémarrage du système. Sous macOS 27, même si \"%3$@\" a déjà été autorisé, l’accès au dossier Bureau (\"%4$@\") peut nécessiter une autorisation distincte. Veuillez donc ajouter à la fois \"%5$@\" et \"%6$@\". Ce comportement est dû aux règles de sécurité du sandbox de macOS et il n’existe actuellement aucune solution de contournement parfaite.";
 
 "Open Git Remote" = "Ouvrir Git Remote";
 

@@ -207,8 +207,6 @@
 
 "Free" = "無料";
 
-"Free Apps" = "無料アプリ";
-
 "General" = "一般";
 
 "Go Settings" = "設定に進む";
@@ -246,8 +244,6 @@
 "If the issue persists, please restart the application and recheck for any permission issues." = "問題が解決しない場合は、アプリケーションを再起動し、権限の問題がないか再確認してください。";
 
 "In Finder" = "ファインダー内";
-
-"In macOS 26+, if access to the root directory (%@) or external devices (e.g., USB drives) is authorized, reauthorization is required after restarting the system. However, directories under user directories (e.g., \"%@\") do not require reauthorization. This is a security policy under sandbox mode, and there is currently no perfect solution." = "macOS 26 以降では、ルート ディレクトリ (%1$@) または外部デバイス (USB ドライブなど) へのアクセスが認証されている場合、システムの再起動後に再認証が必要です。ただし、ユーザー ディレクトリの下のディレクトリ (\"%2$@\" など) には再認証は必要ありません。これはサンドボックス モードでのセキュリティ ポリシーであり、現時点では完全な解決策はありません。";
 
 "Includes right-click menu options like delete and copy" = "削除やコピーなどの右クリック メニュー オプションが含まれています";
 
@@ -295,6 +291,8 @@
 "OK" = "わかりました";
 
 "Official Website" = "公式ウェブサイト";
+
+"On macOS 26 and later, please grant access to the user directory (e.g. \"%@\") to ensure the app can access files properly. If access to the root directory (%@) or external devices (such as USB drives) is required, the corresponding permissions must also be granted; these permissions may need to be reauthorized after a system restart. On macOS 27, even if \"%@\" has already been authorized, accessing the Desktop directory (\"%@\") may still require separate authorization. Therefore, please add both \"%@\" and \"%@\". This behavior is caused by macOS sandbox security policies, and there is currently no perfect workaround." = "macOS 26以降では、アプリがファイルに正しくアクセスできるよう、ユーザディレクトリ（例: \"%1$@\"）へのアクセスを許可してください。ルートディレクトリ（%2$@）や外部デバイス（USBドライブなど）へのアクセスが必要な場合は、それぞれの権限も許可する必要があります。これらの権限はシステム再起動後に再度許可が必要になる場合があります。macOS 27では、「%3$@」がすでに許可されていても、デスクトップディレクトリ（\"%4$@\"）へのアクセスには別途許可が必要な場合があります。そのため、「%5$@」と「%6$@」の両方を追加してください。この動作はmacOSのサンドボックスセキュリティポリシーによるもので、現時点で完全な回避策はありません。";
 
 "Open Git Remote" = "Git リモートを開く";
 

@@ -207,8 +207,6 @@
 
 "Free" = "免费";
 
-"Free Apps" = "免费应用";
-
 "General" = "常规";
 
 "Go Settings" = "去设置";
@@ -246,8 +244,6 @@
 "If the issue persists, please restart the application and recheck for any permission issues." = "如果问题仍然存在，请重启应用并重新检查权限是否正常。";
 
 "In Finder" = "在访达中显示";
-
-"In macOS 26+, if access to the root directory (%@) or external devices (e.g., USB drives) is authorized, reauthorization is required after restarting the system. However, directories under user directories (e.g., \"%@\") do not require reauthorization. This is a security policy under sandbox mode, and there is currently no perfect solution." = "在 macOS 26+ 中，如果授权访问磁盘根目录(%1$@)或外部设备（如U盘），重启系统后需要重新授权。但在用户目录（“%2$@”）下的文件夹，则无需再次授权。这是沙盒模式的安全策略，目前尚无理想的解决方案。";
 
 "Includes right-click menu options like delete and copy" = "包含删除拷贝等右键菜单";
 
@@ -295,6 +291,8 @@
 "OK" = "确定";
 
 "Official Website" = "官方网站";
+
+"On macOS 26 and later, please grant access to the user directory (e.g. \"%@\") to ensure the app can access files properly. If access to the root directory (%@) or external devices (such as USB drives) is required, the corresponding permissions must also be granted; these permissions may need to be reauthorized after a system restart. On macOS 27, even if \"%@\" has already been authorized, accessing the Desktop directory (\"%@\") may still require separate authorization. Therefore, please add both \"%@\" and \"%@\". This behavior is caused by macOS sandbox security policies, and there is currently no perfect workaround." = "在 macOS 26 及更高版本中，请授予应用访问用户目录的权限（例如 \"%1$@\"），以确保应用能够正常访问文件。如果需要访问根目录（%2$@）或外部设备（例如 USB 驱动器），也必须授予相应权限；系统重新启动后可能需要重新授权。在 macOS 27 中，即使 \"%3$@\" 已获授权，访问桌面目录（\"%4$@\"）仍可能需要单独授权。因此，请同时添加 \"%5$@\" 和 \"%6$@\"。这是 macOS 沙盒安全策略导致的行为，目前没有完美的解决方法。";
 
 "Open Git Remote" = "打开 Git 远程链接";
 

@@ -5896,58 +5896,6 @@
         }
       }
     },
-    "Free Apps" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kostenlose Apps"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Applications gratuites"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "App gratuite"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "無料アプリ"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "무료 앱"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Бесплатные приложения"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "免费应用"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "免費應用"
-          }
-        }
-      }
-    },
     "General" : {
       "localizations" : {
         "de" : {
@@ -6932,64 +6880,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在訪達中顯示"
-          }
-        }
-      }
-    },
-    "In macOS 26+, if access to the root directory (%@) or external devices (e.g., USB drives) is authorized, reauthorization is required after restarting the system. However, directories under user directories (e.g., \"%@\") do not require reauthorization. This is a security policy under sandbox mode, and there is currently no perfect solution." : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wenn in macOS 26+ der Zugriff auf das Stammverzeichnis (%1$@) oder externe Geräte (z. B. USB-Laufwerke) autorisiert ist, ist nach dem Neustart des Systems eine erneute Autorisierung erforderlich. Für Verzeichnisse unter Benutzerverzeichnissen (z. B. „%2$@“) ist jedoch keine erneute Autorisierung erforderlich. Dies ist eine Sicherheitsrichtlinie im Sandbox-Modus und es gibt derzeit keine perfekte Lösung."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "In macOS 26+, if access to the root directory (%1$@) or external devices (e.g., USB drives) is authorized, reauthorization is required after restarting the system. However, directories under user directories (e.g., \"%2$@\") do not require reauthorization. This is a security policy under sandbox mode, and there is currently no perfect solution."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sous macOS 26+, si l'accès au répertoire racine (%1$@) ou aux périphériques externes (par exemple, clés USB) est autorisé, une nouvelle autorisation est requise après le redémarrage du système. Cependant, les répertoires sous les répertoires d'utilisateurs (par exemple, \"%2$@\") ne nécessitent pas de réautorisation. Il s’agit d’une politique de sécurité en mode sandbox, et il n’existe actuellement aucune solution parfaite."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "In macOS 26+, se è stato autorizzato l'accesso alla directory principale (%1$@) o a dispositivi esterni (ad es. unità USB), sarà necessaria una nuova autorizzazione dopo il riavvio del sistema. Le directory all'interno della cartella utente (ad es. \"%2$@\") non richiedono invece una nuova autorizzazione. Si tratta di una politica di sicurezza imposta dalla modalità sandbox, per la quale al momento non esiste una soluzione definitiva."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "macOS 26 以降では、ルート ディレクトリ (%1$@) または外部デバイス (USB ドライブなど) へのアクセスが認証されている場合、システムの再起動後に再認証が必要です。ただし、ユーザー ディレクトリの下のディレクトリ (\"%2$@\" など) には再認証は必要ありません。これはサンドボックス モードでのセキュリティ ポリシーであり、現時点では完全な解決策はありません。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "macOS 26+에서는 루트 디렉터리(%1$@) 또는 외부 장치(예: USB 드라이브)에 대한 액세스가 인증된 경우 시스템을 다시 시작한 후 재인증이 필요합니다. 그러나 사용자 디렉터리 아래의 디렉터리(예: \"%2$@\")에는 재인증이 필요하지 않습니다. 이는 샌드박스 모드에서의 보안 정책으로, 현재 완벽한 솔루션은 없습니다."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "В macOS 26+, если доступ к корневому каталогу (%1$@) или внешним устройствам (например, USB-накопителям) разрешен, повторная авторизация требуется после перезапуска системы. Однако каталоги в каталогах пользователей (например, «%2$@») не требуют повторной авторизации. Это политика безопасности в режиме «песочницы», и идеального решения на данный момент не существует."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "在 macOS 26+ 中，如果授权访问磁盘根目录(%1$@)或外部设备（如U盘），重启系统后需要重新授权。但在用户目录（“%2$@”）下的文件夹，则无需再次授权。这是沙盒模式的安全策略，目前尚无理想的解决方案。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "在 macOS 26+ 中，如果授權訪問磁碟根目錄(%1$@)或外部裝置（如隨身碟），重啟系統後需要重新授權。但在使用者目錄（“%2$@”）下的資料夾，則無需再次授權。這是沙盒模式的安全策略，目前尚無理想的解決方案。"
           }
         }
       }
@@ -8187,6 +8077,64 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "確定"
+          }
+        }
+      }
+    },
+    "On macOS 26 and later, please grant access to the user directory (e.g. \"%@\") to ensure the app can access files properly. If access to the root directory (%@) or external devices (such as USB drives) is required, the corresponding permissions must also be granted; these permissions may need to be reauthorized after a system restart. On macOS 27, even if \"%@\" has already been authorized, accessing the Desktop directory (\"%@\") may still require separate authorization. Therefore, please add both \"%@\" and \"%@\". This behavior is caused by macOS sandbox security policies, and there is currently no perfect workaround." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unter macOS 26 und neuer gewähren Sie bitte Zugriff auf das Benutzerverzeichnis (z. B. \"%1$@\"), damit die App ordnungsgemäß auf Dateien zugreifen kann. Wenn Zugriff auf das Stammverzeichnis (%2$@) oder externe Geräte (z. B. USB-Laufwerke) erforderlich ist, müssen auch die entsprechenden Berechtigungen erteilt werden; nach einem Neustart des Systems müssen diese Berechtigungen möglicherweise erneut erteilt werden. Unter macOS 27 kann für den Zugriff auf den Schreibtischordner (\"%4$@\") eine separate Genehmigung erforderlich sein, selbst wenn \"%3$@\" bereits genehmigt wurde. Fügen Sie daher bitte sowohl \"%5$@\" als auch \"%6$@\" hinzu. Dieses Verhalten wird durch die macOS-Sandbox-Sicherheitsrichtlinien verursacht; derzeit gibt es keine perfekte Umgehung."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On macOS 26 and later, please grant access to the user directory (e.g. \"%1$@\") to ensure the app can access files properly. If access to the root directory (%2$@) or external devices (such as USB drives) is required, the corresponding permissions must also be granted; these permissions may need to be reauthorized after a system restart. On macOS 27, even if \"%3$@\" has already been authorized, accessing the Desktop directory (\"%4$@\") may still require separate authorization. Therefore, please add both \"%5$@\" and \"%6$@\". This behavior is caused by macOS sandbox security policies, and there is currently no perfect workaround."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sous macOS 26 et versions ultérieures, veuillez autoriser l’accès au répertoire de l’utilisateur (par ex. \"%1$@\") afin que l’app puisse accéder correctement aux fichiers. Si l’accès au répertoire racine (%2$@) ou à des périphériques externes (tels que des clés USB) est nécessaire, les autorisations correspondantes doivent également être accordées ; elles devront peut-être être réaccordées après un redémarrage du système. Sous macOS 27, même si \"%3$@\" a déjà été autorisé, l’accès au dossier Bureau (\"%4$@\") peut nécessiter une autorisation distincte. Veuillez donc ajouter à la fois \"%5$@\" et \"%6$@\". Ce comportement est dû aux règles de sécurité du sandbox de macOS et il n’existe actuellement aucune solution de contournement parfaite."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Su macOS 26 e versioni successive, concedi l’accesso alla directory dell’utente (ad es. \"%1$@\") affinché l’app possa accedere correttamente ai file. Se è necessario accedere alla directory principale (%2$@) o a dispositivi esterni (come unità USB), è necessario concedere anche le autorizzazioni corrispondenti; potrebbe essere necessario autorizzarle nuovamente dopo il riavvio del sistema. Su macOS 27, anche se \"%3$@\" è già stato autorizzato, l’accesso alla cartella Scrivania (\"%4$@\") potrebbe richiedere un’autorizzazione separata. Aggiungi quindi sia \"%5$@\" sia \"%6$@\". Questo comportamento è causato dalle policy di sicurezza sandbox di macOS e al momento non esiste una soluzione alternativa perfetta."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS 26以降では、アプリがファイルに正しくアクセスできるよう、ユーザディレクトリ（例: \"%1$@\"）へのアクセスを許可してください。ルートディレクトリ（%2$@）や外部デバイス（USBドライブなど）へのアクセスが必要な場合は、それぞれの権限も許可する必要があります。これらの権限はシステム再起動後に再度許可が必要になる場合があります。macOS 27では、「%3$@」がすでに許可されていても、デスクトップディレクトリ（\"%4$@\"）へのアクセスには別途許可が必要な場合があります。そのため、「%5$@」と「%6$@」の両方を追加してください。この動作はmacOSのサンドボックスセキュリティポリシーによるもので、現時点で完全な回避策はありません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS 26 이상에서는 앱이 파일에 정상적으로 접근할 수 있도록 사용자 디렉터리(예: \"%1$@\")에 대한 접근을 허용해 주세요. 루트 디렉터리(%2$@) 또는 외장 기기(예: USB 드라이브)에 접근해야 하는 경우 해당 권한도 허용해야 합니다. 시스템을 재시동한 후에는 이러한 권한을 다시 승인해야 할 수 있습니다. macOS 27에서는 \"%3$@\"을(를) 이미 승인했더라도 데스크탑 디렉터리(\"%4$@\")에 접근하려면 별도 승인이 필요할 수 있습니다. 따라서 \"%5$@\" 및 \"%6$@\"을(를) 모두 추가해 주세요. 이는 macOS 샌드박스 보안 정책에 따른 동작이며 현재 완벽한 해결 방법은 없습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "В macOS 26 и более поздних версиях предоставьте доступ к пользовательскому каталогу (например, \"%1$@\"), чтобы приложение могло корректно работать с файлами. Если необходим доступ к корневому каталогу (%2$@) или внешним устройствам (например, USB-накопителям), также предоставьте соответствующие разрешения; после перезапуска системы их может потребоваться выдать повторно. В macOS 27 доступ к папке «Рабочий стол» (\"%4$@\") может потребовать отдельного разрешения, даже если доступ к \"%3$@\" уже разрешён. Поэтому добавьте оба пути: \"%5$@\" и \"%6$@\". Такое поведение обусловлено политиками безопасности песочницы macOS; на данный момент идеального обходного решения нет."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 macOS 26 及更高版本中，请授予应用访问用户目录的权限（例如 \"%1$@\"），以确保应用能够正常访问文件。如果需要访问根目录（%2$@）或外部设备（例如 USB 驱动器），也必须授予相应权限；系统重新启动后可能需要重新授权。在 macOS 27 中，即使 \"%3$@\" 已获授权，访问桌面目录（\"%4$@\"）仍可能需要单独授权。因此，请同时添加 \"%5$@\" 和 \"%6$@\"。这是 macOS 沙盒安全策略导致的行为，目前没有完美的解决方法。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 macOS 26 及更新版本中，請授予應用程式存取使用者目錄的權限（例如 \"%1$@\"），以確保應用程式能正常存取檔案。如需存取根目錄（%2$@）或外接裝置（例如 USB 隨身碟），也必須授予相應權限；系統重新啟動後可能需要重新授權。在 macOS 27 中，即使 \"%3$@\" 已獲授權，存取桌面目錄（\"%4$@\"）仍可能需要另行授權。因此，請同時加入 \"%5$@\" 和 \"%6$@\"。這是 macOS 沙箱安全政策造成的行為，目前沒有完美的解決方法。"
           }
         }
       }
